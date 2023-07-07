@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 3283,
+  "num_followers": 3304,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm",
+  "snapshot_id": "MCwyYTcxMmI1ZjdhY2Y4M2U3ZDZlMzdiYzI1OWQwOTA0ODY4Mjg3ZDVi",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Boom Boom Boom Boom",
-        "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Amfree",
-          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
-        },
-        {
-          "name": "Ampris",
-          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "Boom Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Boom Boom Boom Boom",
+        "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Amfree",
+          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
+        },
+        {
+          "name": "Ampris",
+          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
+        }
+      ],
+      "duration_ms": 128524,
+      "name": "Boom Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

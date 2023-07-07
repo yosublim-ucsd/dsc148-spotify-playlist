@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Alok e Ava Max, Luan Pereira e Gustavo Mioto, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,669 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,873 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Pega e Se Cuida Bem](https://open.spotify.com/track/3vr8xF18gaIHQDzPVUGnfT) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at) | [Pega e Se Cuida Bem](https://open.spotify.com/album/2ZLMf6TRIDiVaYn6XS9CqV) | 2:16 |
 | 96 | [A Sorte](https://open.spotify.com/track/7mOXmp877CyqDwm5Hd3AMQ) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:09 |
 
-Snapshot ID: `MCw4MzhmM2ZkNDNkOWI0ZGRlYTdmMGFmM2M1YzcwZWQ2OTY1ZWVhMWYy`
+Snapshot ID: `MCwyN2YxZDk5YjMxYzM2ODAwYzc5OGYxMGQ2OGU2MjgyMWM3YjMxNTY5`

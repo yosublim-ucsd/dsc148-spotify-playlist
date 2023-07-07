@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 221323,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
@@ -558,6 +558,24 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
+    },
+    {
+      "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "album": {
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 188213,
       "name": "I Smile for E",
       "url": "https://open.spotify.com/track/2Wcv0p4gniHJ1rJvUae3B9"
@@ -2080,6 +2098,24 @@
       "duration_ms": 261066,
       "name": "Philip",
       "url": "https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1"
+    },
+    {
+      "album": {
+        "name": "PI\u00d1ATA",
+        "url": "https://open.spotify.com/album/1PL3VNtkZ1PJrWSpibyRx6"
+      },
+      "artists": [
+        {
+          "name": "GAIKA",
+          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "PI\u00d1ATA",
+      "url": "https://open.spotify.com/track/4ikBG94HHwxAjOKAJeKvbQ"
     },
     {
       "album": {

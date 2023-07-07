@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Minamo",
+        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Crystal Bubbles",
+      "url": "https://open.spotify.com/track/49UFU3cy1KV82LCsbLKFrm"
+    },
+    {
+      "album": {
         "name": "Stochastic",
         "url": "https://open.spotify.com/album/4eWFIeWwhu48jhtbVnAlKu"
       },
@@ -1647,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Lazy Day",
+        "url": "https://open.spotify.com/album/2tUw2L7aIETEh9UegbTLwS"
+      },
+      "artists": [
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Lazy Day",
+      "url": "https://open.spotify.com/track/5UKNlerIjVt1DKTFvVuCsv"
+    },
+    {
+      "album": {
         "name": "Resonant Bodies",
         "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
       },
@@ -2062,6 +2098,28 @@
       "duration_ms": 197288,
       "name": "Pacific Dreams",
       "url": "https://open.spotify.com/track/13wWc3pKPzBVmpX6YinHXe"
+    },
+    {
+      "album": {
+        "name": "Peace Within",
+        "url": "https://open.spotify.com/album/3ttFxsXk4whRs5LCHi9Vpo"
+      },
+      "artists": [
+        {
+          "name": "inertia.",
+          "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
+        },
+        {
+          "name": "Feel Better",
+          "url": "https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155690,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/2bEPZJ1J2pjgtVOoAOu6Iu"
     },
     {
       "album": {

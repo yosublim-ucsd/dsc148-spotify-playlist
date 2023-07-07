@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Aditya Bhardwaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,022 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,052 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kareeb](https://open.spotify.com/track/5Hijy2I5Z36spnjZrF0Fmj) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Kareeb](https://open.spotify.com/album/4ioLDnM01yyxVXEPLISmOw) | 3:34 |
+| 1 | [1990’s Kareeb](https://open.spotify.com/track/5Hijy2I5Z36spnjZrF0Fmj) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [1990’s Kareeb](https://open.spotify.com/album/4ioLDnM01yyxVXEPLISmOw) | 3:34 |
 | 2 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 |
 | 3 | [Thank You](https://open.spotify.com/track/5F41lXOja3WJvPzUNFp0hf) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Thank You](https://open.spotify.com/album/32A6wDX0akX7EBsnVjNBm2) | 2:42 |
 | 4 | [Kahaaniyaan](https://open.spotify.com/track/3BlCtzXDzZMORGaLwmFLdC) | [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI), [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Kahaaniyaan](https://open.spotify.com/album/5YsWtucp2MQgq8GWFnFbt0) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Raahiya](https://open.spotify.com/track/4kn6joNgish5zSFjNMh2eW) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Raahiya](https://open.spotify.com/album/5Q1m9WyfNWGfpSXpPCXTLU) | 3:37 |
 | 50 | [Khamakha](https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ) | [Madhubanti Bagchi](https://open.spotify.com/artist/0NKNtzhUO3OtwseGKr0O1b), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Khamakha](https://open.spotify.com/album/4zqR3MCe5cPyIbsIwf5yxp) | 2:49 |
 
-Snapshot ID: `MCwyMzFiMDlmZGI5YjllMmRjN2Y0ZTk3Y2I2ZGIxMzE3MmJhODU0YmM1`
+Snapshot ID: `MCxmNGMyMzdmM2E3Y2RkMTI5MjExYzQ1MzYyN2M4ZDBhMTU1ZDZjNTYw`

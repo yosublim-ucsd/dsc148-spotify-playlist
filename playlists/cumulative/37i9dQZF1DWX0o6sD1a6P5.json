@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Yemi Alade",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tayc",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 125137,
       "name": "A1 (Feeling Disorder)",
       "url": "https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -554,6 +554,24 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
+        "name": "Aujourd'hui c'est mort",
+        "url": "https://open.spotify.com/album/16bwLhm9iprY1C11ylFHKw"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Aujourd'hui c'est mort",
+      "url": "https://open.spotify.com/track/1WHynL4AWGJsYyv0oH5Ivq"
     },
     {
       "album": {
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 246101,
       "name": "Dendisa",
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 147174,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
@@ -3397,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Feeling Funny",
+        "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202045,
+      "name": "Feeling Funny",
+      "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
       },
@@ -3482,6 +3522,28 @@
       "duration_ms": 153720,
       "name": "Fleurs",
       "url": "https://open.spotify.com/track/5MfG4KmZ0Uj4HmjIMNIUTL"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/56hBQiMKWLzDd9rEWdACzh"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/1TfP0ZQzyiveYN9lzmGTCd"
     },
     {
       "album": {
@@ -3708,6 +3770,28 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "album": {
+        "name": "G\u00e9 la vision",
+        "url": "https://open.spotify.com/album/5CeUd30cuCdyO6ARDKbtnY"
+      },
+      "artists": [
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179747,
+      "name": "G\u00e9 la vision",
+      "url": "https://open.spotify.com/track/1o8G3nVt6Pu50M45XWXjG0"
     },
     {
       "album": {
@@ -4326,7 +4410,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 173253,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
@@ -4468,6 +4552,24 @@
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "album": {
+        "name": "L'officielle",
+        "url": "https://open.spotify.com/album/1jSy6lWxyXRXlWax8hrWQ3"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144352,
+      "name": "L'officielle",
+      "url": "https://open.spotify.com/track/7b6F4KZn3WKFPLtWrVoqpr"
     },
     {
       "album": {
@@ -4868,6 +4970,24 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "album": {
@@ -5305,6 +5425,32 @@
     },
     {
       "album": {
+        "name": "My Baby (feat. Ayra Starr) [Remix]",
+        "url": "https://open.spotify.com/album/7aWjCu9japCJ2x9Lci5ITj"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197382,
+      "name": "My Baby (feat. Ayra Starr) [Remix]",
+      "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
+    },
+    {
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -5600,7 +5746,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
@@ -6542,7 +6688,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -7102,7 +7248,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
@@ -7318,6 +7464,24 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "album": {
+        "name": "Spaceman",
+        "url": "https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203198,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF"
     },
     {
       "album": {
@@ -8319,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "Viens b\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6HOV3HPssgnbD8Ran4DTr1"
+      },
+      "artists": [
+        {
+          "name": "Dy La Mano",
+          "url": "https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Viens b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2"
       },
@@ -8516,7 +8698,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 208968,
       "name": "What Have You Done?",
       "url": "https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm"

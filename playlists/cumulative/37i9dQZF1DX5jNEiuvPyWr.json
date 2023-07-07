@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 205920,
       "name": "All\u00f4 maman (feat. Mademoiselle Lou)",
       "url": "https://open.spotify.com/track/0JumUo8ZtYduLrYDQnndx1"
@@ -456,6 +456,24 @@
       "duration_ms": 201973,
       "name": "Avant la fin (feat. Zamdane)",
       "url": "https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js"
+    },
+    {
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "AVANT TOI",
+      "url": "https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS"
     },
     {
       "album": {
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 206706,
       "name": "COOOOL",
       "url": "https://open.spotify.com/track/4nhqACNPqh3MA6kwZO3BEK"
@@ -1108,6 +1126,28 @@
       "duration_ms": 186666,
       "name": "D'une vie \u00e0 l'autre",
       "url": "https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB"
+    },
+    {
+      "album": {
+        "name": "Dans le sang",
+        "url": "https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU"
+      },
+      "artists": [
+        {
+          "name": "CHATNOIR",
+          "url": "https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV"
+        },
+        {
+          "name": "Beeby",
+          "url": "https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Dans le sang",
+      "url": "https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv"
     },
     {
       "album": {
@@ -4402,7 +4442,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 147692,
       "name": "UN PEU PLUS SIMPLE",
       "url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
@@ -4460,6 +4500,24 @@
       "duration_ms": 194181,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "album": {
+        "name": "Zinedine",
+        "url": "https://open.spotify.com/album/5dAPzYftmZyPQky48culZh"
+      },
+      "artists": [
+        {
+          "name": "Mougli",
+          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Zinedine",
+      "url": "https://open.spotify.com/track/1PNnjN1GAk2glYmRo4BaEi"
     },
     {
       "album": {

@@ -1044,10 +1044,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 377000,
       "name": "Natural Selection",
       "url": "https://open.spotify.com/track/0Aj6SM8mDdTtwXE5u9ulnL"
+    },
+    {
+      "album": {
+        "name": "Great Lengths",
+        "url": "https://open.spotify.com/album/4sj1nhoRLpFvzVjplkkazN"
+      },
+      "artists": [
+        {
+          "name": "Martyn",
+          "url": "https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "Natural Selection",
+      "url": "https://open.spotify.com/track/46hWvmaTHIULGXPdDELIur"
     },
     {
       "album": {

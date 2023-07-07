@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "Baby Darling Doll Face Honey",
+        "url": "https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/06oCBGPFJEDftgKnGSzKuE"
+    },
+    {
+      "album": {
+        "name": "Baby Darling Doll Face Honey",
         "url": "https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN"
       },
       "artists": [
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 254493,
       "name": "Blood",
       "url": "https://open.spotify.com/track/4p1CSp2gJYS3FyqsoZhI21"

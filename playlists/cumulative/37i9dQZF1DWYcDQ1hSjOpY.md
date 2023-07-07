@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-427 songs - 21 hr 13 min
+428 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Light Being](https://open.spotify.com/track/6VoHNgFuX8ElVxU2gjU8Yr) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Surrender to the Light](https://open.spotify.com/album/1S7LKwsCiD0CXgtZmM6XvV) | 2:56 | 2021-11-10 | 2022-03-25 |
 | [Lighthouses \- Ambient Version](https://open.spotify.com/track/4VTYAMP7kQ7YjmGpGtuJBo) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses \(Ambient Version\)](https://open.spotify.com/album/0NqQJpCsJuYJUeRGVncvin) | 3:03 | 2021-11-10 |  |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2021-11-10 |  |
-| [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-11-10 |  |
+| [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-11-10 | 2023-07-07 |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2021-11-10 | 2023-05-20 |
 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 | 2021-11-10 | 2023-03-18 |
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2021-11-10 | 2023-05-06 |
@@ -337,6 +337,7 @@
 | [Schmetterling in der Nacht](https://open.spotify.com/track/0KfBm3qkSebxsHoBDCdGXq) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Schmetterling in der Nacht](https://open.spotify.com/album/36gOZPMfuuJ61RmqGz7Hl2) | 2:53 | 2022-10-14 |  |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2021-11-10 | 2023-03-18 |
 | [Sea Of Dreams](https://open.spotify.com/track/2hOlHb55DMd733BdvOW1ul) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Sea Of Dreams](https://open.spotify.com/album/462fAHkn3aVP0CjFkKYzAa) | 2:57 | 2022-11-11 |  |
+| [Secluded Silence](https://open.spotify.com/track/7gW4wwzkNAYdmzRxICUIFM) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Secluded Silence](https://open.spotify.com/album/3kvU85FsotP9SIHx2RyDCQ) | 3:03 | 2023-07-06 |  |
 | [Sedate Dawn](https://open.spotify.com/track/17dxXweuShPwv4eXAqJMXz) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sedate Dawn](https://open.spotify.com/album/2HOn2N8GuvE9fDWnn7sgG7) | 2:45 | 2021-11-10 |  |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-03-04 | 2022-10-01 |
 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-11-10 | 2023-07-01 |

@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-80 songs - 3 hr 35 min
+83 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Entre tus manos](https://open.spotify.com/track/66dhGa0VKUZwBQQ0vkIItG) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:44 | 2023-03-13 |  |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-03-13 |  |
 | [Filtered Light \(Rain\)](https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 3:02 | 2023-03-13 |  |
+| [Forever](https://open.spotify.com/track/4SgbKHpKU7lTvYxO6sWIrx) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Forever](https://open.spotify.com/album/3C8QFAmtEJsjJOA3CaVClA) | 2:22 | 2023-07-06 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-13 |  |
 | [From beginning](https://open.spotify.com/track/3UoZfZtWIrpnRtmWvcHUeH) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [From beginning](https://open.spotify.com/album/39cthq8AcvMYXcrjV4S8QO) | 2:34 | 2023-03-13 |  |
 | [Good Morning World](https://open.spotify.com/track/3ShkZ3fmEFRrroSzVdpEta) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Good Morning World](https://open.spotify.com/album/5e3dQZEGHwwoZJ4gmaVBiU) | 2:16 | 2023-03-13 |  |
@@ -44,6 +45,7 @@
 | [Mitternacht \(Rain\)](https://open.spotify.com/track/2iRGKPnnIdjAet42QjwXdN) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 2:50 | 2023-03-13 |  |
 | [Moon Rain](https://open.spotify.com/track/2XkvwfoxdVZXZWsHuiP77C) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Baby Lullaby Piano Rain Sounds](https://open.spotify.com/album/1Kdxf8bKGcVsXX8LhlxL2f) | 2:47 | 2023-03-13 |  |
 | [Morning Drizzle](https://open.spotify.com/track/0jB9Ia6Rpi4XzPwdlwGuVO) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Morning Drizzle](https://open.spotify.com/album/4XV8y6sM5adZI5gSVmHZ0c) | 2:17 | 2023-03-13 |  |
+| [Never Ending Journey](https://open.spotify.com/track/49LERThcm44M1relgtu0qN) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [Deepest Forest](https://open.spotify.com/album/75qZcZxWnplR6i29usmnke) | 3:09 | 2023-07-06 |  |
 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 | 2023-03-13 |  |
 | [Nice & Cosy](https://open.spotify.com/track/5CzWP6W28noCwI1dT63QTL) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Piano & Rain](https://open.spotify.com/album/1E0c1Av9dZpro9yxfSf8Ha) | 2:37 | 2023-03-13 |  |
 | [Night and Day](https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Night and Day](https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet) | 2:38 | 2023-03-13 |  |
@@ -85,6 +87,7 @@
 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 | 2023-03-13 |  |
 | [Together in Now](https://open.spotify.com/track/5wGYS3BP9H8hi2ZcTFc7F2) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:22 | 2023-03-13 |  |
 | [Turquoise rain](https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Turquoise rain](https://open.spotify.com/album/7IFBS8UoAIbNmaAftKkCXY) | 2:05 | 2023-03-13 |  |
+| [Under The Oak](https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Under The Oak](https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ) | 3:09 | 2023-07-06 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 |  |
 | [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/1rXR5cwxxippMLTtaeAa6y) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
 | [You're My Favorite Song](https://open.spotify.com/track/1VivWZ7QS8igflqDXZHlCF) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:36 | 2023-03-13 |  |

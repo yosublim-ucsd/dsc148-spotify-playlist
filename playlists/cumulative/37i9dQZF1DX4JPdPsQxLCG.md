@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-332 songs - 21 hr 56 min
+333 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 | 2022-05-02 | 2023-05-19 |
 | [Silver](https://open.spotify.com/track/4VFHfPzSlpvTrLkGYwl921) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 4:15 | 2022-05-02 | 2022-07-08 |
 | [Sinking Like A Sunset](https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5PMU9v49i3qHuJEb9RVSmU) | 5:46 | 2022-05-02 | 2022-07-29 |
-| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-28 |  |
+| [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 | 2023-06-28 |  |
+| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-28 | 2023-07-07 |
 | [Sleeping Sickness](https://open.spotify.com/track/4psyBFNYRPKIfLbo6ecStY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/0zS5ngmIaTbvNL1PnM0D9f) | 4:07 | 2022-05-02 | 2022-07-28 |
 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 | 2022-05-02 | 2023-03-10 |
 | [Sleeping Sickness](https://open.spotify.com/track/5y2H3YMH4BcIVMYaqr7NPB) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love](https://open.spotify.com/album/2GQBFqddL3YTmdNmt8Su0r) | 4:08 | 2022-09-13 |  |

@@ -4426,7 +4426,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 182073,
       "name": "Faultless",
       "url": "https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro"
@@ -10882,6 +10882,24 @@
       "duration_ms": 191268,
       "name": "Spatsmanium",
       "url": "https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47"
+    },
+    {
+      "album": {
+        "name": "Spectral Vibrations",
+        "url": "https://open.spotify.com/album/1HUU66yCQafwrpIxzyDsrF"
+      },
+      "artists": [
+        {
+          "name": "Paulo May",
+          "url": "https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Spectral Vibrations",
+      "url": "https://open.spotify.com/track/364Yxnly3Q1XvxWZRwFtS1"
     },
     {
       "album": {

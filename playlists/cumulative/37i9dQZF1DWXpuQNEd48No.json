@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Chill Kre Fun Kre",
+        "url": "https://open.spotify.com/album/4nNfkmli4p07UEY8uyObGD"
+      },
+      "artists": [
+        {
+          "name": "NJ Nindaniya",
+          "url": "https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V"
+        },
+        {
+          "name": "Kabira",
+          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "Chill Kre Fun Kre",
+      "url": "https://open.spotify.com/track/27zl47Ing9ilnjgsHFpeMl"
+    },
+    {
+      "album": {
         "name": "DAD",
         "url": "https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C"
       },
@@ -918,7 +940,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 178285,
       "name": "Kurta Pajama",
       "url": "https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7"
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 182571,
       "name": "Pinball - Mafioso Chapter 1",
       "url": "https://open.spotify.com/track/05JB6RkfwfQcS9zUqCJ28V"
@@ -1220,6 +1242,24 @@
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
+        "name": "Ragini Ride",
+        "url": "https://open.spotify.com/album/0kXsNgt3qPWIrVP1FSUkEP"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193354,
+      "name": "Ragini Ride",
+      "url": "https://open.spotify.com/track/1nS24s2gahbYc4nHLQBT9L"
     },
     {
       "album": {
@@ -1516,10 +1556,32 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 183829,
       "name": "Suthri",
       "url": "https://open.spotify.com/track/4hYZiKtjHE8jpKZntYQqiW"
+    },
+    {
+      "album": {
+        "name": "System (Ab Machega Huddang)",
+        "url": "https://open.spotify.com/album/3LQVfvyKAMWATj7lzrFra8"
+      },
+      "artists": [
+        {
+          "name": "Vasu",
+          "url": "https://open.spotify.com/artist/5eDFPvpsw9skn22GKh2waM"
+        },
+        {
+          "name": "IshuBoy Avtaar",
+          "url": "https://open.spotify.com/artist/1S8WjJ9tdicG4emx6OH8bE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157229,
+      "name": "System (Ab Machega Huddang)",
+      "url": "https://open.spotify.com/track/3iAuW1BXHj7fdj9wIBp6BL"
     },
     {
       "album": {

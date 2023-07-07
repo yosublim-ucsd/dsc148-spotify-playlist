@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Ehla
 
-898 songs - 1 day 22 hr 42 min
+905 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-31 | 2023-03-01 |
 | [En vrai](https://open.spotify.com/track/7xSSggcH3eyq3drcXLm7IL) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [En vrai](https://open.spotify.com/album/4YMqcQqGuONqWkXpNahXLe) | 2:51 | 2022-05-03 | 2022-06-01 |
 | [encore](https://open.spotify.com/track/0hbU8gZC85JnC7LlVEzMbg) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [ENCORE](https://open.spotify.com/album/3FKYpw72TUGootHh0BRFmV) | 3:30 | 2022-06-01 | 2022-07-06 |
+| [encore + triste](https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Chansons \(+\) tristes](https://open.spotify.com/album/1lGhHAusdvuwsG81xS7khE) | 2:55 | 2023-07-04 |  |
 | [Enfance](https://open.spotify.com/track/3QiNOLtzRgINEsLTpedOkn) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Enfance](https://open.spotify.com/album/5ZydMePJXzIjFIpnXKVnj5) | 3:12 | 2022-03-07 | 2023-01-04 |
 | [Enivre\-Toi](https://open.spotify.com/track/09YuxzYQ3H1mgYORxsUPcZ) | [Sheli\-Rose](https://open.spotify.com/artist/4fSnFfDmsZhnsH1ec8bmEF) | [Enivre\-Toi](https://open.spotify.com/album/5ZyBZ2VLqEIxJ7YHqRtcRV) | 2:33 | 2022-10-04 | 2022-11-09 |
 | [Ensemble](https://open.spotify.com/track/5rNCGV7cpavCyOb2z5ZPCM) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [La vie moderne](https://open.spotify.com/album/0X3Pm62o5AcaGuxoAtV0tJ) | 3:06 | 2023-01-31 | 2023-03-01 |
@@ -437,6 +438,7 @@
 | [Le Lac](https://open.spotify.com/track/5NPFe3DyuXa2BHQkqJ3tXj) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/7xr77ACg7LvPSKQAzbVEQ6) | 3:09 | 2022-11-30 | 2023-01-04 |
 | [le moment présent](https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [le moment présent](https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4) | 2:49 | 2022-02-01 | 2022-03-08 |
 | [Le pouvoir de la fiction](https://open.spotify.com/track/6x4irM2szQwYoWtybJCnW9) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Le pouvoir de la fiction](https://open.spotify.com/album/6GC2dnUzWME9nGWTElpIQh) | 2:36 | 2022-10-04 | 2022-11-09 |
+| [Le Soleil](https://open.spotify.com/track/1s6PKDr68hJ4sFIDy2AdB5) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Le Soleil](https://open.spotify.com/album/5NOPgdwzOpqyt2gdQVBGc2) | 2:48 | 2023-07-04 |  |
 | [Le spectacle](https://open.spotify.com/track/7bkJ8kLIuBcFQbToWAu0CH) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Le spectacle](https://open.spotify.com/album/59uHgyL6ulWS85xZ8tsS9L) | 3:08 | 2023-02-28 | 2023-04-05 |
 | [Le temps au temps](https://open.spotify.com/track/02O2SLRlUGY2KdY6xmOYfs) | [Maëva](https://open.spotify.com/artist/0ey4BGstpRmD8BBqdYJ5jT) | [Prélude](https://open.spotify.com/album/3YEsc0LRdQXLqZP27O0XXN) | 2:15 | 2022-02-01 | 2022-03-08 |
 | [Le temps d'un été](https://open.spotify.com/track/5iJpIhmPosIChRfGyziWt1) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [EGREGORE](https://open.spotify.com/album/1dH56AsyhoFITRAV8E9zkq) | 3:43 | 2023-02-28 | 2023-04-05 |
@@ -509,6 +511,7 @@
 | [Maladroite](https://open.spotify.com/track/10ZFy3BaH8YNalucqf9Hgg) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Maladroite](https://open.spotify.com/album/0yGyHMBm1dcR2QBiRHwIoj) | 3:12 | 2022-10-04 | 2022-11-09 |
 | [MALHONNÊTE](https://open.spotify.com/track/2xRT0pRIPOli38LO1lGTVI) | [Sally](https://open.spotify.com/artist/2rX5le9Bn1XdQwPsXA8aPP) | [PRISONNIÈRE](https://open.spotify.com/album/0buMW6IjmnMt1eNpNJAKqQ) | 2:56 | 2022-04-07 | 2022-05-04 |
 | [Malin](https://open.spotify.com/track/6peDnVUHhP7TbQQnIrMMUn) | [Agathe](https://open.spotify.com/artist/3bD7zFIrQAzLtqlFMSjfjH) | [Malin](https://open.spotify.com/album/6S9fMh8EuyJswjtbzz1qKE) | 2:19 | 2022-11-08 | 2022-12-01 |
+| [Mambo](https://open.spotify.com/track/688UcbzWIoWIcygEAlPPbG) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Mambo](https://open.spotify.com/album/0wtiGUKDTNcbC19mU9nL9c) | 2:55 | 2023-07-04 |  |
 | [Manico](https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Manico](https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv) | 2:36 | 2023-05-02 | 2023-06-07 |
 | [Maquiller](https://open.spotify.com/track/0kSlKM6oCLbpmpHXf3JCAT) | [Sola](https://open.spotify.com/artist/0UTolPLHS3Il6Pz2DrnXVV) | [Maquiller](https://open.spotify.com/album/0Ii2tDoeGbMmzSnbBF9yv0) | 2:33 | 2022-05-03 | 2022-06-01 |
 | [Margharita](https://open.spotify.com/track/3ErRMkVn5iKbB5Y5srrN3r) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Margharita](https://open.spotify.com/album/5nMiTVJi7e0NmtPhgQPyaa) | 3:00 | 2022-11-08 | 2022-12-01 |
@@ -633,8 +636,10 @@
 | [Pas sans toi \- \#UnZoukAvecVous](https://open.spotify.com/track/7gXQpl662hsWEiJQjWJqPF) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Pas sans toi \(\#UnZoukAvecVous\)](https://open.spotify.com/album/3D6XfeDD1DtnjMj2gSg59s) | 3:03 | 2022-09-06 | 2022-10-05 |
 | [Pas vu pas pris](https://open.spotify.com/track/3QwzJmYiEWQV2kwQU8r9bo) | [Sophie Tapie](https://open.spotify.com/artist/4l7xxKksMSxsKFSVcs5mPg) | [Pas vu pas pris](https://open.spotify.com/album/3uDaYM21i4swV97AYNMQ5n) | 2:58 | 2022-03-07 | 2022-04-06 |
 | [Pay the Rent](https://open.spotify.com/track/4ZmU90qeI1vRuUoGAcmfu4) | [La Battue](https://open.spotify.com/artist/1beQgGMe1g3tnaTa2lwMnL) | [In the Attic](https://open.spotify.com/album/5lOUNMITlbR9GzOqWiMLOM) | 2:55 | 2022-05-03 | 2022-06-01 |
+| [Paysage](https://open.spotify.com/track/3PceNSoi3JmMp4jSTaXUfw) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Paysage](https://open.spotify.com/album/0bEZiXxCrQCLDm91FZBqil) | 2:40 | 2023-07-04 |  |
 | [PCS](https://open.spotify.com/track/3IKfH3GeCRiSoj4kDpkkdG) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [PCS](https://open.spotify.com/album/3f8OW0pdsYzi5GCAXM5YAx) | 2:25 | 2022-08-02 | 2022-09-07 |
 | [Peau d'âme](https://open.spotify.com/track/1SOOWBsyg8Mp81z1bgyvig) | [Marie Bastide](https://open.spotify.com/artist/3uAp4lUqHcXpIZ7tUyP4KR) | [Peau d'âme](https://open.spotify.com/album/41EfSY6ZsjkwAkvqetOfmN) | 3:48 | 2023-04-04 | 2023-05-03 |
+| [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-04 |  |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2022-01-05 | 2022-02-02 |
 | [Petit coeur](https://open.spotify.com/track/4sGeS7Rwf30IaoIuDnhc5U) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Train de vie](https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez) | 3:08 | 2023-02-28 | 2023-04-05 |
 | [Petite nana part\. 1 \- Conversation](https://open.spotify.com/track/68Sk1g1Wd3O234VmowprEK) | [AMALIA](https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ) | [Petite nana part\. 1 \(Conversation\)](https://open.spotify.com/album/1RMXaRE19M3p81wEKVL2ab) | 3:21 | 2022-01-05 | 2022-02-02 |
@@ -798,6 +803,7 @@
 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 | 2022-05-03 | 2022-06-01 |
 | [Tant de choses](https://open.spotify.com/track/58PG8YFWmFMwo94pgwCbpo) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tant de choses](https://open.spotify.com/album/0V6ZJDCb8ElTwBTwrrGFbP) | 2:59 | 2022-07-05 | 2022-08-03 |
 | [Tant que tu me tiens](https://open.spotify.com/track/3gI7ilOBQvN4jvN7gpLr0D) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/51K9i8FXf6WkGZG1hNhxNO) | 3:02 | 2022-11-08 | 2022-12-01 |
+| [Tatiana](https://open.spotify.com/track/3nyyodJO8A9kqEbssWdJvX) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tatiana](https://open.spotify.com/album/4Vx7h6MaCrPBfx35xjuFBn) | 3:25 | 2023-07-04 |  |
 | [TCA](https://open.spotify.com/track/4yEkxp1EfjN8srcTPqeIjc) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Métastases](https://open.spotify.com/album/4JJurlAtMh6nFIhDHWLBaX) | 2:43 | 2023-01-31 | 2023-03-01 |
 | [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 | 2022-05-31 | 2022-07-06 |
 | [Tempo](https://open.spotify.com/track/5q8L8ALraz7i0JO7zwFhtr) | [Koline](https://open.spotify.com/artist/5rD5SSVbX4lbhwGd2tfqkD) | [Tempo](https://open.spotify.com/album/26VxaGbWvByid1TAMNL5tQ) | 2:52 | 2022-05-31 | 2022-07-06 |
@@ -883,6 +889,7 @@
 | [Way Out](https://open.spotify.com/track/512BfP43SrXqz4lQ6GzuIu) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Way Out](https://open.spotify.com/album/63CM544lHUvy2DGxEe0BaC) | 3:25 | 2022-05-03 | 2022-06-01 |
 | [Ways of Dreaming](https://open.spotify.com/track/1jkD185V875tmtftU4iIGu) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/7gXGdzmzPopXfwRwrOP2iQ) | 3:28 | 2022-05-03 | 2022-06-01 |
 | [Ways of Dreaming](https://open.spotify.com/track/5aBFJgqj8Fvqw0rXVsa6Cw) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/50zkmOO85zNlNgHYomkQkc) | 3:28 | 2022-11-30 | 2023-01-04 |
+| [What Do You Look Like?](https://open.spotify.com/track/3cDGc6ybFNgH9tEfxAiFZH) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN) | [Cosmo Safari: Missing Pieces](https://open.spotify.com/album/5X4nUxnwM4rgQMY79a5YdG) | 4:38 | 2023-07-04 |  |
 | [WHERE I'M GOING](https://open.spotify.com/track/573B9CVK8NwRyO23XRrHln) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:17 | 2022-04-08 | 2022-05-04 |
 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-05-03 | 2022-06-01 |
 | [Where Would You Be Now?](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 | 2022-02-01 | 2022-03-08 |

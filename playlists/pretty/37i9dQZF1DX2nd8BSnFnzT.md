@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supla, Os Punks de Boutique
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,043 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,046 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Grão](https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Aponte para o Amor](https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ) | 3:15 |
 | 75 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 
-Snapshot ID: `MCxlZmRkMTQwZmY4M2MyZTQwMmRkNmQ0M2NiMWU0ZWVhMGJhOTc2OWU1`
+Snapshot ID: `MCw5NDJjM2Q4NTllYWY2YTg5NTA1MTE2OWQzZDNlZWJmNzFlZjA1NDky`

@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Long Hair Don't Care",
+        "url": "https://open.spotify.com/album/5h9XlZ2eBZa7SYsoibveR6"
+      },
+      "artists": [
+        {
+          "name": "Subtropical",
+          "url": "https://open.spotify.com/artist/6eM13eouQQB0qm3jgLdeAs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95845,
+      "name": "Long Hair Don't Care",
+      "url": "https://open.spotify.com/track/56kxYC9x6nvaCK731pgVpo"
+    },
+    {
+      "album": {
         "name": "Loots",
         "url": "https://open.spotify.com/album/0RCDLXoP6dNmJ9EWdHzZ8l"
       },

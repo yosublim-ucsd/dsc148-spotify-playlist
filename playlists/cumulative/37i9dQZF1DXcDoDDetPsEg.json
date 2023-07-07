@@ -581,6 +581,32 @@
     },
     {
       "album": {
+        "name": "Amp It Up",
+        "url": "https://open.spotify.com/album/14eQSyXK3ldf3P2ovyOT1M"
+      },
+      "artists": [
+        {
+          "name": "Cadenza",
+          "url": "https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143816,
+      "name": "Amp It Up",
+      "url": "https://open.spotify.com/track/7t39GSotkidFbLQuhsdx9W"
+    },
+    {
+      "album": {
         "name": "Amplify",
         "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
       },
@@ -712,7 +738,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 193333,
       "name": "back to the moon",
       "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
@@ -1156,7 +1182,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 135616,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB"
@@ -1232,7 +1258,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 160821,
       "name": "Big Mistake",
       "url": "https://open.spotify.com/track/4RSfajckblCGSpPWsmq4W3"
@@ -1618,7 +1644,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 226360,
       "name": "bread & butter",
       "url": "https://open.spotify.com/track/6GoVUO5vla1JtUj2rq9Yl4"
@@ -4211,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "album": {
         "name": "FULLY LOADED (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6"
       },
@@ -6056,7 +6100,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -7431,6 +7475,28 @@
     },
     {
       "album": {
+        "name": "Money Moves (feat. M1llionz)",
+        "url": "https://open.spotify.com/album/1nMTHx2OuRtlmJuXHliBeh"
+      },
+      "artists": [
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Money Moves (feat. M1llionz)",
+      "url": "https://open.spotify.com/track/489YFKTcNzCRp3Q1RVjlAV"
+    },
+    {
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe"
       },
@@ -7460,7 +7526,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 146017,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM"
@@ -8277,6 +8343,24 @@
     },
     {
       "album": {
+        "name": "One Man",
+        "url": "https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "One Man",
+      "url": "https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68"
+    },
+    {
+      "album": {
         "name": "One Of A Kind",
         "url": "https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ"
       },
@@ -8336,6 +8420,24 @@
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/1GwdzkT2RqG2Gt9J7gPhd1"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136480,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/3WPGHDCDGohWrIjYJ2RqDQ"
     },
     {
       "album": {
@@ -8985,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz"
+    },
+    {
+      "album": {
         "name": "Prague",
         "url": "https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC"
       },
@@ -9182,6 +9302,28 @@
       "duration_ms": 162240,
       "name": "Pro-Gress",
       "url": "https://open.spotify.com/track/6g5E8VazNfqhRrxzZK2r9n"
+    },
+    {
+      "album": {
+        "name": "Project Walls (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151142,
+      "name": "Project Walls (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
     },
     {
       "album": {
@@ -9401,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
         "name": "Close To Home",
         "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
       },
@@ -9562,6 +9722,24 @@
       "duration_ms": 175096,
       "name": "Retail Therapy",
       "url": "https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2"
+    },
+    {
+      "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/6xEyptUPu6O4XF1RcxBVSB"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/63dHAaPXAVXnRS9f1wzKbj"
     },
     {
       "album": {
@@ -9850,7 +10028,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168013,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
@@ -10304,7 +10482,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175068,
       "name": "Single Player",
       "url": "https://open.spotify.com/track/3eKIv8Unt9jWpDYgVbVYIx"
@@ -10384,6 +10562,24 @@
       "duration_ms": 166274,
       "name": "Sleeve",
       "url": "https://open.spotify.com/track/685gE9orA23wWXFFFlkPu9"
+    },
+    {
+      "album": {
+        "name": "Smoke by the Ocean",
+        "url": "https://open.spotify.com/album/6mTkJ05Ki1bX9C3grNECWo"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163910,
+      "name": "Smoke by the Ocean",
+      "url": "https://open.spotify.com/track/3ofPPYsUS3T7sBWeVt9LXH"
     },
     {
       "album": {
@@ -10821,6 +11017,28 @@
     },
     {
       "album": {
+        "name": "3 of Us",
+        "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154392,
+      "name": "Suite Life (Familiar) - Bonus Track",
+      "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
+    },
+    {
+      "album": {
         "name": "Summer Too Hot",
         "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
       },
@@ -10992,7 +11210,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 142000,
       "name": "Talk Truth",
       "url": "https://open.spotify.com/track/2CrlQkUnyKFkY3SrsybnDS"
@@ -11036,6 +11254,24 @@
       "duration_ms": 181118,
       "name": "Tears In My Amiri's",
       "url": "https://open.spotify.com/track/11jbH68hBKmLTTsGP0YvWG"
+    },
+    {
+      "album": {
+        "name": "Vibes Don't Lie",
+        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Tek Buddy",
+      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
       "album": {
@@ -12204,7 +12440,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"

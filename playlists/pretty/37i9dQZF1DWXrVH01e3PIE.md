@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > ECKO en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,316 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,451 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 51 | [PUFF](https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PUFF](https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69) | 2:20 |
 | 52 | [OPA](https://open.spotify.com/track/2Z4FBa6hAEh7VTHYCqXy7P) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:49 |
 | 53 | [Poka Luz](https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Poka Luz](https://open.spotify.com/album/1M7xS9mJ9jOxFKCWKqvMhy) | 1:46 |
-| 54 | [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 |
+| 54 | [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 |
 | 55 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
 | 56 | [ORO Y PLATINO](https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ORO Y PLATINO](https://open.spotify.com/album/0xhqz1zfuhkPcA2XkPjWfh) | 2:48 |
 | 57 | [Tengo 30 \(feat\. Duki, Cazzu, Neo Pistea & Tali Goya\)](https://open.spotify.com/track/3R1yxKhYKoXqaztyQflEH8) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq) | [Tengo 30 \(feat\. Duki, Cazzu, Neo Pistea & Tali Goya\)](https://open.spotify.com/album/6Hsqm8wweD2x2ujidmb2mh) | 4:29 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 61 | [Impala](https://open.spotify.com/track/3TYAP8JTrp84JQuk6Z5Gkm) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Impala](https://open.spotify.com/album/7CYDzdTlTA0FV1KkJsR7ca) | 2:29 |
 | 62 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
 | 63 | [DUDADE](https://open.spotify.com/track/1K6Zq0N56asviW5jdUehg0) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DUDADE](https://open.spotify.com/album/4iAnukID7GT1dclIsrnyxx) | 2:03 |
-| 64 | [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 |
+| 64 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 |
 | 65 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 |
 | 66 | [Gran Turismo](https://open.spotify.com/track/0Lln3dJk5bcRKaXLWJ5V7O) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [Gran Turismo](https://open.spotify.com/album/2jjHYr5DAaYVUdAC3hnI4Y) | 1:52 |
 | 67 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 |
 | 100 | [Infinito al Doble](https://open.spotify.com/track/0GnAvYHtwWi1x2BosdNDf5) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Infinito al Doble](https://open.spotify.com/album/1wVslOIwbHczIgpjluf6FP) | 2:56 |
 
-Snapshot ID: `MCxiYTI4NjA1MGFkNzY2MDFhOTY0ZjYyNGY4MjFmYzdmM2JlNjE1Mjky`
+Snapshot ID: `MCw0M2FhNzJkYWJlMmY0ZDVhNzM3ZmI3ZTZhYzQ3Y2VkMTY5NTc1MWI5`

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-543 songs - 1 day 10 hr 32 min
+544 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2020-10-20\* | 2021-07-09 |
 | [Buenos Aires Bound](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [Buenos Aires Bound](https://open.spotify.com/album/3wvvETVls0zK62Op0KeWID) | 4:20 | 2023-01-13 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2021-11-10 |  |
+| [By the Bungalow](https://open.spotify.com/track/22c5aHwrXkmBTnCbkkinkL) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [By the Bungalow](https://open.spotify.com/album/1BqYiUGzPivVNkPJ3bqgsN) | 2:45 | 2023-07-06 |  |
 | [Caelitum](https://open.spotify.com/track/2xmAadSMKANmzwXLytaqhd) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 4:51 | 2020-12-24 | 2021-03-06 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2020-10-20\* | 2021-06-23 |
 | [Can't see me](https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC) | [Uncle Jay](https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj) | [Can't see me](https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6) | 3:55 | 2020-10-20\* | 2021-03-25 |

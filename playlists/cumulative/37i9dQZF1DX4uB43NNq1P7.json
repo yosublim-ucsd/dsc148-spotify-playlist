@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3C8QFAmtEJsjJOA3CaVClA"
+      },
+      "artists": [
+        {
+          "name": "Massimo Corciani",
+          "url": "https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142967,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4SgbKHpKU7lTvYxO6sWIrx"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -650,6 +668,24 @@
       "duration_ms": 137571,
       "name": "Morning Drizzle",
       "url": "https://open.spotify.com/track/0jB9Ia6Rpi4XzPwdlwGuVO"
+    },
+    {
+      "album": {
+        "name": "Deepest Forest",
+        "url": "https://open.spotify.com/album/75qZcZxWnplR6i29usmnke"
+      },
+      "artists": [
+        {
+          "name": "Veronica Howland",
+          "url": "https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Never Ending Journey",
+      "url": "https://open.spotify.com/track/49LERThcm44M1relgtu0qN"
     },
     {
       "album": {
@@ -1388,6 +1424,24 @@
       "duration_ms": 125500,
       "name": "Turquoise rain",
       "url": "https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6"
+    },
+    {
+      "album": {
+        "name": "Under The Oak",
+        "url": "https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ"
+      },
+      "artists": [
+        {
+          "name": "Emil Bod\u00e9n",
+          "url": "https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Under The Oak",
+      "url": "https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb"
     },
     {
       "album": {

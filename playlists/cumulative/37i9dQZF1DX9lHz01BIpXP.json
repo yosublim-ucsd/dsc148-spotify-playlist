@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175757,
       "name": "Ballas",
       "url": "https://open.spotify.com/track/3IyaxPUYp2pPOCp5vfto5W"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Innie Boland",
       "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
@@ -902,6 +902,28 @@
       "duration_ms": 239989,
       "name": "Koue Bier",
       "url": "https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c"
+    },
+    {
+      "album": {
+        "name": "Letterkundig (7785 oordrom remix)",
+        "url": "https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1"
+      },
+      "artists": [
+        {
+          "name": "DJ Azuhl",
+          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
+        },
+        {
+          "name": "Niko10long",
+          "url": "https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243353,
+      "name": "Letterkundig - 7785 oordrom remix",
+      "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
     },
     {
       "album": {
@@ -1124,7 +1146,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 167294,
       "name": "My Ways",
       "url": "https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB"

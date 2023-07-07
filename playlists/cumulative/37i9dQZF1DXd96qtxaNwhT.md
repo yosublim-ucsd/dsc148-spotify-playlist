@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-496 songs - 1 day 3 hr 46 min
+497 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Fools](https://open.spotify.com/track/483L8PI80pZoUSlF8GgdkD) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Fools](https://open.spotify.com/album/7da2XojsKMIKSRCom0mAg7) | 3:44 | 2019-08-02 | 2019-09-13 |
 | [For a Reason](https://open.spotify.com/track/6FDBhWk8xddZfVdbO9q8S2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [For a Reason](https://open.spotify.com/album/2UG0IazlHRzHGtaEMN5yFo) | 3:13 | 2021-01-23 | 2021-09-14 |
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2020-12-11 | 2022-01-14 |
+| [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 | 2023-06-15 |  |
 | [Forgot About Us](https://open.spotify.com/track/5WJtuMqSdxcbuNvouacT37) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Forgot About Us](https://open.spotify.com/album/414LRtMnUY3SguBTwr0duS) | 3:33 | 2022-04-28 |  |
 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 | 2019-09-13 | 2020-06-19 |
 | [Frozen Lake](https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Frozen Lake](https://open.spotify.com/album/7bjfCfZ6Cf5K2bS1kLLMrd) | 3:36 | 2023-06-01 |  |

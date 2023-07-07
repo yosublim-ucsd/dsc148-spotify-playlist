@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Sampha
 
-890 songs - 2 day 0 hr 6 min
+891 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-24 |  |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-06-18 | 2022-07-16 |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 |  |
-| [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 |  |
+| [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-07-07 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-03-25 |
 | [3000 Miles \(Baby Baby\)](https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [3000 Miles \(Baby Baby\)](https://open.spotify.com/album/6Z65cY2NlkT0q3wCILkHdx) | 2:22 | 2021-03-19 | 2022-05-24 |
 | [4 This Moment](https://open.spotify.com/track/4BfGlDPJrCBzk7gpQkwJUo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [4 This Moment](https://open.spotify.com/album/6TfPUynI7LH4DgW5mg0IUz) | 2:07 | 2022-08-26 | 2022-09-17 |
@@ -267,6 +267,7 @@
 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 |  |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [find u](https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [find u](https://open.spotify.com/album/79cTjmw9O6NVhQgpnaNqe6) | 1:58 | 2023-04-07 |  |
+| [fingerprints](https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:26 | 2023-06-30 |  |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-04-01 | 2022-04-15 |
 | [FKA MESS](https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [FKA MESS](https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S) | 6:01 | 2023-03-31 | 2023-04-22 |
 | [Flashbacks \(feat\. Miguel & St\. Beauty\)](https://open.spotify.com/track/2IQjNT6EXEEJhR3x5KnlOU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [St\. Beauty](https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 4:02 | 2021-03-19 | 2022-07-10 |

@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:02egj8t9vzqr5bWgMov3zq">Asteria</a>
 
-118 songs - 5 hr 44 min
+120 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 |  |
 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 | 2022-08-31 | 2023-04-12 |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-08-31 | 2023-04-12 |
+| [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 |  |
 | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/track/7n8AUlwA0Fu3ryGYDYnIxd) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/album/1UIV43DxOINFzn0C3AYtNU) | 2:35 | 2023-03-08 | 2023-04-12 |
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 | 2023-04-12 |
 | [Sbronza](https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:53 | 2022-08-31 | 2023-04-12 |
@@ -125,6 +126,7 @@
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 | 2023-04-12 |
 | [TSO](https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [TSO](https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan) | 3:09 | 2022-08-31 | 2023-04-12 |
 | [Vento](https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Vento](https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ) | 2:33 | 2022-08-31 | 2023-04-12 |
+| [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 |  |
 | [Vorrei che fosse odio](https://open.spotify.com/track/7F5OZLcNPOJHdQ3a9ld96C) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Assurditè](https://open.spotify.com/album/6tZ6zLONbRGUBZPoh0g9ha) | 3:03 | 2023-04-11 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W?si=GP9jNBeSSn6r1Du3cc3Eww\">Benjamin Jephta</a>.",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/0Of9Llbb7iRx5VChztCJdb?si=3X1ou878TYOgxX0wsc4LEw\">Nicky Schrire</a>.",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 314850,
       "name": "Coline's Rose",
       "url": "https://open.spotify.com/track/46jEAx7SjJP7ehdIJ8x4Ed"
@@ -738,6 +738,24 @@
       "duration_ms": 1033725,
       "name": "Happenstance - Skins - Episode 02",
       "url": "https://open.spotify.com/track/156NNxRfflM59ng690cPHB"
+    },
+    {
+      "album": {
+        "name": "Heart Like a Wheel (Radio Edit)",
+        "url": "https://open.spotify.com/album/3fPymuw7Kp8bewYmYqbMPP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Schrire",
+          "url": "https://open.spotify.com/artist/0Of9Llbb7iRx5VChztCJdb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Heart Like A Wheel (Radio Edit)",
+      "url": "https://open.spotify.com/track/65VznwzRGUWgyTCjitI9M7"
     },
     {
       "album": {
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 184360,
       "name": "The Balance",
       "url": "https://open.spotify.com/track/5RGk7OKbDQEjSwtTYZxtxJ"

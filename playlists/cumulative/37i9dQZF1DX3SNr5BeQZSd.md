@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-152 songs - 5 hr 58 min
+153 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 | 2022-09-09 |  |
 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 | 2022-09-09 |  |
 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 | 2022-09-09 |  |
-| [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2022-11-11 |  |
+| [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2022-11-11 | 2023-07-07 |
 | [French Inhale](https://open.spotify.com/track/4JLI9AgtAXutJvjlXgZBoR) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [444](https://open.spotify.com/album/5A2924LaWCYkWpug5N583R) | 1:48 | 2022-09-09 | 2022-11-19 |
+| [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 | 2023-03-10 |  |
 | [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/track/1XvKTdRwlYCbMdtFdvsSZd) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/album/7sVV56UYxgPrr4VtLEDXCX) | 3:56 | 2023-03-10 |  |
 | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 | 2022-09-09 | 2023-04-07 |
 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 | 2022-09-09 |  |

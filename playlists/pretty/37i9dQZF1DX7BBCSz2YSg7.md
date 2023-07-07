@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BBCSz2YSg7.md) - [plain]
 
 > The rising Turkish DJ and Producer <a href="spotify:artist:1GVbOnrND8b3eh2JZ4opw8">Carlita</a> explores different styles of electronic music in this dynamic mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,172 likes - 14 songs - 59 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,177 likes - 14 songs - 59 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BBCSz2YSg7.md) - [plain]
 | 9 | [TASTY \- Boys Noize Remix \- Mixed](https://open.spotify.com/track/2UjobrmPOnJesTyNuxzGzI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY \- Boys Noize Remix \(Mixed\)](https://open.spotify.com/album/6EbIIfUDq0Wl9BmiA3bhKn) | 3:01 |
 | 10 | [Save the Children \- Mixed](https://open.spotify.com/track/7mF8voKNglQdVC7PO7ws5l) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Save the Children \(Mixed\)](https://open.spotify.com/album/5T1qv3BeiH1eUM4kRXtQtA) | 4:20 |
 | 11 | [Tumbale Tumbalo \- Extended Mix \- Mixed](https://open.spotify.com/track/4Lpp2HdxwwnRo8t9t8IQPC) | [Dany Cohiba](https://open.spotify.com/artist/7FI284PGKQmF6a9I0KTNI1) | [Tumbale Tumbalo \- Extended Mix \(Mixed\)](https://open.spotify.com/album/7Eb4EZUEvgAxHOT9QlXK2g) | 3:41 |
-| 12 | [This Is Not Your Job \- Yass Remix \- Mixed](https://open.spotify.com/track/2b0d69MfIrABlvLBI8rJyk) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [This Is Not Your Job \- Yass Remix \(Mixed\)](https://open.spotify.com/album/2Puu4ofPMOZVeanbCn6y6x) | 5:03 |
+| 12 | [This Is Not Your Job \- Yass Remix \- Mixed](https://open.spotify.com/track/2b0d69MfIrABlvLBI8rJyk) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [This Is Not Your Job \- Yass Remix \(Mixed\)](https://open.spotify.com/album/2Puu4ofPMOZVeanbCn6y6x) | 5:03 |
 | 13 | [Joha \- Mixed](https://open.spotify.com/track/42h1kGcO1YtEjrPi5pThxp) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Joha \(Mixed\)](https://open.spotify.com/album/6uC049VzF1xCefiSzOlBVm) | 2:16 |
 | 14 | [Poly \- Mixed](https://open.spotify.com/track/4Owsfop8DweRJfdpPfbRKN) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Poly \(Mixed\)](https://open.spotify.com/album/5b3IJeIvPlgPm9am1sgPBN) | 2:20 |
 
-Snapshot ID: `MCw0Yzk1N2RiZTI3MTRiZjhiM2Q2ODc4NTJlNzA5ZGVkNGUyMzg4ODRk`
+Snapshot ID: `MCwwMWUwZjg0ZGUzZmEzZGU5NTMzOTNhZjlhYTFhN2Y3NDJmNjBjZjdm`

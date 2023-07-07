@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Martina May
+> Il meglio dell'R&B italiano\. Cover: Kuban
 
-360 songs - 17 hr 46 min
+362 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,10 +83,11 @@
 | [Così](https://open.spotify.com/track/6a8R1ynqMFc6BFOeulmRRF) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Così](https://open.spotify.com/album/4xA1F2laLObcuaFPjSfCaY) | 2:07 | 2022-11-03 | 2022-12-02 |
 | [Cult](https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Cult](https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8) | 2:45 | 2022-05-05 | 2022-09-30 |
 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 | 2022-09-29 | 2023-02-03 |
-| [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-03-16 |  |
+| [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-03-16 | 2023-07-07 |
 | [Da lei](https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7) | [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [Da Lei](https://open.spotify.com/album/5Bvf20lnuAlnynMnQibDaT) | 2:40 | 2023-03-23 | 2023-06-16 |
 | [DARK DRAGONITE \(feat\. Missey\)](https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:48 | 2022-06-30 | 2022-12-02 |
 | [Decidere non so](https://open.spotify.com/track/6rc32OHe3Wv0SbZoRRwm4P) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/79TXfRYQUMRcUqwwuj5nYk) | 3:20 | 2023-01-26 | 2023-03-10 |
+| [Demone](https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Demone](https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4) | 3:03 | 2023-07-06 |  |
 | [DIAMANTI](https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DIAMANTI](https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi) | 3:16 | 2022-07-07 | 2022-09-16 |
 | [Dipinto](https://open.spotify.com/track/7EyaNzozxk5KAXjXK9fv4c) | [CLARICE](https://open.spotify.com/artist/3n8gcjmulraZzTPHH8sONK), [Commodo](https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo) | [Dipinto](https://open.spotify.com/album/1jPwyUAnIKDd6OicV6BQRH) | 2:39 | 2022-11-24 | 2023-01-20 |
 | [Discoparty](https://open.spotify.com/track/3RVwiSkSpjzEvfO08tCH2J) | [Halba x Foldino](https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT) | [Coppa Martini](https://open.spotify.com/album/6P41Fu8o0MclS4ExYl6uUO) | 2:22 | 2022-05-05 | 2023-01-27 |
@@ -306,7 +307,7 @@
 | [Soqquadro](https://open.spotify.com/track/4J4vyiu3YAO1vT8tepU6zw) | [Valerienne](https://open.spotify.com/artist/79dkAMxiQQf2gPZ31ZcXIf) | [Soqquadro](https://open.spotify.com/album/6mrWju1mCi2U0cJyZRNo2F) | 3:17 | 2022-11-10 | 2023-02-03 |
 | [Sottovoce](https://open.spotify.com/track/0QwlGKxgBzz10Vs3Hu1Ofd) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [HOT PARTY BACK TO SCHOOL 2022](https://open.spotify.com/album/1xybf1vMF8lcAQnvC3r2x9) | 3:22 | 2022-10-06 | 2023-06-02 |
 | [Sottovoce](https://open.spotify.com/track/7fWfPRTcmsPeASPGeaww6m) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Sottovoce](https://open.spotify.com/album/394IkP2qwNM5gtL1BCD1eb) | 3:22 | 2022-09-15 | 2022-10-07 |
-| [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 | 2022-05-05 |  |
+| [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 | 2022-05-05 | 2023-07-07 |
 | [Sparring Partner](https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Sparring Partner](https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir) | 3:04 | 2022-05-19 | 2023-06-09 |
 | [Specchi](https://open.spotify.com/track/5M4zuk2CV31ataWytyHyul) | [Foudre](https://open.spotify.com/artist/5kx2DaxI4fGesXqK8kcKZI), [Paco6x](https://open.spotify.com/artist/07XOQTC2IEP8nI0NPvmjtK) | [Specchi](https://open.spotify.com/album/7bnDMHPpd8DrNDjlSsJC5j) | 2:22 | 2023-06-22 |  |
 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 | 2023-06-01 |  |
@@ -330,6 +331,7 @@
 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 | 2022-09-22 | 2023-06-02 |
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 | 2022-10-21 |
 | [Tardi](https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Tardi](https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw) | 3:10 | 2023-02-02 |  |
+| [TEDESCA](https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [TEDESCA](https://open.spotify.com/album/4BeGXIJJ1sqMGY8yMagzKk) | 2:58 | 2023-07-06 |  |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 | 2022-11-11 |
 | [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 | 2023-02-09 |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 | 2023-06-09 |

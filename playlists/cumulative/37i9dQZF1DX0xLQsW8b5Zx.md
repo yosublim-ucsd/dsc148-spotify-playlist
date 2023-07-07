@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-182 songs - 8 hr 6 min
+183 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 | 2022-07-05 |  |
 | [Hey Rosalie](https://open.spotify.com/track/19PkDncNBx7csrF34P1FMz) | [Micke Muster](https://open.spotify.com/artist/50IjTMuVpPObIVxS7VZena) | [Rock'n'Roll Super Collection volym 1](https://open.spotify.com/album/6m4y90C1Tp1AhqFXt0uubp) | 3:22 | 2022-05-06 | 2022-07-05 |
 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 | 2022-05-06 |  |
-| [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 | 2022-05-06 |  |
+| [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 | 2022-05-06 | 2023-07-07 |
 | [Hit Me Up](https://open.spotify.com/track/5KqiNRi6S6QCpBZNrctsB3) | [Slapback Johnny](https://open.spotify.com/artist/1uw7HoyUeWdL3k2gDuhWzE) | [Hit Me Up](https://open.spotify.com/album/0xxjwAc4TECLxvBF0V4tFJ) | 2:39 | 2022-05-06 | 2022-11-13 |
 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 | 2022-07-05 |  |
 | [Hold Me, Hug Me, Rock Me \- 2002 Digital Remaster](https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And His Blue Caps](https://open.spotify.com/album/0S5EEOJz0QJs16V3Z3uTyF) | 2:15 | 2022-05-06 | 2022-07-27 |
@@ -93,6 +93,7 @@
 | [I'm Coming Home](https://open.spotify.com/track/1m1p15XpCQLXkq04yym3xu) | [Cousin Harley](https://open.spotify.com/artist/52rPzG4VyrRd4PDud6oiyV) | [The Dutch Sessions](https://open.spotify.com/album/39RqDonsjtdAUgUMsqSqV6) | 2:01 | 2022-05-06 | 2022-07-20 |
 | [I'm Gonna Get You](https://open.spotify.com/track/1GgwGCiITPzjzziSVLQK0H) | [The Hub Caps](https://open.spotify.com/artist/1qJbnjluS2HYc3ZRoUdCmL) | [Five By Five](https://open.spotify.com/album/4gn1nN6tEk4Yz6OPa7wSyo) | 1:58 | 2022-05-06 | 2022-07-28 |
 | [I'm on Fire](https://open.spotify.com/track/2frzTmZ8Yy0DkTszstwGw6) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Model A](https://open.spotify.com/album/2SYzIRQthdG0BLTzNV3TKQ) | 2:16 | 2022-05-06 | 2022-05-27 |
+| [Ideas of Love](https://open.spotify.com/track/2CroqpGLYfhN8Xpa4xMfRz) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Ideas of Love](https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH) | 3:00 | 2023-07-07 |  |
 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 | 2022-05-06 | 2022-07-27 |
 | [Jumping From 6 To 6](https://open.spotify.com/track/3KMMwtpJkieSi8tpIQJLJX) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [Jumping From 6 to 6](https://open.spotify.com/album/5a1qIpQWSgNLNEryLXpw4y) | 3:10 | 2022-05-06 | 2022-06-21 |
 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 | 2022-05-06 | 2022-10-02 |

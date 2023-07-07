@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 182714,
+  "num_followers": 182772,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTY5ZGUxMDk1YzM5NzVhMTRkNGFlOGNlMmVkNjRjNDZjMjljNzg4",
+  "snapshot_id": "MCwzMTVjNjk5ZGIwNjE1ZWRhMzA5OTZjMmIwMDg3ZmRiNDQ0YzhmNmNi",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -339,22 +339,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+        "name": "The Night Visitor",
+        "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         },
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+      "duration_ms": 231133,
+      "name": "The Longer The Waiting (The Sweeter The Kiss)",
+      "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -375,22 +375,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "The Night Visitor",
-        "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
       "artists": [
         {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         },
         {
-          "name": "David Ferguson",
-          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 231133,
-      "name": "The Longer The Waiting (The Sweeter The Kiss)",
-      "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
+      },
+      "artists": [
+        {
+          "name": "Hajk",
+          "url": "https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z"
+        }
+      ],
+      "duration_ms": 140334,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 224560,
       "name": "When the Mourning Comes",
       "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
-      },
-      "artists": [
-        {
-          "name": "Hajk",
-          "url": "https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z"
-        }
-      ],
-      "duration_ms": 140334,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
     },
     {
       "added_at": "2023-06-29 22:00:00",

@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 253384,
       "name": "Ader Akmel",
       "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 192006,
       "name": "Amar",
       "url": "https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W"
@@ -11130,7 +11130,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 218406,
       "name": "\u062d\u0645\u0631\u0627",
       "url": "https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI"
@@ -11814,6 +11814,24 @@
       "duration_ms": 204817,
       "name": "\u0639\u0641\u0627\u0631\u064a\u062a \u0627\u0644\u0623\u0633\u0641\u0644\u062a",
       "url": "https://open.spotify.com/track/4uNc5GMR6a5az5U3Ghdyf8"
+    },
+    {
+      "album": {
+        "name": "Rivo (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648)",
+        "url": "https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um"
+      },
+      "artists": [
+        {
+          "name": "\u0631\u064a\u0641\u0648 \u0634\u0648",
+          "url": "https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "\u0639\u0644\u064a \u0628\u0627\u0628 \u0627\u0644\u0633\u064a\u0645\u0627 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648",
+      "url": "https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM"
     },
     {
       "album": {

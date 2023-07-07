@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: ENVY\*
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Aziz Hedra
 
 157 songs - 9 hr 50 min
 

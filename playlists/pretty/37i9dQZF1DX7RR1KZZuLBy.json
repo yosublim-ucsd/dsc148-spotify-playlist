@@ -1,13 +1,29 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 30629,
+  "num_followers": 30669,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjA3ZjAzZjYwYmRlNTlkYjc4YzVhNjlmMmEwN2JjZmE3MDQ1OWNh",
+  "snapshot_id": "MCw5Njc2OTgyYjYyNjdhNDIyNzA4YTNkZTQwZTU2ZTUxZGNkZTA5YmQy",
   "tracks": [
+    {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "Malifezeke",
+        "url": "https://open.spotify.com/album/4EZ6Opzixs2f4Dw4sbVEFo"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "duration_ms": 287302,
+      "name": "Malifezeke",
+      "url": "https://open.spotify.com/track/5oZRuLIvlAEfVahO90XsgA"
+    },
     {
       "added_at": "2023-04-21 00:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 655253,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "Umhlatshelo (The Sacrifice)",
+        "url": "https://open.spotify.com/album/50UIxQJzLuazRKXqWwCXd6"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "duration_ms": 708738,
+      "name": "Umhlatshelo (The Sacrifice)",
+      "url": "https://open.spotify.com/track/7gt15H6CRr94YljSVLK8H3"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -849,22 +881,6 @@
       "url": "https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd"
-      },
-      "artists": [
-        {
-          "name": "Sketchy Bongo",
-          "url": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv"
-    },
-    {
       "added_at": "2023-05-12 00:01:00",
       "album": {
         "name": "Sane",
@@ -1239,30 +1255,6 @@
       "duration_ms": 411666,
       "name": "Days of Elijah - Live",
       "url": "https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 353546,
-      "name": "Good Grace - Live",
-      "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
     },
     {
       "added_at": "2023-02-21 14:33:20",

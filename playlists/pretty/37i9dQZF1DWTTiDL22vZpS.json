@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 13125,
+  "num_followers": 13175,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQxZDcwMjI4NGM0NTM3ZjhmMjA2MDQ4Yjk1ODc0YmJmMGNkZGE4",
+  "snapshot_id": "MCw0NTk5YWJiMGQyY2FmODI3ZmVjMmYyN2M5ZjNjMzY2ODgxMWFlYzJk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 237262,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "En el club",
         "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
       },
@@ -979,26 +995,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Ritmo y Poes\u00eda",
         "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
       },
@@ -1015,6 +1011,26 @@
       "duration_ms": 218580,
       "name": "Ritmo y Poes\u00eda",
       "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 199334,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Zoo Lion",
-        "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
-      },
-      "artists": [
-        {
-          "name": "Moncho Berry",
-          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
-        }
-      ],
-      "duration_ms": 266447,
-      "name": "Zoo Lion",
-      "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
     }
   ],
   "unique_name": "feels like latin funk",

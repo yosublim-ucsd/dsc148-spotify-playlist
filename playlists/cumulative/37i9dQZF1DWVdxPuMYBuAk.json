@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "W8ing 4 U",
+        "url": "https://open.spotify.com/album/7uZPwaTJf6zr0mjhiVptAs"
+      },
+      "artists": [
+        {
+          "name": "Soo Joo",
+          "url": "https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "W8ing 4 U",
+      "url": "https://open.spotify.com/track/3o5L1QgIi5xJLdkOyIEcKK"
+    },
+    {
+      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx"
       },

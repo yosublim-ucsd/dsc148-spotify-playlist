@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 656,
+  "num_followers": 659,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2IzZjk3ZGIyYmRlMjEzOGFiMWE3OGJiMzQ2ZDU0NTgzZTZkYjM0",
+  "snapshot_id": "MCw0YjEyMWNjN2I2NDQ3ZWZlNzE4Zjc3YjdiMTFmNWM1NzIwNGUyNGYx",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Tick Talk",
         "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
@@ -693,20 +673,24 @@
       "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
       },
       "artists": [
         {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         }
       ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+      "duration_ms": 217338,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -735,6 +719,22 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2022-07-29 06:06:22",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Nkwatewa",
         "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
@@ -867,22 +887,42 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+        "name": "Nothing to Something",
+        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
       },
       "artists": [
         {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "Sumi Crazy",
+          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+      "duration_ms": 218400,
+      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
+      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -907,22 +947,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Bakuwe",
         "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 186000,
       "name": "Bakuwe",
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Nothing to Something",
-        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "Sumi Crazy",
-          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
-      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
     },
     {
       "added_at": "2022-03-31 17:42:20",

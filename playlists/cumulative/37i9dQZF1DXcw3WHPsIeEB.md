@@ -4,13 +4,14 @@
 
 > Progressive beats and harmonies for the late hours.
 
-64 songs - 4 hr 5 min
+66 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1976](https://open.spotify.com/track/265TI5cYAyC92LVXNSy6Ac) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language](https://open.spotify.com/album/5NerkQCeXbV9phVaKSi85K) | 4:56 | 2022-02-01 |  |
 | [Aqua](https://open.spotify.com/track/3G9kUjxna7X4XV9w2NFT9W) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Aqua](https://open.spotify.com/album/7LLf3H6gMaDZIdqHYdXRNx) | 4:20 | 2022-02-01 |  |
-| [At Peace](https://open.spotify.com/track/1nDI1QsLeGKrsuj9U9maRZ) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 1:28 | 2022-02-01 |  |
+| [At Peace](https://open.spotify.com/track/1nDI1QsLeGKrsuj9U9maRZ) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 1:28 | 2022-02-01 | 2023-07-07 |
+| [At Peace](https://open.spotify.com/track/2cnvKdleVx4A22mJo9nLvn) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/2XhoS4GtadCGIP9o2IDVLE) | 1:28 | 2022-02-01 |  |
 | [Awake](https://open.spotify.com/track/6CpqZ6Pyi1e6QIPegZoA6C) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 3:37 | 2022-02-01 |  |
 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 | 2022-02-01 |  |
 | [Beachside Thoughts](https://open.spotify.com/track/08PBULFltRvdPe6pibx1Vv) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 5:38 | 2022-02-01 |  |
@@ -50,7 +51,8 @@
 | [Out of the Ruins](https://open.spotify.com/track/19Ee1c0ftZA4LZuv4OM0vu) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 4:12 | 2022-02-01 |  |
 | [Overflow](https://open.spotify.com/track/0ZguEgsT8UkEPTj5AlF2Tu) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M) | [Overflow](https://open.spotify.com/album/3otqlVjwUCJ2S7xJnwbjQN) | 3:32 | 2022-02-01 |  |
 | [Plus 100](https://open.spotify.com/track/09NjmJF5aZi2bJRhdr1fUr) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Plus 100](https://open.spotify.com/album/0ECy4AGJcScaPoCUFQEHxu) | 2:44 | 2022-02-01 |  |
-| [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 | 2022-02-01 |  |
+| [Poetic Imagination](https://open.spotify.com/track/6UoItFuOtFnVdATgW8YGfr) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/2XhoS4GtadCGIP9o2IDVLE) | 2:08 | 2022-02-01 |  |
+| [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 | 2022-02-01 | 2023-07-07 |
 | [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 | 2022-02-01 |  |
 | [Right Now](https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [Right Now](https://open.spotify.com/album/4dEEbU4lD5yDJ7VJU0bIuW) | 3:11 | 2022-02-01 | 2022-11-02 |
 | [Right Now](https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:11 | 2022-02-01 |  |

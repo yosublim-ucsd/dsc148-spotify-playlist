@@ -829,6 +829,36 @@
     },
     {
       "album": {
+        "name": "Bambelela",
+        "url": "https://open.spotify.com/album/7IWJhqfX5zNmTRp26VGohY"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        },
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455780,
+      "name": "Bambelela",
+      "url": "https://open.spotify.com/track/3RKPSF709OU43ZKAK1vXfo"
+    },
+    {
+      "album": {
         "name": "Barry",
         "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
       },
@@ -2754,7 +2784,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 248049,
       "name": "Fizzy Pop",
       "url": "https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW"
@@ -5436,7 +5466,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 409182,
-      "name": "My Time with you",
+      "name": "My Time With You",
       "url": "https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl"
     },
     {
@@ -6104,7 +6134,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 291346,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/3gJu4keUtRC5e32h64905c"
@@ -7975,6 +8005,24 @@
     },
     {
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+    },
+    {
+      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn"
       },
@@ -8345,6 +8393,24 @@
     },
     {
       "album": {
+        "name": "Doors To Shambhala",
+        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
+      },
+      "artists": [
+        {
+          "name": "You Man",
+          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Ummo",
+      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
+    },
+    {
+      "album": {
         "name": "Unexpected",
         "url": "https://open.spotify.com/album/3fUMfl3s0VtOVWeRshPSGj"
       },
@@ -8414,7 +8480,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 368682,
       "name": "Universal Love",
       "url": "https://open.spotify.com/track/531RaZXLyYi8ZiIpqSGjwJ"

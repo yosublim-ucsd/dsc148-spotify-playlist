@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Cloud Rotation",
+        "url": "https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV"
+      },
+      "artists": [
+        {
+          "name": "Lostlow",
+          "url": "https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156724,
+      "name": "Cloud Rotation",
+      "url": "https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA"
+    },
+    {
+      "album": {
         "name": "Clu (Colorjaxx Remix)",
         "url": "https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH"
       },
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 163875,
       "name": "outbreak",
       "url": "https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq"
@@ -5573,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "Sound Crown",
+        "url": "https://open.spotify.com/album/4PATQpNpm8vqYQOoMvyJT9"
+      },
+      "artists": [
+        {
+          "name": "Generation.",
+          "url": "https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136792,
+      "name": "Sound Crown",
+      "url": "https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E"
+    },
+    {
+      "album": {
         "name": "Souped Up",
         "url": "https://open.spotify.com/album/6kJ9jCbCagGk0RnCPGAuVu"
       },
@@ -6730,6 +6766,24 @@
       "duration_ms": 181192,
       "name": "White Island Dreams",
       "url": "https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv"
+    },
+    {
+      "album": {
+        "name": "Why Don't You Chill?",
+        "url": "https://open.spotify.com/album/3MKNWp2dnCgrzo74iWacq2"
+      },
+      "artists": [
+        {
+          "name": "Drunk Archer",
+          "url": "https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204116,
+      "name": "Why Don't You Chill?",
+      "url": "https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Samantha Barrón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,482 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,501 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 59 | [No me retracto](https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [No me retracto](https://open.spotify.com/album/3gRQFlAerNzf009idHlF92) | 2:21 |
 | 60 | [Baby Yo Me Pierdo](https://open.spotify.com/track/1NyR1ll0JIFbvafvdYz7BF) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo) | [Baby Yo Me Pierdo](https://open.spotify.com/album/0Pzm5qzf0NeiEhdZO22FRV) | 2:21 |
 | 61 | [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 |
-| 62 | [RAYBEN CAP 2: Aluxín](https://open.spotify.com/track/7GiPtQurXiFU3LTOStVkJM) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [RAYBEN CAP 2: Aluxín](https://open.spotify.com/album/0f09fmMpEI3A2XZdbbWB4y) | 2:22 |
+| 62 | [RAYBEN CAP 2: ALUXÍN](https://open.spotify.com/track/7GiPtQurXiFU3LTOStVkJM) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [RAYBEN CAP 2: ALUXÍN](https://open.spotify.com/album/0f09fmMpEI3A2XZdbbWB4y) | 2:22 |
 | 63 | [DDEVERAS](https://open.spotify.com/track/1UEMzAH06AVWnsgnANkAc6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [DDEVERAS](https://open.spotify.com/album/3cfUapXkbzZnF9MYK0pycZ) | 2:22 |
 | 64 | [888](https://open.spotify.com/track/0S7JUK9EWqgM3vOVMsBUck) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [888](https://open.spotify.com/album/6iodhvyXGLiKXHreODGYZT) | 2:24 |
 | 65 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 76 | [Sed de Ganar](https://open.spotify.com/track/0nu0muJL39ZhAdZHB4gjcc) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sed de Ganar](https://open.spotify.com/album/5InhJktEVmsMZMjs3btorG) | 2:41 |
 | 77 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 | 78 | [Chicago](https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Chicago](https://open.spotify.com/album/0qxOUAIDnMLYqvRYmicgjm) | 2:44 |
-| 79 | [Capítulo 1: El Loco](https://open.spotify.com/track/2lLOk0V60S8OFdxUfR1Nxe) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n) | [Capítulo 1: El Loco](https://open.spotify.com/album/4BmxGlMJttejXXLEx2aRV3) | 2:45 |
+| 79 | [RAYBEN CAP 1: EL LOCO](https://open.spotify.com/track/2lLOk0V60S8OFdxUfR1Nxe) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n) | [RAYBEN CAP 1: EL LOCO](https://open.spotify.com/album/4BmxGlMJttejXXLEx2aRV3) | 2:45 |
 | 80 | [Nascar](https://open.spotify.com/track/38Aohv9TTqC6rsEzM4IPCH) | [J.P.N.Z.](https://open.spotify.com/artist/4z4qoIy4Q20mGawSK9L7x2), [Kazzy](https://open.spotify.com/artist/1kh5iuZTwS3c8KYqilc42q) | [Nascar](https://open.spotify.com/album/4clHzzEsKyHStv7C0G3inn) | 2:45 |
 | 81 | [Bandalo](https://open.spotify.com/track/3HqKzELtHQy7KqjYMucnNn) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [Bandalo](https://open.spotify.com/album/3e8Ucvgyrk6mSja08dZT1K) | 2:45 |
 | 82 | [Tay](https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Ozono](https://open.spotify.com/track/0jIDoX0NINHswdGsktWf6X) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Multi](https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR) | [Ozono](https://open.spotify.com/album/10siYSoduw7MAtda4VnFnf) | 3:44 |
 | 100 | [Dinero Digital](https://open.spotify.com/track/5nggFqmrxKwOpmTS7sS48F) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 4:05 |
 
-Snapshot ID: `MCxiZDY5ZmIyMDYwYTEyNGQ2NGYzNTE1ODEwN2QyNDA4NjQ1NTRlZjdi`
+Snapshot ID: `MCw0NWM3OWJjYTNmYzgxMTVmMGQ4YjgwZDFkYTVhYzZmZjkwNDBiNDUx`

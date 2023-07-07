@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-617 songs - 1 day 3 hr 52 min
+618 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
-| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 |  |
+| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-07-07 |
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 |  |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
@@ -541,6 +541,7 @@
 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |
 | [SXL](https://open.spotify.com/track/18sl3aS5bDBG0yBOD1G9pD) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [THE MOTEL](https://open.spotify.com/album/3Mm4nwyzBqUUXGJrIqzDFF) | 2:49 | 2022-01-06 | 2022-07-27 |
 | [Synchronizing](https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Synchronizing](https://open.spotify.com/album/5XguhI1DdLE0q48X8e24uU) | 2:47 | 2022-01-13 | 2022-05-04 |
+| [tanabata](https://open.spotify.com/track/3nIPbiUtBeBmITLF8MYRvp) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tanabata](https://open.spotify.com/album/3m7r5IUvOmvyn9yZ6cCQl2) | 2:21 | 2023-07-06 |  |
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |
 | [tattered trees in the rain](https://open.spotify.com/track/0cdqCuXYoMbrNKoMtsNse6) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tattered trees in rain](https://open.spotify.com/album/1JFvsD6gyVDwb2Nu4CU3hU) | 2:14 | 2022-03-24 | 2022-06-10 |
 | [tear drop](https://open.spotify.com/track/0vOVwVh2MgfgZ3GNM4DMBE) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Imaginary Landscape](https://open.spotify.com/album/3Hjj8fzZ6ys0Ig5uB62kzC) | 3:09 | 2021-12-23 | 2022-07-28 |

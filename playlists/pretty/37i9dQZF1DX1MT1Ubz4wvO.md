@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Nina Suárez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,907 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,912 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 2 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
 | 3 | [Dos pasajeros](https://open.spotify.com/track/7lnlEPoBm83Ai4q1hpXLeM) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Dos pasajeros](https://open.spotify.com/album/1wxJ0l3lCFlUUi5FzaKQDu) | 5:28 |
 | 4 | [Contracorriente](https://open.spotify.com/track/6FNI6bzYyUhzWJ3OZwXsP7) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [Contracorriente](https://open.spotify.com/album/4xtRNng8YVgDS8gTEFy1Sz) | 2:38 |
-| 5 | [Mi heroína \- Rework](https://open.spotify.com/track/2csUSha7n4gCnSd11UcsRI) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN), [Xavi Road](https://open.spotify.com/artist/5rb9QPhDs8JtHgzoPVrhpF), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Mi heroína \(Rework\)](https://open.spotify.com/album/3ICol6hGgpP0tgxpfWl1gc) | 3:22 |
+| 5 | [Mi heroína \- Xavi Road Rework](https://open.spotify.com/track/2csUSha7n4gCnSd11UcsRI) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN), [Xavi Road](https://open.spotify.com/artist/5rb9QPhDs8JtHgzoPVrhpF) | [Mi heroína \(Xavi Road Rework\)](https://open.spotify.com/album/3ICol6hGgpP0tgxpfWl1gc) | 3:22 |
 | 6 | [No Me Olvides](https://open.spotify.com/track/1UY1sRn4RJX8tECP1HbLCp) | [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [No Me Olvides](https://open.spotify.com/album/5PerpjrcvlwnmgipQk6S55) | 3:35 |
 | 7 | [GROUPIE](https://open.spotify.com/track/7g1PHZ6k3TZvFRdm4mOwA4) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [GROUPIE](https://open.spotify.com/album/2Wkg9yy2ud6fwwSiPWvmat) | 2:28 |
 | 8 | [Vuelo Cancelado](https://open.spotify.com/track/2uN4vdPlM8Lac0DlY1hpQl) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Vuelo Cancelado](https://open.spotify.com/album/5Gkt9dt7a1WViQGPD6W42m) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Pájaro Herido](https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI) | [Pancho Varona](https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC) | [Pájaro Herido](https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78) | 4:05 |
 | 50 | [Cinco Pistolas](https://open.spotify.com/track/2sx2uWxKHggfG7pOJnu0AK) | [Mario Duarte](https://open.spotify.com/artist/7G24om7NKr8dpoa1EVHSIT) | [Cinco Pistolas](https://open.spotify.com/album/3W7XA8fIcNozYoCAFBfsQK) | 3:39 |
 
-Snapshot ID: `MCxhYmJlZDBlMDc1OTY1YTdhNGRkMWRlMWI3ZmQyMGUyOGU1NGYyNzgz`
+Snapshot ID: `MCwxMjA1ZDRlZjg0YTNmNzRiYjgzMWVhMWYwMmM5YTZmZDU1ZDJmMDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,894 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,889 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 45 | [En esta navidad](https://open.spotify.com/track/7cpeaa1fqbSNK9K6GQY8nO) | [Patricio Vasquez](https://open.spotify.com/artist/7rvS0KknOkxbvgeQyHi5gW) | [En esta navidad](https://open.spotify.com/album/2nAj98jyxcBsNghaKkKnaD) | 3:40 |
 | 46 | [En Un Establo](https://open.spotify.com/track/0JbV0FiWpMwRywvnhSv9cb) | [Pecos Romero](https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:33 |
 | 47 | [Gloria En Las Alturas](https://open.spotify.com/track/1NJv6N1KYgXqEdigbltaQl) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:00 |
-| 48 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 |
-| 49 | [Solo Tú](https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:41 |
+| 48 | [Solo Tú](https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:41 |
+| 49 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 |
 | 50 | [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 |
 | 51 | [Es Navidad](https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Es Navidad](https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H) | 4:11 |
 | 52 | [Voy Subiendo \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Navidades Hasta Que Amanezca](https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS) | 4:14 |
 | 53 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 |
-| 54 | [A María](https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [A María](https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB) | 3:38 |
+| 54 | [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 |
 | 55 | [Mi Salvador](https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak) | [Mi Salvador](https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa) | 4:07 |
-| 56 | [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 |
+| 56 | [A María](https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [A María](https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB) | 3:38 |
 | 57 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
 | 58 | [Mi Navidad](https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Mi Navidad](https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu) | 3:03 |
 | 59 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Plena Que Adora a Dios](https://open.spotify.com/track/4rBxK37YIwtn2vonTCDL93) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Plena Que Se Pega](https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um) | 3:28 |
 | 100 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
 
-Snapshot ID: `MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy`
+Snapshot ID: `MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl`

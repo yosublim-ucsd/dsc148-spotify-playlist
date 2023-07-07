@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Martina May",
+  "description": "Il meglio dell'R&B italiano. Cover: Kuban",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 144406,
       "name": "CuraMi",
       "url": "https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9"
@@ -1516,6 +1516,24 @@
       "duration_ms": 200720,
       "name": "Decidere non so",
       "url": "https://open.spotify.com/track/6rc32OHe3Wv0SbZoRRwm4P"
+    },
+    {
+      "album": {
+        "name": "Demone",
+        "url": "https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183507,
+      "name": "Demone",
+      "url": "https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj"
     },
     {
       "album": {
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 193709,
       "name": "Sparami (feat. Inoki)",
       "url": "https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ"
@@ -6310,6 +6328,24 @@
       "duration_ms": 190909,
       "name": "Tardi",
       "url": "https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy"
+    },
+    {
+      "album": {
+        "name": "TEDESCA",
+        "url": "https://open.spotify.com/album/4BeGXIJJ1sqMGY8yMagzKk"
+      },
+      "artists": [
+        {
+          "name": "MANDORLA",
+          "url": "https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "TEDESCA",
+      "url": "https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx"
     },
     {
       "album": {

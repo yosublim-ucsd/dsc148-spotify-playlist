@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,123 likes - 176 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,250 likes - 176 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 8 | [Skin Out](https://open.spotify.com/track/2mK1cgjxJ7TOvQB5Vgqt4q) | [Monroe X](https://open.spotify.com/artist/2u60LsPTbpgauVcI33eevw), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Skin Out](https://open.spotify.com/album/4CA7g595zXzVn15onJw5lQ) | 2:48 |
 | 9 | [RM\. 143 \- RM112 Remix](https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [RM\. 143 \(RM112 Remix\)](https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2) | 3:00 |
 | 10 | [W.I.A \(Where I’m At\)](https://open.spotify.com/track/2FSo1Jjt0MjdGMwgFxcrGs) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [W.I.A \(Where I’m At\)](https://open.spotify.com/album/3kkHpK3tLoh18gFzDfALPu) | 3:07 |
-| 11 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/56TxMbhfr0i5vzrSNLHmh7) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 |
+| 11 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 |
 | 12 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 |
 | 13 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 |
 | 14 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 |
 | 15 | [Back 2 the Streets](https://open.spotify.com/track/4oz9h9dQ3w6q4l8vBBwGwf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3](https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM) | 2:40 |
-| 16 | [Ain't Even Friends \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/4jkazbFDLNzx7SZJj63mRs) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Ain't Even Friends \(feat\. Mariah The Scientist\)](https://open.spotify.com/album/5hVboo2fbk0GnggEgvS1vN) | 2:58 |
+| 16 | [Ain't Even Friends \(with Mariah The Scientist\)](https://open.spotify.com/track/4jkazbFDLNzx7SZJj63mRs) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Ain't Even Friends \(with Mariah The Scientist\)](https://open.spotify.com/album/5hVboo2fbk0GnggEgvS1vN) | 2:58 |
 | 17 | [WHAT U ON](https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK) | [Saeku](https://open.spotify.com/artist/1Q6esqI8NxePB4bbW3Cmn8), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [WHAT U ON](https://open.spotify.com/album/4FmYAK7jUNF2hDj8jRMzZD) | 2:33 |
 | 18 | [Catch Up!](https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:37 |
 | 19 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 175 | [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 |
 | 176 | [Summer](https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [Summer](https://open.spotify.com/album/2TcTJLPbXqWvH8vPB19UL0) | 2:49 |
 
-Snapshot ID: `MCwyZDA0ZWI2YzI3OTgwMmFhNTU4MjM2YWU4NTRjODc0NGNlNTBiMGFi`
+Snapshot ID: `MCxhY2M3OTk2YThiZTFkZmFmYzcxZTJhOGQwMmY2NzE2NTZmZTBlZmVi`

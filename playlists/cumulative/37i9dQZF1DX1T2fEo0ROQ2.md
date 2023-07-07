@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-405 songs - 21 hr 12 min
+406 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-26 |  |
 | [Dyheu](https://open.spotify.com/track/4M4cdo4JsVFHwVwhjMRzR4) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Dyheu](https://open.spotify.com/album/5BakAaou4Ns1pxprMEeDUO) | 2:36 | 2023-03-30 |  |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2022-05-26 | 2022-09-03 |
+| [Earthly Love](https://open.spotify.com/track/4HdAZDJUp0fCPhTaSjPco6) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/55WYwfIVdbZLRmbAltgiSy) | 2:33 | 2023-07-07 |  |
 | [Eclipse](https://open.spotify.com/track/2roGc5wvCNpRmUckCDMUON) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:02 | 2022-05-26 |  |
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2022-05-26 |  |
 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 | 2022-05-26 |  |
@@ -190,7 +191,7 @@
 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 |  |
 | [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2022-12-02 |  |
 | [Kamala Whispers](https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Kamala Whispers](https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR) | 2:18 | 2023-04-07 |  |
-| [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-05-26 |  |
+| [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-05-26 | 2023-07-07 |
 | [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2022-05-26 | 2023-06-03 |
 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 | 2022-06-16 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2022-05-26 |  |
@@ -219,7 +220,7 @@
 | [Magica](https://open.spotify.com/track/75D9esOK7ASfcREQAvbtql) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica](https://open.spotify.com/album/0I1dDqctYZ26sVYoFxGIZY) | 2:57 | 2022-05-26 |  |
 | [Mandala](https://open.spotify.com/track/1aeKotbZ2wBYuOspDawtwo) | [Lhokanda](https://open.spotify.com/artist/1264capaf0mZntpqmhyXA9) | [Mandala](https://open.spotify.com/album/0l4Q81jBgK9xsxQ8iJFtZx) | 2:17 | 2022-05-26 |  |
 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 | 2022-05-26 |  |
-| [Marola](https://open.spotify.com/track/4QPXwM90DJW5eQXTsfLKPc) | [Sleep Safari](https://open.spotify.com/artist/6sQz3KXQYUowjmWX4MUEY3) | [Marola](https://open.spotify.com/album/5BDUYHWCEQ2SA0NMNmqLfM) | 2:44 | 2022-05-26 |  |
+| [Marola](https://open.spotify.com/track/4QPXwM90DJW5eQXTsfLKPc) | [Sleep Safari](https://open.spotify.com/artist/6sQz3KXQYUowjmWX4MUEY3) | [Marola](https://open.spotify.com/album/5BDUYHWCEQ2SA0NMNmqLfM) | 2:44 | 2022-05-26 | 2023-07-07 |
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2022-05-26 |  |
 | [Melancholy](https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Emotional State](https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb) | 4:24 | 2022-05-26 |  |
 | [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:49 | 2022-06-16 |  |
@@ -258,7 +259,7 @@
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2022-05-26 |  |
 | [Nära](https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Nära](https://open.spotify.com/album/4fsPZO84anFbq1ZxXLI6FQ) | 3:17 | 2022-05-26 |  |
 | [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2022-05-26 | 2023-03-04 |
-| [Ocean's Gold](https://open.spotify.com/track/5PjVPTKNWQkLfPFj825Wqe) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Ocean's Gold](https://open.spotify.com/album/5xdKd8YKQFFahrvbJ5HRQ4) | 3:12 | 2022-05-26 |  |
+| [Ocean's Gold](https://open.spotify.com/track/5PjVPTKNWQkLfPFj825Wqe) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Ocean's Gold](https://open.spotify.com/album/5xdKd8YKQFFahrvbJ5HRQ4) | 3:12 | 2022-05-26 | 2023-07-07 |
 | [Offers of Peace](https://open.spotify.com/track/7L8UMLULC1rvuACscOAZV1) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Skylight](https://open.spotify.com/album/7BbIqRVJU2IYn6vvmR4M2p) | 4:59 | 2022-05-26 | 2022-08-16 |
 | [Older](https://open.spotify.com/track/6U3dRi6YtXyjuogL1Mntm4) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:08 | 2022-05-26 | 2022-08-16 |
 | [One Simple Day](https://open.spotify.com/track/72m4yj70tdBd95AumCShfr) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Songs To Let Go](https://open.spotify.com/album/57Bw2jFpmGB0bASSgbBwir) | 3:09 | 2022-05-26 | 2022-11-12 |

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-98 songs - 5 hr 31 min
+99 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-04-24 | 2023-06-24 |
 | [Jinukku Jikka](https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV) | [Lak](https://open.spotify.com/artist/3kNbpMF08hTkUfVQLH3zPN), [K R Soundarya](https://open.spotify.com/artist/4f9IuGiCtB0c4bWHIJnQLq) | [Jinukku Jikka](https://open.spotify.com/album/5vmnvHJgGKa3RyOpOjBJ1I) | 3:51 | 2023-03-21 |  |
 | [Kaadhal Dhevathaiye](https://open.spotify.com/track/1J3fwSmN2BNVgptyBYdLpu) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kaadhal Dhevathaiye](https://open.spotify.com/album/6B9CFmXUej7OEbOlzxvVku) | 3:17 | 2023-03-21 |  |
+| [Kaadhal Kanna](https://open.spotify.com/track/6CPsDWOjYdRTbdH5BIuVfh) | [Kanimozhi Kabilane](https://open.spotify.com/artist/7ARoKETwZfM1MAwuvYxtAR), [Tharun Medley](https://open.spotify.com/artist/5tzzxTj73S4syVrVQo9gFc) | [Kaadhal Kanna](https://open.spotify.com/album/4Zdez1WTo7CmrQVRd66Jdu) | 4:37 | 2023-07-06 |  |
 | [Kaadhal Kolluthe](https://open.spotify.com/track/2eB6gQjZdls4ZGckkf20Gw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sunny Stephen Nathan](https://open.spotify.com/artist/56CPqj0QxUYMA9udITIUzk) | [Kaadhal Kolluthe](https://open.spotify.com/album/6JwWwZw0GNqd7RQj6ECxUf) | 3:18 | 2023-07-04 |  |
 | [Kaadhal Trap](https://open.spotify.com/track/4MQM1DjOGvi65msWaaxT1F) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Sudarshan Arumugam](https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E) | [Kaadhal Trap](https://open.spotify.com/album/5oaBaOnUSwGCJho4cy0oAI) | 3:23 | 2023-05-26 |  |
 | [Kaatrile](https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F) | [Sperience](https://open.spotify.com/artist/6hM2eMbTUUKLLDIeRBLClE), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Kaatrile](https://open.spotify.com/album/4fBs9f1HRGZYbwM7ghvy3W) | 2:49 | 2023-03-21 |  |

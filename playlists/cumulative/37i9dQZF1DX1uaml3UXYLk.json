@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "By the Bungalow",
+        "url": "https://open.spotify.com/album/1BqYiUGzPivVNkPJ3bqgsN"
+      },
+      "artists": [
+        {
+          "name": "Teide Garcia",
+          "url": "https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "By the Bungalow",
+      "url": "https://open.spotify.com/track/22c5aHwrXkmBTnCbkkinkL"
+    },
+    {
+      "album": {
         "name": "Caelitum",
         "url": "https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP"
       },

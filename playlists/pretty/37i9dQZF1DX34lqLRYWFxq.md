@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: The Jins
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,233 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,230 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 2 | [A Clue](https://open.spotify.com/track/36RfHeopjQ4kuPtNdf63yw) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [It's a Life](https://open.spotify.com/album/6dBoZUYZafPbImH9NeEFtT) | 3:54 |
 | 3 | [Lightning Bolt](https://open.spotify.com/track/5Vgbt9Rt8n2tOANxP2mICc) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Lightning Bolt](https://open.spotify.com/album/5V0B47aJIAlsWfYYacHyfv) | 3:04 |
 | 4 | [Dreams](https://open.spotify.com/track/7azQ8ywcwrdupUojmscy2o) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Dreams](https://open.spotify.com/album/3yI9NW1y3Fy6RnGtxnKOCo) | 3:34 |
-| 5 | [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 |
+| 5 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 |
 | 6 | [2 U's](https://open.spotify.com/track/0JFAPvpKMFGv8PmNSx1Zt8) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo, Act 1 & 2](https://open.spotify.com/album/37MviduEpwgw98HKUPVjqm) | 3:03 |
 | 7 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
 | 8 | [Wet Dream](https://open.spotify.com/track/70haIg7OWunnGk67oY5UcN) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Wet Dream](https://open.spotify.com/album/2uERL4jIMLn3RPEmR071GO) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Picture Of](https://open.spotify.com/track/2eubo0u40y0aSdHM39SzaO) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [I Held the Shape While I Could](https://open.spotify.com/album/3vteTx2gH08gtDvxsSx8xR) | 4:36 |
 | 100 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 |
 
-Snapshot ID: `MCxlYzk5YzZiMDg3YmE2YjFmMTk0N2NhOGJmM2ZhZWMwNjc3MWExNWEz`
+Snapshot ID: `MCxhMzNmMWYxZWM0NGU4NDg2YWJmZjIwZGQ4MGU4ZjQ3MTZkYjMxNTFk`

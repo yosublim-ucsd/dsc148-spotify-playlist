@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-182 songs - 11 hr 3 min
+183 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 | 2023-01-20 | 2023-04-12 |
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 | 2022-07-08 |  |
+| [I Know the Blues](https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX) | [Marco Descontus](https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ), [The Italian Connection](https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn) | [I Know the Blues](https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw) | 4:04 | 2023-06-30 |  |
 | [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 | 2023-06-09 |  |
 | [I Remember You](https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 4:55 | 2022-05-25 |  |
 | [I Want to Hear You Sing](https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Rain](https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE) | 2:43 | 2023-04-14 | 2023-04-15 |
@@ -128,7 +129,7 @@
 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 | 2022-05-25 |  |
 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 | 2022-07-08 |  |
 | [My Home Is In the Delta](https://open.spotify.com/track/5Qg734lkKdaPeE8ZYA6EwA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [30 Delta Blues Classics](https://open.spotify.com/album/0iWDn4znn8wjK2prk2GBXR) | 4:01 | 2022-05-25 | 2022-07-29 |
-| [My Little One](https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a) | [Damian Lewis](https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue) | [Mission Creep](https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we) | 3:00 | 2023-06-30 |  |
+| [My Little One](https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a) | [Damian Lewis](https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue) | [Mission Creep](https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we) | 3:00 | 2023-06-30 | 2023-07-07 |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-27 | 2023-06-10 |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-10-14 |  |
 | [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 | 2023-06-30 |

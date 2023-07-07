@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-69 songs - 3 hr 34 min
+70 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Sphere of Alpha 10 Hz](https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:39 | 2023-04-28 |  |
 | [Steam](https://open.spotify.com/track/1cUhZBk6uXcUiyEkbzdP6k) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:31 | 2023-04-28 |  |
 | [Stimulus \- Alpha sinus 95 \- 100hz](https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Brain Entrainment](https://open.spotify.com/album/18d1Hr9e7GaU8VEoRK3lkJ) | 4:22 | 2023-04-28 |  |
+| [The Flow \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/5Omod9l5W2uYlYsXCGPoil) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [The Flow \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/album/1BP0IKAWzL7pXt76l0g2Du) | 2:10 | 2023-07-07 |  |
 | [The Power of Now \(Alpha Waves\)](https://open.spotify.com/track/4gbAjIiEDIjEQoPTzQijkP) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 4:06 | 2023-04-28 |  |
 | [Total \- Alpha Sinus 65,4hz \- 68,5 hz](https://open.spotify.com/track/1w8ZPmlfAahvTwfSKxoRRn) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:52 | 2023-04-28 |  |
 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 | 2023-04-28 |  |

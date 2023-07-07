@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-470 songs - 1 day 0 hr 59 min
+471 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 | 2021-09-03 | 2022-07-26 |
 | [Sobering Thoughts From The Mondrian](https://open.spotify.com/track/3XpLvrrfkNpAYXmFxBfUpi) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:40 | 2023-05-26 | 2023-06-03 |
 | [Soccer Dad](https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Soccer Dad](https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS) | 3:13 | 2022-04-06 | 2022-10-27 |
-| [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 | 2023-05-12 |  |
+| [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 | 2023-05-12 | 2023-07-07 |
 | [Something in the Water](https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Mrs\. Whoever / Something in the Water](https://open.spotify.com/album/5NPPBBqbTIeV7yrD8gPH2w) | 3:18 | 2021-09-03 | 2022-06-22 |
 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 | 2023-03-31 |  |
 | [Sprague Street](https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Sprague Street](https://open.spotify.com/album/63KIa8D5Lb7J9nivOZRWKM) | 4:17 | 2021-09-03 | 2022-07-21 |
@@ -405,6 +405,7 @@
 | [Subzero](https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Subzero](https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi) | 3:00 | 2022-04-08 | 2022-07-28 |
 | [Sunday Morning Drive \(feat\. Curren$y & Dom Kennedy\)](https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Keep Going](https://open.spotify.com/album/0hJGRu58lwZvj6SeZuiXNk) | 3:55 | 2021-09-03 | 2022-07-27 |
 | [Super Deep Brother](https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI) | [Uno Hype](https://open.spotify.com/artist/68jFd8fas1U1U51bGQZXbr) | [SOL GLO](https://open.spotify.com/album/7FIrLuO2imjSJG36wL3hPH) | 3:06 | 2021-09-03 | 2022-06-28 |
+| [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 | 2023-06-30 |  |
 | [Survival Of The Littest](https://open.spotify.com/track/17CPQUwDN43EcjPUo9lFpe) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:19 | 2022-10-21 | 2022-11-05 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2023-04-22 |
 | [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:24 | 2022-04-08 | 2022-07-29 |

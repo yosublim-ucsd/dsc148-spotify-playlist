@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natanel Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,108 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,202 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 8 | [MERCHO REMIX](https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO REMIX](https://open.spotify.com/album/2Y8A4aFDGPXqQpmJbLOuzK) | 3:21 |
 | 9 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 |
 | 10 | [Juego](https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk) | [Nesty La Mente Maestra](https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Juego](https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m) | 2:31 |
-| 11 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
+| 11 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
 | 12 | [La Pena](https://open.spotify.com/track/1yys1sGVM0N5u9N9Zdk92L) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [La Pena](https://open.spotify.com/album/54A7E3gz7qBCtv9mENTEAF) | 3:24 |
 | 13 | [Tweet](https://open.spotify.com/track/3WJqYgLQNPO6tPWqvavacQ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Tweet](https://open.spotify.com/album/0aXm7AkrTlSjcW7gxMf0NY) | 3:09 |
 | 14 | [Pa' La Playa](https://open.spotify.com/track/21LcaVx8JTXBBN0Cthatx7) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pa' La Playa](https://open.spotify.com/album/4p9kf9jzgpUEI9TfVr9Yfo) | 2:59 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Qué Hubiera Pasado](https://open.spotify.com/track/3BjyrmaWg8S8VJaPWXn4l1) | [Seo Jaleo](https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r) | [Qué Hubiera Pasado](https://open.spotify.com/album/4j8lQd0opfhUCFSp6bl30l) | 3:11 |
 | 52 | [IBIZA](https://open.spotify.com/track/12OXga7qXimTSumRQNXQtQ) | [Tiago Carlotto](https://open.spotify.com/artist/0iU9FuqQutt77QUEq3urBd) | [IBIZA](https://open.spotify.com/album/0xYCoAp2NITMRXCxdrf9ND) | 2:52 |
 
-Snapshot ID: `MCxlOWE3ZmJjOWIzNDI3N2E3YjdiM2RkZTVlNTEwMWNhZTZkZjIwNDY5`
+Snapshot ID: `MCw1N2RiMGQzYTFhZTM0M2Q1NDBhOTU3MjRiZWVkNDQxOGM4ZmJhYjdk`

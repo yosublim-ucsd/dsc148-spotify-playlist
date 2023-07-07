@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,136 songs - 2 day 11 hr 12 min
+1,137 songs - 2 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [Re\-sepp\-ten \- VM\-sang 1986](https://open.spotify.com/track/6UPcylAJnEKnRanHyL64Qb) | [VM Holdet](https://open.spotify.com/artist/6zY5uObMbO0Snvp5jBYIdL), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Re\-Sepp\-Ten](https://open.spotify.com/album/1HHi8g9utUPTiy3vsOnAgF) | 5:23 | 2021-06-13 | 2022-11-29 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-10-10 | 2021-10-11 |
 | [Red Flags](https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh) | [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA) | [Red Flags](https://open.spotify.com/album/5dNPbpIVH021rkby8i4i52) | 2:47 | 2023-04-15 | 2023-06-11 |
-| [Red Flags \(feat\. Alex Skrindo & Langhoff\) \- REMIX](https://open.spotify.com/track/0TcldAcP3ky3mx0dDiDsHL) | [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF), [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA), [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Langhoff](https://open.spotify.com/artist/4DwnFzvrHtEbmaD4dUTiKO) | [Red Flags REMIX \(feat\. Alex Skrindo & Langhoff\)](https://open.spotify.com/album/2GhMngJbhYKaLvQYLtyAWi) | 2:52 | 2023-06-30 |  |
+| [Red Flags \(feat\. Alex Skrindo & Langhoff\) \- REMIX](https://open.spotify.com/track/0TcldAcP3ky3mx0dDiDsHL) | [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF), [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA), [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Langhoff](https://open.spotify.com/artist/4DwnFzvrHtEbmaD4dUTiKO) | [Red Flags REMIX \(feat\. Alex Skrindo & Langhoff\)](https://open.spotify.com/album/2GhMngJbhYKaLvQYLtyAWi) | 2:52 | 2023-06-30 | 2023-07-07 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-04 |
 | [Renæssance \(feat\. Jimilian\)](https://open.spotify.com/track/287uPxWhUGvBwy5e9qi1jK) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:37 | 2023-02-11 | 2023-02-18 |
 | [Rewind](https://open.spotify.com/track/1Ra5pMInPLGAHsyWSRKl5Y) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:09 | 2022-02-19 | 2022-02-21 |
@@ -1089,6 +1089,7 @@
 | [Visit \(feat\. Stepz\)](https://open.spotify.com/track/4qPHvX6Mz5tp5lLdimYhDm) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:57 | 2023-05-09 | 2023-05-11 |
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2021-10-31 | 2021-11-07 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-05 |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-06 |  |
 | [Vores År \(Nytårssangen\)](https://open.spotify.com/track/5wnQatWruCErVy8AJDuVA4) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Vores År \(Nytårssangen\)](https://open.spotify.com/album/6YVLcq49DaD0N6XSrsbMHz) | 3:27 | 2022-12-28 | 2023-01-07 |
 | [VV](https://open.spotify.com/track/5U2T400b5vXPx4GxfeHdHG) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:39 | 2021-10-10 | 2021-10-17 |
 | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx) | 2:37 | 2022-05-27 |  |

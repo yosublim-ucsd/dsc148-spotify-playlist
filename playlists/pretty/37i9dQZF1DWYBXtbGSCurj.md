@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Nagalli, Borges, Veigh, Kyan, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,631 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,823 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
 | 75 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 
-Snapshot ID: `MCw4MGM2YzA2OTQ0NmJiMDhlZDQ5YmVkYTYwYzkzOWRhNTVjOWVkYmZi`
+Snapshot ID: `MCwwYThmN2VmZGExNWYyYWVjMmNkMzJjZGYzMzlkOGNlYmE0ZGYyY2U5`

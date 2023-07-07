@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 128636,
+  "num_followers": 128669,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmE5NWU4Yzc3OTRjZDkyNjMzN2ZjOWJmY2I3OGQ0NGJlZmMyMzdm",
+  "snapshot_id": "MCxhOWRlZDU4YzhjMjEyMzMwYmNjMzU0MmU0YTNjZDZkNGNmZmY0MzFl",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -361,20 +361,20 @@
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
+      "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+      "duration_ms": 238626,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
+      "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
       },
       "artists": [
         {
-          "name": "Mighty Joe Young",
-          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2018-02-27 18:08:29",

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-459 songs - 1 day 3 hr 14 min
+460 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2022-06-03 |  |
 | [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 | 2023-03-03 |
 | [Refugio](https://open.spotify.com/track/4bQJ17TT3eASeV5C2GezAK) | [Tølva](https://open.spotify.com/artist/3lLKxv9sE05lDe7VnXgUAo) | [Refugio](https://open.spotify.com/album/18OetE9OcCk7uFBDRsTfKA) | 2:50 | 2022-07-01 | 2022-07-24 |
+| [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Remanso](https://open.spotify.com/track/7jEFt1fSOHEtoHPOiJYH61) | [Las Luchas](https://open.spotify.com/artist/3su0QV5CGNkE3xwpgEXNVe) | [Remanso](https://open.spotify.com/album/43q2gluh9bHCHDutBMkw11) | 5:12 | 2022-07-01 | 2022-07-17 |
 | [REMEMBER](https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [REMEMBER](https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3) | 3:27 | 2023-01-20 | 2023-05-02 |
 | [Remolinos](https://open.spotify.com/track/0PK1R9RJ4vPE0zEkpe3vTw) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Remolinos](https://open.spotify.com/album/28vyd694kAghyQToA3q1L1) | 4:16 | 2022-06-03 | 2022-07-20 |
@@ -375,7 +376,7 @@
 | [Retrovisor](https://open.spotify.com/track/1M5T9vmjCQDUGSjkhcFHEq) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Bruno Donato](https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq) | [Retrovisor](https://open.spotify.com/album/7meTS5glrfIKXr0zwg7e5K) | 3:09 | 2022-07-01 | 2022-07-29 |
 | [Revolución](https://open.spotify.com/track/7r8QlxThnI4K2tp071TchX) | [Chochin Galleguillo](https://open.spotify.com/artist/58p5WCIxNMmL9LT7ItSHIi) | [Revolución](https://open.spotify.com/album/5hDnjm1BU5AT3l9k8fiGwj) | 4:19 | 2022-07-15 | 2022-07-27 |
 | [Risa](https://open.spotify.com/track/2NbwznlC08MxzvesOSHQy3) | [Prietto Viaja al Cosmos con Mariano](https://open.spotify.com/artist/79KyjLxTR5a6vVpPvljowB) | [Crónicas](https://open.spotify.com/album/43nltoTfJ7OZsprDHEoAqP) | 3:17 | 2022-07-01 | 2022-07-29 |
-| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 |  |
+| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2023-07-07 |
 | [Romántico](https://open.spotify.com/track/3xCJorDA7M5RVEwGlXV4ZC) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Perez 2021](https://open.spotify.com/album/0oxsDoGOfkhyTwtKJ1v7WC) | 3:11 | 2022-07-01 | 2022-07-24 |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-07-01 | 2022-07-16 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-11 |  |

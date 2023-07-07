@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Ovy On The Drums, Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,629 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,684 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 13 | [Juego](https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk) | [Nesty La Mente Maestra](https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Juego](https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m) | 2:31 |
 | 14 | [Amor & Paz](https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor & Paz](https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7) | 3:15 |
 | 15 | [Metro](https://open.spotify.com/track/6YiLkQJn9OfAM7VKd6slL4) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Metro](https://open.spotify.com/album/3nqX47cWAptqN6rBAq8jRr) | 3:00 |
-| 16 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
+| 16 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
 | 17 | [Pa' La Playa](https://open.spotify.com/track/21LcaVx8JTXBBN0Cthatx7) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pa' La Playa](https://open.spotify.com/album/4p9kf9jzgpUEI9TfVr9Yfo) | 2:59 |
 | 18 | [El Primero](https://open.spotify.com/track/6GZJI8aSs1DsXhBZbW3qrj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [El Primero](https://open.spotify.com/album/78Q5FwanBajjEPsVeB0jMA) | 3:08 |
 | 19 | [Solo Tú](https://open.spotify.com/track/2rMHIJLUtfBjR1QfpGuoln) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Solo Tú](https://open.spotify.com/album/6W2YCoaWaAEMxWcD4A8esg) | 3:16 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 61 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 |
 | 62 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 
-Snapshot ID: `MCw2MzQyN2FjZTlhYTMyOWE4YWFkNDRkNmE0Nzg1MDA5M2I3MDgxZTQ2`
+Snapshot ID: `MCxiMTE2YzMwYTk1MTA4NDZiMDkzYTk0YWNjMThiMDgzM2VjOTBkYTk5`

@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "The Flow - Alpha Sinus 88Hz - 96Hz",
+        "url": "https://open.spotify.com/album/1BP0IKAWzL7pXt76l0g2Du"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "The Flow - Alpha Sinus 88Hz - 96Hz",
+      "url": "https://open.spotify.com/track/5Omod9l5W2uYlYsXCGPoil"
+    },
+    {
+      "album": {
         "name": "The Power of Now (Alpha Binaural Beats)",
         "url": "https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fast-paced tunes for Tamil party time!\nCover : KRK",
+  "description": "Fast-paced tunes for Tamil party time!\nCover : Jailer",
   "name": "Tamil Party Time",
   "tracks": [
     {
@@ -480,10 +480,32 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 292893,
       "name": "Appadi Podu",
       "url": "https://open.spotify.com/track/4hN3wwO48b8a9Ll4WqHMDC"
+    },
+    {
+      "album": {
+        "name": "Sweet Voice of K.K",
+        "url": "https://open.spotify.com/album/6BYlfq9Wt06Wla84T6lF9S"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291275,
+      "name": "Appadipodu (From \"Gilli\")",
+      "url": "https://open.spotify.com/track/1ISzByfoQ485o30C2UrqKG"
     },
     {
       "album": {
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 269866,
       "name": "En Chella Peru Apple",
       "url": "https://open.spotify.com/track/38L1IyoqJzKQndz7qs37bx"
@@ -1317,6 +1339,32 @@
     },
     {
       "album": {
+        "name": "Kaavaalaa (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Kaavaalaa (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
+    },
+    {
+      "album": {
         "name": "Osthe (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2yfStC7OGYcfFJzGmsyLpy"
       },
@@ -1391,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Singer Special Udit Narayan",
+        "url": "https://open.spotify.com/album/49pkTxQ7Z9jvlPHFHUmvZ3"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274217,
+      "name": "Kokkorakko (From \"Gilli\")",
+      "url": "https://open.spotify.com/track/1qc8U5gYUHv0wAKJlf1tMG"
+    },
+    {
+      "album": {
         "name": "Aranmanai 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4c5FnCEdOWZrCEAvBQGcms"
       },
@@ -1406,7 +1476,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 251572,
       "name": "Kuchi Mittai",
       "url": "https://open.spotify.com/track/57nldabnSPgRfGNFyddITw"
@@ -1720,7 +1790,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 267640,
       "name": "Nahna Na Nah",
       "url": "https://open.spotify.com/track/0TKh7b5rpmvydOl9FvSyXL"
@@ -2638,6 +2708,28 @@
       "duration_ms": 239750,
       "name": "Yaathi Yaathi",
       "url": "https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd"
+    },
+    {
+      "album": {
+        "name": "Playback Singer Special - Mirchi Suchitra",
+        "url": "https://open.spotify.com/album/5OR5LimC4kV6dYOIai8tYi"
+      },
+      "artists": [
+        {
+          "name": "A. V. Ramanan",
+          "url": "https://open.spotify.com/artist/2j3wik66pAH58esWJBjVhs"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269866,
+      "name": "Yen Chellaperu Apple (From \"Pokkiri\")",
+      "url": "https://open.spotify.com/track/7qPCWbG6yXoOFUpdcTMaZC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0nA91dV2ts4"

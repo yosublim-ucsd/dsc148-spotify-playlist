@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-146 songs - 10 hr 13 min
+147 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2022-03-04 | 2023-02-23 |
 | [Mi Pueblo](https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8) | [Guadalupe de Jesús Chan Poot](https://open.spotify.com/artist/2RRmC4JQr7v3ejOAwxTwp5) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:40 | 2023-02-03 |  |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2022-03-04 | 2022-07-29 |
-| [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 |  |
+| [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 | 2023-06-09 |  |
+| [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 | 2023-07-07 |
 | [Montaña](https://open.spotify.com/track/1r8iML6ls8xP0WZ9megjNy) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Montaña](https://open.spotify.com/album/31eKdCWp9zet3WIDnsa4Ob) | 2:14 | 2022-03-04 |  |
 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 | 2022-04-20 |  |
 | [Mujeres](https://open.spotify.com/track/4dmZt98r9LvtuEAFIaV1x5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm) | [Julieta Venegas con la Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7) | 3:26 | 2022-03-04 |  |

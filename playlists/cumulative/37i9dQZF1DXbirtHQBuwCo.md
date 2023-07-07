@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: merrymerryseoul\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JUNNY\)
 
-585 songs - 1 day 7 hr 33 min
+586 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [If I Success](https://open.spotify.com/track/7beMq9H2hpiINjKNAapFZE) | [Pa!nter](https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T) | [If I Success](https://open.spotify.com/album/1xEaYx0QmF3qOGwbSkACVA) | 2:39 | 2023-06-13 | 2023-07-06 |
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-06-03 | 2022-06-05 |
 | [Intentions](https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [Intentions](https://open.spotify.com/album/7CfKlyjdwKrliAU59i1eNC) | 3:05 | 2022-05-11 | 2022-07-27 |
+| [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 | 2023-07-06 |  |
 | [Irene](https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F) | 3:19 | 2023-02-24 | 2023-06-02 |
 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 | 2022-04-19 | 2022-12-03 |
 | [It's all done \(Feat\. gyun\)](https://open.spotify.com/track/5ECaUlAdkZ6SESie2a4TzQ) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN), [gyun](https://open.spotify.com/artist/6VCKn1xDNfsGomHvkG5EFF) | [It's all done](https://open.spotify.com/album/1ib9MNoeTEuDWBCnAJcy9p) | 2:58 | 2022-04-19 | 2022-04-21 |
@@ -560,7 +561,7 @@
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2022-04-19 | 2022-07-29 |
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-18 | 2022-08-31 |
 | [When My Loneliness Calls You](https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc) | 4:17 | 2022-05-04 | 2022-05-12 |
-| [Whenever it rains \(feat\. Nason & amin\)](https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Nason](https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [whenever it rains](https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq) | 3:05 | 2022-04-19 |  |
+| [Whenever it rains \(feat\. Nason & amin\)](https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Nason](https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [whenever it rains](https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq) | 3:05 | 2022-04-19 | 2023-07-07 |
 | [Where the Flowers Bloom \(Feat\. punchnello\)](https://open.spotify.com/track/582JWXA9sYkNTMSxAHVRVC) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Where the Flowers Bloom](https://open.spotify.com/album/29CoZO1vHx09Szxqaum0aA) | 3:02 | 2022-05-28 | 2022-06-10 |
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-10 | 2023-01-19 |
 | [White](https://open.spotify.com/track/412nLwVTwU3nlXFXOr2VqW) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [White](https://open.spotify.com/album/3QP0xW9WaAAOXlmlCEc5iO) | 2:35 | 2022-04-22 | 2022-07-28 |

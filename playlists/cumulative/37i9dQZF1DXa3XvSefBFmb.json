@@ -7469,6 +7469,24 @@
     },
     {
       "album": {
+        "name": "The Entertainer",
+        "url": "https://open.spotify.com/album/0x61SAe2jV8U9fWhFz1iEy"
+      },
+      "artists": [
+        {
+          "name": "Rossana",
+          "url": "https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367045,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/5jSOh2VMGvHcvUnpAyN0eg"
+    },
+    {
+      "album": {
         "name": "Pressure (unplugged)",
         "url": "https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII"
       },

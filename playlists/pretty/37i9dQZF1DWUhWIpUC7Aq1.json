@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 105957,
+  "num_followers": 106061,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw",
+  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229413,
       "name": "Soul Meets Body",
       "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "1982 4 Piece Demo",
-        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Switchblade",
-          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Trees and Flowers",
-      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Early Music",
         "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 272080,
       "name": "The Start of Something",
       "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "1982 4 Piece Demo",
+        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Switchblade",
+          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Trees and Flowers",
+      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Honeysuckle Weeks",
-        "url": "https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC"
-      },
-      "artists": [
-        {
-          "name": "The Submarines",
-          "url": "https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "You, Me and the Bourgeoisie",
-      "url": "https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "When I Pretend To Fall",
         "url": "https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 252960,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Honeysuckle Weeks",
+        "url": "https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC"
+      },
+      "artists": [
+        {
+          "name": "The Submarines",
+          "url": "https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "You, Me and the Bourgeoisie",
+      "url": "https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw"
     },
     {
       "added_at": "2023-03-14 21:51:12",

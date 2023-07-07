@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,809 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,886 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 78 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 79 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
 | 80 | [Feel The Heat](https://open.spotify.com/track/7dlrEY8jBu2zCmfRvs4H1d) | [Trini Baby](https://open.spotify.com/artist/5LRyjuJERjmykKDPuqi7xA), [Tempa](https://open.spotify.com/artist/6dMXI343YY6u0gwbv0eaS6) | [Feel The Heat](https://open.spotify.com/album/44TtvNhgHgMAZqZzM16xDK) | 3:34 |
-| 81 | [Back fi Ya Bend](https://open.spotify.com/track/4zONZeMPohpfYKRS5ZcfEy) | [Slida](https://open.spotify.com/artist/6jVcGDOeirqWdPibftmz59), [Swipe](https://open.spotify.com/artist/2JqBF24fv5PW0MzOrT1nEN) | [Crazy Jab Riddim](https://open.spotify.com/album/5EUuRXy815ScvFgfBatkRs) | 2:41 |
-| 82 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
+| 81 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
+| 82 | [Back fi Ya Bend](https://open.spotify.com/track/4zONZeMPohpfYKRS5ZcfEy) | [Slida](https://open.spotify.com/artist/6jVcGDOeirqWdPibftmz59), [Swipe](https://open.spotify.com/artist/2JqBF24fv5PW0MzOrT1nEN) | [Crazy Jab Riddim](https://open.spotify.com/album/5EUuRXy815ScvFgfBatkRs) | 2:41 |
 | 83 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
 | 84 | [Rock and Come In](https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI) | [Linky First](https://open.spotify.com/artist/7A2TFN73Go9zmu3ymtCWps) | [Rock and Come In](https://open.spotify.com/album/7iz3EjcDNljxMBMVP1AZN7) | 3:57 |
 | 85 | [Single](https://open.spotify.com/track/4J3oPu8QedCNLoG5Zv5tQy) | [Orlando Octave](https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L) | [Single](https://open.spotify.com/album/6XT9x7kz7EXVe5KdTZ3MtE) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [The Best](https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs) | [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Kan Kan Riddim](https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx) | 3:08 |
 | 100 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
 
-Snapshot ID: `MCxjNzQzZGE4YjMxZTE1ZmEyNTdiOTViZjBhZjU4MGQ5OGU1OGRmMmQ4`
+Snapshot ID: `MCwyNTY3MjEyNDZhYTFmOGRkNzYxNzNkMjQ5M2FiN2UwMjUzNjEwNGRi`

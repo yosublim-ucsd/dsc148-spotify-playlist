@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MSnVLI9GuJ.md) - [plain]
 
 > Enjoy music from GRIDMAN UNIVERSE!「グリッドマン」シリーズの楽曲を1つのプレイリストで。©円谷プロ ©2023 TRIGGER・雨宮哲／「劇場版グリッドマンユニバース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,394 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,401 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MSnVLI9GuJ.md) - [plain]
 | 64 | [Human Love Robot Love 2023](https://open.spotify.com/track/28FuYXJpyvf2hLK4pVVwdw) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 5:01 |
 | 65 | [GRIDMAN UNIVERSE choir logo](https://open.spotify.com/track/2RveP7w35QwRXFUAwiMjpc) | [鷺巣詩郎](https://open.spotify.com/artist/48cc0NIHiT8EmPG8IRj8AD) | [GRIDMAN UNIVERSE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5OPOidgqX3BoLo6KQkzD1H) | 0:25 |
 
-Snapshot ID: `MCwxZjIwMDAwNDdhM2FjOTQ2MTU5NjczODIzZWQ0OTVkOWRlMTgzYWM0`
+Snapshot ID: `MCwzODRlODUzZDhmOTZjZmNmYzM2OTU3NThjMjczYzY4YzFhZGQxYjJh`

@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Alfa y Peso Pluma en portada ",
-  "num_followers": 8119,
+  "num_followers": 8134,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE2YzJlYWUzNDgxYTdhM2Y3NjcxMzdkZWFiZGMzYTMxZjA3OWJh",
+  "snapshot_id": "MCxiODE3ZjMwMDg1YzQ1YTcwMWMzNmVlYjJlOWFhYTE4MDdmYjhlZDAw",
   "tracks": [
     {
       "added_at": "2023-07-03 22:33:06",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
-    },
-    {
-      "added_at": "2023-07-03 22:33:06",
-      "album": {
         "name": "Piripituchy",
         "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 180880,
       "name": "Piripituchy",
       "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
+    },
+    {
+      "added_at": "2023-07-03 22:33:06",
+      "album": {
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
     },
     {
       "added_at": "2023-07-03 22:33:06",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
-        "name": "Sabes",
-        "url": "https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Karely Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K"
-    },
-    {
-      "added_at": "2023-07-03 22:33:06",
-      "album": {
         "name": "Peli-Culeo (Remix)",
         "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 159923,
       "name": "Jordan Flight",
       "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
+    },
+    {
+      "added_at": "2023-07-03 22:33:06",
+      "album": {
+        "name": "Sabes",
+        "url": "https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Karely Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K"
     },
     {
       "added_at": "2023-07-03 22:33:06",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
-    },
-    {
-      "added_at": "2023-07-03 22:33:06",
-      "album": {
         "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
         "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 162330,
       "name": "Toma",
       "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
+    },
+    {
+      "added_at": "2023-07-03 22:33:06",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
     },
     {
       "added_at": "2023-07-03 22:33:06",
@@ -975,6 +975,30 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
+    },
+    {
+      "added_at": "2023-07-03 22:33:06",
+      "album": {
         "name": "Club16, Jota Rosa Presents Vol. 2",
         "url": "https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
-    },
-    {
-      "added_at": "2023-07-03 22:33:06",
-      "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        },
-        {
-          "name": "Chino El Gorila",
-          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
     },
     {
       "added_at": "2023-07-03 22:33:06",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
-        "name": "Esto No Es Un \u00c1lbum",
-        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
-      },
-      "artists": [
-        {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Gr\u00e1bate",
-      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
-    },
-    {
-      "added_at": "2023-07-03 22:33:06",
-      "album": {
         "name": "Matanga",
         "url": "https://open.spotify.com/album/5PxAycUsvpu3xl9rJGf8fe"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 105018,
       "name": "Matanga",
       "url": "https://open.spotify.com/track/0ChPyoj8ptMm42naOyByAg"
+    },
+    {
+      "added_at": "2023-07-03 22:33:06",
+      "album": {
+        "name": "Esto No Es Un \u00c1lbum",
+        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
+      },
+      "artists": [
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Gr\u00e1bate",
+      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "added_at": "2023-07-03 22:33:06",
@@ -2079,22 +2079,22 @@
     {
       "added_at": "2023-07-03 22:33:06",
       "album": {
-        "name": "Problematik (feat. RYH)",
-        "url": "https://open.spotify.com/album/1qkHprIMfXGQl6MLBwce96"
+        "name": "Date Date",
+        "url": "https://open.spotify.com/album/1Ls5KCJ8BUYxAQRa8eo7nr"
       },
       "artists": [
         {
-          "name": "Yasmi",
-          "url": "https://open.spotify.com/artist/3SeLlSSVzurvLQGQEZLyKW"
+          "name": "Dam Dam",
+          "url": "https://open.spotify.com/artist/2Tm2uw29i6VXLI2hcY4xpz"
         },
         {
-          "name": "RYH",
-          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+          "name": "El Cusco",
+          "url": "https://open.spotify.com/artist/0BJOE4YEhUHEkHsxSxcuSE"
         }
       ],
-      "duration_ms": 139918,
-      "name": "Problematik (feat. RYH)",
-      "url": "https://open.spotify.com/track/4au385cqaT6yH0uVm4Cd4e"
+      "duration_ms": 168315,
+      "name": "Date Date",
+      "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
     },
     {
       "added_at": "2023-07-03 22:33:06",

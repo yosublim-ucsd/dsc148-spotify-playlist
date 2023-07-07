@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Let\u00f3n P\u00e9. Updates every Wednesday.",
-  "num_followers": 170910,
+  "num_followers": 170929,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNThmNDY1NDMyYzBmY2JjMjQ3Nzg1N2Q2MDZkMzkxZTM1OTQ2N2Fl",
+  "snapshot_id": "MCw3ODU3MWRlYWNiMDRiNDhlZTkyOWY4NmYxMTIzZDlhN2MzMTAxNTFh",
   "tracks": [
     {
       "added_at": "2023-07-05 04:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
+      },
+      "artists": [
+        {
+          "name": "Naca",
+          "url": "https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP"
+        },
+        {
+          "name": "LORA",
+          "url": "https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ"
+        }
+      ],
+      "duration_ms": 157408,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
         "name": "Conquistando",
         "url": "https://open.spotify.com/album/39CiO2Ugl1PFUwQkC3kOCm"
       },
@@ -567,22 +587,22 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
-        "name": "Gotas",
-        "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
+        "name": "CHORO",
+        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
       },
       "artists": [
         {
-          "name": "Naca",
-          "url": "https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP"
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         },
         {
-          "name": "LORA",
-          "url": "https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 157408,
-      "name": "Gotas",
-      "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
+      "duration_ms": 197076,
+      "name": "CHORO",
+      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -611,22 +631,18 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
-        "name": "CHORO",
-        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
       },
       "artists": [
         {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Dragon Rapid",
+          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
         }
       ],
-      "duration_ms": 197076,
-      "name": "CHORO",
-      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
+      "duration_ms": 216000,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 236000,
       "name": "Luces De Ne\u00f3n",
       "url": "https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
-      },
-      "artists": [
-        {
-          "name": "Dragon Rapid",
-          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
+        "name": "LA FRONTERA",
+        "url": "https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1"
+      },
+      "artists": [
+        {
+          "name": "DAKOTA",
+          "url": "https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "LA FRONTERA",
+      "url": "https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
         "name": "AL BORDE DEL DESBORDE",
         "url": "https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 263230,
       "name": "Las Cosas Como Son",
       "url": "https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
-        "name": "LA FRONTERA",
-        "url": "https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1"
-      },
-      "artists": [
-        {
-          "name": "DAKOTA",
-          "url": "https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "LA FRONTERA",
-      "url": "https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR"
     },
     {
       "added_at": "2023-07-05 04:00:00",

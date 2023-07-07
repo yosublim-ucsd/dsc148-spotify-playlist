@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-477 songs - 1 day 3 hr 17 min
+478 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,8 +467,9 @@
 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/52KqJS3vVNnihScZjkCt0z) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Mota Reggae](https://open.spotify.com/album/2ptw9v73dSmPYQ7haa4rHO) | 3:14 | 2022-09-22 | 2022-11-13 |
 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 3:15 | 2021-03-02 |  |
 | [Words](https://open.spotify.com/track/5YK89HfBd0CZ8Hx2mMs06e) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 3:35 | 2022-09-22 | 2022-11-13 |
+| [Words of My Mouth](https://open.spotify.com/track/4q963nQyvZxjFAKpwCSR4s) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [The Wonderman Years](https://open.spotify.com/album/76w8sl5J8tdJMAXdbOPfqu) | 3:34 | 2022-09-22 |  |
 | [Words of My Mouth](https://open.spotify.com/track/4EACIBkBXd0xeWRQUmX98X) | [The Gatherers](https://open.spotify.com/artist/134PLBpnApdihCnvNKyXhd) | [The Best of Lee "Scratch" Perry](https://open.spotify.com/album/06JxPU72tLL0Ngh8p15mQd) | 3:35 | 2021-03-02 | 2022-07-19 |
-| [Words of My Mouth](https://open.spotify.com/track/2UFkQ2jhMnp2NuWqFSC023) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 3:36 | 2022-09-22 |  |
+| [Words of My Mouth](https://open.spotify.com/track/2UFkQ2jhMnp2NuWqFSC023) | [The Gatherers](https://open.spotify.com/artist/0hqhLiP1K5NAakipJK5Y8J) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 3:36 | 2022-09-22 | 2023-07-07 |
 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 | 2021-03-02 |  |
 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 | 2022-08-18 | 2022-09-23 |
 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 | 2021-03-02 |  |

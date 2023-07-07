@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4O5bDBBMEEJB0NDMRBfPmA"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134136,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/6ruoErZiglmoQjmRnHriCj"
+    },
+    {
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Mayday Parade",
+  "description": "The best new music from the wide world of punk. Cover: Sad Park",
   "name": "All New Punk",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 117880,
       "name": "A Cow to Milk",
       "url": "https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis"
@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "BATSHIT",
+        "url": "https://open.spotify.com/album/6wM6nmqkAArmrS1U5pkELi"
+      },
+      "artists": [
+        {
+          "name": "LOLA",
+          "url": "https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251412,
+      "name": "BATSHIT",
+      "url": "https://open.spotify.com/track/0xA47Wk9UfpBcqSvLkfHuI"
+    },
+    {
+      "album": {
         "name": "Battleford 1885",
         "url": "https://open.spotify.com/album/4bRlT2jbfJEcHKQyU5zlqp"
       },
@@ -2528,6 +2546,24 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "album": {
+        "name": "BRAIN ROT",
+        "url": "https://open.spotify.com/album/21sQ40GI6ZWTAEsTLmOGxC"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BRAIN ROT",
+      "url": "https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI"
     },
     {
       "album": {
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 179141,
       "name": "Checking In",
       "url": "https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa"
@@ -5106,7 +5142,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 229032,
       "name": "Distress",
       "url": "https://open.spotify.com/track/1wCuMWf82GOrwm7vRakjIm"
@@ -5962,7 +5998,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 242039,
       "name": "Eyes 2 Skies",
       "url": "https://open.spotify.com/track/6fcurY8hZ8L4HCZ9wO2QQn"
@@ -6416,7 +6452,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 194598,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/6ltKvSyebk65SJtg5zKDXW"
@@ -7016,6 +7052,24 @@
       "duration_ms": 202098,
       "name": "GDP",
       "url": "https://open.spotify.com/track/4BXWW6fa5E2K7S1zBenkCx"
+    },
+    {
+      "album": {
+        "name": "Generational",
+        "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129511,
+      "name": "Generational",
+      "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
     },
     {
       "album": {
@@ -8027,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Hard Stare, Soft Touch",
+        "url": "https://open.spotify.com/album/7n9TR6bGxPcDdVcLW6GGgC"
+      },
+      "artists": [
+        {
+          "name": "Belle Haven",
+          "url": "https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174171,
+      "name": "Hard Stare, Soft Touch",
+      "url": "https://open.spotify.com/track/4P4LfXUgUdHyQvZI4s6ZtM"
+    },
+    {
+      "album": {
         "name": "Phantom Bay",
         "url": "https://open.spotify.com/album/6gXkAcRLBDdwwMxmuylj1T"
       },
@@ -8598,6 +8670,24 @@
       "duration_ms": 173788,
       "name": "Homesick for Hope",
       "url": "https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs"
+    },
+    {
+      "album": {
+        "name": "Honda Civic",
+        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Honda Civic",
+      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
     },
     {
       "album": {
@@ -10243,6 +10333,24 @@
     },
     {
       "album": {
+        "name": "La liesse",
+        "url": "https://open.spotify.com/album/5zHgpHebzamLFyFcp8KtjD"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80346,
+      "name": "La liesse",
+      "url": "https://open.spotify.com/track/0I6COQ9CdDMWOjk0s0yQOZ"
+    },
+    {
+      "album": {
         "name": "Lads Lads Lads",
         "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
       },
@@ -11145,6 +11253,28 @@
     },
     {
       "album": {
+        "name": "Love Bumps (feat. Pouya)",
+        "url": "https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Love Bumps (feat. Pouya)",
+      "url": "https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1"
+    },
+    {
+      "album": {
         "name": "Love It When You Hate Me (feat. blackbear)",
         "url": "https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0"
       },
@@ -11676,6 +11806,28 @@
       "duration_ms": 143443,
       "name": "Mark Hoppus",
       "url": "https://open.spotify.com/track/75LJzh7R2E1Tp6tP0AUlJo"
+    },
+    {
+      "album": {
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
     },
     {
       "album": {
@@ -12212,6 +12364,24 @@
       "duration_ms": 256402,
       "name": "Mona Lisa Was a Stoner",
       "url": "https://open.spotify.com/track/5GNQJFMx176hk0icjusaA3"
+    },
+    {
+      "album": {
+        "name": "NO MORE SOUND",
+        "url": "https://open.spotify.com/album/5E4Y4oWfPzruWCm1w8x0mA"
+      },
+      "artists": [
+        {
+          "name": "Sad Park",
+          "url": "https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157631,
+      "name": "MONEY IN THE BAG",
+      "url": "https://open.spotify.com/track/310nykxhq2ioiTf3Djq98k"
     },
     {
       "album": {
@@ -14284,7 +14454,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 123205,
       "name": "Phone Lines Down",
       "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
@@ -14856,6 +15026,24 @@
       "duration_ms": 237980,
       "name": "Punk Rock Loser",
       "url": "https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb"
+    },
+    {
+      "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/3uUgo5qKv6dzfBqvAhZ6KZ"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/4regXvcrxxSaf7ZkwkXr9M"
     },
     {
       "album": {
@@ -18818,7 +19006,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 207616,
       "name": "The Fix is In",
       "url": "https://open.spotify.com/track/2qomvQ7wDDJk3tBu1pOeEN"
@@ -19970,7 +20158,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 121318,
       "name": "UNAPOLOGETIC",
       "url": "https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF"
@@ -20222,7 +20410,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 193453,
       "name": "Until Then",
       "url": "https://open.spotify.com/track/1ziXMxdyOXP7rjBmkQrGTM"
@@ -21668,7 +21856,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 86554,
       "name": "Your Friends All Bore Me",
       "url": "https://open.spotify.com/track/5glwepmCRh0LVTbkHJR3mi"

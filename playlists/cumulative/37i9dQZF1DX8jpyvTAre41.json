@@ -9114,7 +9114,7 @@
     {
       "album": {
         "name": "Skin",
-        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+        "url": "https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4"
       },
       "artists": [
         {
@@ -9125,6 +9125,24 @@
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
       "duration_ms": 231333,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"

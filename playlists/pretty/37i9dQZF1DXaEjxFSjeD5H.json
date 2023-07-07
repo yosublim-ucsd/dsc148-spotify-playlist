@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 14455,
+  "num_followers": 14470,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj",
+  "snapshot_id": "MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Popurr\u00ed Mambos, Danz\u00f3n Nereidas y Varios M\u00e1s",
-        "url": "https://open.spotify.com/album/50DGxJynqVVHx33ZKp96NN"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Con Sol",
-          "url": "https://open.spotify.com/artist/56pzk4G9DkLIptVcSUGzn0"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Potpurr\u00ed Cha Cha Cha: El Maletero / Coraz\u00f3n de Mel\u00f3n / Calculadora",
-      "url": "https://open.spotify.com/track/2YhwzPB0x55lsG7BZ8VzYH"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188946,
       "name": "Pancha Baila en Turcos",
       "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Popurr\u00ed Mambos, Danz\u00f3n Nereidas y Varios M\u00e1s",
+        "url": "https://open.spotify.com/album/50DGxJynqVVHx33ZKp96NN"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Con Sol",
+          "url": "https://open.spotify.com/artist/56pzk4G9DkLIptVcSUGzn0"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Potpurr\u00ed Cha Cha Cha: El Maletero / Coraz\u00f3n de Mel\u00f3n / Calculadora",
+      "url": "https://open.spotify.com/track/2YhwzPB0x55lsG7BZ8VzYH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
-      },
-      "artists": [
-        {
-          "name": "Int. P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 130002,
       "name": "Tema De Lara",
       "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
+      },
+      "artists": [
+        {
+          "name": "Int. P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
     },
     {
       "added_at": "2022-08-02 23:28:22",

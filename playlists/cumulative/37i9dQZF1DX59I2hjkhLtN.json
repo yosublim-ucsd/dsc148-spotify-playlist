@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 166000,
       "name": "Andei",
       "url": "https://open.spotify.com/track/6il1MOwp9CEG7mGyhgQhkZ"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 183157,
       "name": "Bagagem",
       "url": "https://open.spotify.com/track/1L0E92ZXvTuV4c22fe1eoi"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 158000,
       "name": "Entorpecente",
       "url": "https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg"
@@ -3138,6 +3138,24 @@
       "duration_ms": 157860,
       "name": "Fast",
       "url": "https://open.spotify.com/track/2h8Mr0d6EDhUT4PVAz4Ee1"
+    },
+    {
+      "album": {
+        "name": "Faz T\u00e3o Bem",
+        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
+      },
+      "artists": [
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Faz T\u00e3o Bem",
+      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
     },
     {
       "album": {
@@ -4159,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "HOLOGRAMAS",
+        "url": "https://open.spotify.com/album/5kgFqRN55L5nDCFwFwIJ14"
+      },
+      "artists": [
+        {
+          "name": "quintasz",
+          "url": "https://open.spotify.com/artist/5rL8nsDdA5x4gJpZS40uvc"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "HOLOGRAMAS",
+      "url": "https://open.spotify.com/track/0PmqwP7PfwYCUzZZuPv7ru"
+    },
+    {
+      "album": {
         "name": "Hora H",
         "url": "https://open.spotify.com/album/7sGx2lpXO3VomSluLQIDcc"
       },
@@ -5165,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Maluca",
+        "url": "https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Lucca",
+          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148080,
+      "name": "Maluca",
+      "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
+    },
+    {
+      "album": {
         "name": "Many Men",
         "url": "https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj"
       },
@@ -6018,7 +6072,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 186000,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/16q6ODer2H0BVVknam8OPU"
@@ -6659,6 +6713,32 @@
     },
     {
       "album": {
+        "name": "n\u00e3o tenho tempo",
+        "url": "https://open.spotify.com/album/2bsOC89hpz9MSdrhJbidOn"
+      },
+      "artists": [
+        {
+          "name": "el Amukinado",
+          "url": "https://open.spotify.com/artist/0OMqwt5uyjQqbh7KL1Wlg2"
+        },
+        {
+          "name": "Tatiana Cardoso",
+          "url": "https://open.spotify.com/artist/6hw1pyyNC4Tdyckct7VXI2"
+        },
+        {
+          "name": "Dexter dvj",
+          "url": "https://open.spotify.com/artist/6HE6uQPw7QY7DW4uH8pYTb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "n\u00e3o tenho tempo",
+      "url": "https://open.spotify.com/track/1wgywA6vpxvJT0MXHzn37c"
+    },
+    {
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL"
       },
@@ -7282,7 +7362,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 222995,
       "name": "Perder",
       "url": "https://open.spotify.com/track/0YIK0ULri5o6sdXo5N3duR"
@@ -7322,6 +7402,24 @@
       "duration_ms": 169665,
       "name": "Phil Foden",
       "url": "https://open.spotify.com/track/65ZeU61TxIXMBegL7iQQW8"
+    },
+    {
+      "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215730,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
     },
     {
       "album": {
@@ -7651,6 +7749,24 @@
     },
     {
       "album": {
+        "name": "Pussyclat",
+        "url": "https://open.spotify.com/album/6PGVrBQzZ2hYhZkBTQs54k"
+      },
+      "artists": [
+        {
+          "name": "Tiwi",
+          "url": "https://open.spotify.com/artist/0XQ4RowSt9nDM7SXpTCqNU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Pussyclat",
+      "url": "https://open.spotify.com/track/4y9F4RsAfmA4vCuwx7AyFi"
+    },
+    {
+      "album": {
         "name": "P\u00b4ra Qu\u00ea?",
         "url": "https://open.spotify.com/album/1H3qyrczItEPoheSPEDPyH"
       },
@@ -7684,7 +7800,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 154296,
       "name": "P\u00f3dio",
       "url": "https://open.spotify.com/track/73bDYFY2KA3QnyXqZSW7yb"
@@ -7881,6 +7997,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/3n5j3rQkV8q1i6dx6FWqZu"
+      },
+      "artists": [
+        {
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161282,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/6yjVXxc9lzoE9e0B9aSJQY"
+    },
+    {
+      "album": {
         "name": "Realidade",
         "url": "https://open.spotify.com/album/5Yxb9eBlxMOhJGBOudecqZ"
       },
@@ -7968,7 +8102,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152112,
       "name": "REFUND",
       "url": "https://open.spotify.com/track/7IAJ1G5DDwOvng8cEJ5r1V"
@@ -8526,7 +8660,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 193015,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/77ui30Q9Kj2ZJzNZ2R8lti"
@@ -9490,10 +9624,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 195056,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4JYrtfqHZC3caCJp9sfb4r"
+    },
+    {
+      "album": {
+        "name": "Torre de Pisa",
+        "url": "https://open.spotify.com/album/0MPefzkGxK5QsVRG5Jzckl"
+      },
+      "artists": [
+        {
+          "name": "CJ Oficial",
+          "url": "https://open.spotify.com/artist/0U8fdXg8HLIU7FpSFtkacV"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "Torre de Pisa",
+      "url": "https://open.spotify.com/track/4kaal3AMWRFwZIubsyx1lI"
     },
     {
       "album": {
@@ -10286,6 +10438,28 @@
       "duration_ms": 197523,
       "name": "Welele",
       "url": "https://open.spotify.com/track/3whct7sAj8gHwQj5rNim9L"
+    },
+    {
+      "album": {
+        "name": "why?",
+        "url": "https://open.spotify.com/album/3VCNWbAtwolVUjlaeaT9zo"
+      },
+      "artists": [
+        {
+          "name": "Keven Santos",
+          "url": "https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4"
+        },
+        {
+          "name": "MasterPiece",
+          "url": "https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "why?",
+      "url": "https://open.spotify.com/track/6IEEdpREFl5OkYGFsKMM6s"
     },
     {
       "album": {

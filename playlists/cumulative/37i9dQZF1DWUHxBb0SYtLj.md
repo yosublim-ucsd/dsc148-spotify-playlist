@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Angelina Mango
 
-676 songs - 1 day 10 hr 6 min
+679 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Gelosa](https://open.spotify.com/track/3MjPV83UbVdp3I7qU7XzIG) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Gelosa](https://open.spotify.com/album/12XzMU7JSvQZJPj6brqKEH) | 3:37 | 2021-12-07 | 2023-01-04 |
 | [GIARDINO](https://open.spotify.com/track/1QgpjBEwJuNORfC5kptBWS) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [GIARDINO](https://open.spotify.com/album/5mGsTXYrBeVYo5oaPczf7n) | 2:48 | 2022-02-02 | 2022-04-06 |
 | [Giardino](https://open.spotify.com/track/4XKHE8C2hTxIKxsFKf4Dgq) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Giardino](https://open.spotify.com/album/0rBAhpRnIgsP6SzpM27T1J) | 2:41 | 2022-06-02 | 2022-07-06 |
+| [GIN MARE](https://open.spotify.com/track/7vNqbi1PNYc2rZMb9jkCU9) | [Valentina Tioli](https://open.spotify.com/artist/6Xr7cArYkThrMUoOFzYim3) | [GIN MARE](https://open.spotify.com/album/64hx8aOwT5Y1XQfMUWinzf) | 3:06 | 2023-07-05 |  |
 | [Ginga \(feat\. Francesca Michielin & Margherita Vicario\)](https://open.spotify.com/track/4r19wiheQVJoISYbEbDbAe) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:15 | 2021-12-07 | 2022-01-05 |
 | [Giocare e basta](https://open.spotify.com/track/1Nfn9OGU3G0Hg5oUlSCC6O) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Giocare e basta](https://open.spotify.com/album/1z0YpBiDskR6T3kaJEsico) | 2:48 | 2023-01-03 | 2023-02-09 |
 | [Gioco](https://open.spotify.com/track/1GpQWSNybVe8Er7gSmCdGN) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [Gioco](https://open.spotify.com/album/5KqZqRJTD4QdmUv0XRjZm7) | 2:41 | 2023-01-03 | 2023-02-09 |
@@ -425,6 +426,7 @@
 | [Movin'](https://open.spotify.com/track/3j6MsAwOw5FemCn8CIn20l) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt) | [Movin'](https://open.spotify.com/album/2iFD6M0bUR77zQIm6kVZ1s) | 1:51 | 2023-04-04 | 2023-05-03 |
 | [N.M.W.](https://open.spotify.com/track/7DoPIA4uhxPXycGwKxleRk) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [N.M.W.](https://open.spotify.com/album/0vwlRoCO1yN1H11f6Ixxhk) | 3:02 | 2023-02-28 | 2023-04-05 |
 | [Naraworld](https://open.spotify.com/track/5yzo31TEOacdUzDomFiJ5r) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Naraworld](https://open.spotify.com/album/5ZkWvrDpXSkpAA5YcxwKmd) | 2:30 | 2023-04-04 | 2023-05-03 |
+| [Narghilè](https://open.spotify.com/track/4N7qD2Dy0uryKSBweYgwmK) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Narghilè](https://open.spotify.com/album/36upnbVaS6x0NOngtToQMh) | 2:46 | 2023-07-05 |  |
 | [Nei tuoi occhi](https://open.spotify.com/track/5g5wH7B6W2mbHbAp4mo2qO) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Nei tuoi occhi](https://open.spotify.com/album/4yKTT4Gme1eGIT4uVQiwtz) | 3:03 | 2021-12-07 | 2022-02-03 |
 | [Nella notte](https://open.spotify.com/track/4bRhM77AmvTQQUXCBImcFs) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Nella notte](https://open.spotify.com/album/0YfgYmmG8pOs4zhPwnwltu) | 3:05 | 2022-04-05 | 2022-05-04 |
 | [nemico](https://open.spotify.com/track/5IHKlCwNTJwlgaz1zrr5Rh) | [VIOLA](https://open.spotify.com/artist/6hlPSbDnZvl9olgL268bto) | [nemico](https://open.spotify.com/album/4szPhwOiVWtVWzN4VDJHzl) | 2:37 | 2022-05-03 | 2022-06-03 |
@@ -645,6 +647,7 @@
 | [tu.](https://open.spotify.com/track/4onStwuP849eGEa8SY5ebV) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/2pPP9UcdAcHwqHXkJ6XljT) | 3:27 | 2023-02-09 | 2023-04-05 |
 | [tu.](https://open.spotify.com/track/63oeo2wq00LdQNIGCUqEJy) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/3fqmpVZwl8zv9pMUrk7CVI) | 3:27 | 2021-12-07 | 2023-02-25 |
 | [Tutt\* stran\*](https://open.spotify.com/track/4sg1ORbMIL2t8afAHsG7xw) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Tutt\* stran\*](https://open.spotify.com/album/04ubGS2v1n2zI8E91p24Yt) | 2:55 | 2022-01-04 | 2022-02-03 |
+| [TUTTALANOTTE](https://open.spotify.com/track/7ESiYDSEvi5jM6VrGlGWmA) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [TUTTALANOTTE](https://open.spotify.com/album/4457s2rywd1NQZIoGXZtFB) | 3:03 | 2023-07-05 |  |
 | [TUTTO \(con te\)](https://open.spotify.com/track/08Hacl2rWl6GD6TKUyaKIy) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TUTTO \(con te\)](https://open.spotify.com/album/0w7mfTvGuKCG7XQvLuyCda) | 2:58 | 2022-07-05 | 2022-10-07 |
 | [Tutto cambia](https://open.spotify.com/track/12MsDKDc6ENRKFl5k2VM4I) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Cinetica](https://open.spotify.com/album/1Zu8B8E3OypRTNnLlzXNE1) | 3:26 | 2023-01-03 | 2023-02-09 |
 | [Tutto Ok](https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Tutto Ok](https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB) | 2:40 | 2023-06-07 | 2023-07-06 |

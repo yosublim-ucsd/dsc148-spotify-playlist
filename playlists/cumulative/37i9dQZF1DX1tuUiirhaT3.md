@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-269 songs - 14 hr 20 min
+270 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Luna's Longing](https://open.spotify.com/track/70WbmXp6u9PawfFv5kXBeK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Luna's Longing](https://open.spotify.com/album/5QxbhzC2Y8g4PZoboGyqGk) | 3:02 | 2021-12-17 |  |
 | [Magnetic Dream](https://open.spotify.com/track/3c3p7n6aV4hHIV4L01dU9c) | [Ripple Tone](https://open.spotify.com/artist/5mE7YYrMNSHnSSXv8BEqOW) | [Night Sky](https://open.spotify.com/album/7ICgkdDIk75pUuu8dK0xLq) | 4:14 | 2021-12-17 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2022-02-01 |  |
+| [Mare \(Sound Bath\)](https://open.spotify.com/track/2AklRxXDMKpMjQ77QcvY7y) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Mare \(Sound Bath\)](https://open.spotify.com/album/3SHLXo85iiVv4x066RsPv9) | 2:27 | 2023-07-06 |  |
 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 | 2021-12-17 | 2023-01-14 |
 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2022-04-21 |  |
 | [Meditation Rain](https://open.spotify.com/track/5KAkvgPSUrEObeFbPuVT5G) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm), [Rain Sounds](https://open.spotify.com/artist/5nSGBmlgUdqWNExnOX8VtV), [Nature Sounds Nature Music](https://open.spotify.com/artist/2w5q7SKsUmpdUuyf5HOA2c) | [Rain and Ambient Sounds, Relaxation, Meditation, Yoga](https://open.spotify.com/album/4HWmwcJIZ0U5GJMVcvuU4D) | 3:08 | 2021-12-17 |  |
@@ -255,7 +256,7 @@
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2022-09-02 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-07-08 |  |
-| [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 |  |
+| [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 | 2023-07-07 |
 | [Tsuki](https://open.spotify.com/track/5511siuhanSUczAZ00LBli) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Tsuki](https://open.spotify.com/album/0ZHhNoNLZ7xRl6z14zRb7t) | 2:43 | 2022-08-05 |  |
 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 | 2021-12-17 | 2023-02-18 |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-04-13 |  |

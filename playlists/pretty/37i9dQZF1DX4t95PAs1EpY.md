@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,836 likes - 275 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,936 likes - 275 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,7 +275,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 265 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 |
 | 266 | [picnic blanket](https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl) | [feathered friend](https://open.spotify.com/artist/2UKCPn2w6i8etI4ZyIcAwu) | [picnic blanket](https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw) | 2:30 |
 | 267 | [park walk](https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [park walk](https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F) | 2:04 |
-| 268 | [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 |
+| 268 | [Fantasy](https://open.spotify.com/track/6ac0dSqkAAZxExq9mPkW0u) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/2Q2Uy4uZRlTaIGWyWTVEH6) | 1:49 |
 | 269 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
 | 270 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 |
 | 271 | [Particles](https://open.spotify.com/track/3dTJh3LhEuC9eW10OfsDL8) | [The Hooder](https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI) | [Particles](https://open.spotify.com/album/3pOIqsPhHSTLLRXO81UwXo) | 2:19 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 274 | [Saint Remi](https://open.spotify.com/track/6b0HoYY2sBYrdrCHkIkMjC) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Saint Remi](https://open.spotify.com/album/4mcHYh8nyGb0jPd66pwkmC) | 1:42 |
 | 275 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
 
-Snapshot ID: `MCxhMjgzNGRmNTIzMmY3MmQwYmM4ZGNkOGE3Njk4MzZjYWNkZTdmZTcx`
+Snapshot ID: `MCxkMTkxNzk2MGY4ZWRlMGFmMzVkMzE4MTIxNDg0OWQ3NTM4NDg4YzE3`

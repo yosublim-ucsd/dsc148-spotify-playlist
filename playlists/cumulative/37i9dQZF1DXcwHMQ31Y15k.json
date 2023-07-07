@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati, Miqbal GA",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Dike Sabrina",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 328011,
       "name": "Bar Lebaran Tak Lamar",
       "url": "https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm"
+    },
+    {
+      "album": {
+        "name": "Bojomu Sesok Tak Silihe",
+        "url": "https://open.spotify.com/album/30q6Vd8qMesm9HTe7ZwBMp"
+      },
+      "artists": [
+        {
+          "name": "Dike Sabrina",
+          "url": "https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439945,
+      "name": "Bojomu Sesok Tak Silihe",
+      "url": "https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU"
     },
     {
       "album": {
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 322000,
       "name": "Loro Ati",
       "url": "https://open.spotify.com/track/15kqYvm1FS9BbbYoRvLy5q"
@@ -1642,6 +1660,24 @@
       "duration_ms": 294199,
       "name": "Ngemong Ati",
       "url": "https://open.spotify.com/track/2QnOedQK855tVUnNEhrb1n"
+    },
+    {
+      "album": {
+        "name": "Ngertenono Ati (NDX A.K.A. Version)",
+        "url": "https://open.spotify.com/album/50h3iNxuauf2J2Bn0Uk2b5"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240553,
+      "name": "Ngertenono Ati - NDX A.K.A. Version",
+      "url": "https://open.spotify.com/track/5HGhb6GnOjIqt8cD1kDAMU"
     },
     {
       "album": {

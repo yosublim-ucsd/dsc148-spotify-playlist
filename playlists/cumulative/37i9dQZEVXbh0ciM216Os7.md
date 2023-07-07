@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-407 songs - 1 day 2 hr 32 min
+408 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Continue as a Guest](https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:24 | 2023-04-14 | 2023-04-29 |
 | [Crash The Car](https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Crash The Car](https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1) | 5:36 | 2023-06-02 | 2023-07-02 |
 | [Crocadillaz \(feat\. De La Soul and Dawn Penn\)](https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:33 | 2023-03-24 | 2023-03-26 |
+| [Crush Em](https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:45 | 2023-06-30 |  |
 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 | 2023-06-02 | 2023-06-25 |
 | [Cult of Personality \- Re\-Recorded \- Slowed](https://open.spotify.com/track/6ZFJTLRVmMLP0yuv5SvvyP) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Cult of Personality \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK) | 6:36 | 2023-04-14 | 2023-05-06 |
 | [Cult of Personality \- Re\-Recorded \- Sped Up](https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Cult of Personality \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK) | 3:57 | 2023-04-14 | 2023-05-07 |
@@ -135,7 +136,7 @@
 | [Farewell For Now](https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Farewell For Now](https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP) | 4:28 | 2023-06-09 | 2023-06-17 |
 | [Fatha Fig Ya \(Food For Thought\)](https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Fatha Fig Ya \(Food For Thought\)](https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8) | 2:51 | 2023-06-16 |  |
 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2023-06-09 |  |
-| [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 | 2023-06-30 |  |
+| [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 | 2023-06-30 | 2023-07-07 |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-02-17 | 2023-03-12 |
 | [Float \- Coco & Breezy Remix](https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Float \(Coco & Breezy Remix\)](https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF) | 2:28 | 2023-04-14 | 2023-05-14 |
 | [Flowers](https://open.spotify.com/track/2HX8DtqmMOP7YbWmiPtcEo) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Flowers](https://open.spotify.com/album/2TWRSOXBwljfQu4gCaB5DG) | 2:45 | 2023-02-24 | 2023-03-04 |

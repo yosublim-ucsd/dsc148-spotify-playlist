@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Strange Kind Of Beautiful",
+        "url": "https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212052,
+      "name": "A Strange Kind Of Beautiful",
+      "url": "https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM"
+    },
+    {
+      "album": {
         "name": "A&W",
         "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 266558,
       "name": "Blackbox Life Recorder 21f",
       "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
@@ -2543,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
+        "url": "https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126902,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M"
+    },
+    {
+      "album": {
         "name": "Placebo Effect",
         "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
       },
@@ -3264,7 +3300,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
@@ -3732,7 +3768,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
@@ -4376,6 +4412,24 @@
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "album": {
+        "name": "aida",
+        "url": "https://open.spotify.com/album/1f1TfK6OTAumXADOYK9aQ2"
+      },
+      "artists": [
+        {
+          "name": "nenne",
+          "url": "https://open.spotify.com/artist/0pQa8NC0N9XU57aOp3BgXw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "\u661f\u5c51\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj"
     },
     {
       "album": {

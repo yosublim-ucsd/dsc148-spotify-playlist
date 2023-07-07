@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Jordan Hawkins\. Updates every Wednesday.
 
-1,462 songs - 3 day 3 hr 27 min
+1,465 songs - 3 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Aria 4 Arien](https://open.spotify.com/track/6CnrO1LaK6SWg7z7oUqL6r) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Morfo](https://open.spotify.com/album/40ZSt398Y5XNzc8mfeXpCy) | 3:45 | 2022-10-14 | 2022-12-01 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-08 | 2023-03-18 |
 | [as you stand next to me](https://open.spotify.com/track/627qxbzytPTgHdJyB4daBH) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [as you stand next to me](https://open.spotify.com/album/5YhBlECCO2h5d5sN3ZbTaT) | 3:48 | 2023-06-14 |  |
+| [Astro Travel](https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Astro Travel](https://open.spotify.com/album/42VAj34qHpL8CNeiQcfoT1) | 2:43 | 2023-07-06 |  |
 | [At Ease](https://open.spotify.com/track/2U5TfuEcq9dB8KDUOxHdU6) | [Joy Postell](https://open.spotify.com/artist/4kYwi36NsZ6fO8ItxklrjU) | [At Ease](https://open.spotify.com/album/3Nx0jZxQKtboZ1nnsXjbec) | 2:48 | 2023-05-24 |  |
 | [b r e a t h e](https://open.spotify.com/track/7tImEdPjymnkct5JuBeKHc) | [c i r u](https://open.spotify.com/artist/3QbGzV6Q0FWM2QOYGXWzlu), [T££KAY](https://open.spotify.com/artist/20kYuYDnROwFgsEqncI37Q) | [b r e a t h e](https://open.spotify.com/album/3SbFrYQ14SZoge8uiHTQP3) | 2:59 | 2022-02-02 | 2022-03-31 |
 | [B.A.N](https://open.spotify.com/track/43u8rXMwsR0THCP3fzJcO7) | [Nemchel](https://open.spotify.com/artist/7g0FhvYZY0xU9wklCVheEZ) | [B.A.N](https://open.spotify.com/album/7J2wNjEvMmUcC4e9rka6mk) | 2:40 | 2023-01-26 | 2023-03-11 |
@@ -682,6 +683,7 @@
 | [JUST LIKE CANDY](https://open.spotify.com/track/4ZYRg8OoQHW9QrZnnpc4eo) | [NOLO'S ADDICTION](https://open.spotify.com/artist/3bRDNCB8IF5XtlOq6zXJVx) | [JUST LIKE CANDY](https://open.spotify.com/album/0HBgHHLaptDEBMhfwqtXy5) | 2:07 | 2023-06-14 |  |
 | [Just Like Her Father](https://open.spotify.com/track/4CdlBxaStYMMIQTsA8jFDk) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Just Like Her Father](https://open.spotify.com/album/5sGcc4EJoo4wxKQEe2eTQ9) | 2:42 | 2023-06-21 |  |
 | [Just Say It](https://open.spotify.com/track/2tQTsxBqkioaN32tNzRT4o) | [Most Wanted](https://open.spotify.com/artist/4eIyU9Cvy0ZHhOCDmGV6KJ) | [Just Say It](https://open.spotify.com/album/2z9RS0N9TgbKjmp1Ieakbu) | 4:08 | 2023-04-12 | 2023-05-06 |
+| [Just Us](https://open.spotify.com/track/4V3RiPZykfkK4tPS7aH57p) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Where I'll Be](https://open.spotify.com/album/14B0RWfGmqtFFgFpJ9WqMB) | 3:18 | 2023-07-06 |  |
 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 | 2022-08-19 | 2022-09-22 |
 | [Kamikaze](https://open.spotify.com/track/5aNxi9Uml850JvkanuzLLK) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Kamikaze](https://open.spotify.com/album/7Ji3MU5AHPIzRkBa8HpokG) | 2:40 | 2022-01-12 | 2022-02-17 |
 | [Karmic](https://open.spotify.com/track/0GdgnEnTzgR8ssY59grwgP) | [Ginga Soul](https://open.spotify.com/artist/63jNEsLjqsjKHGd8JxJWlB), [A'sean](https://open.spotify.com/artist/3Y2baLtnZNy38CfukrmwpF) | [Karmic](https://open.spotify.com/album/3sg3HcroTLZwBQnLOq8IL0) | 3:56 | 2023-03-31 |  |
@@ -716,6 +718,7 @@
 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 | 2023-01-18 | 2023-04-13 |
 | [Lazy](https://open.spotify.com/track/2yUpjVuoOayvQMGfVxiMMg) | [ORLA](https://open.spotify.com/artist/5sHqhL6oZ1UsGj4U1oMpgq) | [Lazy](https://open.spotify.com/album/63T7q6j4KymxN7SXJSmPTa) | 3:04 | 2022-01-12 | 2022-02-03 |
 | [Leave Me](https://open.spotify.com/track/7gkO0BWzN7UOJ9486M6DLn) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD) | [Leave Me](https://open.spotify.com/album/0vEYRRKwWLWU1GWCQU76Uq) | 2:10 | 2023-04-29 |  |
+| [Leave Me](https://open.spotify.com/track/0a1mf675Arb5BU0uGjxgQN) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Leave Me](https://open.spotify.com/album/7iAvQd9vi01MMnrZdqGrg6) | 2:34 | 2023-07-06 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-14 | 2023-03-04 |
 | [Lemme See](https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Lemme See](https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA) | 2:47 | 2022-01-19 | 2022-03-03 |
 | [Lemon Pepper Wet](https://open.spotify.com/track/6HyDUjZBvAitKVlEo3UPMt) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Lemon Pepper](https://open.spotify.com/album/55oG73KquavbB7LQ9SN8ut) | 2:41 | 2022-01-12 | 2022-02-03 |

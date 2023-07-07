@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits, repackaged\. Cover \- Sooryavanshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,003 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,145 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Haseeno Ka Deewana](https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 3:49 |
 | 50 | [Raabta \(Title Track\) \[From "Raabta"\]](https://open.spotify.com/track/1LvOpTDkOfMZEqkr2fUgrz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Arijit Singh: Love Songs](https://open.spotify.com/album/6LWZ330atfYF43nk7m3pKW) | 4:57 |
 
-Snapshot ID: `MCxkNTI5N2Y5MjE5OWFhN2FkMjk3NDk5YjUxYjc4NDlkNGViYWI1YjU1`
+Snapshot ID: `MCxhYzhmODc0Yzg3OWRhYjdkNDZjYWM2NmFhNDU0YTkwMzdiYjVkMTk2`

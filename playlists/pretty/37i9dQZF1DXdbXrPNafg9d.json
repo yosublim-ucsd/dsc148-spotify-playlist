@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Del Water Gap",
-  "num_followers": 1280494,
+  "num_followers": 1280545,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGNhMmYzZmI1ZDk2Mjg0NmQ1MmM4YzhiYTI1ODlmMTA1MDA1ODJh",
+  "snapshot_id": "MCw5ZDQwMGJlNGE0NGNjNzUyNGY3NzBiMjg5ZjRhNDY1NTQ0ZmNkZWUw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -54,10 +54,6 @@
         {
           "name": "Mallrat",
           "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
       "duration_ms": 176730,

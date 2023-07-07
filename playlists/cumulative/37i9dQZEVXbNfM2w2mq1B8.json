@@ -21466,7 +21466,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 191714,
       "name": "\u0418\u043c\u0435\u0442\u043e \u0442\u0438",
       "url": "https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg"
@@ -22752,6 +22752,24 @@
       "duration_ms": 173561,
       "name": "\u0421\u0442\u0440\u0435\u0441 \u0442\u0435\u0441\u0442",
       "url": "https://open.spotify.com/track/6i3e7v3Wclce3OJgYD5dy1"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
+        "url": "https://open.spotify.com/album/3RlYzrwkWDm7upLJS80j5U"
+      },
+      "artists": [
+        {
+          "name": "ToTo H",
+          "url": "https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
+      "url": "https://open.spotify.com/track/3MKjnQVRYKRDfNMOKFyviA"
     },
     {
       "album": {

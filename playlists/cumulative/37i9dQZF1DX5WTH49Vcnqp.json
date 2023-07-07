@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: The Japanese House",
+  "description": "Music that's hard to define but easy to love. Cover: Dominic Fike",
   "name": "Front Left",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
@@ -732,6 +732,24 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "album": {
+        "name": "America Forever (with Maisie Peters & Carol Ades)",
+        "url": "https://open.spotify.com/album/0cSX6abZYSztD0PWqSNOMj"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242499,
+      "name": "America Forever (with Maisie Peters & Carol Ades)",
+      "url": "https://open.spotify.com/track/5C518FHhKZWfBBiR4RmZnv"
     },
     {
       "album": {
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
@@ -4114,10 +4132,6 @@
         {
           "name": "Mallrat",
           "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
       "date_added": "2023-06-29",
@@ -5979,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "freeze",
+        "url": "https://open.spotify.com/album/0dmppT4U3XKjXHhXXOudQa"
+      },
+      "artists": [
+        {
+          "name": "Triple One",
+          "url": "https://open.spotify.com/artist/686zrKch7tQIpoOpdSIpTo"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "freeze",
+      "url": "https://open.spotify.com/track/75G9W64qwQMaCLPkK0ok43"
+    },
+    {
+      "album": {
         "name": "dreambird",
         "url": "https://open.spotify.com/album/06nQkI0Enft9CSY8CehIj0"
       },
@@ -6830,7 +6862,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
@@ -8992,7 +9024,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
@@ -10083,6 +10115,24 @@
     },
     {
       "album": {
+        "name": "Lookin' Out",
+        "url": "https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227222,
+      "name": "Lookin' Out",
+      "url": "https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ"
+    },
+    {
+      "album": {
         "name": "Looking High",
         "url": "https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx"
       },
@@ -10112,7 +10162,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 190631,
       "name": "Loser at Best",
       "url": "https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat"
@@ -11855,6 +11905,28 @@
     },
     {
       "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "album": {
         "name": "Painful",
         "url": "https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc"
       },
@@ -13229,6 +13301,28 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB"
+      },
+      "artists": [
+        {
+          "name": "Aidan Fine",
+          "url": "https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V"
+        },
+        {
+          "name": "Lisa Grace",
+          "url": "https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI"
+    },
+    {
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
       },
@@ -14420,7 +14514,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 167154,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/6CBnRbjwQaivJFtOP8giTg"
@@ -14518,6 +14612,28 @@
       "duration_ms": 278128,
       "name": "Sidewalk",
       "url": "https://open.spotify.com/track/6uy9SVkJLW4lqkosNsflfd"
+    },
+    {
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "album": {
@@ -14860,7 +14976,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 198019,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R"
@@ -15649,6 +15765,24 @@
     },
     {
       "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "SUNDAY",
+      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
+    },
+    {
+      "album": {
         "name": "Player One",
         "url": "https://open.spotify.com/album/4UO3OkkwR1YV4TC5yD6ZvI"
       },
@@ -15798,7 +15932,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 257153,
       "name": "Super Ego",
       "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
@@ -16774,6 +16908,28 @@
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
+    },
+    {
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222839,
+      "name": "Think Fast (feat. Weezer)",
+      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
       "album": {

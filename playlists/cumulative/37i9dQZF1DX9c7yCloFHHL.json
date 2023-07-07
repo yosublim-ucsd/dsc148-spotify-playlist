@@ -8969,6 +8969,24 @@
     },
     {
       "album": {
+        "name": "Minamo",
+        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Kiteki",
+      "url": "https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC"
+    },
+    {
+      "album": {
         "name": "Kizuna",
         "url": "https://open.spotify.com/album/7JzP4xRIXlG24pT6dqZmbG"
       },
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168000,
       "name": "Life Lived in the Echoes of Emptiness",
       "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
@@ -11546,7 +11564,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 400846,
       "name": "Nocturne 4 - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
@@ -13484,6 +13502,24 @@
       "duration_ms": 1152133,
       "name": "Quiet Renewal",
       "url": "https://open.spotify.com/track/1UtNy5OGgLvWkjeTT4oexp"
+    },
+    {
+      "album": {
+        "name": "SOMNUM",
+        "url": "https://open.spotify.com/album/4jRgORqYs9lqcNA3sHEbIG"
+      },
+      "artists": [
+        {
+          "name": "H\u00c6LOS",
+          "url": "https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186368,
+      "name": "Quietus",
+      "url": "https://open.spotify.com/track/462xPwNdnOLE0yEAmbcgrO"
     },
     {
       "album": {

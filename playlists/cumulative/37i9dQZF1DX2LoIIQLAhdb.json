@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 203050,
       "name": "Assez (\u00e9pisode 1)",
       "url": "https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H"
@@ -292,6 +292,42 @@
       "duration_ms": 171162,
       "name": "Bloqu\u00e9",
       "url": "https://open.spotify.com/track/6mGwNtvWWyTFtkhPP8AEsX"
+    },
+    {
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ"
+      },
+      "artists": [
+        {
+          "name": "SisiK",
+          "url": "https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158378,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT"
+    },
+    {
+      "album": {
+        "name": "MOOD3 (Glish)",
+        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211180,
+      "name": "Bolingo",
+      "url": "https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G"
     },
     {
       "album": {
@@ -665,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Demoiselle",
+        "url": "https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4"
+      },
+      "artists": [
+        {
+          "name": "MIYA",
+          "url": "https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Demoiselle",
+      "url": "https://open.spotify.com/track/1rBGjBW9hsKvPt0QVnQk0g"
+    },
+    {
+      "album": {
         "name": "Dernier je t'aime",
         "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
       },
@@ -1010,7 +1064,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 179902,
       "name": "Go",
       "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 93129,
       "name": "Kass\u00efm",
       "url": "https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm"
@@ -1459,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "FAREWELL",
+        "url": "https://open.spotify.com/album/5LjYtn7feCJfP3vpaHw7s5"
+      },
+      "artists": [
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "LA LOI (feat. Franglish)",
+      "url": "https://open.spotify.com/track/5fZvfkA6x85Ie2YtvRrB1Q"
+    },
+    {
+      "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR"
       },
@@ -1488,7 +1564,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 139095,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7JfGZhzQUeZMHMVVHkhNbc"
@@ -2058,7 +2134,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 195000,
       "name": "Nefertiti",
       "url": "https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR"
@@ -2727,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Tatiana",
+        "url": "https://open.spotify.com/album/4Vx7h6MaCrPBfx35xjuFBn"
+      },
+      "artists": [
+        {
+          "name": "A\u00f6me",
+          "url": "https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205785,
+      "name": "Tatiana",
+      "url": "https://open.spotify.com/track/3nyyodJO8A9kqEbssWdJvX"
+    },
+    {
+      "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI"
       },
@@ -2825,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Tout",
+        "url": "https://open.spotify.com/album/7xWdkdj3NvGshk6QDuQNuB"
+      },
+      "artists": [
+        {
+          "name": "Pearl",
+          "url": "https://open.spotify.com/artist/2MhjocNxlP3QVRiKqKcpkF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158971,
+      "name": "Tout",
+      "url": "https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA"
+    },
+    {
+      "album": {
         "name": "Trop tard",
         "url": "https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH"
       },
@@ -2880,7 +2992,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 170500,
       "name": "Une Femme",
       "url": "https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9"

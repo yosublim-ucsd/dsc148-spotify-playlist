@@ -2126,6 +2126,24 @@
     {
       "album": {
         "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2Q2Uy4uZRlTaIGWyWTVEH6"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109446,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6ac0dSqkAAZxExq9mPkW0u"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
         "url": "https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t"
       },
       "artists": [
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 109446,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ"

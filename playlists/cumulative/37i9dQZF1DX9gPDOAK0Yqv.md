@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-274 songs - 1 day 0 hr 25 min
+275 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-03-30 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
 | [All That Matters \- ARTBAT Remix](https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 8:49 | 2023-04-28 |  |
+| [Alone ft\. braev](https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:46 | 2023-06-30 |  |
 | [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 | 2023-04-27 |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 | 2023-03-11 |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
@@ -238,7 +239,7 @@
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-11-23 |  |
 | [Tatanka](https://open.spotify.com/track/7F6B3zGnultHVnJXdNo66j) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tatanka](https://open.spotify.com/album/3N5NIDmGT4ZMtqyiOA9okM) | 6:22 | 2023-03-22 | 2023-03-25 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-12-28 | 2023-01-06 |
-| [The Edge](https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [The Edge](https://open.spotify.com/album/2cooPo4EPTTifPKXr2Buid) | 3:46 | 2023-06-02 |  |
+| [The Edge](https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [The Edge](https://open.spotify.com/album/2cooPo4EPTTifPKXr2Buid) | 3:46 | 2023-06-02 | 2023-07-07 |
 | [The First Rebirth](https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [The First Rebirth](https://open.spotify.com/album/5WZUYgzp0bkcGosnYBiG10) | 7:01 | 2023-02-10 | 2023-02-18 |
 | [The Girl In Black](https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [The Girl In Black](https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1) | 7:10 | 2023-01-06 | 2023-01-11 |
 | [The Kid and the Planes](https://open.spotify.com/track/1hKOeHFbeGBadMDIeT3NT0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [The Kid and the Planes](https://open.spotify.com/album/6Qcay3XgV5sa1nrQm2bSwv) | 8:05 | 2022-11-23 | 2022-11-29 |

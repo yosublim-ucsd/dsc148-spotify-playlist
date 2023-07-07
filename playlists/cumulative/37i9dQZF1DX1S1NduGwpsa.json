@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "description": "The best jazz new releases. Cover: Gabriels",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 231818,
       "name": "Chasing Days",
       "url": "https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl"
@@ -2189,6 +2189,36 @@
     },
     {
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi"
+      },
+      "artists": [
+        {
+          "name": "Thomas de Pourquery",
+          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
+        },
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Fabrice Martinez",
+          "url": "https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D"
+        },
+        {
+          "name": "Dr\u00f4les de Dames",
+          "url": "https://open.spotify.com/artist/60UrGS7OunULLM2GBl6ocw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296761,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4"
+    },
+    {
+      "album": {
         "name": "Introducing - Danger Zone",
         "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
       },
@@ -2224,6 +2254,24 @@
       "duration_ms": 114413,
       "name": "Gravy Waltz",
       "url": "https://open.spotify.com/track/1DEJ1CsHeZUHaXAULowcw5"
+    },
+    {
+      "album": {
+        "name": "Angels & Queens (Deluxe)",
+        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Great Wind",
+      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
       "album": {
@@ -3806,7 +3854,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 234280,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
@@ -3839,6 +3887,28 @@
     },
     {
       "album": {
+        "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/1s1hg0fDxYubOCjG5dJT4s"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc"
+    },
+    {
+      "album": {
         "name": "Nobody Else But Me",
         "url": "https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G"
       },
@@ -3854,7 +3924,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 219800,
       "name": "Nobody Else But Me",
       "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
@@ -4566,7 +4636,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 366880,
       "name": "Rituel du soleil",
       "url": "https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ"
@@ -4664,6 +4734,24 @@
       "duration_ms": 204440,
       "name": "RYTHMO\u00cfD",
       "url": "https://open.spotify.com/track/3lV360S8DDKzCqz1BH0LnV"
+    },
+    {
+      "album": {
+        "name": "Sal Al Malec\u00f3n",
+        "url": "https://open.spotify.com/album/1ybjgopLYNB9XbJBKRF8JS"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186399,
+      "name": "Sal Al Malec\u00f3n",
+      "url": "https://open.spotify.com/track/4r4pcD6Q0TK5MSfhJ6W16Z"
     },
     {
       "album": {

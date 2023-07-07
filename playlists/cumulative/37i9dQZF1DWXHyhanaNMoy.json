@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: FMG",
+  "description": "Motion en good vibes! Cover: Trobi, Bryan Mg, Qlas & Blacka",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -407,6 +407,32 @@
     },
     {
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/151p3pMxHoQ05WsfkIcT75"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Qlas & Blacka",
+          "url": "https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142128,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/6CasF7OaFADJG3VwvzQ2CG"
+    },
+    {
+      "album": {
         "name": "Ahora Me Dice",
         "url": "https://open.spotify.com/album/1ps1Jf65nJUnzmokz4uiMo"
       },
@@ -652,6 +678,24 @@
       "duration_ms": 175250,
       "name": "Amazin' - Remix",
       "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
+    },
+    {
+      "album": {
+        "name": "Respect The Pain 1",
+        "url": "https://open.spotify.com/album/2IWDkp7lBkc1sAyIIU13P3"
+      },
+      "artists": [
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/1FlTaX2AKIEHOJOjhLoZMf"
     },
     {
       "album": {
@@ -2455,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
         "name": "Champagnepapi",
         "url": "https://open.spotify.com/album/544LI0WlNrtjbeOqYJuCiT"
       },
@@ -3460,7 +3526,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 147174,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
@@ -4392,7 +4458,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 166285,
       "name": "Gass",
       "url": "https://open.spotify.com/track/5uYGN9BbTXC6QYJHJthCMS"
@@ -4520,10 +4586,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 172800,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/74qMas7bU9KI0YnC9OYf4Q"
+    },
+    {
+      "album": {
+        "name": "Ghetto Party",
+        "url": "https://open.spotify.com/album/00040GBRA1nFBnNrJyFGxx"
+      },
+      "artists": [
+        {
+          "name": "Hakmadafack",
+          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Ghetto Party",
+      "url": "https://open.spotify.com/track/0vrfhHCvK7AhITc5EI2u0l"
     },
     {
       "album": {
@@ -5728,7 +5820,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 153521,
       "name": "Jhalak",
       "url": "https://open.spotify.com/track/4jySosSV8hElpCyfZ2mV6K"
@@ -6917,6 +7009,28 @@
     },
     {
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/7wYYs2EijpabDYlSnC0YwL"
+      },
+      "artists": [
+        {
+          "name": "Smitmeister",
+          "url": "https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY"
+        },
+        {
+          "name": "Jayson Alanzo",
+          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142103,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT"
       },
@@ -7881,6 +7995,32 @@
     },
     {
       "album": {
+        "name": "Mozer Is Nijba",
+        "url": "https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui"
+      },
+      "artists": [
+        {
+          "name": "Keess",
+          "url": "https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        },
+        {
+          "name": "D-opss",
+          "url": "https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145208,
+      "name": "Mozer Is Nijba",
+      "url": "https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O"
+    },
+    {
+      "album": {
         "name": "Mo\u00ebt, Vodka, Henny",
         "url": "https://open.spotify.com/album/2cgDQCOCGSiDpkx83OTddV"
       },
@@ -8612,7 +8752,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 169565,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/2iuRmiKpi7kirX5KWGA9XK"
@@ -9244,7 +9384,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 156000,
       "name": "Parra",
       "url": "https://open.spotify.com/track/2Z70Qn4knFDwYhFFEa6gkJ"
@@ -9398,7 +9538,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
@@ -9428,6 +9568,32 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5ys0fnR2mKWub5L5OuaBHy"
+      },
+      "artists": [
+        {
+          "name": "LVZY",
+          "url": "https://open.spotify.com/artist/5URgLdTZE8arO0jtby46BG"
+        },
+        {
+          "name": "Lienz",
+          "url": "https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz"
+        },
+        {
+          "name": "Beat Fabrique",
+          "url": "https://open.spotify.com/artist/7t61VJCf7tWsjuMRpr1OiV"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/7JM7sFQCcuErfMfN5YAIGU"
     },
     {
       "album": {
@@ -9468,7 +9634,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 143529,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/42GlLOlvrkjaP3zLPfFJdH"
@@ -9785,6 +9951,28 @@
     },
     {
       "album": {
+        "name": "Pussy Fit",
+        "url": "https://open.spotify.com/album/0z5fDW1Nny5R2fKCK1XpVo"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127726,
+      "name": "Pussy Fit",
+      "url": "https://open.spotify.com/track/6Bks4z7g1KpbGsTKkT2AAY"
+    },
+    {
+      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -9936,6 +10124,24 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "album": {
+        "name": "Regen Dans",
+        "url": "https://open.spotify.com/album/7zot3ylo8dvfYPuTCUQ47p"
+      },
+      "artists": [
+        {
+          "name": "Dreyh",
+          "url": "https://open.spotify.com/artist/2UsHIQht15KwZwz0UzxLuF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147631,
+      "name": "Regen Dans",
+      "url": "https://open.spotify.com/track/6BonI30ft7Q2DhX71omXil"
     },
     {
       "album": {
@@ -10258,7 +10464,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 189064,
       "name": "Sen D\u00f6nene Kadar",
       "url": "https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN"
@@ -12337,6 +12543,28 @@
     },
     {
       "album": {
+        "name": "WACHT MAMI",
+        "url": "https://open.spotify.com/album/2K8LRpB5bNpgLWq2ymcyy7"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "WACHT MAMI",
+      "url": "https://open.spotify.com/track/2wcFwxWIv0RmZaWo2v5Y45"
+    },
+    {
+      "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
       },
@@ -12616,7 +12844,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 132478,
       "name": "We Moeten Door",
       "url": "https://open.spotify.com/track/3LsdhPYQqoAbuDo2sEAzGz"

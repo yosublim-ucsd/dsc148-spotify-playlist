@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,133 likes - 124 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,146 likes - 124 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 123 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 124 | [YAZAWA](https://open.spotify.com/track/4IV0yAxtWiRmaYxQvhmoCQ) | [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [YAZAWA](https://open.spotify.com/album/3UgxmPCV4KCWHlqZxQuFhi) | 2:30 |
 
-Snapshot ID: `MCwzNjUzMGRiN2Q1YmE5OGQxOTQ2MmQ2N2U2ZjY0MWI2ODkyM2MwNjNh`
+Snapshot ID: `MCxlYzNjYTk0NGY0OTZiZDM5ZTlmN2E0NTc1ZWQzZGUwYmQ0MTY4NWU1`

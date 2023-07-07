@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "0800 HEAVEN (Acoustic)",
+        "url": "https://open.spotify.com/album/7Gv5e3oZ7nPKMXwQBO3MYm"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228270,
+      "name": "0800 HEAVEN - Acoustic",
+      "url": "https://open.spotify.com/track/1GkYwdCxt9CANT3gsF5qGP"
+    },
+    {
+      "album": {
         "name": "10,000 Hours (with Justin Bieber) [Piano]",
         "url": "https://open.spotify.com/album/2YtdV4AkQesuqE6UwSADk7"
       },
@@ -478,7 +504,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 223200,
       "name": "Brayford Odeon",
       "url": "https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI"
@@ -550,7 +576,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 213316,
       "name": "Columbo",
       "url": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
@@ -1106,7 +1132,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 236080,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3BPtB1Ov7UAjLGYgNwEm5c"
@@ -1558,6 +1584,24 @@
       "duration_ms": 160616,
       "name": "How Do I Say Goodbye - Orchestral",
       "url": "https://open.spotify.com/track/244DsAHr6ymuxUXmldaZCW"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel (Acoustic)",
+        "url": "https://open.spotify.com/album/7ET76dxz9GkF5UNrptpkP1"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133178,
+      "name": "How Does It Feel - Acoustic",
+      "url": "https://open.spotify.com/track/6JQsHhEwXjM4quc6Uuhe39"
     },
     {
       "album": {
@@ -3074,6 +3118,28 @@
       "duration_ms": 202142,
       "name": "Send My Love / Sit Still, Look Pretty (Acoustic Mashup)",
       "url": "https://open.spotify.com/track/55qNvU28lXUg71TKMqiXmM"
+    },
+    {
+      "album": {
+        "name": "Separate Ways (Worlds Apart) [Stripped Down]",
+        "url": "https://open.spotify.com/album/0M2Um59muj9gb80oRlTyDX"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262556,
+      "name": "Separate Ways (Worlds Apart) - Stripped Down",
+      "url": "https://open.spotify.com/track/7vIucU2XRSATEeXjjzzToQ"
     },
     {
       "album": {

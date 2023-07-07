@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! Wanna ride the Roller Coaster with NMIXX?
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 36 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,051 likes - 36 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 35 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 | 36 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 
-Snapshot ID: `MCw1YjkxMjkwZWMyZGNlYTU5Yjg3NWNhNTcxYzViYzM4Y2MzZGQ1ZmY4`
+Snapshot ID: `MCwxZWRlNTJhZWFiODBhZGEwZjA3MTI3NmE2NjFjMDY5NGQ4Y2Q0OGY3`

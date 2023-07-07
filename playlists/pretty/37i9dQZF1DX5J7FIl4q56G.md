@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,331 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,501 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Malignant Visions](https://open.spotify.com/track/6Tbsy7matHjDnOPz0lJxnk) | [Disguised Malignance](https://open.spotify.com/artist/0e5FD8Ns1BnTTOMEZk4Cvf) | [Malignant Visions](https://open.spotify.com/album/5a0BLnqAg66iQ7VNmfZl6q) | 4:43 |
 | 55 | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/track/4L9rjEyilWCD2U1NSYi0aR) | [AREIERA](https://open.spotify.com/artist/3jw3OCk2ruHi0dikIiFwR8), [Timo Tolkki](https://open.spotify.com/artist/7l18v4VkyEtRXHz9UzMo3r) | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/album/2k76mhH7O74uBmq8VlonyI) | 2:52 |
 
-Snapshot ID: `MCwzN2VhMjAxNDNjZjVlNjY0M2VhMmUwNjMzODZmYjg1ODU2MWZjODE2`
+Snapshot ID: `MCxjNzQ2MjYxMmFhMmJmNzI0Y2M1YmMzZDE3OWVkNWUwZmQ1MmE1NGRh`

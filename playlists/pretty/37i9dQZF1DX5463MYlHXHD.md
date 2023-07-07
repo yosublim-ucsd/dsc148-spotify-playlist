@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Cumbia pa' volar la chapa ñeri\. Foto: DobleP, Repiola & R Jota.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,579 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,699 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 43 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 |
 | 44 | [Tamo Chelo \- Remix](https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DINERO EN EL BEAT](https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0) | [Tamo Chelo \(Remix\)](https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE) | 5:38 |
 | 45 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 |
-| 46 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 |
-| 47 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 |
+| 46 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 |
+| 47 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 |
 | 48 | [Hoy Te Vi](https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [Melodia Kallejera](https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 3:38 |
 | 49 | [Cumbia del Recuerdo](https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Cumbia del Recuerdo](https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA) | 2:57 |
 | 50 | [Pinta](https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Pinta](https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha) | 2:57 |
-| 51 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 |
-| 52 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 |
+| 51 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 |
+| 52 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 |
 | 53 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
 | 54 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
 | 55 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 119 | [Mari y Juana](https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:30 |
 | 120 | [Como una Pelota](https://open.spotify.com/track/0sbJx6LrsIRWpPbqfVp1vh) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Pase y Vea, Acá Suena la Cumbia](https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm) | 2:47 |
 
-Snapshot ID: `MCxhMjM2NjU1YTY5NTEwZmMwYzM5M2YyNGQzNDU4NWIwM2QyMmE3Mzgy`
+Snapshot ID: `MCxmNmU0ZGVmZTY5NjU5NmY4YTZkODllMTNlYzIzMmQ4NGY1ODE3MmFl`

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-436 songs - 16 hr 48 min
+437 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Everything Once Again](https://open.spotify.com/track/6VIVyMdXYvA18tqfY9LNss) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Everything Once Again](https://open.spotify.com/album/5UWIOdwytfQBtbrJzq2exd) | 2:30 | 2021-12-07 |  |
 | [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-06-06 |  |
 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 | 2021-12-07 |  |
-| [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 | 2022-08-12 |  |
+| [Fantasy](https://open.spotify.com/track/6ac0dSqkAAZxExq9mPkW0u) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/2Q2Uy4uZRlTaIGWyWTVEH6) | 1:49 | 2023-06-06 |  |
+| [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 | 2022-08-12 | 2023-07-07 |
 | [Faro](https://open.spotify.com/track/6jL7VAN6WbWWWGH092DHKB) | [Sou El](https://open.spotify.com/artist/11UKM0qEi2HoFEIsS18t9f) | [Faro](https://open.spotify.com/album/1moyLhxoQIXe2rogVoUckL) | 2:35 | 2021-12-07 |  |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-12-07 |  |
 | [Feeling Home](https://open.spotify.com/track/6XsYemXw6IHXqVyFFzk2sX) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:59 | 2021-12-07 | 2022-09-03 |

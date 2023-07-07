@@ -4,7 +4,7 @@
 
 > ...and find your focus.
 
-190 songs - 15 hr 16 min
+191 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,9 @@
 | [just listen](https://open.spotify.com/track/7tU5OELEHWlzFsqOBZ1qUh) | [Sabastian](https://open.spotify.com/artist/41I5fCabwXD9uKDbhkGGtZ) | [just listen](https://open.spotify.com/album/1dvbVkme2aiexPUI5kB9Td) | 2:39 | 2020-10-20\* | 2021-02-04 |
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-07-04 | 2022-06-17 |
 | [Kunanyi](https://open.spotify.com/track/5WBXcxVorbFCirsQ3Xf9hd) | [Daisies Net](https://open.spotify.com/artist/5jt9Y6flRumfQ96XmA6upo) | [Kunanyi](https://open.spotify.com/album/3m2pqWyGdSi0iJ2amcpjRl) | 4:13 | 2021-07-24 | 2022-09-30 |
+| [L'Architettura del Mare](https://open.spotify.com/track/1kFwSvc8JU0DpSQKPFnT9e) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2ujVgmWjfYJHYYmDeiWjeh) | 5:04 | 2023-01-26 |  |
 | [L'architettura Del Mare](https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:04 | 2021-07-04 | 2022-10-14 |
-| [L'architettura Del Mare](https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 5:04 | 2022-09-29 |  |
+| [L'architettura Del Mare](https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 5:04 | 2022-09-29 | 2023-07-07 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-02-10 |  |
 | [Last Known Image of a Song](https://open.spotify.com/track/5WuaGZRtMNc0hlxg4W2IBV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Age Of](https://open.spotify.com/album/05A41BF3z2E5F0tnTyWRNh) | 4:06 | 2020-10-20\* | 2021-02-04 |
 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 | 2021-08-21 |  |

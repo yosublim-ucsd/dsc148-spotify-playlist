@@ -1,12 +1,12 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Nina Su\u00e1rez en portada.",
-  "num_followers": 40907,
+  "num_followers": 40912,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmJlZDBlMDc1OTY1YTdhNGRkMWRlMWI3ZmQyMGUyOGU1NGYyNzgz",
+  "snapshot_id": "MCwxMjA1ZDRlZjg0YTNmNzRiYjgzMWVhMWYwMmM5YTZmZDU1ZDJmMDZi",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -75,10 +75,14 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mi hero\u00edna (Rework)",
+        "name": "Mi hero\u00edna (Xavi Road Rework)",
         "url": "https://open.spotify.com/album/3ICol6hGgpP0tgxpfWl1gc"
       },
       "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        },
         {
           "name": "S\u00f4ber",
           "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
@@ -86,14 +90,10 @@
         {
           "name": "Xavi Road",
           "url": "https://open.spotify.com/artist/5rb9QPhDs8JtHgzoPVrhpF"
-        },
-        {
-          "name": "Carlos Escobedo",
-          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
         }
       ],
       "duration_ms": 202205,
-      "name": "Mi hero\u00edna - Rework",
+      "name": "Mi hero\u00edna - Xavi Road Rework",
       "url": "https://open.spotify.com/track/2csUSha7n4gCnSd11UcsRI"
     },
     {

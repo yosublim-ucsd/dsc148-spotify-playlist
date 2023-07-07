@@ -4,7 +4,7 @@
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Melly Goeslaw
 
-71 songs - 4 hr 29 min
+73 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 | 2023-03-16 |  |
 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 | 2023-03-16 |  |
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
+| [Bubuy Bulan](https://open.spotify.com/track/2Xs2Bu0gQ0mLFDwa26Sx7j) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bubuy Bulan](https://open.spotify.com/album/5ISliUkLTFhFa3lPA2mAJY) | 4:35 | 2023-07-06 |  |
 | [Cerita Cinta](https://open.spotify.com/track/5PccS3eocPF3x4dfayUU7A) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Be My Valentine](https://open.spotify.com/album/544XgrdVXO7eH0Jf1S3oNP) | 4:22 | 2023-03-16 |  |
 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 | 2023-03-16 |  |
 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 | 2023-03-16 |  |
@@ -75,6 +76,7 @@
 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 | 2023-03-16 |  |
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2023-03-16 |  |
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2023-03-16 |  |
+| [Ulin Atuh](https://open.spotify.com/track/1ZAwhIa0dUVuaZf8KAq2YM) | [Fiksi Aunurofik](https://open.spotify.com/artist/4Z2WfePWlHXuiqV6haaZ8e) | [Ulin Atuh](https://open.spotify.com/album/5yc3e6YbHq9uL1EU01LbM9) | 3:57 | 2023-07-06 |  |
 | [UNDER GOD'S PLAN](https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [ISYANA](https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI) | 6:51 | 2023-05-25 |  |
 | [untuk hati yang terluka.](https://open.spotify.com/track/28r2ClCmnKAclZZYqE0LTg) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [LEXICON](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) | 3:59 | 2023-03-16 |  |
 | [Violet](https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Violet](https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF) | 2:48 | 2023-03-16 |  |

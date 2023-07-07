@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: L'Impératrice, Cuco
 
-1,159 songs - 2 day 20 hr 40 min
+1,160 songs - 2 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,7 +899,8 @@
 | [Sinister Bell](https://open.spotify.com/track/0nk1knaCkAkiWkpVVjNoQ6) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Sinister Bell](https://open.spotify.com/album/7aLNgqa1iTualPGAGBtqRG) | 4:08 | 2022-05-06 | 2022-06-04 |
 | [Situational](https://open.spotify.com/track/7ipgKrBBCVU1Y7gsIwtzbY) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Situational](https://open.spotify.com/album/3t5DJ117xQowMf8os3AFbK) | 3:37 | 2021-12-31 | 2022-01-22 |
 | [Skicinuwihkuk](https://open.spotify.com/track/1iD6gepGwhlj6hWLnneXCs) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Skicinuwihkuk](https://open.spotify.com/album/72EzQkZT2UvtmvIVfpeFyZ) | 4:56 | 2023-05-26 | 2023-06-17 |
-| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-30 |  |
+| [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 | 2023-06-30 |  |
+| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-30 | 2023-07-07 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-31 | 2022-02-12 |
 | [Slip](https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Slip](https://open.spotify.com/album/1jNfYTMnromITdfUbvtwfu) | 3:26 | 2022-02-11 | 2022-03-12 |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-28 | 2023-02-11 |

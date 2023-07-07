@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28884,
+  "num_followers": 28895,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQzNDFkNzY0N2EzN2U0OTA1OWVjZWZjODFiNjExYzc2NTJlMTlj",
+  "snapshot_id": "MCxiMmVlNmIwYjY2OGRhNTg3N2RmYWExMmU5NjkwZjk0NzdmNmExMzA2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 126077,
       "name": "Deliver",
       "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Turn On The Bass",
+      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "It's Giving EP",
         "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 219999,
       "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
       "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On The Bass",
-      "url": "https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -883,30 +883,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
-        "url": "https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO"
-      },
-      "artists": [
-        {
-          "name": "Astrolith",
-          "url": "https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 199855,
-      "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
-      "url": "https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Desire (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
+        "url": "https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO"
+      },
+      "artists": [
+        {
+          "name": "Astrolith",
+          "url": "https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 199855,
+      "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
+      "url": "https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 169146,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Ride It (SBF17)",
-        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
-      },
-      "artists": [
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Feadz",
-          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Ride It - SBF17",
-      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
         "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
       },
@@ -1527,6 +1503,30 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Ride It (SBF17)",
+        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
+      },
+      "artists": [
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Feadz",
+          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Ride It - SBF17",
+      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Tabasco",
         "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 129522,
       "name": "Tabasco",
       "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
+      },
+      "artists": [
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        }
+      ],
+      "duration_ms": 123650,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
-      },
-      "artists": [
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        }
-      ],
-      "duration_ms": 123650,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151965,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Lonely in Tokyo (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
+      },
+      "artists": [
+        {
+          "name": "MIREI",
+          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
+      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Baukey Beats, Vol.1",
         "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Lonely in Tokyo (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
-      },
-      "artists": [
-        {
-          "name": "MIREI",
-          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
-        },
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
-      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "DJ Glo 410",
-          "url": "https://open.spotify.com/artist/6czHYf2hTNoxQYXlQTijWM"
-        }
-      ],
-      "duration_ms": 202439,
-      "name": "Ga$ton Rasta",
-      "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "DJ Glo 410",
+          "url": "https://open.spotify.com/artist/6czHYf2hTNoxQYXlQTijWM"
+        }
+      ],
+      "duration_ms": 202439,
+      "name": "Ga$ton Rasta",
+      "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
     },
     {
       "added_at": "2023-05-26 04:00:00",

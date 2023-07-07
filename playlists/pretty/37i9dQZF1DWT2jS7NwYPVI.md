@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover:  The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,606 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,659 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Let's Go Home](https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Let's Go Home](https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX) | 3:27 |
 | 100 | [Hex](https://open.spotify.com/track/2uoXrVoBd2HElECNhtgcF8) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Hex](https://open.spotify.com/album/4pVGk3QdNaRz6J6WFIM0dv) | 2:34 |
 
-Snapshot ID: `MCwyMjc5MjZkMmU3YTBjMmJjMTI0NDA0MGE0NDdhNDA4N2NkOWZmYmQ1`
+Snapshot ID: `MCwyYzhhYmYzYTM1NTcwZjViN2YxZDhlZWE2YmQ5MWEwY2FmOGNlNzM0`

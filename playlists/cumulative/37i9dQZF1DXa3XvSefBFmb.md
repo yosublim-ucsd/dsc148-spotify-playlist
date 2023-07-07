@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-536 songs - 1 day 5 hr 59 min
+537 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Praia do Rosa](https://open.spotify.com/track/5v51LRyonhsnScW06ql0Fv) | [Inês Bispo](https://open.spotify.com/artist/6pFehvqhKKnRTP0EP060RZ) | [Praia do Rosa](https://open.spotify.com/album/4ZNOmZG7k0Kc8PWBXMtcyQ) | 2:47 | 2021-12-08 | 2022-03-08 |
 | [PRAZER PRAZER](https://open.spotify.com/track/4xWk7xxsvoiIPL1s0aQtPr) | [Beatriz Pessoa](https://open.spotify.com/artist/1AjFyEQi181yA1Cgh9uWSe) | [PRAZER PRAZER](https://open.spotify.com/album/12gSq3ff148nmUmqckWvvQ) | 4:06 | 2023-04-04 | 2023-06-07 |
 | [Precaução](https://open.spotify.com/track/5tyqQPcZ8SoXIhCFV8cyvR) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Manuela Azevedo](https://open.spotify.com/artist/3lBxVc1jTwCMmfmzBycefd) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:51 | 2023-06-06 | 2023-07-05 |
+| [Predator](https://open.spotify.com/track/5jSOh2VMGvHcvUnpAyN0eg) | [Rossana](https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL) | [The Entertainer](https://open.spotify.com/album/0x61SAe2jV8U9fWhFz1iEy) | 6:07 | 2023-07-04 |  |
 | [Pressure \(unplugged\)](https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII) | 2:45 | 2022-09-06 | 2022-10-08 |
 | [Pressure \- Unplugged](https://open.spotify.com/track/2DpfdIfarBnJlz2ODq6adE) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Good Company](https://open.spotify.com/album/1WKHgFnVXim0GYVfkOXgFR) | 2:45 | 2022-10-04 | 2022-11-02 |
 | [Pressure \- Unplugged](https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy) | 2:45 | 2022-10-04 | 2022-10-09 |

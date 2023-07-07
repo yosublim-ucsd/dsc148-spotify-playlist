@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Da Pawn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,313 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,331 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [GATA](https://open.spotify.com/track/3cNykCGMtO3gPSZkmA0y2P) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [GATA](https://open.spotify.com/album/6X6z1AzV3GaufVgRogGkMv) | 2:11 |
 | 50 | [PANTERA](https://open.spotify.com/track/6AisFUvXJx6vwBmJ0IDC2g) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [PANTERA](https://open.spotify.com/album/6fSj0K2v6Ef5eJpQM1xPZp) | 2:42 |
 
-Snapshot ID: `MCwzNTU2MDNjMjBmYWE4NjM4ZDQ2ZjZlZWFiOWM1NmYwZjk1MTI2YzJj`
+Snapshot ID: `MCwyZmIwNTA1NzMxZmEyZjk1Y2I5MDA2ODdlNzZlNTRkZmI3ZDYzMGJj`

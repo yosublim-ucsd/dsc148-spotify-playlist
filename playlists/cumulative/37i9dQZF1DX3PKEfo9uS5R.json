@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Oysterdate",
+        "url": "https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj"
+      },
+      "artists": [
+        {
+          "name": "Cmooth Operators",
+          "url": "https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180010,
+      "name": "Oysterdate",
+      "url": "https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP"
+    },
+    {
+      "album": {
         "name": "Party By The Pool",
         "url": "https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k"
       },

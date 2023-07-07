@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-113 songs - 6 hr 34 min
+114 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [LOS HOMBRES NO LLORAN](https://open.spotify.com/track/4zBe0FyeYWAHZwBCUzefuF) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [LOS HOMBRES NO LLORAN](https://open.spotify.com/album/5SGJO4DtxBUTbwMxP3VRxV) | 2:12 | 2023-06-23 |  |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2022-02-14 | 2022-03-21 |
 | [Marvins Room](https://open.spotify.com/track/2z3htsNRuhDN923ITatc56) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 5:47 | 2022-06-03 | 2022-06-09 |
-| [Me Llora](https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Me Llora](https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i) | 2:07 | 2023-04-21 |  |
+| [Me Llora](https://open.spotify.com/track/1Ol7FO6dLtlTEzeZaRd1FO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:07 | 2023-06-30 |  |
+| [Me Llora](https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Me Llora](https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i) | 2:07 | 2023-04-21 | 2023-07-07 |
 | [Mejor Que Yo](https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Mejor Que Yo](https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc) | 4:02 | 2023-05-05 |  |
 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-04-21 |  |
 | [Mis Días Sin Ti](https://open.spotify.com/track/2sS5cCGcwXrSl7hQ8AL3Oc) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Mis Días Sin Ti](https://open.spotify.com/album/0YFL4nsXKldtzlUKTZVpT5) | 4:13 | 2021-12-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 90657,
+  "num_followers": 90720,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDc5ZWQ2MDMyNDlhZTgxYTkxMGZkMDEzNTY3ZGEyYTg4ZDcxNWQz",
+  "snapshot_id": "MCxjMzQ1OGQ5YWY1NDkyYzQ5YjJhM2RlNmI0OTQxMmRhMTFlNmQyMGM0",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -539,6 +539,26 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        },
+        {
+          "name": ")zzidi",
+          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
+        }
+      ],
+      "duration_ms": 410600,
+      "name": "Mother & Child",
+      "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "The Best Of The Black President 2",
         "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        },
-        {
-          "name": ")zzidi",
-          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
-        }
-      ],
-      "duration_ms": 410600,
-      "name": "Mother & Child",
-      "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
     },
     {
       "added_at": "2019-06-28 16:54:51",

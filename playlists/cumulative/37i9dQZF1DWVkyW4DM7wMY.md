@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-163 songs - 8 hr 29 min
+164 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |
 | [Restart](https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Restart](https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz) | 3:53 | 2021-12-16 | 2022-05-20 |
 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 | 2023-03-17 |  |
-| [Sambaratika](https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sambaratika](https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8) | 3:03 | 2022-04-28 |  |
+| [Sambaratika](https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sambaratika](https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8) | 3:03 | 2022-04-28 | 2023-07-07 |
 | [SAME](https://open.spotify.com/track/71oFX1aP1QXg0QI3Yb2arI) | [Ms.Katana](https://open.spotify.com/artist/3rL1IWGmtKC224o3Hn4yJQ), [DJ John Vincent](https://open.spotify.com/artist/1utY6zlEXlarBchNg7YYzv) | [SAME](https://open.spotify.com/album/2TWLFJXFpiRZcRJtKNET10) | 3:26 | 2021-10-15 | 2022-02-25 |
 | [SAME ENERGY](https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAME ENERGY](https://open.spotify.com/album/4GINHOzNbZoL05U6RRWO4B) | 2:01 | 2021-10-15 | 2022-05-06 |
 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 | 2022-03-03 |  |
@@ -161,6 +161,7 @@
 | [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
 | [Undecided](https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ), [Don Gz](https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK) | [Undecided](https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm) | 3:04 | 2022-11-10 | 2022-11-18 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
+| [Vijana Wanataka Kazi](https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Vijana Wanataka Kazi](https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf) | 2:50 | 2023-07-06 |  |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-08 |  |

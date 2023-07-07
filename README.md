@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6266\)
+## Playlists \(6268\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1928,6 +1928,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#055](/playlists/pretty/37i9dQZF1DX0dDEyGmzjro.md)
 - [Fuego \#056 \- West's Fan Mixtape](/playlists/pretty/37i9dQZF1DX11Fugayzdtx.md)
 - [Fuego \#057](/playlists/pretty/37i9dQZF1DWXshWTGXBpIb.md)
+- [Fuego \#058](/playlists/pretty/37i9dQZF1DWZ44NwqwGeNt.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)
@@ -3002,6 +3003,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Mixtape: Arlo Parks "drum tones"](/playlists/pretty/37i9dQZF1DX96miwkmVnVt.md)
 - [Mixtape: Suki Waterhouse "walking around NYC thinking about love"](/playlists/pretty/37i9dQZF1DWUqAW0dNPY2J.md)
 - [Mixtape: Thundercat "25 songs for when you're hit by a car while riding an electric scooter"](/playlists/pretty/37i9dQZF1DWU9jBen8IUSn.md)
+- [Mixtape: Tove Lo "I want you in my bed"](/playlists/pretty/37i9dQZF1DXcQfSEQZkjHd.md)
 - [Mixto](/playlists/pretty/37i9dQZF1DX7qRKBHjmYIE.md)
 - [Moderat's DJ Mix](/playlists/pretty/37i9dQZF1DXadsh44pB8cc.md)
 - [Modern Blues Guitar](/playlists/pretty/37i9dQZF1DWZBWeillXfzX.md)

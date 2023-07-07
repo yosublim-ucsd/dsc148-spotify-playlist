@@ -4,13 +4,14 @@
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-109 songs - 6 hr 3 min
+110 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aegean Melancholy](https://open.spotify.com/track/4z1zDcrCSrVfRsmC1RXR6i) | [Michalis Koumbios](https://open.spotify.com/artist/5DckhqA7dsg4K6d2Upjdfi) | [Almyra](https://open.spotify.com/album/2zkduyRjRgcPtwOJvFY8yE) | 3:25 | 2022-01-21 |  |
 | [Aftosxediasmos](https://open.spotify.com/track/3LsfGIXEtDNKkTlRE35fAl) | [Giorgos Zambetas](https://open.spotify.com/artist/0nvVCoiYH184eR8CDXfx3r) | [Greek Composers: Giorgos Zambetas](https://open.spotify.com/album/0DUMvG546UMaJ1KPU9EVZh) | 2:32 | 2022-01-21 |  |
-| [Ah Helidoni Mou](https://open.spotify.com/track/3MlxzQZbTKy0L4PIww0rjQ) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:59 | 2022-01-21 |  |
+| [Ah Helidoni Mou](https://open.spotify.com/track/2Ny0PSSvDZTcIzDAqXNxyi) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb), [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4) | [Roots Of Greek Music Vol\. 1: Viva Bouzouki](https://open.spotify.com/album/4dNXi4042bMcpBXiaBRDaE) | 3:00 | 2022-08-30 |  |
+| [Ah Helidoni Mou](https://open.spotify.com/track/3MlxzQZbTKy0L4PIww0rjQ) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:59 | 2022-01-21 | 2023-07-07 |
 | [Ah Helidoni Mou](https://open.spotify.com/track/6ot9gN6pwNEDDSDApwrJ2A) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Lefteris Papadopoulos](https://open.spotify.com/artist/4FQJCHigHeJlO40EWTsRDd) | [Viva Bouzouki \(Viva Greece\)](https://open.spotify.com/album/0LHmXjjmZ80BAXMHmnZbkS) | 3:00 | 2022-01-21 | 2022-07-29 |
 | [Anemos Eisai](https://open.spotify.com/track/3OEVHcWihKlnXPkMuNdvu7) | [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f), [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/3qWVFcvPGlKUxn6h6nRwTH) | 3:24 | 2022-01-21 | 2022-07-29 |
 | [Anemos Eisai](https://open.spotify.com/track/1p6pE6njNT9YOyIxqH6oJM) | [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f), [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 3:27 | 2022-08-30 | 2022-11-13 |

@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 131820,
       "name": "dont bother",
       "url": "https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 108971,
       "name": "Feels Like Flying",
       "url": "https://open.spotify.com/track/3RwFShfW7fauUMkqVuHXcB"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 136363,
       "name": "Found Some Water",
       "url": "https://open.spotify.com/track/0CQiMloLtYnXibZWE0e3dN"
@@ -5184,7 +5184,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152500,
       "name": "Mid Moor",
       "url": "https://open.spotify.com/track/4Gbvc3PZqGGbuhrW9RlIGt"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 137727,
       "name": "Midnight Sessions",
       "url": "https://open.spotify.com/track/7u0N11DPQKRk2qN0zcZzAC"
@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 265522,
       "name": "More of this, Please",
       "url": "https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58"
@@ -6450,7 +6450,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 147200,
       "name": "Plucky",
       "url": "https://open.spotify.com/track/1H0IqXyiFc8OGAjyIfaFr9"
@@ -7044,7 +7044,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 207785,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0f7cYpEP7f7uwsNbaxcDHV"
@@ -7440,7 +7440,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 181615,
       "name": "Signs",
       "url": "https://open.spotify.com/track/3eCSC3eQLNxeEuZYXNn9Cv"
@@ -7998,7 +7998,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 163200,
       "name": "Spring",
       "url": "https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy"
@@ -8020,6 +8020,28 @@
       "duration_ms": 139285,
       "name": "Squared",
       "url": "https://open.spotify.com/track/64X7j3lsLdVnh8wkBCuW3E"
+    },
+    {
+      "album": {
+        "name": "Starshower",
+        "url": "https://open.spotify.com/album/5ZXSACGKxOw5OtzgXXtdc5"
+      },
+      "artists": [
+        {
+          "name": "Strong.AL&",
+          "url": "https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1"
+        },
+        {
+          "name": "Sweet Medicine",
+          "url": "https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132377,
+      "name": "Starshower",
+      "url": "https://open.spotify.com/track/0u4kksv1Fmt6QKEKHx91V6"
     },
     {
       "album": {
@@ -8990,7 +9012,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 144000,
       "name": "Twigs",
       "url": "https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU"

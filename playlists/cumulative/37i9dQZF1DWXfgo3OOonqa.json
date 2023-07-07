@@ -1091,6 +1091,32 @@
     },
     {
       "album": {
+        "name": "Allt f\u00f6r dig",
+        "url": "https://open.spotify.com/album/6R4eLOb5Jr0dEeLMby3AMn"
+      },
+      "artists": [
+        {
+          "name": "Grillat & Gr\u00e4ndy",
+          "url": "https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R"
+        },
+        {
+          "name": "NJOL",
+          "url": "https://open.spotify.com/artist/33GoHtwgOFgKkXkMsCjSfs"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Allt f\u00f6r dig",
+      "url": "https://open.spotify.com/track/7yyfoqD1DHCdiV516gF13E"
+    },
+    {
+      "album": {
         "name": "Allt f\u00f6r dig (Radio Edit)",
         "url": "https://open.spotify.com/album/2LsZQkBVIqoCXqyjW9eGKj"
       },
@@ -1385,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Ambitions Of A Rider",
+        "url": "https://open.spotify.com/album/3t0BlXKDjKgZKY5DBmXefr"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        },
+        {
+          "name": "JB",
+          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143562,
+      "name": "Ambitions Of A Rider",
+      "url": "https://open.spotify.com/track/3HWBcWp9jJ8wZGELOdikOJ"
+    },
+    {
+      "album": {
         "name": "Amo",
         "url": "https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV"
       },
@@ -1502,7 +1550,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 153333,
       "name": "ANNABELLE",
       "url": "https://open.spotify.com/track/0V9j9I5M0cX9NipE94j6GQ"
@@ -2132,6 +2180,28 @@
       "duration_ms": 134117,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3zNRQQzaKSXHQM6782ROPy"
+    },
+    {
+      "album": {
+        "name": "BAD GIRL",
+        "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "BAD GIRL",
+      "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
     },
     {
       "album": {
@@ -3030,7 +3100,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 167419,
       "name": "Bland Banditer",
       "url": "https://open.spotify.com/track/1J5ES79cOICsM2VNGIZzak"
@@ -3164,6 +3234,24 @@
       "duration_ms": 150000,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5BHlYrNR9p68siAtuHs0Uh"
+    },
+    {
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
     },
     {
       "album": {
@@ -3606,7 +3694,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 194181,
       "name": "Br\u00e4nd",
       "url": "https://open.spotify.com/track/1q14Q0vVh6YsR62XQ9z7Ip"
@@ -4408,7 +4496,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 147876,
       "name": "Cocktails (feat. Asme)",
       "url": "https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq"
@@ -4602,6 +4690,28 @@
       "duration_ms": 122158,
       "name": "CTM",
       "url": "https://open.spotify.com/track/0vnWP52jsHmWfridzhWuTB"
+    },
+    {
+      "album": {
+        "name": "Cuando Menos Lo Espera",
+        "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180912,
+      "name": "Cuando Menos Lo Espera",
+      "url": "https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20"
     },
     {
       "album": {
@@ -5339,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "DOWN (\u00c4nnu En Dag)",
+        "url": "https://open.spotify.com/album/05nCOxVWsYynGp2DEl96m8"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "DOWN (\u00c4nnu En Dag)",
+      "url": "https://open.spotify.com/track/2se5lyh0kIRExs3XYBuFdI"
+    },
+    {
+      "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/4KipLKeLLkCCkUKX2QYhWQ"
       },
@@ -5478,7 +5606,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175500,
       "name": "Drunknat I Sins",
       "url": "https://open.spotify.com/track/3JrKPmvnSNWg3mYPOZEkyX"
@@ -7713,6 +7841,36 @@
     },
     {
       "album": {
+        "name": "Gollibe (feat. Teni, Kaliffa & Imenella)",
+        "url": "https://open.spotify.com/album/0Dey7k85Gy6HLSGHlBcFG2"
+      },
+      "artists": [
+        {
+          "name": "Black Moose",
+          "url": "https://open.spotify.com/artist/5ZrrJ5bj8IS5HLZxnZ4khM"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251111,
+      "name": "Gollibe (feat. Teni, Kaliffa & Imenella)",
+      "url": "https://open.spotify.com/track/5tQa8LtF8LY3EbaNNzXlsS"
+    },
+    {
+      "album": {
         "name": "MEDAN VI FALLER",
         "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
       },
@@ -8546,7 +8704,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152500,
       "name": "Henny",
       "url": "https://open.spotify.com/track/5DPpeh6smYtioR34Bz5sg9"
@@ -10824,7 +10982,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 188852,
       "name": "Kvar on the road",
       "url": "https://open.spotify.com/track/6U0dWuKekRCwErUVL4Mtm6"
@@ -11020,6 +11178,28 @@
       "duration_ms": 164571,
       "name": "Lala",
       "url": "https://open.spotify.com/track/3YEME1tB3LOBaB8fxjbdFW"
+    },
+    {
+      "album": {
+        "name": "Landa (feat. Youzie)",
+        "url": "https://open.spotify.com/album/0ib0KJdU14BsNB4jr0f8g0"
+      },
+      "artists": [
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146861,
+      "name": "Landa (feat. Youzie)",
+      "url": "https://open.spotify.com/track/4QoeXPLir8Sf7lhlHgy9nn"
     },
     {
       "album": {
@@ -11752,7 +11932,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 154285,
       "name": "Low",
       "url": "https://open.spotify.com/track/6zCGPshBCmaPHxZkbc5hfv"
@@ -11814,6 +11994,24 @@
       "duration_ms": 188737,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
+    },
+    {
+      "album": {
+        "name": "Luftslott",
+        "url": "https://open.spotify.com/album/7bObnQZLpoBiZx7koajewZ"
+      },
+      "artists": [
+        {
+          "name": "PreGame",
+          "url": "https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148674,
+      "name": "Luftslott",
+      "url": "https://open.spotify.com/track/78puouSL3uJOhWxWUm4acV"
     },
     {
       "album": {
@@ -12421,6 +12619,24 @@
     },
     {
       "album": {
+        "name": "Mama Mia",
+        "url": "https://open.spotify.com/album/41nekZTDuRLk2L7WbZrMPU"
+      },
+      "artists": [
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129276,
+      "name": "Mama Mia",
+      "url": "https://open.spotify.com/track/0VaX1H7phU8m9uZP2Uuexz"
+    },
+    {
+      "album": {
         "name": "Mama mia",
         "url": "https://open.spotify.com/album/2EKFssEeg8sl1ct5WET1gb"
       },
@@ -12472,7 +12688,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 134826,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO"
@@ -14247,6 +14463,24 @@
     },
     {
       "album": {
+        "name": "N\u00e5gon annan \u00e4n du var",
+        "url": "https://open.spotify.com/album/4qunGfTA3jDoDAOR8wtEMG"
+      },
+      "artists": [
+        {
+          "name": "Elias Hurtig",
+          "url": "https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "N\u00e5gon annan \u00e4n du var",
+      "url": "https://open.spotify.com/track/3MSr867lHwgQJKbdPNvR6M"
+    },
+    {
+      "album": {
         "name": "N\u00e5nting i Luften",
         "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
@@ -14855,6 +15089,24 @@
     },
     {
       "album": {
+        "name": "PANGPANG",
+        "url": "https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149606,
+      "name": "PANGPANG",
+      "url": "https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf"
+    },
+    {
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea"
       },
@@ -15064,6 +15316,24 @@
       "duration_ms": 152380,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1"
+    },
+    {
+      "album": {
+        "name": "PARIS/SPAIN",
+        "url": "https://open.spotify.com/album/1G6jsqQvBGmgtumZVi4bV4"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129270,
+      "name": "PARIS/SPAIN",
+      "url": "https://open.spotify.com/track/1zw6HIXJ1gfWEZRLrI6Y1v"
     },
     {
       "album": {
@@ -15530,6 +15800,24 @@
       "duration_ms": 187428,
       "name": "POW POW",
       "url": "https://open.spotify.com/track/7bEG8w5O4P2zDBirLYqBkc"
+    },
+    {
+      "album": {
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "album": {
@@ -16141,6 +16429,24 @@
     },
     {
       "album": {
+        "name": "RTAS",
+        "url": "https://open.spotify.com/album/70RnlMDQE7FBMx29ZFtNqW"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131813,
+      "name": "RTAS",
+      "url": "https://open.spotify.com/track/0Mao2we09TRrQshpxDYAXp"
+    },
+    {
+      "album": {
         "name": "Runt Bordet",
         "url": "https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO"
       },
@@ -16156,7 +16462,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 136120,
       "name": "Runt Bordet",
       "url": "https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq"
@@ -16200,6 +16506,24 @@
       "duration_ms": 131886,
       "name": "R\u00f6d Laser",
       "url": "https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ"
+    },
+    {
+      "album": {
+        "name": "SAFARI",
+        "url": "https://open.spotify.com/album/7wcI75BwXH6Qw8xSsqOymb"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "SAFARI",
+      "url": "https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo"
     },
     {
       "album": {
@@ -18246,7 +18570,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 138857,
       "name": "S\u00d6DRA",
       "url": "https://open.spotify.com/track/45YbiHYS7z37d8e9C4BZCb"
@@ -19997,6 +20321,24 @@
     },
     {
       "album": {
+        "name": "Vart Du \u00c4n G\u00e5r",
+        "url": "https://open.spotify.com/album/4WwHyFvo0TfH72AhrFumSi"
+      },
+      "artists": [
+        {
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160541,
+      "name": "Vart Du \u00c4n G\u00e5r",
+      "url": "https://open.spotify.com/track/6m7kCRnpgOtCMT3HEeX8g8"
+    },
+    {
+      "album": {
         "name": "TJUGI23",
         "url": "https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg"
       },
@@ -21232,7 +21574,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 102124,
       "name": "ZLATAN",
       "url": "https://open.spotify.com/track/13sfPl1PQdxhMWD64PBkUT"

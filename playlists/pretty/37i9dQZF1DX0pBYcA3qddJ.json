@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48251,
+  "num_followers": 48280,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWY4MDYxNjQ3YjE3ZTZlMGM2NTNlM2UwNDExYjBkNzliY2YxYmU0",
+  "snapshot_id": "MCw3NDcwODU1ZjM4OTdjMDVjMWZkNmYxNjhjNjBhNWNjMjBkMzg0YTVh",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1435,6 +1435,38 @@
       "duration_ms": 210800,
       "name": "Quiet Place",
       "url": "https://open.spotify.com/track/6k96PVCzURnKNnWDpsZ6xY"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Undiscovered Vol.2",
+        "url": "https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 306491,
+      "name": "Experience - Solo Piano",
+      "url": "https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1459,18 +1491,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Undiscovered Vol.2",
-        "url": "https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG"
+        "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044",
+        "url": "https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Rintaro Akamatsu",
+          "url": "https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il"
         }
       ],
-      "duration_ms": 306491,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq"
+      "duration_ms": 185373,
+      "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044 ~\u6b4c\u5287\u300c\u30ea\u30ca\u30eb\u30c9\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/6qViP5bbjV55GeHm881KiS"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1491,22 +1527,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044",
-        "url": "https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE"
+        "name": "\u30a6\u30e9BTTB",
+        "url": "https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Rintaro Akamatsu",
-          "url": "https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 185373,
-      "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044 ~\u6b4c\u5287\u300c\u30ea\u30ca\u30eb\u30c9\u300d\u3088\u308a",
-      "url": "https://open.spotify.com/track/6qViP5bbjV55GeHm881KiS"
+      "duration_ms": 275066,
+      "name": "energy flow",
+      "url": "https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1531,38 +1563,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u30a6\u30e9BTTB",
-        "url": "https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "energy flow",
-      "url": "https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "e o",
-        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 269471,
-      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Vega",
         "url": "https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Defeat",
-        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 1318174,
-      "name": "Defeat",
-      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "e o",
+        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 269471,
+      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 187925,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE"
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

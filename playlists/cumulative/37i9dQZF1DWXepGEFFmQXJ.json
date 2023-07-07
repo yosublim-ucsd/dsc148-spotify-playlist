@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Bet On Us",
+        "url": "https://open.spotify.com/album/29VWTUtGEhF22NBg3AAyVQ"
+      },
+      "artists": [
+        {
+          "name": "Lily Grace",
+          "url": "https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160732,
+      "name": "Bet On Us",
+      "url": "https://open.spotify.com/track/7Loe6kKCUIJGxZiJQVjLDX"
+    },
+    {
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/6aBc3vulL7vdiKqJjYVFT2"
       },
@@ -942,6 +960,24 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "album": {
+        "name": "Burn Like Summer",
+        "url": "https://open.spotify.com/album/0AjwMHWg2aEbfkrPdQ7i9n"
+      },
+      "artists": [
+        {
+          "name": "Brooke Schubert",
+          "url": "https://open.spotify.com/artist/37AhJFVvcLzRvWWHaHOrlq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Burn Like Summer",
+      "url": "https://open.spotify.com/track/37ohol7aZPn8i8ZZuUtA4L"
     },
     {
       "album": {
@@ -1466,10 +1502,28 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 183413,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
+    },
+    {
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
     },
     {
       "album": {
@@ -2639,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hotel",
+        "url": "https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb"
+      },
+      "artists": [
+        {
+          "name": "HUTCH",
+          "url": "https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203576,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM"
+    },
+    {
+      "album": {
         "name": "HEARTFIRST",
         "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
@@ -2762,6 +2834,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "Hoedown",
+        "url": "https://open.spotify.com/album/5oqryzhybDfKB1w5mkUen8"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Fall",
+          "url": "https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205482,
+      "name": "Hoedown",
+      "url": "https://open.spotify.com/track/7o6XtUiRS7UAk0gEQ5RqW3"
     },
     {
       "album": {
@@ -4610,7 +4700,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 173861,
       "name": "Pretty Doesn't Make You Good",
       "url": "https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi"
@@ -4892,6 +4982,24 @@
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
+    },
+    {
+      "album": {
+        "name": "Rules Of Breaking Up",
+        "url": "https://open.spotify.com/album/64c9W9o2ZUIJOY3sCNtAjR"
+      },
+      "artists": [
+        {
+          "name": "Hudson Rose",
+          "url": "https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215474,
+      "name": "Rules Of Breaking Up",
+      "url": "https://open.spotify.com/track/727W0shoYYI3WF99t8mQGw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=5ZNGgmdPQCmcLY32iMB0Ng\"> Omah Lay </a>   ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn?si=QzOzHVXNT4e7b9drHhmIPw\"> Wurld </a>   ",
   "name": "African Heat",
   "tracks": [
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 480016,
       "name": "Hamba Juba",
       "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
@@ -3345,6 +3345,28 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/4y1bCnOeMjdVCiBxkVZCx9"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/58S9G6ELYmprrmDyb19lAp"
+    },
+    {
+      "album": {
         "name": "Idwala",
         "url": "https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS"
       },
@@ -4012,6 +4034,24 @@
       "duration_ms": 199666,
       "name": "Oga",
       "url": "https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2"
+    },
+    {
+      "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "album": {
@@ -5116,7 +5156,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"

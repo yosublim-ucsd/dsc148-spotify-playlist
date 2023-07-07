@@ -2,9 +2,9 @@
 
 ### [呪術廻戦 \- Jujutsu Kaisen \-](https://open.spotify.com/playlist/37i9dQZF1DWYFFegQlq0Hb)
 
-> TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。OP/ED曲、<a href="spotify:show:24s1gq2QNlYGwGLpGYYDuS">「呪術廻戦 じゅじゅとーく＋オーディオコメンタリー」</a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
+> TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。これまでのOP/ED曲、 <a href="spotify:show:1OApR2wyRtWRAydfmg3Vto">「呪術廻戦 じゅじゅとーく ニキ </a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-130 songs - 18 hr 15 min
+132 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [強く聡い仲間](https://open.spotify.com/track/0SJGti6KQm45GxLVOvecqU) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:22 | 2022-03-07 | 2022-07-29 |
 | [時間外労働](https://open.spotify.com/track/7kiql8ZPxOzlLzi0vfPCcF) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 2:09 | 2022-03-07 | 2022-07-29 |
 | [最恐](https://open.spotify.com/track/1FhjvrViB0kE1WWoyL6eQP) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:21 | 2022-03-07 | 2022-07-29 |
+| [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-06 |  |
 | [痛み](https://open.spotify.com/track/4MCM5UJS4nVBCPPGjRKS0W) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:46 | 2022-03-07 | 2022-07-29 |
 | [第10回 伏黒恵役 内田雄馬さん「今回は結構本編の話多め」編](https://open.spotify.com/episode/01GEu1zEcHVwY3eHdtIlFm) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 25:47 | 2022-03-07 | 2023-01-20 |
 | [第11回 パンダ役 関智一さん「芝居のこと聞きたくなっちゃうから」編](https://open.spotify.com/episode/5YDL2Qll2jMIuuxV8JqBKX) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 32:43 | 2022-03-07 | 2023-01-20 |
@@ -138,5 +139,6 @@
 | [虚式「茈」](https://open.spotify.com/track/1BO2xCMHbWzjNrLXM8V7zv) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:52 | 2022-03-07 | 2022-07-29 |
 | [迫る危険](https://open.spotify.com/track/2G5cjmuaaliaAnlVMvemnR) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 2:44 | 2022-03-07 | 2022-07-29 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-03-07 |  |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

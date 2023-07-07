@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Julieta Laso.\nDales PLAY, dales POWER.",
-  "num_followers": 30311,
+  "num_followers": 30320,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy",
+  "snapshot_id": "MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5",
   "tracks": [
     {
       "added_at": "2023-07-05 14:25:33",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 171383,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
         "name": "Tiempo Mariposa",
         "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
       },
@@ -103,18 +119,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+        "name": "Olvidarte nunca",
+        "url": "https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
         }
       ],
-      "duration_ms": 171383,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR"
+      "duration_ms": 173159,
+      "name": "Olvidarte nunca",
+      "url": "https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD"
     },
     {
       "added_at": "2023-07-05 14:25:33",

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-258 songs - 14 hr 16 min
+259 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |
 | [Remember 01](https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [John Trudell](https://open.spotify.com/artist/66UTgjk1qw87MQEpsidHdA), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Remember 01](https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Rendez\-Vous](https://open.spotify.com/track/3ydK0BduQnwOF0A1Oe4VPd) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Chase.Wav](https://open.spotify.com/artist/3eVkYzgZJfjCl2lqdNonUS) | [Rendez Vous](https://open.spotify.com/album/2pXZl0vL2Yj5xRDn3nKWMy) | 3:12 | 2021-11-19 | 2022-02-02 |
+| [Replay](https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Replay](https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF) | 3:48 | 2023-06-23 |  |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 |  |
@@ -250,7 +251,7 @@
 | [Tums](https://open.spotify.com/track/3D1MBQdIBq0gn85wfOtOC9) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [Tums](https://open.spotify.com/album/1Ycwxjo9vjfPoLHAy4Hemt) | 3:37 | 2023-03-03 | 2023-03-14 |
 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 | 2021-11-19 | 2023-02-02 |
 | [Turn Up](https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Turn Up](https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M) | 3:00 | 2021-11-19 | 2022-02-02 |
-| [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 | 2021-11-26 |  |
+| [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 | 2021-11-26 | 2023-07-07 |
 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 | 2021-11-19 | 2022-01-23 |
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-02-01 |  |
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 |  |

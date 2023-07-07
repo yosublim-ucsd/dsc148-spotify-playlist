@@ -1,15 +1,79 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43747,
+  "num_followers": 43752,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWRlZjVhZTA5OWZhZGY5ZTdiZmE3OWUyNmFiYzlhYWRlNzcxZTlh",
+  "snapshot_id": "MCxjYTJjMjk0YWQ0MDk0YzJlZDhmZWM5YjhjNDg4YWIyMzk5NDJiYzdk",
   "tracks": [
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Collapsed In Sunbeams (Deluxe)",
+        "url": "https://open.spotify.com/album/5pjMTS389jtVjMVyx5881I"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/39iRY3sjr8lsBVlBpDLwDu"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "duration_ms": 270484,
+      "name": "Dekoboko",
+      "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -37,23 +101,7 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
@@ -69,23 +117,7 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
@@ -101,39 +133,7 @@
       "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 204712,
-      "name": "Paris in the Rain",
-      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
-      },
-      "artists": [
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "duration_ms": 270484,
-      "name": "Dekoboko",
-      "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "SOFT STORM",
         "url": "https://open.spotify.com/album/3cXaGOvM63nFeu1uujC57O"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1Snc512frBOOQu4OvnVSzW"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Eimosezu/Good Luck",
         "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Nemuranaideyo feat. Ikuko Harada",
         "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
@@ -205,23 +205,23 @@
       "url": "https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Marshmallow",
-        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
       "artists": [
         {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 182321,
-      "name": "Marshmallow",
-      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+      "duration_ms": 204712,
+      "name": "Paris in the Rain",
+      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "flow",
         "url": "https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
@@ -269,27 +269,23 @@
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ"
@@ -309,7 +305,43 @@
       "url": "https://open.spotify.com/track/4uIjgB5FzpcInDkFmaxWwM"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 258879,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "NIKI Acoustic Sessions: Head In The Clouds II",
         "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
@@ -329,23 +361,27 @@
       "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
       },
       "artists": [
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 258879,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -373,43 +409,7 @@
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295201,
-      "name": "The Grants",
-      "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Toumei na Nukumori",
         "url": "https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS"
@@ -429,7 +429,55 @@
       "url": "https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295201,
+      "name": "The Grants",
+      "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Emptyspace",
+        "url": "https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK"
+      },
+      "artists": [
+        {
+          "name": "Yamafutatsu",
+          "url": "https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP"
+        }
+      ],
+      "duration_ms": 225164,
+      "name": "Emptyspace",
+      "url": "https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "VANILLA VILLA",
+        "url": "https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
@@ -449,39 +497,7 @@
       "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Emptyspace",
-        "url": "https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK"
-      },
-      "artists": [
-        {
-          "name": "Yamafutatsu",
-          "url": "https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP"
-        }
-      ],
-      "duration_ms": 225164,
-      "name": "Emptyspace",
-      "url": "https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "VANILLA VILLA",
-        "url": "https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7"
-      },
-      "artists": [
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
@@ -513,27 +529,7 @@
       "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
@@ -549,7 +545,7 @@
       "url": "https://open.spotify.com/track/1WUAyibDAavzj94N8JwVpW"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "call me",
         "url": "https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
@@ -585,23 +581,27 @@
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 181938,
-      "name": "The Bridge",
-      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Akebono (2023)",
         "url": "https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U"
@@ -617,23 +617,23 @@
       "url": "https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 181900,
-      "name": "405",
-      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
+      "duration_ms": 181938,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Icicle",
         "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
@@ -649,7 +649,23 @@
       "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 181900,
+      "name": "405",
+      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "colorblind",
         "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "We Were Never Really Friends",
         "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Is It?",
         "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
@@ -717,27 +733,7 @@
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "\u300c0110\u300d",
         "url": "https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray"
@@ -757,7 +753,27 @@
       "url": "https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "You & I (with Zack Tabudlo)",
         "url": "https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
@@ -797,39 +813,7 @@
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "someone will love you better",
-        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "someone will love you better",
-      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Can You Believe",
-        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Can You Believe",
-      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Tell Her",
         "url": "https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY"
@@ -845,7 +829,39 @@
       "url": "https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "someone will love you better",
+        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "someone will love you better",
+      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Can You Believe",
+        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Can You Believe",
+      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Glacier Meadow",
         "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
     },
     {
-      "added_at": "2023-07-04 17:13:27",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Calm Down (Dennis Bovell dUb Remix)",
         "url": "https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL"
@@ -883,22 +899,6 @@
       "duration_ms": 195848,
       "name": "Calm Down - Dennis Bovell dUb Remix",
       "url": "https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

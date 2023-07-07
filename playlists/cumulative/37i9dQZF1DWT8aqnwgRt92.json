@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 220253,
       "name": "Follow You!",
       "url": "https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 225666,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy"
@@ -4818,7 +4818,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 245173,
       "name": "Naimononedari",
       "url": "https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO"
@@ -7436,7 +7436,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 184666,
       "name": "Verbal Justice",
       "url": "https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av"
@@ -10655,6 +10655,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+    },
+    {
+      "album": {
         "name": "\u30e8\u30c0\u30ab",
         "url": "https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6"
       },
@@ -11373,6 +11391,24 @@
     },
     {
       "album": {
+        "name": "\u5207\u3063\u5148",
+        "url": "https://open.spotify.com/album/7MlPZv478QHj9031suX1qm"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211277,
+      "name": "\u5207\u3063\u5148",
+      "url": "https://open.spotify.com/track/771DJyi2gzuWI8ocuxldzQ"
+    },
+    {
+      "album": {
         "name": "\u5207\u3063\u5148 -Anime Ver.-",
         "url": "https://open.spotify.com/album/0G8roX80ebGkEpbIuKWqHB"
       },
@@ -11384,7 +11420,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 89267,
       "name": "\u5207\u3063\u5148 -Anime Ver.-",
       "url": "https://open.spotify.com/track/10Zziq9Paf7dO3jEH3cUQJ"
@@ -12540,7 +12576,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 93680,
       "name": "\u66b4\u8d70\u5c11\u5973\u611b\u4f1d\u8336\u8336",
       "url": "https://open.spotify.com/track/5XNm0oqvg9Fh9NHBWojXlx"
@@ -12932,6 +12968,24 @@
       "duration_ms": 217680,
       "name": "\u71b1\u98a8\u306f\u6d41\u8ee2\u3059\u308b",
       "url": "https://open.spotify.com/track/3B67pEQ2QiBIzh8iK6lCsk"
+    },
+    {
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "album": {
@@ -13521,6 +13575,24 @@
     },
     {
       "album": {
+        "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+        "url": "https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242321,
+      "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+      "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
+    },
+    {
+      "album": {
         "name": "\u8d05\u6ca2\u306a\u5319",
         "url": "https://open.spotify.com/album/1pWpjPxdiV4wYyjxBiZzsN"
       },
@@ -13827,6 +13899,24 @@
     },
     {
       "album": {
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    },
+    {
+      "album": {
         "name": "\u9752\u3078",
         "url": "https://open.spotify.com/album/5Kf18BtPqIGAAhFJmYinZY"
       },
@@ -13962,6 +14052,28 @@
       "duration_ms": 230480,
       "name": "\u98db\u3076\u9ce5\u306f",
       "url": "https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd"
+    },
+    {
+      "album": {
+        "name": "\u98db\u5929",
+        "url": "https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "\u98db\u5929",
+      "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
     },
     {
       "album": {

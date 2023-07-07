@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N?si=6golvDYHSlOgSNIDogcBWQ">Cornelius SA</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc?si=trhkbFIhRv2A04EC6hrvKQ">Lazarusman</a>
 
-856 songs - 3 day 6 hr 42 min
+857 songs - 3 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Polkadots \- Sven Fields & Chasner Remix](https://open.spotify.com/track/76dve3XjNXy9ITOcIyg7wz) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chasner](https://open.spotify.com/artist/60bBAf1WFPnIwyBSfXj9xv), [Sven Fields](https://open.spotify.com/artist/6fE47lKKAEbIrbim4FQGS2) | [Polkadots \(Sven Fields & Chasner Remix\)](https://open.spotify.com/album/3CeJfeMicdcY8TkbAcIX22) | 3:23 | 2023-03-16 | 2023-03-25 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-05-02 | 2023-05-06 |
 | [Prayer For Wisdom](https://open.spotify.com/track/5RCpb0DCCzCd3A1A5unXDN) | [Ntate Tshego](https://open.spotify.com/artist/0tn4pSPaWpZBgTGRHr1UBB), [French August](https://open.spotify.com/artist/1lWYd9SnwI0QFb79ju7zoG) | [Prayer For Wisdom](https://open.spotify.com/album/7BqnsSfdYjwutf8qNJ5SS1) | 7:10 | 2022-02-25 | 2022-03-04 |
+| [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-07-06 |  |
 | [Promised Land](https://open.spotify.com/track/00Px0XxDmlFEjP5m4ILeIv) | [Selector A](https://open.spotify.com/artist/28fzVbpRUkT8vNxlQKFJ5s), [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2) | [Promised Land](https://open.spotify.com/album/0HQsif3guXHUdg5yr7bh8j) | 6:55 | 2022-03-10 | 2022-04-23 |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-06-23 | 2022-07-22 |
 | [Pula](https://open.spotify.com/track/1ecljyhWDPCi00HuSdA4JY) | [Jim Mastershine](https://open.spotify.com/artist/4GfDagw2bm5x0pvxdrjHi7), [TroyMusiq](https://open.spotify.com/artist/6je9qU5qQG0Pc7JwCPKNuF) | [Pula](https://open.spotify.com/album/4Jqzc2PtAyLCz8WO98TItS) | 7:15 | 2022-06-02 | 2022-06-24 |
@@ -786,7 +787,7 @@
 | [uNomjubane](https://open.spotify.com/track/2YGELdILY913UgGw3pNlzJ) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [uNomjubane](https://open.spotify.com/album/5OlyT9XXUvFzVwc1lasoPP) | 7:45 | 2021-11-11 | 2022-01-21 |
 | [Unspoken](https://open.spotify.com/track/3y2cK3sShPovH03aFCArgZ) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Unspoken \(Original Mix\)](https://open.spotify.com/album/18yb4T9BofIf6b4tcWJMZN) | 6:55 | 2022-02-03 | 2022-03-04 |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-13 | 2023-04-21 |
-| [Uqobo Lwakho](https://open.spotify.com/track/2hM4EYJKvNMFBbA56D42i6) | [Aso Tandwa](https://open.spotify.com/artist/38sch0FMEpjRV3axogyb4S), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Blaq Note](https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4) | [Uqobo Lwakho](https://open.spotify.com/album/0Imc9CK1Kw4iinLoWXQ84P) | 7:37 | 2023-06-16 |  |
+| [Uqobo Lwakho](https://open.spotify.com/track/2hM4EYJKvNMFBbA56D42i6) | [Aso Tandwa](https://open.spotify.com/artist/38sch0FMEpjRV3axogyb4S), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Blaq Note](https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4) | [Uqobo Lwakho](https://open.spotify.com/album/0Imc9CK1Kw4iinLoWXQ84P) | 7:37 | 2023-06-16 | 2023-07-07 |
 | [Us](https://open.spotify.com/track/7kKECBsO5HseLZUPlJSWoW) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Us](https://open.spotify.com/album/6RhM26ZvicDiZbdQPEDAdt) | 2:45 | 2022-04-22 | 2022-07-08 |
 | [Usana Lwam \- Edit](https://open.spotify.com/track/5qbGs2K5CAQefg5cNC50PN) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Lulu](https://open.spotify.com/artist/2fP4hXUr0AbFmbO9IZsbcN) | [The Couza \- EP \(Radio Edits\)](https://open.spotify.com/album/2qErY2K7z0N47piXjJPNpS) | 7:13 | 2021-11-25 | 2022-02-11 |
 | [uSipho](https://open.spotify.com/track/7B1Kij7knvV5Ph5zOJUDRI) | [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [uSipho](https://open.spotify.com/album/3ZXrRFVdXqgoChfL8Q7coR) | 5:36 | 2021-11-04 | 2022-01-07 |

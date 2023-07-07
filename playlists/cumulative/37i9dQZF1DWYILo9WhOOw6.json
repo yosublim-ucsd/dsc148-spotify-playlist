@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Quiet Repose & Undulating Peace (Delta Binaural)",
+        "url": "https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Quiet Repose (Delta Binaural)",
+      "url": "https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1"
+    },
+    {
+      "album": {
         "name": "Silent Words",
         "url": "https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC"
       },

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-378 songs - 19 hr 15 min
+381 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-01-20 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-04-05 |  |
+| [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 | 2023-07-07 |  |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-15 |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-04-05 | 2022-05-20 |
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
@@ -243,7 +244,7 @@
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-05 | 2022-06-03 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2022-04-05 | 2022-05-11 |
 | [Out Late](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Out Late](https://open.spotify.com/album/6xNsZ5aOnzwLrhbQjc7gB0) | 3:03 | 2022-07-15 |  |
-| [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 |  |
+| [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 | 2023-07-07 |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2022-04-05 |  |
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2022-04-05 |  |
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2022-04-05 |  |
@@ -314,6 +315,7 @@
 | [Something Smooth](https://open.spotify.com/track/4OzBqACAPAF6mc2kFj0JRS) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [Something Smooth](https://open.spotify.com/album/34WBzOs4NqxyrmvwNq7qnx) | 2:43 | 2022-04-05 | 2022-07-29 |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2022-04-05 |  |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2022-04-05 |  |
+| [Sound Crown](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Sound Crown](https://open.spotify.com/album/4PATQpNpm8vqYQOoMvyJT9) | 2:16 | 2023-07-07 |  |
 | [Souped Up](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Souped Up](https://open.spotify.com/album/6kJ9jCbCagGk0RnCPGAuVu) | 3:00 | 2023-02-17 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-04-05 |  |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2022-04-05 |  |
@@ -378,6 +380,7 @@
 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 | 2023-03-16 |  |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2022-04-05 | 2022-05-20 |
 | [White Island Dreams](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [White Island Dreams](https://open.spotify.com/album/3O9jUdv6lXjPNiabvGE3wT) | 3:01 | 2022-11-25 |  |
+| [Why Don't You Chill?](https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Why Don't You Chill?](https://open.spotify.com/album/3MKNWp2dnCgrzo74iWacq2) | 3:24 | 2023-07-07 |  |
 | [Why So Gloomy](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Why So Gloomy](https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA) | 2:29 | 2023-03-10 |  |
 | [wicked play](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [wicked play](https://open.spotify.com/album/31L7sJ9kqF3tFueTDTIJ0n) | 3:32 | 2023-02-17 |  |
 | [With My Whole Heart](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [With My Whole Heart](https://open.spotify.com/album/1IowasV6lzpLW6kGZm1dNJ) | 2:32 | 2022-09-16 |  |

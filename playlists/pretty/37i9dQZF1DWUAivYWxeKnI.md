@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Meet the lineup of HIPHOPPLAYA FESTIVAL 2023, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2023의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,819 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,822 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 10 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
 | 11 | [POW \(Feat\. GRAY\)](https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [POW \(Feat\. GRAY\)](https://open.spotify.com/album/7p1VMFPDTX3sIe6CgqMNEl) | 3:02 |
 | 12 | [What \(Feat\. Wonstein\)](https://open.spotify.com/track/7J0FXQA7ZQiGVD3fKqXTdE) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [I Got A Feeling](https://open.spotify.com/album/5Bj1t4XYpFEL7oGVJbJgmM) | 3:37 |
-| 13 | [Peace Out \(feat\. KHAN, foggyatthebottom\)](https://open.spotify.com/track/06pyPammA99B8EzpGz0QXm) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [BLASÉ](https://open.spotify.com/album/0dp2N1ofQgSFG9AWRawHkZ) | 2:33 |
-| 14 | [Pop It \(feat\. Koonta\)](https://open.spotify.com/track/1cAmgjeeYnrXoRrwEr9Kjr) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:48 |
+| 13 | [Peace Out \(feat\. KHAN, foggyatthebottom\)](https://open.spotify.com/track/06pyPammA99B8EzpGz0QXm) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [BLASÉ](https://open.spotify.com/album/0dp2N1ofQgSFG9AWRawHkZ) | 2:33 |
+| 14 | [Pop It \(feat\. Koonta\)](https://open.spotify.com/track/1cAmgjeeYnrXoRrwEr9Kjr) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:48 |
 | 15 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
 | 16 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 17 | [LEGACY](https://open.spotify.com/track/22Zxg7K8lEL8lkfQQbykKQ) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 2:50 |
 | 18 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 |
-| 19 | [YUPPIE TING \(Feat\. Blase\)](https://open.spotify.com/track/0xR7hKYvGPdVoZOjGPkUEo) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:00 |
+| 19 | [YUPPIE TING \(Feat\. Blase\)](https://open.spotify.com/track/0xR7hKYvGPdVoZOjGPkUEo) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:00 |
 | 20 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
 | 21 | [UNO GOTTA RUN](https://open.spotify.com/track/2RgDEkY6mGurtMbD9fP1tH) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [HEADLINER \(Deluxe\)](https://open.spotify.com/album/6JoGAeUs7TORoqIiMGxTD9) | 3:36 |
 | 22 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 25 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 |
 | 26 | [Paranoid](https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ASH](https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI) | 3:03 |
 
-Snapshot ID: `MCwwYTdjNDk2ZmFmZDM2YWUxYzlmMDgxZTcxMmRhMzY3ZGU4NjFkMGE2`
+Snapshot ID: `MCxhNzQ2ZjA1MzIyZmQ2Nzc0NjI1MzRjOTkxMGUwMGJmNWJlMGNlMzBh`

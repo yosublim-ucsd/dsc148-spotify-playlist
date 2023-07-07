@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-183 songs - 10 hr 35 min
+184 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 2:53 | 2022-07-11 |  |
 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/7CJHue95J5KJGc6t0jatb5) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:53 | 2021-11-19 | 2022-07-29 |
 | [I Know](https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [I Know](https://open.spotify.com/album/0JvDP9cB6D2fqbTZGSPHUp) | 3:38 | 2021-11-19 |  |
-| [I Know What I Am](https://open.spotify.com/track/5rMNQfYhBMlyitrMAiwQfc) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN) | 3:18 | 2021-11-19 |  |
+| [I Know What I Am](https://open.spotify.com/track/1NmwD4CJILAT5KXYKv9zfZ) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy) | 3:18 | 2023-03-10 |  |
+| [I Know What I Am](https://open.spotify.com/track/5rMNQfYhBMlyitrMAiwQfc) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN) | 3:18 | 2021-11-19 | 2023-07-07 |
 | [I Own You](https://open.spotify.com/track/6fU7uvo8bvdfWz2ABDEDCO) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [I Own You](https://open.spotify.com/album/7CjwCJPYBimMoO2XJFyZJc) | 3:31 | 2021-11-19 | 2022-01-22 |
 | [I Think I'll Be Their God](https://open.spotify.com/track/0gpYWXSS8TzFyhnnjVjFHt) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [I Think I'll Be Their God](https://open.spotify.com/album/5k6yfMt3FixTHq6ReDfGdH) | 3:34 | 2021-11-19 | 2022-07-29 |
 | [I Think I'll Be Their God](https://open.spotify.com/track/2j1MqPxhji70CuWKGIXfVX) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Flatlands](https://open.spotify.com/album/3nT6KSqGMRP9JxPx60uRbm) | 3:37 | 2022-07-11 |  |

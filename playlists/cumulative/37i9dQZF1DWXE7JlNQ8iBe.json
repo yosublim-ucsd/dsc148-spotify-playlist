@@ -686,7 +686,7 @@
     {
       "album": {
         "name": "La Enamorada",
-        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
+        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
       },
       "artists": [
         {
@@ -697,6 +697,24 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
+    },
+    {
+      "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
       "duration_ms": 141493,
       "name": "Mis Muertos",
       "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"

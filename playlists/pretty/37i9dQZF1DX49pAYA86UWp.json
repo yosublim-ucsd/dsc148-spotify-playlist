@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Hades66 en portada.",
-  "num_followers": 2284,
+  "num_followers": 2380,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTNkYWZkNDg2MTUzMzhiN2NkZTAxOTliZTFjOTIwYjliYjRhMGRl",
+  "snapshot_id": "MCxkY2E3MWZiMTQ4YmFkYTYzOTA3NmE5NzYxOGQ3YTlhZTMyNjJkYmNm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+      "duration_ms": 210500,
+      "name": "SALVAJE",
+      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
     }
   ],
   "unique_name": "Trap Boricua",

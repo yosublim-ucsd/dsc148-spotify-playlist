@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Cornelius",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Gordon Flanders, \u9db4 The Crane",
   "name": ".ORG",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 242760,
       "name": "1392010",
       "url": "https://open.spotify.com/track/74ZlcicvpBVqdVECsyMF9F"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 165569,
       "name": "6HRS",
       "url": "https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE"
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Lagipula Hidup Akan Berakhir",
+        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266330,
+      "name": "Cincin",
+      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 179520,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/4Zz89rmZGSEKOiJ8UmFjuM"
@@ -4223,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "Fault",
+        "url": "https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS"
+      },
+      "artists": [
+        {
+          "name": "Puremoon",
+          "url": "https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Fault",
+      "url": "https://open.spotify.com/track/5AIxaONRb2psOExCkj17YK"
+    },
+    {
+      "album": {
         "name": "Favorite Peeps",
         "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
       },
@@ -4404,10 +4440,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 234500,
       "name": "Fire Wind Wheel",
       "url": "https://open.spotify.com/track/0RcO8NZgpXa2Kh21eSgHpf"
+    },
+    {
+      "album": {
+        "name": "FIRST CLASS (feat. The Crane)",
+        "url": "https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        },
+        {
+          "name": "\u9db4 The Crane",
+          "url": "https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184512,
+      "name": "FIRST CLASS (feat. The Crane)",
+      "url": "https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq"
     },
     {
       "album": {
@@ -6011,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "I Love u..r shoes",
+        "url": "https://open.spotify.com/album/7HYqFQMDCdHPqYJCo4u8Cf"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "I Love u..r shoes",
+      "url": "https://open.spotify.com/track/1adidOIc4dH3q7Vjz4TVPV"
+    },
+    {
+      "album": {
         "name": "I Love You Anyway (Acoustic Version)",
         "url": "https://open.spotify.com/album/7kzcFpEnjJpl8phGr1muVl"
       },
@@ -6124,7 +6200,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 280974,
       "name": "I Thought I Could Be Alone",
       "url": "https://open.spotify.com/track/6AeN6ulWEY8j83QpypLFMF"
@@ -8399,6 +8475,24 @@
     },
     {
       "album": {
+        "name": "Mind is Light",
+        "url": "https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Mind is Light",
+      "url": "https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi"
+    },
+    {
+      "album": {
         "name": "Mind Reader",
         "url": "https://open.spotify.com/album/4PiWOUGPZiPpAKPwxapiSz"
       },
@@ -9887,6 +9981,24 @@
     },
     {
       "album": {
+        "name": "Capa City",
+        "url": "https://open.spotify.com/album/2pGFuOxiVWmMeTLAAS5UJX"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "Peak Season",
+      "url": "https://open.spotify.com/track/2P7RLgJ1c7aJM17RImzE5y"
+    },
+    {
+      "album": {
         "name": "The Black Canvas",
         "url": "https://open.spotify.com/album/2334h24eIxcIbUym2SaPkP"
       },
@@ -10260,7 +10372,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 311000,
       "name": "Prosaic",
       "url": "https://open.spotify.com/track/3xmF7jSbM183W3T3hwlViH"
@@ -11312,7 +11424,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 218000,
       "name": "so beautiful, with you",
       "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
@@ -12389,6 +12501,24 @@
     },
     {
       "album": {
+        "name": "Teddy Bear Returns (Summer Edition)",
+        "url": "https://open.spotify.com/album/0ALTUGYu7nG2V9Bfuweff3"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "Teddy Bear Returns (Summer Edition)",
+      "url": "https://open.spotify.com/track/3QWp8Vaf2utmRalJkGkt02"
+    },
+    {
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -12784,6 +12914,24 @@
       "duration_ms": 313846,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX"
+    },
+    {
+      "album": {
+        "name": "Dreams and Memories",
+        "url": "https://open.spotify.com/album/1ylXA5sQ1B6YAdJCm23kwv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Summer Day",
+          "url": "https://open.spotify.com/artist/6qXg5xXMLAVhGJpXU3oVy9"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267101,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4oN2UKsK6rDsYsKuhUGArm"
     },
     {
       "album": {
@@ -14076,7 +14224,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 231422,
       "name": "Witches",
       "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
@@ -15330,7 +15478,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 162007,
       "name": "\u54bb\u8e66\u8e66",
       "url": "https://open.spotify.com/track/5s81MfT7Vjdd59vhhfoI00"

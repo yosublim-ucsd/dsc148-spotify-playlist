@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-204 songs - 16 hr 23 min
+207 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 |  |
 | [Departure \(The Soul Longs for Freedom\)](https://open.spotify.com/track/72FZCwQOO0M7WZBEM4azIH) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Luminessence](https://open.spotify.com/album/6H1SJeFEtNGELRydkjyKwt) | 7:20 | 2021-12-22 |  |
 | [Destiny](https://open.spotify.com/track/1crOmVyAzM4rNDc6uMHW5l) | [Strolle](https://open.spotify.com/artist/18Ow08CDayCv7wzb6jATnr) | [Destiny](https://open.spotify.com/album/69tdHQnMuEn3JELYRGhFRi) | 2:51 | 2022-07-08 |  |
+| [DNA Repair](https://open.spotify.com/track/5Fo6jNpe8JHKp3maaqD7id) | [Zen Om](https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs) | [DNA Repair](https://open.spotify.com/album/6zjyzYZPy2gJbnfwXCSPi2) | 1:53 | 2023-07-07 |  |
 | [Duniskwalgunyi](https://open.spotify.com/track/6t6XS68MFIj8UPu9NPJCgn) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 7:21 | 2021-12-22 |  |
 | [El Esperado Desenlace](https://open.spotify.com/track/4dbIBvGvVqYVd6lizMB55O) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Refugio Efímero](https://open.spotify.com/album/7iMEnrd9YEnP7LmZ4ZFP5d) | 2:44 | 2022-11-11 |  |
 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 | 2021-12-22 |  |
@@ -65,6 +66,7 @@
 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 | 2022-08-17 |  |
 | [Heart of the Forest](https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/4t91UuK4jqwLG7xU2kMdXV) | 5:56 | 2021-12-22 | 2022-08-26 |
 | [Honesty](https://open.spotify.com/track/5Yk87Sx5schJACOxYmyYkR) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [Inner Forests](https://open.spotify.com/album/2RLUDtP21qs0kXSpE9BQLe) | 3:39 | 2022-01-12 |  |
+| [Idyll](https://open.spotify.com/track/36P3vJ3lZhNHvZEoIdB0MS) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Idyll](https://open.spotify.com/album/1hG3Zq3sBivKNEVDkE2R6t) | 3:02 | 2023-07-07 |  |
 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 | 2021-12-22 |  |
 | [Imaginary Soundscape II, Postcard Four](https://open.spotify.com/track/2lE2t3noIZ1WBa1Ekf4qcx) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:09 | 2021-12-22 |  |
 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 | 2021-12-22 |  |
@@ -86,7 +88,7 @@
 | [Midnight](https://open.spotify.com/track/6eIgX83EFYk0zUnCznpxq1) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Kenji Kihara](https://open.spotify.com/artist/56NSyAdmTubt4VsZ4SOVJ8) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:45 | 2021-12-22 |  |
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-03-16 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2021-12-22 | 2023-03-26 |
-| [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 |  |
+| [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 | 2023-07-07 |
 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 | 2023-01-16 |  |
 | [Morning Rain](https://open.spotify.com/track/6ppdnfPnK6UD6O0dGRbOoi) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 2:57 | 2023-03-09 |  |
 | [Mortido](https://open.spotify.com/track/6V8nSoIQV9S0MKuhtCCHIR) | [Conrad Clipper](https://open.spotify.com/artist/2cq7jKz8HyIZaoxdaLVxQc) | [Rainfall](https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC) | 8:59 | 2023-03-16 |  |
@@ -119,6 +121,7 @@
 | [Playing in the Water](https://open.spotify.com/track/3WP28Y4AaOSElvnf29suLJ) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 3:11 | 2021-12-22 | 2022-07-29 |
 | [Playing in the Water](https://open.spotify.com/track/45MF5ivn2DfSWTGuDy6CY1) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 3:11 | 2022-07-08 | 2022-08-13 |
 | [Polyphony](https://open.spotify.com/track/2XM67lYMZ8K7k60MR3oVsS) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eunoia](https://open.spotify.com/album/30ZPhEf4lSjBTfoSqRzQ2m) | 3:52 | 2022-10-14 |  |
+| [Pouring Rain](https://open.spotify.com/track/0K3jpRVbFdOQNsaP0UTHBd) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:50 | 2023-07-07 |  |
 | [Power Yoga](https://open.spotify.com/track/2u6Vx9OrHQq7cOdbloQVZS) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Power Yoga](https://open.spotify.com/album/4KlBJj6R6tApNOTD6lD0UX) | 1:30 | 2022-12-20 |  |
 | [Praying For Mother / Earth, Pt\. 1](https://open.spotify.com/track/34AmO1eE0L5aOdAVRFhv1G) | [Akira Ito](https://open.spotify.com/artist/6AuRHPIlYDhz1UA0GOkhjm) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:13 | 2021-12-22 |  |
 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 | 2021-12-22 | 2023-04-14 |

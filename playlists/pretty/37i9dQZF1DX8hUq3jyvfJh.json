@@ -1,12 +1,12 @@
 {
   "description": "Mahmundi e mais mulheres para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 148988,
+  "num_followers": 149026,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk",
+  "snapshot_id": "MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 228141,
-      "name": "Amor Perfeito",
-      "url": "https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Ar da Sua Gra\u00e7a",
         "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 206864,
       "name": "Ar da Sua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228141,
+      "name": "Amor Perfeito",
+      "url": "https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Las Brujas",
-        "url": "https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Las Brujas",
-      "url": "https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "eu posso ser quem eu quiser",
         "url": "https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 227931,
       "name": "eu posso ser quem eu quiser",
       "url": "https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Las Brujas",
+        "url": "https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Las Brujas",
+      "url": "https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU"
     },
     {
       "added_at": "2023-07-05 03:00:00",

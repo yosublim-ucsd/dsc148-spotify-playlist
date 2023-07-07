@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc-mBXRpm5ut0itdUxVg\">Loufi</a> & <a href=\"https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg\">Van Pletzen</a>\n\n",
-  "num_followers": 1056,
+  "num_followers": 1057,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Y2MjQ0ZWQxODRlNWNhODZkM2NiOGY4MzFmMDMyN2RmMzk0NmZl",
+  "snapshot_id": "MCwwNDY1M2Y3NjQ3NjBlOTAwZTI0NzViMTliNWE4MmVkYTZmYzEwMThm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:48:09",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
     },
     {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Letterkundig (7785 oordrom remix)",
+        "url": "https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1"
+      },
+      "artists": [
+        {
+          "name": "DJ Azuhl",
+          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
+        },
+        {
+          "name": "Niko10long",
+          "url": "https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v"
+        }
+      ],
+      "duration_ms": 243353,
+      "name": "Letterkundig - 7785 oordrom remix",
+      "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
+    },
+    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Stap Soldaat",
@@ -43,62 +63,6 @@
       "duration_ms": 190327,
       "name": "Stap Soldaat",
       "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "My Ways",
-        "url": "https://open.spotify.com/album/4t6o3PZSX9jD3bLSN1N6J3"
-      },
-      "artists": [
-        {
-          "name": "MJoyner",
-          "url": "https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv"
-        }
-      ],
-      "duration_ms": 167294,
-      "name": "My Ways",
-      "url": "https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Ballas",
-        "url": "https://open.spotify.com/album/2Dm9cJ2hzoNQ2xkRMglCJR"
-      },
-      "artists": [
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
-        },
-        {
-          "name": "Fred",
-          "url": "https://open.spotify.com/artist/1ZzRV0TyaaU2atDtfw8h16"
-        },
-        {
-          "name": "Middelvinger",
-          "url": "https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG"
-        }
-      ],
-      "duration_ms": 175757,
-      "name": "Ballas",
-      "url": "https://open.spotify.com/track/3IyaxPUYp2pPOCp5vfto5W"
-    },
-    {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Die Evangelie Van Goeie Tye",
-        "url": "https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 201023,
-      "name": "Neus Breek",
-      "url": "https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -459,6 +423,22 @@
       "duration_ms": 180520,
       "name": "Grootman",
       "url": "https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x"
+    },
+    {
+      "added_at": "2023-02-23 21:59:00",
+      "album": {
+        "name": "Die Evangelie Van Goeie Tye",
+        "url": "https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 201023,
+      "name": "Neus Breek",
+      "url": "https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -827,6 +807,30 @@
       "duration_ms": 185360,
       "name": "Rare Steak",
       "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Innie Boland",
+        "url": "https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w"
+      },
+      "artists": [
+        {
+          "name": "Middelvinger",
+          "url": "https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Innie Boland",
+      "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
     },
     {
       "added_at": "2022-09-08 21:59:00",

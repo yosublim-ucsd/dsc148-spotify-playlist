@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-166 songs - 9 hr 43 min
+167 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 | 2022-02-09 | 2023-03-02 |
 | [Video Child](https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1BKijwhYBjOXRwdQ1Iv5Fr) | 5:00 | 2022-02-09 | 2022-07-29 |
 | [Video Child](https://open.spotify.com/track/6fZg6RPktKWrtKNH57nDzX) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1daG4UOWDraQHk7Jidm2q1) | 5:00 | 2022-02-09 |  |
+| [W8ing 4 U](https://open.spotify.com/track/3o5L1QgIi5xJLdkOyIEcKK) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50) | [W8ing 4 U](https://open.spotify.com/album/7uZPwaTJf6zr0mjhiVptAs) | 4:19 | 2023-07-07 |  |
 | [Wannabe](https://open.spotify.com/track/1TYmnAWxFBttuHzwZZt2nQ) | [Sandflower](https://open.spotify.com/artist/2frKv3a39gzx9Ppx8UGVKR) | [Wannabe](https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx) | 3:17 | 2022-02-09 | 2023-05-19 |
 | [Wannabe](https://open.spotify.com/track/7aywhUmrzk9186azjE49Ar) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:53 | 2022-02-09 |  |
 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 | 2022-02-09 | 2023-05-19 |

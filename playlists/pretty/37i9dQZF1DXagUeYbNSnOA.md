@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Letón Pé\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,910 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,929 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Febrero](https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L) | [Flor Torres](https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s) | [Febrero](https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM) | 2:50 |
 | 31 | [APAGUE MI CELULAR](https://open.spotify.com/track/2yGxjr5f3HzCRegbYo3Pj1) | [ESCHICANO](https://open.spotify.com/artist/04p4tk3TWeE5bJHQtkgP9Q) | [APAGUE MI CELULAR](https://open.spotify.com/album/4gg93Rvu1kriXt8pjxOpc8) | 3:02 |
 | 32 | [No Siento Mi Cara](https://open.spotify.com/track/4lIHGRrsUCo6NzhjA9M54w) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [COPAS & GLAMUR](https://open.spotify.com/album/6XpjABhfOnO3hkLrrorK48) | 3:42 |
-| 33 | [Conquistando](https://open.spotify.com/track/7MmLIb4J8HhdSphtI8Zl5z) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Sev's](https://open.spotify.com/artist/08vjFBcdq8P80pLAh89LCW), [Aymí](https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS) | [Conquistando](https://open.spotify.com/album/39CiO2Ugl1PFUwQkC3kOCm) | 2:46 |
-| 34 | [Gotas](https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS) | [Naca](https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP), [LORA](https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ) | [Gotas](https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb) | 2:37 |
-| 35 | [BESOS](https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Lowrdes](https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [ENEMIGO DEL FIN Vol\. 1](https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk) | 2:40 |
-| 36 | [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 |
-| 37 | [Luces De Neón](https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK) | [Mauricio Vallejo](https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W) | [Luces De Neón](https://open.spotify.com/album/33xuuFalm7xdz2hoicktib) | 3:56 |
-| 38 | [Sin Ti](https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu) | [Dragon Rapid](https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE) | [Sin Ti](https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ) | 3:36 |
+| 33 | [Gotas](https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS) | [Naca](https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP), [LORA](https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ) | [Gotas](https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb) | 2:37 |
+| 34 | [Conquistando](https://open.spotify.com/track/7MmLIb4J8HhdSphtI8Zl5z) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Sev's](https://open.spotify.com/artist/08vjFBcdq8P80pLAh89LCW), [Aymí](https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS) | [Conquistando](https://open.spotify.com/album/39CiO2Ugl1PFUwQkC3kOCm) | 2:46 |
+| 35 | [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 |
+| 36 | [BESOS](https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Lowrdes](https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [ENEMIGO DEL FIN Vol\. 1](https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk) | 2:40 |
+| 37 | [Sin Ti](https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu) | [Dragon Rapid](https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE) | [Sin Ti](https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ) | 3:36 |
+| 38 | [Luces De Neón](https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK) | [Mauricio Vallejo](https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W) | [Luces De Neón](https://open.spotify.com/album/33xuuFalm7xdz2hoicktib) | 3:56 |
 | 39 | [Lluvia](https://open.spotify.com/track/4tm9LSSn5YCuIAgqPpOACm) | [Huésped Solitario](https://open.spotify.com/artist/4qhOVL899ZZfq2eOrM7c8P) | [Lluvia](https://open.spotify.com/album/4w9WrFBw71vHHkDtg9yIAY) | 3:40 |
 | 40 | [Bes Lou](https://open.spotify.com/track/7HxdEbLmtKCXjbtlAhvWFy) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8), [Mitzi Licona](https://open.spotify.com/artist/3YevbxT9wRLFdIDlGXXivb) | [Rutina Diaria](https://open.spotify.com/album/0WtXYFD04CHEETNDeNyX1g) | 3:17 |
 | 41 | [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 |
-| 42 | [INSOMNIO](https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt) | [Ulises Malo](https://open.spotify.com/artist/07ojpr3XaWlEb6uawkobhy) | [AL BORDE DEL DESBORDE](https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ) | 3:00 |
-| 43 | [Las Cosas Como Son](https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Las Cosas Como Son](https://open.spotify.com/album/1woqoQ6GJzQMxbnzMvdTCK) | 4:23 |
-| 44 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
+| 42 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
+| 43 | [INSOMNIO](https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt) | [Ulises Malo](https://open.spotify.com/artist/07ojpr3XaWlEb6uawkobhy) | [AL BORDE DEL DESBORDE](https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ) | 3:00 |
+| 44 | [Las Cosas Como Son](https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Las Cosas Como Son](https://open.spotify.com/album/1woqoQ6GJzQMxbnzMvdTCK) | 4:23 |
 | 45 | [Instantes no Tempo](https://open.spotify.com/track/0bDmOcahJ9Ju3PvvDqERuJ) | [Triunfe](https://open.spotify.com/artist/3mqeU6xC1G68L38l8Aogpu) | [Instantes no Tempo](https://open.spotify.com/album/7sLlsbTPomSXDp9QLm4OF8) | 3:44 |
 | 46 | [te quiero aquí](https://open.spotify.com/track/0vha9Q1uiAGeGIhQ2IVRIB) | [Danny Reyes](https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3) | [te quiero aquí](https://open.spotify.com/album/4EZntPWCR6jl4lVxQN4869) | 3:12 |
 | 47 | [Entre la Niebla](https://open.spotify.com/track/3hVlLDB3QtZI6nG14Q6Jeu) | [Piojos Intergalácticos](https://open.spotify.com/artist/77I2Qk6QPwoIEK8O7RmLxT) | [Entre la Niebla](https://open.spotify.com/album/2e6b0lmkRhW31p9yT4ManF) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Perdido](https://open.spotify.com/track/3btZo8ArCDVSOWq5eEWADO) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Perdido](https://open.spotify.com/album/0UdaCqGtcFF6WvAiApiG3H) | 2:48 |
 | 50 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
 
-Snapshot ID: `MCxkNThmNDY1NDMyYzBmY2JjMjQ3Nzg1N2Q2MDZkMzkxZTM1OTQ2N2Fl`
+Snapshot ID: `MCw3ODU3MWRlYWNiMDRiNDhlZTkyOWY4NmYxMTIzZDlhN2MzMTAxNTFh`

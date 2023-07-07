@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "La Excusa Perfecta",
+        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "La Excusa Perfecta",
+      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
+    },
+    {
+      "album": {
         "name": "La F\u00f3rmula Secreta",
         "url": "https://open.spotify.com/album/5xQIz329pjuvjdGpaYFFRU"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,901 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,953 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 47 | [Freedom Ain't Easy](https://open.spotify.com/track/6QhcPuRKNVEVijKdiDGpA4) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [JAMO](https://open.spotify.com/album/2KwsDZxvocXfvPk8WDHHYz) | 5:20 |
 | 48 | [Black Grapes](https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Corey G](https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [DIY](https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP) | 2:32 |
 | 49 | [The Creator Has a Master Plan Part II](https://open.spotify.com/track/6UOA79OTL65E5rhZgaBGgW) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [The Creator Has a Master Plan Part II](https://open.spotify.com/album/4k14NUrZFIzbKBj07BSdDk) | 6:29 |
-| 50 | [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 |
+| 50 | [Southend Baby](https://open.spotify.com/track/1ve2lB4TYaLEqNnkjZlewo) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/22mpXTrMJEfIsdPxVlq3k8) | 2:05 |
 | 51 | [Take Flight \- edbl Remix](https://open.spotify.com/track/6dU1gPHs4LNyVpDIOq54iG) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Take Flight \(edbl Remix\)](https://open.spotify.com/album/3RS0D0zIsIVEWeL0s6XFHi) | 2:56 |
 | 52 | [Wrap It Up](https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Wrap It Up](https://open.spotify.com/album/6YjvL41pGMuTqtm7QK94Fi) | 3:53 |
 | 53 | [Shy](https://open.spotify.com/track/4p4V4sjILJRmzRyE3taP6m) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Park](https://open.spotify.com/album/714GHMkc56vatUwbcfXk92) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 100 | [sleeping at the party](https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh) | [sleeping at the party](https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT) | 2:35 |
 
-Snapshot ID: `MCxiZjc1YWJjOGMzYmVlNTY3YmYwNGEwNzZmNGFlODM4ZTA2NWVlZDQ3`
+Snapshot ID: `MCw1OTkyODBjYTE1NjVlZDU1OGMzNGJhZWI3NjcxY2M5MmNmYzRhMzYx`

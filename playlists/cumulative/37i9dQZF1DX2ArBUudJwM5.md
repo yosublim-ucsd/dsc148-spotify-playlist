@@ -4,7 +4,7 @@
 
 > Mujeres que la rompen feat\. Julieta Laso.<br/>Dales PLAY, dales POWER.
 
-763 songs - 1 day 17 hr 0 min
+764 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Nollie](https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:53 | 2023-04-05 | 2023-05-04 |
 | [Nubosidad Variable](https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Ruta Hotel](https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi) | 2:28 | 2022-02-02 | 2022-03-09 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-10-06 | 2022-11-08 |
+| [Olvidarte nunca](https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Olvidarte nunca](https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk) | 2:53 | 2023-07-05 |  |
 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-04-05 | 2023-05-04 |
 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 | 2022-09-07 | 2022-10-06 |
 | [OTRA VUELTA](https://open.spotify.com/track/4nQ990Go1KLZc0vcAhOx1j) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VUELTA](https://open.spotify.com/album/4GvycMj3fs42X8Jx4WaokH) | 2:05 | 2022-08-03 | 2022-09-09 |

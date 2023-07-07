@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,915 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,914 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 5 | [Awake](https://open.spotify.com/track/6CpqZ6Pyi1e6QIPegZoA6C) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 3:37 |
 | 6 | [Le Gini](https://open.spotify.com/track/3W1hVS6uIsH7Dh3EgOQwIS) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS) | [Darr's Lane](https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB) | 6:09 |
 | 7 | [Joyful Resistance Part I](https://open.spotify.com/track/7CoBYgLvKvGn6p4ywPslVY) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks, Vol\. 1](https://open.spotify.com/album/6CpPKzQnb2ZG01W0b1WDxa) | 4:06 |
-| 8 | [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 |
+| 8 | [Poetic Imagination](https://open.spotify.com/track/6UoItFuOtFnVdATgW8YGfr) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/2XhoS4GtadCGIP9o2IDVLE) | 2:08 |
 | 9 | [Hang Glide](https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/1jF5hnhL0sfEyShSzgQc1r) | 3:54 |
 | 10 | [Cyrus](https://open.spotify.com/track/1HSpCqvsyUd7URKsnzOTVs) | [Barra Brown](https://open.spotify.com/artist/4rw6zh0NRR8sLOKCXFSsDe), [Cyrus Nabipoor](https://open.spotify.com/artist/0jmBXGiYaxSDOewYhEhgbQ) | [LFT:RT](https://open.spotify.com/album/6wMTUEpIhoy9ckYs0PUJ8C) | 3:39 |
 | 11 | [By Design](https://open.spotify.com/track/4HltUhQXotO1Hzkrl5eKIo) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 5:27 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 16 | [Sweeter Days](https://open.spotify.com/track/7x25qfwpBHPAC7KGdqCajs) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV), [Max Grosch](https://open.spotify.com/artist/0X1RP5ySRsivyk8hHu1P1i) | [Sweeter Days](https://open.spotify.com/album/0NLgkMRXJ1SKavqvbF6GZb) | 7:35 |
 | 17 | [Emerald](https://open.spotify.com/track/5i2ORDSjopZBHdQjp7LCQ9) | [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [The Saga III](https://open.spotify.com/album/0yOiIHuf1YLYZutTy7nYjk) | 3:12 |
 | 18 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 |
-| 19 | [At Peace](https://open.spotify.com/track/1nDI1QsLeGKrsuj9U9maRZ) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 1:28 |
+| 19 | [At Peace](https://open.spotify.com/track/2cnvKdleVx4A22mJo9nLvn) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/2XhoS4GtadCGIP9o2IDVLE) | 1:28 |
 | 20 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 |
 | 21 | [Little Tokyo \(Evening\)](https://open.spotify.com/track/4aridauktsE1GUk2ZJmtLj) | [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [Little Tokyo \(Evening\)](https://open.spotify.com/album/3gCjKMUWtzOzdZWOsYKuhz) | 1:54 |
 | 22 | [Stress Yeeting](https://open.spotify.com/track/2DBaSQ6EdEpu5hhq3oWudP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Gino West](https://open.spotify.com/artist/2Z8fqjWaDRewnC1GCZLePl), [Cotton Mom](https://open.spotify.com/artist/0QXN6MEnGMEdXASrbZH7WI), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Steven Fernandez](https://open.spotify.com/artist/6pUlgUtdyqAMP8b7afllhC), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Kevin Maxwell Smith](https://open.spotify.com/artist/5rpKCHJ8T8tm8dm2L7WL1Z) | [Stress Yeeting](https://open.spotify.com/album/0X6b32ZpPRoFcaUEoPXmsz) | 3:10 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MCwzZjkxYmNjZjY4ZGQ5NGExNzJlMWE5NDgzODk1MTBhNjQ4NjVmNWVk`
+Snapshot ID: `MCw1ZjY0MWVkZGMzNjc2ZTlkMDQxOWRjNjU0ZTFhYWVkN2FiYzYwNjBj`

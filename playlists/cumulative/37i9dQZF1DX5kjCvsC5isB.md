@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-365 songs - 18 hr 53 min
+366 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Baby Blackout](https://open.spotify.com/track/6hMjfF1z1DpkPVUWxbHp5Q) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Baby Blackout](https://open.spotify.com/album/5mEQH6RoSrubrXrRj4lKen) | 3:05 | 2022-04-01 | 2023-06-10 |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-08-20 | 2022-02-05 |
 | [Backbeat](https://open.spotify.com/track/7a52OKapzlThn5sh110hs3) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Backbeat](https://open.spotify.com/album/1oDUvxx1eHUkDb75kFJzPv) | 3:45 | 2021-07-30 | 2023-06-10 |
-| [Backtrack](https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7) | 2:38 | 2022-12-22 |  |
+| [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2023-06-23 |  |
+| [Backtrack](https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7) | 2:38 | 2022-12-22 | 2023-07-07 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-22 | 2023-06-02 |
 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 | 2021-07-30 | 2022-01-22 |
 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 | 2023-06-23 |  |

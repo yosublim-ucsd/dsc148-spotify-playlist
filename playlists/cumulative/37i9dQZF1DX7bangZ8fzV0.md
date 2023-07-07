@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=r7hZdW5tRFekXbWr7j8h0w">Dodo Nyoka</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=ZnL\_XumBSVm1PDULygPPOw">Irene\-Louise Van Wyk</a>
 
 155 songs - 8 hr 39 min
 

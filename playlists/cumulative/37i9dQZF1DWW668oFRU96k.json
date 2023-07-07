@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: JAX JONES x Fireboy DML",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
@@ -604,6 +604,28 @@
       "duration_ms": 188689,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI"
+    },
+    {
+      "album": {
+        "name": "Are We Fading",
+        "url": "https://open.spotify.com/album/3rlbMhFPJseoRpTsofTJWa"
+      },
+      "artists": [
+        {
+          "name": "Vikram Dhakal",
+          "url": "https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI"
+        },
+        {
+          "name": "Slowtide",
+          "url": "https://open.spotify.com/artist/41f1vHXmxOA75UN3dSP9vQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211703,
+      "name": "Are We Fading",
+      "url": "https://open.spotify.com/track/7DEHSVUxrpM2TxA9pL7mNr"
     },
     {
       "album": {
@@ -974,10 +996,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 187491,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/4RrIkVkSemtdZckIKTlZ82"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/5TSYEKza2r6SRE0CF7U8Eq"
+      },
+      "artists": [
+        {
+          "name": "Doppelgangerz",
+          "url": "https://open.spotify.com/artist/283bzgqvIOHd11NkNu9AQF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/3wPQlLqYSWFsAKy6UeTjbq"
     },
     {
       "album": {
@@ -996,7 +1036,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168545,
       "name": "BRING BACK THE COLOR (feat. AURORA)",
       "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
@@ -1224,6 +1264,32 @@
       "duration_ms": 149110,
       "name": "Caught A Body (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+    },
+    {
+      "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
     },
     {
       "album": {
@@ -2086,7 +2152,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 181500,
       "name": "Everything (feat. Rachel Florencia)",
       "url": "https://open.spotify.com/track/6mXFWWEBWvD6u57oWSMYSV"
@@ -2863,6 +2929,32 @@
     },
     {
       "album": {
+        "name": "Give It To You Like",
+        "url": "https://open.spotify.com/album/5wxFWJWLCwv0m7dJAe1MQn"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Give It To You Like",
+      "url": "https://open.spotify.com/track/7GIEHK5wi5GaIR1YJu6TBI"
+    },
+    {
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/54K7jfl7Pi2tgF6lBvILi0"
       },
@@ -3122,7 +3214,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
@@ -3512,7 +3604,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
@@ -3574,7 +3666,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 189120,
       "name": "I Know You Scared",
       "url": "https://open.spotify.com/track/4thTSB6i2Eokdm9C7FbeZg"
@@ -4015,6 +4107,28 @@
     },
     {
       "album": {
+        "name": "LA On Acid",
+        "url": "https://open.spotify.com/album/3KJmODRcAwz06pK7gIiT0M"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143606,
+      "name": "LA On Acid",
+      "url": "https://open.spotify.com/track/2QWMBe66DhsRwtn2BO9LTW"
+    },
+    {
+      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/0VAP3Y0L0vIJOSKmjAP5j6"
       },
@@ -4253,6 +4367,28 @@
     },
     {
       "album": {
+        "name": "Love Me Or leave Me",
+        "url": "https://open.spotify.com/album/28ReHx2WAxubYngxUzYGId"
+      },
+      "artists": [
+        {
+          "name": "Ardiyan",
+          "url": "https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG"
+        },
+        {
+          "name": "GREYLEE",
+          "url": "https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "Love Me Or leave Me",
+      "url": "https://open.spotify.com/track/0oRZq2aP4G3IU1u8mY9mqV"
+    },
+    {
+      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/6osNz07wM86LL8fm0vFFw1"
       },
@@ -4459,6 +4595,28 @@
     },
     {
       "album": {
+        "name": "Me and My Guitar",
+        "url": "https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134310,
+      "name": "Me and My Guitar",
+      "url": "https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/3bgNWflZsicv3vweMrM0GM"
       },
@@ -4559,7 +4717,7 @@
     },
     {
       "album": {
-        "name": "Miracle (feat. Jordan Grace)",
+        "name": "Miracle (feat. Jetason)",
         "url": "https://open.spotify.com/album/3KPpP2TKfiXe7r6jDeihwK"
       },
       "artists": [
@@ -4584,7 +4742,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149081,
-      "name": "Miracle (feat. Jordan Grace)",
+      "name": "Miracle (feat. Jetason)",
       "url": "https://open.spotify.com/track/6BVDTFUf0HDTRy7cyY5GXK"
     },
     {
@@ -5122,6 +5280,32 @@
       "duration_ms": 165000,
       "name": "Nobody Like You (feat. Lost Boy)",
       "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
+    },
+    {
+      "album": {
+        "name": "North Star",
+        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
     },
     {
       "album": {
@@ -5689,6 +5873,32 @@
     },
     {
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+    },
+    {
+      "album": {
         "name": "Pressure (Radio Edit)",
         "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
       },
@@ -6184,6 +6394,32 @@
       "duration_ms": 126772,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5w0kehGd5oKFs4eR5kA9Wi"
+    },
+    {
+      "album": {
+        "name": "Running Blind",
+        "url": "https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279088,
+      "name": "Running Blind",
+      "url": "https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up"
     },
     {
       "album": {
@@ -7314,7 +7550,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 207550,
       "name": "The Show - with JJ Lin",
       "url": "https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr"
@@ -7442,7 +7678,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 213472,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/2okkK713IKZ8R8FSBXuw9B"
@@ -7606,6 +7842,24 @@
       "duration_ms": 175609,
       "name": "Underneath My Raincoat",
       "url": "https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188724,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI"
     },
     {
       "album": {
@@ -8586,7 +8840,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 140160,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"

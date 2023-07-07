@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Dead Pony",
+  "description": "The new wave of rock from the UK & Ireland. Cover: Jaws The Shark",
   "name": "shockwave",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 192000,
       "name": "3 Pints",
       "url": "https://open.spotify.com/track/4wGgBmAL1y5F2mnaogC3kB"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 292822,
       "name": "A Sudden Loss of Vision",
       "url": "https://open.spotify.com/track/02vlqHSIMCznQmjoC84p41"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 214688,
       "name": "Are You Diagnosed?",
       "url": "https://open.spotify.com/track/1ZLRZUQQ3yGnSQAg9V3NTm"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 219226,
       "name": "Boots",
       "url": "https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw"
@@ -603,6 +603,42 @@
     },
     {
       "album": {
+        "name": "Diet Punk",
+        "url": "https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Bandits",
+          "url": "https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184900,
+      "name": "Diet Punk",
+      "url": "https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc"
+    },
+    {
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2GrcLnI9AlbAr2aciPpFeN"
+      },
+      "artists": [
+        {
+          "name": "The Obscure",
+          "url": "https://open.spotify.com/artist/4HesuLeY0XHBTDUVlRjVPl"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102193,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/1yxDo8aLgWF33rQNE7zlqH"
+    },
+    {
+      "album": {
         "name": "Knockoffs & Dummies",
         "url": "https://open.spotify.com/album/6R58sdlUiciF4uVrCu0Fyy"
       },
@@ -668,7 +704,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 179733,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/1ue2tBH6KZnVy3VprM5BDI"
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 198835,
       "name": "I Never Say No",
       "url": "https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC"
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 201994,
       "name": "Joking",
       "url": "https://open.spotify.com/track/35BYpnQaIjTxdNmDlj27QD"
@@ -1414,7 +1450,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 116000,
       "name": "K.K.O",
       "url": "https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G"
@@ -2033,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Norwegian Wood",
+        "url": "https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214448,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U"
       },
@@ -2120,7 +2174,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 156409,
       "name": "Past Vibration",
       "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175234,
       "name": "RECKLESS",
       "url": "https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst"
@@ -2599,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
+    },
+    {
+      "album": {
         "name": "Some Things Never Change",
         "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
       },
@@ -2704,6 +2776,24 @@
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
+    },
+    {
+      "album": {
+        "name": "Suff City",
+        "url": "https://open.spotify.com/album/2oqoYX8ocgX1HooEd9fEMU"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Suff City",
+      "url": "https://open.spotify.com/track/1kKtsNYNR33jc4NXY9cc4S"
     },
     {
       "album": {
@@ -2844,7 +2934,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 158934,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5wO1dqc1lSpQFFut9auHQC"
@@ -3068,6 +3158,24 @@
       "duration_ms": 189466,
       "name": "Wayfinding",
       "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
+    },
+    {
+      "album": {
+        "name": "We'll Be Alreet",
+        "url": "https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177143,
+      "name": "We'll Be Alreet",
+      "url": "https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X"
     },
     {
       "album": {

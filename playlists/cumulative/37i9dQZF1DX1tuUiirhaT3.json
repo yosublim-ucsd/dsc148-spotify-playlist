@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Mare (Sound Bath)",
+        "url": "https://open.spotify.com/album/3SHLXo85iiVv4x066RsPv9"
+      },
+      "artists": [
+        {
+          "name": "Isobel Belano",
+          "url": "https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Mare (Sound Bath)",
+      "url": "https://open.spotify.com/track/2AklRxXDMKpMjQ77QcvY7y"
+    },
+    {
+      "album": {
         "name": "Marigold Chain",
         "url": "https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA"
       },
@@ -4498,7 +4516,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 201428,
       "name": "True Awakening",
       "url": "https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S"

@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-220 songs - 9 hr 54 min
+221 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 |  |
 | [astronimals](https://open.spotify.com/track/63SurArpGSwUlVB8KwYFVy) | [hypernaut](https://open.spotify.com/artist/21LYQfaU4iEC9jqu4tzG0o), [Sloth](https://open.spotify.com/artist/2R8PPmEGSs8qYtV7qlHjt4) | [astronimals](https://open.spotify.com/album/7FD9aLK4297YbiTfu1TO0H) | 3:39 | 2023-07-03 |  |
 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 | 2023-06-12 |  |
+| [BALLERINA](https://open.spotify.com/track/78AN1oOI3yGW8jr0N7uGgN) | [BRADWTF](https://open.spotify.com/artist/1KxfBHx2BSdk25sDjmykt4), [9LIVES](https://open.spotify.com/artist/14zyCokqdd5rltFNfE6jTL) | [BALLERINA](https://open.spotify.com/album/1fa3QuLqaaXeY5TIPGVkL2) | 3:22 | 2023-07-06 |  |
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |
 | [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 |  |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2023-06-12 |  |
@@ -136,7 +137,7 @@
 | [Nothing That You Think](https://open.spotify.com/track/4hs1clb6ibEdAOPTRoa39b) | [Whispers](https://open.spotify.com/artist/1eC9KosD78Zr1RvZnzsxkO), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Nothing That You Think](https://open.spotify.com/album/3tWFJkR4hZIpjnnoDDmm60) | 4:32 | 2023-06-12 |  |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-06-12 |  |
 | [Off The Wall](https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba) | [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Off The Wall](https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr) | 3:32 | 2023-06-12 |  |
-| [OOPS](https://open.spotify.com/track/4UBIs1W680L7JR7oqkx3zq) | [m$sha](https://open.spotify.com/artist/0QSMSn0qlLu3GBTBntWZMC), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [OOPS](https://open.spotify.com/album/7bajungIirwOC9uIo50mfM) | 1:57 | 2023-06-12 |  |
+| [OOPS](https://open.spotify.com/track/4UBIs1W680L7JR7oqkx3zq) | [m$sha](https://open.spotify.com/artist/0QSMSn0qlLu3GBTBntWZMC), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [OOPS](https://open.spotify.com/album/7bajungIirwOC9uIo50mfM) | 1:57 | 2023-06-12 | 2023-07-07 |
 | [OPEN YOUR EYES](https://open.spotify.com/track/0iAw8AMAfSDTbj7JZoCQQ3) | [Suave Lee](https://open.spotify.com/artist/5RfBPFjY4Fhgilc3C8cAAg) | [OPEN YOUR EYES](https://open.spotify.com/album/0xByjdjMUcBUaD4sQTXV4j) | 2:31 | 2023-06-12 |  |
 | [OVERHEAT](https://open.spotify.com/track/2dAOg2khv78BLWk9kQzWGi) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [OVERHEAT](https://open.spotify.com/album/6RURQpVIMp3Gio4pIOOzyb) | 1:32 | 2023-06-12 | 2023-07-06 |
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2023-06-12 |  |
@@ -207,7 +208,7 @@
 | [True Faith \- 2011 Total Version](https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [TOTAL](https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD) | 4:12 | 2023-06-12 |  |
 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 | 2023-06-12 |  |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2023-06-12 |  |
-| [Type Shit](https://open.spotify.com/track/6XcRMvAhT4Wn20ANxV7rjO) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Type Shit](https://open.spotify.com/album/5o1Mpmb550HyG4Utvzq94D) | 2:00 | 2023-06-12 |  |
+| [Type Shit](https://open.spotify.com/track/6XcRMvAhT4Wn20ANxV7rjO) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Type Shit](https://open.spotify.com/album/5o1Mpmb550HyG4Utvzq94D) | 2:00 | 2023-06-12 | 2023-07-07 |
 | [Undead](https://open.spotify.com/track/3GDRUoekeEGhN1oq3vELoh) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Undead](https://open.spotify.com/album/5jspmhiTaJhY4lJui9P98i) | 2:45 | 2023-06-18 |  |
 | [VETEMENTS](https://open.spotify.com/track/3IqoexNro9681MK95oG8mq) | [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [VETEMENTS](https://open.spotify.com/album/3RzoYUYVjKMwtGme0QaUoz) | 3:40 | 2023-06-12 | 2023-06-19 |
 | [W8N](https://open.spotify.com/track/57e85DBMsqTqpfjTksOglv) | [FOURPL4Y](https://open.spotify.com/artist/6a13Zn6lBZKeY3plcfwY0t) | [W8N](https://open.spotify.com/album/6YjwvdaHC455GtN27fD0Is) | 2:16 | 2023-06-12 | 2023-06-19 |
@@ -216,7 +217,7 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2023-06-12 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-06-12 |  |
 | [Wasteland](https://open.spotify.com/track/2Otlxg84Ruv9rPKermxpWq) | [Sicari](https://open.spotify.com/artist/5NbvjdR5hWZ2fSLW7a5J2v) | [Wasteland](https://open.spotify.com/album/78NiCZj3Djj3Us4U28BZGp) | 2:28 | 2023-07-02 |  |
-| [Watch It All Burn](https://open.spotify.com/track/07goLAF14ih1uhZGdVQFAG) | [Shyler](https://open.spotify.com/artist/1kuXmaEhPZkQt0IroDihvL) | [Watch It All Burn](https://open.spotify.com/album/0R0y0wK4zJlBMK0Ja2XQd1) | 2:12 | 2023-06-12 |  |
+| [Watch It All Burn](https://open.spotify.com/track/07goLAF14ih1uhZGdVQFAG) | [Shyler](https://open.spotify.com/artist/1kuXmaEhPZkQt0IroDihvL) | [Watch It All Burn](https://open.spotify.com/album/0R0y0wK4zJlBMK0Ja2XQd1) | 2:12 | 2023-06-12 | 2023-07-07 |
 | [Way Too Lit](https://open.spotify.com/track/7h6TIAagxDA1F1ava16ly0) | [MIKE MAYJOR](https://open.spotify.com/artist/1FvSkPJlg3iCOfLPTct0MP) | [Hot Boy](https://open.spotify.com/album/3oHj5tVRfXewOiobMUSa1s) | 2:55 | 2023-06-28 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-06-12 |  |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2023-06-12 |  |

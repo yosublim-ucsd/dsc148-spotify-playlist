@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Viva Suecia.",
+  "description": "Lo mejor del rock de aqu\u00ed, como La Fuga.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -429,6 +429,36 @@
     },
     {
       "album": {
+        "name": "Amargo Ata\u00fad",
+        "url": "https://open.spotify.com/album/1sYlA6P4lU4cHv7kZ8Tmj1"
+      },
+      "artists": [
+        {
+          "name": "La Piojera",
+          "url": "https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4"
+        },
+        {
+          "name": "Estrago",
+          "url": "https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D"
+        },
+        {
+          "name": "Tah\u00fares Z\u00fardos",
+          "url": "https://open.spotify.com/artist/5B6JwEo3bqy1bun6WKFCxR"
+        },
+        {
+          "name": "Aurora Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257053,
+      "name": "Amargo Ata\u00fad",
+      "url": "https://open.spotify.com/track/4tijOvigzqwBTNpkJKzGjo"
+    },
+    {
+      "album": {
         "name": "Antes de que cuente diez",
         "url": "https://open.spotify.com/album/5YByMSqR8kLoigJ3h8xgGD"
       },
@@ -780,6 +810,24 @@
       "duration_ms": 337226,
       "name": "Cada vez cad\u00e1ver",
       "url": "https://open.spotify.com/track/5ZWAiGE89OaDTOwtRVngEe"
+    },
+    {
+      "album": {
+        "name": "Cada vez duele menos",
+        "url": "https://open.spotify.com/album/3kx2BKb2kpAtnvC1OHVRiO"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226539,
+      "name": "Cada vez duele menos",
+      "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
     },
     {
       "album": {
@@ -1148,7 +1196,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
@@ -1950,7 +1998,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 192106,
       "name": "El imperio contraataca",
       "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
@@ -2446,7 +2494,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 192693,
       "name": "Flores de esti\u00e9rcol",
       "url": "https://open.spotify.com/track/4C7NxBIpbsLUNZy0lWpGjw"
@@ -4049,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Para volverte a decir",
+        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191231,
+      "name": "Para volverte a decir",
+      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
+    },
+    {
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/36KiYdlOJPdbMDb5vtUY2E"
       },
@@ -4376,6 +4442,24 @@
       "duration_ms": 215831,
       "name": "P\u00e1jaros de Desv\u00e1n",
       "url": "https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N"
+    },
+    {
+      "album": {
+        "name": "Que bailen los diablos",
+        "url": "https://open.spotify.com/album/6FZxIYUsUZpdwsFsXkMA31"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229875,
+      "name": "Que bailen los diablos",
+      "url": "https://open.spotify.com/track/6e7vhhTwdBXvQ585EcYbwB"
     },
     {
       "album": {
@@ -5028,7 +5112,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 176675,
       "name": "Soy Famoso (Pero No Lo Sabes)",
       "url": "https://open.spotify.com/track/3JKnqNNLqyw3dRybIY9Odl"

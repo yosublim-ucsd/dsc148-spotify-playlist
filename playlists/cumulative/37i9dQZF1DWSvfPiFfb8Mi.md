@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-187 songs - 13 hr 15 min
+188 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I Want You](https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/07K8rq5ZC7Ux7p0ZDJpMQ1) | 2:54 | 2021-07-24 | 2023-03-15 |
 | [I Want You](https://open.spotify.com/track/3qZ5l212uLlZ2rRSa44K1h) | [YNOT](https://open.spotify.com/artist/58ieJio1kM9TQ1DhJyA1Al) | [I Want You](https://open.spotify.com/album/0WvHI2AeQ1CXfVeUYKRXj4) | 2:54 | 2022-06-20 | 2023-06-18 |
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 |  |
+| [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 |  |
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 | 2023-05-20 |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 | 2021-07-24 | 2022-10-14 |
 | [Tokyo Flower](https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Tokyo Flower](https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6) | 4:18 | 2023-05-19 | 2023-06-13 |
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 | 2023-05-20 |
-| [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 |  |
+| [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 | 2023-07-07 |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2023-05-19 |  |
 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 | 2021-07-24 | 2023-05-20 |

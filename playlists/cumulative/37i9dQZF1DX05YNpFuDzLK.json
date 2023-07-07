@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Black Rebellion",
+      "url": "https://open.spotify.com/track/3n5OVOSGiA95dMZDipcwZQ"
+    },
+    {
+      "album": {
         "name": "Angel Feather Voice 2",
         "url": "https://open.spotify.com/album/2MpUgcKkLgZ0xKzUoaXHNh"
       },
@@ -265,6 +283,42 @@
     },
     {
       "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/3z1BZ8hQiPtKePWIVFwRfv"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Euphemia li Britannia",
+      "url": "https://open.spotify.com/track/49azxnFo1Dq7z4V8qefhPc"
+    },
+    {
+      "album": {
         "name": "Face2",
         "url": "https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD"
       },
@@ -298,6 +352,82 @@
       "duration_ms": 110627,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/2Mh9AFDuMmgnJUozz89sWF"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Flying Lotus",
+      "url": "https://open.spotify.com/track/2I48rbzWnDZGcLdCikHJqp"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "For Euphie",
+      "url": "https://open.spotify.com/track/0drQOYVHuJKuL9SZMRlaJj"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Goddess of Academy",
+      "url": "https://open.spotify.com/track/7tnqSc1TsPI3mn0piY8pFL"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "GREEN GIRL",
+      "url": "https://open.spotify.com/track/3ugQipR1GCpe1dTqPtYgjw"
     },
     {
       "album": {
@@ -618,10 +748,32 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152808,
       "name": "Rigorous",
       "url": "https://open.spotify.com/track/1RMEsdDz9cRdMN2CIcdBk3"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "rolo",
+      "url": "https://open.spotify.com/track/5XywPo4bxccWkrDISiepdY"
     },
     {
       "album": {
@@ -672,10 +824,68 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 125261,
       "name": "Serious Landscape",
       "url": "https://open.spotify.com/track/6fWhrSFAm5ISISLcY97L4c"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Shirley",
+      "url": "https://open.spotify.com/track/562R2Qhkk98stqCUsQV8EB"
+    },
+    {
+      "album": {
+        "name": "Shirley (\u30b7\u30e3\u30fc\u30ea\u30fc\u30fb\u30d5\u30a7\u30cd\u30c3\u30c8ver.)",
+        "url": "https://open.spotify.com/album/3pJsZDFSdhE8Z5yqI9Dygn"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "\u30b7\u30e3\u30fc\u30ea\u30fc(CV.\u6298\u7b20\u5bcc\u7f8e\u5b50)",
+          "url": "https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227017,
+      "name": "Shirley (\u30b7\u30e3\u30fc\u30ea\u30fc\u30fb\u30d5\u30a7\u30cd\u30c3\u30c8ver.)",
+      "url": "https://open.spotify.com/track/64R3TW0uTp1cy9Xi9yC2pL"
+    },
+    {
+      "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "SILENT",
+      "url": "https://open.spotify.com/track/0V7BB50KQOQXuwXamAkk8g"
     },
     {
       "album": {

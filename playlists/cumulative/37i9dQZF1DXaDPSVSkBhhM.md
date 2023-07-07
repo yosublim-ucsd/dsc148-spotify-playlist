@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-116 songs - 6 hr 23 min
+117 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 | 2022-07-22 |  |
 | [4 Segundos al Sol](https://open.spotify.com/track/1IJw2g0b3rL72vbH4jbDY7) | [Amsterdam](https://open.spotify.com/artist/0H23uQ8jejMPg06PJvoVY6) | [Como Ayer, Como Hoy…](https://open.spotify.com/album/5r3kLgjNuJbUxsIYVsiqkH) | 3:57 | 2021-11-26 | 2022-07-17 |
 | [Adios Amigos](https://open.spotify.com/track/4ccmRGXt54rHBmwRxxpGIU) | [SUGUS](https://open.spotify.com/artist/1J982dncUkkgwKpGuBNHaG) | [Ciclostes](https://open.spotify.com/album/4MR7v8d9rRN0TtrO1IzhUD) | 2:08 | 2021-11-26 | 2022-07-22 |
+| [Amarre](https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Amarre](https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F) | 2:36 | 2023-07-07 |  |
 | [AMOR PUNK](https://open.spotify.com/track/2NtDY6Y2tiKpwzhjxp08pI) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [AMOR PUNK](https://open.spotify.com/album/3S7ZB4zdi8MXRWrk9TqRa3) | 2:44 | 2022-07-22 | 2022-10-21 |
 | [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 | 2023-04-21 | 2023-05-21 |
 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 | 2021-11-26 | 2023-06-25 |
@@ -50,7 +51,7 @@
 | [El Tio Mat](https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh) | [Roca Lunar](https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL) | [El Tio Mat](https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi) | 2:43 | 2023-04-21 | 2023-04-29 |
 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 | 2023-04-14 |  |
 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 | 2021-11-26 | 2023-04-15 |
-| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 |  |
+| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 | 2023-07-07 |
 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 | 2021-11-26 |  |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/1ld6eCCuzAasNdyRGbN3d4) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/0ZeUtkRCM2BQVYsGXG7iac) | 3:34 | 2021-11-26 | 2022-07-29 |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 | 2022-07-22 |  |

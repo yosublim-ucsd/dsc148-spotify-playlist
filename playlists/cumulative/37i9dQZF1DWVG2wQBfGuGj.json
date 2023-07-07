@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Always A Princess",
+        "url": "https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9"
+      },
+      "artists": [
+        {
+          "name": "Kel Lee",
+          "url": "https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156594,
+      "name": "Always A Princess",
+      "url": "https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6pWv9L9GIK68UUyQV72rQW"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 150000,
       "name": "Cloudburn",
       "url": "https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ"
+    },
+    {
+      "album": {
+        "name": "come with me",
+        "url": "https://open.spotify.com/album/0x5nHYKK9ZxwOG638YmkSj"
+      },
+      "artists": [
+        {
+          "name": "SUNSY",
+          "url": "https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152308,
+      "name": "come with me",
+      "url": "https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP"
     },
     {
       "album": {
@@ -1169,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/6FTx15VgguASDLeZ2Y2DJO"
+      },
+      "artists": [
+        {
+          "name": "Luxe Moldaine",
+          "url": "https://open.spotify.com/artist/4CFOY2D4y9pLRfEVRCnwMr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/7vGXoiHHffnzHnCtG33auM"
+    },
+    {
+      "album": {
         "name": "GET UP",
         "url": "https://open.spotify.com/album/0uRWrXQ3kQ7Sw9smm9OA4r"
       },
@@ -1691,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Mellow Mojito",
+        "url": "https://open.spotify.com/album/208kSvo3QEBAPGovMnLz41"
+      },
+      "artists": [
+        {
+          "name": "Nelvita",
+          "url": "https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160168,
+      "name": "Mellow Mojito",
+      "url": "https://open.spotify.com/track/60MRrmns8voj2NjwuwYiSB"
+    },
+    {
+      "album": {
         "name": "Midnight Disco",
         "url": "https://open.spotify.com/album/1h2qp1P2w6GIQnJYxOFpBK"
       },
@@ -1908,6 +1980,24 @@
       "duration_ms": 132000,
       "name": "Nomade",
       "url": "https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO"
+    },
+    {
+      "album": {
+        "name": "Northshire",
+        "url": "https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN"
+      },
+      "artists": [
+        {
+          "name": "Palo Santo",
+          "url": "https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Northshire",
+      "url": "https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA"
     },
     {
       "album": {
@@ -2253,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e9 Hill",
+          "url": "https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY"
+    },
+    {
+      "album": {
         "name": "Sugar in My Arms",
         "url": "https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv"
       },
@@ -2318,7 +2426,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 165543,
       "name": "Silent Disco",
       "url": "https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8"
@@ -2460,6 +2568,28 @@
       "duration_ms": 176814,
       "name": "Staff Picks",
       "url": "https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf"
+    },
+    {
+      "album": {
+        "name": "Started Falling",
+        "url": "https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09"
+      },
+      "artists": [
+        {
+          "name": "Jac AM",
+          "url": "https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I"
+        },
+        {
+          "name": "JAYNIE",
+          "url": "https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132564,
+      "name": "Started Falling",
+      "url": "https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX"
     },
     {
       "album": {

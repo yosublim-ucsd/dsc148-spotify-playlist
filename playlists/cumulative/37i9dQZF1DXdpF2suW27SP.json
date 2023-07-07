@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Slow J entra na zona. ",
+  "description": "Bispo e Ivandro entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Baba (Remix)",
+        "url": "https://open.spotify.com/album/3cbfpMUO3BlEfkGCoE3Y9Q"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        },
+        {
+          "name": "Bebuxxa",
+          "url": "https://open.spotify.com/artist/6Y8OUOqy57oaLHX3LzZWgo"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Baba - Remix",
+      "url": "https://open.spotify.com/track/43YdIDJpvSDplyF6oL1DYI"
+    },
+    {
+      "album": {
         "name": "Bailarina 2",
         "url": "https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd"
       },
@@ -752,6 +774,28 @@
       "duration_ms": 210618,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
+    },
+    {
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
     },
     {
       "album": {
@@ -1200,6 +1244,28 @@
     {
       "album": {
         "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/6Yo7DbaCKI7YIJMGKK6dyp"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Chega",
+      "url": "https://open.spotify.com/track/4xNWsL3jDUd5N40xqIyyYt"
+    },
+    {
+      "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
         "url": "https://open.spotify.com/album/2PnN5EFQoaoUhXGOio8LB8"
       },
       "artists": [
@@ -1214,7 +1280,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 148800,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7uTS1lyLWpi1d5g9qhUaNQ"
@@ -1861,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Drill Cl\u00e1ssico",
+      "url": "https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ"
+    },
+    {
+      "album": {
         "name": "Drunk in Love",
         "url": "https://open.spotify.com/album/69P2QzizEduJz9I5GQhmvB"
       },
@@ -1872,7 +1956,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 164000,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7"
@@ -1890,7 +1974,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 135724,
       "name": "ELA QUERIA MAIS",
       "url": "https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg"
@@ -2240,7 +2324,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 149796,
       "name": "FAMA",
       "url": "https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv"
@@ -2702,6 +2786,24 @@
       "duration_ms": 164706,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "album": {
+        "name": "Hey Bro",
+        "url": "https://open.spotify.com/album/7IFnaA9YdkqZHHhHsqksb8"
+      },
+      "artists": [
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Hey Bro",
+      "url": "https://open.spotify.com/track/20YtqCFfqze8exaFyrp2Vc"
     },
     {
       "album": {
@@ -3764,7 +3866,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 142000,
       "name": "Na Via",
       "url": "https://open.spotify.com/track/07iQNnm9tP1fmy9Pa2Dw5d"
@@ -4467,6 +4569,36 @@
     },
     {
       "album": {
+        "name": "My Life In Each Verse",
+        "url": "https://open.spotify.com/album/4jWfvZcAhGOeVr0SV9JEzz"
+      },
+      "artists": [
+        {
+          "name": "WAY 45",
+          "url": "https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv"
+        },
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        },
+        {
+          "name": "Eric Rodrigues",
+          "url": "https://open.spotify.com/artist/28NuJ0rsVhiKovPID7OP1F"
+        },
+        {
+          "name": "LipeSky",
+          "url": "https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262562,
+      "name": "Papo De Ninja",
+      "url": "https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS"
+    },
+    {
+      "album": {
         "name": "Para Casa",
         "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
       },
@@ -4904,7 +5036,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 185025,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG"

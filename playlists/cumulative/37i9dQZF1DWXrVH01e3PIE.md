@@ -4,7 +4,7 @@
 
 > ECKO en la casa del Trap Argentino.
 
-207 songs - 10 hr 0 min
+209 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [En el Foco](https://open.spotify.com/track/5vLgLpGqtCUVXbYvbCfRGA) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [En el Foco](https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf) | 2:39 | 2022-01-21 | 2022-08-27 |
 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 | 2022-01-21 | 2022-06-18 |
 | [eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 | 2022-10-06 | 2023-01-14 |
-| [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 |  |
+| [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 | 2023-07-07 |
+| [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 | 2023-06-23 |  |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-01-21 | 2022-11-19 |
 | [Flash](https://open.spotify.com/track/2DFIUhox4TTAAl8dSI3yQV) | [Naim](https://open.spotify.com/artist/73vcIhWNd7keZe6whmxSwK), [Killato](https://open.spotify.com/artist/7jKDei7T6rvNeXyW6WeDxo), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flash](https://open.spotify.com/album/1S95j2ax2dnfp4GFYNW8X6) | 3:30 | 2022-01-21 | 2022-05-20 |
 | [Flashbacks](https://open.spotify.com/track/14HsxR2IvAGURKm3LOSV9a) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Flashbacks](https://open.spotify.com/album/45An0dBORCGWWoCoYOfsRq) | 3:17 | 2023-06-23 |  |
@@ -78,7 +79,8 @@
 | [Frixen](https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Frixen](https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6) | 2:35 | 2023-02-10 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 | 2023-05-27 |
-| [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 |  |
+| [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 | 2023-07-07 |
+| [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 | 2023-06-23 |  |
 | [GELATO](https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [GELATO](https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq) | 3:30 | 2023-03-31 | 2023-05-05 |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |

@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168920,
       "name": "Castles Made of Sand",
       "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 223680,
       "name": "Gypsy Eyes",
       "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 130039,
       "name": "Have You Ever Been (To Electric Ladyland)",
       "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226586,
+      "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/5nJ9WqiiVz9Rz6a2xLhHlZ"
+    },
+    {
+      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 182546,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 576360,
       "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
       "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"

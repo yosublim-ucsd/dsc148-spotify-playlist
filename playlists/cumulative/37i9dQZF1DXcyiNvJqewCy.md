@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-312 songs - 18 hr 18 min
+314 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [In My Baby's Arms](https://open.spotify.com/track/6CERQEREymrkfmL3sWai1V) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/6Rt2NlqIHMj7xanrfhRgTl) | 3:40 | 2022-04-05 | 2022-07-29 |
 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2022-07-29 |  |
 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 | 2022-04-05 |  |
-| [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 | 2022-07-29 |  |
+| [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 | 2022-07-29 | 2023-07-07 |
 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 | 2022-04-05 | 2022-07-23 |
 | [It's All Connected](https://open.spotify.com/track/3x3hUNxYAOG7mY3qCqm7AZ) | [Andy Bull](https://open.spotify.com/artist/5O83Dn8cY3RNwhQKADA175) | [It's All Connected](https://open.spotify.com/album/3NtGXpS9jlNUSxxdXx8TDV) | 4:00 | 2022-04-05 | 2022-07-29 |
 | [It's Love \(feat\. Matthew Young\)](https://open.spotify.com/track/4fjAzdzjWfavu7U7iUXpx6) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [It's Love \(feat\. Matthew Young\)](https://open.spotify.com/album/1ju4GI1FM8rXSVeyWNhvzN) | 3:15 | 2022-04-05 | 2022-07-21 |
@@ -163,6 +163,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2022-07-29 |  |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2022-04-05 | 2022-07-29 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-07-29 |  |
+| [L.A\. \(‭+1 .818.643.6885‬\)](https://open.spotify.com/track/4JwFYQF1sT86zKTVDlVKaI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [L.A\. \(‭+1.818.643.6885‬\)](https://open.spotify.com/album/5SIAZ7pplBFvm2OTQheI1H) | 2:44 | 2023-07-07 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-04-05 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/4a8nAXMyvVHoME5tUVXZmG) | [Merk](https://open.spotify.com/artist/71tC9gDLNgDqwAkQheLq9F) | [Laps Around The Sun](https://open.spotify.com/album/2eHLDwQTyBva1q1m0zvX2G) | 3:38 | 2022-04-05 | 2022-07-24 |
 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2022-04-05 | 2022-07-29 |
@@ -204,6 +205,7 @@
 | [Never Give Up On Your Love](https://open.spotify.com/track/53FKnaxZGy2MTZGCdhragN) | [Louis TM](https://open.spotify.com/artist/1Xk8BmjYwcGOGiYuQFzpOn) | [Never Give Up On Your Love](https://open.spotify.com/album/4tuNBs7f06qpkOvcksUi9D) | 3:17 | 2022-04-05 | 2022-07-18 |
 | [New Order T\-Shirt](https://open.spotify.com/track/0o9AwotmTahKoEOHZTtgIk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:56 | 2023-05-03 | 2023-05-24 |
 | [Nicotine](https://open.spotify.com/track/2f50Hox3osvMd0n6zdyb1b) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Nicotine](https://open.spotify.com/album/2Cn4CuYLHuVIMzTZUmfvgf) | 3:41 | 2022-04-05 | 2022-06-25 |
+| [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-07 |  |
 | [No More Regrets](https://open.spotify.com/track/0H5ymF4M4epwaUkcXxy9uV) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids \(Mixtape\)](https://open.spotify.com/album/3gMFPlMlKEBGLxWdbjQy4A) | 3:00 | 2022-04-05 | 2022-07-01 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2022-04-05 | 2022-07-29 |
 | [Not Even In Vegas](https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Not Even In Vegas](https://open.spotify.com/album/5XtC3nUPdSyxC2RLLaiZQF) | 2:55 | 2022-04-05 | 2022-07-25 |
@@ -244,7 +246,7 @@
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2022-04-05 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 | 2022-04-05 | 2022-07-29 |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2022-07-29 | 2023-06-14 |
-| [Slide Away](https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:53 | 2023-06-29 |  |
+| [Slide Away](https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:53 | 2023-06-29 | 2023-07-07 |
 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 | 2022-07-29 |  |
 | [Slipping Away](https://open.spotify.com/track/0BCPHe2assdUDijB5gUuCU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Slipping Away](https://open.spotify.com/album/6udWhj8k7YdjygeAl0HE0S) | 3:55 | 2022-04-05 | 2022-06-23 |
 | [Slow](https://open.spotify.com/track/1V6SxaQW5X4WBWwMpGepof) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Slow](https://open.spotify.com/album/6eReWg0UNM9xt7jrfQORJO) | 2:27 | 2022-04-05 | 2022-07-25 |

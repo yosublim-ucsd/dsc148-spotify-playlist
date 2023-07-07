@@ -9823,6 +9823,28 @@
     },
     {
       "album": {
+        "name": "Olvidarte nunca",
+        "url": "https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173159,
+      "name": "Olvidarte nunca",
+      "url": "https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD"
+    },
+    {
+      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD"
       },

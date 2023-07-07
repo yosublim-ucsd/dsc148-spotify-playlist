@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Asteria in cover! ✨
 
-295 songs - 17 hr 54 min
+296 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Lose You](https://open.spotify.com/track/7zKh8PCaBAtPaKmYxTVlAG) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/7DiMBetpYNLaLbmcpcorGl) | 3:31 | 2022-09-08 | 2023-01-25 |
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2022-06-26 | 2023-01-25 |
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 |  |
-| [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 |  |
+| [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2023-07-07 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 |  |
 | [macchina argento](https://open.spotify.com/track/18zK0tK6kSn6ovG8UkSGu9) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [macchina argento](https://open.spotify.com/album/0Awz1WP6nXunFkr4Tm6WNd) | 2:34 | 2023-06-01 |  |
 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 | 2021-11-19 | 2023-02-25 |
@@ -222,6 +222,7 @@
 | [REGNO DEI CUORI](https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [REGNO DEI CUORI](https://open.spotify.com/album/5B0ZeZfp2B8DnX4AcqHIf9) | 3:22 | 2023-02-27 | 2023-06-09 |
 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 | 2022-04-01 | 2023-06-09 |
 | [Respiro](https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 3:33 | 2023-02-23 |  |
+| [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 |  |
 | [Rhythm Is My Bitch \- Original Mix](https://open.spotify.com/track/0qCA1BoUgGckvfnyX04jgL) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Rhythm Is My Bitch \- EP](https://open.spotify.com/album/1efme0Jwk5ZxdGA3pOXtcK) | 6:30 | 2022-06-26 | 2022-07-26 |
 | [Rin Tin Tin](https://open.spotify.com/track/6I48dHZ08YxQfFfOjDuWMS) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo) | [Rin Tin Tin](https://open.spotify.com/album/5Z3NO6kR7tiV5IFtmIS4EE) | 2:16 | 2022-06-12 | 2022-06-27 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2022-06-12 | 2022-06-27 |

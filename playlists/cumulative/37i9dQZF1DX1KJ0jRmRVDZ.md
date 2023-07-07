@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-763 songs - 1 day 19 hr 35 min
+765 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [ワンダーライフ](https://open.spotify.com/track/74XDwLSzztj27oM6KUcC1g) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Solution](https://open.spotify.com/album/5PmNfGLBaymlpqQh7m9vrX) | 3:41 | 2022-06-21 | 2022-07-07 |
 | [ヴァンパイア](https://open.spotify.com/track/4M0ojH6RFhKdxbzLVwlk00) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [ヴァンパイア](https://open.spotify.com/album/0x1iJ5uy1vZdGiWG9BOUcx) | 3:05 | 2022-09-29 | 2022-10-05 |
 | [一撃](https://open.spotify.com/track/2usfoCuRvXEpHXAPNeYLCJ) | [ROF\-MAO](https://open.spotify.com/artist/4IyOW0gzISV2jqbkX78Uyp) | [一撃](https://open.spotify.com/album/7pi6CTInuHCJeRKhKT8R03) | 4:02 | 2022-10-20 | 2022-10-26 |
-| [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 | 2023-05-16 |  |
+| [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 | 2023-05-16 | 2023-07-07 |
 | [世界で一番綺麗な夜](https://open.spotify.com/track/2u1MUroaxHgkaqMM3Es15L) | [深夜枠](https://open.spotify.com/artist/6RdcU4lC987g4qquPd3KyT) | [世界で一番綺麗な夜](https://open.spotify.com/album/1hwsS3oD8pIKR6k0gsXXOG) | 4:07 | 2022-06-09 | 2022-06-15 |
 | [世界は美しいはずなんだ](https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 3:46 | 2022-06-09 | 2022-07-28 |
 | [主人公](https://open.spotify.com/track/1e1coYJx9r2bmYOi8rqlEx) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [主人公](https://open.spotify.com/album/5cb1ouz68nSwFy2DkXvAlU) | 2:53 | 2022-06-09 | 2022-07-25 |
@@ -602,7 +602,7 @@
 | [悪者](https://open.spotify.com/track/6qIkW0b1Z6G4MYLiVk7xEF) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [相沢](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [悪者](https://open.spotify.com/album/20mNsBsfwuNNfjc6VrJKgv) | 3:31 | 2022-06-16 | 2022-07-09 |
 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-14 | 2023-02-16 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-06-29 |
-| [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 |  |
+| [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 | 2023-07-07 |
 | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/track/3diUXDfx20uzySBCK3k9PZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/album/0kkMNmUqS0alqVxclf3Xho) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [抱きしめたいほど美しい日々に](https://open.spotify.com/track/3HPZXJVEnxULarjQ2E61cY) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [抱きしめたいほど美しい日々に](https://open.spotify.com/album/1PFxujzYb1SjAaj9CubTIf) | 3:05 | 2022-06-09 | 2022-07-27 |
 | [推しと結婚したくてしぬ!](https://open.spotify.com/track/5A2MP7c9jAxMPSP7LwBbox) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [推しと結婚したくてしぬ!](https://open.spotify.com/album/3XJ9PoIpGyOKwJR2qA4PmC) | 2:04 | 2022-07-14 | 2022-07-20 |
@@ -760,12 +760,14 @@
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-06-09 | 2022-07-09 |
 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 | 2022-10-06 | 2022-10-28 |
 | [青く青く光る feat\. ACAね\(ずっと真夜中でいいのに。\), ぬゆり](https://open.spotify.com/track/7tIogxMoaDHGfLKIlkUlqk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ULTRAPANIC](https://open.spotify.com/album/2Yu0lYaUxSHBLppeJACXb2) | 3:47 | 2022-12-06 | 2022-12-08 |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 | [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 | 2022-10-25 | 2022-10-27 |
 | [非可逆転PLAN](https://open.spotify.com/track/7fhn1t3Q8fkCncsY7aSNiT) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [非可逆転PLAN](https://open.spotify.com/album/1JVhSWUqZGPfHkTEIayeRP) | 2:17 | 2022-06-16 | 2022-06-23 |
 | [頭を撃つ](https://open.spotify.com/track/6UqgG3oq14F9qnMVpeysOS) | [WATER KIN](https://open.spotify.com/artist/0hbPjU0grzdufGU0VDy0Ev) | [頭を撃つ](https://open.spotify.com/album/1QrnAdOaQtW4LhJH9BrxxR) | 3:38 | 2022-06-16 | 2022-06-22 |
 | [風 \- feat\. 理芽](https://open.spotify.com/track/6LioUhDe4oEGIr4WAJRnu5) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 3:00 | 2023-05-23 |  |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-06-23 | 2022-07-25 |
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-06-09 | 2022-06-12 |
+| [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 |  |
 | [飛翔するmeme](https://open.spotify.com/track/2xE7eUMv2Lkb3e0VFVt3f4) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2QAbZlfehVfHiiuB8bcUvm) | 3:54 | 2022-06-09 | 2022-07-23 |
 | [食虫植物](https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [食虫植物](https://open.spotify.com/album/1ztYjEcNyEOmaqfABKpz2F) | 3:02 | 2022-06-28 | 2022-07-28 |
 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 | 2023-04-04 |

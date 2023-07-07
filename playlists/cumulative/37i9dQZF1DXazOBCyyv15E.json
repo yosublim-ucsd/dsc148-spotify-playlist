@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: The Last Dinner Party",
+  "description": "The home of the best new alternative music. Cover: PJ Harvey",
   "name": "The Other List",
   "tracks": [
     {
@@ -4057,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Invaluable Vol.1",
+        "url": "https://open.spotify.com/album/6lrUGlsQdtWTNegGR6UtrE"
+      },
+      "artists": [
+        {
+          "name": "Delilah Holliday",
+          "url": "https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126635,
+      "name": "Burn Money",
+      "url": "https://open.spotify.com/track/3tGAnteiFrnaVzVPXriZGz"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB"
       },
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 269983,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/34IDrVi3ZThN2Vndy9IHNn"
@@ -13009,6 +13027,28 @@
     },
     {
       "album": {
+        "name": "I'm Feeling It Now",
+        "url": "https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px"
+      },
+      "artists": [
+        {
+          "name": "The Skinner Brothers",
+          "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+        },
+        {
+          "name": "Jess Newby",
+          "url": "https://open.spotify.com/artist/7siBS11QpPhl3FP0Fbkrtg"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "I'm Feeling it now",
+      "url": "https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn"
+    },
+    {
+      "album": {
         "name": "I'm Not There",
         "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
       },
@@ -13316,7 +13356,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 219023,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt"
@@ -16145,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Lwonesome Tonight",
+      "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
+    },
+    {
+      "album": {
         "name": "Macilent",
         "url": "https://open.spotify.com/album/7IrHR6QrD5JlMj0aTeKlNL"
       },
@@ -18125,6 +18183,24 @@
     },
     {
       "album": {
+        "name": "no captain",
+        "url": "https://open.spotify.com/album/7LKaU4nBRCIPrsnTVBnXcL"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177779,
+      "name": "no captain",
+      "url": "https://open.spotify.com/track/2ZqHvFHgKUUHWQ282lj0f0"
+    },
+    {
+      "album": {
         "name": "No Charms",
         "url": "https://open.spotify.com/album/0A2rkNVhTi7fEKjemcw62t"
       },
@@ -18176,7 +18252,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 247209,
       "name": "NO INTENTION",
       "url": "https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9"
@@ -19291,6 +19367,24 @@
     },
     {
       "album": {
+        "name": "palmtreedays_1644.wav",
+        "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248093,
+      "name": "palmtreedays_1644.wav",
+      "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
+    },
+    {
+      "album": {
         "name": "Panic Attacks",
         "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
       },
@@ -20076,6 +20170,24 @@
       "duration_ms": 214647,
       "name": "POINT OF NO RETURN",
       "url": "https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1"
+    },
+    {
+      "album": {
+        "name": "Learning in public",
+        "url": "https://open.spotify.com/album/18UujFD5TInXQX2mcwupKQ"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151450,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5DsPxrAjGRnJfRNUelP6ut"
     },
     {
       "album": {
@@ -21366,7 +21478,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 152073,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly"
@@ -21594,7 +21706,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175186,
       "name": "Rough Mercy",
       "url": "https://open.spotify.com/track/1OR0bmfkATADJ4NCkg8Zxv"
@@ -22992,6 +23104,24 @@
     {
       "album": {
         "name": "Skin",
+        "url": "https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO"
+    },
+    {
+      "album": {
+        "name": "Skin",
         "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
       },
       "artists": [
@@ -23002,7 +23132,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 231333,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
@@ -25250,7 +25380,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 237749,
       "name": "Switch It On, Switch It Off",
       "url": "https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q"
@@ -25678,7 +25808,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 161360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
@@ -26466,7 +26596,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 153500,
       "name": "The Universe - Edit",
       "url": "https://open.spotify.com/track/6DI10vDMXPdNu9SkTGQbli"
@@ -29161,6 +29291,28 @@
     },
     {
       "album": {
+        "name": "Why Am I Alive Now?",
+        "url": "https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359693,
+      "name": "Why Am I Alive Now?",
+      "url": "https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN"
+    },
+    {
+      "album": {
         "name": "Widow",
         "url": "https://open.spotify.com/album/2hToqbk4QAfI4fhUKFlr7F"
       },
@@ -29614,6 +29766,24 @@
       "duration_ms": 254507,
       "name": "Year to Year",
       "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    },
+    {
+      "album": {
+        "name": "Yesterday Is Gone",
+        "url": "https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196525,
+      "name": "Yesterday Is Gone",
+      "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"
     },
     {
       "album": {
@@ -30084,7 +30254,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 165519,
       "name": "youth+",
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"

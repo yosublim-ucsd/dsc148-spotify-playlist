@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 565570,
+  "num_followers": 565781,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTk4MWM2M2QxMTFkYWUwZDVkYzlmYmM0ZTIxM2QyNGI2MGM3OGI4",
+  "snapshot_id": "MCw0NWFlMTNlNmQ5ZTVhMjJkNTNhZTExY2RhYjU0Y2VkMTcyNmMxNGU5",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "An Honest Man",
-        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "An Honest Man",
-      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Common Faults",
         "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187558,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "An Honest Man",
+        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 246177,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 111186,
       "name": "Dreamcatchers",
       "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "I Am The Man Thomas",
-        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
-      },
-      "artists": [
-        {
-          "name": "The Devil Makes Three",
-          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
-        }
-      ],
-      "duration_ms": 159101,
-      "name": "I Am The Man Thomas",
-      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 287773,
       "name": "Lay This Body Down",
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "I Am The Man Thomas",
+        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "duration_ms": 159101,
+      "name": "I Am The Man Thomas",
+      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
     },
     {
       "added_at": "2023-06-23 04:00:00",

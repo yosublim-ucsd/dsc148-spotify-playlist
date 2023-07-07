@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-185 songs - 9 hr 36 min
+186 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 | 2023-03-10 |
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 | 2023-03-10 |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-04-15 |
+| [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 | 2023-07-07 |  |
 | [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 | 2023-02-24 |  |

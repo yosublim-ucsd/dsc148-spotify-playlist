@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Cheviot Bay",
+        "url": "https://open.spotify.com/album/5pJbSNhGSyp2pu5QWIlJ61"
+      },
+      "artists": [
+        {
+          "name": "Phil Davidson",
+          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217438,
+      "name": "Cheviot Bay",
+      "url": "https://open.spotify.com/track/55rus555iwAq4GBuRFIVBh"
+    },
+    {
+      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 236725,
       "name": "Different Kind Of High",
       "url": "https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U"
@@ -504,6 +522,28 @@
       "duration_ms": 172987,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0cqeoWk0PP2UDTYVfii9fB"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2kyZSVnyyYzdUuYUFNagtW"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Edwards",
+          "url": "https://open.spotify.com/artist/6jvroIfVd4uDH2i1aBQmaF"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276266,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD"
     },
     {
       "album": {
@@ -909,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Old Pickup Line",
+        "url": "https://open.spotify.com/album/37oaYSYqawfQ7RCoqiQkUr"
+      },
+      "artists": [
+        {
+          "name": "Wicker Suite",
+          "url": "https://open.spotify.com/artist/76EINcvVoa7yCf9hWkqQvP"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267146,
+      "name": "Old Pickup Line",
+      "url": "https://open.spotify.com/track/5pEE6WCQDjiGVZVsb6ojzw"
+    },
+    {
+      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -1018,6 +1076,24 @@
       "duration_ms": 201329,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/0BMV5YD79S0OBwZZ8b8ML2"
+    },
+    {
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2WOAQbWNRLRlWq3c5fIgB8"
+      },
+      "artists": [
+        {
+          "name": "Austin Mackay",
+          "url": "https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/5Aei6kEJraIFh79f14P6NB"
     },
     {
       "album": {

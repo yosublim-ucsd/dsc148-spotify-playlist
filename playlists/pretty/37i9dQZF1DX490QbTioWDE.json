@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Alan Gomez & Luck Ra.",
-  "num_followers": 609073,
+  "num_followers": 609223,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGU1YTdjY2IyMmExOGEyNzAwNWVlYzUxNjk4ZWM4OWEwNTRhNmNm",
+  "snapshot_id": "MCxmMWY3Zjg4ZmQ4ZmFiZjcyZWRiZTJkN2Y0NDZiZmNmYzk2NjIzMTll",
   "tracks": [
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
         "name": "Muero (feat. Eugenia Quevedo)",
         "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 264563,
       "name": "Muero (feat. Eugenia Quevedo)",
       "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Monotonia",
-        "url": "https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR"
+        "name": "La Fiesta Es de Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
         }
       ],
-      "duration_ms": 142361,
-      "name": "Monotonia",
-      "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
+      "duration_ms": 319280,
+      "name": "Vuela (En Vivo)",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "La Fiesta Es de Primera",
-        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
+        "name": "Monotonia",
+        "url": "https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 319280,
-      "name": "Vuela (En Vivo)",
-      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
+      "duration_ms": 142361,
+      "name": "Monotonia",
+      "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 236890,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
+      "duration_ms": 196588,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
     }
   ],
   "unique_name": "100% Cuarteto",

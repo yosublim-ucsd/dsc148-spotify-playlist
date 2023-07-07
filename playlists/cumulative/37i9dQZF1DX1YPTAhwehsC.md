@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-715 songs - 1 day 8 hr 46 min
+716 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-04-14 |  |
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2022-09-17 |
 | [Hottest In My City \(feat\. Rob49\)](https://open.spotify.com/track/0uEkLt1na2pzVo3NUzI1CJ) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Hottest In My City](https://open.spotify.com/album/1oEfQRMzoCQhDg1AG9nqe7) | 3:32 | 2022-05-31 | 2022-07-09 |
-| [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 | 2023-04-21 |  |
+| [How High](https://open.spotify.com/track/08NFZVtZhIbblmPGvH7HK2) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [A Life For Two](https://open.spotify.com/album/2EkGUhLIGG7M5ji8stWrgw) | 2:18 | 2023-04-21 |  |
+| [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 | 2023-04-21 | 2023-07-07 |
 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 | 2022-03-25 | 2022-04-09 |
 | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB) | 3:37 | 2022-08-19 | 2022-09-24 |
 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 | 2022-03-04 | 2022-04-09 |

@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Huellas",
+        "url": "https://open.spotify.com/album/4sitG4YFhSBRLVkRQPLlQl"
+      },
+      "artists": [
+        {
+          "name": "Black Mata",
+          "url": "https://open.spotify.com/artist/7iiHc9L4LZnk2VIDMkCFaf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192961,
+      "name": "Huellas",
+      "url": "https://open.spotify.com/track/0rLzvcyK268ELmvkK3YM1R"
+    },
+    {
+      "album": {
         "name": "Fuzz On!",
         "url": "https://open.spotify.com/album/5ExVhKpiVHBzv7dWiqDDte"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 253057,
       "name": "Todo Es Mierda",
       "url": "https://open.spotify.com/track/3l4lL0XCyjRf1eyOUHWX3v"
+    },
+    {
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "album": {

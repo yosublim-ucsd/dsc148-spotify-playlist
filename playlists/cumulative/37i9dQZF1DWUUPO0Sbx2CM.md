@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-386 songs - 21 hr 28 min
+387 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2023-02-07 |  |
 | [Amazing Grace \- HGHTS Remix](https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Remembering Me](https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK) | 2:40 | 2021-10-31 | 2023-02-08 |
 | [AMERICAN DREAM](https://open.spotify.com/track/2v12XOaEHe0VdAQMhp4YcF) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [AMERICAN DREAM](https://open.spotify.com/album/2azVM10tQCjJV8V4emQ2RC) | 3:17 | 2023-02-08 | 2023-02-17 |
+| [Ancient of Days \- reimagined](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 | 2023-02-07 |  |
 | [Anthem of Our Souls](https://open.spotify.com/track/3yDOQZjvEI3SVSCWeY5GcV) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Anthem of Our Souls](https://open.spotify.com/album/0KcLn8QCedNiApgvQX7hpS) | 6:20 | 2021-10-31 | 2022-07-26 |
 | [Anxiety](https://open.spotify.com/track/4MVzuidj7FGfOBRcU6Bu0Q) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Anxiety](https://open.spotify.com/album/2t30XwM1Lb02wDL3KkGJ6I) | 2:55 | 2021-10-31 | 2022-07-21 |
 | [AQUÍ ESTOY](https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [AQUÍ ESTOY](https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1) | 2:35 | 2023-02-07 |  |
@@ -370,7 +371,7 @@
 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 | 2021-10-31 | 2023-02-08 |
 | [Who We Are \- Zach Paradis Remix](https://open.spotify.com/track/6Cp5BKOFRlsEhi98jhPF0F) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Who We Are \(The Remixes\)](https://open.spotify.com/album/5jJFIFtGXUIvemASIuWdhL) | 3:19 | 2021-10-31 | 2022-07-14 |
 | [Who You Say I Am \- Reyer & Retain Remix](https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF), [Anna Benton](https://open.spotify.com/artist/2zMW2Ndexng4GyIdKiKRpb) | [Who You Say I Am \(Reyer & Retain Remix\)](https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju) | 3:23 | 2021-10-31 | 2022-07-29 |
-| [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2023-02-07 |  |
+| [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2023-02-07 | 2023-07-07 |
 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 | 2021-10-31 | 2023-02-08 |
 | [Wildfire](https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Wildfire](https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z) | 3:11 | 2021-10-31 | 2023-02-08 |
 | [WILLY](https://open.spotify.com/track/6FqN3BoTTfwatP3MKEgkLB) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [WILLY](https://open.spotify.com/album/1uWfDlRKiGXsWMOlSXQHpa) | 2:58 | 2021-10-31 | 2023-02-08 |

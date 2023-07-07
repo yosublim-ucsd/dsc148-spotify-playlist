@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Isolate",
+        "url": "https://open.spotify.com/album/2lkmlImaHA6RPzCfkSbmQz"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9v Asto",
+          "url": "https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230550,
+      "name": "Aquiver",
+      "url": "https://open.spotify.com/track/3Dm8skAbA9W4ufmCESqlDg"
+    },
+    {
+      "album": {
         "name": "Arild",
         "url": "https://open.spotify.com/album/3Bpse36cyz91KkUNLZxMlH"
       },
@@ -13382,6 +13400,24 @@
       "duration_ms": 165000,
       "name": "Unistades",
       "url": "https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM"
+    },
+    {
+      "album": {
+        "name": "Significance",
+        "url": "https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195273,
+      "name": "Universal Truth",
+      "url": "https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF"
     },
     {
       "album": {

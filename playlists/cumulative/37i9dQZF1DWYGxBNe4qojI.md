@@ -4,7 +4,7 @@
 
 > Where it all started\. Cover: Cam'Ron
 
-181 songs - 12 hr 41 min
+182 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 | 2021-06-25 | 2022-02-22 |
 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 | 2023-02-01 |  |
 | [Party and Bullshit](https://open.spotify.com/track/1FmHGLw986ZNyMDWmwmdY4) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [ofk](https://open.spotify.com/artist/1f7ye5Xc99Iq2CKuHYJM5O) | [Party and Bullshit](https://open.spotify.com/album/6WKXu5ynFZNdLjtUoWL0Vq) | 3:37 | 2023-05-08 | 2023-06-24 |
+| [Party and Bullshit](https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Party & Bullshit](https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl) | 3:37 | 2023-06-29 |  |
 | [Party And Bullshit](https://open.spotify.com/track/0hSgKDMPSucWMaOOTTuchT) | [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [restsanchez](https://open.spotify.com/artist/3qTmEMShcMqSabvCs78Zen), [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [Party And Bullshit](https://open.spotify.com/album/6U6tX7k9GFIMQWm2PYDSBh) | 3:37 | 2023-05-05 | 2023-06-04 |
 | [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 | 2022-10-07 | 2023-03-18 |
 | [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 | 2022-05-20 | 2022-07-29 |
@@ -188,6 +189,6 @@
 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:31 | 2022-02-21 | 2023-05-08 |
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2023-05-08 |  |
 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2021-06-25 | 2022-01-15 |
-| [You Know My Steez](https://open.spotify.com/track/2C3QwVE5adFCVsCqayhPW7) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 4:07 | 2023-05-08 |  |
+| [You Know My Steez](https://open.spotify.com/track/2C3QwVE5adFCVsCqayhPW7) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 4:07 | 2023-05-08 | 2023-07-07 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

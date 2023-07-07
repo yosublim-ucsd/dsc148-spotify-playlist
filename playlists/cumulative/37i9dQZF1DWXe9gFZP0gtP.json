@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm"
+      },
+      "artists": [
+        {
+          "name": "Julia Alvarez",
+          "url": "https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Desear",
+      "url": "https://open.spotify.com/track/4a20vranOH3ic2txQ463jc"
+    },
+    {
+      "album": {
         "name": "Desiderio",
         "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
       },
@@ -4992,7 +5010,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 140689,
       "name": "Serenity of Touch",
       "url": "https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO"

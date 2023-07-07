@@ -2,7 +2,7 @@
 
 ### [Summer Hits UK 2023](https://open.spotify.com/playlist/37i9dQZF1DWVrBRunTOXCY)
 
-> The sound of summer 2023! Cover: Peggy Gou
+> The sound of summer 2023! Cover: Dua Lipa
 
 124 songs - 6 hr 19 min
 

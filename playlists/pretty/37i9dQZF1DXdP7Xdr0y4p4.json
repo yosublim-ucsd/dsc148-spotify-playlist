@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 8724,
+  "num_followers": 8734,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
+  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2LjXeIcEyGlhab8TIGTizP"
-      },
-      "artists": [
-        {
-          "name": "Joseph Habedank",
-          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "The Beauty of the Blood",
-      "url": "https://open.spotify.com/track/7ELkReejYTA1hjQGOD5bqN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Still Need Him",
         "url": "https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 311013,
       "name": "My Name Is Jesus",
       "url": "https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2LjXeIcEyGlhab8TIGTizP"
+      },
+      "artists": [
+        {
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        }
+      ],
+      "duration_ms": 237066,
+      "name": "The Beauty of the Blood",
+      "url": "https://open.spotify.com/track/7ELkReejYTA1hjQGOD5bqN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Favorites: On Repeat",
-        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
+        "name": "Bring That Giant Down",
+        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
       "artists": [
         {
-          "name": "The Erwins",
-          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Favorite Song of All",
-      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+      "duration_ms": 208359,
+      "name": "Bring That Giant Down",
+      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Bring That Giant Down",
-        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
+        "name": "Favorites: On Repeat",
+        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
       "artists": [
         {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+          "name": "The Erwins",
+          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
         }
       ],
-      "duration_ms": 208359,
-      "name": "Bring That Giant Down",
-      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
+      "duration_ms": 270840,
+      "name": "Favorite Song of All",
+      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Power In The Blood (We Give Thanks For The Blood)",
-        "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Walker",
-          "url": "https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK"
-        },
-        {
-          "name": "Bethesda Music",
-          "url": "https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY"
-        }
-      ],
-      "duration_ms": 350715,
-      "name": "Power In The Blood (We Give Thanks For The Blood)",
-      "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 165613,
       "name": "God, Do it Again",
       "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Power In The Blood (We Give Thanks For The Blood)",
+        "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Walker",
+          "url": "https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK"
+        },
+        {
+          "name": "Bethesda Music",
+          "url": "https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY"
+        }
+      ],
+      "duration_ms": 350715,
+      "name": "Power In The Blood (We Give Thanks For The Blood)",
+      "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Lighthouse (50 Year Celebration)",
-        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
-      },
-      "artists": [
-        {
-          "name": "Ronny Hinson",
-          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
-        }
-      ],
-      "duration_ms": 262212,
-      "name": "The Lighthouse - 50 Year Celebration",
-      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 198099,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Lighthouse (50 Year Celebration)",
+        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
+      },
+      "artists": [
+        {
+          "name": "Ronny Hinson",
+          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
+        }
+      ],
+      "duration_ms": 262212,
+      "name": "The Lighthouse - 50 Year Celebration",
+      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
       },
       "artists": [
         {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
         }
       ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1175,6 +1159,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",

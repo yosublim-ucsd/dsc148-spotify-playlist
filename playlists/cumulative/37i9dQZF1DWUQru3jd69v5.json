@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Nabi in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Tony Boy in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 165494,
       "name": "ARGENTO",
       "url": "https://open.spotify.com/track/3RMFNwc7Bi5CYnGrIAsxB0"
@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187548,
+      "name": "Business (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73"
+    },
+    {
+      "album": {
         "name": "Business Lady",
         "url": "https://open.spotify.com/album/77k6zcgqheWUdyekfdMuj6"
       },
@@ -2119,6 +2141,28 @@
     },
     {
       "album": {
+        "name": "Calamite",
+        "url": "https://open.spotify.com/album/4p6p15HUl0tDkJXei3yqTy"
+      },
+      "artists": [
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156486,
+      "name": "Calamite",
+      "url": "https://open.spotify.com/track/452JD9BvCZ0IiKk5QWQZrt"
+    },
+    {
+      "album": {
         "name": "Cancellami",
         "url": "https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J"
       },
@@ -2170,7 +2214,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 185179,
       "name": "Cantine 2",
       "url": "https://open.spotify.com/track/26LgY4AMP5YK4u2DOGRuhT"
@@ -2497,6 +2541,46 @@
     },
     {
       "album": {
+        "name": "Chakach\u00e0",
+        "url": "https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167599,
+      "name": "Chakach\u00e0",
+      "url": "https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s"
+    },
+    {
+      "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Che ne sai",
+      "url": "https://open.spotify.com/track/2iWgpDNIAKHQm4kT6TaTaQ"
+    },
+    {
+      "album": {
         "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
         "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
       },
@@ -2754,7 +2838,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 162352,
       "name": "CLANDESTINO",
       "url": "https://open.spotify.com/track/5i4YfCFsfxLpQXD38K6NHk"
@@ -3462,7 +3546,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 163270,
       "name": "Diario del Bando 2",
       "url": "https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP"
@@ -3528,7 +3612,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 148965,
       "name": "Diretto al top",
       "url": "https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB"
@@ -4060,7 +4144,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 146086,
       "name": "Euro",
       "url": "https://open.spotify.com/track/7CxRXdumn7xcDKoCD1gmYk"
@@ -5274,7 +5358,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
@@ -5318,6 +5402,32 @@
       "duration_ms": 159428,
       "name": "Guardo la moon",
       "url": "https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX"
+    },
+    {
+      "album": {
+        "name": "247 - EP",
+        "url": "https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR"
+      },
+      "artists": [
+        {
+          "name": "Kalash247",
+          "url": "https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL"
+        },
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181985,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/0e4Dqn2igrNelqflegUa0N"
     },
     {
       "album": {
@@ -5709,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "GREZZO 4",
+        "url": "https://open.spotify.com/album/2sNjVoJDdwgsKmhxX44rJJ"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141208,
+      "name": "Il mio mestiere",
+      "url": "https://open.spotify.com/track/0M8OyJXJdKSULM0gSubhUZ"
+    },
+    {
+      "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r"
       },
@@ -5768,6 +5896,24 @@
       "duration_ms": 148531,
       "name": "Impliqu\u00e9",
       "url": "https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY"
+    },
+    {
+      "album": {
+        "name": "In 2 Sulla Moto",
+        "url": "https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150796,
+      "name": "In 2 Sulla Moto",
+      "url": "https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7"
     },
     {
       "album": {
@@ -5918,6 +6064,24 @@
       "duration_ms": 107400,
       "name": "Intro",
       "url": "https://open.spotify.com/track/53wcKqRkZ0p4iDJEXdlVWb"
+    },
+    {
+      "album": {
+        "name": "Io con Te",
+        "url": "https://open.spotify.com/album/7EmW6qZOjGz2xyoiZhY4Un"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Io con Te",
+      "url": "https://open.spotify.com/track/0Fw7HhX3q77ffJN6dNXNVO"
     },
     {
       "album": {
@@ -6803,6 +6967,44 @@
     },
     {
       "album": {
+        "name": "LEBLOCK 2 (feat. BRESCO, MarZa, Flus Brain, Caesar & TOLKA)",
+        "url": "https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a"
+      },
+      "artists": [
+        {
+          "name": "ZT5",
+          "url": "https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT"
+        },
+        {
+          "name": "BRESCO",
+          "url": "https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC"
+        },
+        {
+          "name": "MarZa",
+          "url": "https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs"
+        },
+        {
+          "name": "Flus Brain",
+          "url": "https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY"
+        },
+        {
+          "name": "Caesar",
+          "url": "https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP"
+        },
+        {
+          "name": "TOLKA",
+          "url": "https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185433,
+      "name": "LEBLOCK 2 (feat. BRESCO, MarZa, Flus Brain, Caesar & TOLKA)",
+      "url": "https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3"
+    },
+    {
+      "album": {
         "name": "Lettera",
         "url": "https://open.spotify.com/album/11qC4TTRIBWTLJVq1CdhyV"
       },
@@ -6821,6 +7023,28 @@
     },
     {
       "album": {
+        "name": "LETTERA",
+        "url": "https://open.spotify.com/album/4u2H6EN1azdMIqe3VwsKPV"
+      },
+      "artists": [
+        {
+          "name": "Y.E.B",
+          "url": "https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif"
+        },
+        {
+          "name": "LaMagieDuTiel",
+          "url": "https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "LETTERA",
+      "url": "https://open.spotify.com/track/4oHwqqnbBNiDreQjRAFaGV"
+    },
+    {
+      "album": {
         "name": "Libert\u00e0",
         "url": "https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW"
       },
@@ -6832,7 +7056,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 141395,
       "name": "Libert\u00e0",
       "url": "https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47"
@@ -7178,7 +7402,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 177887,
       "name": "Maradona (feat. Freek)",
       "url": "https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6"
@@ -7797,6 +8021,24 @@
     },
     {
       "album": {
+        "name": "Mon Papa",
+        "url": "https://open.spotify.com/album/6O4dj0wb0pjJirm5hd6Xbu"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133052,
+      "name": "Mon Papa",
+      "url": "https://open.spotify.com/track/04xS99ysaLVID7GRAmo1bp"
+    },
+    {
+      "album": {
         "name": "MONCLER",
         "url": "https://open.spotify.com/album/2qWUY4m5MP4rlXaN7bu8ka"
       },
@@ -8334,6 +8576,32 @@
       "duration_ms": 160319,
       "name": "NIKE (feat. Tony Boy, Digital Astro)",
       "url": "https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C"
+    },
+    {
+      "album": {
+        "name": "Nme",
+        "url": "https://open.spotify.com/album/1zciW0jZ81O6sslkqDkkNb"
+      },
+      "artists": [
+        {
+          "name": "MBOSS",
+          "url": "https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        },
+        {
+          "name": "Ngaaka Blinde",
+          "url": "https://open.spotify.com/artist/6JBweZ5NTBmZ8rJhDrb902"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Nme",
+      "url": "https://open.spotify.com/track/6VrAWtlbVpcbDTfvnqDDE2"
     },
     {
       "album": {
@@ -11184,7 +11452,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 151579,
       "name": "Sintetico (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3NLdcu14EPntcZIn3mxSR7"
@@ -12112,7 +12380,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 160000,
       "name": "TN NOIR",
       "url": "https://open.spotify.com/track/7FgP6zMPt73AFMy5GBq1GJ"
@@ -13480,7 +13748,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 208695,
       "name": "ZONE",
       "url": "https://open.spotify.com/track/4ojFWkavYUbStOneW5c8ZF"

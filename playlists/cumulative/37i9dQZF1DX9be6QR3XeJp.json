@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Issey Cross",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Downtown Kayoto",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2712,6 +2712,24 @@
       "duration_ms": 165633,
       "name": "Pinging (6 Figures)",
       "url": "https://open.spotify.com/track/5DioDvyrdjUIyeA07BPpm4"
+    },
+    {
+      "album": {
+        "name": "Learning in public",
+        "url": "https://open.spotify.com/album/18UujFD5TInXQX2mcwupKQ"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151450,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5DsPxrAjGRnJfRNUelP6ut"
     },
     {
       "album": {

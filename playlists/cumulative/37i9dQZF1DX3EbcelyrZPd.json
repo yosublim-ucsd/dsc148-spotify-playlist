@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Nandy",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Diamond Platnumz",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -920,6 +920,36 @@
       "duration_ms": 204329,
       "name": "For You",
       "url": "https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242177,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW"
     },
     {
       "album": {
@@ -1968,7 +1998,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 198368,
       "name": "Maajab",
       "url": "https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ"
@@ -2656,10 +2686,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168045,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
+    },
+    {
+      "album": {
+        "name": "My Baby (feat. Chike)",
+        "url": "https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/3WXhQllAcT6SQ2aRZumeoH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "My Baby (feat. Chike)",
+      "url": "https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi"
     },
     {
       "album": {
@@ -2761,6 +2813,36 @@
     },
     {
       "album": {
+        "name": "Nakuja (feat. Marioo, Darassa & Maua Sama) [Remix]",
+        "url": "https://open.spotify.com/album/2MIMHlmrVh5RpxUsIlwaqi"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218475,
+      "name": "Nakuja (feat. Marioo, Darassa & Maua Sama) - Remix",
+      "url": "https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA"
+    },
+    {
+      "album": {
         "name": "Nakumpenda",
         "url": "https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO"
       },
@@ -2798,6 +2880,24 @@
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+    },
+    {
+      "album": {
+        "name": "Nalego",
+        "url": "https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Nalego",
+      "url": "https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn"
     },
     {
       "album": {
@@ -3394,7 +3494,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 185044,
       "name": "Nitongoze (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G"

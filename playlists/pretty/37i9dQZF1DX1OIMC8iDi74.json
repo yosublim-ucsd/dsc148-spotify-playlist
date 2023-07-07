@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 886395,
+  "num_followers": 886481,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGQxNmU1OWUzMzE2YzEzMjNkODk0YjVhNzQ4YjgxYzJlYmJiNDc5",
+  "snapshot_id": "MCxlNGNhNmVlOGVhYTUyYzdjZGYwODlmN2Q1ZDIxZmJhOGRhYWM1YzQ2",
   "tracks": [
     {
       "added_at": "2023-06-23 16:06:02",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 228169,
       "name": "All of Me (feat. Logic, ROZES)",
       "url": "https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 220839,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -859,6 +859,30 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        },
+        {
+          "name": "Iselin",
+          "url": "https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
         "name": "Blood For Mercy",
         "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "Justin Caruso",
-          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
-        },
-        {
-          "name": "Iselin",
-          "url": "https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
         "name": "SIDE2SIDE",
         "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 233600,
       "name": "SIDE2SIDE",
       "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1947,22 +1947,22 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Twitter",
-        "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF"
       },
       "artists": [
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Buku",
+          "url": "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
         },
         {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 165350,
-      "name": "Twitter",
-      "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
+      "duration_ms": 228643,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x"
     }
   ],
   "unique_name": "Trap Mojito",

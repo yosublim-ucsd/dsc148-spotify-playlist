@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,144 likes - 195 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,270 likes - 195 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 67 | [Clap Clap](https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Clap Clap](https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk) | 2:39 |
 | 68 | [Mirage](https://open.spotify.com/track/504JluU0SrgimOW69mwCYx) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL) | [Mirage](https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v) | 3:17 |
 | 69 | [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 |
-| 70 | [Rising Part II](https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij) | [JK Group](https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4) | [Rising](https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj) | 5:13 |
+| 70 | [Rising Part II](https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij) | [JK Group](https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4), [Joshua Moshe](https://open.spotify.com/artist/2s9dRHHl4Djtu9BTPnfG8e) | [Rising](https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj) | 5:13 |
 | 71 | [Strange Habits](https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [kotokid](https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG) | [Strange Habits](https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k) | 2:15 |
 | 72 | [In Touch With The Kosmos](https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 1:29 |
 | 73 | [Gigi’s Revenge](https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Gemini with Mood Swings](https://open.spotify.com/album/0PqKxVkrzkNXAYv5qTFXG0) | 2:22 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 194 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 195 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw0YTcxNWJjZjIxYThlODA2NDZhNjE0NDJkN2IzZTM2ZjE4ZjI3NmM2`
+Snapshot ID: `MCxmN2I0NjIxOTZmYmM5MWVhY2ZiOTZlNTA2ZDM4N2I4YTU4YzA0ZjBh`

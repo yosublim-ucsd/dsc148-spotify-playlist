@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 234782,
       "name": "Brilla",
       "url": "https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
@@ -1670,6 +1670,24 @@
       "duration_ms": 271975,
       "name": "Invasi\u00f3n Coste\u00f1a",
       "url": "https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys"
+    },
+    {
+      "album": {
+        "name": "La Am\u00e9rica Que Se Olvida",
+        "url": "https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186332,
+      "name": "La Am\u00e9rica Que Se Olvida",
+      "url": "https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr"
     },
     {
       "album": {
@@ -2110,6 +2128,24 @@
       "duration_ms": 225538,
       "name": "Mariposas Negras",
       "url": "https://open.spotify.com/track/3dNvc7YXsJzYxV0mav3eY9"
+    },
+    {
+      "album": {
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163579,
+      "name": "Mar\u00eda Parado Bellido",
+      "url": "https://open.spotify.com/track/67kQIZGMAN0WruRBPz3RWC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-98 songs - 5 hr 4 min
+99 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Miramare Delta Sinus 81\-83 Hz](https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Miramare Delta](https://open.spotify.com/album/1y4EyBDQ2kfF81c6XRnKED) | 2:52 | 2023-01-20 |  |
 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 | 2023-01-20 |  |
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2023-01-20 |  |
+| [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 | 2023-07-07 |  |
 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/3mTeGp1bAGxdJOzX19BCbD) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 | 2023-01-20 |  |
 | [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 | 2023-01-20 |  |
 | [Serene Delta Sleep 87 Hz \- 89 Hz](https://open.spotify.com/track/6QAj5dBVnrM3gkSf7x1hz6) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 | 2023-01-20 |  |

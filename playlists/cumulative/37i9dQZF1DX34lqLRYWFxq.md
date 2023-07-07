@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: The Jins
 
-340 songs - 18 hr 39 min
+341 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Should've Known](https://open.spotify.com/track/4nresNbETCAa88JrG8uK9e) | [Victoria Anthony](https://open.spotify.com/artist/0x0iGXZc5qI9edbL1qNCdx) | [Should've Known](https://open.spotify.com/album/3miEwxBcJvBLqda3nwhSXD) | 2:44 | 2023-02-10 | 2023-03-04 |
 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 | 2023-05-19 |  |
 | [Sink or Swim](https://open.spotify.com/track/6MiF03krOmzIQcyKQz4whv) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Sink or Swim](https://open.spotify.com/album/6V2dEuft1RlLzJ1CFPANQm) | 3:51 | 2023-03-10 | 2023-05-20 |
-| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-30 |  |
+| [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 | 2023-06-30 |  |
+| [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-06-30 | 2023-07-07 |
 | [Sleepless in LA](https://open.spotify.com/track/5smcvyj3S60f1HHhmPTfrL) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Sleepless in LA](https://open.spotify.com/album/6gHBSearYTlqsuXs6rP5M2) | 3:15 | 2023-02-10 | 2023-04-01 |
 | [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 | 2023-04-14 | 2023-07-01 |
 | [Some Kind Of Drug](https://open.spotify.com/track/04ff2QCyhRMdSRrC7TTmis) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [The Nighttime Is All In The Timing](https://open.spotify.com/album/223TYLeVZ5uz67RB1SwTsA) | 4:11 | 2023-02-24 | 2023-04-29 |

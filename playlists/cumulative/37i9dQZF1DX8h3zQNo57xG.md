@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-129 songs - 6 hr 54 min
+131 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/track/0rvPwQabfUSeU08LDDQVM8) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/album/0TJS3JB2pb5mXXrPN7oFer) | 2:21 | 2021-12-22 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2021-12-22 |  |
 | [Binaural Delta Waves 125\-128 Hz](https://open.spotify.com/track/5n5kybYWPzYJ4RCYWQtuaF) | [The Delta Architect](https://open.spotify.com/artist/7m551v8boZ6Q1aT1WXPxNt) | [Binaural Delta Waves 125\-128 Hz](https://open.spotify.com/album/5VFEVMFKmzrUOTv7fXgv4k) | 2:56 | 2023-05-22 |  |
+| [Binaural Delta Waves 130\-132 Hz](https://open.spotify.com/track/7pk4iactqJ3MQzIY4gVYWG) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Binaural Delta Waves 130\-132 Hz](https://open.spotify.com/album/4E4Ri41XRIUYF2Wtoc3oPl) | 2:58 | 2023-07-07 |  |
 | [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/track/4LSnpwC7K8SISa1m8FqYHz) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/album/1LXNQ3HpVDFDgQIgudy2c2) | 2:58 | 2023-01-13 |  |
 | [Binaural Sines 2hz Delta 55hz \- 57hz](https://open.spotify.com/track/1Om7a5bQfKfQWFgmDCdFxX) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Delta](https://open.spotify.com/album/01lzymsaF2TaNrcDyW1bdX) | 2:33 | 2023-04-28 |  |
 | [Binaural Waves 120Hz \- 123Hz Delta](https://open.spotify.com/track/44W2LMIF4TmESsTF1uqjIz) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 2:43 | 2022-08-22 |  |
@@ -132,6 +133,7 @@
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2021-12-22 | 2022-05-27 |
 | [Two Worlds Delta](https://open.spotify.com/track/2Tz4E2VYaVHmasmoXOGIom) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Delta Atmosphere](https://open.spotify.com/album/72WSIvz2C29GFf6Wh3bhMT) | 3:21 | 2021-12-22 |  |
 | [Unconsious Delta Sines 41.2Hz \- 43.65Hz](https://open.spotify.com/track/184ClGyhTrbKz0BIQ8XXD5) | [Neuron Minds](https://open.spotify.com/artist/6P6WQWh9HeWRyRWrdYqU0B) | [Unconsious Delta Sines 41.2Hz \- 43.65Hz](https://open.spotify.com/album/5yYWZmiMsJSFDwYdy9RTwr) | 3:14 | 2022-08-22 |  |
+| [Undulating Peace \(Delta Binaural\)](https://open.spotify.com/track/3hPvu36IK4E2NkYMKrvZqq) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 4:00 | 2023-07-07 |  |
 | [unendlischer Schlaf Delta Sinus 99Hz \- 100Hz](https://open.spotify.com/track/2Zlcka6ThORqoC4fjJ2d3R) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 4:20 | 2021-12-22 |  |
 | [Unter dem Himmelszelt Delta Sinus 99Hz \- 102Hz](https://open.spotify.com/track/17oMg9bmY7DCU1VO4ucXyI) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:24 | 2021-12-22 |  |
 | [Warm Delta 58\-61 Hz](https://open.spotify.com/track/4P6Ww6a8eerhN3yD0nPgG3) | [Nukahtaa](https://open.spotify.com/artist/3WfE7A0OI5tIqY57aEE2T5) | [Warm Delta 58\-61 Hz](https://open.spotify.com/album/4RFaQvqqX9G42duV9PApxf) | 3:16 | 2022-08-22 |  |

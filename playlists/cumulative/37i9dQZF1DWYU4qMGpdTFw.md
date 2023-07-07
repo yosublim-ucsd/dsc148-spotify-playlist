@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-67 songs - 3 hr 8 min
+69 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fumar, beber y romper](https://open.spotify.com/track/3H01uYpXsFi3N1L4w5DP2Y) | [Los Nastys](https://open.spotify.com/artist/69A2sqnfhejKPYM4BGlrc7) | [Fumar, beber y romper](https://open.spotify.com/album/3ekLLKNOGHzmykral1CHYO) | 2:50 | 2023-04-28 |  |
 | [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 | 2023-04-28 |  |
 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 | 2023-04-28 |  |
+| [Huellas](https://open.spotify.com/track/0rLzvcyK268ELmvkK3YM1R) | [Black Mata](https://open.spotify.com/artist/7iiHc9L4LZnk2VIDMkCFaf) | [Huellas](https://open.spotify.com/album/4sitG4YFhSBRLVkRQPLlQl) | 3:12 | 2023-07-07 |  |
 | [Huracan](https://open.spotify.com/track/78qqrOTvXBpXiltVTSy2ZP) | [Los Mustang 66](https://open.spotify.com/artist/7w14hP0IiEcd62JxFByyf4) | [Fuzz On!](https://open.spotify.com/album/5ExVhKpiVHBzv7dWiqDDte) | 2:22 | 2023-04-28 |  |
 | [Jodidamente Loco](https://open.spotify.com/track/1G3o4H3mXlGERhmCnChwnS) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [Incluso Festivos](https://open.spotify.com/album/3m0hPsE270rOsdEIMWsBfS) | 1:53 | 2023-04-28 |  |
 | [Juventud Senil](https://open.spotify.com/track/0gjn7nqmG50wFfL7ccBDlZ) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Corazon Rocker](https://open.spotify.com/album/3TczTe53sWcV0hFCfJCuML) | 1:58 | 2023-04-28 |  |
@@ -69,6 +70,7 @@
 | [Sicario](https://open.spotify.com/track/7BzuY3JvxY3CW5yRmHXGYB) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Sicario](https://open.spotify.com/album/2WwerTFeLcncB0hVvx63t3) | 4:30 | 2023-04-28 |  |
 | [Te Veré Partir](https://open.spotify.com/track/0yH2kMP3ytedDZ1GYy3Z7P) | [Bang Bang Bang y los Espectros](https://open.spotify.com/artist/17es42RGqVMMfYTnyO046k) | [Garge Punk](https://open.spotify.com/album/45ZU17AE0LTLMTVBTI5lT9) | 1:51 | 2023-04-28 |  |
 | [Todo Es Mierda](https://open.spotify.com/track/3l4lL0XCyjRf1eyOUHWX3v) | [Ardillas](https://open.spotify.com/artist/05zZr6xyHFX5GM0ecRvHRI) | [Ardillas](https://open.spotify.com/album/76ap6QQEF2P8r5KHn6fiNm) | 4:13 | 2023-04-28 |  |
+| [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 | 2023-07-07 |  |
 | [Tura Satana](https://open.spotify.com/track/7kjTHGEHAYjqIc4yfic2Qc) | [Ugly Miss Piggy](https://open.spotify.com/artist/6iPF6s7eWNkHrP5LyNrYbm) | [Ugly Miss Piggy](https://open.spotify.com/album/7pNMy1F1rwn87dSMGPAd6Z) | 2:09 | 2023-04-28 |  |
 | [Vacaciones del Terror](https://open.spotify.com/track/6UzpHsbWASCXPtK2w2M4hP) | [Los Frankys](https://open.spotify.com/artist/1LHFqnUtqbdoJRD9hgyyoU) | [El Terror](https://open.spotify.com/album/3DmXFXdrnslLFtprUF1ySq) | 3:34 | 2023-04-28 |  |
 | [Vete de Vago](https://open.spotify.com/track/32AUZcXyUEoeasi0Hu3Pk9) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 5:05 | 2023-04-28 | 2023-06-23 |

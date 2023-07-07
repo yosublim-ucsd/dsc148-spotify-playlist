@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 25039,
+  "num_followers": 25056,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2MxYmZlYTg5YmExMzQ5NjE5NTRhNzA4YWExYTEyZjU1OGEwYWNi",
+  "snapshot_id": "MCwyN2Q3YWZhZGJiMTdmZGZjYzE4YzIzMjc2ODdkZDhjNTc2ZmQwMTlk",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Twust",
-        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "General G",
-          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Twust",
-      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "Stars On The Roof (feat. MoMo)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 242769,
       "name": "Stars On The Roof (feat. MoMo)",
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Twust",
+        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "General G",
+          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Twust",
+      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4aJD3e4tpG34qSDUxJ9YZT"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 198387,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3fqwZhWW1bThvY01kFh5Kn"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-06-02 15:32:09",

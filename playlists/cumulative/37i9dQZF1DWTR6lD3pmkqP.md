@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-501 songs - 1 day 18 hr 23 min
+502 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Something's Going On](https://open.spotify.com/track/7e9ReVRPkkpBGG4R1as4xI) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:12 | 2022-02-10 |  |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2021-12-16 |  |
 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 | 2021-12-16 |  |
-| [Sonar](https://open.spotify.com/track/3jMcbuJtv23bhYf6WkCUA1) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn) | [Dreamlike](https://open.spotify.com/album/5BbnWktlDfoI6R54k16r2o) | 4:18 | 2021-12-16 |  |
+| [Sonar](https://open.spotify.com/track/3jMcbuJtv23bhYf6WkCUA1) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn) | [Dreamlike](https://open.spotify.com/album/5BbnWktlDfoI6R54k16r2o) | 4:18 | 2021-12-16 | 2023-07-07 |
 | [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/61oebwxB0WaNdp7XtOpWVB) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/1S2len228X3FrPQoL0t67o) | 2:23 | 2022-02-10 |  |
 | [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/7w7pSGtnp1XyEdQ4ik1SfN) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/3U0P9yntVMeANPGb4HLSzs) | 2:23 | 2021-12-21 | 2023-04-30 |
 | [Southbound](https://open.spotify.com/track/3feWI2hos2hZ5NHKNPG5gz) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Southbound](https://open.spotify.com/album/3nY4pe1qOzUpRBvzU8ziqj) | 8:17 | 2021-12-16 | 2022-07-28 |
@@ -405,6 +405,7 @@
 | [Street Fighter Mas](https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/4gqOopeAEc1uZ392BBAWEd) | 5:58 | 2021-12-16 | 2021-12-22 |
 | [Stronger](https://open.spotify.com/track/0DMmuamiQ9tRdXfFLrEADn) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stronger](https://open.spotify.com/album/04Zzn0UXThAN51aO82Csk3) | 3:03 | 2021-12-21 |  |
 | [Sua Beleza e Beleza](https://open.spotify.com/track/2THVitcsBZMyurTEwrPRlr) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 3:00 | 2022-02-10 | 2023-04-30 |
+| [Sua Beleza e Beleza](https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 3:00 | 2022-02-10 |  |
 | [Sua Beleza e Beleza](https://open.spotify.com/track/3VIzPTVNrXegeAiBQ9LyCP) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [João Donato JID007](https://open.spotify.com/album/6nHhbD7do3JQsvLsPduaqF) | 3:00 | 2021-12-16 | 2022-07-29 |
 | [Sun Kissed Child \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/091hH6lNsAmC3I3CTLNkth) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Sun Kissed Child \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/33qmE7Pe8lRlZTC4bJOo6P) | 8:00 | 2021-12-16 |  |
 | [Sunfish](https://open.spotify.com/track/7wXFm7V9l7WDL08iyghuPm) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Sunfish](https://open.spotify.com/album/5kFv4TfnpB7lRNjACm0VZk) | 6:26 | 2021-12-21 |  |

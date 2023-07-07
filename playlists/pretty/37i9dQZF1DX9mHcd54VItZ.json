@@ -1,28 +1,60 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0?si=o9KV8wyuRva3VGFbebxtBg\">BINX</a> ",
-  "num_followers": 13524,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD?si=C3Djz6JJRD24ZLIaaMdV9Q\">Skelm</a> ",
+  "num_followers": 13536,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGZkNGIxMDQwM2FkNmZhZTM4MGU3ZDEwZWNlNDAwYTU4YmE4MTQ4",
+  "snapshot_id": "MCw2ZTc2YjczZjBjN2VjZGYwYjFhOTU1ZTk0MzRiOWEzMmIwY2IyMDY2",
   "tracks": [
     {
-      "added_at": "2023-06-22 21:59:00",
+      "added_at": "2023-07-06 21:59:00",
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/0xNIlmXdBcqH3fjRNSNaNs"
+        "name": "Vreemd",
+        "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
       },
       "artists": [
         {
-          "name": "BINX",
-          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+          "name": "Skelm",
+          "url": "https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD"
         }
       ],
-      "duration_ms": 172189,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/2N0OwIqsXpeV4IGvOBUyhD"
+      "duration_ms": 222433,
+      "name": "Goue Lokke",
+      "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "duration_ms": 211227,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Sosiaal Gebreek",
+        "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
+      },
+      "artists": [
+        {
+          "name": "Groot Oom John Tenoor",
+          "url": "https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Baby Tjoklits",
+      "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -47,22 +79,18 @@
     {
       "added_at": "2023-06-22 21:59:00",
       "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/2UbpzaCba64ZNOUbVUjaXa"
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/0xNIlmXdBcqH3fjRNSNaNs"
       },
       "artists": [
         {
-          "name": "Kids In America",
-          "url": "https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY"
-        },
-        {
-          "name": "John Samuel",
-          "url": "https://open.spotify.com/artist/1aLNavTO9Rv8rPCgl2jMtl"
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
         }
       ],
-      "duration_ms": 207534,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/0Xgsn609jEaoR0g5YSmAuQ"
+      "duration_ms": 172189,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/2N0OwIqsXpeV4IGvOBUyhD"
     },
     {
       "added_at": "2023-04-14 03:54:26",
@@ -133,20 +161,40 @@
       "url": "https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq"
     },
     {
-      "added_at": "2023-05-11 21:59:00",
+      "added_at": "2023-07-06 21:59:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn"
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi"
       },
       "artists": [
         {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+          "name": "West Coast Wolves",
+          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
         }
       ],
-      "duration_ms": 211227,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
+      "duration_ms": 152112,
+      "name": "Burn It",
+      "url": "https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Wasting time",
+        "url": "https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp"
+      },
+      "artists": [
+        {
+          "name": "TASH AYY",
+          "url": "https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas"
+        },
+        {
+          "name": "LOTU$",
+          "url": "https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "Wasting time",
+      "url": "https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -195,22 +243,6 @@
       "duration_ms": 225733,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ"
-    },
-    {
-      "added_at": "2023-04-20 21:59:00",
-      "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/37wsV9XmhCSKIYMi9d7wf2"
-      },
-      "artists": [
-        {
-          "name": "West Coast Wolves",
-          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
-        }
-      ],
-      "duration_ms": 170896,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -281,6 +313,42 @@
       "url": "https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB"
     },
     {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/37wsV9XmhCSKIYMi9d7wf2"
+      },
+      "artists": [
+        {
+          "name": "West Coast Wolves",
+          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
+        }
+      ],
+      "duration_ms": 170896,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 207525,
+      "name": "Maksimum Volume",
+      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+    },
+    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Doomsday Clock",
@@ -345,22 +413,6 @@
       "url": "https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R"
     },
     {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "BEST DAYS",
-        "url": "https://open.spotify.com/album/6uLmU29FmTprDpB9hSfhoH"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 194830,
-      "name": "BEST DAYS",
-      "url": "https://open.spotify.com/track/0h946n13uGeFs6PaKFvuCx"
-    },
-    {
       "added_at": "2023-03-30 21:59:00",
       "album": {
         "name": "Queen Of The Gorgons",
@@ -391,22 +443,6 @@
       "duration_ms": 200788,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Eating Dirt",
-        "url": "https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO"
-      },
-      "artists": [
-        {
-          "name": "Drumfish",
-          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
-        }
-      ],
-      "duration_ms": 196118,
-      "name": "Greetings from The Room",
-      "url": "https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE"
     },
     {
       "added_at": "2023-05-05 04:14:59",
@@ -641,22 +677,6 @@
       "url": "https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK"
     },
     {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA"
-      },
-      "artists": [
-        {
-          "name": "Marene",
-          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
-        }
-      ],
-      "duration_ms": 208495,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI"
-    },
-    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Melissa",
@@ -703,26 +723,6 @@
       "duration_ms": 228540,
       "name": "Black Candy",
       "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 207525,
-      "name": "Maksimum Volume",
-      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
       "added_at": "2023-06-01 21:59:00",

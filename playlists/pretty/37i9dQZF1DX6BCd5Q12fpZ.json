@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65252,
+  "num_followers": 65246,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2",
+  "snapshot_id": "MCwxNzEwMmExYTQ4Y2NjN2MxY2MwNzQ5ZWY5NzhlMTYyMGE0MjM5Yzlm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180586,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Tick Tock",
-        "url": "https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Yaremchuk",
-          "url": "https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Menq Enq Mer Sarere",
         "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 181973,
       "name": "Jan-Jan",
       "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Tick Tock",
+        "url": "https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Yaremchuk",
+          "url": "https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56"
     },
     {
       "added_at": "2023-05-05 17:20:54",

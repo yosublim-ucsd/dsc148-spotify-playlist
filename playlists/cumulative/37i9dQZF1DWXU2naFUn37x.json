@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Zefe, N\u00e9za",
+  "description": "Solo il meglio dello street rap italiano. Cover: Drillionaire",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 211429,
       "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
@@ -3196,6 +3196,24 @@
       "duration_ms": 216000,
       "name": "Inchiostro sulla face (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ"
+    },
+    {
+      "album": {
+        "name": "Intrappolato",
+        "url": "https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N"
+      },
+      "artists": [
+        {
+          "name": "Kero",
+          "url": "https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169361,
+      "name": "Intrappolato",
+      "url": "https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p"
     },
     {
       "album": {
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 126666,
       "name": "S\u00ec S\u00ec",
       "url": "https://open.spotify.com/track/1T4VXH94y9aKcg8NzaUhQ1"
@@ -6582,6 +6600,28 @@
       "duration_ms": 212035,
       "name": "T\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm"
+    },
+    {
+      "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Umile (feat. Shiva)",
+      "url": "https://open.spotify.com/track/0zwcUxnzdX6eSeaLKkrVPB"
     },
     {
       "album": {

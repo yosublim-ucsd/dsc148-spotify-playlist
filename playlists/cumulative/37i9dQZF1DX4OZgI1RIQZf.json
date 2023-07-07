@@ -1334,10 +1334,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 280133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR"
+    },
+    {
+      "album": {
+        "name": "Keep On Your Mean Side",
+        "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
     },
     {
       "album": {

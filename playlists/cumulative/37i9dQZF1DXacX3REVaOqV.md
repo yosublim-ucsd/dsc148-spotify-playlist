@@ -4,7 +4,7 @@
 
 > The best in house music
 
-331 songs - 23 hr 41 min
+332 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,8 +132,9 @@
 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 | 2022-04-28 |  |
 | [Hold on My Heart \- Zetbee Extended Remix](https://open.spotify.com/track/6xmiqFdYeWrRVwy4yqcqFm) | [Arturo Macchiavelli](https://open.spotify.com/artist/3CvncNwuUuYrEibiDhp7rk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Hold On My Heart \(Zetbee Remix\)](https://open.spotify.com/album/7GLSltrywD7qoKjcCY5h0P) | 6:01 | 2022-04-14 | 2022-07-29 |
 | [Hold U \(feat\. James Tone\)](https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [James Tone](https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC) | [Hold U \(feat\. James Tone\)](https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB) | 3:28 | 2022-04-14 |  |
-| [HOUSE \- Original Mix](https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [HOUSE](https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi) | 5:42 | 2022-07-28 |  |
+| [HOUSE \- Original Mix](https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [HOUSE](https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi) | 5:42 | 2022-07-28 | 2023-07-07 |
 | [House Music \(feat\. Arctic Lake\) \- Edit](https://open.spotify.com/track/3aAgQEbQUFMhXqk9fz3fcK) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [House Music \(feat\. Arctic Lake\) \[Edit\]](https://open.spotify.com/album/3nB4U7gdNErhJHY3v10NMr) | 2:59 | 2022-04-14 |  |
+| [House Music \- Radio\-Edit](https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6) | [Tom Novy](https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX) | [House Music \(The Anthem\)](https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie) | 4:16 | 2023-07-06 |  |
 | [How to Love Me \(Radio Edit\)](https://open.spotify.com/track/33yLfDxtmgi70gg8ltHOPL) | [Kid Crème](https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X), [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [How to Love Me \(Radio Edit\)](https://open.spotify.com/album/17Lx08RPG0m3c28f21H2eB) | 3:26 | 2022-04-14 | 2022-07-29 |
 | [How U Do It](https://open.spotify.com/track/7dl5jIAxtO0Ix0e40PcjfJ) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [How U Do It](https://open.spotify.com/album/5dXd1Tk9Ih35K6X98aaQrL) | 4:46 | 2022-04-14 | 2022-07-28 |
 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 | 2022-10-06 |  |

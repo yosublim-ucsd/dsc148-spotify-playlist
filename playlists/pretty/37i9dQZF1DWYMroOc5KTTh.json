@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 407928,
+  "num_followers": 408028,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODNlMmI5NDJlZjM2MmI3OTY4NzE2NDhhM2QxZTFlZjA1OWQ0YTFh",
+  "snapshot_id": "MCxiYTExZWQwYTllMzgyNDQyMWNkMDU5YjIzNTNjODM5ZWMyYTZmYjY1",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+      "duration_ms": 206500,
+      "name": "I'm a Kid",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
     },
     {
       "added_at": "2023-05-22 16:14:56",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 206500,
-      "name": "I'm a Kid",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-05-22 16:14:56",

@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-216 songs - 9 hr 45 min
+217 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 | 2022-04-21 |  |
 | [BAD DREAMS](https://open.spotify.com/track/6FRBKBK66QxI5EgAjx4Q5p) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj), [Arts](https://open.spotify.com/artist/42C6TIlpSUs9jULKO31Kcm) | [BAD DREAMS](https://open.spotify.com/album/6Yah9aseZUENWhChoJ5QNI) | 3:32 | 2023-02-23 | 2023-04-03 |
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 | 2022-08-13 |
-| [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 |  |
+| [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 | 2023-07-07 |
 | [Bombay Lemon](https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [LOVE?](https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm) | 2:56 | 2023-02-23 |  |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 | 2023-02-25 |
 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 | 2022-12-05 | 2023-01-13 |
@@ -66,6 +66,7 @@
 | [Dove sei ?](https://open.spotify.com/track/11aVApC8Eczp21UwsXDcUk) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Dove sei ?](https://open.spotify.com/album/5BChip79LQVg2Obu1jNefc) | 1:57 | 2022-05-24 | 2022-12-15 |
 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 | 2022-04-21 |  |
 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 | 2022-04-21 |  |
+| [Emorragie](https://open.spotify.com/track/68nozAqBarkGnr37KKfREu) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Emorragie](https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk) | 4:18 | 2023-06-29 |  |
 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 | 2022-04-21 |  |
 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 | 2022-11-28 |  |
 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 | 2022-04-21 |  |

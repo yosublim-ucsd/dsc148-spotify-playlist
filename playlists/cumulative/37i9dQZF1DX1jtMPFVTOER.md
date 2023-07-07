@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-453 songs - 1 day 3 hr 10 min
+454 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Sometimes](https://open.spotify.com/track/277g8X8E2Fc2gaSx73FWNs) | [Rudi Creswick](https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Sometimes](https://open.spotify.com/album/7En3z14aTEDt7hEeyOu05y) | 2:54 | 2022-07-22 | 2023-02-25 |
 | [Soul Caliber](https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 5:12 | 2022-11-11 |  |
 | [SOULFOOD](https://open.spotify.com/track/20RhQuUdD8ZTQktuHfwa0t) | [Diz](https://open.spotify.com/artist/1mz96NTqUI57Au0t28JyBK), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [SOULFOOD](https://open.spotify.com/album/3pYuQGNuTIl3qydMJHBE5v) | 2:42 | 2022-07-29 | 2023-01-14 |
-| [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 | 2023-01-06 |  |
+| [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 | 2023-01-06 | 2023-07-07 |
+| [Southend Baby](https://open.spotify.com/track/1ve2lB4TYaLEqNnkjZlewo) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/22mpXTrMJEfIsdPxVlq3k8) | 2:05 | 2023-01-06 |  |
 | [Spirit Speak](https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj) | [The Merk](https://open.spotify.com/artist/6ne0qgRZ2nlQMQssYhi6uE) | [Spirit Speak](https://open.spotify.com/album/3YVEw99qlwubma2ysL1rFL) | 3:26 | 2022-01-21 | 2022-02-19 |
 | [Statistics](https://open.spotify.com/track/4MhO110MAsJJfTqwv5EVKY) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Black Mona Lisa](https://open.spotify.com/album/1FFEcyvXKJQEJ78DK2knZg) | 3:29 | 2022-09-16 |  |
 | [Still Dreaming](https://open.spotify.com/track/4hPnhxuP6drBamrjLmXlqw) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Rara Zulu](https://open.spotify.com/artist/28M1tRkdJtcEpDkWQd7MRI) | [Still Dreaming](https://open.spotify.com/album/0c5hzI9bUtIpae4BNC9Yq6) | 4:24 | 2022-04-08 | 2022-09-03 |

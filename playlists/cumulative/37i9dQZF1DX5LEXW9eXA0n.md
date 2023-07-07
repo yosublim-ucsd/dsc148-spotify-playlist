@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:ZIA\(지아\)\) \(당신의 감성에 발라드, 려요\)
 
-924 songs - 2 day 12 hr 3 min
+926 songs - 2 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 | 2023-06-13 |  |
 | [Full Bloom](https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Full Bloom](https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r) | 4:13 | 2022-02-25 | 2022-05-08 |
 | [Generation Stars...\(1992\)](https://open.spotify.com/track/27yXEBgJQZdjWaFjvhYoDr) | [Kiroy Y](https://open.spotify.com/artist/1skQXanrEwyl9AmoIkoCGi) | [Generation Stars...\(1992\)](https://open.spotify.com/album/0aqPMZZQ0oMOFpqsygYeCA) | 3:35 | 2022-07-07 | 2022-10-08 |
+| [Get To You](https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [KING THE LAND \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU) | 3:27 | 2023-07-06 |  |
 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 | 2021-12-20 | 2022-07-08 |
 | [Glad You Are Here](https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Glad You Are Here \(Payback X Oh Hyun Woo\)](https://open.spotify.com/album/73hIXLouYFgmceGJ74cys9) | 3:36 | 2023-02-24 | 2023-05-16 |
 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 | 2022-03-31 | 2022-04-19 |
@@ -572,6 +573,7 @@
 | [Nothing's going my way](https://open.spotify.com/track/0PEMrxscyb93cQ0X6QFAlP) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Nothing's going my way](https://open.spotify.com/album/1OYxGc5j8LN7bcrDnCR3nz) | 4:03 | 2023-04-26 |  |
 | [Now running to you](https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Now running to you](https://open.spotify.com/album/4uCUkLnuQRwN2wtcjaL0TH) | 3:32 | 2023-02-24 | 2023-05-16 |
 | [now, us, here](https://open.spotify.com/track/37dLt5hX0JjgZ4XLia6zgK) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [outbox](https://open.spotify.com/album/4D4mtUMEScdPlGHsacmCYt) | 3:03 | 2022-03-24 | 2022-04-13 |
+| [O\-NE GUY \(Prod By D\-Hack\)](https://open.spotify.com/track/50Wle7GEmqvCOqZlDVNwdW) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [O\-NE GUY \(Prod By D\-Hack\)](https://open.spotify.com/album/4uMguv4pJbGFO2bBDwFmm9) | 3:21 | 2023-07-06 |  |
 | [Ocean Waves \(feat\. NIve\)](https://open.spotify.com/track/2e9V2bWaUFg9vnBa9q4tzu) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ocean Waves with KozyPop](https://open.spotify.com/album/7dt7lfkqQjGx7T8tIoJdaK) | 3:59 | 2022-01-27 | 2022-06-07 |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-04 | 2022-09-30 |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-07 | 2022-09-30 |

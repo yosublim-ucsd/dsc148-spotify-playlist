@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-102 songs - 6 hr 16 min
+103 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Beautiful Regret](https://open.spotify.com/track/3Midlv3EHzNit1rgDUOo26) | [Emma Zander](https://open.spotify.com/artist/1e5shldsBYSPVVugyEzvcQ) | [Beautiful Regret](https://open.spotify.com/album/0EL4FAgG4ni1bRehXyRwfP) | 3:34 | 2023-03-02 |  |
 | [Bending Back](https://open.spotify.com/track/4RahdzD2B7f7Q6XDyf92qH) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Bending Back](https://open.spotify.com/album/5ON0tHlFe654F5AUFCRFzl) | 4:02 | 2023-03-02 |  |
 | [Big Bang Blues](https://open.spotify.com/track/1RFFDOPlHH5Wf5gc0vptvG) | [Breanna Barbara](https://open.spotify.com/artist/2p5zh0v6BIDwVSY3Q6pgwn) | [Big Bang Blues](https://open.spotify.com/album/6yYkq48lihgkljoiJnshMr) | 4:33 | 2023-03-02 |  |
-| [Blood](https://open.spotify.com/track/4p1CSp2gJYS3FyqsoZhI21) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN) | 4:14 | 2023-03-02 |  |
+| [Blood](https://open.spotify.com/track/06oCBGPFJEDftgKnGSzKuE) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy) | 4:14 | 2023-03-10 |  |
+| [Blood](https://open.spotify.com/track/4p1CSp2gJYS3FyqsoZhI21) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN) | 4:14 | 2023-03-02 | 2023-07-07 |
 | [Can't Stop Your Addiction](https://open.spotify.com/track/3tAroCUr7N72pwktQXiiDx) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Dream Machine](https://open.spotify.com/album/69PFbiRgSDsdoTYNxkh81N) | 2:48 | 2023-03-02 |  |
 | [Cello Suite No\. 1 in G Major, BWV 1007: IV\. Sarabande](https://open.spotify.com/track/7jOJwH4kze92qMREpVI4cr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:56 | 2023-03-02 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2023-03-02 |  |

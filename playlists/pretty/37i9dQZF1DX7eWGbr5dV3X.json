@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8523,
+  "num_followers": 8515,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzY2N2UyODk5YTc3ZmUyZmQxMTJmMjYxNTFhMDNjNTVlNGY5MjNk",
+  "snapshot_id": "MCw5OTY0MjlkYjc4ZTQ1ZjdhMTA4OTg0ZmRiMDc4NjU1Mzc4Yjk2OWQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Kaitlin",
-        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
       },
       "artists": [
         {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Kaitlin",
-      "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"
+      "duration_ms": 166044,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
       },
       "artists": [
         {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 166044,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"
     },
     {
       "added_at": "2023-06-30 23:59:00",

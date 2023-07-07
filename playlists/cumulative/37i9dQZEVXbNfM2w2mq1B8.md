@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,145 songs - 2 day 16 hr 19 min
+1,146 songs - 2 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,7 +1071,7 @@
 | [Изкушение](https://open.spotify.com/track/6Fz0IEZ0qHeu3cEbRDqSnU) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP), [Slavi Trifonov](https://open.spotify.com/artist/4hcbbb8RBjFjCuMhmVv1b9), [Ku\-Ku Band](https://open.spotify.com/artist/6dTTAcKWN7BmRGAmmAsdeX) | [Изкушение](https://open.spotify.com/album/2eMxdsV5UGrIDcaQKTUrLN) | 3:44 | 2021-03-27\* | 2021-08-25 |
 | [Има кой](https://open.spotify.com/track/2P06Kf0MWVRPQ0n1PQWEba) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Има кой](https://open.spotify.com/album/2Cg9b4OZogb6ETnVKf197m) | 3:30 | 2022-07-29 | 2022-07-31 |
 | [Името ти](https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Името ти](https://open.spotify.com/album/6bXmjXUSflFKl42TejDZoR) | 3:10 | 2023-04-01 |  |
-| [Името ти](https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Името ти](https://open.spotify.com/album/7Jh9LuSFGZOghAGvFPsyTD) | 3:11 | 2023-03-25 |  |
+| [Името ти](https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Името ти](https://open.spotify.com/album/7Jh9LuSFGZOghAGvFPsyTD) | 3:11 | 2023-03-25 | 2023-07-07 |
 | [Искат Да Падна](https://open.spotify.com/track/4P0FfsXHy77aIzR4HJCuZV) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Искат Да Падна](https://open.spotify.com/album/5hJfnjxVdAezOzSmnTcpeE) | 3:34 | 2022-01-18 | 2022-02-13 |
 | [Какво ми трябва](https://open.spotify.com/track/3B7LBJdFeaTFL9url5b7uG) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA) | [Какво ми трябва](https://open.spotify.com/album/55fjHXPiPhm0icSHiELVSp) | 3:02 | 2023-04-28 | 2023-05-16 |
 | [Камък и Ножица](https://open.spotify.com/track/4mzILuYOfli6QWsPdc9iCS) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Yoana Sashova](https://open.spotify.com/artist/0WFMejgWiqbnkzhp3c3p3L) | [Камък и Ножица](https://open.spotify.com/album/5EaqcHDCXGlEMXqeQIkaPo) | 2:52 | 2022-10-13 | 2023-05-02 |
@@ -1135,6 +1135,7 @@
 | [Смърт Преди Позора](https://open.spotify.com/track/6Yv7vIisTRhCtC4svGV4Z3) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Смърт Преди Позора](https://open.spotify.com/album/1oK2OaHitsBeaddlQafUtf) | 2:49 | 2021-03-29 | 2021-04-16 |
 | [Срещата бърза](https://open.spotify.com/track/0O0LhLIImOBeLGYqmLLKqv) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Срещата бърза](https://open.spotify.com/album/1FG1vAD4sw41N076UZBiv4) | 3:52 | 2022-05-06 | 2022-05-22 |
 | [Стрес тест](https://open.spotify.com/track/6i3e7v3Wclce3OJgYD5dy1) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Стрес тест](https://open.spotify.com/album/2AqUpH3QjmsnmY34UDnLed) | 2:53 | 2021-05-03 | 2021-05-23 |
+| [Тайни знам](https://open.spotify.com/track/3MKjnQVRYKRDfNMOKFyviA) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP) | [Тайни знам](https://open.spotify.com/album/3RlYzrwkWDm7upLJS80j5U) | 3:12 | 2023-07-06 |  |
 | [Такова лудо като теб](https://open.spotify.com/track/4tEWk9mU5uI46beOxhsGkh) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Такова лудо като теб](https://open.spotify.com/album/0aI857dsCKAk0jc7uYuld8) | 3:18 | 2023-06-27 | 2023-06-29 |
 | [Там ли си?](https://open.spotify.com/track/42sQ9jc3NRDpxRvppjEtmA) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Там ли си?](https://open.spotify.com/album/6peeqEeFoAaZslAinFZnUp) | 2:46 | 2022-09-21 | 2022-09-23 |
 | [Там ли си?](https://open.spotify.com/track/5O37BDg9i9PAsrmmgCIbbG) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Там ли си?](https://open.spotify.com/album/1NgESTBojPFeOThyR5UoVS) | 2:46 | 2023-06-30 | 2023-07-03 |

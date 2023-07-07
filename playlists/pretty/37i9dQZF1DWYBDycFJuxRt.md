@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/319942?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,566 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,688 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 25 | [Dream Land](https://open.spotify.com/track/6VghK8LNFLLPxN8n1H2ZoP) | [佐野史郎](https://open.spotify.com/artist/2vY9SeLCwoXWgnMvZauu0o), [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa) | [Album](https://open.spotify.com/album/3tbV12ELcSrS00hCmNBExi) | 5:33 |
 | 26 | [Be My Baby](https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/0iccOoJs0Id7qeP40Wbuch) | 3:49 |
 | 27 | [Arata](https://open.spotify.com/track/3ZFecqJOj1yaSbOd9KMSb0) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Arata](https://open.spotify.com/album/3Ta6Y0SF6FiKZjZGZW77xQ) | 3:28 |
-| 28 | [Ooh!](https://open.spotify.com/track/7cjCgykjQmk0WE9Wnq10o7) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Ooh!](https://open.spotify.com/album/6Haj9wJqrnClrRc8A4kSA7) | 3:14 |
+| 28 | [Ooh!](https://open.spotify.com/track/7cjCgykjQmk0WE9Wnq10o7) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [Ooh!](https://open.spotify.com/album/6Haj9wJqrnClrRc8A4kSA7) | 3:14 |
 | 29 | [SWAG](https://open.spotify.com/track/3lWuQtvl0C3pTcStluTtgj) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [SWAG](https://open.spotify.com/album/6dKzXsTmOV2WNWOWajmaM4) | 2:59 |
 | 30 | [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 |
 | 31 | [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 74 | [コースト](https://open.spotify.com/track/5JtFTCaSrToZ7hcJ6mz7w7) | [SuU](https://open.spotify.com/artist/00z60JkLvs2e5NwhTshO5y) | [Build](https://open.spotify.com/album/2IT29BWwOGBPgQCiDIUSX4) | 3:28 |
 | 75 | [夏涼み](https://open.spotify.com/track/3TDX5H3A1uFWuM1uwfm9Sj) | [Halle](https://open.spotify.com/artist/2hFqbr7kdnY7MLDsVP8Se8) | [夏涼み](https://open.spotify.com/album/5BemeZyKw8e0gCTntAjBvY) | 3:42 |
 | 76 | [瀬戸際ミーツガール](https://open.spotify.com/track/6FpEYp5XD87PzeIbKxS6F2) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [瀬戸際ミーツガール](https://open.spotify.com/album/0yHtJWCuUB3RfanZkkwr2V) | 3:28 |
-| 77 | [OMG](https://open.spotify.com/track/36E1G51q77sMYpdOKFBdr4) | [PVCMVN](https://open.spotify.com/artist/6tfEPZxZFYrZYmDVFdf8xl), [Hibiki](https://open.spotify.com/artist/3mv9Q9jJq3T2KHm382fi3j) | [OMG](https://open.spotify.com/album/4TiX2so5vEhGoO8HG9Zm7e) | 2:43 |
+| 77 | [OMG](https://open.spotify.com/track/36E1G51q77sMYpdOKFBdr4) | [PVCMVN](https://open.spotify.com/artist/6tfEPZxZFYrZYmDVFdf8xl), [HIBIKI](https://open.spotify.com/artist/51iSOG0QwqYHm2IKe6Xaws) | [OMG](https://open.spotify.com/album/4TiX2so5vEhGoO8HG9Zm7e) | 2:43 |
 | 78 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 |
 | 79 | [Hey World](https://open.spotify.com/track/2ptP3koK8rYTCt6H21x85o) | [「えいごであそぼ Meets the World」](https://open.spotify.com/artist/7hR1zQnQf2ugg2zdLgWLRh), [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Hey World](https://open.spotify.com/album/1jJTl8mvUjPRMqVandflm0) | 0:35 |
 
-Snapshot ID: `MCxjMGU0OWRmMTY3NjdmOGY2MjUwMjJkMWQ2OGUyNDY0ZjM4NTUzOGI3`
+Snapshot ID: `MCwzODMyODBhZmI2MTQ2MWNjOTMyYWNhMmNiYTVhODk1OGJkYzNjYWFi`

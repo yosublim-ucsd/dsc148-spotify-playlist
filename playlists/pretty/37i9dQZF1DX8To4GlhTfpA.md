@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > Anniversary edition! Let's celebrate 15 years together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,119 likes - 25 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,176 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 24 | [Selene 6.23](https://open.spotify.com/track/2GZ9D36wODanwoK6cGMZ2m) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album 'The Misconceptions Of Us'](https://open.spotify.com/album/0f0brenHcU2NmUANeix9rN) | 4:09 |
 | 25 | [Replay](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:33 |
 
-Snapshot ID: `MCwwOGFiMTA0YmY5MDRhZjI2YWYzNzg0Mjg5ZmZhMzcxNTFhY2EwNTUw`
+Snapshot ID: `MCw5YjdjYTBhZmE0ZWQ4YWRlMDVlNjk0NjVjMzRiYjYwN2E2MjFlN2Y2`

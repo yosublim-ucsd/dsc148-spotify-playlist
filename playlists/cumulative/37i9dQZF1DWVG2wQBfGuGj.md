@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-173 songs - 9 hr 6 min
+180 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2023-05-05 |  |
 | [All Over My Body](https://open.spotify.com/track/365R9wKlTJpciKgWB0v6K3) | [Quaaalude](https://open.spotify.com/artist/5xjuELwoci9zRv8NKXhEIl) | [All Over My Body](https://open.spotify.com/album/0XIK1ChzTUPN7V0JQrhG1n) | 3:16 | 2023-05-05 |  |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2023-05-05 |  |
+| [Always A Princess](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Always A Princess](https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9) | 2:36 | 2023-07-07 |  |
 | [Another Day](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Another Day](https://open.spotify.com/album/6pWv9L9GIK68UUyQV72rQW) | 2:36 | 2023-05-05 |  |
 | [Beach Club](https://open.spotify.com/track/1xyotakxXPfJ4WmqXGGgOq) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Arcade](https://open.spotify.com/album/4JX7yWgYnJk0sJKVlqmFwJ) | 2:12 | 2023-05-26 |  |
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2023-05-05 |  |
@@ -40,6 +41,7 @@
 | [city parade](https://open.spotify.com/track/3Z6hzgUbB1EjqLPhiEkdpL) | [Jauq](https://open.spotify.com/artist/0lwiuBpQRgCFt8zC563wcp) | [jazzy night club](https://open.spotify.com/album/1qpZwZiOnqDB0XSeMJ8WSk) | 1:46 | 2023-05-05 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2023-05-05 |  |
 | [Cloudburn](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Cloudburn](https://open.spotify.com/album/5GHE6lBdu0U4Vk6UpJ79hq) | 2:30 | 2023-05-05 |  |
+| [come with me](https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [come with me](https://open.spotify.com/album/0x5nHYKK9ZxwOG638YmkSj) | 2:32 | 2023-07-07 |  |
 | [conscious of the trend](https://open.spotify.com/track/01kNQ61BzAshDC9NlUqcKY) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [conscious of the trend](https://open.spotify.com/album/2nltbyf8nIx2eA3YDI4gqf) | 3:08 | 2023-05-05 |  |
 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 | 2023-05-05 |  |
 | [Cravings](https://open.spotify.com/track/68Hy2Ee8JBMdOMlzyGWsf1) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Open Air](https://open.spotify.com/album/4RX27Cgz2pTqwBdp508EBj) | 3:24 | 2023-05-05 |  |
@@ -72,6 +74,7 @@
 | [Forever](https://open.spotify.com/track/4ShNQ8fptxSZJlxPrB9WH9) | [Sorealistic](https://open.spotify.com/artist/3JZ7YTqD3kuO06iDUjMoNS) | [Forever](https://open.spotify.com/album/702MvPJm14n0vapHvva2So) | 2:27 | 2023-05-05 |  |
 | [FourTwenty](https://open.spotify.com/track/59nnEAlpfTItpuIfhsucbf) | [Mijjo](https://open.spotify.com/artist/0RCnXaNg2V72pjh7szTSNG) | [FourTwenty](https://open.spotify.com/album/7iKEO0B7yXtgFoJtCxkxRY) | 3:00 | 2023-05-05 |  |
 | [Genuine Foggy](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Open Hat](https://open.spotify.com/album/0gh9B5L7AQPvW3W7LlUiEk) | 3:09 | 2023-05-05 |  |
+| [Get Up](https://open.spotify.com/track/7vGXoiHHffnzHnCtG33auM) | [Luxe Moldaine](https://open.spotify.com/artist/4CFOY2D4y9pLRfEVRCnwMr) | [Get Up](https://open.spotify.com/album/6FTx15VgguASDLeZ2Y2DJO) | 2:38 | 2023-07-07 |  |
 | [GET UP](https://open.spotify.com/track/4PTetq6Z4Cc303H1NirgC4) | [VE MODET](https://open.spotify.com/artist/6rdjLu0a5ZWIDkSttlY2SW) | [GET UP](https://open.spotify.com/album/0uRWrXQ3kQ7Sw9smm9OA4r) | 2:36 | 2023-05-05 |  |
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2023-05-05 |  |
 | [Give It To U](https://open.spotify.com/track/55UOGvAkteFSxr3OiMRXWC) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Give It To U](https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH) | 2:28 | 2023-05-05 |  |
@@ -101,6 +104,7 @@
 | [magnetic shackles](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [magnetic shackles](https://open.spotify.com/album/6MEO20fU2q7OzG3syiBHzX) | 2:52 | 2023-05-05 |  |
 | [making out](https://open.spotify.com/track/31sRAMv4XlnUbvDTFvXJSP) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [making out](https://open.spotify.com/album/3jR4vqdsNHihUfn0kf6h8j) | 2:42 | 2023-05-05 |  |
 | [Meanwhile In Love](https://open.spotify.com/track/6oCEqsNJj9RW1Kr3p3U4Dn) | [Natural Fool](https://open.spotify.com/artist/663n4qhinuhmaB2ezvFpuw) | [Meanwhile In Love](https://open.spotify.com/album/0PVEbINImHPWShTNgzHXMw) | 2:55 | 2023-05-05 |  |
+| [Mellow Mojito](https://open.spotify.com/track/60MRrmns8voj2NjwuwYiSB) | [Nelvita](https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf) | [Mellow Mojito](https://open.spotify.com/album/208kSvo3QEBAPGovMnLz41) | 2:40 | 2023-07-07 |  |
 | [Midnight Disco](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Midnight Disco](https://open.spotify.com/album/1h2qp1P2w6GIQnJYxOFpBK) | 2:41 | 2023-05-05 |  |
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2023-05-05 |  |
 | [Milkyway](https://open.spotify.com/track/528FLI8KzcnKoedVS3o6WG) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milkyway](https://open.spotify.com/album/2NRFUBYuVipEU8fClh8MvB) | 3:07 | 2023-05-05 |  |
@@ -113,6 +117,7 @@
 | [Nibe](https://open.spotify.com/track/5DaU8KzFj36sr75eX09gUl) | [Flawless Vibes](https://open.spotify.com/artist/0G3xN8GBnDXOolLFoW1rDv), [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Nibe](https://open.spotify.com/album/39YWmZlQvzwrTw13bLPXy3) | 2:24 | 2023-05-05 |  |
 | [Nightshades](https://open.spotify.com/track/5cHFlXHVw6KdQVoW4j6YxX) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Nightshades](https://open.spotify.com/album/1T8jSLIFEoPZ6ZGK1wDG0B) | 2:52 | 2023-05-05 |  |
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2023-05-05 |  |
+| [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 | 2023-07-07 |  |
 | [Old Prophecies](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Old Prophecies](https://open.spotify.com/album/1jo42bHLmo4IPXiPIHxpNP) | 3:14 | 2023-05-05 |  |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 |  |
 | [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 |  |
@@ -132,10 +137,11 @@
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2023-05-05 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2023-05-05 |  |
 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 | 2023-05-05 |  |
+| [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 | 2023-07-07 |  |
 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 |  |
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 |  |
-| [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 |  |
+| [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 | 2023-07-07 |
 | [Skinny Dipping](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77) | [Dentity](https://open.spotify.com/artist/7nOhCBrrYam26cWsDpM3t1) | [Skinny Dipping](https://open.spotify.com/album/1YuR5tcmMmKP2GuqW0iyYM) | 2:23 | 2023-06-23 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2023-05-05 |  |
 | [Snap To Your Beat](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Princess King](https://open.spotify.com/album/3FbV4oMCVanCAOTSm9WhBV) | 3:07 | 2023-05-05 |  |
@@ -143,6 +149,7 @@
 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 | 2023-05-05 |  |
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
+| [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2023-05-05 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TRINITY
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
-354 songs - 21 hr 21 min
+355 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-19 | 2023-05-24 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 |  |
 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 | 2023-02-23 |  |
-| [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/album/0vJAdME3KE2lXXzNimcGx2) | 3:10 | 2023-06-30 |  |
+| [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/album/0vJAdME3KE2lXXzNimcGx2) | 3:10 | 2023-06-30 | 2023-07-07 |
 | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR) | [PentorJrp](https://open.spotify.com/artist/0bHXI9cKfwXRzk9acBffsh) | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/album/74nX4wALX9YI5du7NJPP5t) | 3:29 | 2023-03-31 | 2023-04-13 |
 | [ช่วยไปรักคนนั้นที](https://open.spotify.com/track/6SFfErKKJCMbz1d3SKKTew) | [O\-Pavee](https://open.spotify.com/artist/5mZD78snaOoIJGOOFEbXFA) | [ช่วยไปรักคนนั้นที](https://open.spotify.com/album/3DMY1Mw0COtkmRF70gOgnQ) | 3:47 | 2022-08-11 | 2022-08-19 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2022-05-26 | 2022-09-01 |
@@ -252,6 +252,7 @@
 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2022-08-11 |  |
 | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/track/6JVtp9kQzGiCNYVpoLFILn) | [UP n AWAY](https://open.spotify.com/artist/0MiktauYVOxwrJbNxGMQIF) | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/album/1EkS7qvW0UxW2dLcjaN8eD) | 3:40 | 2022-11-11 | 2022-12-02 |
 | [ส่งเพลงนี้มาบอกฝันดี \- See You In My Dreams](https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ส่งเพลงนี้มาบอกฝันดี \(See You In My Dreams\)](https://open.spotify.com/album/7zEqCYajmXEXLH2v6ulsvv) | 2:10 | 2022-05-26 | 2022-06-03 |
+| [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 |  |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-09 |  |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 | 2022-10-27 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/0Gex9SSDNTtbiL4JOqfOhl) | 4:14 | 2022-05-26 | 2022-07-29 |

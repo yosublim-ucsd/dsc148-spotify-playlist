@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Dom Dolla + Nelly Furtado
+> The hottest tracks with the freshest hits! Cover: Olivia Rodrigo
 
 56 songs - 3 hr 1 min
 

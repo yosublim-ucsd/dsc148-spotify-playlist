@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149231,
+  "num_followers": 149245,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
+  "snapshot_id": "MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dirt Rock",
-        "url": "https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7"
+        "name": "MAGIC CITY COWBOY",
+        "url": "https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU"
       },
       "artists": [
         {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "Nate Kenyon",
-          "url": "https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4"
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Willie Nelson (feat. Nate Kenyon)",
-      "url": "https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO"
+      "duration_ms": 124000,
+      "name": "MAGIC CITY COWBOY",
+      "url": "https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -607,18 +603,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "MAGIC CITY COWBOY",
-        "url": "https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU"
+        "name": "Dirt Rock",
+        "url": "https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7"
       },
       "artists": [
         {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Nate Kenyon",
+          "url": "https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4"
         }
       ],
-      "duration_ms": 124000,
-      "name": "MAGIC CITY COWBOY",
-      "url": "https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc"
+      "duration_ms": 229773,
+      "name": "Willie Nelson (feat. Nate Kenyon)",
+      "url": "https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Fast Cars",
+        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
+      },
+      "artists": [
+        {
+          "name": "Diego Fresh",
+          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
+        }
+      ],
+      "duration_ms": 166675,
+      "name": "Fast Cars",
+      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Lethal",
         "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
       },
@@ -1331,6 +1347,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 235416,
       "name": "Roll With Me (feat. Chris Hurt)",
       "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 278388,
       "name": "Cowboy Way",
       "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Fast Cars",
-        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
-      },
-      "artists": [
-        {
-          "name": "Diego Fresh",
-          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
-        }
-      ],
-      "duration_ms": 166675,
-      "name": "Fast Cars",
-      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
     }
   ],
   "unique_name": "Field Party",

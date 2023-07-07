@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-308 songs - 15 hr 29 min
+309 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/track/23qcDAKuwJegiWk42nku4U) | [J Pepperwood](https://open.spotify.com/artist/0rze0pPOmFLjelwEdicfYP), [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/album/3eKnAxoTZ6VrBvj04NLfGd) | 2:40 | 2022-11-25 |  |
 | [Ciao Janet](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Ciao Janet](https://open.spotify.com/album/3cl6WY7e8NpajLtdHYMRCG) | 2:50 | 2022-06-17 |  |
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2022-05-20 |  |
+| [Città Dell'Estate](https://open.spotify.com/track/0SwmeMCkUfFKHHqg8eMzgl) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Città Dell'Estate](https://open.spotify.com/album/5gd6vRMKUszeiZTMIDgxPh) | 2:08 | 2023-07-06 |  |
 | [City Highs](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Limes on Ice](https://open.spotify.com/album/09b5SXwJG8vnh0eNxakj7Y) | 3:12 | 2022-09-02 | 2023-01-07 |
 | [Clear Skies](https://open.spotify.com/track/1WROw8DEFXlD3aMJygdOAs) | [Neon Mountains](https://open.spotify.com/artist/722pzglIWbUCG4b4GuP99O) | [Clear Skies](https://open.spotify.com/album/6lmVRs75eLVbQq40HQK1bq) | 2:30 | 2022-05-20 |  |
 | [Cleve the air](https://open.spotify.com/track/6MhFFX4lTwv7OO6jmooKat) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Cleve the air](https://open.spotify.com/album/0zIuEpk5dhS1jyirJq1wf3) | 4:22 | 2023-01-20 |  |
@@ -287,7 +288,7 @@
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2022-05-20 |  |
 | [The Rhythm \- Chill out Mix](https://open.spotify.com/track/3aZ9YHMB4mWRdMgYTl1GRo) | [Filt Stop](https://open.spotify.com/artist/65fByPGipTQSq60gmurTaO) | [The Rhythm \(Chill out Mix\)](https://open.spotify.com/album/56bElNqMjpm18oloLKKFcm) | 3:10 | 2022-05-20 | 2022-06-24 |
 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2022-05-20 |  |
-| [The Story of My Love](https://open.spotify.com/track/1E0n0NjR7vJoZNa3eggYXj) | [RILTIM](https://open.spotify.com/artist/11KtV0aWtXAGK86z6iWTLI) | [The Story of My Love](https://open.spotify.com/album/4sc7hCeeDS5oNtOFuAiYRI) | 2:46 | 2022-10-28 |  |
+| [The Story of My Love](https://open.spotify.com/track/1E0n0NjR7vJoZNa3eggYXj) | [RILTIM](https://open.spotify.com/artist/11KtV0aWtXAGK86z6iWTLI) | [The Story of My Love](https://open.spotify.com/album/4sc7hCeeDS5oNtOFuAiYRI) | 2:46 | 2022-10-28 | 2023-07-07 |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2022-05-20 |  |
 | [Tides](https://open.spotify.com/track/2KYmsBzR2PYxgZbqu32lDX) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Tides](https://open.spotify.com/album/6rRy69ecraoQrSPNEmKHa5) | 2:12 | 2022-10-07 |  |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2022-05-20 |  |

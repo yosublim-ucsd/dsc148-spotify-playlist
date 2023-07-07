@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 895751,
+  "num_followers": 896448,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh",
+  "snapshot_id": "MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "CRYSTALS (Remixes)",
-        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
-      },
-      "artists": [
-        {
-          "name": "PR1SVX",
-          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
-        }
-      ],
-      "duration_ms": 75833,
-      "name": "CRYSTALS (Slowed)",
-      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 150660,
       "name": "snowfall (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
+        "name": "CRYSTALS (Remixes)",
+        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "duration_ms": 75833,
+      "name": "CRYSTALS (Slowed)",
+      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
     },
     {
       "added_at": "2023-06-01 19:04:27",

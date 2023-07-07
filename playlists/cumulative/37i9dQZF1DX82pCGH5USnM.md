@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-723 songs - 1 day 17 hr 20 min
+724 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [As a Kite](https://open.spotify.com/track/3PD90aDVz4wKRYmmF3LLf9) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [As a Kite](https://open.spotify.com/album/6fdQudYgibZfZs5VDj3F0J) | 2:55 | 2022-01-21 | 2022-09-17 |
 | [Asy](https://open.spotify.com/track/0xgQ3LG2JQcvtPivzIaACS) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Gaze](https://open.spotify.com/album/0k82yUpUYyvQV11mes5JgX) | 7:53 | 2020-10-27 | 2020-12-24 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2021-05-06 |  |
-| [Audicity](https://open.spotify.com/track/0AUW5PDxB0OE9oGdgj5AL7) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Audicity](https://open.spotify.com/album/6FhGljQpeIuQ9anXvvyCFd) | 3:16 | 2022-01-21 |  |
+| [Audicity](https://open.spotify.com/track/0AUW5PDxB0OE9oGdgj5AL7) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Audicity](https://open.spotify.com/album/6FhGljQpeIuQ9anXvvyCFd) | 3:16 | 2022-01-21 | 2023-07-07 |
 | [Aurora](https://open.spotify.com/track/0CuGRk2X4Ph3kNHfcu5gZC) | [Milkweed](https://open.spotify.com/artist/57C636Jkd8eaZsGzRgWKLE) | [Aurora](https://open.spotify.com/album/2Vxy7rxT21xtORjHwiSSz3) | 2:21 | 2022-12-09 |  |
 | [automatic](https://open.spotify.com/track/2uCElAMajnpOd74my2NCdL) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [automatic](https://open.spotify.com/album/44tYba9AEqDHyd779C3XZC) | 2:51 | 2023-01-06 |  |
 | [Autumn Haze](https://open.spotify.com/track/3FnjmbHgL9CTNYPlk1JvKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 3:50 | 2020-10-16 | 2021-04-21 |
@@ -127,6 +127,7 @@
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2021-11-08 | 2023-02-25 |
 | [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2021-07-08 | 2022-07-22 |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-04-21 |  |
+| [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 | 2023-07-06 |  |
 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 | 2021-07-08 |  |
 | [Cloudy Day](https://open.spotify.com/track/13teDpR5PDCELyacIqneXd) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Cloudy Day](https://open.spotify.com/album/68vJq1SyBGQUPqNAyxdct3) | 2:37 | 2021-07-08 | 2021-08-20 |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-01 |

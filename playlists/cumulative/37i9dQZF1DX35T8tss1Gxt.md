@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-393 songs - 23 hr 48 min
+394 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amazing Grace](https://open.spotify.com/track/4oqVeCZeDdWwX8M7aC9oB3) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Amazing Grace](https://open.spotify.com/album/1dGXWUdhl2H9EmY6MoQtNf) | 2:46 | 2022-02-19 | 2022-06-25 |
 | [Anchor](https://open.spotify.com/track/6JFe09i1OqQxMLlFVDIuDF) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Anchor](https://open.spotify.com/album/2A52DLbX16yQztXWBMH79T) | 2:35 | 2022-02-19 | 2022-06-26 |
 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 | 2023-01-20 |  |
+| [Another In the Fire](https://open.spotify.com/track/4FFfvln3hGIqnenEQPn9Kk) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Sara Damon](https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75), [Joseph Whettam](https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa) | [Another In the Fire](https://open.spotify.com/album/1S6BSiiHUFEQb2D0ZSqH0a) | 2:45 | 2023-01-20 |  |
 | [Another In The Fire](https://open.spotify.com/track/6WHwV2HTbHqZ7yPqliO5cf) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Sara Damon](https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75), [Joseph Whettam](https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa) | [Another In The Fire](https://open.spotify.com/album/7b2i1gPJDb1MFgs2NLO3HY) | 2:45 | 2022-02-27 | 2023-07-05 |
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-02-19 | 2022-06-25 |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 | 2022-02-19 | 2022-06-26 |
@@ -246,7 +247,7 @@
 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 | 2022-07-17 |  |
 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 | 2022-04-01 | 2023-05-15 |
 | [New Me](https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Vibes&Glory](https://open.spotify.com/artist/4qqnQnjZRTML3p1WeuUYsR) | [New Me](https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2) | 2:46 | 2023-01-20 |  |
-| [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 | 2022-06-25 |  |
+| [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 | 2022-06-25 | 2023-07-07 |
 | [No Better Day](https://open.spotify.com/track/66hPCRer1f35fuUFXiizzo) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:02 | 2022-02-19 | 2022-06-26 |
 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 | 2022-02-19 | 2022-06-25 |
 | [No Greater Love](https://open.spotify.com/track/4Sg882Wev4lELJwfKZUSWQ) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [No Greater Love](https://open.spotify.com/album/68nNR4DGruSxsWnhVZMyEd) | 4:48 | 2022-02-19 | 2022-06-26 |

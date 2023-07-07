@@ -16153,10 +16153,14 @@
     },
     {
       "album": {
-        "name": "Mi hero\u00edna (Rework)",
+        "name": "Mi hero\u00edna (Xavi Road Rework)",
         "url": "https://open.spotify.com/album/3ICol6hGgpP0tgxpfWl1gc"
       },
       "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        },
         {
           "name": "S\u00f4ber",
           "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
@@ -16164,17 +16168,13 @@
         {
           "name": "Xavi Road",
           "url": "https://open.spotify.com/artist/5rb9QPhDs8JtHgzoPVrhpF"
-        },
-        {
-          "name": "Carlos Escobedo",
-          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
         }
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202205,
-      "name": "Mi hero\u00edna - Rework",
+      "name": "Mi hero\u00edna - Xavi Road Rework",
       "url": "https://open.spotify.com/track/2csUSha7n4gCnSd11UcsRI"
     },
     {

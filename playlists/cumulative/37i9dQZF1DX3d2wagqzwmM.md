@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-314 songs - 16 hr 54 min
+315 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 | 2023-03-30 |  |
 | [Most People \(with Lukas Graham\) \- R3HAB VIP Remix](https://open.spotify.com/track/7quDire3GlKl1xZEJIGmbG) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People \(with Lukas Graham\) \[R3HAB VIP Remix\]](https://open.spotify.com/album/4QtwTNggsJrLB21cqccgDf) | 3:09 | 2022-04-14 | 2022-06-24 |
 | [Mother & Father](https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH), [Bukhu](https://open.spotify.com/artist/2sjkwoyC79M6I9Fmianr7K) | [Mother & Father](https://open.spotify.com/album/1OhZwd5kaBJ6QREs7ztT5f) | 3:20 | 2022-04-14 | 2022-07-28 |
+| [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-06 |  |
 | [Music Means Love Forever](https://open.spotify.com/track/7nlXw2qQ38tx4UvBwVL5Ne) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/54MIiA8hZ7y2vU0cbiHjbE) | 3:27 | 2022-04-14 | 2022-07-29 |
 | [My Real Desire](https://open.spotify.com/track/5doObAd4avGUIL8vy6X0Ku) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Feel The Rhythm EP](https://open.spotify.com/album/3soibddoVebfJg5LDiNGDF) | 3:11 | 2022-12-27 | 2023-01-03 |
 | [Myriad](https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Myriad](https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc) | 3:27 | 2022-10-13 | 2022-12-02 |
@@ -272,7 +273,7 @@
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 |  |
 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-26 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
-| [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 |  |
+| [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 | 2023-07-07 |
 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2022-09-01 |  |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2023-02-16 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-06 |  |

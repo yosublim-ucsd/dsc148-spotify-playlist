@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-751 songs - 1 day 15 hr 26 min
+752 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2020-10-08 | 2023-05-03 |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2020-01-03 | 2020-07-11 |
 | [Falling Softly](https://open.spotify.com/track/7beCCJReSJrQOpmdC2fog8) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 2:48 | 2019-07-27 | 2020-01-09 |
-| [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 | 2020-10-08 |  |
+| [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 | 2020-10-08 | 2023-07-07 |
 | [feelings](https://open.spotify.com/track/2ukdz6UagW44yM6latM2as) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [feelings](https://open.spotify.com/album/6CHlVEF0B1cD504wtNshAS) | 2:48 | 2020-08-08 | 2022-03-26 |
 | [Fidelity](https://open.spotify.com/track/185Tn3NXJ4tT5HfEPtOmrA) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [When You Were Here](https://open.spotify.com/album/11cgTljXHTFtqcWfXYCLPd) | 1:51 | 2019-05-26\* | 2019-06-29 |
 | [FILO](https://open.spotify.com/track/7ahiYT2P9GsWQ8bkd1vRzn) | [Traßel SüD](https://open.spotify.com/artist/4pHuzF93uI0mOvg8E1YgoW) | [FILO](https://open.spotify.com/album/5Zo1uSX3FD72B8HxKjYyax) | 2:46 | 2020-08-08 | 2022-03-26 |
@@ -612,6 +612,7 @@
 | [Sparrow](https://open.spotify.com/track/7cIQ3Qr4DN5KvnUd1VbdNO) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Focus](https://open.spotify.com/album/1XysO46cLGEsyihFfPR9Gf) | 3:30 | 2019-05-26\* | 2020-01-03 |
 | [Spatial Dreams](https://open.spotify.com/track/16p2gXFq1tUMuid42TCahy) | [Daron Robson](https://open.spotify.com/artist/4vJc8H12qzSFspaOVcN1dN) | [Human Touch](https://open.spotify.com/album/2CpdACxBkLfHqXxMKXbIot) | 2:30 | 2022-10-07 |  |
 | [Spatsmanium](https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [Spatsmanium](https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx) | 3:11 | 2021-07-01 | 2023-05-20 |
+| [Spectral Vibrations](https://open.spotify.com/track/364Yxnly3Q1XvxWZRwFtS1) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Spectral Vibrations](https://open.spotify.com/album/1HUU66yCQafwrpIxzyDsrF) | 2:26 | 2023-07-07 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-05-26\* | 2021-09-14 |
 | [Spirals](https://open.spotify.com/track/2V44hSJNBbay5Xsxm5isjy) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Spirals](https://open.spotify.com/album/6mNT1NjK9v4rtENleh3QPO) | 4:02 | 2020-01-03 | 2022-08-24 |
 | [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2019-05-26\* | 2022-10-01 |

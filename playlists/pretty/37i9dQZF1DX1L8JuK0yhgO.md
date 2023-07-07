@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,262 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,265 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [I am not cute \- KOTONOHOUSE Remix](https://open.spotify.com/track/3XuW3TfdXI8H3ATkLkwKvC) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [Computer Milk](https://open.spotify.com/album/27cmJZZHX7hvjPY650mWBC) | 3:48 |
 | 60 | [Doki Doki](https://open.spotify.com/track/4gNjNP24fwMaua972eySGF) | [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ), [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [Doki Doki](https://open.spotify.com/album/2AD2Iz81EawEpMsfszK68n) | 2:51 |
 
-Snapshot ID: `MCw2NDk1MDBhMWI1MWI4ZDlhY2VmM2JjZWMwNTQ1ZDU5MGM2MDliMDY4`
+Snapshot ID: `MCwzMjU5YmI2ZGI2NWUzMjQxNGZkZDdjM2E4OTEzNzExNDExNWFjN2Jj`

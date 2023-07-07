@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107106,
+      "name": "Bath of Least Resistance",
+      "url": "https://open.spotify.com/track/1yrJDBzciRhmWHl3fFCzrM"
+    },
+    {
+      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 142596,
       "name": "Fuck Day Six",
       "url": "https://open.spotify.com/track/12wDhK0tBvsvj3mvmJB6OR"

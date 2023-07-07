@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-404 songs - 23 hr 23 min
+405 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 | 2023-03-02 |  |
 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 | 2023-06-16 |  |
+| [Merchant](https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Gloam](https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn) | 4:57 | 2023-07-06 |  |
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-09 | 2023-05-20 |
 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 | 2022-05-12 | 2022-09-07 |
 | [Mind over Matter](https://open.spotify.com/track/2lLIr0cbqeirkMBnl586eD) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Mind over Matter / Spiders](https://open.spotify.com/album/0y38lgjrYOvBibgGgkQiiz) | 2:22 | 2022-09-06 | 2022-10-01 |
@@ -279,7 +280,7 @@
 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 | 2022-09-06 | 2022-11-12 |
 | [Personal Space](https://open.spotify.com/track/4QOTnsKNWG86hTp3AeFHsG) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Personal Space](https://open.spotify.com/album/26k38wPq6koIUKR7KtWXee) | 3:40 | 2021-12-16 | 2022-03-25 |
 | [Pig](https://open.spotify.com/track/6ZURd2x9YB980TbGTUG9fh) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 3:22 | 2023-06-09 |  |
-| [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-03-02 |  |
+| [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-03-02 | 2023-07-07 |
 | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/track/42aJXANJRz2Prmz48ZGElE) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/album/3aBKxP5DFuVPGRLZmJVDrm) | 4:02 | 2022-03-31 | 2022-06-17 |
 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 | 2023-05-19 |  |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |

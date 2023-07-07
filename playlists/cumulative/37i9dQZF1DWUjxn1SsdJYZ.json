@@ -3723,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "HNL",
+        "url": "https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "HNL",
+      "url": "https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3bdW9XmrGMNape2BOwd9id"
       },
@@ -3984,6 +4002,28 @@
       "duration_ms": 178064,
       "name": "Hop Out 2",
       "url": "https://open.spotify.com/track/3loKXoZ1bay2JDimjSDAVI"
+    },
+    {
+      "album": {
+        "name": "HOTBOX FREESTYLE",
+        "url": "https://open.spotify.com/album/0s62GGmQkjyzgyMF9cZyir"
+      },
+      "artists": [
+        {
+          "name": "Bad1",
+          "url": "https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb"
+        },
+        {
+          "name": "20th Boys",
+          "url": "https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133381,
+      "name": "HOTBOX FREESTYLE",
+      "url": "https://open.spotify.com/track/2UOkpxbIS6aMja8xfdnB9e"
     },
     {
       "album": {
@@ -5826,7 +5866,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 175784,
       "name": "Nicest",
       "url": "https://open.spotify.com/track/5PESfQdzPDEEoWkKEzQMqj"
@@ -6812,7 +6852,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 154215,
       "name": "plug call",
       "url": "https://open.spotify.com/track/59hWa9eLP3jw1eIycAx28H"
@@ -7876,6 +7916,28 @@
       "duration_ms": 210720,
       "name": "Shut The Gates",
       "url": "https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI"
+    },
+    {
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "album": {
@@ -8962,6 +9024,28 @@
       "duration_ms": 184320,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE"
+    },
+    {
+      "album": {
+        "name": "Tramp",
+        "url": "https://open.spotify.com/album/194FegwGaDpCqaL42S9lbG"
+      },
+      "artists": [
+        {
+          "name": "Babyface Mal",
+          "url": "https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Tramp",
+      "url": "https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl"
     },
     {
       "album": {

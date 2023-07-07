@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,220 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,281 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 34 | [All I Want is You](https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [All I Want is You](https://open.spotify.com/album/2CGvJdm4QW7nhWUVP099DK) | 9:58 |
 | 35 | [Jumprope \- SAFER Remix](https://open.spotify.com/track/18xEKrCQ6kdQ0sGtNzmEd1) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/0GQ1Eo42sLfjgOzJs5w7mm) | 4:38 |
 | 36 | [Intertwined](https://open.spotify.com/track/0Mnk5ZV0xWVSPf2lXGqxtq) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Intertwined](https://open.spotify.com/album/4VmxgE6vmKjNvGZ7HlcqVj) | 7:06 |
-| 37 | [What Kinda Music](https://open.spotify.com/track/47w6S27JF4Zvrz1Wd6R66Z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 3:50 |
+| 37 | [What Kinda Music](https://open.spotify.com/track/47w6S27JF4Zvrz1Wd6R66Z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 3:50 |
 | 38 | [The Misorientation of Autarkic](https://open.spotify.com/track/4fOqMMohz5wvi019nuhlnh) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Can You Pass the Knife?](https://open.spotify.com/album/3caPhJF0fyJQsIpMCJ5WZe) | 6:18 |
 | 39 | [Cloudy Others](https://open.spotify.com/track/5qA6OI4Y8iLSF9e387r6Kb) | [Sebastien Casanova](https://open.spotify.com/artist/4xbnSd3XJ5WXbXzBsHwaMG), [Arthur Alfocea](https://open.spotify.com/artist/3W9w22JERofKojpdUvIp59) | [Cloudy Others](https://open.spotify.com/album/4Kiv3IpAHesnr9Ngci5dJX) | 4:07 |
 | 40 | [Mecnunum Leylamı Gördün mü](https://open.spotify.com/track/7yPOhpnxXUeeEjPD0pqdyG) | [Tülay German](https://open.spotify.com/artist/0ieiygH07boIlZyMtupW4Q) | [Burçak Tarlası](https://open.spotify.com/album/6g29fZ0DABCHBbKq7jeMB0) | 3:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCwxNzNkZGJmNTBiMmI0NjU0MDQyYTNhMzYzNzliYzNjYWY4YzY4Zjk4`
+Snapshot ID: `MCw0ZDViMmFiYjhmZGFmZWNhOGI4MjljMjYyZjJkOGQyMDUzMmM2YTQy`

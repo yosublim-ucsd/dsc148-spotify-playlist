@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: flowerovlove
 
-1,712 songs - 3 day 14 hr 59 min
+1,713 songs - 3 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-11 | 2022-03-12 |
 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 | 2022-01-07 | 2022-03-12 |
 | [Crying at CVS](https://open.spotify.com/track/5Zci5CbR7aJftdHCPJVP0M) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Crying at CVS](https://open.spotify.com/album/5G0T45PfRA7Mb2mKuU7Um2) | 3:16 | 2021-05-03 | 2021-10-13 |
+| [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 | 2023-06-30 |  |
 | [Crying Over You ◐ \(feat\. RM & BEKA\)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ \(feat\. RM & BEKA\)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-05-26\* | 2021-03-21 |
 | [Crying Pt\. 2](https://open.spotify.com/track/79ims6hRb0LOcvVBlrdXkA) | [Charlie Powers](https://open.spotify.com/artist/5AraXiDjVroghzTAjhoShV) | [Crying Pt\. 2](https://open.spotify.com/album/4JO1u5lASbxqO2P6wq93dm) | 3:08 | 2021-08-04 | 2022-01-22 |
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-06 | 2022-07-16 |
@@ -859,7 +860,7 @@
 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 | 2022-11-11 | 2022-12-24 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-26 | 2022-10-29 |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2021-10-25 | 2023-01-13 |
-| [Late to the Party](https://open.spotify.com/track/2eQsKNvDuggHAaiGRSd64S) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/0gFXVvBJnACHRy1A3CXBEE) | 2:57 | 2023-05-05 |  |
+| [Late to the Party](https://open.spotify.com/track/2eQsKNvDuggHAaiGRSd64S) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/0gFXVvBJnACHRy1A3CXBEE) | 2:57 | 2023-05-05 | 2023-07-07 |
 | [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-23 | 2023-06-02 |
 | [lately](https://open.spotify.com/track/5Ot7KPYnWYSy3u71BrgxtQ) | [Sophia Bromberg](https://open.spotify.com/artist/2dH1lqvS9haqMj0OLacGz4) | [lately](https://open.spotify.com/album/4Lvg6nLMnBKNbws4fmfLiq) | 3:17 | 2022-01-07 | 2022-03-26 |
 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 | 2023-01-27 | 2023-04-23 |

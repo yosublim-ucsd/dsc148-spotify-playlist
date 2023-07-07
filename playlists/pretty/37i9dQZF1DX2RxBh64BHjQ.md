@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,766,214 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,766,456 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 |
 | 100 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
 
-Snapshot ID: `MCxlZTcwYWJhYmQ2NmU2MDhmYzMwYjNkYWVmZWEzNDAxMzA5OTlkY2Vk`
+Snapshot ID: `MCw3YzY2NGU5NDU5YWZkZDg4NmE3MDU3N2ZhN2I3ZTAwYzkwZjlhYjAx`

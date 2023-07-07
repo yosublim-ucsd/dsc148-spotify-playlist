@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Major RD",
-  "num_followers": 114085,
+  "num_followers": 114246,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj",
+  "snapshot_id": "MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Big D!!!!!",
+      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Grana",
         "url": "https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 133500,
       "name": "Grana",
       "url": "https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "TAURUS",
-        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Big D!!!!!",
-      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
     },
     {
       "added_at": "2023-06-30 03:01:00",

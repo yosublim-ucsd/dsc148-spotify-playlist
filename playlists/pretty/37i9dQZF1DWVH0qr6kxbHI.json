@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 59500,
+  "num_followers": 59563,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGQxYWNjZDRlM2Q3YWJkMzJjNDhiMDhlODZjZGJlZDBjMzBlNzAz",
+  "snapshot_id": "MCw0M2QwMDBiYWZhMGU5MzI0OTNlMjBhNmIyMTRkNThkZmJjNGFkODVl",
   "tracks": [
     {
       "added_at": "2023-06-30 13:55:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
         "name": "Caprichos de Mujer",
         "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 253600,
       "name": "T\u00fa Me Camelas (Tangos)",
       "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Canciones De Oro",
-        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Ojos verdes",
-      "url": "https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
         "name": "Ni\u00f1a de fuego (Standard version)",
         "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219640,
       "name": "La ni\u00f1a de fuego",
       "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
+        "name": "Canciones De Oro",
+        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Ojos verdes",
+      "url": "https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk"
     },
     {
       "added_at": "2023-06-30 13:55:09",

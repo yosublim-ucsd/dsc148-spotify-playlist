@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 1783,
+  "num_followers": 1830,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGFkNThhNDZmZTYzODNkZDgzNGQyMzg0MzEyOWJkMmRhYmM2ZTQ4",
+  "snapshot_id": "MCw5M2UwZWZlNzZmZjFkYzQ0ZDFjNDZhMTA2MmViNDBmODY3ZTk5MWI0",
   "tracks": [
     {
       "added_at": "2023-06-30 06:20:46",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+      },
+      "artists": [
+        {
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+        }
+      ],
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        },
-        {
-          "name": "Adrian Sing",
-          "url": "https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv"
-        }
-      ],
-      "duration_ms": 222791,
-      "name": "Highest Praise",
-      "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        },
+        {
+          "name": "Adrian Sing",
+          "url": "https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv"
+        }
+      ],
+      "duration_ms": 222791,
+      "name": "Highest Praise",
+      "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
     },
     {
       "added_at": "2023-06-30 06:20:46",

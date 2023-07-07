@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,988 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,026 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 7 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
 | 8 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
 | 9 | [Gente Aberta \- Acorda Amor](https://open.spotify.com/track/6P5vzOMnn0h1vszZquA1If) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acorda Amor](https://open.spotify.com/album/5eh6PHaZrwQJ0xG9d7OS8n) | 5:55 |
-| 10 | [Amor Perfeito](https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
-| 11 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 |
+| 10 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 |
+| 11 | [Amor Perfeito](https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 | 12 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 13 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
 | 14 | [Não Quero \- A COLORS SHOW](https://open.spotify.com/track/09I1Tnz4lEGYHuLwXdUCu0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Não Quero \- A COLORS SHOW](https://open.spotify.com/album/7IPWbcFbB6bHNo43xYBa48) | 2:26 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
 | 28 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD) | 3:15 |
 | 29 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
-| 30 | [Las Brujas](https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Las Brujas](https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs) | 3:26 |
-| 31 | [eu posso ser quem eu quiser](https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [eu posso ser quem eu quiser](https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ) | 3:47 |
+| 30 | [eu posso ser quem eu quiser](https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [eu posso ser quem eu quiser](https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ) | 3:47 |
+| 31 | [Las Brujas](https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Las Brujas](https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs) | 3:26 |
 | 32 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/4clkTFycF1E07dwJWabbBF) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Ovelha Negra \(Acústico MTV\)](https://open.spotify.com/album/0B6gdwQjkzQu48ZZhOUdoS) | 4:55 |
 | 33 | [Agolonã](https://open.spotify.com/track/4Yj2m1IuKy85gEk40t89LB) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 4:21 |
 | 34 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Volta](https://open.spotify.com/track/15hl2JfhoxqWVaQfO9OT5S) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:15 |
 | 50 | [Insegurança](https://open.spotify.com/track/1a3RCKohK84mXO8GmlcfXb) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Insegurança](https://open.spotify.com/album/1IbDGV9gKwVftBV6JXCA6t) | 3:12 |
 
-Snapshot ID: `MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk`
+Snapshot ID: `MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli`

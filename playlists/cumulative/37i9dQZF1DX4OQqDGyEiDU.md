@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-496 songs - 1 day 4 hr 26 min
+497 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Mr.シャーデンフロイデ](https://open.spotify.com/track/1dxIMbG3CBsplAvrwQduOQ) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Mr.シャーデンフロイデ](https://open.spotify.com/album/2dRacon7WbNwU5Ow94dOrG) | 4:06 | 2022-06-14 | 2022-07-17 |
 | [Nakakapagpabagabag](https://open.spotify.com/track/2wJ0w427Y3TPy4yQQ0igJF) | [Dasu](https://open.spotify.com/artist/6f4PGW1oaG5rWGgDqljLgZ), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [NAKAKAPAGPABAGABAG](https://open.spotify.com/album/3eCABPADaXoUs8BqycIrIU) | 2:58 | 2022-07-19 | 2022-07-29 |
 | [NEXT NEST](https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J) | [NEXT NEST](https://open.spotify.com/album/3vycT4TPayRb7x3kxkYhB5) | 3:55 | 2022-06-09 | 2022-07-19 |
-| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 |  |
+| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 | 2023-07-07 |
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2022-06-09 | 2022-07-18 |
@@ -208,6 +208,7 @@
 | [アンノウンフィルタ](https://open.spotify.com/track/74xLYeg88SbmN1XbhmNZBt) | [Nqsi](https://open.spotify.com/artist/2FZi0Xj9ERRmQAFRWlLGcS) | [アンノウンフィルタ](https://open.spotify.com/album/44xEQqloDnzaScjS6Bo6KM) | 2:12 | 2022-06-09 | 2022-07-23 |
 | [アンプランド・アポトーシス](https://open.spotify.com/track/2TwVplURaIUB1WoPeVjaLs) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [アンプランド・アポトーシス](https://open.spotify.com/album/1GhG2xOYhaBJkLdmpeK39Q) | 3:00 | 2022-06-30 | 2022-07-27 |
 | [イカサマライフゲイム](https://open.spotify.com/track/3eGoU7axuRs95XEg2bHgLJ) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn) | [イカサマライフゲイム](https://open.spotify.com/album/1FrxMJLctKQwGiXifCEqoz) | 4:06 | 2022-06-09 | 2022-06-21 |
+| [イリア](https://open.spotify.com/track/51qRTszFLIUGU2pBrQsH6b) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [イリア](https://open.spotify.com/album/1m430rtn5iIGbqvgN9ojCG) | 2:37 | 2023-07-06 |  |
 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 | 2022-06-09 | 2023-01-04 |
 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 | 2022-07-26 | 2022-10-14 |
 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 |  |

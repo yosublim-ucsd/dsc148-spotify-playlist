@@ -1,15 +1,35 @@
 {
   "description": "The official playlist for\u201d Blue Orchestra\u201d TV\u30a2\u30cb\u30e1\u300e<a href=\"https://aooke-anime.com/\">\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9</a>\u300f\u306b\u767b\u5834\u3059\u308b\u540d\u66f2\u3092\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u963f\u4e45\u4e95\u771f\uff0f\u5c0f\u5b66\u9928\uff0fNHK\u30fbNEP\u30fb\u65e5\u672c\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n",
-  "num_followers": 1635,
+  "num_followers": 1682,
   "original_name": "Blue Orchestra \u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDVlYzkxY2MxMzM1M2YxM2RkYzUwZDNkZGEzMjdkOWU2NjViNWUy",
+  "snapshot_id": "MCxhMmNlMmM0NWMyZjE4NmUyNmFkZTQ4MjE1YzVlMzBlMDQ2MmNiZjRh",
   "tracks": [
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "J.S.\u30d0\u30c3\u30cf:\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV 1007 \u7b2c1\u66f2: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7sI7B6dHB3hvRISIkuHvwp"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        }
+      ],
+      "duration_ms": 171404,
+      "name": "\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV 1007: \u7b2c1\u66f2: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/4UbBCKxwhcjm5cxrXCpNrv"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb:\u30ab\u30ce\u30f3(\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248 / \u7de8:\u8429\u68ee\u82f1\u660e)",
         "url": "https://open.spotify.com/album/4V2hzUgmMOvcSppnJpl0pH"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/2i5tJba0MzIg8IoRgCIPr0"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Vivaldi: The Four Seasons",
         "url": "https://open.spotify.com/album/1smxmzL8C2nXjtrpLj0802"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/5XG44N2hyQns8V7XZHL9Ym"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Paganini: 24 Capricci",
         "url": "https://open.spotify.com/album/60kcP5l7qsfGnvolKe5uED"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/1nGQNprvMoRwNM0YelJ6On"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
         "url": "https://open.spotify.com/album/0qLvMhZZZzjh4YYllmCSyY"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/633NPmRCMw0iNxn3C8kL3Z"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Dvor\u00e1k: Symphony No.9 'From the New World'/Suite in A Major etc.",
         "url": "https://open.spotify.com/album/6a0gxR89Q0RkQe3MpBFlQt"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/2joLdmhXZVVqvieY5oxVE1"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Bach: Six Suites for Solo Cello",
         "url": "https://open.spotify.com/album/322JJOlqMTWTgnEqBA2rib"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/74wviZD57Apg7ln1OXG6HV"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Dvo\u0159\u00e1k",
         "url": "https://open.spotify.com/album/1gVmv1dGiK0bpMHNgxnDWs"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/3HSmz1PmRKqhkONFdMvOGT"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Vivaldi: The Four Seasons - Concerto In G Minor, RV 315, \"The Summer\"",
         "url": "https://open.spotify.com/album/4JY0uYJEb5ZqNav3gvFUR7"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/7tLf3bNtwycqODOMTxPNvd"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Kod\u00e1ly: Duo for Violin & Cello; Solo Cello Sonata / Veress: Solo Violin Sonata",
         "url": "https://open.spotify.com/album/7MO0ZP8zAQY6h5UTgT0CW2"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/4trRL4K7telpEkxAoHePtV"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Dvor\u00e1k: Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\" / Smetana: The Moldau",
         "url": "https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/1e6trFi8oxi8goRZpViKZr"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3001\u30e1\u30f3\u30c7\u30eb\u30b9\u30be\u30fc\u30f3:\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u5354\u594f\u66f2",
         "url": "https://open.spotify.com/album/4nFCOvL2ulzpHTKf4c04iQ"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/4KEvcFdZntfsJgy49HH27T"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Tchaikovsky: The Nutcracker, Op. 71, TH 14 (Live at Walt Disney Concert Hall, Los Angeles / 2013)",
         "url": "https://open.spotify.com/album/1WQELFJnq1V0rrrncloMzt"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/5tZyifkQ2gmk22ovSZleS5"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Con Amore",
         "url": "https://open.spotify.com/album/73yFQjwvyJDCjG3D7BiuR3"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/5DiUOWdIOx41ypk7YqoyeB"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Violin on Stage",
         "url": "https://open.spotify.com/album/77cffOhDde3cxLtZuychf9"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/6Y4Qzr7CwsKgzM0fIZPjeA"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Dvorak: The 9 Symphonies",
         "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/0c75sVCZ392c963pWjowBL"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Tchaikovsky: Romeo and Juliet (Fantasy Overture After Shakespeare); The Nutcracker, Op. 71a (Suite From The Ballet Op. 71)",
         "url": "https://open.spotify.com/album/5gMbHiDO0vjqX7ykF6sVcM"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/0MHTCSFH0WzxGquCysX4gq"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Bizet: Carmen",
         "url": "https://open.spotify.com/album/6exQ9t4jeygG0htgvnHiYs"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/2pDJ5SFIaIlpv6KlAfIXgZ"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Famous Overtures",
         "url": "https://open.spotify.com/album/3QArONsmtuZiAOIUDpyFVZ"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/7gz3tN6esipr13ktSoz9Le"
     },
     {
-      "added_at": "2023-06-15 15:00:00",
+      "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Dvor\u00e1k: Symphony No.9; Othello Overture",
         "url": "https://open.spotify.com/album/3UzDwtg4tvx7gA5NeU9qyo"

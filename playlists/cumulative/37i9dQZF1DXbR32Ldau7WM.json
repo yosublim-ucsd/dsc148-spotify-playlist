@@ -8946,7 +8946,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
@@ -10652,6 +10652,24 @@
       "duration_ms": 222813,
       "name": "\u5c0f\u3055\u306a\u98a8\u666f",
       "url": "https://open.spotify.com/track/7Ii4WNeFLTFFiJuKRkcPsX"
+    },
+    {
+      "album": {
+        "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
+        "url": "https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
+      "url": "https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY"
     },
     {
       "album": {

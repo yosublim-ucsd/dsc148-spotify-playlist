@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 143536,
       "name": "Re:Deadstock",
       "url": "https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb"
@@ -3368,6 +3368,24 @@
       "duration_ms": 244996,
       "name": "\u661f\u55ab\u8336\u5e97",
       "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
+    },
+    {
+      "album": {
+        "name": "aida",
+        "url": "https://open.spotify.com/album/1f1TfK6OTAumXADOYK9aQ2"
+      },
+      "artists": [
+        {
+          "name": "nenne",
+          "url": "https://open.spotify.com/artist/0pQa8NC0N9XU57aOp3BgXw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "\u661f\u5c51\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj"
     },
     {
       "album": {

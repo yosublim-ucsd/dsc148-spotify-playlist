@@ -3785,6 +3785,32 @@
     },
     {
       "album": {
+        "name": "Gimme Back Your Love",
+        "url": "https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz"
+      },
+      "artists": [
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        },
+        {
+          "name": "Jonathan Mouton",
+          "url": "https://open.spotify.com/artist/5eILPzQ0aefUcuLlPF9609"
+        },
+        {
+          "name": "BKLYNN",
+          "url": "https://open.spotify.com/artist/1WynmN7no6V2Lq0WXGhHjB"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "Gimme Back Your Love",
+      "url": "https://open.spotify.com/track/35qcMJzvPdrBpGjA3PsKiB"
+    },
+    {
+      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF"
       },
@@ -4466,6 +4492,28 @@
       "duration_ms": 177958,
       "name": "Hag\u00fce",
       "url": "https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6"
+    },
+    {
+      "album": {
+        "name": "Happy People (Fedde Le Grand Remix)",
+        "url": "https://open.spotify.com/album/4REFhz28ffafEZ45VwfpiQ"
+      },
+      "artists": [
+        {
+          "name": "Static Revenger",
+          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Happy People - Fedde Le Grand Remix",
+      "url": "https://open.spotify.com/track/4t5EseQUSss00l2Zm5o6id"
     },
     {
       "album": {
@@ -10238,7 +10286,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 216257,
       "name": "So Good To Me",
       "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
@@ -10260,6 +10308,28 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "album": {
+        "name": "So Much In Love - Sped Up",
+        "url": "https://open.spotify.com/album/1F9LHT5yFuaXVH6r5vkZ87"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153088,
+      "name": "So Much In Love - Sped Up",
+      "url": "https://open.spotify.com/track/0zCIiBHKWGJejY3ji35IVr"
     },
     {
       "album": {
@@ -10720,6 +10790,28 @@
       "duration_ms": 211904,
       "name": "Stuck In Melodies",
       "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
+    },
+    {
+      "album": {
+        "name": "Subliminal",
+        "url": "https://open.spotify.com/album/1PWyLhkgWBWTWGa5Bt199f"
+      },
+      "artists": [
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Subliminal",
+      "url": "https://open.spotify.com/track/1KnBoHkanhdxmzB0uahPzq"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Modern Times",
         "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
         }
       ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2023-05-02 09:09:27",

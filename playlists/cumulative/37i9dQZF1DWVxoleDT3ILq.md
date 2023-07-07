@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-367 songs - 22 hr 15 min
+368 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-04-15 | 2022-08-27 |
 | [SIN TI](https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM) | [Benji B](https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R) | [SIN TI](https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX) | 2:54 | 2023-03-24 |  |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-04-15 | 2022-07-29 |
-| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 | 2023-06-03 |
+| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 |  |
 | [Sinfonía](https://open.spotify.com/track/4Jr5xnojFBpqe2e0lnor5A) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Sinfonía](https://open.spotify.com/album/5VeegDgRdju23x1HN6Gy2I) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [Sobre la Profundidad](https://open.spotify.com/track/5FWCG1rDK3X2FPMpzmddxd) | [Matorral](https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd) | [Sobre la Profundidad](https://open.spotify.com/album/2dGiRub4mmXwFzRmp9dwJE) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Solo Solo](https://open.spotify.com/track/16qBTMdJ1aedTCf078l492) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Solo Solo](https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo) | 3:07 | 2022-05-27 | 2023-01-28 |
@@ -322,10 +322,11 @@
 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
-| [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 |  |
+| [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-07-07 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 |  |
 | [Tercera](https://open.spotify.com/track/38FMeqQyEl8zqvMIbrTU0c) | [Novedades Matutinas](https://open.spotify.com/artist/3mFy5nL1nhpNq2QyNNFWVt) | [Tercera](https://open.spotify.com/album/3TvWm67mHJhkVgzVjcSB9D) | 3:52 | 2022-05-27 | 2022-07-29 |
+| [Tercero](https://open.spotify.com/track/1qhyXY725dxXb18j43G9fm) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Tercero](https://open.spotify.com/album/0sTpVleBRwymbvFbGlxNTh) | 3:29 | 2023-06-30 |  |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 |  |
@@ -352,7 +353,7 @@
 | [Una Calma](https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Una Calma](https://open.spotify.com/album/42hxDhsnYMq64qqGxL6nr1) | 4:31 | 2022-04-15 | 2022-11-29 |
 | [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 |  |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |
-| [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 |  |
+| [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 | 2023-07-07 |
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-03-31 |  |
 | [Venus](https://open.spotify.com/track/485YGGmmfVXoURU9WePNPk) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/3O1CEge2yagoOo3ufClQ8n) | 4:00 | 2022-07-22 | 2022-12-10 |
 | [Venus](https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 4:00 | 2022-04-15 | 2022-07-28 |

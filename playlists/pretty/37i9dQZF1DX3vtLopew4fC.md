@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,971 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,974 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 44 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 |
 | 45 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
 | 46 | [Summer '23](https://open.spotify.com/track/5yeCvrdFhhoPjvT6GyFu5J) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Summer '23](https://open.spotify.com/album/2cPogalXYynhKFCuJZ7sDH) | 2:52 |
-| 47 | [Place To Be](https://open.spotify.com/track/1jNVZmVkhhIcmnmj8Y1RNb) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Place To Be](https://open.spotify.com/album/06jxHqRQSl3X6e2Sq4m1KG) | 2:43 |
-| 48 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 |
-| 49 | [Spring Cleaning](https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Spring Cleaning](https://open.spotify.com/album/4WwHFPtV5d0ielt0pDShvT) | 3:35 |
-| 50 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 |
+| 47 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 |
+| 48 | [Spring Cleaning](https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Spring Cleaning](https://open.spotify.com/album/4WwHFPtV5d0ielt0pDShvT) | 3:35 |
+| 49 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 |
 
-Snapshot ID: `MCw1ZTU1M2ZiZjgzZTZlZDZhN2JiYWQ4MGU4NmUzNDU1MWVhYWQzMTE5`
+Snapshot ID: `MCxjNTk2MjVkYTk2M2M2NDYzMWQ3YzcwMDkzY2FhYzE5ODgyNjBjYTY4`

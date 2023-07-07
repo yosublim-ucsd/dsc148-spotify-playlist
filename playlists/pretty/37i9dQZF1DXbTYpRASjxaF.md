@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Coruja BC1, Mc Neguinho do Kaxeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,698 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,779 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 48 | [Chandon](https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Master Pe](https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW) | [Chandon](https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon) | 2:58 |
 | 49 | [Campari para Baby](https://open.spotify.com/track/6xPqyaXbTLSa5NVcE1WPqk) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Blade MC](https://open.spotify.com/artist/2HX0LLzHH7rDnTOXKjz5uB) | [Campari para Baby](https://open.spotify.com/album/76PTOuqUpl1Fec9dFQjr3F) | 3:00 |
 
-Snapshot ID: `MCxkNThmMGZhZjhkMWYwMTkxM2QzZGMyZjA4YWIzNzkwZGUzMDRjNWRi`
+Snapshot ID: `MCwxNTI0NzRlMzk4ZGVlMTUzYjRkZTZlNDk0YmMyOTI2ZDY5NTA2Y2I4`

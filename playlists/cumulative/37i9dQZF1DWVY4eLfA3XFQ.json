@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 203225,
       "name": "Alexandria",
       "url": "https://open.spotify.com/track/6PLsM2tuwhN5msceTeOFZH"
@@ -12977,6 +12977,32 @@
     },
     {
       "album": {
+        "name": "Money Maker",
+        "url": "https://open.spotify.com/album/2L5VdysMCjEJfkURiWrIu0"
+      },
+      "artists": [
+        {
+          "name": "BETASTIC",
+          "url": "https://open.spotify.com/artist/7C90d0DwIaXnXHKJ4zRbe4"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111896,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/7sojSHPunDBSzcosJnDimo"
+    },
+    {
+      "album": {
         "name": "Moon Groove",
         "url": "https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd"
       },
@@ -16143,6 +16169,32 @@
     },
     {
       "album": {
+        "name": "Puppet On A String",
+        "url": "https://open.spotify.com/album/3PDJcs9YEh18lG3e19Q1L7"
+      },
+      "artists": [
+        {
+          "name": "RETNA",
+          "url": "https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Isabellea",
+          "url": "https://open.spotify.com/artist/4vCAN5uc6jlBmc8hQBVyLE"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Puppet On A String",
+      "url": "https://open.spotify.com/track/14q9gW0AWGD9CjxzWarP93"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/5U9Y2k94WQVKhQS7M7Bc6g"
       },
@@ -18328,7 +18380,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 218390,
       "name": "Sleep Walk (feat. Liz Cass)",
       "url": "https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Lele Blade in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 156600,
       "name": "BLUE MONDAY",
       "url": "https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7"
@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182752,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W"
       },
@@ -1956,6 +1974,24 @@
       "duration_ms": 211200,
       "name": "MALA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/0nJNtKjTDOr3uZeRH9ue8W"
+    },
+    {
+      "album": {
+        "name": "Malessere",
+        "url": "https://open.spotify.com/album/0I7gMWxRXgP273yDVq08sQ"
+      },
+      "artists": [
+        {
+          "name": "Joka Diablo",
+          "url": "https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Malessere",
+      "url": "https://open.spotify.com/track/6eGAGBUZTFUIdkwErazQ77"
     },
     {
       "album": {
@@ -2775,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "NUNN\u2019\u00c8 COSA",
+        "url": "https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "NUNN\u2019\u00c8 COSA",
+      "url": "https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH"
+    },
+    {
+      "album": {
         "name": "AMMOR MIJ",
         "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
       },
@@ -3462,7 +3516,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 168652,
       "name": "RRR",
       "url": "https://open.spotify.com/track/0JQuV2J2SiAWYVXguQC9DK"
@@ -4332,7 +4386,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 201760,
       "name": "VAC PAZZ (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/4r3HT3yoRVtkqWPTbNDlG3"

@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-820 songs - 1 day 13 hr 12 min
+821 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [FEEL SOMETHING \(feat\. Marshmello\)](https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:19 | 2022-10-07 | 2023-04-26 |
 | [feelz](https://open.spotify.com/track/1wxlGbYus0B1Hx3ZRylTO4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [feelz](https://open.spotify.com/album/6aajhaqtA4RbAQCWL86iXx) | 2:25 | 2022-05-20 | 2022-05-24 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-10 | 2022-02-14 |
-| [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 | 2023-04-12 |  |
+| [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 | 2023-04-12 | 2023-07-07 |
 | [finer things](https://open.spotify.com/track/5hdfbfpt4txiDMZGRaPc1h) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [finer things](https://open.spotify.com/album/2TEOAG9CwnAJGaduf6KhMR) | 2:50 | 2022-02-04 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-03-14 | 2022-09-24 |
 | [Floor Seats \(Text Back\)](https://open.spotify.com/track/6m37YblnnlJ1x7DfTc3Vj0) | [Moxas](https://open.spotify.com/artist/3XYVGehxrRKN0Rt5Rp7e8w) | [Floor Seats \(Text Back\)](https://open.spotify.com/album/4prQPMv85eAvXN7JpbOEWD) | 2:18 | 2021-01-16 | 2021-03-26 |
@@ -762,6 +762,7 @@
 | [VIOLENCE](https://open.spotify.com/track/4P9uJbp3UuD9JWNvhxy3yM) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [VIOLENCE](https://open.spotify.com/album/7rsvTE4XVyaXBwJeDJwmX4) | 3:07 | 2020-12-13\* | 2021-05-29 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2020-12-13\* | 2022-04-20 |
 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 | 2022-12-14 | 2023-06-24 |
+| [Violets](https://open.spotify.com/track/3Ukt7NkeA9noJ8b0vU8sNO) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/2VjD8t0WIbujLu8ksPd7yg) | 1:55 | 2023-04-12 |  |
 | [Voices](https://open.spotify.com/track/0edK7iJKqsWgVCpLGIQ8mF) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Voices](https://open.spotify.com/album/0J0Kx678dLUiXE8R2by0H8) | 3:24 | 2021-01-15 | 2021-04-24 |
 | [VOICES \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2Yr2BzqNDpIh0YQcnFqM09) | [Skye](https://open.spotify.com/artist/0sHIsJteyLhBYwKgF3Vfg2), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VOICES \(feat\. XXXTENTACION\)](https://open.spotify.com/album/08GegeGgCBOh1BjTl6sXPh) | 2:35 | 2021-01-15 | 2021-04-30 |
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-11-12 | 2022-04-13 |

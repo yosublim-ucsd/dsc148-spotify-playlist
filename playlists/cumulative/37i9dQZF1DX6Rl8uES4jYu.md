@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-385 songs - 21 hr 45 min
+386 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [You and You \- Single Edit](https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [You and You \(Single Edit\)](https://open.spotify.com/album/7u9lcPoYgy2i6qfAH9ccEZ) | 4:34 | 2020-11-13 | 2022-03-22 |
 | [You Get What You See](https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo) | [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Live at Daddy Macs](https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk) | 2:35 | 2023-03-31 |  |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 | 2023-01-14 |
-| [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-31 |  |
+| [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-31 | 2023-07-07 |
+| [You Might Like It](https://open.spotify.com/track/1HWLCLhGLceXLdukbTZpTF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:37 | 2023-03-31 |  |
 | [You'll Love It](https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [You'll Love It](https://open.spotify.com/album/5qNvProy0GS5CWFMnPAlef) | 2:36 | 2023-03-03 |  |
 | [Zoom Out](https://open.spotify.com/track/0z8zXnL09l88fElGOylr2o) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Zoom Out](https://open.spotify.com/album/5L8Kpu3ocdwqiy2ekv6cxy) | 3:46 | 2021-07-02 | 2022-06-07 |
 

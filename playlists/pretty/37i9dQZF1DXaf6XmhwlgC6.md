@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,708 likes - 180 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,748 likes - 180 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 95 | [city limits](https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [city limits](https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7) | 3:03 |
 | 96 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 |
 | 97 | [Milky Way](https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Time Defined](https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF) | 2:50 |
-| 98 | [Effortless](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Tony Iver](https://open.spotify.com/artist/33Y6lgwXmYok6gkTjnaYZ5) | [Effortless](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:29 |
+| 98 | [Cocao](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Cocao](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:44 |
 | 99 | [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 |
 | 100 | [Oceano Pacifico](https://open.spotify.com/track/0qZtk3egr2xB8Yv4D2hbwW) | [Pace Immensa](https://open.spotify.com/artist/5RBcYA1urR2vv2UJLINBHK) | [Oceano Pacifico](https://open.spotify.com/album/5N6N5Ou6qBeow8eoElQa2V) | 2:22 |
 | 101 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 179 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 180 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCw3YTQ1YzlmMzcyZWM3YTgwODYyNzI2OWQzNjhmMTMxOTAxNzNmYzVj`
+Snapshot ID: `MCw0YzRlMDc1ZTE2NTE2M2QxN2VhM2ExM2I3NTlmNWJjNzhiMzEzZmQ1`

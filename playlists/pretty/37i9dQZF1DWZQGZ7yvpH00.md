@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,450 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,515 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [TRAICIONADO](https://open.spotify.com/track/4rTd6t7bTU3UvdLdw9XIyy) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [TRAICIONADO](https://open.spotify.com/album/1lgzeshYy11QmjANXcU94N) | 2:11 |
 | 50 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 
-Snapshot ID: `MCwwNzU0NTZjY2Y2OThlZWUwZTY5ZDhmNTgzODVhZTNlOGQyOWJjNmZk`
+Snapshot ID: `MCw1MTZhYjY2NjM4MzNiNzg3MTU5ZDYzM2U1YTkwNWNkMzAzYTgwNDg5`

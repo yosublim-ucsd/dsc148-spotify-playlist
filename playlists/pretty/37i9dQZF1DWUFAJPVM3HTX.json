@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: Jordan Hawkins. Updates every Wednesday.",
-  "num_followers": 202471,
+  "num_followers": 202577,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWQyNGQ3OTc4NTRkNDA2Y2JjNGViMWZjMjJjNDhlMDA4MzcxNjY0",
+  "snapshot_id": "MCxmMTUwMDBjM2U0MTc1YTdjZTMyYTcyNWMxYmQ3NGUwYzRkNGQwOGQ4",
   "tracks": [
     {
       "added_at": "2023-07-05 22:47:53",
@@ -27,6 +27,26 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2023-07-06 20:45:00",
+      "album": {
+        "name": "Where I'll Be",
+        "url": "https://open.spotify.com/album/14B0RWfGmqtFFgFpJ9WqMB"
+      },
+      "artists": [
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        },
+        {
+          "name": "John Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+        }
+      ],
+      "duration_ms": 198535,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/4V3RiPZykfkK4tPS7aH57p"
     },
     {
       "added_at": "2023-07-05 22:47:53",
@@ -109,6 +129,22 @@
       "url": "https://open.spotify.com/track/0xgpfcwVmSGiBgf2hGa3N6"
     },
     {
+      "added_at": "2023-07-06 20:45:00",
+      "album": {
+        "name": "Leave Me",
+        "url": "https://open.spotify.com/album/7iAvQd9vi01MMnrZdqGrg6"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        }
+      ],
+      "duration_ms": 154714,
+      "name": "Leave Me",
+      "url": "https://open.spotify.com/track/0a1mf675Arb5BU0uGjxgQN"
+    },
+    {
       "added_at": "2023-07-05 22:47:53",
       "album": {
         "name": "Love Dr.ug",
@@ -159,6 +195,22 @@
       "duration_ms": 175103,
       "name": "PHONE DOWN",
       "url": "https://open.spotify.com/track/38iuyBG3Bj4J0Qw9sKMrDn"
+    },
+    {
+      "added_at": "2023-07-06 20:45:00",
+      "album": {
+        "name": "Astro Travel",
+        "url": "https://open.spotify.com/album/42VAj34qHpL8CNeiQcfoT1"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Astro Travel",
+      "url": "https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV"
     },
     {
       "added_at": "2023-07-05 22:47:53",

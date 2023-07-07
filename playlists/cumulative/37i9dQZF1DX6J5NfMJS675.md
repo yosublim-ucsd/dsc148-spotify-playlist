@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-527 songs - 2 day 4 hr 24 min
+527 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Crave](https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Crave](https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1) | 4:22 | 2023-07-04 |  |
 | [Creatures on Acid \- Radio\-Edit](https://open.spotify.com/track/04b2DLz2SSb2VqimLvEfLs) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Creatures on Acid \(Radio\-Edit\)](https://open.spotify.com/album/6lqQURzLflCmVagXWx3Wun) | 4:30 | 2022-01-14 | 2022-06-29 |
 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 | 2021-05-03 | 2021-10-30 |
-| [Dark Clouds \(feat\. Heerhorst & Peter Pahn\)](https://open.spotify.com/track/6PSArspq6JShGfIiE0kGWJ) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR), [PETER PAHN](https://open.spotify.com/artist/4LQoXe8NEzb0WSvAhQSFbD) | [Dark Clouds \(feat\. Heerhorst & Peter Pahn\)](https://open.spotify.com/album/33ctW2TAe9YUbXoZDlbxDa) | 4:00 | 2023-06-02 |  |
+| [Dark Clouds \(feat\. Heerhorst & Peter Pahn\)](https://open.spotify.com/track/6PSArspq6JShGfIiE0kGWJ) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR), [PETER PAHN](https://open.spotify.com/artist/4LQoXe8NEzb0WSvAhQSFbD) | [Dark Clouds \(feat\. Heerhorst & Peter Pahn\)](https://open.spotify.com/album/33ctW2TAe9YUbXoZDlbxDa) | 4:31 | 2023-06-02 |  |
 | [Dark Market \- Original Mix](https://open.spotify.com/track/3VeVNC1XuZrReIJymrbAU6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Dark Market](https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng) | 7:12 | 2022-04-04 | 2022-06-29 |
 | [Dark Matter](https://open.spotify.com/track/3oJaIce9FdZyKlpQ22jxp5) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [Dark Matter / Dust & Gas](https://open.spotify.com/album/5CVhm2OmgHQ7v83oZ32b32) | 8:50 | 2022-08-05 | 2022-10-22 |
 | [Dark Places](https://open.spotify.com/track/3DP5jn2plhKVa6Xgwpux1S) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dark Places](https://open.spotify.com/album/1qJHc9bytwRnbvN2tctlDL) | 6:18 | 2021-07-10 | 2021-12-29 |

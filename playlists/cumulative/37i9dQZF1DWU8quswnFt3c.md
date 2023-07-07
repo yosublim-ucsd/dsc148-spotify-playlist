@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: My CLAUDIA
 
-1,318 songs - 3 day 0 hr 41 min
+1,320 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-03-01 | 2023-04-06 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-04 | 2023-02-02 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-05-03 | 2023-07-06 |
+| [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-07-06 |  |
 | [Do You Care ?](https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Do You Care ?](https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9) | 3:23 | 2022-01-05 | 2022-02-03 |
 | [Dom](https://open.spotify.com/track/2WMyk1wZoYH91f9Wosjmc2) | [VELLOW](https://open.spotify.com/artist/6AgwCEO5e232POV2Ec62cw), [Azymut](https://open.spotify.com/artist/43os6F0hxmWfqVHYfiemf8) | [Starship](https://open.spotify.com/album/5CO1O4rXy4P8l2etkw3n3O) | 5:12 | 2022-04-06 | 2022-05-05 |
 | [DOMOPAK](https://open.spotify.com/track/5rGlJkkDiERrqPP1bJ9mIe) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [DOMOPAK](https://open.spotify.com/album/0X5vpAP31bfEor3gikJyM3) | 3:17 | 2022-11-02 | 2022-12-01 |
@@ -395,12 +396,13 @@
 | [Furiosa](https://open.spotify.com/track/6NTcvSG2Kjz23QoJtaqgmN) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Furiosa](https://open.spotify.com/album/4lPUATsky4Q3HlJn7LnJZs) | 2:33 | 2022-09-07 | 2022-10-05 |
 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 | 2023-02-15 | 2023-03-02 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-07-06 | 2022-08-04 |
-| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 |  |
+| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 | 2023-07-07 |
 | [Garçon manqué](https://open.spotify.com/track/6XXXWiYJTPPVHxHewxGeY5) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 3:31 | 2022-02-02 | 2022-03-09 |
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-01 | 2022-07-07 |
 | [Gazoza](https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Gazoza](https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h) | 3:45 | 2023-01-04 | 2023-04-06 |
 | [GEN](https://open.spotify.com/track/2SQtEwz7gLybXPbrekmv2G) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [GEN](https://open.spotify.com/album/0vqpmFUe2js5qYQIXtcYIa) | 2:38 | 2022-05-04 | 2022-06-01 |
 | [Gentle](https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh) | [Tolstoys](https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J) | [Gentle](https://open.spotify.com/album/3fiZkPky4bC9GSmEaDY5yp) | 2:53 | 2022-02-02 | 2022-03-09 |
+| [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 | 2023-07-05 |  |
 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 | 2022-10-04 | 2022-11-03 |
 | [Geçmiyor Zaman](https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF) | [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Geçmiyor Zaman](https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c) | 4:43 | 2023-06-07 | 2023-07-06 |
 | [Ghaayab](https://open.spotify.com/track/1iWAHeeJ1THfMn4KqWCQ2d) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Ghaayab](https://open.spotify.com/album/7fepu6i1ogynFzF4Lj8c8g) | 4:09 | 2022-07-06 | 2022-08-04 |
@@ -904,7 +906,7 @@
 | [Respira](https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Respira](https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW) | 3:30 | 2021-12-11 | 2022-01-06 |
 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 | 2023-07-05 |  |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2023-01-04 | 2023-02-02 |
-| [Rihaa Rihaa](https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:45 | 2023-07-05 |  |
+| [Rihaa Rihaa](https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:45 | 2023-07-05 | 2023-07-07 |
 | [Rikse Me](https://open.spotify.com/track/3ZrWzr32QXVkMfXwf1Ds8w) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Rikse Me](https://open.spotify.com/album/1CQfLsDYWc63Br02KsOgE6) | 3:15 | 2022-11-02 | 2022-12-01 |
 | [Rise Above](https://open.spotify.com/track/2awJtKR0fIJ7hF0AiHKIId) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [Rise Above](https://open.spotify.com/album/0c3eTAudZ7QZh0a8OQvK61) | 3:31 | 2022-05-04 | 2022-06-01 |
 | [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 | 2022-07-06 | 2023-01-05 |

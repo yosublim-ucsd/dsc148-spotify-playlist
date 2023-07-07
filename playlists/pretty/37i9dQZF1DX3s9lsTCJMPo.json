@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 57875,
+  "num_followers": 57938,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjRmNzA2MTA4ZDc2MzU5MzA3MWVmYjA4Y2FlZDE2YjRjYjdjYzUw",
+  "snapshot_id": "MCw5Y2M2YzcwZTJiYTU3YzZiZjY5NWMwNGE1NGQ2NTkyYzE4MzQxZGYy",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 218549,
       "name": "Happiest Man Alive",
       "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Full Extreme",
         "url": "https://open.spotify.com/album/5DvUeZrPvke7dtSJThioeA"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 181960,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "Ministry of Road (M.O.R.)",
+      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca 101 Vol. 4",
+        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 331080,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Gold 2005",
         "url": "https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 361333,
       "name": "Lorraine",
       "url": "https://open.spotify.com/track/49Tx7hbC5mqsK2PdemDpNn"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca 101 Vol. 4",
-        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 331080,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2004",
-        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
-      },
-      "artists": [
-        {
-          "name": "Maximus Dan",
-          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "Soca Train",
-      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca 101 Vol. 1",
         "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 292533,
       "name": "Hold Ya Bam Bam",
       "url": "https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2004",
+        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
+      },
+      "artists": [
+        {
+          "name": "Maximus Dan",
+          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
+        }
+      ],
+      "duration_ms": 294360,
+      "name": "Soca Train",
+      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Sparrow's Dance Party",
-        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
       "artists": [
         {
-          "name": "The Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
         }
       ],
-      "duration_ms": 370933,
-      "name": "Congo Man",
-      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
+      "duration_ms": 243453,
+      "name": "Get On",
+      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+        "name": "Sparrow's Dance Party",
+        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
       },
       "artists": [
         {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+          "name": "The Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
+      "duration_ms": 370933,
+      "name": "Congo Man",
+      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "South South West",
-          "url": "https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Thelma",
-      "url": "https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 284626,
       "name": "Hard Wine",
       "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "South South West",
+          "url": "https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Thelma",
+      "url": "https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Switch Vol. 5",
-        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
-      },
-      "artists": [
-        {
-          "name": "Blue Ventures",
-          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "De River",
-      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 231040,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Switch Vol. 5",
+        "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
+      },
+      "artists": [
+        {
+          "name": "Blue Ventures",
+          "url": "https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "De River",
+      "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Trini Gold",
         "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 191440,
       "name": "Party Start",
       "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2023-05-15 08:13:13",

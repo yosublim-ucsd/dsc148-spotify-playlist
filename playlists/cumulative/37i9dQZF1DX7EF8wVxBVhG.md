@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-283 songs - 14 hr 28 min
+284 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Binaural Gamma Sinus 300 Hz \- 350 Hz](https://open.spotify.com/track/1CQI0C8YWCrzWmEhfJrWB3) | [Lufhavn](https://open.spotify.com/artist/3KIcZFbsQVwU104SaP5OdL) | [Binaural Gamma Sinus 300 Hz \- 350 Hz](https://open.spotify.com/album/6hedBnLOIG36YlNsTwM10X) | 2:08 | 2021-06-18 |  |
 | [Binaural Gamma Sinus 300 Hz \- L 350 Hz \- R](https://open.spotify.com/track/5toNvmY1QmLepVZ6aQz2FG) | [Divine Diva](https://open.spotify.com/artist/0mZrUhF9LH0zriAyKGSZgZ) | [Binaural Gamma Sinus 300 Hz \- L 350 Hz \- R](https://open.spotify.com/album/6kv7vvbSOC30git3N3RrAG) | 2:21 | 2021-06-04 | 2022-09-07 |
 | [Binaural Gamma Sinus 40 Hz Drone](https://open.spotify.com/track/5awvTpCzdXeW7bSTR35yUq) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:20 | 2020-12-03 | 2023-03-01 |
-| [Binaural Gamma Sinus 40 Hz Drone II](https://open.spotify.com/track/07HJu7NuUxcZTFSHvQEXCu) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:28 | 2019-05-26\* |  |
+| [Binaural Gamma Sinus 40 Hz Drone II](https://open.spotify.com/track/07HJu7NuUxcZTFSHvQEXCu) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:28 | 2019-05-26\* | 2023-07-07 |
 | [Binaural Gamma Sinus 432 Hz \- 462 Hz](https://open.spotify.com/track/3IpTv8Qt9XdjbFakEMEDNV) | [Lufhavn](https://open.spotify.com/artist/3KIcZFbsQVwU104SaP5OdL) | [Binaural Gamma Sinus 300 Hz \- 350 Hz](https://open.spotify.com/album/6hedBnLOIG36YlNsTwM10X) | 2:21 | 2021-06-18 | 2021-08-18 |
 | [Binaural Gamma Sinus 432 Hz \- L 462 Hz \- R](https://open.spotify.com/track/2zMrg13QQJRF0qKwOifbVR) | [Divine Diva](https://open.spotify.com/artist/0mZrUhF9LH0zriAyKGSZgZ) | [Binaural Gamma Sinus 300 Hz \- L 350 Hz \- R](https://open.spotify.com/album/6kv7vvbSOC30git3N3RrAG) | 2:34 | 2021-06-04 | 2021-09-02 |
 | [Binaural Gamma Sinus 432 Hz \- L 462 Hz \- R](https://open.spotify.com/track/3ef2ED2zxeucJfi7aMmL6O) | [大山さん](https://open.spotify.com/artist/0vVpFe8b0gP3K0euAu845g) | [Pure](https://open.spotify.com/album/3VHE2qGORHjvdcmCcuYNL3) | 1:58 | 2021-02-03 | 2022-11-24 |
@@ -194,6 +194,7 @@
 | [Focus in the morning \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/1UD5b074en48msjATTQIx4) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 3:21 | 2021-05-06 | 2022-08-23 |
 | [Focus with Alpha Sinus 106Hz \- 114Hz](https://open.spotify.com/track/7trNE6uKjEiJpti0g4KRjz) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:39 | 2021-09-02 |  |
 | [Focused Mind \- Alpha 154Hz \- 161Hz](https://open.spotify.com/track/0yYhK3Sq3aBcaLrKID4Gxu) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:45 | 2021-03-25 |  |
+| [Galaxy \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/track/6ZuUNJiDAEmoDvbvw2B33O) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Galaxy \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/album/5cMuf5i2oCmzHFJF1Mrw5j) | 2:10 | 2023-07-06 |  |
 | [Gamma \(L\-73.9Hz R\-111.0Hz\)](https://open.spotify.com/track/6nGYTi1nPFEiZTy1s3Hj3i) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Relief](https://open.spotify.com/album/6rVi7kAYDY3yOBm5l0rYva) | 3:52 | 2021-06-04 | 2022-11-24 |
 | [Gamma 100 \- 130 Hz](https://open.spotify.com/track/0cDRrPhgUEpNXDu2p0DEFD) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Binaural Focus](https://open.spotify.com/album/2xfqm1g8ZVveZ7BmzpqVs7) | 3:12 | 2023-02-28 |  |
 | [Gamma 120 Hz \- L 170 Hz \- R](https://open.spotify.com/track/4AVTXON0uHQZFvtzrAEo4K) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Gamma Brainwaves High Level Information](https://open.spotify.com/album/2g3bVXtIb0uiG10G161d7I) | 3:34 | 2019-05-26\* | 2022-09-07 |

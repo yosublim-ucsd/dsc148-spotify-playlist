@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 518141,
+  "num_followers": 518440,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDg3ZmZkYmE3Y2Q3MWU3NDkyZDI3ZDgwNWM4NjYxMzA3ZDNmYTk2",
+  "snapshot_id": "MCwxNDgzOTkyMDNmNjU5MzJkNTNhYzBhZTcwOGMzYWNhNTVmNjljYmQ0",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 233731,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
         }
       ],
-      "duration_ms": 233731,
-      "name": "What Lies Beneath",
-      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
+      "duration_ms": 354640,
+      "name": "Nothing Natural",
+      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -751,22 +767,6 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Nothing Natural",
-      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "bloweyelashwish",
         "url": "https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 231133,
       "name": "babysbreath",
       "url": "https://open.spotify.com/track/7Cwt68khwNZg4yc9enbjsY"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Quique",
-        "url": "https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 383826,
-      "name": "Polyfusion",
-      "url": "https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Love Comes In Waves",
         "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 264533,
       "name": "Chlorine Dream",
       "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Quique",
+        "url": "https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 383826,
+      "name": "Polyfusion",
+      "url": "https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 153554,
-      "name": "You Tear the World in Two - Woodhouse Studio LP Demo - Remastered",
-      "url": "https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dance AM",
         "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 153554,
+      "name": "You Tear the World in Two - Woodhouse Studio LP Demo - Remastered",
+      "url": "https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Soft Cavalry",
-        "url": "https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ"
-      },
-      "artists": [
-        {
-          "name": "The Soft Cavalry",
-          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Almost Paradise",
         "url": "https://open.spotify.com/album/1OSSnfkFKEZTavvnLf7MrR"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 344155,
       "name": "Sing to Me Candy",
       "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Soft Cavalry",
+        "url": "https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ"
+      },
+      "artists": [
+        {
+          "name": "The Soft Cavalry",
+          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
-      },
-      "artists": [
-        {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "It's Tomorrow Now",
-      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "KIN",
         "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 254706,
       "name": "We\u2019re Not Done (End Title)",
       "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+      },
+      "artists": [
+        {
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "It's Tomorrow Now",
+      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
+      },
+      "artists": [
+        {
+          "name": "Almighty Mighty",
+          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Years Too Late",
         "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
       },
@@ -1923,18 +1939,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
+        "name": "Stereo Musicale",
+        "url": "https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP"
       },
       "artists": [
         {
-          "name": "Almighty Mighty",
-          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
+          "name": "Blind Mr. Jones",
+          "url": "https://open.spotify.com/artist/1rlDsPo1oKph7bAtq4Pxr9"
         }
       ],
-      "duration_ms": 318560,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
+      "duration_ms": 250933,
+      "name": "Regular Disease",
+      "url": "https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1967,22 +1983,6 @@
       "duration_ms": 291739,
       "name": "Passing Thing",
       "url": "https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Stereo Musicale",
-        "url": "https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP"
-      },
-      "artists": [
-        {
-          "name": "Blind Mr. Jones",
-          "url": "https://open.spotify.com/artist/1rlDsPo1oKph7bAtq4Pxr9"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Regular Disease",
-      "url": "https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf"
     },
     {
       "added_at": "2021-06-03 02:39:04",

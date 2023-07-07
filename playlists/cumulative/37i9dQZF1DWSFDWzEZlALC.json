@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Casper",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Provinz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 172700,
       "name": "Blau",
       "url": "https://open.spotify.com/track/0lxkCY9FTzfwx6Lyl3OzO4"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunde",
+        "url": "https://open.spotify.com/album/48VSW134REUVskHHy2laF0"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Blaue Stunde",
+      "url": "https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown"
     },
     {
       "album": {
@@ -1916,6 +1934,42 @@
       "duration_ms": 222874,
       "name": "genug",
       "url": "https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0"
+    },
+    {
+      "album": {
+        "name": "Genug",
+        "url": "https://open.spotify.com/album/1TO4mrBv3ZocDgZs31LDlL"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142050,
+      "name": "Genug",
+      "url": "https://open.spotify.com/track/75uNUFBi9YnNGhIX2nyIxA"
+    },
+    {
+      "album": {
+        "name": "Gep\u00e4cktr\u00e4ger",
+        "url": "https://open.spotify.com/album/2CtUfGY2aIn2pquv1XLNpH"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155503,
+      "name": "Gep\u00e4cktr\u00e4ger",
+      "url": "https://open.spotify.com/track/6giLl2EnhBmbDQjiJrav49"
     },
     {
       "album": {
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 208000,
       "name": "Manchmal tut's gut dich zu vermissen",
       "url": "https://open.spotify.com/track/0LB5soTPbbPdFPrpFqgr1c"
@@ -3466,7 +3520,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 92630,
       "name": "Niemals Hatten",
       "url": "https://open.spotify.com/track/7waaOnxlxV89bfwToXa5z3"
@@ -4192,7 +4246,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 145500,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/3iFcXNywcRrCFygcZ9Q2Zj"
@@ -4210,10 +4264,32 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 242300,
       "name": "Softpower",
       "url": "https://open.spotify.com/track/3B5oJyOZEX8AQTmPchvunh"
+    },
+    {
+      "album": {
+        "name": "sommer (feat. CRO)",
+        "url": "https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "sommer (feat. CRO)",
+      "url": "https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg"
     },
     {
       "album": {
@@ -4558,7 +4634,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 173928,
       "name": "Trostpflaster",
       "url": "https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW"
@@ -4830,6 +4906,28 @@
       "duration_ms": 141176,
       "name": "vielleicht in einem jahr",
       "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
+    },
+    {
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/1vX4QbpYryLXksUKdNZ0N4"
+      },
+      "artists": [
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        },
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218424,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/72SNj994MwjBgaT2NAZefP"
     },
     {
       "album": {

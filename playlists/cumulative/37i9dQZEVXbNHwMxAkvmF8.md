@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-832 songs - 1 day 19 hr 12 min
+833 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 | 2021-12-24 | 2022-12-27 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-30 | 2022-12-29 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-04 |
+| [Jamaica pt\. 1 \(Apartman\)](https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [2023](https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5) | 2:46 | 2023-07-06 |  |
 | [Január](https://open.spotify.com/track/5gf4aX6CiUmflChySlGzyu) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [PP2](https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT) | 2:54 | 2022-10-30 | 2022-11-03 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-04 | 2022-05-08 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-22 | 2022-06-25 |
@@ -736,7 +737,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2023-01-03 |
 | [Theme song](https://open.spotify.com/track/0x1QaeA03bvi0NYutEKxWt) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [Legendás Ribancok Nyomában](https://open.spotify.com/album/0OM7ZtnoaSSI5vBIgVqwLT) | 1:52 | 2021-03-29 | 2021-03-30 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-07 |
-| [Tilidin](https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:04 | 2023-02-19 |  |
+| [Tilidin](https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:04 | 2023-02-19 | 2023-07-07 |
 | [Tilidin](https://open.spotify.com/track/3kmBT0nbeNoaRlFMZbAOfb) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Tilidin](https://open.spotify.com/album/7oMwpsDSP4TKlzVg6gj7uO) | 2:04 | 2022-12-20 | 2023-02-20 |
 | [TISZALÖK](https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:36 | 2022-09-03 |  |
 | [Tisztelet](https://open.spotify.com/track/5oJGbOPrIJpb0JRA9MYjJs) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:40 | 2023-02-24 | 2023-03-05 |

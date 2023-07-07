@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 118928,
       "name": "bellacomestai",
       "url": "https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U"
@@ -1174,6 +1174,24 @@
       "duration_ms": 160247,
       "name": "Due anni fa",
       "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "album": {
+        "name": "Emorragie",
+        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258028,
+      "name": "Emorragie",
+      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
     },
     {
       "album": {

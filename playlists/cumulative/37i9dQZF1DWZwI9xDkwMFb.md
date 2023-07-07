@@ -4,7 +4,7 @@
 
 > The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-19 songs - 1 hr 56 min
+20 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,5 +27,6 @@
 | [Violin Concerto No\. 1 in E Major, RV 269 "La primavera": I\. Allegro](https://open.spotify.com/track/5XG44N2hyQns8V7XZHL9Ym) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Janine Jansen](https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We), [Candida Thompson](https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM), [Henk Rubingh](https://open.spotify.com/artist/7ocblNnID5VgPzixlZ4EFO), [Julian Rachlin](https://open.spotify.com/artist/6aXeLNKDAYfLVrVcy5ISaX), [Stacey Watton](https://open.spotify.com/artist/1E9GJVMj19cBIwiRegnF5F), [Maarten Jansen](https://open.spotify.com/artist/5Ff0ekDZLWLZRlv4jKe3ZB), [Liz Kenny](https://open.spotify.com/artist/6s4N9nzRrgbx8LnB7VbVEc), [Jan Jansen](https://open.spotify.com/artist/4S5wP8Mk9tMgPBgeB0f7UX) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1smxmzL8C2nXjtrpLj0802) | 3:19 | 2023-06-15 |  |
 | [カノン\(無伴奏ヴァイオリン版 / 編:萩森英明\)](https://open.spotify.com/track/2i5tJba0MzIg8IoRgCIPr0) | [東 亮汰](https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF) | [パッヘルベル:カノン\(無伴奏ヴァイオリン版 / 編:萩森英明\)](https://open.spotify.com/album/4V2hzUgmMOvcSppnJpl0pH) | 5:57 | 2023-06-15 |  |
 | [ヴァイオリン協奏曲 ホ短調 作品64: Mendelssohn: ヴァイオリン協奏曲 ホ短調 作品64 \- 第3楽章: ALLEGRO NON TROPPO \- ALLEGRO MOLTO VIVACE](https://open.spotify.com/track/4KEvcFdZntfsJgy49HH27T) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Sayaka Shoji](https://open.spotify.com/artist/11OqwK96LZdmndmul6hPex), [フランス放送フィルハーモニー管弦楽団](https://open.spotify.com/artist/3nJ6UKgyatVS2SqL6wowDl), [チョン・ミョンフン](https://open.spotify.com/artist/07kqB64WF9H72nLdGcAIZS) | [チャイコフスキー、メンデルスゾーン:ヴァイオリン協奏曲](https://open.spotify.com/album/4nFCOvL2ulzpHTKf4c04iQ) | 6:54 | 2023-06-15 |  |
+| [無伴奏チェロ組曲 第1番 ト長調 BWV 1007: 第1曲: プレリュード](https://open.spotify.com/track/4UbBCKxwhcjm5cxrXCpNrv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk) | [J.S.バッハ:無伴奏チェロ組曲 第1番 ト長調 BWV 1007 第1曲: プレリュード](https://open.spotify.com/album/7sI7B6dHB3hvRISIkuHvwp) | 2:51 | 2023-07-06 |  |
 
 \*This playlist was first scraped on 2023-06-17. Prior content cannot be recovered.

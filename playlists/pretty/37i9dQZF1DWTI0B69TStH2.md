@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: BIOS \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,609 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,643 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [NO LOVE](https://open.spotify.com/track/4zeyfZiqKVOBwmQbYhBaOO) | [The Bullseyes](https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f) | [NO LOVE](https://open.spotify.com/album/13viE1DX3zkD2LFBDa4TGV) | 2:28 |
 | 100 | [Rozbitek](https://open.spotify.com/track/0zikAPODAQuKMYsQ4unaNz) | [Lochy I Smoki](https://open.spotify.com/artist/6SGL2glOJ2tDR1gs6Xrdru) | [Powiedz, że wystarczam](https://open.spotify.com/album/0PefBnEhr7G8tyKA1R3i0B) | 3:22 |
 
-Snapshot ID: `MCw4M2QxMTNhYTQwZmQ2NWRiNTgxNWZlOTE1ZjU1NGNhY2E4NjNkYTI5`
+Snapshot ID: `MCxjMjY2Mjk5ZTNiZWNhOGJjZDBmODU1NDJkYTllMmNkOWRhOTkyNDBj`

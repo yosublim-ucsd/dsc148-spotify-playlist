@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. deijuvhs",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. laurel smith",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -132,6 +132,28 @@
       "duration_ms": 181995,
       "name": "AGAIN.",
       "url": "https://open.spotify.com/track/2knqxjt5zHq0So8l619O88"
+    },
+    {
+      "album": {
+        "name": "AGORAPHOBIC",
+        "url": "https://open.spotify.com/album/1fJoDtzl26zX3o49dk5zGG"
+      },
+      "artists": [
+        {
+          "name": "n0trixx",
+          "url": "https://open.spotify.com/artist/4YsqBmE9rJRgxRUxMGY4VE"
+        },
+        {
+          "name": "Whispersinyahead",
+          "url": "https://open.spotify.com/artist/5TUcnm4SFnAYTQW9VLhc4I"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109157,
+      "name": "AGORAPHOBIC",
+      "url": "https://open.spotify.com/track/08vwKlwLT6uALzO23JhfFC"
     },
     {
       "album": {
@@ -686,7 +708,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 186750,
       "name": "BARFIGHT!",
       "url": "https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6"
@@ -950,7 +972,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 191761,
       "name": "bLeSs uR hEaRt",
       "url": "https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE"
@@ -1040,7 +1062,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 114285,
       "name": "BLOODPUDDLE",
       "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"
@@ -1200,6 +1222,24 @@
       "duration_ms": 122411,
       "name": "BORED",
       "url": "https://open.spotify.com/track/3CaCddaop8aqxQp6MRP4SF"
+    },
+    {
+      "album": {
+        "name": "BRAIN ROT",
+        "url": "https://open.spotify.com/album/21sQ40GI6ZWTAEsTLmOGxC"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BRAIN ROT",
+      "url": "https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI"
     },
     {
       "album": {
@@ -1391,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "BULLET MAN",
+        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178195,
+      "name": "BULLET MAN",
+      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA"
       },
@@ -1454,7 +1512,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 216506,
       "name": "Carnage",
       "url": "https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah"
@@ -1634,7 +1692,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
@@ -1710,7 +1768,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
@@ -1968,7 +2026,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 190344,
       "name": "Crumbled",
       "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
@@ -4018,7 +4076,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 233038,
       "name": "gothgirl1",
       "url": "https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK"
@@ -4098,6 +4156,24 @@
       "duration_ms": 72887,
       "name": "HAMMER 2 THE FACE",
       "url": "https://open.spotify.com/track/0nsPz1UksUuEYzrON9dsiI"
+    },
+    {
+      "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72887,
+      "name": "HAMMER 2 THE FACE",
+      "url": "https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl"
     },
     {
       "album": {
@@ -5830,7 +5906,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 206266,
       "name": "Lips Apart",
       "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
@@ -6529,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "mOmS bAsEmeNt",
+        "url": "https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161941,
+      "name": "mOmS bAsEmeNt",
+      "url": "https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk"
       },
@@ -7170,7 +7264,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 229240,
       "name": "Off With Their Heads",
       "url": "https://open.spotify.com/track/2y9eyAKx82PkxWL9ZwWfad"
@@ -7358,6 +7452,24 @@
       "duration_ms": 213153,
       "name": "parasite",
       "url": "https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB"
+    },
+    {
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116750,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
     },
     {
       "album": {
@@ -7758,7 +7870,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 155023,
       "name": "Possession of a Weapon",
       "url": "https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2"
@@ -7856,7 +7968,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 161250,
       "name": "PRISON",
       "url": "https://open.spotify.com/track/6ru3rcoXUkmfWLT0OSBbUa"
@@ -7954,6 +8066,28 @@
       "duration_ms": 181306,
       "name": "R34l L1e$",
       "url": "https://open.spotify.com/track/5m6YJ2umjuFD9CK4h7Ca9w"
+    },
+    {
+      "album": {
+        "name": "rabits",
+        "url": "https://open.spotify.com/album/1qofpxvy6FZxiSeECIRHWr"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126193,
+      "name": "rabits",
+      "url": "https://open.spotify.com/track/4qvbRrllcG2X0XKspPImWT"
     },
     {
       "album": {
@@ -8486,7 +8620,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 178486,
       "name": "Seventy Thorns (feat. Jonathan Davis)",
       "url": "https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1"
@@ -8974,7 +9108,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 192648,
       "name": "SPYD4 K1NG",
       "url": "https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh"
@@ -9595,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "there she goes",
+        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162649,
+      "name": "there she goes",
+      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
+    },
+    {
+      "album": {
         "name": "These Days R Mine",
         "url": "https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB"
       },
@@ -9984,6 +10136,24 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "album": {
+        "name": "TRASHSTARWRLD",
+        "url": "https://open.spotify.com/album/4ORIZxxMFJEDMlML5plLNP"
+      },
+      "artists": [
+        {
+          "name": "Laurel Smith",
+          "url": "https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201304,
+      "name": "VAMPIRE ROMANCE",
+      "url": "https://open.spotify.com/track/5R05CIOlMNGEdbaaPgtxbr"
     },
     {
       "album": {
@@ -10464,7 +10634,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-07",
       "duration_ms": 231584,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/0Cdb8ZXMRfzOfqhuUxuGLi"

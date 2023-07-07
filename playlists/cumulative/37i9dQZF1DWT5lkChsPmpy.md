@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-440 songs - 19 hr 39 min
+441 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 |  |
 | [logical!!](https://open.spotify.com/track/55FwE9jOLEiDhK4Wc8A9Ny) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [logical!!](https://open.spotify.com/album/0oSDmhPDn0OknqtH4Iknbi) | 2:03 | 2023-01-13 | 2023-05-06 |
 | [Lonely and I like it](https://open.spotify.com/track/2aL54CY3OQEjTQ73Yj6DDK) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Lonely and I like it](https://open.spotify.com/album/1nPKqBuxMHZd8nO2L6WHG1) | 2:43 | 2022-06-03 | 2022-09-02 |
+| [Long Hair Don't Care](https://open.spotify.com/track/56kxYC9x6nvaCK731pgVpo) | [Subtropical](https://open.spotify.com/artist/6eM13eouQQB0qm3jgLdeAs) | [Long Hair Don't Care](https://open.spotify.com/album/5h9XlZ2eBZa7SYsoibveR6) | 1:35 | 2023-07-07 |  |
 | [Loots](https://open.spotify.com/track/50B7sKPkRb87QoaQ5wqkJN) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Loots](https://open.spotify.com/album/0RCDLXoP6dNmJ9EWdHzZ8l) | 1:41 | 2022-04-15 |  |
 | [lost in time](https://open.spotify.com/track/0ttqzykX74Wwyf2aoPkogT) | [bdazzled.](https://open.spotify.com/artist/5AQW8r2NypcnevFfyEAMI5) | [lost in time](https://open.spotify.com/album/1y0qUAKE8wzn30btskUc9O) | 1:53 | 2022-10-28 |  |
 | [Lost In Translation, The Saga](https://open.spotify.com/track/6A5bkBm5kT35mubo9TUk0Y) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Lost In Translation, The Saga](https://open.spotify.com/album/5x9pmUiSJ1opkM2aom3egS) | 2:35 | 2022-04-05 |  |

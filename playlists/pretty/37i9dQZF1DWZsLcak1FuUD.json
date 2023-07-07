@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 34083,
+  "num_followers": 34096,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTVjYTAwYWMyN2Q0YmNlOGQ4NmU1NWYwMDhiYjc4Yjk4MTUyMGI0",
+  "snapshot_id": "MCxhMDY1ZDc4Y2RlNDRjMzgwNzg3MGVmNzdhNjEzMDc3NzQzMzI2YTQz",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "El Jardin de los Presentes",
         "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 306626,
       "name": "El Anillo del Capit\u00e1n Beto",
       "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Durazno Sangrando",
+        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
+      },
+      "artists": [
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "Durazno Sangrando",
+      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Pappo's Blues, Vol. 3",
         "url": "https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 166253,
       "name": "El Extra\u00f1o del Pelo Largo",
       "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Tiempo de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
-      },
-      "artists": [
-        {
-          "name": "Arco Iris",
-          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
-        }
-      ],
-      "duration_ms": 169525,
-      "name": "Ma\u00f1ana Campestre",
-      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Treinta Minutos de Vida",
         "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 174973,
       "name": "El Oso",
       "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Tiempo de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
+      },
+      "artists": [
+        {
+          "name": "Arco Iris",
+          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
+        }
+      ],
+      "duration_ms": 169525,
+      "name": "Ma\u00f1ana Campestre",
+      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Figuraci\u00f3n",
-      "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "4\u00ba LP",
         "url": "https://open.spotify.com/album/3jNDt2ZzI0hoqzRd2Rojgx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 303925,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/23ibUqoOsNdiOymw2fqGeH"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Figuraci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
     },
     {
       "added_at": "2020-02-26 16:25:22",
