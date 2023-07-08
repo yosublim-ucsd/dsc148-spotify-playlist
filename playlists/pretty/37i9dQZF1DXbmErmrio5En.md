@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,797 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,861 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 |
 | 100 | [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 |
 
-Snapshot ID: `MCw3MTdmMDc2ZTVjZGIyMGY2NTk5NmU3MGE5OWI3MDU3OWUyYTE4Y2I4`
+Snapshot ID: `MCw1MTRmYjgwYWU2NDU2NzkzMGU5OTBkYmRhOGVmNTRlNDdhOWJiZjli`

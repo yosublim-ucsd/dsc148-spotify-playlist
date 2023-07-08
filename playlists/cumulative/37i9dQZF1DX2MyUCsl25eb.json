@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 188426,
       "name": "All The Way Over",
       "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
@@ -620,6 +620,24 @@
       "duration_ms": 185103,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2fCdrBsSZofP4goVH9fquT"
+    },
+    {
+      "album": {
+        "name": "Alonica",
+        "url": "https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
     },
     {
       "album": {
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 215048,
       "name": "Carry It Well",
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 193806,
       "name": "Different",
       "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
@@ -4359,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "Hiding On The Moon",
+        "url": "https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233438,
+      "name": "Hiding On The Moon",
+      "url": "https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4"
+    },
+    {
+      "album": {
         "name": "High Fives",
         "url": "https://open.spotify.com/album/79lVizUrAQGC343JO79ot2"
       },
@@ -5323,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193230,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU"
+    },
+    {
+      "album": {
         "name": "I'm trying",
         "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
       },
@@ -5738,7 +5796,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
@@ -6990,6 +7048,24 @@
       "duration_ms": 174355,
       "name": "mothers",
       "url": "https://open.spotify.com/track/4AXlebMtXdaleomf845EEh"
+    },
+    {
+      "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/6HkKKesPG4HKw3J8mQhR9Z"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/4eQkOn4sXPbxyTTqkLfplU"
     },
     {
       "album": {
@@ -10008,7 +10084,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170809,
       "name": "superhuman",
       "url": "https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ"

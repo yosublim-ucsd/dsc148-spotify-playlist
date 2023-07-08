@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,373 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,516 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Footsteps](https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Footsteps](https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ) | 3:09 |
 | 100 | [Hiding \- Clariloops Rework](https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx), [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Hiding \(Clariloops Rework\)](https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9) | 2:51 |
 
-Snapshot ID: `MCwxMWI0ZDZhOTBhY2QzZDE1ZmY2YTBhMTU4NTRmN2Y3ZGJkN2E0ZDQ4`
+Snapshot ID: `MCw3MWU2NDk3MDA0ZmQ2OWJiNzBkM2QzZjE3MWE0MThmNGMxNDc2OGJj`

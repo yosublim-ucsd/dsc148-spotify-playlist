@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-636 songs - 1 day 8 hr 18 min
+637 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,8 @@
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-03-25 | 2022-06-04 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-20 | 2023-04-29 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 | 2022-11-12 |
-| [Potential](https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Potential](https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY) | 2:40 | 2023-07-06 |  |
+| [Potential](https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:40 | 2023-07-06 |  |
+| [Potential](https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Potential](https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY) | 2:40 | 2023-07-06 | 2023-07-08 |
 | [Prague](https://open.spotify.com/track/5wv5S85hL6ZWSglUvBESMJ) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Prague](https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC) | 3:07 | 2023-01-06 | 2023-03-10 |
 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 | 2022-05-20 | 2022-08-05 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-03-08 | 2023-03-09 |

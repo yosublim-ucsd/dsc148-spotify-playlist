@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,886 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,896 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [White Wine in the Shower](https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [White Wine in the Shower](https://open.spotify.com/album/7dhuqpDHRNzHQVvrXxkm86) | 1:59 |
 | 100 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 |
 
-Snapshot ID: `MCxhNGZjZjRhNmE4ZGRhM2ZlMDk1MTM2ZWE5Yjk4Njk0OWRlZTJmYjQ0`
+Snapshot ID: `MCwyZjE2N2EyNGNiNjNmMjdiMDNlZDc4ZDhiOGUwZmY2NTVkM2YzNDhk`

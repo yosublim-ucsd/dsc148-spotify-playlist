@@ -1407,6 +1407,28 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp"
+      },
+      "artists": [
+        {
+          "name": "Kiik",
+          "url": "https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v"
+        },
+        {
+          "name": "Shin Giwon Piano",
+          "url": "https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103571,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG"
+    },
+    {
+      "album": {
         "name": "Orange Sky Highway",
         "url": "https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: thekayetan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,791 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,790 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 84 | [Doceń mnie](https://open.spotify.com/track/6hefvt4zHSlasqnqWe59tY) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Zabrałaś dziewczynę chłopakom](https://open.spotify.com/album/48UZ39gywPgIMeJlSz2K6G) | 3:46 |
 | 85 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 |
 
-Snapshot ID: `MCwxM2IxZjc2OWM5ZjhjMTUyMGQ2ZDFlMGZiNTIxMTAzZWFmOWYxNWQw`
+Snapshot ID: `MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5`

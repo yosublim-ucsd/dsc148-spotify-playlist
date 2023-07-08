@@ -6172,7 +6172,7 @@
     {
       "album": {
         "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
       },
       "artists": [
         {
@@ -6183,6 +6183,24 @@
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219682,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/7D1ONerlSPQOpq1EfV84uU"
+    },
+    {
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
       "duration_ms": 219682,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/7GswgLLrtSouvDcIHyqmbE"

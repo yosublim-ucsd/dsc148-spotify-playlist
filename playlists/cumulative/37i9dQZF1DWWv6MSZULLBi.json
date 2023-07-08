@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: The Franklin Electric",
+  "description": "A laid-back trip in the folk scene. Cover: First Aid Kit",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171157,
       "name": "18",
       "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 207371,
       "name": "Beautiful View",
       "url": "https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238466,
       "name": "Better Somehow",
       "url": "https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218186,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6"
@@ -1668,6 +1668,24 @@
       "duration_ms": 194543,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
+    },
+    {
+      "album": {
+        "name": "Days That End",
+        "url": "https://open.spotify.com/album/5EhfFqQIkVhhhfD4bifzzl"
+      },
+      "artists": [
+        {
+          "name": "Jacob Weil",
+          "url": "https://open.spotify.com/artist/4L50moKlrIfcueE7nTN237"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215844,
+      "name": "Days That End",
+      "url": "https://open.spotify.com/track/0nIZiFIOlLXd7buMxEUA5u"
     },
     {
       "album": {
@@ -2397,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Everybody's Got to Learn",
+      "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
+    },
+    {
+      "album": {
         "name": "Everyday Sunflower",
         "url": "https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp"
       },
@@ -2578,10 +2614,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 239400,
       "name": "Fairy Falls",
       "url": "https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF"
+    },
+    {
+      "album": {
+        "name": "Fake Happy",
+        "url": "https://open.spotify.com/album/5EA9Bq0FlAsygB92c3je5H"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251574,
+      "name": "Fake Happy",
+      "url": "https://open.spotify.com/track/1u4UtokxGyLmPuzGFpaSst"
     },
     {
       "album": {
@@ -4493,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "album": {
         "name": "Lazy River",
         "url": "https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT"
       },
@@ -4504,7 +4576,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 234366,
       "name": "Lazy River",
       "url": "https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU"
@@ -6541,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Everywhere I Used to Be (Deluxe)",
+        "url": "https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160871,
+      "name": "Sad All The Time - Bonus Track",
+      "url": "https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf"
+    },
+    {
+      "album": {
         "name": "Safe Flight (Acoustic)",
         "url": "https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul"
       },
@@ -7776,6 +7866,24 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "album": {

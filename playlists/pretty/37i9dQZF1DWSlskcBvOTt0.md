@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,791 likes - 125 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,076 likes - 125 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 117 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 |
 | 118 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 |
 | 119 | [More Than I Should Know](https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [More Than I Should Know](https://open.spotify.com/album/30Ij9GnFU4AMFau8Pb6efo) | 3:38 |
-| 120 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 |
-| 121 | [Disconnect](https://open.spotify.com/track/0wnuB7yelcWO4OnlB8JMCP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC) | [Disconnect](https://open.spotify.com/album/4G5L6HfKeGP5pFoMRUYzOV) | 7:07 |
-| 122 | [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 |
-| 123 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 |
-| 124 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 |
-| 125 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 |
+| 120 | [Disconnect](https://open.spotify.com/track/0wnuB7yelcWO4OnlB8JMCP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC) | [Disconnect](https://open.spotify.com/album/4G5L6HfKeGP5pFoMRUYzOV) | 7:07 |
+| 121 | [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 |
+| 122 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 |
+| 123 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 |
+| 124 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 |
+| 125 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 |
 
-Snapshot ID: `MCw0NzhlMjgxMzhlNDc5NThjYjAwMzhmZjZhMzYxYjZjOGNlNjkxMjhj`
+Snapshot ID: `MCw5OWJkMGM1MDJkZGFiMmNkN2Y5MmNjY2YzZWNiYmM4OTE1ZDY3MWI3`

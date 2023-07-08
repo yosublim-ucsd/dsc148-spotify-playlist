@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 299284,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
@@ -5246,6 +5246,24 @@
       "duration_ms": 197800,
       "name": "Y la Hice Llorar",
       "url": "https://open.spotify.com/track/7Aul3N0gviz9Q0gXAcGKf8"
+    },
+    {
+      "album": {
+        "name": "Y Que de Mi",
+        "url": "https://open.spotify.com/album/10hWrm8QfhoNQDiFOWSjDf"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260629,
+      "name": "Y Que de Mi",
+      "url": "https://open.spotify.com/track/6EkSLJB9j7yUMwFbj0mgGB"
     },
     {
       "album": {

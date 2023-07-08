@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Barbi Recanati.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Él Mató a un Policía Motorizado.
 
-191 songs - 12 hr 0 min
+192 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-08-05 | 2022-11-12 |
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 | 2022-10-15 |
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 |  |
-| [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 | 2023-04-28 |  |
+| [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 | 2023-04-28 | 2023-07-08 |
 | [En este barco](https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4) | [Arbolito](https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ) | [En este barco](https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu) | 4:02 | 2023-06-02 | 2023-06-17 |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |
 | [En Redondel](https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [En Redondel](https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR) | 4:23 | 2022-06-24 |  |
@@ -124,6 +124,7 @@
 | [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 | 2022-12-03 |
 | [Mirando El Fuego](https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Después de la Tormenta](https://open.spotify.com/album/1I0ZrmnG7sGOAhmyHsvqur) | 3:46 | 2022-06-24 |  |
 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 | 2022-12-16 |  |
+| [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 |  |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/0oQaioOa2Llys73xpoYUHb) | 3:46 | 2022-07-15 | 2022-09-03 |
 | [Nada que Perder](https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [El Modo](https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm) | 2:58 | 2023-01-27 | 2023-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,468 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,577 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Nintendo Switch](https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO) | [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Nintendo Switch](https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s) | 4:19 |
 | 60 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 |
 
-Snapshot ID: `MCwxMWM4Y2I4MTkyODljMDU3MmNhZjE4MjdiMmRmYTlmMGQ1OGZmNWIy`
+Snapshot ID: `MCw0ZTllZmM3ZWIyNWQwNTdlNmMwNWVlMTA2NzRlY2Y1NzJiYmZkMjlh`

@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 208000,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/35feutnEsJBgjmFZGV4tqb"
@@ -3154,10 +3154,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 198095,
       "name": "dashstar*",
       "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
+    },
+    {
+      "album": {
+        "name": "dashstar* (VIP)",
+        "url": "https://open.spotify.com/album/014iFORUzGJCv81enXjJMg"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140481,
+      "name": "dashstar* - VIP",
+      "url": "https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o"
     },
     {
       "album": {
@@ -6141,6 +6159,28 @@
     },
     {
       "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/45EOnRPyPGWDozn3O5Oa5M"
+      },
+      "artists": [
+        {
+          "name": "So Dope",
+          "url": "https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/2VXiBvK0a0f2KJ6bfJtb1k"
+    },
+    {
+      "album": {
         "name": "HEROIN",
         "url": "https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO"
       },
@@ -7168,6 +7208,28 @@
       "duration_ms": 173430,
       "name": "ID-1999",
       "url": "https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt"
+    },
+    {
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq"
+      },
+      "artists": [
+        {
+          "name": "AENEAS",
+          "url": "https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198046,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9"
     },
     {
       "album": {
@@ -15020,12 +15082,12 @@
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
           "name": "What So Not",
           "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
       "date_added": "2023-06-21",
@@ -15944,6 +16006,28 @@
       "duration_ms": 247122,
       "name": "We Know Who We Are",
       "url": "https://open.spotify.com/track/0XRsIbKGrud2SKm7OO5MoS"
+    },
+    {
+      "album": {
+        "name": "We Own It",
+        "url": "https://open.spotify.com/album/3Pym5Ngbnt6QcAt4vo5ZIf"
+      },
+      "artists": [
+        {
+          "name": "BEATSMASH",
+          "url": "https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "We Own It",
+      "url": "https://open.spotify.com/track/0A62k77UR6rlJcaKGGDFeJ"
     },
     {
       "album": {

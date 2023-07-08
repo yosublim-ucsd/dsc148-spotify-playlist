@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-408 songs - 1 day 0 hr 10 min
+409 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 |  |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
-| [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 |  |
+| [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 | 2023-07-08 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 | 2023-05-24 |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |
@@ -287,6 +287,7 @@
 | [Nos visages](https://open.spotify.com/track/4lLctkMLQJAlg8sTzfBFGY) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Nos visages](https://open.spotify.com/album/1GUWQsKitKPmaRrUJqEGBL) | 3:39 | 2021-01-03\* | 2022-07-27 |
 | [Nous après nous](https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:53 | 2021-01-03\* |  |
 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 | 2021-01-03\* |  |
+| [Ojalá](https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e) | 5:15 | 2023-07-07 |  |
 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 | 2021-10-03 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 |  |

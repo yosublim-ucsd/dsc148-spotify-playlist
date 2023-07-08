@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,532 likes - 200 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,569 likes - 200 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 199 | ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 |
 | 200 | [It's Not Easy Being Green](https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 5:03 |
 
-Snapshot ID: `MCw4NTVkYmRhNGRhMTVmYWRjNGRiNjZlMTE1NzBhMzI4M2M1YTczZGY4`
+Snapshot ID: `MCw1ZjcwM2NiN2QyNDJlNTNmMzRlNDllYmExYmFiZWRmN2FlZDM5Yzgz`

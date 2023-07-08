@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-123 songs - 6 hr 47 min
+125 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 | 2021-12-10 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2021-12-10 |  |
 | [Se Va A Arrepentir](https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 3:18 | 2021-12-10 |  |
+| [Somebody Else's Whiskey](https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:54 | 2023-07-07 |  |
 | [Someone Just Like You](https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP), [Aria Fenix](https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb) | [Someone Just Like You](https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX) | 2:34 | 2022-12-16 |  |
 | [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 | 2021-12-10 |  |
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2021-12-10 |  |
@@ -126,6 +127,7 @@
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 |  |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 |  |
 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 | 2021-12-10 |  |
+| [Wasting Your Words](https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/2baf9NLrekhUeG7gz9PIQ8) | 3:10 | 2023-07-07 |  |
 | [Who's Such a Fool](https://open.spotify.com/track/0h4vihcN3UJanw0S89Uc2C) | [Roberto Trevizan](https://open.spotify.com/artist/2A25K2Y5IVJo2cOyLevndD) | [Who's Such a Fool](https://open.spotify.com/album/1TY3eBAdpLr2m178vJgFSg) | 3:08 | 2021-12-10 | 2023-04-22 |
 | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/track/5d1wYRM60TAJQYM1fEUI9W) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/album/3P171dDIY1NOjmMdQqH3Uz) | 2:51 | 2023-05-05 |  |
 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 | 2021-12-10 |  |

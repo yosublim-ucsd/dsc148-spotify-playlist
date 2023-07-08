@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,117 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,141 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Along Came Sonny](https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [Things Are Simple](https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c) | 4:48 |
 | 100 | [The Green Fields Of Glentown, Le Reel des Nouveaux Mariés, Flash Away The Pressing Gang](https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [Your Daughters & Your Sons](https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C) | 4:25 |
 
-Snapshot ID: `MCw4OTliZjQyMzMxMzRmYWMxYTZiZjQ1YzZjMWFiNTBmNGMxMTZjNmI4`
+Snapshot ID: `MCxmNDdhYjliMzYwN2U0MTA5N2I2ZTc1Mzg2YjM0MzU1NGJhMWQ3N2Rl`

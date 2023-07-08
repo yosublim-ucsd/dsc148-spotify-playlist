@@ -2,7 +2,7 @@
 
 ### [Classical Music for Babies](https://open.spotify.com/playlist/37i9dQZF1DWVmyIPX2ivrY)
 
-> 
+> Relaxing classical music to soothe your baby.
 
 44 songs - 3 hr 6 min
 

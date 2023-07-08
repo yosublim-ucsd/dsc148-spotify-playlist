@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,069 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,106 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 |
 | 100 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
 
-Snapshot ID: `MCw2OTk0ZGY5ZmNhMjdjNTI3MmJjOGViM2Q5YjI1ZGRjNmI3ZWNkMTRl`
+Snapshot ID: `MCxiN2MwYTQ0MDFlNzBjNWM0NWI2NjIzNjIzYmU5NmRmOTUxNzE0M2Y5`

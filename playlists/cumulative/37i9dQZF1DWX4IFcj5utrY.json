@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 455780,
       "name": "Bambelela",
       "url": "https://open.spotify.com/track/3RKPSF709OU43ZKAK1vXfo"
@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Cathedral",
+        "url": "https://open.spotify.com/album/5TmMvrALFeTTV8geYgHjO0"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289591,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/1JAGEV4opnklcYepZBYGw8"
+    },
+    {
+      "album": {
         "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -3757,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/0SpLdEliVOvYu4MwQ8eAOx"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6Lu8Js6vNudg58XBO0FnBv"
+    },
+    {
+      "album": {
         "name": "Connected Beings (Jazzanova Remix)",
         "url": "https://open.spotify.com/album/3uWUYgWxxzYWxKkb3KiaVS"
       },
@@ -3784,6 +3820,28 @@
       "duration_ms": 356000,
       "name": "Connected Beings - Jazzanova Remix",
       "url": "https://open.spotify.com/track/1KkYYcCYTDJIJQcgGCMhLv"
+    },
+    {
+      "album": {
+        "name": "Continental Drift",
+        "url": "https://open.spotify.com/album/6F1luKjXUWcUBsvZte9A4X"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        },
+        {
+          "name": "TorQue MuziQ",
+          "url": "https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519630,
+      "name": "Continental Drift",
+      "url": "https://open.spotify.com/track/3wYbhN3fEAm26QAp6RjeDU"
     },
     {
       "album": {
@@ -4900,6 +4958,32 @@
       "duration_ms": 212000,
       "name": "El Vento",
       "url": "https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY"
+    },
+    {
+      "album": {
+        "name": "Emathandweni (feat. Thalitha & Dj Jim MasterShine)",
+        "url": "https://open.spotify.com/album/1FWgQopULsupZ1zeTdQ5dT"
+      },
+      "artists": [
+        {
+          "name": "Supta",
+          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+        },
+        {
+          "name": "Dj Jim Mastershine",
+          "url": "https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u"
+        },
+        {
+          "name": "Thalitha",
+          "url": "https://open.spotify.com/artist/0h1mUSkoZxVoesfpARYXXE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382823,
+      "name": "Emathandweni (feat. Thalitha & Dj Jim MasterShine)",
+      "url": "https://open.spotify.com/track/57jG15A7YwMCpMCucIGC7A"
     },
     {
       "album": {
@@ -6738,6 +6822,28 @@
       "duration_ms": 418158,
       "name": "Howling Moon - Original Mix",
       "url": "https://open.spotify.com/track/2aLi5lXLTj9KIs0x5iMQz8"
+    },
+    {
+      "album": {
+        "name": "Hoya",
+        "url": "https://open.spotify.com/album/3aWuyrz64617ficsjrISLF"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Tunde International",
+          "url": "https://open.spotify.com/artist/24FkhIt4DNsWJJ0ZQXG184"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433944,
+      "name": "Hoya feat. Tunde International",
+      "url": "https://open.spotify.com/track/5OMDUa4fiNIJXj47RIIbA5"
     },
     {
       "album": {
@@ -12417,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "There And Back",
+        "url": "https://open.spotify.com/album/270VtOmDaWZJWtE05fZNbK"
+      },
+      "artists": [
+        {
+          "name": "Deep Aztec",
+          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379738,
+      "name": "Ostkreuz",
+      "url": "https://open.spotify.com/track/3HNiCfTGHSCLeBu323txpj"
+    },
+    {
+      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
       },
@@ -14252,7 +14376,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 404745,
       "name": "Shiva's Friend",
       "url": "https://open.spotify.com/track/3TVs5j4SehVNEJB6PIx7mD"
@@ -15864,7 +15988,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 456097,
       "name": "The Hi",
       "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
@@ -15926,7 +16050,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 191439,
       "name": "The Next Day ft. Jamie Irrepressible - Mind Against Remix",
       "url": "https://open.spotify.com/track/3AtruWFmRKKwLi9o8k9Fzw"
@@ -18504,7 +18628,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 394576,
       "name": "XXL",
       "url": "https://open.spotify.com/track/4W4m2zIJEeRJrVqXXIRilb"
@@ -18720,7 +18844,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 205512,
       "name": "You're Special - Ralf Gum Radio Edit",
       "url": "https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ"

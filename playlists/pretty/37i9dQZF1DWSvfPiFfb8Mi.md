@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,560 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,883 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 |
 | 100 | [Disco Dancing \(feat\. Ayoni\) \- Lazywax Remix](https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9) | [Namy](https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Disco Dancing \(feat\. Ayoni\) \[Lazywax Remix\]](https://open.spotify.com/album/3nZuiK8r2Rk89xH240mhH5) | 6:42 |
 
-Snapshot ID: `MCw0YjNlYjIxZGFjNzAzMTRlZGZlMmRkMDg3MGM4NGI4ZGYyM2M1Njk1`
+Snapshot ID: `MCwyMTFjZTVhZTcyM2NmNDlhZTVmYTgxMDY2NzIwNjUwMDY4MzE4MTk0`

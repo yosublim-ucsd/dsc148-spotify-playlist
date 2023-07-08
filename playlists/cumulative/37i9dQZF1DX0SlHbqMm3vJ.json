@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: AV",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139610,
       "name": "Honest Decision",
       "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
@@ -7040,6 +7040,24 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
+    {
+      "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/66Qyd3QkXLdw0pDH8x0s9p"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251988,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/3jxWUaVGPoJ5oJcrHVvZ1U"
     },
     {
       "album": {

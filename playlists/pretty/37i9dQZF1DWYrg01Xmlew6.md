@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,045 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,168 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Pane e miseria](https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Pino Franzese](https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo) | [Pane e miseria](https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS) | 2:57 |
 | 50 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCxjZmQwZjVlYmE1MWUxMmU5YzE4NTgyODcyODQwNWIxODJhZDI0ZWNm`
+Snapshot ID: `MCxhZTcxZDZjMTEyYmFlNzY1ZDI3ODVhNWE0ZTljMWNlNzdiM2Y0OGZl`

@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 645474,
+  "num_followers": 645663,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDQ1Y2YzNDU0MzMwOTFkZDkyZWRkODIxZDZlZGI3ZTdmMmM2ZDgx",
+  "snapshot_id": "MCxiMTA1MDc5OGMzODU1MTg4YmY2ZjhmM2Y1MGFlOWE1ZjFmNGEyMjQ0",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -991,18 +991,30 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Haus Party, Pt. 1",
-        "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
+        "name": "You Got the Love",
+        "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
       "artists": [
         {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+          "name": "The Source & Candi Staton",
+          "url": "https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6"
+        },
+        {
+          "name": "The Source",
+          "url": "https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR"
+        },
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        },
+        {
+          "name": "Now Voyager",
+          "url": "https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0"
         }
       ],
-      "duration_ms": 236190,
-      "name": "Nails, Hair, Hips, Heels",
-      "url": "https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v"
+      "duration_ms": 193600,
+      "name": "You Got The Love - New Voyager Radio Edit",
+      "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
     }
   ],
   "unique_name": "Pride Party",

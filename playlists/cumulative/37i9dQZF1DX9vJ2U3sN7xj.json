@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "nos fuimos de fiesta con Shakira y Manuel Turizo \ud83c\udf89",
+  "description": "nos fuimos de fiesta con Justin Quiles & El Alfa \ud83c\udf89",
   "name": "Fiesta",
   "tracks": [
     {
@@ -2754,6 +2754,28 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "album": {
+        "name": "Fiesta Loca",
+        "url": "https://open.spotify.com/album/4nofEwomkQ5V2SO7enHqgI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Fiesta Loca",
+      "url": "https://open.spotify.com/track/0cs3YvJsZNpEfzNrCl4Pl4"
     },
     {
       "album": {
@@ -5576,7 +5598,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"

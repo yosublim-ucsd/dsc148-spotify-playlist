@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Sain, Febem",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Sain",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "KTT ZOO",
+        "url": "https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Arthur Luna Beccaris",
+          "url": "https://open.spotify.com/artist/1C4hfM3tF2ZBZ54TOZne6T"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155263,
+      "name": "Demanda",
+      "url": "https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY"
+    },
+    {
+      "album": {
         "name": "Depoimento",
         "url": "https://open.spotify.com/album/1M6ns1RMj8vsHGUjrTbBno"
       },
@@ -2642,7 +2664,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171090,
       "name": "F\u00e9 no Del\u00edrio",
       "url": "https://open.spotify.com/track/1XXqoP3E33I6eJBVbDY0z3"

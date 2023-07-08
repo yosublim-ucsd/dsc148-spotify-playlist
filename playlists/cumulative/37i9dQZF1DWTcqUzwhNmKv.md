@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Bring Me The Horizon on top of the biggest Metal playlist.
+> Nita Strauss on top of the biggest Metal playlist.
 
-467 songs - 1 day 7 hr 24 min
+469 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-07-15 | 2022-11-08 |
 | [Dicker's Done](https://open.spotify.com/track/2XAaijZbG5OaB1tPyeW656) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Dicker's Done](https://open.spotify.com/album/46OXV6amQwfxFjv0kfvWoL) | 5:19 | 2022-11-25 | 2023-03-11 |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-08-12 | 2022-09-10 |
+| [Digital Bullets \(feat\. Chris Motionless\)](https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45) | 3:58 | 2023-07-07 |  |
 | [Disappoint Me](https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Disappoint Me](https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO) | 2:18 | 2023-04-14 |  |
 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-17 | 2022-07-30 |
 | [Ditch](https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:37 | 2022-11-25 | 2023-02-11 |
@@ -169,7 +170,7 @@
 | [Glitch](https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Glitch](https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup) | 4:21 | 2022-06-10 | 2023-03-25 |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-03-10 | 2023-06-17 |
 | [Good Stories \- Remastered 2022](https://open.spotify.com/track/1uVyA0eUK86gElgjnvaxio) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Good Stories](https://open.spotify.com/album/1wlLLvMwxLbVJK5o11syD2) | 4:19 | 2022-01-07 | 2022-02-25 |
-| [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-09 |  |
+| [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-09 | 2023-07-08 |
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-03-03 | 2022-06-17 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-02-11 | 2022-05-20 |
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-09 |  |
@@ -384,7 +385,7 @@
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-08-13 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-10-14 | 2023-02-11 |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-26 | 2023-03-04 |
-| [The Golden Trail](https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Golden Trail](https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP) | 4:40 | 2023-05-19 |  |
+| [The Golden Trail](https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Golden Trail](https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP) | 4:40 | 2023-05-19 | 2023-07-08 |
 | [The Great Deceiver](https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Great Deceiver](https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT) | 3:45 | 2022-08-12 | 2022-11-12 |
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 | 2022-08-06 |
 | [The Hunt](https://open.spotify.com/track/4RYg7V9NzIfXOhYx5xbxff) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [By Night](https://open.spotify.com/album/0GHtyfgjNanp1kheoy8MOu) | 4:26 | 2022-02-24 | 2022-03-04 |
@@ -450,6 +451,7 @@
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 | 2022-07-08 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-19 |  |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2022-12-02 |  |
+| [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-07-07 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2022-08-06 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |
 | [When Death Sighs](https://open.spotify.com/track/08F6fDGMqgigPUBhLvUI8Q) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Sweet Evil Sun](https://open.spotify.com/album/24cOhaktfXSqjSNg77Y1Ee) | 5:59 | 2022-11-25 | 2023-02-25 |

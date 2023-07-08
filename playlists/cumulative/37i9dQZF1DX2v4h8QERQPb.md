@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-209 songs - 10 hr 49 min
+210 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2021-11-26 | 2022-04-12 |
 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 | 2023-05-12 |  |
 | [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 | 2022-04-11 |  |
+| [HOMER & TROCA \- PA MORIR SE NACE MASTER FINAL](https://open.spotify.com/track/5LM38gYHNnfUpOJorx79Yf) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Pa Morir Se Nace](https://open.spotify.com/album/7o5b0dMIzT4kT5KnSX7fiF) | 2:05 | 2023-07-07 |  |
 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 | 2022-04-11 |  |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/3VCo2tJEa1a8GDCvSIqwP0) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/6m6qmfyl9LCn1801SzmpGO) | 3:01 | 2021-11-26 | 2022-10-02 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 | 2022-09-22 |  |

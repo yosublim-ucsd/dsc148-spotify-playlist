@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1lhsT4llsJrD7fcj5obAj3"
+      },
+      "artists": [
+        {
+          "name": "Ranty",
+          "url": "https://open.spotify.com/artist/5M21uBxdVJmIAHAeeNu471"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263950,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0uULrNajpLiZD63RkXkT3N"
+    },
+    {
+      "album": {
         "name": "Human Observation",
         "url": "https://open.spotify.com/album/71n25wPMwoDxUKx0899oZQ"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 354728,
       "name": "Live Spirit - Original Mix",
       "url": "https://open.spotify.com/track/5XKj2XoGrCFrbkyYHV64Y5"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 372028,
       "name": "Melody",
       "url": "https://open.spotify.com/track/2uy5qL4iIhNkgjalA5gDyF"
@@ -1164,6 +1182,24 @@
       "duration_ms": 440275,
       "name": "Natural Forces",
       "url": "https://open.spotify.com/track/0C2wtHuF5ToxwfZffD7EQu"
+    },
+    {
+      "album": {
+        "name": "Night Tales",
+        "url": "https://open.spotify.com/album/62U5Ixz1U0dSDsEJSjIQmS"
+      },
+      "artists": [
+        {
+          "name": "Rafael Starcevic",
+          "url": "https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233942,
+      "name": "Night Tales",
+      "url": "https://open.spotify.com/track/6Dg9qlwUen0ZTWwnRTt1x3"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 367595,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx"
@@ -1612,6 +1648,28 @@
       "duration_ms": 363243,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/3ZVyByS3n7fD4pAlHKSRfe"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1ZphlDr7w7ToL8cQm1unH6"
+      },
+      "artists": [
+        {
+          "name": "Paranormal Attack",
+          "url": "https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3"
+        },
+        {
+          "name": "HACOON",
+          "url": "https://open.spotify.com/artist/1Ez24RpFrEgoQK3MalsCiC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238309,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0wjtSNSggD1hG7Fblcvscg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Warren Hue",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: FLO",
   "name": "mood.",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 298616,
       "name": "A Lesser Man",
       "url": "https://open.spotify.com/track/4bPsiRqWPFPgLiPQR7jNo4"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 196000,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/1gUpc488WZubSVI5X8gRCT"
+      },
+      "artists": [
+        {
+          "name": "Ho\u0101ng",
+          "url": "https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149488,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4BpuI7wyccUv2uxyfJlMtq"
+    },
+    {
+      "album": {
         "name": "SPECTRUM for The Good Days Boys",
         "url": "https://open.spotify.com/album/4ckoQ9CgEHZ8qyg5csPgIZ"
       },
@@ -1603,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 5 Part 2 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239783,
+      "name": "Dollhouse (with Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc"
+    },
+    {
+      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
@@ -1774,7 +1814,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 176500,
       "name": "ECSTASY",
       "url": "https://open.spotify.com/track/0a5nzIXplliER47moyN6Wh"
@@ -2296,7 +2336,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 175784,
       "name": "Forgiving Myself",
       "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 147216,
       "name": "Get Loose",
       "url": "https://open.spotify.com/track/1aVqh51zVTaSSIeedX7cDI"
@@ -3294,6 +3334,28 @@
       "duration_ms": 170819,
       "name": "i hate u owe me $$",
       "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
+        "name": "i know it\u2019s you",
+        "url": "https://open.spotify.com/album/3YnPfbOOaCxmw3AlxH5g5H"
+      },
+      "artists": [
+        {
+          "name": "Narysal",
+          "url": "https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908"
+        },
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "i know it\u2019s you",
+      "url": "https://open.spotify.com/track/2gEUdv8NXw7D0AoUtb3srf"
     },
     {
       "album": {
@@ -5228,7 +5290,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
@@ -5424,7 +5486,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 214891,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/76JrETiLNf62ULGijlOuxb"
@@ -5862,6 +5924,42 @@
       "duration_ms": 165333,
       "name": "Puzzle (feat. Sonny Zero, hevel & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/4Y9xIrFg05vDYM0kXohGT3"
+    },
+    {
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
     },
     {
       "album": {
@@ -6916,6 +7014,46 @@
       "duration_ms": 197043,
       "name": "still here",
       "url": "https://open.spotify.com/track/0REjEl3XivOfIus0LhYjNY"
+    },
+    {
+      "album": {
+        "name": "3 of Us",
+        "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154392,
+      "name": "Suite Life (Familiar) - Bonus Track",
+      "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
+    },
+    {
+      "album": {
+        "name": "Summer Fever",
+        "url": "https://open.spotify.com/album/30MpRmsftr9JY8es2azDI8"
+      },
+      "artists": [
+        {
+          "name": "kaaai",
+          "url": "https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Summer Fever",
+      "url": "https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf"
     },
     {
       "album": {

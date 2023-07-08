@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,546 likes - 200 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,609 likes - 200 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
 | 200 | [Senses Working Overtime \- Remastered 2001](https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:50 |
 
-Snapshot ID: `MCwzYmRjNTg4OWMzMmJlNmE1YjUyYzJmYzQ1NWRmODQzZjc0MDJhY2Ex`
+Snapshot ID: `MCw5N2EwY2ZhZjY0MGNmMzI3NzQwOTA5MjBiMWE2NGQ3NzVjZjY0MDI3`

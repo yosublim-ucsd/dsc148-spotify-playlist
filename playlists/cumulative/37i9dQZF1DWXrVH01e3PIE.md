@@ -4,7 +4,7 @@
 
 > ECKO en la casa del Trap Argentino.
 
-209 songs - 10 hr 4 min
+210 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Offline \- Remix](https://open.spotify.com/track/1NJoSKztrhgtoKmwZxJOIu) | [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Offline Remix](https://open.spotify.com/album/0wTBnt7BJB19IBSQAH3b4H) | 5:58 | 2022-01-21 | 2022-10-29 |
 | [OPA](https://open.spotify.com/track/2Z4FBa6hAEh7VTHYCqXy7P) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:49 | 2022-07-21 |  |
 | [OPA](https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OPA](https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh) | 2:50 | 2022-01-21 | 2022-07-29 |
+| [ORO SHAMPEIN](https://open.spotify.com/track/1EQEWkDx6XnlbkgrFfgNpO) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [ORO SHAMPEIN](https://open.spotify.com/album/7hD5AGNWMDdKjAroPUQxPO) | 2:51 | 2023-07-07 |  |
 | [ORO Y PLATINO](https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ORO Y PLATINO](https://open.spotify.com/album/0xhqz1zfuhkPcA2XkPjWfh) | 2:48 | 2022-01-21 |  |
 | [OTRA NOCHE](https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:49 | 2022-01-21 |  |
 | [Otro De Esos Días](https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Otro De Esos Días](https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4) | 3:13 | 2022-08-19 | 2023-02-25 |
@@ -203,7 +204,7 @@
 | [uNO dOS](https://open.spotify.com/track/6T2lmSzYB7V4tqYazwJITe) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:45 | 2023-06-23 |  |
 | [Vacio](https://open.spotify.com/track/435YiiQUdWbS6Z735tNrdL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Vacio](https://open.spotify.com/album/3mPQrAo1k1theUTXCjuYRM) | 2:08 | 2022-01-21 | 2022-04-06 |
 | [Valentino](https://open.spotify.com/track/27uT2ouF88miD988lpgkm5) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:36 | 2022-01-21 | 2022-05-05 |
-| [Vida Perra](https://open.spotify.com/track/0bDCR8vag1GWV6Dz00vjej) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Vida Perra](https://open.spotify.com/album/6bnnJX1InBfT7XemYzUB5y) | 1:42 | 2022-08-05 |  |
+| [Vida Perra](https://open.spotify.com/track/0bDCR8vag1GWV6Dz00vjej) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Vida Perra](https://open.spotify.com/album/6bnnJX1InBfT7XemYzUB5y) | 1:42 | 2022-08-05 | 2023-07-08 |
 | [Videogame](https://open.spotify.com/track/4KtgcX45dO6Vh0oqD1Ovze) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Videogame](https://open.spotify.com/album/6G58VCyRqIIsvWYMK5VSp3) | 3:25 | 2022-05-20 | 2022-06-18 |
 | [Viernes](https://open.spotify.com/track/3pZOWGQSkv4OZTwS8woop1) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT) | [Viernes](https://open.spotify.com/album/6xNmYVIkmTDvY0uZHrJEQt) | 2:49 | 2022-01-21 | 2023-03-18 |
 | [Vigente](https://open.spotify.com/track/0EJjw2F8pprvoeTynVr5C6) | [POYØ](https://open.spotify.com/artist/4WksZwKLv0WltX37kvkSHJ), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Vigente](https://open.spotify.com/album/3fCEhr4u7sdoqklmsvk7xj) | 3:26 | 2022-01-21 | 2022-03-26 |

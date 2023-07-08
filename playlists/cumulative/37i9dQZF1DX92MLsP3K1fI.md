@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Emilia y LUDMILLA en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Leon Leiden y Paty Cantú en portada.
 
-201 songs - 10 hr 17 min
+204 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [11 Con 11](https://open.spotify.com/track/3Svyh4451NwWlZJaYNPAXS) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [11 Con 11](https://open.spotify.com/album/4wRqySjpJook4XozbCYS9S) | 2:45 | 2022-02-04 | 2022-07-26 |
 | [16 De Diciembre](https://open.spotify.com/track/4WJ57xmxSOGghPfnv3EGHg) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [16 De Diciembre](https://open.spotify.com/album/7MQsMNuLurwpFogz1oBTu9) | 2:32 | 2022-02-04 | 2022-06-26 |
 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 | 2022-02-04 | 2022-07-28 |
+| [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 | 2023-07-07 |  |
 | [A Un Paso De La Luna \- Remix](https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [A Un Paso De La Luna \(Remix\)](https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8) | 3:14 | 2022-02-04 |  |
 | [A Veces A Besos](https://open.spotify.com/track/586nNq2LbKBnjMvtFTrjWJ) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [A Veces A Besos](https://open.spotify.com/album/7teveKnXba4XXZ1CxQLf6k) | 2:26 | 2022-05-20 | 2022-07-28 |
 | [Adios](https://open.spotify.com/track/4GD13CmzHLbcm27i8ueSNL) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Adios](https://open.spotify.com/album/4ICfa7YSzgFDVKfqlLRXhp) | 2:27 | 2022-02-18 | 2022-07-14 |
@@ -27,10 +28,11 @@
 | [ASESINA](https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [ASESINA](https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh) | 2:46 | 2023-05-19 |  |
 | [Aunque Digan](https://open.spotify.com/track/5BJVD5vb0XEpugqc2EzImr) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Aunque Digan](https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K) | 3:09 | 2022-07-26 | 2022-11-01 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2022-02-11 | 2022-07-29 |
+| [Año Sabático](https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:42 | 2023-07-07 |  |
 | [Bad Karma](https://open.spotify.com/track/2wukQYZ4iFRYtlWPLGCdLG) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Bad Karma](https://open.spotify.com/album/5mKk4OvQLooCtzMK8p33Jp) | 3:14 | 2022-02-04 | 2022-03-17 |
 | [Baila Baila](https://open.spotify.com/track/3FlWxZwKNgrIYmrffyMK3f) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Baila Baila](https://open.spotify.com/album/123bVeEVLsA0hSCAdV7ePG) | 4:28 | 2022-02-25 | 2022-03-23 |
 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 | 2022-06-02 | 2022-11-01 |
-| [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-10 |  |
+| [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-10 | 2023-07-08 |
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-01-28 |  |
 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 | 2022-12-09 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-04-22 | 2022-04-24 |
@@ -149,7 +151,7 @@
 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 | 2023-01-28 | 2023-02-25 |
 | [Que Hueva](https://open.spotify.com/track/3azbX22yptxcL69DQXyEbd) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [heartbreaker](https://open.spotify.com/album/2fpH8T5bUzB88IxqMjcT8y) | 2:55 | 2022-12-09 | 2023-02-11 |
 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 | 2022-06-03 | 2023-05-04 |
-| [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 |  |
+| [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 | 2023-07-08 |
 | [Quédate](https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Quédate](https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP) | 3:18 | 2023-03-31 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Recuerdo contigo </3](https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s) | 3:08 | 2022-12-02 | 2023-01-29 |
 | [Rubia O Morena](https://open.spotify.com/track/2VR24KhfUigt65Ta92WUEQ) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Rubia O Morena](https://open.spotify.com/album/32w5DFYXF4RPKL3qbxvQU1) | 2:44 | 2022-03-04 | 2022-05-21 |
@@ -177,6 +179,7 @@
 | [Suerte](https://open.spotify.com/track/2TIKfPzyuQ2X1SnAv5PvUQ) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy) | [Suerte](https://open.spotify.com/album/7oggcTW87RNFibNUQLi1hB) | 3:00 | 2022-02-04 | 2022-06-01 |
 | [SUPERFUME](https://open.spotify.com/track/72C3TsZFmwrKXU6e4pDrRW) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [SUPERFUME](https://open.spotify.com/album/2EnEclbA3ZSBTEnWMpcFg9) | 2:51 | 2022-02-11 | 2022-07-29 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-03-11 |  |
+| [SÚPER ULTRA MEGA](https://open.spotify.com/track/1RR4V0naoxfy9dVgMjzcxZ) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [SÚPER ULTRA MEGA](https://open.spotify.com/album/4Cv7WFBZEfCDuZaFHdNhaF) | 2:49 | 2023-07-07 |  |
 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 | 2022-02-04 | 2023-02-25 |
 | [Tacho](https://open.spotify.com/track/2WToWKYAibWQ868qR755bm) | [Gaby Noya](https://open.spotify.com/artist/7M0MRF7kyp2NTq5DssSbRX) | [Tacho](https://open.spotify.com/album/7lqlXhxcFJhuG3H3D4bysz) | 3:19 | 2023-03-31 | 2023-05-06 |
 | [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 | 2022-02-04 | 2022-12-20 |
@@ -197,7 +200,7 @@
 | [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 | 2022-08-19 | 2023-02-24 |
 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 | 2022-02-04 | 2023-01-29 |
 | [Tu y Yo](https://open.spotify.com/track/6PeG2XIFWHdGRX9bYlKRsJ) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Agridulce](https://open.spotify.com/album/1AoHHCkE0WA9xJ65PH4D2b) | 3:16 | 2022-07-26 | 2022-11-15 |
-| [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 | 2022-02-04 |  |
+| [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 | 2022-02-04 | 2023-07-08 |
 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 | 2022-02-04 |  |
 | [Tú Me Pones a Pecar](https://open.spotify.com/track/1UHr7qxB7kZvpc6WqQKOrF) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Tú Me Pones a Pecar](https://open.spotify.com/album/0JLS0mZHxPFOOkqW7jqBYH) | 3:27 | 2022-03-11 | 2022-06-03 |
 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 | 2023-02-24 |  |

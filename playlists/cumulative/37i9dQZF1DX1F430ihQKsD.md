@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Velours Velours
+> La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-334 songs - 19 hr 12 min
+336 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 |  |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-27 |
+| [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 | 2023-07-07 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-05-27 |
 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 |  |
@@ -108,7 +109,7 @@
 | [Far From Here](https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Far From Here](https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1) | 4:27 | 2023-02-17 | 2023-06-03 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-08-27 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2023-06-15 |
-| [Feu intérieur](https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/2dYTTaU4SALFxt6MFOgdZ9) | 3:33 | 2023-06-11 |  |
+| [Feu intérieur](https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/2dYTTaU4SALFxt6MFOgdZ9) | 3:33 | 2023-06-11 | 2023-07-08 |
 | [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 | 2023-03-25 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-25 |  |
 | [Fièvre](https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Fièvre](https://open.spotify.com/album/4O1FVF6WNDLB2FLLxMBCBd) | 4:09 | 2022-03-25 | 2022-10-15 |
@@ -145,7 +146,7 @@
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
 | [Inconnue](https://open.spotify.com/track/5DQ3U33Swr3xLoFvpXMAgj) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime Deluxe](https://open.spotify.com/album/7scx66azACtWTjLEGuPnPo) | 3:02 | 2023-02-10 |  |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 | 2022-12-10 |
-| [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 | 2022-09-23 |  |
+| [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 | 2022-09-23 | 2023-07-08 |
 | [Insulaire](https://open.spotify.com/track/3Ks37fop1NmNBtKbKrSwCL) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [INSULA](https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3) | 4:05 | 2022-03-25 | 2022-07-23 |
 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 | 2023-06-02 |  |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2022-03-25 | 2022-06-11 |
@@ -317,6 +318,7 @@
 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 | 2022-06-10 | 2022-08-27 |
 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 | 2022-09-03 |
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 | 2022-05-07 |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-09-03 |
 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 | 2023-06-02 |  |
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-22 |

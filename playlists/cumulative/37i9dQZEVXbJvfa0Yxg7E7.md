@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,177 songs - 2 day 12 hr 51 min
+1,178 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-10-10 | 2022-01-30 |
 | [Eg ser](https://open.spotify.com/track/4ULQ5xvwpOpGflc92it2XK) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg ser](https://open.spotify.com/album/637ziUK1gjsSIxo4z1NGDA) | 3:28 | 2023-01-03 | 2023-01-29 |
 | [eg ser deg](https://open.spotify.com/track/2QtRn7ZwO1w5wlmngLgwT7) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/52Eswe56mkWTeoMOWkz941) | 3:07 | 2021-10-23 | 2021-11-14 |
-| [EG VIL BARE DANSE](https://open.spotify.com/track/68UkGt4E8DSiHwg4yCusFQ) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [INSTRUMENT](https://open.spotify.com/album/0rlLiCVMUCxiFqlkSvYE1H) | 2:30 | 2023-06-24 |  |
+| [EG VIL BARE DANSE](https://open.spotify.com/track/68UkGt4E8DSiHwg4yCusFQ) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [INSTRUMENT](https://open.spotify.com/album/0rlLiCVMUCxiFqlkSvYE1H) | 2:30 | 2023-06-24 | 2023-07-08 |
 | [Egoland](https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:11 | 2023-04-14 | 2023-05-12 |
 | [Ekko inni meg](https://open.spotify.com/track/0xbSjXWyD0M1ucTtKHPd2N) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Silke](https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG) | [Ekko inni meg](https://open.spotify.com/album/2Ly8kCvCldHcmyy1YmSaCv) | 2:53 | 2023-01-18 | 2023-03-31 |
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-08-20 |
@@ -1133,6 +1133,7 @@
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
 | [VISIT NORWAY \- Live from Sala la Paqui But, Madrid](https://open.spotify.com/track/4QRCOP0KA8l9RBN07O2xTA) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 4:18 | 2023-05-20 | 2023-05-23 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-19 |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 |  |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-05-24 | 2021-06-19 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-06-04 |
 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-30 | 2023-04-15 |

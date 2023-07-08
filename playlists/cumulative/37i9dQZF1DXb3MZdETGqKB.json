@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127687,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY"
+    },
+    {
+      "album": {
         "name": "Jumpin\u2019 For Joy",
         "url": "https://open.spotify.com/album/1ZpY8QOPygcO1SfiApXNqR"
       },
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"

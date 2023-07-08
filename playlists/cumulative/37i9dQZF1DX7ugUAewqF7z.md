@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-57 songs - 3 hr 17 min
+61 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 | 2023-06-15 |  |
 | [Picture of You](https://open.spotify.com/track/1q9CA3YEWtoJniIFzaSkdu) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Picture of You](https://open.spotify.com/album/36svQD3MkJQ9dcCyvB64eL) | 2:58 | 2023-06-15 |  |
 | [Planet Girl \(Feat\. pH\-1\)](https://open.spotify.com/track/33G3yRbFmwmYVw0N12v177) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Fountain](https://open.spotify.com/album/7kfhx5sztT503CUu9I1r8D) | 3:09 | 2023-06-15 |  |
+| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-07-07 |  |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2023-06-15 |  |
 | [Shut up!!](https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg) | [U\-KISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [BREAK TIME](https://open.spotify.com/album/2b9KWUiZayjQgc0HiC9uLr) | 3:12 | 2023-06-15 |  |
 | [So What](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:18 | 2023-06-15 |  |
@@ -54,6 +55,7 @@
 | [Stars over me](https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:20 | 2023-06-15 |  |
 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 | 2023-07-03 |  |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-06-15 |  |
+| [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 | 2023-07-07 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2023-06-15 |  |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2023-06-23 |  |
 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 | 2023-06-15 |  |
@@ -61,7 +63,9 @@
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2023-06-15 |  |
 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 | 2023-06-15 |  |
 | [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 | 2023-06-15 |  |
+| [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
 | [새벽기차](https://open.spotify.com/track/6NGfh35DLX4MGelPQsWkD1) | [다섯손가락](https://open.spotify.com/artist/54OHfAKmQDzDFfXFjmxHuk) | [다섯손가락 골든 힛트곡 모음](https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU) | 3:58 | 2023-06-15 |  |
+| [아름다워](https://open.spotify.com/track/3fZWliK6TSGwx2feMCnu2Z) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [돈 벌 시간 2](https://open.spotify.com/album/0nU8PoUOKgmeiB78GKrFMT) | 3:40 | 2023-07-07 |  |
 | [연예인](https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [싸집](https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63) | 3:24 | 2023-06-23 |  |
 | [이별 아닌 이별](https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:20 | 2023-07-03 |  |
 | [첫눈에 뿅!](https://open.spotify.com/track/3I8yVMehwPY6poafWii5Fc) | [바니](https://open.spotify.com/artist/2NHtAhs5l0gcVwp8AcDbD9) | [첫눈에 뿅!](https://open.spotify.com/album/6MnDjLA0vALGHkguvGAu1n) | 3:12 | 2023-06-15 |  |

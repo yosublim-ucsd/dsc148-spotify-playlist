@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Farruko",
+  "description": "Just vibes. Cover: Be\u00e9le & Farruko",
   "name": "Vibras",
   "tracks": [
     {
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 164494,
       "name": "Down",
       "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
@@ -4698,6 +4698,28 @@
       "duration_ms": 153503,
       "name": "SacaLaCamara",
       "url": "https://open.spotify.com/track/6AxYzm7Qz9LzjAXUnnNA0t"
+    },
+    {
+      "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "album": {

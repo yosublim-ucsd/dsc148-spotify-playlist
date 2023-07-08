@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Becoming A Coward",
+        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Becoming A Coward",
+      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
+    },
+    {
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -1046,6 +1064,24 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "album": {
+        "name": "Rumble of Thunder (Deluxe)",
+        "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293371,
+      "name": "Black Thunder - Acoustic",
+      "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
     },
     {
       "album": {
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 165589,
       "name": "Crush Em",
       "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 226905,
       "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
@@ -2688,7 +2724,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 262229,
       "name": "False Idols (with Lil Baby, Suzanna Son)",
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
@@ -2728,10 +2764,36 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171545,
       "name": "Fatha Fig Ya (Food For Thought)",
       "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "album": {
@@ -5306,7 +5368,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 273173,
       "name": "Mother Nature (feat. LP)",
       "url": "https://open.spotify.com/track/04WnFdVesT0VLu1Fc57VoI"
@@ -6487,6 +6549,28 @@
     },
     {
       "album": {
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/6ebMagmjBXUAWtP4jwHnBs"
+      },
+      "artists": [
+        {
+          "name": "Pat dukes",
+          "url": "https://open.spotify.com/artist/5UyhboreLPANiB7sf42mn7"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144796,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/42d0QtrHwsvP9hS93bCRsm"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -6808,7 +6892,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 310576,
       "name": "So We Won\u2019t Forget - Live at Radio City Music Hall",
       "url": "https://open.spotify.com/track/2UEQqUtKm52zAo3rXwUFRk"
@@ -7303,6 +7387,28 @@
     },
     {
       "album": {
+        "name": "Fine Tune",
+        "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426441,
+      "name": "Sweeter (feat. Cory Henry)",
+      "url": "https://open.spotify.com/track/5sJEcokoMPfQS4LqGbtgzU"
+    },
+    {
+      "album": {
         "name": "Live At The Piano",
         "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
       },
@@ -7578,7 +7684,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218973,
       "name": "The Falling Sky",
       "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
@@ -8311,6 +8417,32 @@
     },
     {
       "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1"
+      },
+      "artists": [
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C"
+    },
+    {
+      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
       },
@@ -8348,6 +8480,32 @@
       "duration_ms": 206618,
       "name": "VOID - Sped Up Version",
       "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
+    },
+    {
+      "album": {
+        "name": "W H A T (We're Hungry And Thirsty)",
+        "url": "https://open.spotify.com/album/4j2Z6v5dXeKjQ69q5awOc4"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "HU$H",
+          "url": "https://open.spotify.com/artist/6sxubtAMXZBk6Vcm1UNZ6h"
+        },
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184502,
+      "name": "W H A T (We're Hungry And Thirsty)",
+      "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"
     },
     {
       "album": {
@@ -8534,7 +8692,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
@@ -8556,6 +8714,28 @@
       "duration_ms": 227577,
       "name": "Weird Science (Metal Version)",
       "url": "https://open.spotify.com/track/37WT6TjrstrFC9T3To5zWU"
+    },
+    {
+      "album": {
+        "name": "Werewolf (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,499 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,549 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 81 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 |
 | 82 | [FANCITY](https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [FANCITY](https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj) | 4:02 |
 | 83 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 |
-| 84 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 |
-| 85 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 |
-| 86 | [Smile in your face](https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS), [LITTLE](https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks) | [Smile in your face](https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK) | 4:34 |
-| 87 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 |
-| 88 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 |
-| 89 | [Signpost](https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 3:31 |
-| 90 | [ミスター・サマー](https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J) | [Dally Work’s](https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa) | [ミスター・サマー](https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE) | 4:00 |
-| 91 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
-| 92 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
-| 93 | [最後のキスなら](https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [最後のキスなら](https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB) | 5:26 |
-| 94 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 |
-| 95 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 |
-| 96 | [friends](https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:50 |
+| 84 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 |
+| 85 | [Smile in your face](https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS), [LITTLE](https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks) | [Smile in your face](https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK) | 4:34 |
+| 86 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 |
+| 87 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 |
+| 88 | [Signpost](https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 3:31 |
+| 89 | [ミスター・サマー](https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J) | [Dally Work’s](https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa) | [ミスター・サマー](https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE) | 4:00 |
+| 90 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
+| 91 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
+| 92 | [最後のキスなら](https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [最後のキスなら](https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB) | 5:26 |
+| 93 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 |
+| 94 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 |
+| 95 | [friends](https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:50 |
+| 96 | [Solotrip](https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Solotrip](https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo) | 3:12 |
 | 97 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
 | 98 | [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 |
 | 99 | [Rain Of Your Heart](https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A e.p](https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3) | 4:33 |
 | 100 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 |
 
-Snapshot ID: `MCw5NDhmZjQ5Y2M2ZWU3M2JkZDYxZDQ1MmY1YzBhMTMwY2RjMzhkZDE1`
+Snapshot ID: `MCw1NjA5N2FkMmQ1OTEzNTZhMGE5ZGNmYjhjMDRkODJkMTc4ZDgzNDQ4`

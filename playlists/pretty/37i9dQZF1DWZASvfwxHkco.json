@@ -1,13 +1,33 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Skrillex",
-  "num_followers": 67763,
+  "num_followers": 67768,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZThmMGMzYTc4YTkwY2JkM2JmZDc5MjdhZDdkODVmMjZlNmNkZmQw",
+  "snapshot_id": "MCwzOTM0Y2RmNDZjOWIzNzU2NWE0YWNjNWMxMDU0OGRmOTgyOGE0NGVj",
   "tracks": [
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
@@ -48,7 +68,7 @@
       "added_at": "2023-07-06 15:00:00",
       "album": {
         "name": "Stars",
-        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
+        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
       },
       "artists": [
         {
@@ -66,7 +86,7 @@
       ],
       "duration_ms": 171233,
       "name": "Stars",
-      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
+      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
     },
     {
       "added_at": "2023-07-06 15:00:00",

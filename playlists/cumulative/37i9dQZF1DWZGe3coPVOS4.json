@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Nonsense",
+        "url": "https://open.spotify.com/album/5gPQTWdHj7aP0mxBB7v9IE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157001,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/48nWVjNj7vfIKhvCTT9H6z"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },

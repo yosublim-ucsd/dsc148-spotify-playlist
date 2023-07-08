@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-67 songs - 4 hr 0 min
+68 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Me Van A Matar](https://open.spotify.com/track/5DaOTjY1vz38V0RGrrRFGq) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:02 | 2021-05-13 |  |
 | [Me Voy](https://open.spotify.com/track/7EEbMTkfPqFVD5ZoLZLYiD) | [Helfy](https://open.spotify.com/artist/66d5Z5OpnmGw4yWdJbmXWm) | [Me Voy](https://open.spotify.com/album/2157W6oC9ZfjzJxRPO4vwO) | 2:10 | 2021-05-13 |  |
 | [Mi Playa](https://open.spotify.com/track/34HGQ7X0wMKEnRnGcEdeps) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:42 | 2021-05-13 |  |
+| [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-07 |  |
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2021-05-13 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |

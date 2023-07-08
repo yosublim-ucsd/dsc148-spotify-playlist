@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,244 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,306 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 |
 | 100 | [Nightfall](https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Nightfall](https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy) | 4:06 |
 
-Snapshot ID: `MCxjNTA0MzkzYjkxMGI4ZjllZDk3NGMwNGRjNzk5M2ZjY2IwZDNjNzdl`
+Snapshot ID: `MCxhNzFjZjUxMTNiNWMzZjkyOGIxZmU2YzJlYTgzMjU4NTBlNWU5YjEw`

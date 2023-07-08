@@ -8442,7 +8442,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 255992,
       "name": "Fotia",
       "url": "https://open.spotify.com/track/4zW19Z4IVfpLEsrTSCXiS8"
@@ -10572,7 +10572,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170909,
       "name": "Idrogeios",
       "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
@@ -13523,6 +13523,32 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/4gnCHv6FhzdxDWwkRnEck3"
+      },
+      "artists": [
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5QMcZ256rMttUyBSfbsGz7"
+    },
+    {
+      "album": {
         "name": "Leoforos Kavalas",
         "url": "https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X"
       },
@@ -15328,6 +15354,28 @@
       "duration_ms": 178369,
       "name": "Mi Milas",
       "url": "https://open.spotify.com/track/40lIiCUnIwQZy6Xe7YQRCk"
+    },
+    {
+      "album": {
+        "name": "MI TESORO",
+        "url": "https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112211,
+      "name": "MI TESORO",
+      "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
     },
     {
       "album": {

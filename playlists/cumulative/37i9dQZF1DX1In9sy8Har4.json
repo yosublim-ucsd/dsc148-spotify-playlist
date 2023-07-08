@@ -74,10 +74,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 198693,
       "name": "Driftig",
       "url": "https://open.spotify.com/track/1TmmfkscxUmzbGu628xvrT"
+    },
+    {
+      "album": {
+        "name": "K\u00f6r vi tills att d\u00f6r vi",
+        "url": "https://open.spotify.com/album/4gIOT1AjdVE8yYVZTVO4kl"
+      },
+      "artists": [
+        {
+          "name": "Grillat & Gr\u00e4ndy",
+          "url": "https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R"
+        },
+        {
+          "name": "Evin Ahmad",
+          "url": "https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Driftig (feat. Evin Ahmad)",
+      "url": "https://open.spotify.com/track/454PxjaPn7yQGHO7bGqg1f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/319942?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,688 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,793 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 32 | [邂逅](https://open.spotify.com/track/5feqpIT9gqUrLd8IDuRgqI) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [邂逅](https://open.spotify.com/album/18zmjzNXa1oF1UCG2QMgf7) | 4:52 |
 | 33 | [The last song](https://open.spotify.com/track/3nSblqRTG9MBEuYNRPxoFn) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [The last song](https://open.spotify.com/album/5qwjLuPAV8H3ChvyQZlaM4) | 3:31 |
 | 34 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 |
-| 35 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
+| 35 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 36 | [Purple Dream](https://open.spotify.com/track/7dX7ReZCoSmQnUKOnVe9io) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Purple Dream](https://open.spotify.com/album/7fvs1f1ry5knpVr17LqCuZ) | 2:55 |
 | 37 | [Darling Darling](https://open.spotify.com/track/0UfmsjmAUJ5MjlbmuBHbXd) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Darling Darling](https://open.spotify.com/album/4iAOVZNJxnoNwhHqasovuY) | 2:42 |
 | 38 | [LOOK AT ME](https://open.spotify.com/track/0jScgpUlIzkUGIMH43ZsXB) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [COCONUT](https://open.spotify.com/album/7pMBT70d3wGM0VZfLcQ6f3) | 3:13 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 63 | [Land Route](https://open.spotify.com/track/1g0TXmZGNvNGBigEI8lRvi) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Land Route](https://open.spotify.com/album/6hP17JLVzCnw8VftQPKagY) | 3:07 |
 | 64 | [Cure For Love](https://open.spotify.com/track/2j94xJWcaViNkWxkEhKqnd) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS), [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm), [Ruri Matsumura](https://open.spotify.com/artist/0xn2xHzatovBQlW7MqMJAd) | [Cure For Love](https://open.spotify.com/album/4qFdZ75qKyjIZWtpxohVgT) | 3:11 |
 | 65 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 |
-| 66 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 |
+| 66 | [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 |
 | 67 | [ARCH](https://open.spotify.com/track/1DQ9hfGPH5Szx1l8GRvEh0) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [鈴木智貴](https://open.spotify.com/artist/4Jq6tAH5bl3TVraCHeTV8I) | [ARCH](https://open.spotify.com/album/3EJlVWeB8jCiLz4Yl7cqau) | 3:24 |
 | 68 | [C’mon](https://open.spotify.com/track/0ZsWcdP0P7qfhhvbwe0Wxl) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [C’mon](https://open.spotify.com/album/7rXZMVvllOfTKfzehvIs04) | 3:23 |
 | 69 | [タイムスケジュール](https://open.spotify.com/track/5zV9bQQbAgX1ZIlgIkNh93) | [杉野菊キャラバン音楽隊](https://open.spotify.com/artist/1zMqmyXXf8tQFerQ666Kik) | [歌謡ようよう](https://open.spotify.com/album/1157d5MqCBnQai6ojDgbzn) | 3:39 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 |
 | 79 | [Hey World](https://open.spotify.com/track/2ptP3koK8rYTCt6H21x85o) | [「えいごであそぼ Meets the World」](https://open.spotify.com/artist/7hR1zQnQf2ugg2zdLgWLRh), [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Hey World](https://open.spotify.com/album/1jJTl8mvUjPRMqVandflm0) | 0:35 |
 
-Snapshot ID: `MCwzODMyODBhZmI2MTQ2MWNjOTMyYWNhMmNiYTVhODk1OGJkYzNjYWFi`
+Snapshot ID: `MCxjMGU0OWRmMTY3NjdmOGY2MjUwMjJkMWQ2OGUyNDY0ZjM4NTUzOGI3`

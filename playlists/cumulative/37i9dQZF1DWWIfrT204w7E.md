@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Tion Wayne
 
-407 songs - 18 hr 45 min
+408 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Badmind](https://open.spotify.com/track/2z8Am6rdrwIyGzZGHglNgl) | [Mori Briscoe](https://open.spotify.com/artist/3TnrBj2Vlbm6TXPNtQ04mk), [SPMB Bills](https://open.spotify.com/artist/1PZWTOZpsAoK6tyNDPziOa) | [The Last Laugh](https://open.spotify.com/album/6G64o6cppu841yerwgJOLV) | 2:48 | 2022-06-10 | 2022-06-25 |
 | [Bak2Bak](https://open.spotify.com/track/2FkBDvvNzPXxFdNiEM2CSe) | [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Bak2Bak](https://open.spotify.com/album/0cgAanczQdqR7QleTREU48) | 3:00 | 2022-03-18 | 2022-07-29 |
 | [Bandemic](https://open.spotify.com/track/72GT4vlxNfMTeFt9hgTHW7) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Bandemic](https://open.spotify.com/album/1k0h2GG20oGhgNVCKhOopz) | 2:04 | 2021-10-05 | 2022-07-28 |
-| [Bandit](https://open.spotify.com/track/0C0aXjpIF1pCGs7kYgq87q) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Bandit](https://open.spotify.com/album/749XSCFJkE0OV3Kw3EkfpC) | 2:22 | 2023-05-15 |  |
+| [Bandit](https://open.spotify.com/track/0C0aXjpIF1pCGs7kYgq87q) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Bandit](https://open.spotify.com/album/749XSCFJkE0OV3Kw3EkfpC) | 2:22 | 2023-05-15 | 2023-07-08 |
+| [Bandit](https://open.spotify.com/track/7dvVmCMpDkcvCpnpDNBedX) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Bandit](https://open.spotify.com/album/0NCLwmTS1Px7dEPawOp9ds) | 2:22 | 2023-05-15 |  |
 | [Banking wit Wick](https://open.spotify.com/track/3O5m49D89tFhCjqwAmZIKY) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wick City \(Deluxe\)](https://open.spotify.com/album/45BG0z0qrfFvGtGpOToXWc) | 1:15 | 2022-06-10 | 2022-06-17 |
 | [Beam](https://open.spotify.com/track/2OM80VBtVlmTeB7ujtwf8N) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Mike Myerzz](https://open.spotify.com/artist/4fR20pxCtbflvcYqxPjE0X) | [Beam](https://open.spotify.com/album/7aUjZ8OTMBSTSfJJEcEBHe) | 2:32 | 2022-06-10 | 2022-06-25 |
 | [Been on Hots](https://open.spotify.com/track/4Q9ik88v1PZJuprokHgVrF) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Been on Hots](https://open.spotify.com/album/7a8QHfJJIBw4mOSwsLLI1j) | 2:13 | 2022-06-10 | 2022-06-21 |

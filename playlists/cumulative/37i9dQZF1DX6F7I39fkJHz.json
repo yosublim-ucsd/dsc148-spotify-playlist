@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Las m\u00e1s bichotas del party featuring Cazzu & Young Miko \ud83d\ude08",
+  "description": "Las m\u00e1s bichotas del party featuring AKRIILA.",
   "name": "EQUAL Urbano",
   "tracks": [
     {
@@ -86,6 +86,32 @@
       "duration_ms": 192705,
       "name": "Aprovechame BB",
       "url": "https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk"
+    },
+    {
+      "album": {
+        "name": "6X",
+        "url": "https://open.spotify.com/album/36zYUhIzm4JJQ0cUohfArv"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151415,
+      "name": "ARRODILLATE",
+      "url": "https://open.spotify.com/track/35MxhBmuoLJJHnYxNddLry"
     },
     {
       "album": {
@@ -402,6 +428,24 @@
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "DESPERTAR",
+      "url": "https://open.spotify.com/track/3naWjm5xr47HBkQzx1JAAl"
     },
     {
       "album": {
@@ -1578,7 +1622,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 155638,
       "name": "Poema",
       "url": "https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 241346,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"

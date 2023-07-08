@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/4X6DG3LgEiIBmxm6gIjrmx"
+      },
+      "artists": [
+        {
+          "name": "Marlon Arenas",
+          "url": "https://open.spotify.com/artist/3DKftlYPvpGgCvPVBj8OR3"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149746,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/4hbGBaXM4L5VRcBoYQemw2"
+    },
+    {
+      "album": {
         "name": "Jur\u00e9",
         "url": "https://open.spotify.com/album/5XxFlKVLOFkklkz1NgyeyX"
       },
@@ -3022,7 +3044,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174951,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t"

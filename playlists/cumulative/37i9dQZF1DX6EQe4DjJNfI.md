@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-127 songs - 6 hr 32 min
+128 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Me Diz](https://open.spotify.com/track/5pWI8jyJ0eaQ1EuShX6eOo) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Diz](https://open.spotify.com/album/1BnN8Y7gxuohSEaanKASYt) | 2:56 | 2023-05-19 | 2023-06-24 |
 | [Me liga](https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Me Liga](https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT) | 2:43 | 2023-04-07 |  |
 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 | 2022-11-18 | 2023-04-09 |
-| [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-11-18 |  |
+| [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-11-18 | 2023-07-08 |
 | [MENTIROSO](https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [MENTIROSO](https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV) | 2:47 | 2022-11-18 |  |
 | [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 | 2023-04-17 |  |
 | [Meu Bem](https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN) | [Meu Bem](https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h) | 3:04 | 2022-11-18 |  |
@@ -123,6 +123,7 @@
 | [Tanto Querer](https://open.spotify.com/track/4ctAt6FuCTZfXYsO8cReLj) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tanto Querer](https://open.spotify.com/album/4UbZ7isvuoDykLIN9Qb98C) | 3:16 | 2023-03-31 | 2023-06-24 |
 | [Te Amar](https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Baficca](https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C) | [Te Amar](https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26) | 2:46 | 2023-03-10 |  |
 | [Te Ouvir](https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Te Ouvir](https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG) | 3:35 | 2023-04-14 |  |
+| [Te Perdi](https://open.spotify.com/track/21oeNPukzLguNiO8UddvFh) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy) | [Te Perdi](https://open.spotify.com/album/1v9CFk2cExFkxCL1HFqwUq) | 2:33 | 2023-07-07 |  |
 | [Tempo pra Perder](https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Tempo pra Perder](https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF) | 3:14 | 2022-11-18 |  |
 | [Teu Sinal](https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J) | [Nathy Veras](https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [Teu Sinal](https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW) | 3:09 | 2022-12-02 |  |
 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 | 2023-04-28 | 2023-07-01 |

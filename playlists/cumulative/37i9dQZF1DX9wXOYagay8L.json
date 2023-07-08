@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 512182,
       "name": "All In You",
       "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 276160,
       "name": "Fireworks - Radio Edit",
       "url": "https://open.spotify.com/track/6sicIMPjlLJKb3pojISu07"
@@ -2813,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "Intomb Enhle",
+        "url": "https://open.spotify.com/album/6iITmtdSxlY2Tm3Mhbnzkl"
+      },
+      "artists": [
+        {
+          "name": "Sauce4680",
+          "url": "https://open.spotify.com/artist/7Asi6PJtT2QuWVACr1yzc4"
+        },
+        {
+          "name": "Flash Ikumkani",
+          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236408,
+      "name": "Intomb Enhle",
+      "url": "https://open.spotify.com/track/3DKihD1zpnu9CJdOn1b7lx"
+    },
+    {
+      "album": {
         "name": "Ukukhanya",
         "url": "https://open.spotify.com/album/0jhH3kwEzUIQyNV1PjmmFI"
       },
@@ -2868,6 +2890,24 @@
       "duration_ms": 335359,
       "name": "Iphupho Lam",
       "url": "https://open.spotify.com/track/15OYu5BpZyMARsGX8e2wM0"
+    },
+    {
+      "album": {
+        "name": "Iqiniso",
+        "url": "https://open.spotify.com/album/7f4N4nm6oQ2au6fszZwjx8"
+      },
+      "artists": [
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179936,
+      "name": "Iqiniso",
+      "url": "https://open.spotify.com/track/7kU1FOddAQbqFKT6uVumg6"
     },
     {
       "album": {
@@ -4162,10 +4202,48 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 273640,
       "name": "Malume (Nta Swi Byela Mani Revisit)",
       "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
+    },
+    {
+      "album": {
+        "name": "Malume 2.0",
+        "url": "https://open.spotify.com/album/6sCZukwwhIVYLQ1NoYnEmk"
+      },
+      "artists": [
+        {
+          "name": "Elvirgo",
+          "url": "https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c"
+        },
+        {
+          "name": "TallexQ",
+          "url": "https://open.spotify.com/artist/2k7vkMXTh7VdtxYSDUORyM"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Lxrd Mordecai",
+          "url": "https://open.spotify.com/artist/3dofuSrEU77uBuFXIZ7JSg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272013,
+      "name": "Malume 2.0",
+      "url": "https://open.spotify.com/track/77uW1FJLGU0ioFZoyC1MH7"
     },
     {
       "album": {
@@ -5242,7 +5320,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 259001,
       "name": "Ngthathe",
       "url": "https://open.spotify.com/track/3TCNa3iSMFdoFiNFebLjnD"
@@ -5362,6 +5440,28 @@
       "duration_ms": 200786,
       "name": "Njalo",
       "url": "https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM"
+    },
+    {
+      "album": {
+        "name": "Njalo Njalo",
+        "url": "https://open.spotify.com/album/0v9F0YNKx4vfjzaw0krND3"
+      },
+      "artists": [
+        {
+          "name": "De Mogul SA",
+          "url": "https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC"
+        },
+        {
+          "name": "Khanya De Vocalist",
+          "url": "https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Njalo Njalo",
+      "url": "https://open.spotify.com/track/31OnQUIe0Ue1Wbd3MhFGC6"
     },
     {
       "album": {
@@ -5912,7 +6012,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 265531,
       "name": "Pula",
       "url": "https://open.spotify.com/track/7MvlJ8CAeoNuTnJgmiGcYV"
@@ -7104,7 +7204,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -7376,7 +7476,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 288235,
       "name": "Tsini Tsini",
       "url": "https://open.spotify.com/track/3inJEriFZwbiyQLLmG2Ai3"
@@ -8688,6 +8788,32 @@
       "duration_ms": 205512,
       "name": "You're Special - Ralf Gum Radio Edit",
       "url": "https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ"
+    },
+    {
+      "album": {
+        "name": "Your Figure",
+        "url": "https://open.spotify.com/album/0p8Zz7jxyH5tx8GK5wiagJ"
+      },
+      "artists": [
+        {
+          "name": "Nkanyezi Kubheka",
+          "url": "https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu"
+        },
+        {
+          "name": "Leo B",
+          "url": "https://open.spotify.com/artist/2q8GwVCQ8APjhA0tbwFPay"
+        },
+        {
+          "name": "DJ KAYSMART",
+          "url": "https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "Your Figure",
+      "url": "https://open.spotify.com/track/1Cjs5h9o9cE81TSzF8E2EX"
     },
     {
       "album": {

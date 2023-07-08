@@ -1,29 +1,13 @@
 {
   "description": "All new indie rock. Featuring new music by Blur.",
-  "num_followers": 846839,
+  "num_followers": 846857,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDg4MzkxN2FiNzBiN2Y4MjI5OGFlOWZiOTZkOGUwYjRkMjJmYmRh",
+  "snapshot_id": "MCw0OWY0NDI2ODRjMmMyM2FlMjQyNWZkNTI3MGU1ZTczZGRiNDJhZGE5",
   "tracks": [
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
@@ -89,20 +73,68 @@
       "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Mr Big Shot",
-        "url": "https://open.spotify.com/album/3RGUy7030oWwk9ZoFi1GXr"
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 176056,
-      "name": "Prepaid Wireless",
-      "url": "https://open.spotify.com/track/1c2B1ScCR9I5WCaLNrvVrj"
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
+    },
+    {
+      "added_at": "2023-07-07 21:26:40",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Melody Experiment",
+        "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 310094,
+      "name": "Melody Experiment",
+      "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -153,6 +185,38 @@
       "url": "https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Mr Big Shot",
+        "url": "https://open.spotify.com/album/3RGUy7030oWwk9ZoFi1GXr"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Prepaid Wireless",
+      "url": "https://open.spotify.com/track/1c2B1ScCR9I5WCaLNrvVrj"
+    },
+    {
+      "added_at": "2023-07-07 21:26:40",
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "duration_ms": 179416,
+      "name": "Hell of a Ride",
+      "url": "https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3"
+    },
+    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "the record",
@@ -181,20 +245,20 @@
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
+      "added_at": "2023-07-07 21:26:40",
       "album": {
-        "name": "Melody Experiment",
-        "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
+        "name": "Big Bite EP",
+        "url": "https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Hannah Cole",
+          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
         }
       ],
-      "duration_ms": 310094,
-      "name": "Melody Experiment",
-      "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
+      "duration_ms": 184293,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -211,22 +275,6 @@
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -295,6 +343,22 @@
       "duration_ms": 93452,
       "name": "LOVE + POP",
       "url": "https://open.spotify.com/track/1uirjxfV7VpwcQIoB4Z1QH"
+    },
+    {
+      "added_at": "2023-07-07 21:26:40",
+      "album": {
+        "name": "In Theory Depression",
+        "url": "https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "Are You Thinking of Me",
+      "url": "https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj"
     },
     {
       "added_at": "2023-06-02 04:00:00",

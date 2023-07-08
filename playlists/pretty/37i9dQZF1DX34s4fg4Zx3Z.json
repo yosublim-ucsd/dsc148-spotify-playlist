@@ -1,12 +1,12 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Southalid; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 18533,
+  "num_followers": 18540,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTA0NDlhMGIyMjg3MjY2ZDJlMjQyZjhhOTAyYTg2ZDcyNDgxNDJh",
+  "snapshot_id": "MCxjYTRiZTVkYzU1NTk0MjI5NjZhNGI0NGVlMWQ2YmI3YjUyZDhlYWE4",
   "tracks": [
     {
       "added_at": "2023-07-06 17:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-06 17:00:00",
       "album": {
+        "name": "C\u01a1n M\u1ed9ng T\u01b0\u1edfng",
+        "url": "https://open.spotify.com/album/6s2nODQ4COBdc1ahnUzZTR"
+      },
+      "artists": [
+        {
+          "name": "Zang",
+          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
+        }
+      ],
+      "duration_ms": 214704,
+      "name": "C\u01a1n M\u1ed9ng T\u01b0\u1edfng",
+      "url": "https://open.spotify.com/track/3owygAaSb5XdmZNaVtMZj8"
+    },
+    {
+      "added_at": "2023-07-06 17:00:00",
+      "album": {
         "name": "Do Em Sai",
         "url": "https://open.spotify.com/album/6jcTdVxIjAELzRd1SLyEMM"
       },
@@ -275,6 +291,38 @@
       "duration_ms": 235253,
       "name": "Ch\u00e2n \u00c1i C\u00f3 C\u00f2n Kh\u00f4ng",
       "url": "https://open.spotify.com/track/3s0YC7XbG6mBLIBvG1YEli"
+    },
+    {
+      "added_at": "2023-07-06 17:00:00",
+      "album": {
+        "name": "NOBODY CARES",
+        "url": "https://open.spotify.com/album/2nGDYuKXpYmWeuuKJyMZLO"
+      },
+      "artists": [
+        {
+          "name": "KayC",
+          "url": "https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8"
+        }
+      ],
+      "duration_ms": 142248,
+      "name": "NOBODY CARES",
+      "url": "https://open.spotify.com/track/7p4ZOOQVt1VPz41ycuWKhf"
+    },
+    {
+      "added_at": "2023-07-06 17:00:00",
+      "album": {
+        "name": "m\u00f9a luy\u1ebfn l\u01b0u (Prod. KayTee)",
+        "url": "https://open.spotify.com/album/0nfVRmZ9hjGMu0FnpMH2ua"
+      },
+      "artists": [
+        {
+          "name": "1nG",
+          "url": "https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ"
+        }
+      ],
+      "duration_ms": 253122,
+      "name": "m\u00f9a luy\u1ebfn l\u01b0u (Prod. KayTee)",
+      "url": "https://open.spotify.com/track/04hcNyE02jH5rOgwRe8vaE"
     },
     {
       "added_at": "2023-07-06 17:00:00",

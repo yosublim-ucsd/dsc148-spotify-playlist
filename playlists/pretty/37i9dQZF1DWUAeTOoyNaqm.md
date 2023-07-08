@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,497 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,491 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Hair Roller on a Microphone](https://open.spotify.com/track/2ckqKYZfT9g1S57ZCctlIt) | [Tabitha Rabiot](https://open.spotify.com/artist/3ViD1ngwr2KyMQNDVhEPrg) | [Hello ASMR](https://open.spotify.com/album/5wlg4JtCYhfonAzbE41gYS) | 4:09 |
 | 100 | [Noises on Paper](https://open.spotify.com/track/2XW5HApQhPm2Pf7TAAIup8) | [Orange ASMR](https://open.spotify.com/artist/1ftKBlw9xQjJGW5V8TnlYM) | [Noises to Calm](https://open.spotify.com/album/16vhiGmePAVqYUp0eguhAx) | 3:23 |
 
-Snapshot ID: `MCw1MzA2MzkwMWMyZmMzZTgxZGNiMWQ3MDRjOTdiMzIzYmM0MDM1NmM0`
+Snapshot ID: `MCwxYmFlOTFkOGEwNmJlODk5ZjY2YzIzOTU1YzkzNjZhMmQ0NGFmMGNh`

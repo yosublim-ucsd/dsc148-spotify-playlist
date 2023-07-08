@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,668 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,677 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Findsemaine](https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Tommy Kruise](https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S) | [La Coupe](https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg) | 2:52 |
 | 100 | [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 |
 
-Snapshot ID: `MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz`
+Snapshot ID: `MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx`

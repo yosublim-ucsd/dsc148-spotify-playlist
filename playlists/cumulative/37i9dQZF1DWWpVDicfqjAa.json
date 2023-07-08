@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 182400,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/1M2x142PsPtrBcRyeUbN5o"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 227100,
       "name": "Ameno Amapiano Remix (You Wanna Bamba)",
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
@@ -238,6 +238,32 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
+        "name": "Back Seat (Chris Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/1YGMmHM1bVkTfEt761AwRT"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286874,
+      "name": "Back Seat - Chris Lorenzo Remix",
+      "url": "https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K"
     },
     {
       "album": {
@@ -1318,7 +1344,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 264963,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/1baHOoZsXsqLbvEIJKRzuT"
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213000,
       "name": "Give It Up - REMETI Remix",
       "url": "https://open.spotify.com/track/1x6L5u1efLOz8DQl9PA2C4"
@@ -1904,7 +1930,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 389575,
       "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
       "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
@@ -2501,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Moving 2 The Future",
+        "url": "https://open.spotify.com/album/5YZUATxg4gASYVkzixcF8g"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368293,
+      "name": "Moving 2 The Future",
+      "url": "https://open.spotify.com/track/2r6u6Xz39eOTL39bwtqi7Z"
+    },
+    {
+      "album": {
         "name": "Black Coffee Ibiza 17 Appreciation Mix",
         "url": "https://open.spotify.com/album/0n3fBF4vz0JzQPHK97NPkC"
       },
@@ -2747,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Original Don",
+        "url": "https://open.spotify.com/album/5xU7aLhtZPJ9Zy0D6LuEz8"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Original Don",
+      "url": "https://open.spotify.com/track/2ivCsohNIlxNnLxXHnu0J5"
+    },
+    {
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -2862,6 +2924,28 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "album": {
+        "name": "MYCELiUM",
+        "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Playing Wit Ya",
+      "url": "https://open.spotify.com/track/4TI1IiXI5cJetmw4Ayiurh"
     },
     {
       "album": {
@@ -3108,6 +3192,32 @@
       "duration_ms": 162272,
       "name": "Run It (feat. Smiles Davis)",
       "url": "https://open.spotify.com/track/3AxNeTEdM7bzJV1RUDKFn6"
+    },
+    {
+      "album": {
+        "name": "Running Blind",
+        "url": "https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279088,
+      "name": "Running Blind",
+      "url": "https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up"
     },
     {
       "album": {

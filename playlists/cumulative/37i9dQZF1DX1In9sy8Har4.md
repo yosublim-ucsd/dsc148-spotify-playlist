@@ -4,14 +4,15 @@
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-19 songs - 1 hr 11 min
+20 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alla drömmar är uppfyllda](https://open.spotify.com/track/0zdIjvHllQn24vOZCzpbVu) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Rampljus](https://open.spotify.com/album/4beG5mWxyeC6IB1fetQzQn) | 5:20 | 2022-09-23 |  |
 | [Baby Teeth](https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Call Of The Wild](https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj) | 8:02 | 2022-09-23 |  |
 | [Det fina med tid](https://open.spotify.com/track/7G2kIjGqUU3iJUBQlQoC41) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Tröst och vatten](https://open.spotify.com/album/5UXggoZYAOy4l4v1vejoSp) | 1:09 | 2022-09-23 |  |
-| [Driftig](https://open.spotify.com/track/1TmmfkscxUmzbGu628xvrT) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Evin Ahmad](https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN) | [Kör vi tills att dör vi](https://open.spotify.com/album/4hcA7HaYT2RxASb4mRKWgJ) | 3:18 | 2022-09-23 |  |
+| [Driftig](https://open.spotify.com/track/1TmmfkscxUmzbGu628xvrT) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Evin Ahmad](https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN) | [Kör vi tills att dör vi](https://open.spotify.com/album/4hcA7HaYT2RxASb4mRKWgJ) | 3:18 | 2022-09-23 | 2023-07-08 |
+| [Driftig \(feat\. Evin Ahmad\)](https://open.spotify.com/track/454PxjaPn7yQGHO7bGqg1f) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Evin Ahmad](https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN) | [Kör vi tills att dör vi](https://open.spotify.com/album/4gIOT1AjdVE8yYVZTVO4kl) | 3:18 | 2022-09-23 |  |
 | [E.C.](https://open.spotify.com/track/3VNWq8rTnQG6fM1eldSpZ0) | [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h), [Chapee](https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K), [C.U.P](https://open.spotify.com/artist/1VLf7Ncxb5Jga6eyd3jh6K) | [In & ut](https://open.spotify.com/album/5m4VYOPoIpkV0XgOiRKkWC) | 2:50 | 2022-09-23 |  |
 | [Euro](https://open.spotify.com/track/73ATktpeAU9bXJbY5NJ5Xl) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Zebrapojken](https://open.spotify.com/album/6qN77v4RYa49C6Q6NdtsMR) | 3:04 | 2022-09-23 |  |
 | [Field \- Original Mix](https://open.spotify.com/track/41tTLZQDMFNGoz0SwDwbGb) | [Pistol Pete](https://open.spotify.com/artist/2D2jiryTMamF09LqDyLAOW) | [Stockholmska Ryggdunkarsaellskapet](https://open.spotify.com/album/4wDZzmU6sthhceKfl8BcjI) | 6:54 | 2022-09-23 |  |

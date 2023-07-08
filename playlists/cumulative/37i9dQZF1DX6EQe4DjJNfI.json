@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 180750,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
@@ -2532,6 +2532,24 @@
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "album": {
+        "name": "Te Perdi",
+        "url": "https://open.spotify.com/album/1v9CFk2cExFkxCL1HFqwUq"
+      },
+      "artists": [
+        {
+          "name": "Coimbra",
+          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Te Perdi",
+      "url": "https://open.spotify.com/track/21oeNPukzLguNiO8UddvFh"
     },
     {
       "album": {

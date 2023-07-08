@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 210000,
       "name": "Chan Vekhya",
       "url": "https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N"
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183756,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
+    },
+    {
+      "album": {
         "name": "Chithiyaan",
         "url": "https://open.spotify.com/album/5XDyPkPyOSt6ahOZ3CP1vi"
       },
@@ -784,6 +802,28 @@
       "duration_ms": 198119,
       "name": "Chithiyaan",
       "url": "https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL"
+    },
+    {
+      "album": {
+        "name": "Chorni",
+        "url": "https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Chorni",
+      "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
     },
     {
       "album": {
@@ -1685,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Saroor",
+        "url": "https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "MXRCI",
+          "url": "https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Ilzaam",
+      "url": "https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP"
+    },
+    {
+      "album": {
         "name": "Info",
         "url": "https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M"
       },
@@ -1774,7 +1836,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 214405,
       "name": "It Ain't Legal",
       "url": "https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ"
@@ -3206,7 +3268,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"

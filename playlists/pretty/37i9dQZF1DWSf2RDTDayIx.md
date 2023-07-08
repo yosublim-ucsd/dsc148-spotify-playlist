@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,206,520 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,207,816 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 |
 | 150 | [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 |
 
-Snapshot ID: `MCxhYmNkZTkxZDVlMWM4ZTEwODhkMjg2Y2E0MTIzYWY5ODAxNDVjMGU5`
+Snapshot ID: `MCwwYmMzYTI0MjA1MGEzZmQ1NGY0ODkzZTQ2OGRkN2M2NjU2MzUzYTFm`

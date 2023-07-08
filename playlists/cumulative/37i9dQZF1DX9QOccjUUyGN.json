@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 128841,
       "name": "Amor e Prazer",
       "url": "https://open.spotify.com/track/4goRJ2C1Jd4mdt3ZA8f3Pw"
@@ -1164,6 +1164,24 @@
       "duration_ms": 166400,
       "name": "Baseadinho na Sacada",
       "url": "https://open.spotify.com/track/65suqhYkFDL1xhJM8FN6Xo"
+    },
+    {
+      "album": {
+        "name": "Bastidores",
+        "url": "https://open.spotify.com/album/4ouew1yc6RbWn19lPOdALG"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138259,
+      "name": "Bastidores",
+      "url": "https://open.spotify.com/track/4ptOv0UKkWD7r2bb0tDdt6"
     },
     {
       "album": {
@@ -3041,6 +3059,32 @@
     },
     {
       "album": {
+        "name": "Em Slow",
+        "url": "https://open.spotify.com/album/4aOMDqx5Xdun1vifaH7v7w"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Em Slow",
+      "url": "https://open.spotify.com/track/580lbeBCQ7NgUkpfN4OkFd"
+    },
+    {
+      "album": {
         "name": "EMOJI",
         "url": "https://open.spotify.com/album/4uNWavDHlaSC2AmUL0iB7v"
       },
@@ -4621,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/5CvGXgjfXiU4AaHEgOM6Su"
+      },
+      "artists": [
+        {
+          "name": "Mc negrone",
+          "url": "https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/6iQT8I4O8rMvBWDhw4RN6S"
+    },
+    {
+      "album": {
         "name": "Percal\u00e7os",
         "url": "https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK"
       },
@@ -5002,7 +5064,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 194659,
       "name": "MD Na Water",
       "url": "https://open.spotify.com/track/3ssfQQod2LfkS2tjREVTLD"
@@ -6033,6 +6095,32 @@
     },
     {
       "album": {
+        "name": "AGL",
+        "url": "https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG"
+      },
+      "artists": [
+        {
+          "name": "Mirim",
+          "url": "https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6"
+        },
+        {
+          "name": "Pedrin",
+          "url": "https://open.spotify.com/artist/0RrC6lsh0pUpjYSWhBjZ66"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "NOITE PAULISTA",
+      "url": "https://open.spotify.com/track/2vcT8OFI7FfzrI4OGQaxT1"
+    },
+    {
+      "album": {
         "name": "Nova Vida",
         "url": "https://open.spotify.com/album/3Hvo3t9A0OvQ4pwG8X44w2"
       },
@@ -6818,7 +6906,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 275481,
       "name": "Perspectiva",
       "url": "https://open.spotify.com/track/2br82M8nY0clUue2hH6w1Y"
@@ -9326,7 +9414,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144000,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3ZPjKXcNmCrA3oxQFfXDCk"

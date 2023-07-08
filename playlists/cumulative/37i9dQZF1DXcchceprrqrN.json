@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
+    },
+    {
+      "album": {
         "name": "God Is a Circle",
         "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144466,
       "name": "THAT SUCKS!",
       "url": "https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz"

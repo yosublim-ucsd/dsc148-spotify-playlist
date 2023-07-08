@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,398 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,446 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 199 | [We Do \- Acoustic](https://open.spotify.com/track/6NwD3nqu2zcC6gS0Yb5ulp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/6QKfX2rXkdaEiJQv2nX1G8) | 2:29 |
 | 200 | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 |
 
-Snapshot ID: `MCxiMTk0Y2NiZTk3ZDNjODlkZGY3Yzg5M2E4MDlmZTNmNDEyODg4MTll`
+Snapshot ID: `MCw5NDFmYTQyNTQ0YTU4NDI5NmRhMzY0N2Y4ZWMwNjAxN2RiNjlmYjg0`

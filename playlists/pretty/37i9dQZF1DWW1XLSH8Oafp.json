@@ -1,12 +1,12 @@
 {
   "description": "ur on the list bb \ud83e\ude90 featuring DJ HEARTSTRING",
-  "num_followers": 227655,
+  "num_followers": 227764,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDIwMDk5M2E1OWVkZDVhOTM5YzYzMzBkNzA3Yjk1MzYzNzljMWFk",
+  "snapshot_id": "MCw1M2E3MDNiYzc2MTIyYjIwYmRkYTBhYzE5NjE2NTEwZTZmYWZmZmZl",
   "tracks": [
     {
       "added_at": "2023-07-06 23:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 126530,
       "name": "My Barn My Rules - Edit",
       "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -743,7 +759,7 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Make You Scream (yun\u00e9 pinku Remix)",
+        "name": "Make You Scream (yun\u00e8 pinku Remix)",
         "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
       },
       "artists": [
@@ -757,7 +773,7 @@
         }
       ],
       "duration_ms": 164105,
-      "name": "Make You Scream - yun\u00e9 pinku Remix",
+      "name": "Make You Scream - yun\u00e8 pinku Remix",
       "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
     },
     {

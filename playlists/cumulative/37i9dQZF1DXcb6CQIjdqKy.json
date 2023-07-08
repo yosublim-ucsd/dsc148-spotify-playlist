@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE?si=qjqD-NRYT4eaxEweZjO3QA\">Jason Gray</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=2350386d63e74298\">Steffany Gretzinger</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Faith Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/0vsmQMb2gvZpyknxrecP97"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190272,
+      "name": "Faith Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/3WEEXXFR9GIWmVfBmYGLhy"
+    },
+    {
+      "album": {
         "name": "Faith!?",
         "url": "https://open.spotify.com/album/6kbK2ZTWe23hURYXxjRYdT"
       },
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 416336,
       "name": "Holy",
       "url": "https://open.spotify.com/track/3QONaYEuKjD3IvYNIrMJud"
@@ -5038,6 +5056,32 @@
     {
       "album": {
         "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
+    },
+    {
+      "album": {
+        "name": "Joy In The Morning",
         "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
       "artists": [
@@ -5052,7 +5096,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 528413,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
@@ -5220,6 +5264,24 @@
       "duration_ms": 190586,
       "name": "KEEP YOUR WORD",
       "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
+    },
+    {
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197314,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX"
     },
     {
       "album": {
@@ -6687,6 +6749,28 @@
     },
     {
       "album": {
+        "name": "The Narrow Way",
+        "url": "https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390967,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
+    },
+    {
+      "album": {
         "name": "Now Here (The Collection)",
         "url": "https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc"
       },
@@ -7126,6 +7210,24 @@
       "duration_ms": 297413,
       "name": "Plans",
       "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+    },
+    {
+      "album": {
+        "name": "Plead The Blood + The Dove (Live)",
+        "url": "https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441083,
+      "name": "Plead The Blood - Live",
+      "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
     },
     {
       "album": {
@@ -8871,6 +8973,28 @@
     },
     {
       "album": {
+        "name": "Take Me to the River (I Will Swim)",
+        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176104,
+      "name": "Take Me to the River (I Will Swim)",
+      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
+    },
+    {
+      "album": {
         "name": "Church Clothes 4",
         "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
       },
@@ -9318,7 +9442,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 163421,
       "name": "The Doxology",
       "url": "https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3"

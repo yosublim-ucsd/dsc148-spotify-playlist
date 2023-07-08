@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 247384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
@@ -3197,6 +3197,32 @@
     },
     {
       "album": {
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
@@ -5564,7 +5590,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
@@ -6845,6 +6871,32 @@
     },
     {
       "album": {
+        "name": "Through the Void",
+        "url": "https://open.spotify.com/album/4QKRjD08xSGtdGXzJEh0x7"
+      },
+      "artists": [
+        {
+          "name": "SouMix",
+          "url": "https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp"
+        },
+        {
+          "name": "lightyearsaway",
+          "url": "https://open.spotify.com/artist/1Aa9xJpxW6ErjrbZ6uXErb"
+        },
+        {
+          "name": "Kobi McCoull",
+          "url": "https://open.spotify.com/artist/1mtGicicMWX3T3XXdZzzRq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Through the Void",
+      "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
+    },
+    {
+      "album": {
         "name": "Tied to You",
         "url": "https://open.spotify.com/album/30GL93GCC6ycBWmsG8w01t"
       },
@@ -7044,7 +7096,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
@@ -7950,6 +8002,28 @@
       "duration_ms": 162580,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/22UPkpMAwkxdsZnuS1tAxW"
+    },
+    {
+      "album": {
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "album": {

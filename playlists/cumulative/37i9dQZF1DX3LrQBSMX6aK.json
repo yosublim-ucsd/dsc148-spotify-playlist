@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Barsaat Mein",
+        "url": "https://open.spotify.com/album/4ciwMn6FQlWysbhPbWHinz"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 865817,
+      "name": "Barsaat Mein",
+      "url": "https://open.spotify.com/track/0K8QcGSeR2Aew9oojtuIsS"
+    },
+    {
+      "album": {
         "name": "Swar Venu",
         "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 808123,
       "name": "Hori - Thumri Raag Sohini",
       "url": "https://open.spotify.com/track/3oTddQU5p1cWeThUM59avZ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Tyler Bryant & the Shakedown",
+  "description": "The best of modern blues rock. Cover: The Cold Stares",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "album": {
         "name": "Live Evil",
         "url": "https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB"
       },
@@ -828,6 +846,24 @@
       "duration_ms": 246900,
       "name": "Don't Hold Back",
       "url": "https://open.spotify.com/track/7KuzFCe2TWROqlvBzfIuAV"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256489,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD"
     },
     {
       "album": {
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 168751,
       "name": "Got No Right",
       "url": "https://open.spotify.com/track/5RKSda8mBCmCeoGugTFfVZ"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 184676,
       "name": "Mojo Hand",
       "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"

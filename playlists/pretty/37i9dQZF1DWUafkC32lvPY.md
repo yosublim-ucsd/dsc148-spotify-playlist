@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,619 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 49 | [Trust](https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j) | [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [Quiet Process](https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc) | 2:48 |
 | 50 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 |
 
-Snapshot ID: `MCw4MDBjZDM0M2Q5NDVhZmU5YzcyZmRiY2FhZGZlMDFhMjQwNjBjZWJj`
+Snapshot ID: `MCwwZTA1NDk0NzNhY2JhNTRlZjFlYzc4MGUyZTEzZDU4ZTdmZGNlZDMy`

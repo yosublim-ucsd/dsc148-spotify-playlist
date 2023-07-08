@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,304 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,319 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [双翼の独奏歌 \- GAME VERSION](https://open.spotify.com/track/11qMi0OAhhqiabKdGnITE5) | [神崎蘭子 \(CV: 内田真礼\)](https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU), [二宮飛鳥 \(CV: 青木志貴\)](https://open.spotify.com/artist/5uxGhOFbwcOXzHkPgZ5Kwi) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:00 |
 | 75 | [共鳴世界の存在論 \- GAME VERSION](https://open.spotify.com/track/2lIxfwIkOeXU8z5bWTUMd4) | [二宮飛鳥 \(CV: 青木志貴\)](https://open.spotify.com/artist/5uxGhOFbwcOXzHkPgZ5Kwi) | [THE IDOLM@STER CINDERELLA MASTER 041〜050 GAME VERSION](https://open.spotify.com/album/1DzZkroTqMlLfkTB93o8qI) | 2:03 |
 
-Snapshot ID: `MCxmOGJlMWVkMzAwYzRmZjcwZGQ0NDlmOWY0ODMxNGE4YWQwYmMwNzM3`
+Snapshot ID: `MCw2YTQxOGMxYWYxNDFhYjE3ZmNjYzUyOGE1Y2MyNjA2Yjk5ZjQxZjgx`

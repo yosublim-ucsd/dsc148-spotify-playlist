@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: PUN
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: SLAPKISS
 
-107 songs - 6 hr 47 min
+108 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-13 | 2023-06-03 |
 | [You with me \(My number 8\)](https://open.spotify.com/track/5NQWyXEaPMBkMb52TRiSpD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [You with me \(My number 8\)](https://open.spotify.com/album/5ozK57yl5oa3xi435lGuVf) | 3:46 | 2022-09-15 | 2022-09-24 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-09-15 |  |
+| [กลัวฝันดี](https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [กลัวฝันดี](https://open.spotify.com/album/24fT89spi1h2icDiEne5UO) | 3:49 | 2023-07-07 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 | 2022-10-12 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 | 2022-10-14 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-22 |  |
@@ -51,7 +52,7 @@
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2023-04-13 | 2023-05-13 |
 | [คิดถึง](https://open.spotify.com/track/3RbIohUryKaJXeLrfrBhE3) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [คิดถึง](https://open.spotify.com/album/2RSg1hfBnFxLUzj08vsvlg) | 4:00 | 2022-09-15 | 2023-04-14 |
 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2023-04-13 |  |
-| [จงกลม \(Jongglom\)](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม \(Jongglom\)](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 | 2023-04-13 |  |
+| [จงกลม \(Jongglom\)](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม \(Jongglom\)](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 | 2023-04-13 | 2023-07-08 |
 | [จะผ่านกี่วาเลนไทน์แต่สุดท้ายก็ต้องเหงาอยู่เหมือนเดิม](https://open.spotify.com/track/2Oo2kXEHcLN6ICFJvWXB6m) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [จะผ่านกี่วาเลนไทน์แต่สุดท้ายก็ต้องเหงาอยู่เหมือนเดิม](https://open.spotify.com/album/3iwaSTaT06oZz4NvW4iasm) | 3:17 | 2023-04-13 | 2023-05-09 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-04-13 |  |
 | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC) | 4:38 | 2023-04-13 |  |

@@ -4014,7 +4014,7 @@
     {
       "album": {
         "name": "morning glow",
-        "url": "https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g"
+        "url": "https://open.spotify.com/album/2Yt5IA6dZq0lm1n0BPsxik"
       },
       "artists": [
         {
@@ -4025,6 +4025,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182747,
+      "name": "morning glow",
+      "url": "https://open.spotify.com/track/3gKtZrjO0VUPZRr6yQCzGt"
+    },
+    {
+      "album": {
+        "name": "morning glow",
+        "url": "https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
       "duration_ms": 182747,
       "name": "morning glow",
       "url": "https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN"

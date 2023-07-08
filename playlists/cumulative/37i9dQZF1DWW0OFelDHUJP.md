@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-61 songs - 4 hr 0 min
+62 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 | 2023-06-13 |  |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2023-05-09 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/4EfSRHhktOOws6orxZIx9g) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Papon the Story So Far](https://open.spotify.com/album/3cjwBxyFUkiGPtlkVZ168k) | 5:59 | 2023-05-09 |  |
+| [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarish Lete Aana](https://open.spotify.com/track/6Oq4lIhSSYdA6WuXU9sPeG) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Baarish Lete Aana](https://open.spotify.com/album/3tkdlEXR8nSZ7hoSSSyoaV) | 3:33 | 2023-05-09 |  |
 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-05-09 |  |
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2023-05-09 |  |
@@ -32,7 +33,7 @@
 | [Fitoor](https://open.spotify.com/track/4I35ErVutf66jpJm5lUebS) | [Atteev](https://open.spotify.com/artist/6rx7dBsDlJ6XnpCir8Fmtw) | [Fitoor](https://open.spotify.com/album/159WlQRdab1pScGpBtY4Nw) | 2:58 | 2023-05-09 |  |
 | [Ghazal Ka Saaz](https://open.spotify.com/track/0fl9c9g0a5osdDNdA9vLmb) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Ghazal Ka Saaz](https://open.spotify.com/album/42IzjSWHGQMbms8DFIbVrn) | 5:33 | 2023-05-09 |  |
 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 | 2023-05-09 |  |
-| [Halki Si Barsaat](https://open.spotify.com/track/0YxzH0SUc10Vw4yLFqU06I) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Halki Si Barsaat](https://open.spotify.com/album/35yQ4yVSjSbSMMiTME1ekM) | 3:32 | 2023-05-09 |  |
+| [Halki Si Barsaat](https://open.spotify.com/track/0YxzH0SUc10Vw4yLFqU06I) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Halki Si Barsaat](https://open.spotify.com/album/35yQ4yVSjSbSMMiTME1ekM) | 3:32 | 2023-05-09 | 2023-07-08 |
 | [Humse Khafa](https://open.spotify.com/track/5JbvDBWAFvOnlr53Q9cD5P) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Humse Khafa](https://open.spotify.com/album/1MMpS9n2JdNIN1q4Fr3K1H) | 4:00 | 2023-05-09 |  |
 | [Ja Tujhko](https://open.spotify.com/track/2XLjGMZHV31QJGwbALFj95) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/0ua1PXspnCoxFYjdpgxjJy) | 6:05 | 2023-05-09 |  |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2023-05-09 |  |

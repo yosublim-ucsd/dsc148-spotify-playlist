@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,498 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,112 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Final Song \- Diplo & Jauz Remix](https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Final Song \(Diplo & Jauz Remix\)](https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK) | 3:10 |
 | 100 | [Still Falling For You \- Jonas Blue Remix](https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Still Falling For You \(Jonas Blue Remix\)](https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM) | 3:08 |
 
-Snapshot ID: `MCwxZWU3ZjBjMTAzZjA2MGZhMWIzMDQ0Yzc3ODkxOTQxMGZmMzkwZjQ2`
+Snapshot ID: `MCw5MmU1NWM4NmIyNDhiOTQ2OGNkZDA4NGVhMWE4YTUyOWE4NTYzMTBh`

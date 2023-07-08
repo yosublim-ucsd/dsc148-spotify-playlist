@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 5832931,
+  "num_followers": 5843283,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTJlNjY1ODcyNDcyNmRmNWE2YTQ1Y2E2NjdiMTY5MTAzYTQ3OGVk",
+  "snapshot_id": "MCxmMDc1NWM3OGEyMjZjNTVjYmM0OGZkNDM4ODg1MWIwOTQ4NDliZGYx",
   "tracks": [
     {
       "added_at": "2022-05-20 10:12:52",
@@ -39,6 +39,22 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2023-06-02 17:32:35",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
     },
     {
       "added_at": "2022-10-14 08:20:18",
@@ -149,22 +165,6 @@
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
-      "added_at": "2023-06-02 17:32:35",
-      "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        }
-      ],
-      "duration_ms": 61673,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
-    },
-    {
       "added_at": "2023-06-16 13:47:05",
       "album": {
         "name": "Sequ\u00eancia da Dz7",
@@ -223,6 +223,22 @@
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2023-06-09 13:51:36",
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
     },
     {
       "added_at": "2022-11-11 07:32:56",
@@ -405,38 +421,6 @@
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
-      "added_at": "2021-07-02 08:33:01",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2023-06-09 13:51:36",
-      "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
-      },
-      "artists": [
-        {
-          "name": "NXVAMANE",
-          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
-        }
-      ],
-      "duration_ms": 68687,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
-    },
-    {
       "added_at": "2023-03-31 15:56:27",
       "album": {
         "name": "RITMADINHA DAN\u00c7ANTE",
@@ -453,20 +437,40 @@
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
     },
     {
-      "added_at": "2023-06-23 15:45:22",
+      "added_at": "2021-07-02 08:33:01",
       "album": {
-        "name": "One Chance",
-        "url": "https://open.spotify.com/album/60MO7zUtQgy8pFxyDD43yY"
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         }
       ],
-      "duration_ms": 131368,
-      "name": "One Chance",
-      "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2023-07-07 17:01:13",
+      "album": {
+        "name": "Mexican Phonk Eki",
+        "url": "https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 98067,
+      "name": "Mexican Phonk Eki",
+      "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
     },
     {
       "added_at": "2023-05-19 15:58:05",
@@ -669,44 +673,36 @@
       "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
     },
     {
-      "added_at": "2022-11-18 07:52:46",
+      "added_at": "2023-06-23 15:45:22",
       "album": {
-        "name": "Phonk Drift",
-        "url": "https://open.spotify.com/album/4wTUsg32G9PscOlpHDV1B5"
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/60MO7zUtQgy8pFxyDD43yY"
       },
       "artists": [
         {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Lastfragment",
-          "url": "https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A"
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
         }
       ],
-      "duration_ms": 121417,
-      "name": "Phonk Drift",
-      "url": "https://open.spotify.com/track/16nj3NeIiDUCRrdZmi7jmm"
+      "duration_ms": 131368,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
     },
     {
-      "added_at": "2022-09-02 08:01:31",
+      "added_at": "2023-07-07 17:01:13",
       "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+        "name": "dead and toxic",
+        "url": "https://open.spotify.com/album/1s4TSIjB2bkiWfMP63Vbdk"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
         }
       ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+      "duration_ms": 104379,
+      "name": "dead and toxic",
+      "url": "https://open.spotify.com/track/6u8BcCHUWhAhV0DLeFqTTp"
     },
     {
       "added_at": "2022-09-23 07:48:31",
@@ -723,6 +719,46 @@
       "duration_ms": 142940,
       "name": "WAKE UP!",
       "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2023-06-30 16:50:50",
+      "album": {
+        "name": "MTG - PISTA TOMA",
+        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
+      },
+      "artists": [
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "MTG - PISTA TOMA",
+      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
+      "added_at": "2023-07-07 17:01:13",
+      "album": {
+        "name": "THE AUTOTREM 1.0",
+        "url": "https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB"
+      },
+      "artists": [
+        {
+          "name": "DJ RICK 013",
+          "url": "https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "THE AUTOTREM 1.0",
+      "url": "https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ"
     },
     {
       "added_at": "2022-11-18 07:52:46",
@@ -763,30 +799,6 @@
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
-    },
-    {
-      "added_at": "2023-06-30 16:50:50",
-      "album": {
-        "name": "MTG - PISTA TOMA",
-        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
-      },
-      "artists": [
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "John Bis.T",
-          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "MTG - PISTA TOMA",
-      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
     },
     {
       "added_at": "2021-05-12 14:02:59",
@@ -849,6 +861,26 @@
       "url": "https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7"
     },
     {
+      "added_at": "2022-09-02 08:01:31",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
       "added_at": "2023-04-11 14:50:01",
       "album": {
         "name": "MTG - REBOLA NO MEU C4RALHO",
@@ -899,30 +931,6 @@
     {
       "added_at": "2023-06-09 13:51:36",
       "album": {
-        "name": "Coopa",
-        "url": "https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI"
-      },
-      "artists": [
-        {
-          "name": "Kiraw",
-          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
-        },
-        {
-          "name": "ARXMANE",
-          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        }
-      ],
-      "duration_ms": 89600,
-      "name": "Coopa",
-      "url": "https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek"
-    },
-    {
-      "added_at": "2023-06-09 13:51:36",
-      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -955,6 +963,22 @@
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
+    },
+    {
+      "added_at": "2023-07-07 17:01:13",
+      "album": {
+        "name": "KAMI",
+        "url": "https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6"
+      },
+      "artists": [
+        {
+          "name": "DR M\u00d8B",
+          "url": "https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe"
+        }
+      ],
+      "duration_ms": 87679,
+      "name": "KAMI",
+      "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
     },
     {
       "added_at": "2022-12-16 08:06:05",
@@ -1149,30 +1173,6 @@
       "url": "https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB"
     },
     {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "TUTUTUTU",
-        "url": "https://open.spotify.com/album/3C8KRtsp5zhPygChNCDQOS"
-      },
-      "artists": [
-        {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
-        },
-        {
-          "name": "GREEN ORXNGE",
-          "url": "https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "TUTUTUTU",
-      "url": "https://open.spotify.com/track/4SpoYb5BcvxihVT6JfvebK"
-    },
-    {
       "added_at": "2023-06-30 16:50:50",
       "album": {
         "name": "Heavenly Key",
@@ -1203,22 +1203,6 @@
       "duration_ms": 77217,
       "name": "Comecar",
       "url": "https://open.spotify.com/track/3WrHkFPgZ4zHa7eyeLe6Gg"
-    },
-    {
-      "added_at": "2023-04-14 17:01:25",
-      "album": {
-        "name": "CAFFEINEE",
-        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
-      },
-      "artists": [
-        {
-          "name": "DEHA INC.",
-          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
-        }
-      ],
-      "duration_ms": 104521,
-      "name": "PHONK (200mg)",
-      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
     },
     {
       "added_at": "2022-12-02 08:05:12",
@@ -1361,6 +1345,26 @@
       "url": "https://open.spotify.com/track/25rD6io5RD18u7Us6OJgES"
     },
     {
+      "added_at": "2022-11-18 07:52:46",
+      "album": {
+        "name": "Phonk Drift",
+        "url": "https://open.spotify.com/album/4wTUsg32G9PscOlpHDV1B5"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Lastfragment",
+          "url": "https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Phonk Drift",
+      "url": "https://open.spotify.com/track/16nj3NeIiDUCRrdZmi7jmm"
+    },
+    {
       "added_at": "2023-05-12 13:58:46",
       "album": {
         "name": "SUCCUMB",
@@ -1375,26 +1379,6 @@
       "duration_ms": 174880,
       "name": "SUCCUMB",
       "url": "https://open.spotify.com/track/4sKzGxtYdkGAu92sQPOGqF"
-    },
-    {
-      "added_at": "2023-02-10 16:54:18",
-      "album": {
-        "name": "MOZART PHONK",
-        "url": "https://open.spotify.com/album/1fmKvCpuWKniXwgsALsoIT"
-      },
-      "artists": [
-        {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
-        }
-      ],
-      "duration_ms": 73220,
-      "name": "MOZART PHONK",
-      "url": "https://open.spotify.com/track/4uA4FfwW15P8PguZ1uOlpl"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 137142,
       "name": "LET'S RIDE! - Drift Phonk",
       "url": "https://open.spotify.com/track/2DjfjCE8rJU7FLg5pg06hY"
+    },
+    {
+      "added_at": "2023-04-14 17:01:25",
+      "album": {
+        "name": "CAFFEINEE",
+        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "duration_ms": 104521,
+      "name": "PHONK (200mg)",
+      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1795,22 +1795,6 @@
       "duration_ms": 105486,
       "name": "dropitlikeitshot!",
       "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-06-16 13:47:05",
-      "album": {
-        "name": "Cherkasy",
-        "url": "https://open.spotify.com/album/3ttszSnIyf2lEQ4aBpdSwz"
-      },
-      "artists": [
-        {
-          "name": "STXSTN",
-          "url": "https://open.spotify.com/artist/0WwRpWlY0zydek63QwSbEU"
-        }
-      ],
-      "duration_ms": 135283,
-      "name": "Cherkasy",
-      "url": "https://open.spotify.com/track/7AwEf13kPKduketZxRA6jr"
     },
     {
       "added_at": "2021-05-12 14:02:59",

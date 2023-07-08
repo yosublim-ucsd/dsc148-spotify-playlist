@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,447 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,480 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 |
 | 80 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 |
 
-Snapshot ID: `MCxhNGMyNzYwOGZmZjc3MDkwNGI2OTZmNzEzMzM2MzZkMzU3ZDhkNDRj`
+Snapshot ID: `MCw0ZWVmNWM5NmQxNDE1YmUzYjliNWJkMmU1ZDE3MzRhNTk4NjU0MDZh`

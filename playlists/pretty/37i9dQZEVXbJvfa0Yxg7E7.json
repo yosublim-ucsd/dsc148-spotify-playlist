@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 538206,
+  "num_followers": 538440,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyMDEwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyMDk2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Haien Kommer (Sharkdog)",
         "url": "https://open.spotify.com/album/1cWmabFDCXJPWv5Zxf0D0U"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Sommerhus",
         "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -97,7 +97,23 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "LOVE </3",
         "url": "https://open.spotify.com/album/0UfIJilXpMOcxXrDCKsVvB"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/6kVEgWFjI0ECI8eH84ljS1"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Turn\u00e9",
         "url": "https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW"
@@ -133,55 +149,7 @@
       "url": "https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Superstars (mageplask)",
-        "url": "https://open.spotify.com/album/5WJLZ54uK7ni636O65EztT"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Superstars (mageplask)",
-      "url": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "postkort alicante",
-        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 121198,
-      "name": "leve",
-      "url": "https://open.spotify.com/track/6d9s0vEuwplNtUGzch47Od"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Badebussen (feat. Kjartan Lauritzen)",
         "url": "https://open.spotify.com/album/4MYKiIrk0MXrgthFJTgKe9"
@@ -201,7 +169,71 @@
       "url": "https://open.spotify.com/track/5F8c71PbayLIedqmjskrhM"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Superstars (mageplask)",
+        "url": "https://open.spotify.com/album/5WJLZ54uK7ni636O65EztT"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Superstars (mageplask)",
+      "url": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 121198,
+      "name": "leve",
+      "url": "https://open.spotify.com/track/6d9s0vEuwplNtUGzch47Od"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 154762,
+      "name": "Klikk",
+      "url": "https://open.spotify.com/track/5OGnojWHysrkcgLzBAj2SA"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Alle Vil V\u00e6re Med (Piruss)",
         "url": "https://open.spotify.com/album/3Sg8exAlKERUaDzT6QWBb2"
@@ -221,39 +253,7 @@
       "url": "https://open.spotify.com/track/28ZIMgajc3paWJYhWOViZn"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 154762,
-      "name": "Klikk",
-      "url": "https://open.spotify.com/track/5OGnojWHysrkcgLzBAj2SA"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -269,7 +269,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "UNDERGRUNN",
         "url": "https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Floden",
         "url": "https://open.spotify.com/album/1cf4WYmYaJP4vxvPwJphVv"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/6TYFXyFTDZ6qwFPuBJfWpK"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -361,23 +377,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Langt av sted",
-        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Langt av sted",
-      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/6crdBPeAtR9UjRJe55OyMY"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/0oQOmpUTham7BqNPAMBImy"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -413,39 +413,23 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "Langt av sted",
+        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+      "duration_ms": 160813,
+      "name": "Langt av sted",
+      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Josefin (AI Cover)",
-        "url": "https://open.spotify.com/album/3Jouru1hHZ6vRjiQPEX7B2"
-      },
-      "artists": [
-        {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Josefin - AI Cover",
-      "url": "https://open.spotify.com/track/3J7GTLlFtiGAms10D1b8Ml"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Idiot",
         "url": "https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n"
@@ -465,7 +449,7 @@
       "url": "https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
@@ -481,7 +465,7 @@
       "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
@@ -497,7 +481,7 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -517,23 +501,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "brenner",
-        "url": "https://open.spotify.com/album/2pnWmKba0tbH52Lwhb1NLg"
-      },
-      "artists": [
-        {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
-        }
-      ],
-      "duration_ms": 195393,
-      "name": "brenner",
-      "url": "https://open.spotify.com/track/7JDC0jqJHDXgkJWy6jkqYE"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -557,23 +525,23 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
-        "name": "That Guy",
-        "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
+        "name": "brenner",
+        "url": "https://open.spotify.com/album/2pnWmKba0tbH52Lwhb1NLg"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
         }
       ],
-      "duration_ms": 154866,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
+      "duration_ms": 195393,
+      "name": "brenner",
+      "url": "https://open.spotify.com/track/7JDC0jqJHDXgkJWy6jkqYE"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Melis",
         "url": "https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj"
@@ -589,7 +557,59 @@
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Josefin (AI Cover)",
+        "url": "https://open.spotify.com/album/3Jouru1hHZ6vRjiQPEX7B2"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Josefin - AI Cover",
+      "url": "https://open.spotify.com/track/3J7GTLlFtiGAms10D1b8Ml"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6ZLiI489DlkvFa423lSMKh"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        }
+      ],
+      "duration_ms": 112906,
+      "name": "1",
+      "url": "https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
@@ -621,7 +641,47 @@
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Dans P\u00e5 Bordet",
+        "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "David Mokel",
+          "url": "https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Dans P\u00e5 Bordet",
+      "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Danse En Gang Til",
+        "url": "https://open.spotify.com/album/74Qv3cAEDDCbGu2kAA09zj"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        },
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 128795,
+      "name": "Danse En Gang Til",
+      "url": "https://open.spotify.com/track/4EtmxzuZK9NvRjdlpHD229"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
         "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
@@ -649,7 +709,7 @@
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Glem meg, men jeg glemmer aldri",
         "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
@@ -665,7 +725,7 @@
       "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
@@ -681,7 +741,23 @@
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Sett deg ned",
+        "url": "https://open.spotify.com/album/5eouipHgEPOxFSGwIcZGO4"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sett deg ned",
+      "url": "https://open.spotify.com/track/3gZrQYFNYJmRKeVcZMHy8w"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -705,99 +781,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Danse En Gang Til",
-        "url": "https://open.spotify.com/album/74Qv3cAEDDCbGu2kAA09zj"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        },
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 128795,
-      "name": "Danse En Gang Til",
-      "url": "https://open.spotify.com/track/4EtmxzuZK9NvRjdlpHD229"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Same Again (For Love)",
-        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 199969,
-      "name": "Same Again (For Love)",
-      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/6ZLiI489DlkvFa423lSMKh"
-      },
-      "artists": [
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
-        }
-      ],
-      "duration_ms": 112906,
-      "name": "1",
-      "url": "https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Dans P\u00e5 Bordet",
-        "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "David Mokel",
-          "url": "https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Dans P\u00e5 Bordet",
-      "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "Sett deg ned",
-        "url": "https://open.spotify.com/album/5eouipHgEPOxFSGwIcZGO4"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sett deg ned",
-      "url": "https://open.spotify.com/track/3gZrQYFNYJmRKeVcZMHy8w"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Alt jeg ser",
         "url": "https://open.spotify.com/album/5KFS4TRraoNHXh9VCk1tgd"
@@ -817,7 +801,39 @@
       "url": "https://open.spotify.com/track/46BBN88LgNvprNZZdxwv46"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Same Again (For Love)",
+        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 199969,
+      "name": "Same Again (For Love)",
+      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
@@ -833,27 +849,7 @@
       "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "HJERTET MITT ER HELT OK",
-        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
-      },
-      "artists": [
-        {
-          "name": "Hkeem",
-          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
-        },
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "HJERTET MITT ER HELT OK",
-      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
@@ -873,7 +869,27 @@
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
-      "added_at": "2023-07-06 09:24:41",
+      "added_at": "2023-07-07 10:50:13",
+      "album": {
+        "name": "HJERTET MITT ER HELT OK",
+        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+      },
+      "artists": [
+        {
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        },
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "HJERTET MITT ER HELT OK",
+      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+    },
+    {
+      "added_at": "2023-07-07 10:50:13",
       "album": {
         "name": "Sjanse",
         "url": "https://open.spotify.com/album/7DC2fbntLBHzWTjbkDoLxI"
@@ -887,22 +903,6 @@
       "duration_ms": 180000,
       "name": "Sjanse",
       "url": "https://open.spotify.com/track/3BlC5oQOpIB9F6tsgjAT78"
-    },
-    {
-      "added_at": "2023-07-06 09:24:41",
-      "album": {
-        "name": "INSTRUMENT",
-        "url": "https://open.spotify.com/album/0rlLiCVMUCxiFqlkSvYE1H"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "EG VIL BARE DANSE",
-      "url": "https://open.spotify.com/track/68UkGt4E8DSiHwg4yCusFQ"
     }
   ],
   "unique_name": "Top 50 - Norway",

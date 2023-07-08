@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
@@ -294,6 +294,28 @@
       "duration_ms": 231146,
       "name": "ADQSP",
       "url": "https://open.spotify.com/track/2AodqqO5Ea4xk8Gl4lJyMg"
+    },
+    {
+      "album": {
+        "name": "AFTER LIFE",
+        "url": "https://open.spotify.com/album/0eUknYuCMoW1GyQP3Cl0rA"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        },
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217096,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/2uHw8t8dMkKs7zEeCb5GC6"
     },
     {
       "album": {
@@ -836,6 +858,28 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "album": {
+        "name": "PROSAAK",
+        "url": "https://open.spotify.com/album/7rE22wenT3LL4eBSxkzD8z"
+      },
+      "artists": [
+        {
+          "name": "Saak",
+          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/5x5J4t82QSVpPxVT0sctSk"
     },
     {
       "album": {
@@ -2726,7 +2770,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 294193,
       "name": "Malos H\u00e1bitos",
       "url": "https://open.spotify.com/track/6fdkiOyxROSsavYjeTeMP6"
@@ -2988,7 +3032,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174626,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
@@ -3453,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276623,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
+    },
+    {
+      "album": {
         "name": "Sigma",
         "url": "https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb"
       },
@@ -3844,7 +3910,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136973,
       "name": "QCVH",
       "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
@@ -4150,6 +4216,24 @@
       "duration_ms": 171000,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV"
+    },
+    {
+      "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "album": {

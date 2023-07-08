@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Bajo la Luna",
+        "url": "https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Bajo la Luna",
+      "url": "https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L"
+    },
+    {
+      "album": {
         "name": "Beber De Tu Sangre XXX",
         "url": "https://open.spotify.com/album/4xMrf9KNtKd0u2Go1qrJWc"
       },
@@ -904,6 +922,24 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "album": {
+        "name": "Elemento (Noches De Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223990,
+      "name": "Elemento - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "album": {
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 252694,
       "name": "Mexicale\u00f1o Swing",
       "url": "https://open.spotify.com/track/3jgnK3xfhSf0bev5VhgdZQ"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 267122,
       "name": "Pistolero",
       "url": "https://open.spotify.com/track/1vF20zbofrrIChbnFM0DwT"

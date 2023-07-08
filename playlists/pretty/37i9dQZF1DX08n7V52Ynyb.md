@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,618 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,668 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 |
 | 100 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 |
 
-Snapshot ID: `MCxiOTk3MjFjODc2NGVhMTRjZDFmN2NjMDM5NmNiMDc2MzAzNzQxOTY4`
+Snapshot ID: `MCw4Y2FlNTJmZjU2ZDM4YWMxZjkyNzRkZTVhNDhlMDYwMTAyNzcyOTBj`

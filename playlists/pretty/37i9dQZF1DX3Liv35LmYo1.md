@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,596 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,604 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Domenico](https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Domenico](https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne) | 4:58 |
 | 50 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |
 
-Snapshot ID: `MCxiNGE5ZDNkNDNhZWUyM2IyOWUxMzZkN2I1OTc5Yzc2NGVlMmQ4MDI3`
+Snapshot ID: `MCxmMjhhYzg5NWYzMzk3OGM3MWZlMmI1ZmZmZTc5N2YwMmFkYjE4MDJl`

@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Baarish Ki Boondein",
+        "url": "https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m"
+      },
+      "artists": [
+        {
+          "name": "Vibhas Arora",
+          "url": "https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Baarish Ki Boondein",
+      "url": "https://open.spotify.com/track/18FhNEar51YMYXureTvkIn"
+    },
+    {
+      "album": {
         "name": "Baarishein Lana",
         "url": "https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ"
       },
@@ -270,7 +288,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 164571,
       "name": "Bade Achhe Lagte Hain",
       "url": "https://open.spotify.com/track/6Vl1npfEdPnhtZ26xtpE7Z"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 135125,
       "name": "DARMIYAN",
       "url": "https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 161076,
       "name": "Faisle (Acoustic)",
       "url": "https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX"
@@ -1272,10 +1290,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 226923,
       "name": "Khwaish",
       "url": "https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6"
+    },
+    {
+      "album": {
+        "name": "Kivein Mukhade",
+        "url": "https://open.spotify.com/album/7dK1nmyjIuvBb1OZEpZlL8"
+      },
+      "artists": [
+        {
+          "name": "Harjot K Dhillon",
+          "url": "https://open.spotify.com/artist/0OR1HFAannTqpzRH4Efq5Z"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141358,
+      "name": "Kivein Mukhade",
+      "url": "https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE"
     },
     {
       "album": {
@@ -1294,6 +1330,24 @@
       "duration_ms": 152727,
       "name": "Kuch Kam",
       "url": "https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM"
+    },
+    {
+      "album": {
+        "name": "Kya Bataya",
+        "url": "https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt"
+      },
+      "artists": [
+        {
+          "name": "Vicky sandhu",
+          "url": "https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Kya Bataya",
+      "url": "https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY"
     },
     {
       "album": {
@@ -1446,7 +1500,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174720,
       "name": "Malang Sa - Acoustic",
       "url": "https://open.spotify.com/track/2Eai5asMu911MtRd4eyHHF"
@@ -1720,6 +1774,24 @@
       "duration_ms": 247999,
       "name": "Panchi",
       "url": "https://open.spotify.com/track/1YMbppfdFjeEFaeAwMwzuK"
+    },
+    {
+      "album": {
+        "name": "Parinda",
+        "url": "https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Parinda",
+      "url": "https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT"
     },
     {
       "album": {
@@ -2324,6 +2396,24 @@
       "duration_ms": 175638,
       "name": "Tu Jae Jahan",
       "url": "https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9"
+    },
+    {
+      "album": {
+        "name": "Tu Jo Paas (Raw)",
+        "url": "https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214034,
+      "name": "Tu Jo Paas (Raw)",
+      "url": "https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b"
     },
     {
       "album": {

@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/3ywlj8aHrRMcJrBYHCkW3g"
       },
@@ -136,7 +158,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 247500,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/7itlSXJ0hJCaUiVrftOjQT"
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 247133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
@@ -1717,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1mXNE9oOFEyeQJI71JrLnb"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/35lgENmxCZM0H2StqdksBk"
+    },
+    {
+      "album": {
         "name": "Figures",
         "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
       },
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 152590,
       "name": "Figures",
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
@@ -2334,7 +2374,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 158859,
       "name": "Hey Papi - Edit",
       "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
@@ -3061,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Landing Soft",
+        "url": "https://open.spotify.com/album/2sloXrWOoeQEYvqyj2YiVo"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218389,
+      "name": "Landing Soft",
+      "url": "https://open.spotify.com/track/3s3xMjzpkacG8DT07L7EdT"
+    },
+    {
+      "album": {
         "name": "Lessons (Remix)",
         "url": "https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl"
       },
@@ -3328,6 +3386,24 @@
       "duration_ms": 143960,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
+    },
+    {
+      "album": {
+        "name": "4 Degrees Of Separation",
+        "url": "https://open.spotify.com/album/4SfyvtDprkEXIxkqrvg8BK"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259252,
+      "name": "Love, Trust, Patience",
+      "url": "https://open.spotify.com/track/1XZXN8ELKBUa5Aq8ggCzfu"
     },
     {
       "album": {
@@ -3686,6 +3762,32 @@
       "duration_ms": 212727,
       "name": "Move",
       "url": "https://open.spotify.com/track/6AjQWeiO9fjbdst7QZeYDG"
+    },
+    {
+      "album": {
+        "name": "My Phone Can Die",
+        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179508,
+      "name": "My Phone Can Die",
+      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
       "album": {
@@ -4123,6 +4225,28 @@
     },
     {
       "album": {
+        "name": "DIAMONDS & FREAKS",
+        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201017,
+      "name": "PINK MARMALADE",
+      "url": "https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv"
+    },
+    {
+      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -4138,7 +4262,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
@@ -4276,7 +4400,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 207340,
       "name": "Real Good",
       "url": "https://open.spotify.com/track/4ScOLLhNjhOJWobYBgkQqv"
@@ -4817,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "Simple Love Songs - Extended Version",
+        "url": "https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171839,
+      "name": "Simple Love Songs - Extended Version",
+      "url": "https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol"
+    },
+    {
+      "album": {
         "name": "Hasta en los sue\u00f1os...",
         "url": "https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL"
       },
@@ -5070,7 +5212,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 233036,
       "name": "Spit Up",
       "url": "https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F"
@@ -5486,7 +5628,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 192866,
       "name": "Switch Off",
       "url": "https://open.spotify.com/track/2xOo8c47vtBnAVI2ojjxHk"
@@ -5795,6 +5937,32 @@
     },
     {
       "album": {
+        "name": "A Kid From Yerevan",
+        "url": "https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Lola Vialet",
+          "url": "https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD"
+        },
+        {
+          "name": "UHMEER",
+          "url": "https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317647,
+      "name": "Text Me When You Get Home",
+      "url": "https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt"
+    },
+    {
+      "album": {
         "name": "That Secret Sauce",
         "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
       },
@@ -5850,7 +6018,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 255053,
       "name": "The Mood (feat. D Smoke)",
       "url": "https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0"
@@ -6000,6 +6168,28 @@
       "duration_ms": 138666,
       "name": "There's Too Much Of You",
       "url": "https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f"
+    },
+    {
+      "album": {
+        "name": "Through The Night (feat. Free Nationals)",
+        "url": "https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "Through The Night (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
     },
     {
       "album": {

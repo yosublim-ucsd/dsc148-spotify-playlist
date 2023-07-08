@@ -1704,10 +1704,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26"
+    },
+    {
+      "album": {
+        "name": "Alonica",
+        "url": "https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
     },
     {
       "album": {
@@ -9143,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -9779,20 +9819,24 @@
     },
     {
       "album": {
-        "name": "Draai Terug de Tijd",
+        "name": "Draai Terug De Tijd",
         "url": "https://open.spotify.com/album/0JP1faEcGqQER2k9cN2tRt"
       },
       "artists": [
         {
           "name": "Fresku",
           "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        },
+        {
+          "name": "Jennie Lena",
+          "url": "https://open.spotify.com/artist/69YjsiBzjT9ZPbngJlO0Rm"
         }
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 289841,
-      "name": "Draai Terug de Tijd",
+      "name": "Draai Terug De Tijd",
       "url": "https://open.spotify.com/track/1aS7NHq5rPp4F5EBMUbPgT"
     },
     {
@@ -11888,6 +11932,28 @@
       "duration_ms": 188891,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "album": {
@@ -15928,6 +15994,24 @@
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
       "album": {
@@ -20698,6 +20782,10 @@
         {
           "name": "Montana",
           "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+        },
+        {
+          "name": "Della Fox",
+          "url": "https://open.spotify.com/artist/76GFGvQ277N1FDxl4e9alb"
         }
       ],
       "date_added": "2023-07-06",
@@ -21024,6 +21112,24 @@
     {
       "album": {
         "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Lwonesome Tonight",
+      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
+    },
+    {
+      "album": {
+        "name": "I Inside the Old Year Dying",
         "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
       },
       "artists": [
@@ -21034,7 +21140,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
       "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
@@ -26957,6 +27063,28 @@
     },
     {
       "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "album": {
         "name": "Verbinding",
         "url": "https://open.spotify.com/album/2cPEG61GY9UQVPuI00YRMw"
       },
@@ -27141,6 +27269,24 @@
     },
     {
       "album": {
+        "name": "DBE World",
+        "url": "https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb"
+    },
+    {
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY"
       },
@@ -27152,7 +27298,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 160781,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz"
@@ -32407,6 +32553,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
         "name": "Back To Us (Deluxe)",
         "url": "https://open.spotify.com/album/3NTMf87ZofrntJo8rEjQxW"
       },
@@ -32600,6 +32764,24 @@
     {
       "album": {
         "name": "Sympathy",
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185831,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
+    },
+    {
+      "album": {
+        "name": "Sympathy",
         "url": "https://open.spotify.com/album/3VKJDU84vhkchLpGVGNrD7"
       },
       "artists": [
@@ -32610,7 +32792,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 185831,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/2uzFtOYSUQkNFlIl7HhTT9"
@@ -34124,6 +34306,24 @@
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
+    },
+    {
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/3Xtl0u7KD7SSMSPfavCOPB"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121709,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/6fiz1XTowkiuhsxCT9Bcdf"
     },
     {
       "album": {

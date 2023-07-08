@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,752 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,759 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
 | 50 | [Calm Down \- Dennis Bovell dUb Remix](https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Calm Down \(Dennis Bovell dUb Remix\)](https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL) | 3:15 |
 
-Snapshot ID: `MCxjYTJjMjk0YWQ0MDk0YzJlZDhmZWM5YjhjNDg4YWIyMzk5NDJiYzdk`
+Snapshot ID: `MCw0NjE1ODNlN2VmOGQ1ZWE3YzI4OWY1MGRjOGQyOGQ0ZTlhMGFhZWYy`

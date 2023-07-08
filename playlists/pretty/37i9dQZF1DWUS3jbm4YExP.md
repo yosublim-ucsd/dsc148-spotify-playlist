@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,216 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,540 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Comencemos \(Let's Start\)](https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Tropicoso](https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz) | 2:32 |
 | 100 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
 
-Snapshot ID: `MCwzNzA2Y2VhMjliYmZlOTA3ZTg2YTA2MWYxMjhiN2U0MDY4ZjkzYjc5`
+Snapshot ID: `MCw1NTlkYjI5ZDZhMjViMTYyYTgxOWU3ODYwZjc5NDc3MTRlNzMwYzFl`

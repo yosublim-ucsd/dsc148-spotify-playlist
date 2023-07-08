@@ -440,7 +440,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 303878,
       "name": "A\u00f1ejo W",
       "url": "https://open.spotify.com/track/1mOhRdYfCMLbyzrQPPcGMG"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
@@ -2132,6 +2132,28 @@
       "duration_ms": 199541,
       "name": "La Bolsa",
       "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
+    },
+    {
+      "album": {
+        "name": "La Boni",
+        "url": "https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F"
+      },
+      "artists": [
+        {
+          "name": "Malacates Trebol Shop",
+          "url": "https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207663,
+      "name": "La Boni",
+      "url": "https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ"
     },
     {
       "album": {
@@ -4251,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "album": {
         "name": "Vasos Vacios",
         "url": "https://open.spotify.com/album/7fOv9NQRH5UWZq0EfUk1YE"
       },
@@ -4564,6 +4608,24 @@
       "duration_ms": 145285,
       "name": "Somos",
       "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
+    },
+    {
+      "album": {
+        "name": "Somos de Aqu\u00ed y de All\u00e1",
+        "url": "https://open.spotify.com/album/37U305QpECv1h7yNo6t941"
+      },
+      "artists": [
+        {
+          "name": "MEZ-K",
+          "url": "https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155726,
+      "name": "Somos de Aqu\u00ed y de All\u00e1",
+      "url": "https://open.spotify.com/track/3rr9eyzXc0M8NuqvYZ67y8"
     },
     {
       "album": {
@@ -5236,7 +5298,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"

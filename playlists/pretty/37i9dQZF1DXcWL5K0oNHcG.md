@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,259 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,323 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 79 | [City Lights](https://open.spotify.com/track/6NS7YL5uQHbBGV7yqMfX4W) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [nate](https://open.spotify.com/artist/3PxzSlDM4b2YYCLNLXEXhK), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Howard](https://open.spotify.com/artist/21NIgabQhP1v1spdtkQwKN) | [City Lights](https://open.spotify.com/album/6PZDMVRldEyBVFUx6VtsVx) | 2:29 |
 | 80 | [Venango](https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK) | [The Dam Jawn](https://open.spotify.com/artist/7dzbcGQjhmLwoPTOBeZDid), [Dick Oatts](https://open.spotify.com/artist/6HAwEMXs6wBDDAY3MDuo8i) | [Master St.](https://open.spotify.com/album/3kxUnjjRa5Jjr0G4C06Pqp) | 5:32 |
 
-Snapshot ID: `MCxiYTYzOGM4MjA3ZWE2ZmNhNTVjMWQ4NDc0OTRlNWVkNDVjMmQxZDIx`
+Snapshot ID: `MCwzMDJiNjA5YjgzYTYyNTg3MDJiMDhjNjY3ZmI3YzgzMmI1NDU2MDBi`

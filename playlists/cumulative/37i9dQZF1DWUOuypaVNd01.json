@@ -829,6 +829,36 @@
     },
     {
       "album": {
+        "name": "Crime News",
+        "url": "https://open.spotify.com/album/1ck3b97uQKCHDREDE9N9oH"
+      },
+      "artists": [
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "G. Shao",
+          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151861,
+      "name": "Crime News",
+      "url": "https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz"
+    },
+    {
+      "album": {
         "name": "2...",
         "url": "https://open.spotify.com/album/63iaIPe0lzHOANJ5gGerkp"
       },
@@ -1228,7 +1258,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 163404,
       "name": "Edgar Davids",
       "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
@@ -1324,7 +1354,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238247,
       "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
       "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
@@ -2508,7 +2538,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 137142,
       "name": "Penit\u00eancia",
       "url": "https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq"
@@ -3080,6 +3110,28 @@
       "duration_ms": 169859,
       "name": "Rumo ao Estrelato",
       "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
+    },
+    {
+      "album": {
+        "name": "Runner (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132884,
+      "name": "Runner - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
     },
     {
       "album": {

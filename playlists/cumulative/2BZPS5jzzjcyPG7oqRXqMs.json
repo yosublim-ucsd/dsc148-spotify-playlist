@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/7AUH8Z01PFGilH3RRxFmcT"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167637,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4WADFGQzhFPdCIChjnlb0P"
+    },
+    {
+      "album": {
         "name": "Let It Roll",
         "url": "https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL"
       },

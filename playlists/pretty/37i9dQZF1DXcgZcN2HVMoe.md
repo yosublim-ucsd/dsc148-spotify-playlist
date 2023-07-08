@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,376 likes - 200 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,469 likes - 200 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 |
 | 200 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
 
-Snapshot ID: `MCw0ODdkOWRjNWFmOTU5OTZiMTkxYTc4NGNhNmI3ODFhMDY0NmYxOTM1`
+Snapshot ID: `MCxmMmY5OWNkY2IwMGExZjAwMTBhNDk0ODY2MjkyNjVhMTFhODI1ODVh`

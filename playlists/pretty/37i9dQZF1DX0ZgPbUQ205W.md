@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,209 likes - 200 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,251 likes - 200 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Even Now I Think of Her](https://open.spotify.com/track/1SCc1p9xzRzktOnZUJp8tO) | [Sebastian Rochford](https://open.spotify.com/artist/2HK0XyXwfJg8qxJzHIg02p), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Even Now I Think of Her](https://open.spotify.com/album/0vwmeXUUCf6bDNg0sQy8WK) | 4:14 |
 | 200 | [Drifting](https://open.spotify.com/track/7coZuTH340U7sJKtTMsG93) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Drifting](https://open.spotify.com/album/0zS6U86mdHxv2w1AzJBFv2) | 4:01 |
 
-Snapshot ID: `MCxmM2EzNGM4OWE4ZmU4ZjQ2MTBjNGE3ZDBmNWJkZWIwNzZiOTMwMjNk`
+Snapshot ID: `MCxkYjMxNjhmMGZkMjY4NGY5NWI2ZTdiYzhhMWI3NDQ3NmMxNWQ5MzNl`

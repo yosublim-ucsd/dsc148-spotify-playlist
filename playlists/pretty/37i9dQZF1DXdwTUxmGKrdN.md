@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,940 likes - 150 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,039 likes - 150 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Valentin Dream \(feat\. Bob Baldwin\)](https://open.spotify.com/track/1wugADbCBtcDPbd0D7NtX0) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Quantum Drive](https://open.spotify.com/album/43yX6oV0cDl7E6KEJ3cyb1) | 4:20 |
 | 150 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 |
 
-Snapshot ID: `MCw5YTQxMjlhM2M5MTYwNWExMWI3NDY1OTk5YjZmODE3MTNhMTdkZWIx`
+Snapshot ID: `MCw4MGVlN2MyMjQxMjhiYzY3NDJhYTlmZDkyYWQ5YzVjMTI1ZmJiMTI3`

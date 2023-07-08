@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,526 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,541 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 | 59 | [Rigoletto / Act 1: "Pari siamo"](https://open.spotify.com/track/5eAVcGYlibIkZX3IJCu4D1) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Renato Bruson](https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f), [Giuseppe Sinopoli](https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY) | [Verdi: Rigoletto](https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn) | 4:18 |
 | 60 | [La forza del destino \- Original St.Petersburg version \- Act 1: "Me pellegrina ed orfana"](https://open.spotify.com/track/52vPPhEi0c9xQJUCZdzNRf) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Galina Gorchakova](https://open.spotify.com/artist/17zQ2xKMpkyGuH6T9F9kRD), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) | [Verdi: La Forza del Destino](https://open.spotify.com/album/3ddkw3PcnF2yZDDeapxBsH) | 3:59 |
 
-Snapshot ID: `MCxhYTg4OGZmY2E4MjhlMTA3ZWU5MjhjYzZiOTM3NzVkNDM0YWE2ZDVh`
+Snapshot ID: `MCxhNGY3ZGI2MGViYTA3MjA1YzhkNzJiYWFkYzQ1MWIwZjQ3ODZiNmI2`

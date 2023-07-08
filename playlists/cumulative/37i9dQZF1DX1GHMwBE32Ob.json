@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Mohbad ",
+  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Lil Kesh & Young Jonn ",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 146951,
       "name": "Caution (Remix)",
       "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
@@ -698,6 +698,28 @@
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+    },
+    {
+      "album": {
+        "name": "Feeling Funny",
+        "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198347,
+      "name": "Feeling Funny",
+      "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-123 songs - 6 hr 29 min
+124 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 | 2021-11-12 | 2022-10-16 |
 | [Saudade](https://open.spotify.com/track/1YDs0mBrM5hNruhCrF0fbE) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/1XVjWWFBWVvoAbneaETMDC) | 3:17 | 2022-09-23 |  |
 | [Sede](https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sede](https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5) | 3:04 | 2022-12-16 | 2023-02-11 |
+| [Sensualizando](https://open.spotify.com/track/43GIzToKuU1L5yeMOIzyLg) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Sensualizando](https://open.spotify.com/album/1JGc8II1qAYsSrZKJmREZ4) | 3:26 | 2023-07-07 |  |
 | [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 | 2022-07-30 |
 | [Sol, Eu e Você](https://open.spotify.com/track/6EwECcMJpnRj11CXBXAjIQ) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Sol, Eu e Você](https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE) | 2:47 | 2022-04-22 | 2022-06-11 |
 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 | 2022-06-10 | 2022-06-25 |
-| [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 | 2023-04-28 |  |
+| [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 | 2023-04-28 | 2023-07-08 |
 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 | 2021-11-12 |  |
 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 | 2023-03-24 |  |
 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 | 2021-11-12 |  |

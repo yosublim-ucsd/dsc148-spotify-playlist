@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,055 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,142 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 150 | [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 |
 
-Snapshot ID: `MCwxYjY0MjM4OTM5ZTYzYmUzNzk5YzgwNTU0OTM3MjUyOTI3ZjNjOWQ4`
+Snapshot ID: `MCw3Zjk3NDY2MzVlYWI1MDdlNzU3MDk4NjNhN2Q1MmQ0MDU2ZDZiNjYw`

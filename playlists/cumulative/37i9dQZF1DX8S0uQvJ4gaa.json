@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: John Morgan ",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Dylan Marlowe",
   "name": "New Boots",
   "tracks": [
     {
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 193133,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ"
@@ -4705,6 +4705,24 @@
     },
     {
       "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Could've Been Her",
+      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
+    },
+    {
+      "album": {
         "name": "Coulda Loved You Longer",
         "url": "https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN"
       },
@@ -4792,7 +4810,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 183906,
       "name": "Country Boy's Dream Girl",
       "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
@@ -5978,6 +5996,24 @@
       "duration_ms": 191260,
       "name": "Dirt Road Nights",
       "url": "https://open.spotify.com/track/2uF9h6C9kQBbFh9EMRSKpG"
+    },
+    {
+      "album": {
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
     },
     {
       "album": {
@@ -9364,7 +9400,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 162733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
@@ -12204,6 +12240,24 @@
       "duration_ms": 229626,
       "name": "Home Sweet Hometown",
       "url": "https://open.spotify.com/track/4RV9QxXbBNspwlVSfolDVi"
+    },
+    {
+      "album": {
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
     },
     {
       "album": {
@@ -21692,7 +21746,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 208453,
       "name": "Record High",
       "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
@@ -24253,6 +24307,24 @@
     },
     {
       "album": {
+        "name": "Getcha Some",
+        "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Somebody Else's Whiskey",
+      "url": "https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U"
+    },
+    {
+      "album": {
         "name": "Somebody Like Me",
         "url": "https://open.spotify.com/album/26CNGamPj44Wcl7xLyaGKE"
       },
@@ -25856,7 +25928,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174096,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz"
@@ -31012,6 +31084,24 @@
       "duration_ms": 189434,
       "name": "Wine Country",
       "url": "https://open.spotify.com/track/4rgWjNFgztxWwSRmjEz9vB"
+    },
+    {
+      "album": {
+        "name": "Wine Country",
+        "url": "https://open.spotify.com/album/4TsRlcxfxu5W3j4Ink2ruz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163622,
+      "name": "Wine Country",
+      "url": "https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK"
     },
     {
       "album": {

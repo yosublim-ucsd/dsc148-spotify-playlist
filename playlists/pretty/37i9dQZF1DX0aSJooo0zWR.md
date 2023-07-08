@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,428 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,486 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 |
 | 80 | [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 |
 
-Snapshot ID: `MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk`
+Snapshot ID: `MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz`

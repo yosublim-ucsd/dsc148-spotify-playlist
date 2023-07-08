@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
+    },
+    {
+      "album": {
         "name": "24 Gang",
         "url": "https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 135480,
       "name": "Banque de Beats Mondiale",
       "url": "https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn"
@@ -1112,6 +1130,24 @@
       "duration_ms": 155997,
       "name": "Bienvenue dans ma vie",
       "url": "https://open.spotify.com/track/6492iA3gQgrh0KsTOwI06S"
+    },
+    {
+      "album": {
+        "name": "Big AK",
+        "url": "https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97895,
+      "name": "Big AK",
+      "url": "https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q"
     },
     {
       "album": {
@@ -1892,6 +1928,24 @@
       "duration_ms": 247375,
       "name": "Chaud l\u00e0-bas",
       "url": "https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO"
+    },
+    {
+      "album": {
+        "name": "Retour \u00e0 Baveuse City",
+        "url": "https://open.spotify.com/album/77ZB9Vg6efYbkqQvzFTRlK"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Chez la Psy",
+      "url": "https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0"
     },
     {
       "album": {
@@ -3153,6 +3207,28 @@
     },
     {
       "album": {
+        "name": "FILATURE",
+        "url": "https://open.spotify.com/album/5njxIK9pIUrF3avGm72Yh9"
+      },
+      "artists": [
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150112,
+      "name": "FILATURE",
+      "url": "https://open.spotify.com/track/2baZ6gzDzqGckTnbiWisjA"
+    },
+    {
+      "album": {
         "name": "Flexin'",
         "url": "https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM"
       },
@@ -3622,7 +3698,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 149315,
       "name": "Ghini",
       "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
@@ -4273,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Sang pour Sang (33%)",
+        "url": "https://open.spotify.com/album/6RHF4JDWP6MNaMf3BkMU79"
+      },
+      "artists": [
+        {
+          "name": "Joey G",
+          "url": "https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "J'dois filer",
+      "url": "https://open.spotify.com/track/4OTWfA2YAY4cMnvC2cRFwb"
+    },
+    {
+      "album": {
         "name": "J'oublie",
         "url": "https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls"
       },
@@ -4474,6 +4568,24 @@
       "duration_ms": 217534,
       "name": "Je sais tu veux quoi",
       "url": "https://open.spotify.com/track/2HXUTvWk5wsYIqnAgXNnOG"
+    },
+    {
+      "album": {
+        "name": "Sous Pression",
+        "url": "https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw"
+      },
+      "artists": [
+        {
+          "name": "Lostboy Carlos",
+          "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123947,
+      "name": "Je suis Lui",
+      "url": "https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3"
     },
     {
       "album": {
@@ -5344,7 +5456,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 197067,
       "name": "Mode Avion",
       "url": "https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY"
@@ -6860,7 +6972,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
@@ -6904,6 +7016,24 @@
       "duration_ms": 144750,
       "name": "Respecte",
       "url": "https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r"
+    },
+    {
+      "album": {
+        "name": "Retour de flamme",
+        "url": "https://open.spotify.com/album/1aw0j3ZQb1R4tx2WS7zCGA"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160358,
+      "name": "Retour de flamme",
+      "url": "https://open.spotify.com/track/2FBGeh8LBjI1YVbUSF1WKk"
     },
     {
       "album": {
@@ -7330,7 +7460,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 161500,
       "name": "Sang Froid",
       "url": "https://open.spotify.com/track/7owsYlokP9KB5P5HuW5YlI"
@@ -7784,7 +7914,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 156774,
       "name": "Tension S",
       "url": "https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09"
@@ -8466,7 +8596,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 162324,
       "name": "WHAP",
       "url": "https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F"

@@ -2874,7 +2874,7 @@
     {
       "album": {
         "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
       "artists": [
         {
@@ -2885,6 +2885,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 112946,
+      "name": "I Inside the Old Year Dying",
+      "url": "https://open.spotify.com/track/2BcsWez4dWYxCy244AnpoX"
+    },
+    {
+      "album": {
+        "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
       "duration_ms": 112946,
       "name": "I Inside the Old Year Dying",
       "url": "https://open.spotify.com/track/51OeW6i3N6DmMugLZiK9L3"
@@ -2997,7 +3015,7 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 246127,
+      "duration_ms": 241472,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/1PAg9GImCAvBOEDfwJ5q6S"
     },
@@ -5666,6 +5684,28 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "album": {
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
     },
     {
       "album": {

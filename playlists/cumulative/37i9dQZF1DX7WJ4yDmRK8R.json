@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the best of ska, new and classic. Cover: The Interrupters",
+  "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
   "name": "The Essential Ska",
   "tracks": [
     {
@@ -3021,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "SKA DREAM",
+        "url": "https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rosenstock",
+          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158534,
+      "name": "SKrAm!",
+      "url": "https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy"
+    },
+    {
+      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/76IdKj8ivQzeOv8iI9UiG4"
       },
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 160026,
       "name": "The Tears of a Clown",
       "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"

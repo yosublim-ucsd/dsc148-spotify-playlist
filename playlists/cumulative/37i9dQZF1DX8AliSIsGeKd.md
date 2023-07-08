@@ -2,9 +2,9 @@
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music from Electronica to Techno\. Cover: BUNT.
+> The best new electronic music from Electronica to Techno\. Cover: Skrillex, Boys Noize
 
-2,100 songs - 7 day 21 hr 8 min
+2,103 songs - 7 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Feel Alive](https://open.spotify.com/track/3b75Wk93wgtgZZhHJdGWAo) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Feel Alive](https://open.spotify.com/album/6LkxJHTuWFCOJzrPjYi5pE) | 4:31 | 2023-02-23 | 2023-03-10 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-01 | 2023-06-23 |
 | [Feel It](https://open.spotify.com/track/1e07fzEwRyqvI2tzY1e0t5) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Feel It](https://open.spotify.com/album/72kGrsrgLwBxLxKzdi2Qgx) | 5:26 | 2022-06-02 | 2022-06-24 |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 |  |
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/21Ileqj8qYQIWx9CpCUjAo) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/1GHakCrnmswgxWtnNU2Iel) | 5:29 | 2022-10-06 | 2022-10-13 |
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 | 2022-10-06 | 2022-10-21 |
 | [Feel You \- Will Clarke Remix – Radio Edit](https://open.spotify.com/track/5RMkji62FrChvyaCIGsppG) | [Camea](https://open.spotify.com/artist/0MnbWZjm9z5LJewMuB7s5X), [Saskia Krause](https://open.spotify.com/artist/2YSjty07Sb1bf1YO2pYjdp), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Speicher 122](https://open.spotify.com/album/5Y31xTjT4OFsOmURLdMO2M) | 3:43 | 2022-06-02 | 2022-06-17 |
@@ -667,6 +668,7 @@
 | [Final Pulse](https://open.spotify.com/track/2oSPHp7KL3QLClGWRrS0EQ) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Final Pulse](https://open.spotify.com/album/6ca5gRY8btSTFn7CUYGuVN) | 3:21 | 2023-03-16 | 2023-03-31 |
 | [Finally Dancing \- Radio Edit](https://open.spotify.com/track/0yXAPv7nVDyXxmCvah6Nlc) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Finally Dancing](https://open.spotify.com/album/0ohn99T1dBbsBaegkf53NU) | 3:30 | 2023-05-04 | 2023-05-19 |
 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 | 2022-12-09 | 2023-01-06 |
+| [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-07 |  |
 | [Finesse \(feat\. BNXN\) \- AMÉMÉ Funk Mix](https://open.spotify.com/track/2xUmUI2c0Qm7xZqP2TKu8U) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse \(feat\. BNXN\) \[AMÉMÉ Mixes\]](https://open.spotify.com/album/4g8Vv7WAHO7xnNPJgRavil) | 3:43 | 2022-07-07 | 2022-07-22 |
 | [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 | 2022-06-30 | 2022-07-22 |
 | [Fire](https://open.spotify.com/track/576g4AWp68fUr4iSBp8wQy) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Fire](https://open.spotify.com/album/0q66n2F4XQvLAKRMO6YddR) | 4:45 | 2022-05-12 | 2022-06-03 |
@@ -1161,7 +1163,7 @@
 | [Make You Freak](https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Make You Freak](https://open.spotify.com/album/5NSptPSZRkY5uWJo7Hg0vg) | 3:48 | 2023-01-27 | 2023-02-17 |
 | [Make You Move](https://open.spotify.com/track/4eGwiSOBtUBkg4l37q7im7) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Make You Move](https://open.spotify.com/album/0iMxhbFLxLW0G7dPlCODgZ) | 5:33 | 2022-10-20 | 2022-11-04 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-06-17 |
-| [Make You Scream \- yuné pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yuné pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-06 |  |
+| [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-06 |  |
 | [Mandala](https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Mandala](https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht) | 7:00 | 2022-09-16 | 2022-10-07 |
 | [Mania](https://open.spotify.com/track/47pdvuFM95WHsL14TnvTTc) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Mania](https://open.spotify.com/album/5lcd0PnZRFh2LExp7ppZbr) | 3:36 | 2022-08-18 | 2022-09-02 |
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-01 | 2022-12-16 |
@@ -1465,6 +1467,7 @@
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-22 | 2022-10-07 |
 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 | 2023-05-11 | 2023-06-02 |
 | [Prophet](https://open.spotify.com/track/34uqpzd2U6Oq4kcDTZASH9) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Prophet](https://open.spotify.com/album/0hU3syvy5KpSW0dgj8utaQ) | 3:14 | 2023-04-20 | 2023-05-05 |
+| [PROTO](https://open.spotify.com/track/2zw1iwsCpjjm3VyEZzbweT) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Hugh Betcha](https://open.spotify.com/artist/6Vgj5l5fPp0t4aHOBkWvmi) | [PROTO](https://open.spotify.com/album/61hKlttJYrxO067Q9WEMag) | 7:12 | 2023-07-07 |  |
 | [Proton](https://open.spotify.com/track/7qYLpCBd3QTlCJY1BXpzCQ) | [Carlo Ruetz](https://open.spotify.com/artist/5vDqopi7jF9kQoL6xg696f) | [Proton](https://open.spotify.com/album/1lgtdQcPe6E04NS1y4krXH) | 6:10 | 2022-08-25 | 2022-09-09 |
 | [Psychedelic Highway \- Original Mix](https://open.spotify.com/track/5Hs9f3joqVyndsgDDZItOr) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Psychedelic Highway](https://open.spotify.com/album/6685L9FV6zexZJ1ATlGnva) | 6:36 | 2022-08-12 | 2022-08-26 |
 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 | 2022-05-05 | 2022-05-27 |

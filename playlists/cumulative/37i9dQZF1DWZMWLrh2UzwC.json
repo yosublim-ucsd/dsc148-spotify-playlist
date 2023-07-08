@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "The best newly released songs of the week.",
+  "description": "The best newly released songs of the week. Cover: Taylor Swift",
   "name": "New Music Friday Malaysia",
   "tracks": [
     {
@@ -5280,10 +5280,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26"
+    },
+    {
+      "album": {
+        "name": "Alonica",
+        "url": "https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
     },
     {
       "album": {
@@ -27375,6 +27393,28 @@
     },
     {
       "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
         "name": "DISHARMONY : FIND OUT",
         "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
       },
@@ -34233,7 +34273,7 @@
     },
     {
       "album": {
-        "name": "Fallin feat. Nasty C",
+        "name": "Fallin",
         "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
       },
       "artists": [
@@ -34250,7 +34290,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171152,
-      "name": "Fallin feat. Nasty C",
+      "name": "Fallin",
       "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
     },
     {
@@ -35173,6 +35213,32 @@
     },
     {
       "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "album": {
         "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
         "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
       },
@@ -36064,8 +36130,8 @@
           "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
         },
         {
-          "name": "\u9db4 The Crane",
-          "url": "https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6"
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
         }
       ],
       "date_added": "2023-07-06",
@@ -49868,6 +49934,24 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
       "album": {
@@ -66740,7 +66824,7 @@
     {
       "album": {
         "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
       "artists": [
         {
@@ -66751,6 +66835,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Lwonesome Tonight",
+      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
+    },
+    {
+      "album": {
+        "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
       "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
@@ -68576,6 +68678,24 @@
       "duration_ms": 196781,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/0TnVrZyJF9Dx405p4tWvej"
+    },
+    {
+      "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/1e8OOyFQXG32J2ddwfHMpp"
+      },
+      "artists": [
+        {
+          "name": "Yaung",
+          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/1CNMpkmG7uQRl7irTnA7ZQ"
     },
     {
       "album": {
@@ -84069,6 +84189,28 @@
     },
     {
       "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "album": {
         "name": "Pointless",
         "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
       },
@@ -84573,6 +84715,24 @@
     },
     {
       "album": {
+        "name": "DBE World",
+        "url": "https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb"
+    },
+    {
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY"
       },
@@ -84584,7 +84744,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 160781,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz"
@@ -102315,6 +102475,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
         "name": "Super Star",
         "url": "https://open.spotify.com/album/2F5VQ6qg0vWViic8rSFJ6p"
       },
@@ -103408,7 +103586,7 @@
     {
       "album": {
         "name": "Sympathy",
-        "url": "https://open.spotify.com/album/1wc35Jbd1rZ6xbpBHJ2GeN"
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
       },
       "artists": [
         {
@@ -103419,6 +103597,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185831,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
+    },
+    {
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/1wc35Jbd1rZ6xbpBHJ2GeN"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
       "duration_ms": 185831,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/4QrELCnvQ8W1JGwVLVOi9s"

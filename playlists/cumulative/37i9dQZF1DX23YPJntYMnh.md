@@ -4,11 +4,11 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-117 songs - 8 hr 4 min
+118 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2022-02-04 |  |
+| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2022-02-04 | 2023-07-08 |
 | [A Certain Shade of Green](https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/7C2w3hUOkQ3Dn14cv6ILwA) | 3:11 | 2020-01-08 | 2022-07-29 |
 | [A Man with No Direction](https://open.spotify.com/track/05GUpbQn0dizTVwIQsNw75) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Doug Pinnick](https://open.spotify.com/artist/51S9dRF8a9hrdg4N1PbEWT), [Jesse O'Brien](https://open.spotify.com/artist/1bWBqCpBTf2inuBorWzlZK) | [A Man with No Direction](https://open.spotify.com/album/5Dz6If4NYIIwEX7nlSVDwK) | 2:59 | 2023-03-17 |  |
 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 | 2020-01-08 |  |
@@ -30,6 +30,7 @@
 | [Breaking Glass \- 1999 Remaster](https://open.spotify.com/track/5gUP8H0bRV9a75K7wleHXH) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(1999 Remaster\)](https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b) | 1:52 | 2020-01-08 | 2022-07-29 |
 | [Breaking Glass \- 2017 Remaster](https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 1:52 | 2022-02-04 |  |
 | [Burnin'](https://open.spotify.com/track/2RCz7D2tqHOrBxAQ8F88iX) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Burnin'](https://open.spotify.com/album/2JsgVPQiEaMnpJyO6rQ9Hd) | 4:25 | 2023-04-14 |  |
+| [Burnt Toast & Coffee](https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Burnt Toast & Coffee](https://open.spotify.com/album/0xl0L7fwDbjrqatRt1SNkY) | 3:18 | 2023-07-07 |  |
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2020-01-08 |  |
 | [Changes](https://open.spotify.com/track/2o476V7Y8JVrwXpsOwrth6) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Changes](https://open.spotify.com/album/16eZZtgTw8uqL8egLeO2zr) | 2:46 | 2023-04-14 |  |
 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 | 2020-01-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,352 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,373 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 78 | [Mientras Bailo](https://open.spotify.com/track/5eFHB3RZ1lMYCba3G0bFjV) | [Nos Miran](https://open.spotify.com/artist/0kksH1DrFBzgomfEyAMhyW) | [Contigo](https://open.spotify.com/album/0vXexof34kslmBk01pz1vL) | 3:41 |
 | 79 | [Quiero Que Tú Quieras](https://open.spotify.com/track/2vsJwShF49IoMVkz5onWPT) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 2:47 |
 | 80 | [Queendom](https://open.spotify.com/track/3nXcufQxUfluhkX4rvMlGi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Infections of a Different Kind \(Step I\)](https://open.spotify.com/album/3kFKPn3NLvalIpXRvE8Apg) | 3:26 |
-| 81 | [The Last Goodbye](https://open.spotify.com/track/7GswgLLrtSouvDcIHyqmbE) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 3:39 |
+| 81 | [The Last Goodbye](https://open.spotify.com/track/7D1ONerlSPQOpq1EfV84uU) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 3:39 |
 | 82 | [Los Días Raros](https://open.spotify.com/track/0eVB5kmXBHSKgTYxgI77kq) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Mapas](https://open.spotify.com/album/1Oow7d8D859T5Xd2tsQUzG) | 6:27 |
 | 83 | [Tell You: L.I.B.I.D.O.](https://open.spotify.com/track/3xYrWouHB1dghki81NNXi6) | [Erotic Market](https://open.spotify.com/artist/0fwf9ayovhI8FRMonApSZQ) | [Queendoms](https://open.spotify.com/album/1rskeFVyu53aCMlbfPJK63) | 4:09 |
 | 84 | [Podría Ser Peor \(Remix\)](https://open.spotify.com/track/0V9Iq1SR5YkL7BkKj7TmRg) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Podría Ser Peor \(Remix\)](https://open.spotify.com/album/0AAlqjRFkDhD5kFv8WkN8t) | 4:17 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCwwODAwMWRmZWM4MzI3YzYwODI1ZDE3NTM0ZjVhMzg5MTczZDhiMjQx`
+Snapshot ID: `MCxkY2E4ZTNhY2Q4YWZmZmRkMDQyMTU4MjZmOTJmNTU0NjkxZDNhOGQ0`

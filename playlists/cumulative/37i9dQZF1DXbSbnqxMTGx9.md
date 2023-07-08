@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-478 songs - 1 day 3 hr 21 min
+479 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2021-03-02 | 2022-12-19 |
 | [Pass The Kutchie](https://open.spotify.com/track/6cMxx9udDYLHr9MuDSUxlE) | [Mighty Diamonds](https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k) | [Hi Grade Ganja Anthems Vol\. 2](https://open.spotify.com/album/30wbr5CYayaCmIq5wVJ39p) | 3:35 | 2022-08-18 | 2022-09-23 |
 | [Peace in Your Mind \(Peace of Mind\)](https://open.spotify.com/track/0Dqao6FoNVAv0UOllI0b0d) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:26 | 2022-09-22 |  |
-| [People Funny Boy](https://open.spotify.com/track/2k39ES8EcOY3IeEOzsdAb4) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:36 | 2022-09-22 |  |
+| [People Funny Boy](https://open.spotify.com/track/0osb4Qi1dCIQMFh42oUegP) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [King Scratch \(Musical Masterpieces from the Upsetter Ark\-ive\)](https://open.spotify.com/album/55XJeVGQo4qkfa7ZrNr6BF) | 2:36 | 2022-09-22 |  |
+| [People Funny Boy](https://open.spotify.com/track/2k39ES8EcOY3IeEOzsdAb4) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:36 | 2022-09-22 | 2023-07-08 |
 | [People Funny Boy](https://open.spotify.com/track/1WfXM4ZKdLl0rDeXzuiora) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 2:35 | 2022-09-22 | 2022-11-13 |
 | [People Funny Boy](https://open.spotify.com/track/1pTu7NhYatmXHmGxJjVw4w) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:35 | 2021-03-02 | 2022-07-26 |
 | [Pirate](https://open.spotify.com/track/4E4WIb8yqs5jHMVAaVIOfc) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:32 | 2021-03-02 |  |

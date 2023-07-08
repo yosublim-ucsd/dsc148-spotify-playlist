@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 206451,
       "name": "1manvillage",
       "url": "https://open.spotify.com/track/1j7stQp1H4eVP7ih4LS7uK"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 176876,
       "name": "BeGod",
       "url": "https://open.spotify.com/track/6AhaKQrY0rac4mGE8lKOri"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174319,
       "name": "Cheers To New Beginnings",
       "url": "https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr"
@@ -4776,6 +4776,28 @@
       "duration_ms": 234057,
       "name": "Kanazawa",
       "url": "https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs"
+    },
+    {
+      "album": {
+        "name": "Keep Going On",
+        "url": "https://open.spotify.com/album/4BKgRM6MQuKnPv0oBYdRKI"
+      },
+      "artists": [
+        {
+          "name": "Sarah - Jane",
+          "url": "https://open.spotify.com/artist/6lzX2w1Ibni9xPkGAutV7p"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226062,
+      "name": "Keep Going On",
+      "url": "https://open.spotify.com/track/0fZAf4lctzwn8zqMsa3RHp"
     },
     {
       "album": {
@@ -7959,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/6GmQbbAubfdTePHW6edf93"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207212,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7BPEc1YXCT4Z2pDBRpcXw5"
+    },
+    {
+      "album": {
         "name": "Breathe Deep",
         "url": "https://open.spotify.com/album/4PA3wV5p1TMLk2e27RuDGq"
       },
@@ -9796,6 +9836,28 @@
       "duration_ms": 231933,
       "name": "Window Thoughts",
       "url": "https://open.spotify.com/track/17oVAtOSqFo1Dh7RKkR2ao"
+    },
+    {
+      "album": {
+        "name": "Wipelash",
+        "url": "https://open.spotify.com/album/7d95ImLvMRaS9ybCohNepP"
+      },
+      "artists": [
+        {
+          "name": "Shanf",
+          "url": "https://open.spotify.com/artist/6cosyZCnamrYPDOoiAzFbt"
+        },
+        {
+          "name": "Waxamilion",
+          "url": "https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Wipelash",
+      "url": "https://open.spotify.com/track/2rPLS6L5yaZRRacvZyXETq"
     },
     {
       "album": {

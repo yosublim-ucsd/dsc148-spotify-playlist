@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-663 songs - 1 day 13 hr 36 min
+664 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Make It Thru](https://open.spotify.com/track/2jD9uQeNEPIqFEJmJ33zuk) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Make It Thru](https://open.spotify.com/album/4jlRkCwvRARTe4ua3T1Lzb) | 3:41 | 2023-04-28 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-03 | 2023-03-18 |
 | [Make You Scream \- Isabella Lovestory & Kamixlo Remix](https://open.spotify.com/track/25vFpp8Cobvjk8QbgLeQsg) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Kamixlo](https://open.spotify.com/artist/047OAyUhKioOpwIRFrRVfx) | [Make You Scream \(Isabella Lovestory & Kamixlo Remix\)](https://open.spotify.com/album/0iLOuyVBGBF2BoIW6yYp6F) | 2:46 | 2023-05-25 |  |
-| [Make You Scream \- yuné pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yuné pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-06 |  |
+| [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-06 |  |
 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-05-20 | 2022-12-03 |
 | [Masochists](https://open.spotify.com/track/4kcCPJTdg2M0QWVas2Yyoa) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Masochists](https://open.spotify.com/album/2Jp9VxRciV49zAToW0Cgl8) | 2:27 | 2023-04-21 |  |
 | [Me + You](https://open.spotify.com/track/4Kq67lmTkScJDhfvLJd7V4) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Me + You](https://open.spotify.com/album/7AFKrpileun955HTQw6hwF) | 3:10 | 2022-07-08 | 2022-08-27 |
@@ -568,6 +568,7 @@
 | [sunder](https://open.spotify.com/track/2ocXip12mjNNMj9mz2AKmy) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH), [BREEZEFORE](https://open.spotify.com/artist/6s9KcaKBVAcoAEk8bSSSVm) | [sunder](https://open.spotify.com/album/5Bp5jHpmDY38M6A4bv4XMJ) | 2:02 | 2022-07-11 | 2022-10-22 |
 | [sunken](https://open.spotify.com/track/5e7FFc9rvDTBzxLb1IsnIl) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [sunken](https://open.spotify.com/album/3iQuGVN1VKsiTE8wmv8L0k) | 3:47 | 2022-04-22 | 2022-06-18 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-03-17 |  |
+| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-06 |  |
 | [Superglue](https://open.spotify.com/track/3e0ZdECpzQAXZIyyI9glBa) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Superglue](https://open.spotify.com/album/1OEZ2Ct6bMGje4eldWOWjJ) | 2:06 | 2023-02-27 | 2023-05-26 |
 | [Sway \(The Places She Goes\)](https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Sway \(The Places She Goes\)](https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq) | 3:41 | 2022-05-13 | 2022-06-18 |
 | [Switched Up](https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq) | [Jbox](https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77) | [Switched Up](https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98) | 3:14 | 2022-10-25 | 2023-01-21 |

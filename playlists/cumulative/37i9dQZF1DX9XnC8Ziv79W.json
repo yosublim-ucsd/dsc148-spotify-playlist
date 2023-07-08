@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Pola",
+        "url": "https://open.spotify.com/album/2AaOjj3PBD5IE66IqgFIdw"
+      },
+      "artists": [
+        {
+          "name": "Gana Gokul",
+          "url": "https://open.spotify.com/artist/3ORko4ywmPEs62KSqYQJAo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Butterfly Pola",
+      "url": "https://open.spotify.com/track/3vRRPomvHC3ySQGJGuRVqR"
+    },
+    {
+      "album": {
         "name": "Chikkom",
         "url": "https://open.spotify.com/album/0nOGQn9LPxeMRTaKl6K9zY"
       },

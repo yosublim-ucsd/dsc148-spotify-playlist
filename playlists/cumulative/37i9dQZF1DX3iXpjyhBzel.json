@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Maria Mar\u00e7al",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Fernandinho",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Aqui O Mal N\u00e3o Vai Entrar",
+        "url": "https://open.spotify.com/album/5462EWLaEmkc5G7MDsaiSJ"
+      },
+      "artists": [
+        {
+          "name": "Imafe Music",
+          "url": "https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350931,
+      "name": "Aqui O Mal N\u00e3o Vai Entrar",
+      "url": "https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK"
+    },
+    {
+      "album": {
         "name": "At\u00e9 te Encontrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
       },
@@ -250,6 +272,24 @@
       "duration_ms": 576860,
       "name": "At\u00e9 te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/73GWhRZDIydE9oN7kghZ4p"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353794,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/5D4MxLzReeObQ5WyMZBHab"
     },
     {
       "album": {
@@ -366,7 +406,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
@@ -687,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "album": {
         "name": "Deserto (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
       },
@@ -950,7 +1008,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 296865,
       "name": "Ele Vir\u00e1",
       "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
@@ -1469,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Inflama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411976,
+      "name": "Inflama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+    },
+    {
+      "album": {
         "name": "\u00danico (Live)",
         "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
@@ -1724,7 +1800,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 520935,
       "name": "Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
@@ -2092,7 +2168,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 388600,
       "name": "O Grande Eu Sou",
       "url": "https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt"
@@ -2767,6 +2843,28 @@
     },
     {
       "album": {
+        "name": "Senhor dos Ex\u00e9rcitos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3A18e58JoJ0SItSd62SVoG"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "Senhor dos Ex\u00e9rcitos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr"
+    },
+    {
+      "album": {
         "name": "Seu Amor / Diante da Cruz",
         "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
       },
@@ -3260,7 +3358,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 621079,
       "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"

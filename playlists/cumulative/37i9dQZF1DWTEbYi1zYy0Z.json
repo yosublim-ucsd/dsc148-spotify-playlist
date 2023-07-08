@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Do You Really Trust Yourself",
+        "url": "https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136695,
+      "name": "Do You Really Trust Yourself",
+      "url": "https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx"
+    },
+    {
+      "album": {
         "name": "Don't Dance Just Groove",
         "url": "https://open.spotify.com/album/4VzSPapYMrZZ8jDInirxmc"
       },
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189069,
       "name": "Forever My Love",
       "url": "https://open.spotify.com/track/7xfV7C26Jb4Ka5l4tGtXfq"
@@ -3665,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Love Nwantiti",
+        "url": "https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151305,
+      "name": "Love Nwantiti",
+      "url": "https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc"
       },
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
@@ -4818,6 +4854,24 @@
       "duration_ms": 179706,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2aojkARgqmwIon4lC9DIWK"
+    },
+    {
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/5iSnIAhinFlHf96YvI912l"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220583,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/02lpgkBHgom6jlrs39rGDY"
     },
     {
       "album": {
@@ -6556,7 +6610,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 230386,
       "name": "Wait! - Smooth Jazz Mix",
       "url": "https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Standly.",
+  "description": "Este Flow tiene otro Flow. Foto: Gino Mella.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
@@ -704,6 +704,28 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
     },
     {
       "album": {
@@ -1607,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Cuentame",
+        "url": "https://open.spotify.com/album/5Igfp6o04XIsUKLvoIqm8I"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156069,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/2bgVRuGe3elcUxs1stflQI"
+    },
+    {
+      "album": {
         "name": "CULISUELTA (feat. Lleflight, ITHAN NY)",
         "url": "https://open.spotify.com/album/7K1jJgCOuMuImsykD11o4S"
       },
@@ -2344,6 +2388,28 @@
       "duration_ms": 190080,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/6aLAViUil5VF87A3bd7fl0"
+    },
+    {
+      "album": {
+        "name": "Eres Mala",
+        "url": "https://open.spotify.com/album/5cwBXCshrK7DEeZ6lmc9yc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Connolly",
+          "url": "https://open.spotify.com/artist/0noMWAJrOMs5CKQt1lDH9Q"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Eres Mala",
+      "url": "https://open.spotify.com/track/4g8LCob8ZndoB8td9WVns6"
     },
     {
       "album": {
@@ -4228,7 +4294,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 194000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4VzEjnnyrmJABQlDgbmGng"
@@ -4272,7 +4338,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186600,
       "name": "Los Fierros",
       "url": "https://open.spotify.com/track/51spTXpIdbjgEztbNeGSr1"
@@ -4398,7 +4464,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218077,
       "name": "LOUISVUITTON",
       "url": "https://open.spotify.com/track/4Ux2REvgzPpxkNGZjKulbU"
@@ -4532,7 +4598,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 214883,
       "name": "Maldita HP",
       "url": "https://open.spotify.com/track/53DjXmbgvnes90zUcQVRrT"
@@ -4788,6 +4854,28 @@
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
+    },
+    {
+      "album": {
+        "name": "Me Fui",
+        "url": "https://open.spotify.com/album/1SV1E2eNt2hebf9lexKGsB"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "El Bai",
+          "url": "https://open.spotify.com/artist/1E1fdogqJM1vTf6Snq0Nob"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176713,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/2OkUvEoWFbrfMdizByk8Ej"
     },
     {
       "album": {
@@ -6681,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/64uPiuBBTJEDqjC7FKc781"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185154,
+      "name": "Perdidos",
+      "url": "https://open.spotify.com/track/6ughI6FwGbF0cLicG7lrat"
+    },
+    {
+      "album": {
         "name": "FR\u00cdO",
         "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
       },
@@ -8040,7 +8146,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 117669,
       "name": "SI SABEN",
       "url": "https://open.spotify.com/track/5bEDlN19Jk4WWUIfjBCpcX"
@@ -8106,6 +8212,28 @@
       "duration_ms": 165679,
       "name": "Siempre Fine",
       "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
+    },
+    {
+      "album": {
+        "name": "Siempre Que Llegamos",
+        "url": "https://open.spotify.com/album/4XeQ8OMt6rBtM6UrhWbjJU"
+      },
+      "artists": [
+        {
+          "name": "Yiordano Ignacio",
+          "url": "https://open.spotify.com/artist/4GzcC1X5GRX9ndJ5TXIk2C"
+        },
+        {
+          "name": "Willy El Loko",
+          "url": "https://open.spotify.com/artist/2y6E9zxBnLRxOb5esoQ9HQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Siempre Que Llegamos",
+      "url": "https://open.spotify.com/track/3V4Rn0yP6vnCkTYwTQFkWA"
     },
     {
       "album": {
@@ -8410,6 +8538,24 @@
       "duration_ms": 173561,
       "name": "TAY PAPO",
       "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
+    },
+    {
+      "album": {
+        "name": "Te cargo la 9",
+        "url": "https://open.spotify.com/album/4vhWwdEMvazQMJbrgXsQpp"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157422,
+      "name": "TE CARGO LA 9",
+      "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
     },
     {
       "album": {
@@ -8734,7 +8880,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144559,
       "name": "TODOS MIS FLAITES",
       "url": "https://open.spotify.com/track/6up18iDKks8V7PyNnFMUC6"
@@ -9042,7 +9188,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 190550,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4l1SYWEm3bCpoLb07qsKRT"
@@ -9220,6 +9366,36 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "Un Beso Tuyo",
+        "url": "https://open.spotify.com/album/2OnsKeTfOJII8hTlLCy9Ih"
+      },
+      "artists": [
+        {
+          "name": "Jhon Jairo",
+          "url": "https://open.spotify.com/artist/5chrUnljyCjbuV033ssuf2"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Baukan",
+          "url": "https://open.spotify.com/artist/1szImfbTMKwuPqhp0s4kgM"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274974,
+      "name": "Un Beso Tuyo",
+      "url": "https://open.spotify.com/track/2ZLusQxisKJoUdfn6q2agZ"
     },
     {
       "album": {

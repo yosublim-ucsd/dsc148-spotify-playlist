@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,479 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,563 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Wrong Side of a Sunrise \- Demo](https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Wrong Side of a Sunrise \(Demo\)](https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm) | 3:21 |
 | 100 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 
-Snapshot ID: `MCxjZWQ5ZTk5MDE0NjU3ZGQ5MDViOGE3ZTg5NGU2NzE3NDcwZDUxMWRl`
+Snapshot ID: `MCwxNGZkNjhlMTNlYWRlMzQyMmJhZDBiY2RhOGU1ZjQyZDBkZDAyZmVi`

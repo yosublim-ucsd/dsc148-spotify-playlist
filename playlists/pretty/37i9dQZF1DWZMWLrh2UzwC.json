@@ -1,13 +1,65 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 61406,
+  "description": "The best newly released songs of the week. Cover: Taylor Swift",
+  "num_followers": 61427,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmFlZTdlZDJiM2U4MjcwZTEyZWRjNWUxNGUzYjM4ZmZjODk5M2E5",
+  "snapshot_id": "MCw5YmIxM2QxODA3MTk4Y2IyMmE5ODFmYjYwY2Y3ZTE5ZDdkYzMwZjRm",
   "tracks": [
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
+    },
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
@@ -235,7 +287,7 @@
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
-        "name": "Fallin feat. Nasty C",
+        "name": "Fallin",
         "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
       },
       "artists": [
@@ -249,14 +301,14 @@
         }
       ],
       "duration_ms": 171152,
-      "name": "Fallin feat. Nasty C",
+      "name": "Fallin",
       "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
     },
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
         "name": "Alonica",
-        "url": "https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu"
+        "url": "https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr"
       },
       "artists": [
         {
@@ -266,7 +318,7 @@
       ],
       "duration_ms": 238346,
       "name": "Alonica",
-      "url": "https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26"
+      "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
     },
     {
       "added_at": "2023-07-06 16:00:00",
@@ -631,6 +683,26 @@
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
         "name": "overthinking about you",
         "url": "https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn"
       },
@@ -788,8 +860,8 @@
           "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
         },
         {
-          "name": "\u9db4 The Crane",
-          "url": "https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6"
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
         }
       ],
       "duration_ms": 184512,
@@ -979,6 +1051,22 @@
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/1e8OOyFQXG32J2ddwfHMpp"
+      },
+      "artists": [
+        {
+          "name": "Yaung",
+          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/1CNMpkmG7uQRl7irTnA7ZQ"
+    },
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
         "name": "Why Do We?",
         "url": "https://open.spotify.com/album/01a4DWE7bKOIUYsC74BL5U"
       },
@@ -1076,7 +1164,7 @@
       "added_at": "2023-07-06 16:00:00",
       "album": {
         "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc"
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
       "artists": [
         {
@@ -1086,7 +1174,7 @@
       ],
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
-      "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
+      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
     },
     {
       "added_at": "2023-07-06 16:00:00",
@@ -1108,7 +1196,7 @@
       "added_at": "2023-07-06 16:00:00",
       "album": {
         "name": "Sympathy",
-        "url": "https://open.spotify.com/album/1wc35Jbd1rZ6xbpBHJ2GeN"
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
       },
       "artists": [
         {
@@ -1118,7 +1206,7 @@
       ],
       "duration_ms": 185831,
       "name": "Sympathy",
-      "url": "https://open.spotify.com/track/4QrELCnvQ8W1JGwVLVOi9s"
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
     },
     {
       "added_at": "2023-07-06 16:00:00",
@@ -1259,8 +1347,8 @@
     {
       "added_at": "2023-07-06 16:00:00",
       "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY"
+        "name": "DBE World",
+        "url": "https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82"
       },
       "artists": [
         {
@@ -1270,7 +1358,7 @@
       ],
       "duration_ms": 160781,
       "name": "Potential",
-      "url": "https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz"
+      "url": "https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb"
     },
     {
       "added_at": "2023-07-06 16:00:00",
@@ -1387,6 +1475,30 @@
       "duration_ms": 134310,
       "name": "Me and My Guitar",
       "url": "https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC"
+    },
+    {
+      "added_at": "2023-07-06 16:00:00",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "added_at": "2023-07-06 16:00:00",

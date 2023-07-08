@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "If, Vol. 1",
+        "url": "https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "A Poem Titled You",
+      "url": "https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh"
+    },
+    {
+      "album": {
         "name": "ABYSS",
         "url": "https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo"
       },
@@ -920,6 +938,28 @@
       "duration_ms": 192585,
       "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
       "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
     },
     {
       "album": {
@@ -2884,7 +2924,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 191986,
       "name": "Crazy Like That",
       "url": "https://open.spotify.com/track/3YKVnTgamsTa6zzimeaJXc"
@@ -3210,7 +3250,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 185600,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5725iqZgzHvcHEUCRPmaj4"
@@ -3554,6 +3594,24 @@
       "duration_ms": 199600,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
+    },
+    {
+      "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+      },
+      "artists": [
+        {
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "album": {
@@ -4338,7 +4396,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 230173,
       "name": "Farewell Everyday",
       "url": "https://open.spotify.com/track/5JYW7DeFnvBr4oEqoeZBbu"
@@ -5514,7 +5572,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189013,
       "name": "Green (feat. SOOVI)",
       "url": "https://open.spotify.com/track/5tFtRGlr5uaqMQmMtXZjXe"
@@ -6527,6 +6585,24 @@
     },
     {
       "album": {
+        "name": "I remember",
+        "url": "https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "I remember",
+      "url": "https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC"
+    },
+    {
+      "album": {
         "name": "I Want U Around",
         "url": "https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi"
       },
@@ -6842,6 +6918,28 @@
       "duration_ms": 126546,
       "name": "Intro : Seasons and Patterns",
       "url": "https://open.spotify.com/track/3sv8nv1aWmCRH0v3gVu9pl"
+    },
+    {
+      "album": {
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
       "album": {
@@ -8124,6 +8222,24 @@
       "duration_ms": 228680,
       "name": "Loved You",
       "url": "https://open.spotify.com/track/2GYC9mc8TwV8MqPPHOrXCV"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "album": {
@@ -10340,7 +10456,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 183186,
       "name": "Predator",
       "url": "https://open.spotify.com/track/5RaEgSov5mWUjLXDTDvJwM"
@@ -13450,7 +13566,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199040,
       "name": "TODAY (Feat. Kim Mi Jeong)",
       "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"

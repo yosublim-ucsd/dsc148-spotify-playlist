@@ -1416,10 +1416,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 214000,
       "name": "Over For You - Live in Melbourne",
       "url": "https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl"
+    },
+    {
+      "album": {
+        "name": "Life Upside Down EP",
+        "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Over For You - Live in Melbourne",
+      "url": "https://open.spotify.com/track/5GAMPTTXZgtFJZzN7VcDNX"
     },
     {
       "album": {

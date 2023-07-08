@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4?si=ffbce48b7773449e\">Evan Craft</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=d0885697cfc24562\">Hillsong en Espa\u00f1ol</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -510,6 +510,24 @@
       "duration_ms": 168974,
       "name": "Alante Alante",
       "url": "https://open.spotify.com/track/1rUOIYt3UFEPyNl2uygFgS"
+    },
+    {
+      "album": {
+        "name": "Nadie Como \u00c9l",
+        "url": "https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/49pWfGhPqDuqK81qPbObx3"
     },
     {
       "album": {
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 184765,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 252134,
       "name": "Corro Ante Ti",
       "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
@@ -3317,6 +3335,28 @@
     },
     {
       "album": {
+        "name": "est\u00e1 bien no estar bien :):",
+        "url": "https://open.spotify.com/album/7ijMAydowsWOaOT2S3AgVB"
+      },
+      "artists": [
+        {
+          "name": "PRISMA M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220669,
+      "name": "est\u00e1 bien no estar bien :):",
+      "url": "https://open.spotify.com/track/68yI7pPM5hOXfG3ea55kQx"
+    },
+    {
+      "album": {
         "name": "ETERNOS",
         "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
       },
@@ -4528,7 +4568,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 168493,
       "name": "Lo Que T\u00fa Digas",
       "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
@@ -8152,6 +8192,24 @@
       "duration_ms": 312262,
       "name": "Tu Cara",
       "url": "https://open.spotify.com/track/6Sg5qYaAHubFI4RTvx9k29"
+    },
+    {
+      "album": {
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4m5ZNTwt4b1OnQkcK8H3cu"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447173,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN"
     },
     {
       "album": {

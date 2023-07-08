@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Jordan Hawkins\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,577 likes - 373 songs - 18 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,576 likes - 373 songs - 18 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 112 | [Perfect Time](https://open.spotify.com/track/5fv1dCJWPSXmX2PKDRdwZc) | [ADIV](https://open.spotify.com/artist/2rXuvyxrA1q0C135s66DYn), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Perfect Time](https://open.spotify.com/album/37XopOBRQkGV97TfiIKhzy) | 3:47 |
 | 113 | [10FT](https://open.spotify.com/track/7CNTVxQDAma8lVqAxBLKPI) | [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [10FT](https://open.spotify.com/album/77Rmp58si3hxeVSdPpVcxK) | 2:17 |
 | 114 | [So Fine](https://open.spotify.com/track/0fm1FCriScUIoRUM3B1r6S) | [Jahmal Brown](https://open.spotify.com/artist/5cok7ahWUq6Xo5t53bTHUj), [Tariq Mason](https://open.spotify.com/artist/44vTp6oinp9bCtQAstw7pe) | [So Fine](https://open.spotify.com/album/4ylmrLhNH0pCfHrn8igunU) | 2:53 |
-| 115 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 |
+| 115 | [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 |
 | 116 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
 | 117 | [Blame](https://open.spotify.com/track/1oeH8HeONQvFP6O4mOQFBr) | [Lagoon Wavey](https://open.spotify.com/artist/0NKEYlmkuqK8YM6TtMEnBr) | [Black Water](https://open.spotify.com/album/4jlI62wrQDkYAhP5K8MGB2) | 2:45 |
 | 118 | [Home](https://open.spotify.com/track/7JHSPuwenucKzkdHONkqyG) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:43 |
@@ -382,4 +382,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 372 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 373 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCxmMTUwMDBjM2U0MTc1YTdjZTMyYTcyNWMxYmQ3NGUwYzRkNGQwOGQ4`
+Snapshot ID: `MCxmMGYxNzBhMDdmZTFhZGI3ZDQ4YTI0MDY1NjFmYTdjZmY0ZTI4NjRk`

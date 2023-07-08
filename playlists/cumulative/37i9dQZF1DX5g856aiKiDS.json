@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 211363,
       "name": "Love Me Like That",
       "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
@@ -5199,6 +5199,28 @@
     },
     {
       "album": {
+        "name": "with you (feat. g0nny)",
+        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "with you (feat. g0nny)",
+      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
+    },
+    {
+      "album": {
         "name": "it\u2019s not your fault",
         "url": "https://open.spotify.com/album/1U0HUoza6VIPzqMIQL2BOw"
       },
@@ -5520,6 +5542,28 @@
       "duration_ms": 212761,
       "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026 (Feat. Young K)",
       "url": "https://open.spotify.com/track/3BMTQCZUUfakzih72i3r4j"
+    },
+    {
+      "album": {
+        "name": "\ud0d5\ud6c4\ub8e8 Tanghulu (Feat. KURO)",
+        "url": "https://open.spotify.com/album/4CwpYKVkCJNFSSZBZzw2j2"
+      },
+      "artists": [
+        {
+          "name": "Soseo",
+          "url": "https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "\ud0d5\ud6c4\ub8e8 Tanghulu (Feat. KURO)",
+      "url": "https://open.spotify.com/track/4iOAc8VRpvrdMs96JQ7Pyt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5g856aiKiDS"

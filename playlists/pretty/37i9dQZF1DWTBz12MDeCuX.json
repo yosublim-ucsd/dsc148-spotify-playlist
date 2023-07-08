@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Miksu / Macloud, makko, t-low\n",
-  "num_followers": 402629,
+  "num_followers": 403114,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2RiMTc1OGQ1MmQ5NGEzY2I1NmIzMWU1YjMzNjAwYzczNTFmNzcx",
+  "snapshot_id": "MCxmOTVmYjE4MTBlOGY3YWNkYWY3NDYwMzk4MWNiZGIyMTJlOTA3MmQ2",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Sommergewitter",
         "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
       },
@@ -1163,8 +1183,8 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "neonlichter",
-        "url": "https://open.spotify.com/album/6L7u4NojIIWmpErD4bEO6b"
+        "name": "bitters\u00fcss",
+        "url": "https://open.spotify.com/album/2CAfkMIWyGWRoGiHWLpSs8"
       },
       "artists": [
         {
@@ -1174,7 +1194,7 @@
       ],
       "duration_ms": 139447,
       "name": "neonlichter",
-      "url": "https://open.spotify.com/track/453YZ9FEA0mOt1hg053G6h"
+      "url": "https://open.spotify.com/track/7tjXY1FyBF4dceRJVHpsOH"
     },
     {
       "added_at": "2023-07-06 22:00:00",

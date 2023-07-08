@@ -4505,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106012,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR"
+    },
+    {
+      "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
@@ -5788,7 +5806,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170868,
       "name": "Honeyberry 2",
       "url": "https://open.spotify.com/track/7DST9azASHMawTfFksNnoT"
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 123333,
       "name": "i wna be like you",
       "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
@@ -7262,6 +7280,24 @@
       "duration_ms": 140800,
       "name": "Knight in Shining Armor",
       "url": "https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV"
+    },
+    {
+      "album": {
+        "name": "KNOYA",
+        "url": "https://open.spotify.com/album/1dxFSqmTFEKpva3RnzQf9c"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109722,
+      "name": "KNOYA",
+      "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
     },
     {
       "album": {
@@ -11752,7 +11788,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136050,
       "name": "Split",
       "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
@@ -12078,6 +12114,24 @@
       "duration_ms": 142280,
       "name": "Super Urus",
       "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
+    },
+    {
+      "album": {
+        "name": "SUPERSEXXXYSUMMER",
+        "url": "https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "SUPERSEXXXYSUMMER",
+      "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
     },
     {
       "album": {

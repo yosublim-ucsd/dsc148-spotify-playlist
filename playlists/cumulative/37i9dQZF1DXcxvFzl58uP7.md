@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-848 songs - 1 day 20 hr 2 min
+849 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Drowned](https://open.spotify.com/track/3Vfs62mxMMLjvj8Gza9p7w) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Drowned](https://open.spotify.com/album/04lf1eeiS7uDo9NR6WbCB5) | 4:05 | 2021-07-19 | 2022-04-13 |
 | [Drowsy](https://open.spotify.com/track/4yp90BbE4dxPXfGGSpbFwT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [Drowsy](https://open.spotify.com/album/5bo68qHIH6DqSGqmJs6Yky) | 2:44 | 2019-07-30\* | 2020-07-02 |
 | [drunk at dinner](https://open.spotify.com/track/2lu8G4Qzunrn85yyDZkA24) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [drunk at dinner](https://open.spotify.com/album/6LugUwZTStmVJfJNJYVHjh) | 2:46 | 2022-03-04 | 2022-04-18 |
+| [DUBBLE BUBBLE](https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [DUBBLE BUBBLE](https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi) | 3:46 | 2023-07-07 |  |
 | [East Coast](https://open.spotify.com/track/3lhsUIhg27AZDKcLqujAjN) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [East Coast](https://open.spotify.com/album/3BkjqERhr7hFzpZdkKU1Me) | 4:37 | 2019-10-13 | 2022-07-26 |
 | [Easy On Them Turns](https://open.spotify.com/track/5IvLhgNPWzi9fu9cINVsf9) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Easy On Them Turns](https://open.spotify.com/album/6ljNbyPlF5xjrzIopEAqey) | 2:15 | 2021-10-25 | 2022-07-29 |
 | [Easy Peazy](https://open.spotify.com/track/6mob1ZesyFPqsNsIkaokjB) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Dwyer](https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv) | [Easy Peazy](https://open.spotify.com/album/7kjSuNp3c5HWR8Lo7WuQ82) | 3:12 | 2021-02-27 | 2022-07-01 |
@@ -830,7 +831,7 @@
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-09-03 | 2021-08-24 |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-14 | 2022-06-23 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-10-08 | 2022-07-18 |
-| [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 |  |
+| [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 | 2023-07-08 |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [WYWD](https://open.spotify.com/track/1vJe79Mia6uqgQaktxqa4f) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [WYWD](https://open.spotify.com/album/188kbvQhJ4WOQerO0w5SDJ) | 2:57 | 2021-04-28 | 2022-05-24 |
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2019-07-31 | 2021-07-20 |

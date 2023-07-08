@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi?si=sDV\-JGtSTGGEi2GdvWD8ww"> Enakeno </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,867 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,911 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Sai Gobe](https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Sai Gobe](https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO) | 2:55 |
 | 80 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 |
 
-Snapshot ID: `MCw1MDVmZGQ5YzM2ZTZkOWNjZGRkMzljNTRhOGUxM2VhNDBmZDJmZGFk`
+Snapshot ID: `MCxiY2U2NzJlYjhlZTUxNjM3M2JhMWQ3NmY4MTlkYTU4ZGM5MmU4MTVk`

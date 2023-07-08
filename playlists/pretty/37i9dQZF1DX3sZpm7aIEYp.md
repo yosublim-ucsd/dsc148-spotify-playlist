@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sZpm7aIEYp.md) - [plain]
 
 > Keep calm & keep control with <a href="spotify:artist:3BkRu2TGd2I1uBxZKddfg1">ARTBAT</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,956 likes - 10 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,970 likes - 10 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sZpm7aIEYp.md) - [plain]
 | 9 | [Talk To Me \- Dino Lenny & Damon Jee Mix \- Mixed](https://open.spotify.com/track/5TGP98PC1nWVp1vW7WedU1) | [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Talk To Me \- Dino Lenny & Damon Jee Mix \(Mixed\)](https://open.spotify.com/album/2Om6FRD6KDq2k9QTPF93wH) | 6:08 |
 | 10 | [What Else Is There? \- ARTBAT Remix \- Mixed](https://open.spotify.com/track/4D6SVvNeOGIJOJOh6fXgP3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [What Else Is There? \- ARTBAT Remix \(Mixed\)](https://open.spotify.com/album/7aLeLVDr2o07hDPDwDjeuv) | 6:34 |
 
-Snapshot ID: `MCwzMGM0MTA4YzRmNzIwNjhiZWM1MzA5NDZlNWY5MmJmNzZiYjQxMjhh`
+Snapshot ID: `MCw3NmEyY2Q4Y2Q1ZWI3YWNmYjg4ZmY3YTg0MTJmZDU4MzQ0MDRjMmY5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Zxmyr est\u00e1 en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX est\u00e1 en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1012,6 +1012,28 @@
       "duration_ms": 213120,
       "name": "Bien High",
       "url": "https://open.spotify.com/track/4Ws9c892uzUsqdNCrQmebH"
+    },
+    {
+      "album": {
+        "name": "El G.O.A.T. (Deluxe)",
+        "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Yartzi",
+          "url": "https://open.spotify.com/artist/4kPy0L1HAHoWGJ6SN0Vkny"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/37cHAAwh2x07YbEky1jXYc"
     },
     {
       "album": {
@@ -2188,6 +2210,32 @@
       "duration_ms": 258239,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL"
+    },
+    {
+      "album": {
+        "name": "El Doctor Ha Vuelto",
+        "url": "https://open.spotify.com/album/6uximO3eGZQHiVKz1nfcDb"
+      },
+      "artists": [
+        {
+          "name": "Sekreto",
+          "url": "https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        },
+        {
+          "name": "Caballeros Del Plan G",
+          "url": "https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194817,
+      "name": "El Doctor Ha Vuelto",
+      "url": "https://open.spotify.com/track/06wfHYI7Mj93u8sqJBhBI9"
     },
     {
       "album": {
@@ -4607,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Mustang 65'",
+      "url": "https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina de escribir",
         "url": "https://open.spotify.com/album/2ZYhsp6pHt41mEZYccc0B5"
       },
@@ -6402,7 +6468,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 658545,
       "name": "Rolando Hits Vol. 3",
       "url": "https://open.spotify.com/track/1HOePouytVeIMcP33YIaTy"
@@ -6732,7 +6798,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
@@ -8122,7 +8188,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 185000,
       "name": "Verano",
       "url": "https://open.spotify.com/track/2gRfZmrE8X5gM2p6ADuINn"

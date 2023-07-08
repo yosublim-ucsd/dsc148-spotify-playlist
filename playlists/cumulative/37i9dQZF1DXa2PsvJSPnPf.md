@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-194 songs - 12 hr 10 min
+195 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 | 2021-11-19 |  |
 | [Picasso](https://open.spotify.com/track/1Ctf9libwEW2H4Xorc625L) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 3:41 | 2022-05-16 |  |
 | [Picasso](https://open.spotify.com/track/61lEtBJFRuC8Ssf007KI7A) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/2eTVwNCb5MD6rESetU4t4M) | 3:41 | 2021-11-19 | 2022-07-29 |
+| [Picture](https://open.spotify.com/track/3gM04ju6IpdlcAOFhHYYdJ) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Picture](https://open.spotify.com/album/5WNZrufN9IiYYtaI7JExmu) | 3:07 | 2023-07-07 |  |
 | [Poor Lost Souls](https://open.spotify.com/track/3wG5ynGTSJy7JtWzCIMDFR) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK) | 4:16 | 2021-11-19 | 2022-07-29 |
 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 | 2022-05-16 | 2022-11-13 |
 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 | 2022-05-16 |  |

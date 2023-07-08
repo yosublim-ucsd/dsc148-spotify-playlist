@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139937,
       "name": "10!",
       "url": "https://open.spotify.com/track/2JGkw6gknuCYH0RZ2FYzzr"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 111072,
       "name": "Box the 40",
       "url": "https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB"
@@ -3283,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "IdgaF",
+        "url": "https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103664,
+      "name": "IdgaF",
+      "url": "https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL"
+    },
+    {
+      "album": {
         "name": "Trappin For The 99 & 2021",
         "url": "https://open.spotify.com/album/68h4gucuothIPoXXwOcXYK"
       },
@@ -3548,6 +3566,28 @@
       "duration_ms": 187354,
       "name": "Keep The Change",
       "url": "https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl"
+    },
+    {
+      "album": {
+        "name": "KEEP WISHING (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "KEEP WISHING (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm"
     },
     {
       "album": {
@@ -4018,7 +4058,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 101772,
       "name": "Move",
       "url": "https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10"
@@ -4072,7 +4112,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 110733,
       "name": "N.B.L. (N***as Be Lying)",
       "url": "https://open.spotify.com/track/7MI8SSzAsYwOMoN7MPOtzZ"
@@ -4166,7 +4206,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
@@ -4855,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "album": {
         "name": "Point Me To The Slut's",
         "url": "https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni"
       },
@@ -4866,7 +4928,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 175378,
       "name": "Point Me To The Slut's",
       "url": "https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri"
@@ -5072,7 +5134,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144927,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt"
@@ -5666,6 +5728,28 @@
       "duration_ms": 153958,
       "name": "Sexyy Walk",
       "url": "https://open.spotify.com/track/4EN1lLc3xt2hOazpC4LabP"
+    },
+    {
+      "album": {
+        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
+        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
+      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
     },
     {
       "album": {
@@ -7226,7 +7310,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 146086,
       "name": "Whole Family (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"

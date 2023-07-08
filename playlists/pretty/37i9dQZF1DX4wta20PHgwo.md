@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,918 likes - 150 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,083 likes - 150 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 149 | [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 |
 | 150 | [Part VIII \- Live](https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Part VIII \(Live\)](https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo) | 5:18 |
 
-Snapshot ID: `MCxhOTgyY2I4ZDg1ZjhiNjM1NWY3NDcxZTUwZWM0YmRhOTVjOGY3ODA2`
+Snapshot ID: `MCw2ODg5MThkOTQxYWI3ZGI5ODUwNzBhYWFkYTkwMjBiNDVhYzhmMzI3`

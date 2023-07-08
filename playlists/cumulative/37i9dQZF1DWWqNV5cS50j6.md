@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,446 songs - 2 day 21 hr 43 min
+1,447 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-11-30 | 2023-03-02 |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-01 |
 | [IDFIATOK](https://open.spotify.com/track/3UCfeH1mZnwErqWZhiN32y) | [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [IDFIATOK](https://open.spotify.com/album/7hF7y6TV0pcV70Pn12QndM) | 1:57 | 2021-01-16 | 2021-05-03 |
+| [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
 | [IDK](https://open.spotify.com/track/7n0Cmx3OxHPv1nJkGnk4CH) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [IDK](https://open.spotify.com/album/2Z3QtmTxOQZHtieshSHJAL) | 3:13 | 2021-01-09 | 2021-05-15 |
 | [idk idk wtf](https://open.spotify.com/track/7dUhr4rhm9rBuxuojNwTt5) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [kii.](https://open.spotify.com/artist/0YID73jGBDgGtyjwPrGtvm), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [idk idk wtf](https://open.spotify.com/album/6SWFGC3QUrzMa9Vom2wbVc) | 2:00 | 2022-06-03 | 2022-08-06 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-01-27 | 2022-04-29 |

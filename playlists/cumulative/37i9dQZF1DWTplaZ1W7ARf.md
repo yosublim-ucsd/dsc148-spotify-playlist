@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-197 songs - 9 hr 56 min
+198 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 | 2022-09-09 |  |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-09 | 2022-10-22 |
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-08-20 |
-| [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2022-08-05 |  |
+| [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2022-08-05 | 2023-07-08 |
 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 | 2022-05-20 | 2023-02-25 |
 | [i was just thinking](https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:12 | 2023-06-23 |  |
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-27 | 2023-06-24 |
@@ -139,6 +139,7 @@
 | [Please Breathe](https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Esparo](https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS), [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:37 | 2022-12-16 | 2023-06-24 |
 | [Portland 2](https://open.spotify.com/track/61I7Ajq0MfzwTtqMv2o7sI) | [ITS HAB](https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV), [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Portland 2](https://open.spotify.com/album/48V6VMvomnJ47t1V0DnHvO) | 2:46 | 2022-12-16 | 2023-06-24 |
 | [Private Phones](https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Private Phones](https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh) | 3:02 | 2021-10-29 | 2022-04-29 |
+| [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR) | 2:31 | 2023-07-07 |  |
 | [Purge Me](https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:16 | 2022-09-23 |  |
 | [Rain](https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Rain](https://open.spotify.com/album/2Tw5eFuipEz0DsS8J9WVTR) | 2:50 | 2022-07-15 | 2022-10-08 |
 | [Real Shit \(feat\. Morray\)](https://open.spotify.com/track/5XWcUsn2AmuLvPMwdXGecw) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 3:19 | 2022-08-19 | 2023-06-24 |

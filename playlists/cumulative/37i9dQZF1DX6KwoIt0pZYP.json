@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 178745,
       "name": "Baby Can You Stay",
       "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
@@ -906,6 +906,24 @@
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
+    },
+    {
+      "album": {
+        "name": "BESTFRiEND",
+        "url": "https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205827,
+      "name": "BESTFRiEND",
+      "url": "https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R"
     },
     {
       "album": {
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 133548,
       "name": "BOUJEE",
       "url": "https://open.spotify.com/track/4JUfa1Xcbl7mWXGX7bRQLv"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 230000,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
@@ -1708,6 +1726,24 @@
       "duration_ms": 160378,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0OopWuQ3JrNrin9q7te8Rv"
+    },
+    {
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/1gUpc488WZubSVI5X8gRCT"
+      },
+      "artists": [
+        {
+          "name": "Ho\u0101ng",
+          "url": "https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149488,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4BpuI7wyccUv2uxyfJlMtq"
     },
     {
       "album": {
@@ -2343,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "6hrs",
+        "url": "https://open.spotify.com/album/1twyLZz5F6lkpgwRxp26Ph"
+      },
+      "artists": [
+        {
+          "name": "Sam Florian",
+          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
+        },
+        {
+          "name": "Chara Kai-Le",
+          "url": "https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226860,
+      "name": "Don't Hold it Against Me",
+      "url": "https://open.spotify.com/track/0TATTnua49S3UnVk3crKLE"
+    },
+    {
+      "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/2TJxy2TTzOsdES9b5ZpP4w"
       },
@@ -2702,6 +2760,28 @@
       "duration_ms": 188817,
       "name": "Faith",
       "url": "https://open.spotify.com/track/3Eyxdb616hFs6RvXSMijws"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171152,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
     },
     {
       "album": {
@@ -4531,6 +4611,28 @@
     },
     {
       "album": {
+        "name": "i know it\u2019s you",
+        "url": "https://open.spotify.com/album/3YnPfbOOaCxmw3AlxH5g5H"
+      },
+      "artists": [
+        {
+          "name": "Narysal",
+          "url": "https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908"
+        },
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "i know it\u2019s you",
+      "url": "https://open.spotify.com/track/2gEUdv8NXw7D0AoUtb3srf"
+    },
+    {
+      "album": {
         "name": "I Lost Me",
         "url": "https://open.spotify.com/album/4rDpW6sX82tXfGn3KIFJtl"
       },
@@ -4564,6 +4666,24 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "album": {
+        "name": "i luv u, just kidding",
+        "url": "https://open.spotify.com/album/22Pluldf64A2ZxCHWPrK6z"
+      },
+      "artists": [
+        {
+          "name": "Gaston Pong",
+          "url": "https://open.spotify.com/artist/60VWor37GAY948KKZibKiI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179003,
+      "name": "i luv u, just kidding",
+      "url": "https://open.spotify.com/track/2N3ic25EhopQBfvYiLfST4"
     },
     {
       "album": {
@@ -4871,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "If We End",
+        "url": "https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ"
+      },
+      "artists": [
+        {
+          "name": "TheTitle",
+          "url": "https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "If We End",
+      "url": "https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB"
+    },
+    {
+      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -5082,7 +5220,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 161290,
       "name": "it's not fair, babe!",
       "url": "https://open.spotify.com/track/6g1A7MXOIzH02Kj2Fi0VL6"
@@ -5443,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Last Letter",
+        "url": "https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197652,
+      "name": "Last Letter",
+      "url": "https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC"
+    },
+    {
+      "album": {
         "name": "late nite",
         "url": "https://open.spotify.com/album/1srxCzpKhsARgl6XTFVVm6"
       },
@@ -5750,7 +5906,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139534,
       "name": "like this.",
       "url": "https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB"
@@ -6361,6 +6517,24 @@
     },
     {
       "album": {
+        "name": "melt",
+        "url": "https://open.spotify.com/album/4RUNSQHGbuCZCVu3heAwEy"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "melt",
+      "url": "https://open.spotify.com/track/3OIYtS8a1YEVpAeStFVRWY"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/262HbecHKS7KHGzwGveBOh"
       },
@@ -6372,7 +6546,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 195157,
       "name": "Memory",
       "url": "https://open.spotify.com/track/12T4WzDi9sw8EP9Dq810HB"
@@ -6398,7 +6572,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 154153,
       "name": "Mess In Me",
       "url": "https://open.spotify.com/track/1psO7zg2F9gDEk9qZ77zjE"
@@ -6920,7 +7094,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
@@ -7018,7 +7192,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
@@ -7488,7 +7662,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 212054,
       "name": "Overgrown",
       "url": "https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q"
@@ -7840,6 +8014,28 @@
       "duration_ms": 167546,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6YB6L559W9IoLNm2JhRGTd"
+    },
+    {
+      "album": {
+        "name": "potential for love",
+        "url": "https://open.spotify.com/album/02TST6DMRFTNUwOV3mMWF1"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        },
+        {
+          "name": "Apriltwentyfifth",
+          "url": "https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150946,
+      "name": "potential for love",
+      "url": "https://open.spotify.com/track/5c9pleDjjVw1ia9YWfGeLf"
     },
     {
       "album": {
@@ -8637,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/5N3NF0yDsadlffioQ2wHYR"
+      },
+      "artists": [
+        {
+          "name": "Vivien Yap",
+          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/5hwBvSlcCIk1zgB1E5dnSE"
+    },
+    {
+      "album": {
         "name": "Sleep Crying",
         "url": "https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb"
       },
@@ -8888,6 +9102,28 @@
       "duration_ms": 164662,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ"
+    },
+    {
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/6GmLbLRhlsFwHN5IRimKBo"
+      },
+      "artists": [
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        },
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "somebody's daughter",
+      "url": "https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr"
     },
     {
       "album": {
@@ -9272,7 +9508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 97297,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/7ACCDls4FhDgW26K1Q5YzK"
@@ -9342,6 +9578,24 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4k4t0XZidZc2OxtY0DA4Ml"
+      },
+      "artists": [
+        {
+          "name": "Sophia Kao",
+          "url": "https://open.spotify.com/artist/6MeJZNLqjXuJ0fJ2yPlimo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6XWYHzZAEYim58L50hfAri"
     },
     {
       "album": {
@@ -10232,7 +10486,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218780,
       "name": "two of us",
       "url": "https://open.spotify.com/track/7K6IzZIlJjYxhg1cnHDDky"
@@ -11440,6 +11694,24 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
+    },
+    {
+      "album": {
+        "name": "You'll Never Know",
+        "url": "https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL"
+      },
+      "artists": [
+        {
+          "name": "Lydia Pau",
+          "url": "https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269022,
+      "name": "You'll Never Know",
+      "url": "https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > PANIA is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,340 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,341 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 54 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 55 | [Only With You](https://open.spotify.com/track/39PEvDhV4y50bAvwbJCtot) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Only With You](https://open.spotify.com/album/4ybmfKNkrpIXMUQ60FvcDm) | 2:57 |
 
-Snapshot ID: `MCw4NDNiM2EzYjdlMjdiZjBjZGQ3OGM2ZmE0MWY0NDdmODM3ZDQ0MTVk`
+Snapshot ID: `MCw4ZWZkNzhlYzYwODc2NzJiNzI5NmI4YjQyYjNlODRhZjYzMjk4OGFj`

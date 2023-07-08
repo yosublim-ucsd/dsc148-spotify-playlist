@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 203426,
       "name": "Don't Wanna Cry",
       "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "album": {
         "name": "Mixtape",
         "url": "https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4"
       },
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 178653,
       "name": "I Need Love",
       "url": "https://open.spotify.com/track/1t9PSuMlvLv9EZrp5wyPZy"
@@ -5636,7 +5654,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 195146,
       "name": "OVERDRIVE",
       "url": "https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG"

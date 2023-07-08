@@ -4,7 +4,7 @@
 
 > Bandas legendarias y canciones que hicieron historia\. Foto: Los Prisioneros.
 
-133 songs - 9 hr 15 min
+134 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Mi Casa En El Árbol](https://open.spotify.com/track/4SeRpWDWkDDbqNWAFCS5Ng) | [Jorge González](https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG) | [Jorge Gonzalez](https://open.spotify.com/album/3q3xpIy2qi3vasyfLax0p4) | 4:19 | 2021-09-16 | 2022-07-29 |
 | [Mi Destino](https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Glup](https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9) | 3:25 | 2021-09-16 | 2022-07-29 |
 | [Mi Señora](https://open.spotify.com/track/1QQHHl2jOL76Fc40XiPBie) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [22 Exitos Pajarones](https://open.spotify.com/album/4AcLCsKockVEqQn6mdekU0) | 3:09 | 2021-09-16 | 2022-07-28 |
-| [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 | 2021-09-16 |  |
+| [Mi Vida](https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:42 | 2021-09-16 | 2023-07-08 |
 | [Mi Vida Vale Más \- 2002 Digital Remaster](https://open.spotify.com/track/5vj1hgSUnEtcHKRcXVhg8c) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Grandes Exitos \- Rock Chileno](https://open.spotify.com/album/3PlaZbr7gVZNIkoub5vHyM) | 2:48 | 2021-09-16 | 2022-07-27 |
 | [Milagro](https://open.spotify.com/track/4Ev1EbYD7rsCNoMnHTUhLz) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Amanece](https://open.spotify.com/album/0jwxzmZ7LlCmTvCctglokp) | 2:59 | 2021-09-16 | 2022-07-16 |
 | [Miño](https://open.spotify.com/track/6As9jWGwGowXeSd2OiQzeg) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Canción De Lejos](https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK) | 4:04 | 2021-09-16 | 2022-07-29 |
@@ -100,6 +100,7 @@
 | [No Dejes Que...](https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:39 | 2021-09-16 |  |
 | [No Me Hables de sufrir](https://open.spotify.com/track/60xIw1We9dC9yzqKrdC1EK) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Culpa](https://open.spotify.com/album/4QK2ecV3jFeTPI9c2C5Zih) | 3:55 | 2021-09-16 | 2022-07-29 |
 | [Nuestra señal](https://open.spotify.com/track/5Jd5oyexFT0JGWX17RAFXY) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3063oQgZ7ngvUJIVSlXWUE) | 4:11 | 2021-09-16 | 2022-07-29 |
+| [Nunca Se Apaga \- Remaster 2022](https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Fuiste Bueno \(Remaster 2022\)](https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy) | 2:41 | 2023-07-07 |  |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-09-05 | 2023-06-06 |
 | [Our House](https://open.spotify.com/track/3UBJRltEU6MFv7DkLs13Z1) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/7l3Yo2X2XX2A7AYyDESULC) | 3:01 | 2022-07-04 | 2022-07-29 |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2021-09-16 |  |

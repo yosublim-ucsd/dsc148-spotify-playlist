@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Contact (Original Mix)",
+        "url": "https://open.spotify.com/album/1u9IZ8JndgmfdD8Py0AGTe"
+      },
+      "artists": [
+        {
+          "name": "HOF",
+          "url": "https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347462,
+      "name": "Contact - Original Mix",
+      "url": "https://open.spotify.com/track/4WWdUXRaZYMLYZVQVzcDWU"
+    },
+    {
+      "album": {
         "name": "Control (feat. Leftfield)",
         "url": "https://open.spotify.com/album/6zu4tIY5ZDIMSvhdTaBhVf"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 305477,
       "name": "Everything Collapses",
       "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
@@ -5310,7 +5328,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 216597,
       "name": "Madness In The Clouds",
       "url": "https://open.spotify.com/track/1zaGRE1Aek6Ca7zbu40mnT"
@@ -5683,6 +5701,28 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/0bUxbKanKPzrUM0kVrjD36"
+      },
+      "artists": [
+        {
+          "name": "Karim Alkhayat",
+          "url": "https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25"
+        },
+        {
+          "name": "N\u00daRIA (DE)",
+          "url": "https://open.spotify.com/artist/0l7mCK3Sek69uUs9ZDZcxE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350322,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7wqQ92BF3CMJywHRKmCLl1"
+    },
+    {
+      "album": {
         "name": "Electric Drive",
         "url": "https://open.spotify.com/album/3MmNT2A0x42p2lkCB41VsE"
       },
@@ -5886,6 +5926,28 @@
       "duration_ms": 394565,
       "name": "Narangi",
       "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+    },
+    {
+      "album": {
+        "name": "Nautilus",
+        "url": "https://open.spotify.com/album/2fE3Nl6uBc2W5ex4H1QXxn"
+      },
+      "artists": [
+        {
+          "name": "Aitor Ronda",
+          "url": "https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344888,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/5zcNELiJiIj3YP1Mxh8xCN"
     },
     {
       "album": {
@@ -7752,7 +7814,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 240538,
       "name": "Silence Your Mind",
       "url": "https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF"
@@ -8494,7 +8556,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
@@ -8766,6 +8828,28 @@
       "duration_ms": 416146,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/1jO9T05pWsWLcCOfLHIc8R"
+    },
+    {
+      "album": {
+        "name": "The Procedure EP",
+        "url": "https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193082,
+      "name": "The Procedure - Original Mix",
+      "url": "https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS"
     },
     {
       "album": {

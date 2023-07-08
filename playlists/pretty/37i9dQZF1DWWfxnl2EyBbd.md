@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,737 likes - 400 songs - 1 day 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,794 likes - 400 songs - 1 day 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 |
 | 400 | [On a Misty Night](https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 5:44 |
 
-Snapshot ID: `MCxmYzI3ZWNhZTgzZDljYWZmZjE5MTUxZjk4OTRmMDIyNGUwN2M4OWU4`
+Snapshot ID: `MCwyMmEzOTNlZmJlZjI5NmE0NDY2ZmE3MjI5ZDM4ZWRhN2U1NmUxNWRm`

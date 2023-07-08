@@ -1,13 +1,33 @@
 {
   "description": "The home for alternative electronic music. Cover: Sampha",
-  "num_followers": 495049,
+  "num_followers": 495077,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGJjOWQwZjlmNjhhOTIwMjQxMjlkNzkyMWQyNTc1MWEyOTdlM2Zk",
+  "snapshot_id": "MCw0Mzc4MTA4YmI3MmZkMTk4NTU0YzZhOGExMTIzMWRiOGMzZDRmNThj",
   "tracks": [
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {

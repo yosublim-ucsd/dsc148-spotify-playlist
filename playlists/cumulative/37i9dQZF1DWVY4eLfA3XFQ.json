@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197365,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH"
+    },
+    {
+      "album": {
         "name": "Asereje",
         "url": "https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4"
       },
@@ -6127,6 +6149,32 @@
     },
     {
       "album": {
+        "name": "Express Yourself (Mochakk Remix)",
+        "url": "https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Nicky Da B",
+          "url": "https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Express Yourself - Mochakk Remix",
+      "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
+    },
+    {
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/428Z43dxEuAOVj0pYgaeSA"
       },
@@ -7146,6 +7194,24 @@
       "duration_ms": 361312,
       "name": "For the Soul",
       "url": "https://open.spotify.com/track/4OpWRprAGifQL3Ei0O24fZ"
+    },
+    {
+      "album": {
+        "name": "Freakiness",
+        "url": "https://open.spotify.com/album/1RR8ncQaNVcN3VzEad2hVk"
+      },
+      "artists": [
+        {
+          "name": "Chelina Manuhutu",
+          "url": "https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Freakiness",
+      "url": "https://open.spotify.com/track/27teEuh9kHjCj4SOQWgkZy"
     },
     {
       "album": {
@@ -8792,7 +8858,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 140216,
       "name": "House Party",
       "url": "https://open.spotify.com/track/0WgaK1uxupCdKjCfwdJizy"
@@ -10342,7 +10408,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 121904,
       "name": "Killing Papa",
       "url": "https://open.spotify.com/track/1Doiq7cx2iQsju9ysyU14s"
@@ -11766,7 +11832,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170624,
       "name": "Lost",
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
@@ -14335,6 +14401,24 @@
     },
     {
       "album": {
+        "name": "Now Work",
+        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Now Work",
+      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/33wufg2P5EdXW0ZgBnOXgz"
       },
@@ -15376,7 +15460,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 212598,
       "name": "Papi",
       "url": "https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV"
@@ -19640,7 +19724,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 198545,
       "name": "Tachet\u00e9",
       "url": "https://open.spotify.com/track/32v92N39LOlK2w0GA3u8jl"
@@ -19844,7 +19928,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139047,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/1BBxP6CwIQICRZbcsmUz40"
@@ -20851,6 +20935,24 @@
     },
     {
       "album": {
+        "name": "The Stutter",
+        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "The Stutter",
+      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
+    },
+    {
+      "album": {
         "name": "The Sun Can't Compare (My Life)",
         "url": "https://open.spotify.com/album/3Jrv1FrKmiqCCLnTPkmlgv"
       },
@@ -21810,6 +21912,32 @@
       "duration_ms": 180671,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/3c85I6EBvBx2aoU60Mvf79"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e1gatelo",
+        "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Philip Z",
+          "url": "https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Tr\u00e1gatelo",
+      "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
     },
     {
       "album": {

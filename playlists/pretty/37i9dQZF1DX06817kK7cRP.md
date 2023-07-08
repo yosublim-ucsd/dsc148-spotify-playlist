@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,445 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,747 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 |
 | 100 | [El Platanal](https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:23 |
 
-Snapshot ID: `MCwxMTU2M2M1MDhkZDk2ZWJkN2E2NTYzMWFhYzliNDk0MzgyMTRmY2E3`
+Snapshot ID: `MCwzMDFkNTY0NTVlYjk0NmQzMGZlZTBlNzY3MDFjNDI1NzJjYjIzOTVj`

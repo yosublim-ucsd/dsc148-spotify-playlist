@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. Devon Gilfillian",
+  "description": "The highest quality alternative blend ft. Local Natives",
   "name": "Grade A",
   "tracks": [
     {
@@ -179,20 +179,24 @@
     },
     {
       "album": {
-        "name": "Ace Up My Sleeve (from the Motion Picture \u201cThe Starling Girl\u201d)",
+        "name": "Ace Up My Sleeve",
         "url": "https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW"
       },
       "artists": [
         {
           "name": "Lord Huron",
           "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Ben Schneider",
+          "url": "https://open.spotify.com/artist/1QI4AHWvms26AJI5mXHvqE"
         }
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230174,
-      "name": "Ace Up My Sleeve - from the Motion Picture \u201cThe Starling Girl\u201d",
+      "name": "Ace Up My Sleeve",
       "url": "https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP"
     },
     {
@@ -504,6 +508,24 @@
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
+    },
+    {
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "album": {
@@ -3187,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Time Will Wait For No One",
+        "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "Empty Mansions",
+      "url": "https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/7hGVr1eHSLvCIV0EFRqw2i"
       },
@@ -3880,6 +3920,24 @@
       "duration_ms": 227800,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3"
+    },
+    {
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0qvMNSe6WvH8eStHB3kmfD"
+      },
+      "artists": [
+        {
+          "name": "Bethany Cosentino",
+          "url": "https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/751gGLt9KVRg2e8JfDgHCZ"
     },
     {
       "album": {
@@ -11904,6 +11962,24 @@
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH"
+    },
+    {
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185831,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
     },
     {
       "album": {

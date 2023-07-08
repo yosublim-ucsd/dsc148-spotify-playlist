@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=dKnzhFKjQMa6Nb5_eCwxhQ\">Nasty C</a>",
-  "num_followers": 59006,
+  "num_followers": 59122,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQzZjA4ZDI0Njc5YTcwNTAwNjMzMDg4NjZmODk5YjJhMzIyNmJh",
+  "snapshot_id": "MCw1ZGQ3ZTY0ODg4MDQ0M2JkNzQxMWM3MzAwYWIxYmJhNDdhODVhYzUz",
   "tracks": [
     {
       "added_at": "2023-06-30 00:00:00",
@@ -713,6 +713,38 @@
       "url": "https://open.spotify.com/track/0lbuUXHPJF8AFJczbV02Vt"
     },
     {
+      "added_at": "2023-07-07 13:44:29",
+      "album": {
+        "name": "Menzi Ngubane",
+        "url": "https://open.spotify.com/album/1SqxmLAIWyVm6KEBLoXnjb"
+      },
+      "artists": [
+        {
+          "name": "Gigi Lamayne",
+          "url": "https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        },
+        {
+          "name": "Ntosh Gazi",
+          "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p"
+        }
+      ],
+      "duration_ms": 267610,
+      "name": "Menzi Ngubane",
+      "url": "https://open.spotify.com/track/4fozcNnXw2dJX5v45Z8vfO"
+    },
+    {
       "added_at": "2023-06-09 09:02:34",
       "album": {
         "name": "Sta Soft",
@@ -891,26 +923,6 @@
       "duration_ms": 164571,
       "name": "Another",
       "url": "https://open.spotify.com/track/0SB82LlvRKEbwHOcnYA7lu"
-    },
-    {
-      "added_at": "2023-06-09 09:02:34",
-      "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/3IFTM6hwzIxBBQo0CDE8EE"
-      },
-      "artists": [
-        {
-          "name": "Jub Jub",
-          "url": "https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/427j7juxoIn7rDcdvDajuO"
     },
     {
       "added_at": "2023-06-09 09:02:34",

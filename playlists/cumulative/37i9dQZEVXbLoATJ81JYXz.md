@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,408 songs - 3 day 0 hr 42 min
+1,409 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [BIRTHDAY](https://open.spotify.com/track/2FUgFXFdEOve59piY39kMB) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:15 | 2022-02-05 | 2022-03-06 |
 | [BIRTHDAY](https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [BIRTHDAY](https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT) | 2:15 | 2022-01-22 | 2022-02-06 |
 | [Bla bla \(Intro\)](https://open.spotify.com/track/1RzLeCw0rSqGcH9QIYzYTg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:01 | 2022-06-24 | 2022-07-10 |
-| [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-06-10 |  |
+| [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-06-10 | 2023-07-08 |
 | [Bleeding](https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC) | [Johanna Nordström](https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3) | [Bleeding](https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO) | 3:26 | 2022-05-30 | 2022-06-03 |
 | [Blessing](https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2) | [Blessing](https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7) | 2:11 | 2022-10-29 | 2022-11-13 |
 | [Blickar](https://open.spotify.com/track/1GNZf9aTlK398eDtaEkURs) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:49 | 2023-04-21 | 2023-04-23 |
@@ -820,7 +820,7 @@
 | [MEDVETSLÖS](https://open.spotify.com/track/1hA5oGHUE1TLu5QCHPmz63) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [MEDVETSLÖS](https://open.spotify.com/album/0BTR6pSoUXTpteICQ8dlEb) | 3:23 | 2021-08-29 | 2021-10-18 |
 | [MEDVETSLÖS](https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:23 | 2022-05-01 | 2022-05-03 |
 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:38 | 2023-04-08 | 2023-05-07 |
-| [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 | 2022-09-10 | 2023-04-19 |
+| [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 | 2022-09-10 |  |
 | [Mer av dig](https://open.spotify.com/track/5BunxZhNY1xaN9CsXvbBxx) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/5VR9DGZJqznBAYNECx1A1S) | 2:44 | 2023-02-13 | 2023-03-05 |
 | [Mer av dig](https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp) | 2:44 | 2023-03-04 | 2023-05-31 |
 | [Mer jul \- Klassisk Version](https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0) | [Mer jul](https://open.spotify.com/album/4K5JVMha8JLkSlwvMitE6o) | 3:56 | 2021-11-28 | 2022-12-29 |
@@ -1058,7 +1058,7 @@
 | [SANTORINI](https://open.spotify.com/track/19NOk119jgj751CxrWsvOl) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:54 | 2022-05-07 | 2022-05-29 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-10-23 | 2021-11-06 |
 | [Sarah](https://open.spotify.com/track/7ylN51XWVcCia5TDum3XhN) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/3aln3y2urzDJkfr7LAyPlW) | 3:13 | 2021-11-06 | 2021-11-07 |
-| [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2023-07-01 |  |
+| [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2023-07-01 | 2023-07-08 |
 | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6FQWsSZIbvt53KmJ9goFGK) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB) | 3:10 | 2021-05-16 | 2021-06-18 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-23 | 2022-05-26 |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-16 | 2022-05-29 |
@@ -1336,6 +1336,7 @@
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-06-08 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/0fmQ692NrBq51GSFVNV3og) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Luften bor i mina steg](https://open.spotify.com/album/58nibN4cRCN643kIiqIG5W) | 5:14 | 2022-06-25 | 2022-06-27 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 |  |
 | [VOI](https://open.spotify.com/track/6pUm3MoTibn5ql3VkNCghC) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [VOI](https://open.spotify.com/album/4IsIz3slcNGveMr1uJ8CuJ) | 2:42 | 2021-04-26 | 2023-02-06 |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-03-27\* | 2021-06-27 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-06-02 |

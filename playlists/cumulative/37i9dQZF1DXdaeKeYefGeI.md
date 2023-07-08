@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
+> Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
 115 songs - 7 hr 16 min
 

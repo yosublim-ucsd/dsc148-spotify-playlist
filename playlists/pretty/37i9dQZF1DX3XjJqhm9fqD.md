@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,690 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,708 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Stupid Love](https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [BlecksFlex](https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal) | [Stupid Love](https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0) | 2:44 |
 | 100 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 |
 
-Snapshot ID: `MCw3NWJhNzg1OTI3ZjUxOWZkNTUzNzY1NjcwZTM4NmNkNjk5N2EzOWUy`
+Snapshot ID: `MCxmMDFlMzJjNGMyMmZhYTU1YWYwY2MzMjM5YWMzOGJmZTczNDM0NjZi`

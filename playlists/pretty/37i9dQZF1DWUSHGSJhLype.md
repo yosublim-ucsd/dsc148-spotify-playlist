@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aquele rodízio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,137 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,357 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 99 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
 | 100 | [Lovezinho](https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi) | [Kamargão](https://open.spotify.com/artist/3EY7HU2OQYbmh5FdqUlDQI), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/7guyK8SG84ysWJtA5IT1ec) | 2:15 |
 
-Snapshot ID: `MCw2MWMwMGVkNjYzZWYzNTdjNjhiMWMyOGRmOWUwZGNkYjRkMzNjZWMz`
+Snapshot ID: `MCw1ODkyZmIxNmIyN2EzN2ZlNDhiYWZiM2I5MTFlY2Y3N2YxZTVmZWQ1`

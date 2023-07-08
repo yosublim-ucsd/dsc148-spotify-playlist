@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,130 likes - 250 songs - 20 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,207 likes - 250 songs - 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [With Marco](https://open.spotify.com/track/6g2WxIhfHssC87AE15lSaK) | [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Kristjan Randalu](https://open.spotify.com/artist/0UQW5kxRc9XEPwasEQH1rc), [Andreas Polyzogopoulos](https://open.spotify.com/artist/0RSBZTRDXHYno2KRu2GPEn), [Bodek Janke](https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE), [Thomas Konstantinou](https://open.spotify.com/artist/0RBP72A07ZlcABxulw79FO) | [With Marco](https://open.spotify.com/album/434XQZwJcqXWtkvcwhzK9W) | 5:29 |
 | 250 | [Sua Beleza e Beleza](https://open.spotify.com/track/5QuPgQRKb6ojYzbvNTRjQv) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 3:00 |
 
-Snapshot ID: `MCwxMjJhNGM5MjY4NzBhMWM1NDYyOWQ2MjBlMTNlZDE2ZDNmNmEzM2Y3`
+Snapshot ID: `MCwzNTE2MGNmODkxYzNiMmY1ZGFlNTgxM2Q4YmQzNmZlZTU5MjNkNTRi`

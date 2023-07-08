@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-173 songs - 10 hr 35 min
+175 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Country Blues](https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Don't You Marry No Railroad Man](https://open.spotify.com/album/4U4lTsGEiX6lnIwYug9Aep) | 3:20 | 2022-01-28 | 2023-07-01 |
 | [cowboy take me away](https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 4:36 | 2022-11-11 |  |
 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 | 2022-01-28 |  |
-| [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 |  |
+| [Dance Floor](https://open.spotify.com/track/3vogqXUK0kbuG3RwqjborM) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:55 | 2023-06-30 |  |
+| [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2023-07-08 |
 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 | 2023-03-24 |  |
 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 | 2023-01-13 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 | 2023-06-17 |
@@ -55,7 +56,8 @@
 | [Georgia Dreamin'](https://open.spotify.com/track/2N3C3SQ1T7VNoYKOUWKWsT) | [Ben Chapman & Co.](https://open.spotify.com/artist/6caurkAUTAiE68wavYKUN8), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Georgia Dreamin'](https://open.spotify.com/album/1BA9KEdF7nurksYJY1Lc3N) | 3:53 | 2023-01-27 |  |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2022-01-28 |  |
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Get It ‘Fore It’s Gone](https://open.spotify.com/album/36rWb7X5e9PkWN8wpsVFXW) | 3:34 | 2022-01-28 | 2023-01-14 |
-| [Gettin' Outta My Mind](https://open.spotify.com/track/5xVKhynmkODxlh6ol9GSN8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Gettin' Outta My Mind](https://open.spotify.com/album/6DGQItiDkYwvpJNrvKdOZ4) | 3:01 | 2023-02-03 |  |
+| [Gettin' Outta My Mind](https://open.spotify.com/track/4q5wuUvUTOc5ujzbNTP4bi) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 3:01 | 2023-06-30 |  |
+| [Gettin' Outta My Mind](https://open.spotify.com/track/5xVKhynmkODxlh6ol9GSN8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Gettin' Outta My Mind](https://open.spotify.com/album/6DGQItiDkYwvpJNrvKdOZ4) | 3:01 | 2023-02-03 | 2023-07-08 |
 | [Ghost](https://open.spotify.com/track/68AFOIiz3TD7Wbar8eEMXm) | [Kenny Feidler](https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q) | [Ghost](https://open.spotify.com/album/2csD3zZHTpq4t6qsZrDcr4) | 4:49 | 2023-06-16 |  |
 | [Give Until It Hurts](https://open.spotify.com/track/5zyUUj0HBMdDYEvgH6iiKS) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Way Down Here](https://open.spotify.com/album/4T9hHInEKiGIRNjFZbq9z4) | 3:17 | 2022-02-25 |  |
 | [Give Until It Hurts](https://open.spotify.com/track/6LtFRtkqcMYttZVFLdpjcT) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Give Until It Hurts](https://open.spotify.com/album/06ExLCRx2FS9iJfXd1z8rd) | 3:17 | 2022-02-25 | 2022-07-29 |

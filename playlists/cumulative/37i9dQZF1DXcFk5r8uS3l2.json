@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 423206,
       "name": "Go Poseidon!",
       "url": "https://open.spotify.com/track/2PNFIfnnavc5BbrwwtfR6l"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 244011,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj"
@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "I Need a Cigarette",
+        "url": "https://open.spotify.com/album/6Q3NpJI06MuIhYEqp9QEkb"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220891,
+      "name": "I Need a Cigarette",
+      "url": "https://open.spotify.com/track/2J6c7nw2laKuGzu8ky4j2i"
+    },
+    {
+      "album": {
         "name": "I Ran Down Every Dream",
         "url": "https://open.spotify.com/album/2k5iceeyXKhKfsSeH7QkHM"
       },
@@ -3022,6 +3040,24 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "album": {
+        "name": "Lost On Your Time",
+        "url": "https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233704,
+      "name": "Lost On Your Time",
+      "url": "https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E"
     },
     {
       "album": {

@@ -1509,6 +1509,36 @@
     },
     {
       "album": {
+        "name": "Discovering Mendelssohn",
+        "url": "https://open.spotify.com/album/4kx3vz3ZZj1XoqhewXx4jQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christian Li",
+          "url": "https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR"
+        },
+        {
+          "name": "David Berlin",
+          "url": "https://open.spotify.com/artist/4IkUSXhEFUPGGlDpUTYL24"
+        },
+        {
+          "name": "Melbourne Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401973,
+      "name": "St. Matthew Passion, BWV 244: Erbarme dich (Arr. Parkin for Violin, Cello and Chamber Ensemble)",
+      "url": "https://open.spotify.com/track/1y7FHOSD63QGlcJmDxV2Iq"
+    },
+    {
+      "album": {
         "name": "Borodin: String Quartet No. 2 - Shostakovich: String Quartet No. 8",
         "url": "https://open.spotify.com/album/0o1yO7sfhz0SAVzdj63VJS"
       },
@@ -1618,7 +1648,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166866,
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
       "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
     },
     {

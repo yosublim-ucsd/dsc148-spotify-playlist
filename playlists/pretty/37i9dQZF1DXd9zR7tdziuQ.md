@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,914 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,217 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [I'm Yours \- From the Casa Nova Sessions](https://open.spotify.com/track/0UCwB06x7avKQDFAkNVg2T) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Deluxe Edition\)](https://open.spotify.com/album/0bWIQoDyGTaztWXN2Aolmb) | 4:47 |
 | 150 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 
-Snapshot ID: `MCw3OWM3OTJhNTdkY2ZkNjEyYWM5OTM0NDczM2FhYmJjNGQ3NjAyNjA4`
+Snapshot ID: `MCw2YjRlNGMxNGY4YzExZjBlYjM5OTljZGI2Yzc1NDcyMmFhOGMyNTky`

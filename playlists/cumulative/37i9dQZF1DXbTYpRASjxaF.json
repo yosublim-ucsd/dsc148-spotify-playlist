@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/3eodYHRWwQpgo7upr6s80y"
+    },
+    {
+      "album": {
         "name": "Baile do Cinga do 12",
         "url": "https://open.spotify.com/album/58PrKw1nIhqRVf2FwkSRx1"
       },

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-477 songs - 1 day 5 hr 32 min
+478 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2021-12-17 | 2022-06-25 |
 | [Fall Apart World](https://open.spotify.com/track/4iT2uyC9Kw9BRPuixEqZxS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Dark Enough to See the Stars](https://open.spotify.com/album/0sYjIkRscDMGA8x663vWnZ) | 4:37 | 2022-06-03 | 2023-05-20 |
 | [Falling Apart \(Right Now\)](https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Falling Apart \(Right Now\)](https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI) | 3:16 | 2022-05-20 | 2023-06-23 |
-| [Falling Apart \(Right Now\)](https://open.spotify.com/track/7cT3T91Y4J92e4EopPEGjJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/5prfZewHLWnEMaWdDdgEb5) | 3:16 | 2023-06-16 |  |
+| [Falling Apart \(Right Now\)](https://open.spotify.com/track/7cT3T91Y4J92e4EopPEGjJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/5prfZewHLWnEMaWdDdgEb5) | 3:16 | 2023-06-16 | 2023-07-08 |
 | [Father's Søn](https://open.spotify.com/track/54a1TosE0ROHGcySrTnRIM) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Father's Søn](https://open.spotify.com/album/0C81h5KFf8tfmuP7TwfqVJ) | 4:21 | 2023-06-16 |  |
 | [Fear](https://open.spotify.com/track/6BZ9Li2J6wJD5pDVv3K9PL) | [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 3:42 | 2021-12-17 | 2022-04-02 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-04-01 | 2022-08-27 |
@@ -443,6 +443,7 @@
 | [Upside Down](https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:08 | 2022-07-22 | 2023-01-14 |
 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 | 2021-12-17 | 2022-07-29 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-04-01 | 2023-02-04 |
+| [Vampire in Appalachia](https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Vampire in Appalachia](https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu) | 3:04 | 2023-07-07 |  |
 | [Waste Your Time](https://open.spotify.com/track/0sBRVZYkvO1m9sndONbhg5) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Waste Your Time](https://open.spotify.com/album/5Jbk7SSm8MwBeTbZTXLWjZ) | 3:36 | 2021-12-17 | 2022-06-04 |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2021-12-17 | 2023-04-15 |
 | [Wave Dancer](https://open.spotify.com/track/4hWtttxOCrlMZY954i4Kr9) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:20 | 2022-04-01 | 2023-03-18 |

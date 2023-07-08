@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,721 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,810 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 |
 | 70 | [Above the Salt](https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Above the Salt](https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE) | 3:46 |
 
-Snapshot ID: `MCw4MjIwOTJkODc4MDkyYTI0NmEwYjdiMDFlNzA4M2JhNTgwNTk1MTFk`
+Snapshot ID: `MCxiOTZmNWI0ODMzNDU2MzY1ZjM4NmM3MjI3ZTU0YmYzMzI5YmE4OWEy`

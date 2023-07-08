@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270 likes - 91 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 61 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 |
 | 62 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 |
 | 63 | [Think Again](https://open.spotify.com/track/72aAmpLIV926IpLXn5bb4R) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Think Again](https://open.spotify.com/album/7kkbpcyIoMisqJQCqlsiuZ) | 4:07 |
-| 64 | [Ride Away](https://open.spotify.com/track/0BtuV1jppu2onZUkzKFtFk) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ride Away](https://open.spotify.com/album/418T1rZx2tAvzv7g7Zs0z8) | 3:08 |
+| 64 | [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 |
 | 65 | [Travelin' Heart](https://open.spotify.com/track/4rhqyg8ndPc61QEVMYlAsW) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Travelin' Heart](https://open.spotify.com/album/13kCJ0Apc7FKfceZ7zIsq8) | 3:23 |
 | 66 | [I Loved That Town](https://open.spotify.com/track/19ZCyJSkkhnpOS6OIn9rHz) | [Meredith Moon](https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f) | [Constellations](https://open.spotify.com/album/3CHiv61vD2CDB7Od4alOta) | 3:44 |
 | 67 | [Little sparrow](https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A day for the hunter, a day for the prey](https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa) | 3:16 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 90 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 91 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCw1M2JkZDczN2Y3ZGE2MmMxMDUyNTUyMTY1NWQ3YTM2MzlhOTgxN2Q2`
+Snapshot ID: `MCw5ODk2ZjUyMmQzYjJiYWRjYWU1MTQxM2Q1YTZiYzllNTUzY2JiNzlj`

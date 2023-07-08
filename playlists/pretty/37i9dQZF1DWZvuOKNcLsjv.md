@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,762 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,771 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 56 | [ダーリン](https://open.spotify.com/track/010Xsoma6PVCxHbCESayQX) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [ダーリン](https://open.spotify.com/album/6hgcwuQOeRXhEj52Zr1CUK) | 3:04 |
 | 57 | [VULGAR \(with Madonna\) \- Marlon Hoffstadt Remix](https://open.spotify.com/track/7b7hWcokYDxHYkZ382stF9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [VULGAR \(with Madonna\) \[Marlon Hoffstadt Remix\]](https://open.spotify.com/album/2K4AUqLC8fHPgKGOLWUXNO) | 2:56 |
 | 58 | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo) | 2:47 |
-| 59 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 |
+| 59 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 |
 | 60 | [TIME](https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [TIME](https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq) | 3:14 |
 | 61 | [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 |
 | 62 | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/1jcCGgDRrDsma4AXoEcrHW) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/album/7sRTzMavhZki7bNQM3ae3s) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 |
 | 100 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 
-Snapshot ID: `MCw4NDNmNjcxZDZlOTM2NDMzNjc0ZDVlNjE5ZjlhZTY3OGVkMjE0YTQ5`
+Snapshot ID: `MCwwMDEzYTQzNDcwMDcyMGNhNGVkYzIxZTUxOGE1MDgzNzJjNWJiYjI0`

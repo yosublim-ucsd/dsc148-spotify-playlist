@@ -1,12 +1,12 @@
 {
   "description": "Your new favourite songs! Cover: Dean Lewis & Julia Michaels",
-  "num_followers": 58618,
+  "num_followers": 58686,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjlhNGQxYjRlNTQwZWU3NWFiMTBmMWRiYjU5ZmJiM2ExZGQzOThm",
+  "snapshot_id": "MCwyNzk4ODI3YmNhMTg2N2FiYjM5M2IyMTVjYzA5Y2E0M2NkN2I0MWJk",
   "tracks": [
     {
       "added_at": "2023-07-06 14:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-07-06 14:00:00",
       "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
+    },
+    {
+      "added_at": "2023-07-06 14:00:00",
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -203,6 +219,26 @@
       "duration_ms": 210417,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
+    },
+    {
+      "added_at": "2023-07-06 14:00:00",
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
     },
     {
       "added_at": "2023-07-06 14:00:00",
@@ -1088,7 +1124,7 @@
       "added_at": "2023-07-06 14:00:00",
       "album": {
         "name": "Stars",
-        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
+        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
       },
       "artists": [
         {
@@ -1106,7 +1142,7 @@
       ],
       "duration_ms": 171233,
       "name": "Stars",
-      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
+      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
     },
     {
       "added_at": "2023-07-06 14:00:00",

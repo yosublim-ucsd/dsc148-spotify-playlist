@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,569 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,853 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [I'm the Sky, I'm the Earth](https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT) | [Deniz Taşar](https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6), [Halil Çağlar Serin](https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd) | [I'm the Sky, I'm the Earth](https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq) | 2:55 |
 | 150 | [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 |
 
-Snapshot ID: `MCw1ODM0MDIwZjY5MTdkNWRlMzBhZWQ4NzYyMDJjZDIyY2RjNmVmOTU4`
+Snapshot ID: `MCw0NGM5NDMyNjk5OGMxYTI4N2YwYjUxZTJlZTJhNmJkZjAyN2RlOTk4`

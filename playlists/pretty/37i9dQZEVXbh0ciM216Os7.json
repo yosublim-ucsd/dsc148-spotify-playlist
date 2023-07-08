@@ -6,10 +6,118 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMzQ5NjAsMDAwMDAwMDBhYTg5MmVmZDJmY2NlNjBjZDE5NTM1NWM5ZGVhN2E0Yg==",
+  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDBmOTBhMzY2MGI5MWRjNTc1NTkyNjYyMTU0NGY0NDA5MQ==",
   "tracks": [
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1"
+      },
+      "artists": [
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Werewolf (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "W H A T (We're Hungry And Thirsty)",
+        "url": "https://open.spotify.com/album/4j2Z6v5dXeKjQ69q5awOc4"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "HU$H",
+          "url": "https://open.spotify.com/artist/6sxubtAMXZBk6Vcm1UNZ6h"
+        },
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 184502,
+      "name": "W H A T (We're Hungry And Thirsty)",
+      "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Becoming A Coward",
+        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Becoming A Coward",
+      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
@@ -18,18 +126,34 @@
         {
           "name": "The HU",
           "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
         }
       ],
-      "duration_ms": 273173,
-      "name": "Mother Nature (feat. LP)",
-      "url": "https://open.spotify.com/track/04WnFdVesT0VLu1Fc57VoI"
+      "duration_ms": 293371,
+      "name": "Black Thunder - Acoustic",
+      "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fine Tune",
+        "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 426441,
+      "name": "Sweeter (feat. Cory Henry)",
+      "url": "https://open.spotify.com/track/5sJEcokoMPfQS4LqGbtgzU"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Do Enough",
         "url": "https://open.spotify.com/album/4ksJIww1ljHV6BiJbkNwBy"
@@ -53,115 +177,7 @@
       "url": "https://open.spotify.com/track/1kXtmE1YYAVCM048EN9w3y"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
-        "url": "https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Dominique Sanders",
-          "url": "https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt"
-        },
-        {
-          "name": "Justin Tyson",
-          "url": "https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI"
-        }
-      ],
-      "duration_ms": 226905,
-      "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
-      "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Crush Em",
-      "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Blues For Mama (Live)",
-        "url": "https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 284583,
-      "name": "Blues For Mama - Live",
-      "url": "https://open.spotify.com/track/01spo6sDNqRWv2J1rr8aiR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Falling Sky",
-        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "The Falling Sky",
-      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Freestyle Canal",
-        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 144780,
-      "name": "Freestyle Canal",
-      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "In My Heart (Moby Remix)",
         "url": "https://open.spotify.com/album/56neYC5Ezw9HcG9ohbAZ9Z"
@@ -181,7 +197,55 @@
       "url": "https://open.spotify.com/track/77goYyhHEJTEyGocbP8u7W"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Blues For Mama (Live)",
+        "url": "https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Blues For Mama - Live",
+      "url": "https://open.spotify.com/track/01spo6sDNqRWv2J1rr8aiR"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Freestyle Canal",
+        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 144780,
+      "name": "Freestyle Canal",
+      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Take Time",
         "url": "https://open.spotify.com/album/75oDNijUIXFwO1m6FyxBDI"
@@ -205,63 +269,7 @@
       "url": "https://open.spotify.com/track/7G4oZOyYRbkLKHuHyoFsq7"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "We Didn\u2019t Start The Fire",
-        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire",
-      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 262229,
-      "name": "False Idols (with Lil Baby, Suzanna Son)",
-      "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/5bYts6cqDWfSjcXqfVxlyP"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 310576,
-      "name": "So We Won\u2019t Forget - Live at Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2UEQqUtKm52zAo3rXwUFRk"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Aortic Desecration",
         "url": "https://open.spotify.com/album/4PWETtMYDc04hUibeHCetD"
@@ -277,7 +285,7 @@
       "url": "https://open.spotify.com/track/4fQm28Cj2twbMqhD49lz9b"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Box of Rain (Live at RFK Stadium, Washington, DC, 6/10/73)",
         "url": "https://open.spotify.com/album/6JWXD91cF3CJqcxTw5rXGV"
@@ -293,23 +301,7 @@
       "url": "https://open.spotify.com/track/5jZH2OfS7QYxz7IGsFux23"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Drunken Sailor (Metal Version)",
-        "url": "https://open.spotify.com/album/7qWqfEemHNdzUUA5R6eEP2"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 186279,
-      "name": "Drunken Sailor (Metal Version)",
-      "url": "https://open.spotify.com/track/4vKu5yXBzaLLGBMSYsjGFh"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Modern Day Miracle",
         "url": "https://open.spotify.com/album/3Hgr5iTzcifd9TibgdsSsm"
@@ -329,7 +321,23 @@
       "url": "https://open.spotify.com/track/2UPayNNp9jCGc4vpSJVyxr"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Drunken Sailor (Metal Version)",
+        "url": "https://open.spotify.com/album/7qWqfEemHNdzUUA5R6eEP2"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "Drunken Sailor (Metal Version)",
+      "url": "https://open.spotify.com/track/4vKu5yXBzaLLGBMSYsjGFh"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Abakhohlwe",
         "url": "https://open.spotify.com/album/04IWmAD2Zq3cAqaGwdwmqo"
@@ -353,7 +361,7 @@
       "url": "https://open.spotify.com/track/4RvDPHwYUb8Au86NSWhgQi"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "BANG BANG! (My Neurodivergent Anthem)",
         "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
@@ -369,27 +377,43 @@
       "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fatha Fig Ya (Food For Thought)",
-        "url": "https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8"
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/6ebMagmjBXUAWtP4jwHnBs"
       },
       "artists": [
         {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+          "name": "Pat dukes",
+          "url": "https://open.spotify.com/artist/5UyhboreLPANiB7sf42mn7"
         },
         {
-          "name": "RMR",
-          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 171545,
-      "name": "Fatha Fig Ya (Food For Thought)",
-      "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+      "duration_ms": 144796,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/42d0QtrHwsvP9hS93bCRsm"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "The Fourth Tuning",
+        "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        }
+      ],
+      "duration_ms": 281404,
+      "name": "Man! I Feel Like a Woman!",
+      "url": "https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
@@ -433,23 +457,7 @@
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Fourth Tuning",
-        "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        }
-      ],
-      "duration_ms": 281404,
-      "name": "Man! I Feel Like a Woman!",
-      "url": "https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Drama Queen",
         "url": "https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH"
@@ -465,7 +473,7 @@
       "url": "https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703"
@@ -481,7 +489,23 @@
       "url": "https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Champagne Shit",
+      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "'Round Midnight (Live In Cologne)",
         "url": "https://open.spotify.com/album/6qOPsJFKVjSc78dPvvKfC2"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/7fS4JuheYkSmZoJaoSPAUW"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
@@ -513,27 +537,7 @@
       "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Entre eux deux (The Paris Sessions)",
-        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 433533,
-      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
-      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "No Particulars",
         "url": "https://open.spotify.com/album/37Yc7iDKfuLvW9KIRof1iM"
@@ -561,20 +565,24 @@
       "url": "https://open.spotify.com/track/5FFoAfeyEX62UkHIoREtgw"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+        "name": "Entre eux deux (The Paris Sessions)",
+        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
         }
       ],
-      "duration_ms": 143200,
-      "name": "Champagne Shit",
-      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
+      "duration_ms": 433533,
+      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
+      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

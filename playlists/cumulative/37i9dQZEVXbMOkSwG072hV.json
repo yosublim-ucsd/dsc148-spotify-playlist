@@ -8640,7 +8640,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 459230,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
@@ -22548,7 +22548,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 153019,
       "name": "Pra Vaquejada Eu Vou",
       "url": "https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV"
@@ -27888,6 +27888,40 @@
       "duration_ms": 109115,
       "name": "Toma Tapa",
       "url": "https://open.spotify.com/track/0jI56frdnYYDQ5h0DAXnM4"
+    },
+    {
+      "album": {
+        "name": "Toma Toma Pau",
+        "url": "https://open.spotify.com/album/3sXQYL5XRCyb9phAf9YPaR"
+      },
+      "artists": [
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "DJ TN Beat",
+          "url": "https://open.spotify.com/artist/2izGaoIYoEdXcfIW6D8ktN"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ Dedda",
+          "url": "https://open.spotify.com/artist/7ic25pVVtxVTurYShrfDiN"
+        },
+        {
+          "name": "DJ Vmc",
+          "url": "https://open.spotify.com/artist/64bvTjzzoJ5K9QiNzbqVZG"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105454,
+      "name": "Toma Toma Pau",
+      "url": "https://open.spotify.com/track/353gM5AZL8OWRoBYR2JxDs"
     },
     {
       "album": {

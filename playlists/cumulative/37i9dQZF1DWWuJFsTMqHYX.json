@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Tassili (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        },
+        {
+          "name": "Kyp Malone",
+          "url": "https://open.spotify.com/artist/2ppllDLrUVkJMtMXptA8GS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334900,
+      "name": "Iswegh Attay",
+      "url": "https://open.spotify.com/track/3NUEM2icOuUn3WGOgsxDq7"
+    },
+    {
+      "album": {
         "name": "Azel",
         "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
       },
@@ -810,6 +832,24 @@
       "duration_ms": 237160,
       "name": "Kel Tinawen",
       "url": "https://open.spotify.com/track/0pBIIntNBLv3CZR1hzgpEM"
+    },
+    {
+      "album": {
+        "name": "Kulu",
+        "url": "https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1"
+      },
+      "artists": [
+        {
+          "name": "N'Gou Bagayoko",
+          "url": "https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Kulu",
+      "url": "https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD"
     },
     {
       "album": {
@@ -924,7 +964,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 281093,
       "name": "Manden Mandinkadenou (Chant de griot)",
       "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
@@ -1020,7 +1060,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp?si=8zvqT4B3RmmGrbtY\_vdCLw">Cece Vee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,328 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,335 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 |
 | 50 | [jupiter.](https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [jupiter.](https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ) | 3:46 |
 
-Snapshot ID: `MCw0NmJkMzE5MzMxY2ZjMzAxYmY5YmUxOGUxZDFiOTMzMzM4NDhmMTgx`
+Snapshot ID: `MCw0YjM0MWRlM2Q3NzI5MGQ3MTFiMDNjMmVlYjFmOTJhZWQ3MTA0ZjA3`

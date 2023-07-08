@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
+    },
+    {
+      "album": {
         "name": "fallin (feat. Liss)",
         "url": "https://open.spotify.com/album/5bwuj0Iuze77jbfrymLEtp"
       },
@@ -777,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq"
+    },
+    {
+      "album": {
         "name": "hey my love",
         "url": "https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU"
       },
@@ -806,7 +842,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 194611,
       "name": "HEY RAIN",
       "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218013,
       "name": "Is It Bearable?",
       "url": "https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ"

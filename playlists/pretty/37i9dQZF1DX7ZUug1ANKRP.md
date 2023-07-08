@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Nicolas Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,250 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,866 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Starlight](https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ) | [Drenchill](https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH), [Jorik Burema](https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P) | [Starlight](https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU) | 2:01 |
 | 50 | [Désenchantée \(Oli’s EuroRave Mix\)](https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée \(Oli’s EuroRave Mix\)](https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o) | 3:37 |
 
-Snapshot ID: `MCxhN2Q3NmI1YjNmMDA1MDI5NWZmMzEyZWE5ZjViODI1NDBhYjBlNDFl`
+Snapshot ID: `MCxkOTU2NjA4NGI2YmM2ZjNkYTg3MDJlZWFkNzIyYjZmMDM4YjkxOTA4`

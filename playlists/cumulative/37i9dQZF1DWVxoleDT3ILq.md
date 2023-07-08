@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-368 songs - 22 hr 18 min
+370 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Apuesto Que el Mundo No Dura](https://open.spotify.com/track/6VDCmJpts1sUhJ7AwB90EZ) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [Apuesto Que el Mundo No Dura](https://open.spotify.com/album/7Euakry7vjtya8RrClYF8s) | 3:03 | 2022-04-15 | 2022-07-28 |
 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 | 2022-04-15 | 2022-07-24 |
 | [Arabesco](https://open.spotify.com/track/3iiUKOvQ27hAfttpkNovNT) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Arabesco](https://open.spotify.com/album/0UCexnEz4hSnNEPdpMtLZe) | 3:57 | 2022-04-15 | 2022-07-27 |
-| [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 |  |
+| [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 | 2023-07-08 |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 |  |
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
@@ -98,6 +98,7 @@
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-04-15 | 2022-12-10 |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-04-15 |  |
 | [Ea Dem \(Demo 2009\)](https://open.spotify.com/track/24l4gnnZhsfEDQsKntUFQX) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Ea Dem \(Demo 2009\)](https://open.spotify.com/album/0wCC8j4kfKZwrDR4OeHcns) | 3:05 | 2022-04-15 | 2022-12-13 |
+| [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martin Berrios](https://open.spotify.com/artist/56BZ0odGTZKUHSfct4pVFC) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 |  |
 | [El Bosque](https://open.spotify.com/track/0apd5UoECzHEwxVivWILV1) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Hits para Morir](https://open.spotify.com/album/3UfoBjgBDZo3NQSLWKVLzg) | 3:26 | 2022-04-15 | 2022-07-29 |
 | [El Calor Nos Confundió](https://open.spotify.com/track/1eqDrhKuCrdcFID3cAY9vw) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1w7Z6fBFMBHsVGs6mVA2QV) | 3:27 | 2022-04-15 | 2022-12-10 |
 | [El Camino](https://open.spotify.com/track/4e4QltE1uwSGkkM1nyqK8O) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [El Camino](https://open.spotify.com/album/0kUFCDixMxP2RdNIuz7kJx) | 3:11 | 2022-04-15 | 2022-07-24 |
@@ -131,6 +132,7 @@
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-05-27 | 2023-01-28 |
 | [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 | 2022-11-12 |
 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 | 2023-05-26 |  |
+| [Eufrasia en el Desierto \- Demo](https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Eufrasia en el Desierto \(Demo\)](https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul) | 3:32 | 2023-07-07 |  |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
@@ -298,7 +300,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-04-15 | 2022-08-27 |
 | [SIN TI](https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM) | [Benji B](https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R) | [SIN TI](https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX) | 2:54 | 2023-03-24 |  |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-04-15 | 2022-07-29 |
-| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 |  |
+| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 | 2023-07-08 |
 | [Sinfonía](https://open.spotify.com/track/4Jr5xnojFBpqe2e0lnor5A) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Sinfonía](https://open.spotify.com/album/5VeegDgRdju23x1HN6Gy2I) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [Sobre la Profundidad](https://open.spotify.com/track/5FWCG1rDK3X2FPMpzmddxd) | [Matorral](https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd) | [Sobre la Profundidad](https://open.spotify.com/album/2dGiRub4mmXwFzRmp9dwJE) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Solo Solo](https://open.spotify.com/track/16qBTMdJ1aedTCf078l492) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Solo Solo](https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo) | 3:07 | 2022-05-27 | 2023-01-28 |

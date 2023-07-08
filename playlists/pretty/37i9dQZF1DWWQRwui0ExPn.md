@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,048,166 likes - 750 songs - 1 day 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,048,366 likes - 750 songs - 1 day 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [No One's Ever Asked For Their Money Back](https://open.spotify.com/track/20Ykmduv1yUwCYTxo38jnM) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [No One's Ever Asked For Their Money Back](https://open.spotify.com/album/1mGC8f7vgzj98Kx5uvPkTU) | 2:04 |
 | 750 | [Sleepy](https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get) | [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Sleepy](https://open.spotify.com/album/7MakEi9WGOJgugnvJgDbxj) | 2:23 |
 
-Snapshot ID: `MCw2ZTQyYzdiMTVhNjEzNGEzNjU3MDhkMGI4YjI0ZDE4NzE1MzAyMjIx`
+Snapshot ID: `MCwxMDRiZDkzMzFhZTY4MzE2MTA3NTk5MjEzNjhkMWFmMzgwZjRkN2U4`

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 303820,
+  "num_followers": 303917,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWEzZmNmNjhmNGRkMDJjZDQ5OGEwNjEzZjhiMGYxYzk4NzRiOTc4",
+  "snapshot_id": "MCxmMDE0YjY0OWM0NmY0ZjE2OGEwMGJjNjlmMzI2YTQ5NjlmOTVjYWFj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM"
     },
     {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/4GZWHjtORDvk3u7hIGzbkq"
+      },
+      "artists": [
+        {
+          "name": "Clemont",
+          "url": "https://open.spotify.com/artist/7cPTjkKAoxXlCj5YJT5Q1V"
+        },
+        {
+          "name": "Holy Mattress Money",
+          "url": "https://open.spotify.com/artist/6QCd5jmXOjrOBVzxSiLGqc"
+        }
+      ],
+      "duration_ms": 249926,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn"
+    },
+    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Westside Story",
@@ -75,6 +95,22 @@
       "duration_ms": 242285,
       "name": "Westside Story",
       "url": "https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Don't Worry 'Bout It",
+        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Don't Worry 'Bout It",
+      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -435,22 +471,6 @@
       "duration_ms": 196173,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "You're The First, The Last, My Everything",
-        "url": "https://open.spotify.com/album/30nK4pCgMfIOcwD8lPcftR"
-      },
-      "artists": [
-        {
-          "name": "Engelbert Humperdinck",
-          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        }
-      ],
-      "duration_ms": 219994,
-      "name": "You're The First, The Last, My Everything",
-      "url": "https://open.spotify.com/track/3gAmMKK21W3eR47UPj2dH9"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1469,26 +1489,6 @@
       "url": "https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 229610,
-      "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "lockdown",
@@ -1731,22 +1731,6 @@
       "duration_ms": 248000,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Sales Pitch",
-        "url": "https://open.spotify.com/album/2nXYMagjpvyG1cbDw8z668"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hawley",
-          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Sales Pitch",
-      "url": "https://open.spotify.com/track/7IEjQqBJsvp4U48FyLJkxG"
     },
     {
       "added_at": "2022-10-28 04:01:00",

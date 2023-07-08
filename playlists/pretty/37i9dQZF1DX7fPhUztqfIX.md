@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,048 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,078 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 |
 | 130 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
 
-Snapshot ID: `MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3`
+Snapshot ID: `MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4`

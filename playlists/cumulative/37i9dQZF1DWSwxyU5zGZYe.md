@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-101 songs - 6 hr 13 min
+102 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Shayad \- Reprise](https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:05 | 2023-05-09 |  |
 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 | 2022-04-11 |  |
 | [Tere Bin](https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Wazir](https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws) | 4:04 | 2023-04-05 |  |
-| [Tere Vaaste \- Unplugged](https://open.spotify.com/track/0mCStjzY19ZfiG62IEATmk) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Tere Vaaste \- Unplugged](https://open.spotify.com/album/4Zf72Ba35B929XFWqvFrWP) | 0:55 | 2023-07-06 |  |
+| [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 | 2023-07-06 |  |
+| [Tere Vaaste \- Unplugged](https://open.spotify.com/track/0mCStjzY19ZfiG62IEATmk) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Tere Vaaste \- Unplugged](https://open.spotify.com/album/4Zf72Ba35B929XFWqvFrWP) | 0:55 | 2023-07-06 | 2023-07-08 |
 | [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 | 2022-12-14 | 2023-01-26 |
 | [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 | 2023-04-05 |  |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2022-04-11 | 2023-01-05 |

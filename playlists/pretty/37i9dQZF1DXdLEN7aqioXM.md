@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,092 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,341 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Try](https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Try / Dark Strings](https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR) | 3:44 |
 | 150 | [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 |
 
-Snapshot ID: `MCw5OTQ1NDA2Mzk4YzAwNjQxMWFhNjc5ZGYwZGE5NzY3MTc2MTgzNmYw`
+Snapshot ID: `MCw0NTA5ODRiYWYwOGFhZmVhYzhiZDZhNzBjY2UzMTQyZTAyOGZiMWJj`

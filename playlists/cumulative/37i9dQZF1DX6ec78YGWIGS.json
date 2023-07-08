@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Cero Drama",
+        "url": "https://open.spotify.com/album/5eEDf3AavlpMFoQrpnkgPV"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198926,
+      "name": "Cero Drama",
+      "url": "https://open.spotify.com/track/3KcW43MMou5dhTKMd6mdzg"
+    },
+    {
+      "album": {
         "name": "Choca Mi Cintura",
         "url": "https://open.spotify.com/album/4vkbL3ruWwrbq9PE3bbWOL"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144806,
       "name": "Ese Diamante",
       "url": "https://open.spotify.com/track/61hKkpfpb5PJmsFjIGk9nS"
@@ -2179,6 +2197,32 @@
     },
     {
       "album": {
+        "name": "shawty",
+        "url": "https://open.spotify.com/album/5Dkwj5xqOTljq4FGwmKzJq"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166441,
+      "name": "shawty",
+      "url": "https://open.spotify.com/track/6igv1u6xlqiRBlAG6ufzsp"
+    },
+    {
+      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -2530,7 +2574,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 211742,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy"

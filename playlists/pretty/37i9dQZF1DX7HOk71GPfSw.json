@@ -1,12 +1,12 @@
 {
   "description": "music to play for your parents. Cover: 8485",
-  "num_followers": 406457,
+  "num_followers": 406740,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWUyMTAwYjZhYjM3YWU1YWNjOWM0MDA3NTBkN2U5MGI4N2I0NTcz",
+  "snapshot_id": "MCxkZDk3YjFjMTc5ZTBiNjIyNDczZWViYjQ0N2IzNGY3ZTQyNDg2ODQ2",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 162162,
       "name": "No Getting over U",
       "url": "https://open.spotify.com/track/37vlhyd8B4lr2H4Icb4dF8"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "ULTRABLAST",
+        "url": "https://open.spotify.com/album/14LqGwkUPdW0TII5sdlNYJ"
+      },
+      "artists": [
+        {
+          "name": "MISOGI",
+          "url": "https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "ULTRABLAST",
+      "url": "https://open.spotify.com/track/2t5A1wjtpNfFa1yqTYrG4P"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -459,6 +475,22 @@
       "duration_ms": 130560,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Codependent",
+        "url": "https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl"
+      },
+      "artists": [
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "duration_ms": 169704,
+      "name": "Codependent",
+      "url": "https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1057,6 +1089,22 @@
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
     },
     {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/1R85AwV2bmMs9aPdeVbwR9"
+      },
+      "artists": [
+        {
+          "name": "Sara King",
+          "url": "https://open.spotify.com/artist/5CRfAxYjJsDBH5wvWF2nja"
+        }
+      ],
+      "duration_ms": 148513,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6KlkbowjQWXsef4AwSQu4c"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "teeth II",
@@ -1187,6 +1235,22 @@
       "duration_ms": 137435,
       "name": "SHOCK",
       "url": "https://open.spotify.com/track/1nP8cnWQw8z3nQQRGTTlu5"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "artifact 22",
+        "url": "https://open.spotify.com/album/2PFM9dsU68zeAWCA1dbAHb"
+      },
+      "artists": [
+        {
+          "name": "fearofmakingout",
+          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
+        }
+      ],
+      "duration_ms": 104761,
+      "name": "artifact 22",
+      "url": "https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2"
     },
     {
       "added_at": "2022-12-02 05:00:00",

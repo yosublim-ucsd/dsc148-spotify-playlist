@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 52535,
-  "original_name": "RADAR Global",
+  "num_followers": 52568,
+  "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGMxMDk0NzJhY2E1MDQ3MjJjYTJiODE5ZmEyNmM2YmZhZjFkMzQ4",
+  "snapshot_id": "MCxiMGRkYjBjZTIzYWU4NDFlYjkyYjM0Y2JjYjY4OGYwZTRmNjM0NWNh",
   "tracks": [
     {
       "added_at": "2023-06-29 06:25:56",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
     },
     {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/6GmLbLRhlsFwHN5IRimKBo"
+      },
+      "artists": [
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        },
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "somebody's daughter",
+      "url": "https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr"
+    },
+    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Sofa Kings",
@@ -153,6 +173,22 @@
       "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
     },
     {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+    },
+    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Walk Away",
@@ -183,6 +219,22 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "RESTO IN CHILL",
+        "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "RESTO IN CHILL",
+      "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
     },
     {
       "added_at": "2023-06-09 08:10:55",
@@ -251,6 +303,26 @@
       "duration_ms": 155594,
       "name": "Titli",
       "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
+    },
+    {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "FIRST CLASS (feat. The Crane)",
+        "url": "https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "duration_ms": 184512,
+      "name": "FIRST CLASS (feat. The Crane)",
+      "url": "https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -493,22 +565,6 @@
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "INSECURE",
-        "url": "https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8"
-      },
-      "artists": [
-        {
-          "name": "Gordon Flanders",
-          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "INSECURE",
-      "url": "https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4"
-    },
-    {
       "added_at": "2023-04-12 07:52:33",
       "album": {
         "name": "Jack e Lacrime",
@@ -527,22 +583,6 @@
       "duration_ms": 158083,
       "name": "Jack e Lacrime",
       "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
-    },
-    {
-      "added_at": "2023-04-12 07:52:33",
-      "album": {
-        "name": "AFTERPARTY",
-        "url": "https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "AFTERPARTY",
-      "url": "https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -711,30 +751,6 @@
       "duration_ms": 175450,
       "name": "Count to Three",
       "url": "https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "TY (for ruining my life)",
-        "url": "https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ"
-      },
-      "artists": [
-        {
-          "name": "Adib Sin",
-          "url": "https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i"
-        },
-        {
-          "name": "Aziz Harun",
-          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
-        },
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "TY (for ruining my life)",
-      "url": "https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1151,22 +1167,6 @@
       "duration_ms": 112694,
       "name": "Diss Na Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Bahala Na",
-        "url": "https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "Bahala Na",
-      "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
     },
     {
       "added_at": "2023-05-04 10:15:19",
@@ -2337,6 +2337,6 @@
       "url": "https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK"
     }
   ],
-  "unique_name": "RADAR Global",
+  "unique_name": "RADAR Global ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM"
 }

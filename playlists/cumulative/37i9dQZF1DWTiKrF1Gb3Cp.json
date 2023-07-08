@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 206726,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "B\u00c9LICO",
+        "url": "https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228979,
+      "name": "B\u00c9LICO",
+      "url": "https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv"
+    },
+    {
+      "album": {
         "name": "Millonario Sin Corona",
         "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
       },
@@ -712,6 +734,24 @@
       "duration_ms": 229610,
       "name": "El Catr\u00edn (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+    },
+    {
+      "album": {
+        "name": "El G.O.A.T.",
+        "url": "https://open.spotify.com/album/68MBg9nXOdCbLD8ebxQWfw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255440,
+      "name": "El G.O.A.T.",
+      "url": "https://open.spotify.com/track/3XFZZBTWUvClRpmXG1NV0D"
     },
     {
       "album": {
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"

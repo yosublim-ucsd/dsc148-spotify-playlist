@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Stebin Ben",
+  "description": "New music from popular Hindi artists. Cover- Arjun Kanungo",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Aao Zara",
+        "url": "https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ"
+      },
+      "artists": [
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Shreya Phukan",
+          "url": "https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Aao Zara",
+      "url": "https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf"
+    },
+    {
+      "album": {
         "name": "Aapko Dekh Kar",
         "url": "https://open.spotify.com/album/5On97bWPnucY1U7y3xCPp1"
       },
@@ -342,6 +364,24 @@
       "duration_ms": 209999,
       "name": "Aapko Dekh Kar",
       "url": "https://open.spotify.com/track/0TOW8bu1pkcvT9H8qCdRJO"
+    },
+    {
+      "album": {
+        "name": "Aarzoo",
+        "url": "https://open.spotify.com/album/65mN0z094HGFbyZnmpQpqO"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164506,
+      "name": "Aarzoo",
+      "url": "https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s"
     },
     {
       "album": {
@@ -1209,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Baarishon Ki Dhun",
+        "url": "https://open.spotify.com/album/4v9QWEdfOAUfz2blMImF1N"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202682,
+      "name": "Baarishon Ki Dhun",
+      "url": "https://open.spotify.com/track/2nm7MOVPN2ZTMkaKetjmcg"
+    },
+    {
+      "album": {
         "name": "Baarishon Mein",
         "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
       },
@@ -1660,7 +1722,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 245242,
       "name": "Bewafa Se Pyaar Kiya",
       "url": "https://open.spotify.com/track/2fpqSTwVaQulpqxVT1qr7p"
@@ -1748,6 +1810,24 @@
       "duration_ms": 254500,
       "name": "Bidaai",
       "url": "https://open.spotify.com/track/4SXT5bpVDotStoHxNECxOB"
+    },
+    {
+      "album": {
+        "name": "BILLO",
+        "url": "https://open.spotify.com/album/0o2fQWt3RkDeN5jGU8Ii9U"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180650,
+      "name": "BILLO",
+      "url": "https://open.spotify.com/track/0AqRLZb3RAsJ50HARMGqAh"
     },
     {
       "album": {
@@ -2263,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Danger (From the album \u2018Industry2\u2019)",
+        "url": "https://open.spotify.com/album/29xSAVZlJXfesyePdoG5Iw"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "Danger (From the album \u2018Industry2\u2019)",
+      "url": "https://open.spotify.com/track/4c60wfEXKrxojR0tKEjPpw"
+    },
+    {
+      "album": {
         "name": "Darbadar (From \"Ittu Si Baat\")",
         "url": "https://open.spotify.com/album/5oQsGpxY1UB8IWWARDwpvO"
       },
@@ -2586,7 +2684,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 216380,
       "name": "Dekhte Reh Gaye",
       "url": "https://open.spotify.com/track/5uWpxV3uxJa8FIehaLkm0N"
@@ -2866,7 +2964,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 275294,
       "name": "Dil Mera Dil",
       "url": "https://open.spotify.com/track/17S7Q8aXOJWO1Lmp3upZl5"
@@ -4132,7 +4230,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 219839,
       "name": "Ho Nahin Sakta",
       "url": "https://open.spotify.com/track/1RWmsoIEEvXOD75toswk98"
@@ -5604,7 +5702,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 184389,
       "name": "Kam Toh Nahi",
       "url": "https://open.spotify.com/track/1Zniwney1Ea55JHO0TXOF2"
@@ -6028,7 +6126,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 188828,
       "name": "Khoobsurat",
       "url": "https://open.spotify.com/track/4oBGCJiFdTkTrRF6qY16Dn"
@@ -6148,6 +6246,28 @@
       "duration_ms": 158910,
       "name": "Khwab",
       "url": "https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv"
+    },
+    {
+      "album": {
+        "name": "Khwabon Ka Hai Tu Rehguzar",
+        "url": "https://open.spotify.com/album/5ZkYa5ME7yN4tnqP5V7XK9"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        },
+        {
+          "name": "Rupali Kashyap",
+          "url": "https://open.spotify.com/artist/2snKNPk7kKCFQiWQzdSNEg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243529,
+      "name": "Khwabon Ka Hai Tu Rehguzar",
+      "url": "https://open.spotify.com/track/0MZyI2TT2jy888mSjSKCuG"
     },
     {
       "album": {
@@ -6566,6 +6686,36 @@
       "duration_ms": 168124,
       "name": "Laaya",
       "url": "https://open.spotify.com/track/47EJ5d0ClIsqpMcfBt52Ji"
+    },
+    {
+      "album": {
+        "name": "Labon Se Baat",
+        "url": "https://open.spotify.com/album/4tJ5Gyq9I2RjYGcLc5Qz0D"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Rishabh Sharma",
+          "url": "https://open.spotify.com/artist/6pIt9fhft1vssrtmZEM8yt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240144,
+      "name": "Labon Se Baat",
+      "url": "https://open.spotify.com/track/5xDzqvgJ47x3VDRQFGiVwf"
     },
     {
       "album": {
@@ -8905,6 +9055,32 @@
     },
     {
       "album": {
+        "name": "Pyaar Mein Paagal",
+        "url": "https://open.spotify.com/album/5AjrIWpmAHwjDNFLduF9mX"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Uddipan Sharma",
+          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152552,
+      "name": "Pyaar Mein Paagal",
+      "url": "https://open.spotify.com/track/4vuny1FH57OGF5ZCUnNrIN"
+    },
+    {
+      "album": {
         "name": "Pyaar To Bas Pyaar Hai",
         "url": "https://open.spotify.com/album/6uHbPxhi9ZzKlcgs368n9S"
       },
@@ -8999,6 +9175,36 @@
     },
     {
       "album": {
+        "name": "Raatan Kaaliyan",
+        "url": "https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        },
+        {
+          "name": "Gautam G Sharma",
+          "url": "https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224211,
+      "name": "Raatan Kaaliyan",
+      "url": "https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr"
+    },
+    {
+      "album": {
         "name": "Rajasthan Calling",
         "url": "https://open.spotify.com/album/6cNAuwGciEi7GrFSSgYiQP"
       },
@@ -9036,7 +9242,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 202087,
       "name": "Rang De",
       "url": "https://open.spotify.com/track/7ywRv780yUIiMP6WROdUW7"
@@ -10428,7 +10634,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 266181,
       "name": "Tere Alawa",
       "url": "https://open.spotify.com/track/3iYDi6QpDQ9qy7zgVPVfXS"
@@ -10838,7 +11044,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199500,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
@@ -11236,7 +11442,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 242526,
       "name": "Tu Meri Roja (From \"Kushi\")",
       "url": "https://open.spotify.com/track/3u3ZPw7gXZFl3uLfo8hZP5"
@@ -12048,6 +12254,32 @@
       "duration_ms": 211219,
       "name": "Yaad Teri Aaye Baar Baar",
       "url": "https://open.spotify.com/track/5TRrW7Ja6brZDMdvty5PI0"
+    },
+    {
+      "album": {
+        "name": "Yaar Ka Sataya Hua Hai",
+        "url": "https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Nawazuddin Siddiqui",
+          "url": "https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Yaar Ka Sataya Hua Hai",
+      "url": "https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy"
     },
     {
       "album": {

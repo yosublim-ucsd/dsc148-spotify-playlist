@@ -1,13 +1,29 @@
 {
   "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
-  "num_followers": 12919,
+  "num_followers": 12916,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzI4NSwxZDI0YWM3NDNmZTZlMTk2YmEzY2YyYjk0YjM1MGZhNjE2ODEyZmIz",
+  "snapshot_id": "MzI4NiwxYzIzNzM0ODFiNjdmZjQ1NWY4MDVmZDk0NzFhZDY2NDg0MzI4YmM4",
   "tracks": [
+    {
+      "added_at": "2023-07-07 17:15:03",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/7AUH8Z01PFGilH3RRxFmcT"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "duration_ms": 167637,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4WADFGQzhFPdCIChjnlb0P"
+    },
     {
       "added_at": "2023-03-24 18:20:51",
       "album": {

@@ -4,7 +4,7 @@
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Coruja BC1, Mc Neguinho do Kaxeta
 
-223 songs - 12 hr 5 min
+224 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Atura ou Surta](https://open.spotify.com/track/5wQ29R7nJNy3g3DfLCuxNl) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF) | [Atura ou Surta](https://open.spotify.com/album/3HPD0wbbc0dbYBOWVYGjKo) | 2:11 | 2023-01-27 | 2023-02-25 |
 | [Australiana](https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Australiana](https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs) | 2:10 | 2023-04-07 | 2023-05-06 |
 | [Avisa Lá, Pt.3](https://open.spotify.com/track/7pWzcOoDF3ssFLrH5wivif) | [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Avisa Lá, Pt.3](https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof) | 5:38 | 2022-03-18 |  |
+| [Azul Piscina](https://open.spotify.com/track/3eodYHRWwQpgo7upr6s80y) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 | 2023-07-07 |  |
 | [Baile do Cinga do 12](https://open.spotify.com/track/2uLt06E9xCZVPFXg9v794o) | [MC Gontijo](https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY), [Dj Sati Marconex](https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN) | [Baile do Cinga do 12](https://open.spotify.com/album/58PrKw1nIhqRVf2FwkSRx1) | 3:01 | 2022-03-18 | 2022-07-29 |
 | [Baile do Cinga do 12](https://open.spotify.com/track/5GH9iPvJd3RlOBlMM2R3ME) | [MC Gontijo](https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY), [Dj Sati Marconex](https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN) | [Baile do Cinga do 12](https://open.spotify.com/album/4oNGK5AvVExXsSQ72lppjo) | 3:01 | 2022-07-08 | 2022-12-03 |
 | [Bailão de Rua](https://open.spotify.com/track/6YOawICLQ4tfYfUEtaNCxa) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc negrone](https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw) | [Bailão de Rua](https://open.spotify.com/album/7INcnrBvW6zlRiNyHMh24O) | 2:55 | 2022-04-29 | 2022-05-20 |

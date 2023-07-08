@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF_vS_eBk7x6VUGKkQ\">Stonebwoy</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=kafKB6C1TwqML0bLp4DoYQ\">Akwaboah</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199067,
       "name": "Body Bad",
       "url": "https://open.spotify.com/track/5LthhUhjR5d4al42gKAB2Q"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139389,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/08KL8wr8okqHoP10rTU5E0"
@@ -3159,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/3tyMlwxHwEE5TAb2ecUqQU"
+    },
+    {
+      "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 303282,
       "name": "You Dey Feel The Vibe (Live)",
       "url": "https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n"

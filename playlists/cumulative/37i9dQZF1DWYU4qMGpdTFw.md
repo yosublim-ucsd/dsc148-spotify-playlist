@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-69 songs - 3 hr 15 min
+70 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Vete de Vago](https://open.spotify.com/track/32AUZcXyUEoeasi0Hu3Pk9) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 5:05 | 2023-04-28 | 2023-06-23 |
 | [Vete de Vago](https://open.spotify.com/track/4OBySmzPwjX21laH1Hseks) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 5:05 | 2023-04-28 |  |
 | [Windows 98](https://open.spotify.com/track/7AXBjjN8lh8XaEaP7rYgAY) | [The Parrots](https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev) | [Los Niños Sin Miedo](https://open.spotify.com/album/5jjilNYvDbMh1KdhpouY7R) | 2:30 | 2023-04-28 |  |
+| [Yo No Soy Como los Demás](https://open.spotify.com/track/5gXpGARuKW2Gp7oaUfF4B9) | [Los Infierno](https://open.spotify.com/artist/2Ss3Q7aKxMNVX2z5vFUGXM), [The Barbacans](https://open.spotify.com/artist/64p9uKyB0A4FQccl1tgjwE) | [Mafia al Dente](https://open.spotify.com/album/5ibirZ6xkpsP3PGj8b2GZZ) | 2:30 | 2023-07-07 |  |
 | [¡SAL\-VA\-JE!](https://open.spotify.com/track/4o75U7Fo06srZxgAVpbQkp) | [Salvaje Montoya](https://open.spotify.com/artist/3k7nHYi8Hh4zHlqcqnDJuj) | [Boda Rumana](https://open.spotify.com/album/1GDpRaPRrqLZTZZeNYnuyj) | 2:05 | 2023-04-28 |  |
 
 \*This playlist was first scraped on 2023-04-29. Prior content cannot be recovered.

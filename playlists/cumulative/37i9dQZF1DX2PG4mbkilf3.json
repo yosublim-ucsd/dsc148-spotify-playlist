@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with K. Forest.",
+  "description": "This is R&B in Canada, elevate your aura with JON VINYL.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 156800,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/5PTGrmvQqq8qixpEjdB846"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 203720,
       "name": "Best Feature",
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 222266,
       "name": "GETAWAY (feat. Kimmortal)",
       "url": "https://open.spotify.com/track/2y9kErdcvZQ8vbRjVzrUo1"
@@ -6407,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj"
+    },
+    {
+      "album": {
         "name": "Lindsay's Freestyle",
         "url": "https://open.spotify.com/album/5qU1eX4515l80GTqll49eV"
       },
@@ -7580,7 +7598,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 169428,
       "name": "No Feelings",
       "url": "https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M"
@@ -9205,6 +9223,24 @@
     },
     {
       "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
         "name": "Raids - A COLORS SHOW",
         "url": "https://open.spotify.com/album/16JhsCkX4XqBIuW9uquCwi"
       },
@@ -10131,6 +10167,24 @@
     },
     {
       "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/20m8QkyNHF8fpNPrszyNAx"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134925,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4oeeeV8SIAqiYTLyUsiEBw"
+    },
+    {
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/6T8D4eG0ib2DmuYLjgibrH"
       },
@@ -10357,6 +10411,28 @@
     },
     {
       "album": {
+        "name": "Slow Whine",
+        "url": "https://open.spotify.com/album/1Qq7L1lfyqNt37n5Hc3Hy4"
+      },
+      "artists": [
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
+        },
+        {
+          "name": "Xanni",
+          "url": "https://open.spotify.com/artist/6aTEaMf07T3LH7YGJcMYtS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191989,
+      "name": "Slow Whine",
+      "url": "https://open.spotify.com/track/5WDhz13Rkr3h2xKW7jz75T"
+    },
+    {
+      "album": {
         "name": "PALISADE",
         "url": "https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r"
       },
@@ -10567,6 +10643,24 @@
     },
     {
       "album": {
+        "name": "Sonic",
+        "url": "https://open.spotify.com/album/4a4aHmw3TOcrCbGhDssEB3"
+      },
+      "artists": [
+        {
+          "name": "Ramriddlz",
+          "url": "https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152356,
+      "name": "Sonic",
+      "url": "https://open.spotify.com/track/35TjUyJp6ybfhzvnRt0YKB"
+    },
+    {
+      "album": {
         "name": "SORRY FOR LOVING YOU",
         "url": "https://open.spotify.com/album/1mGyE7HdFicn5UCA7WYL14"
       },
@@ -10626,7 +10720,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
@@ -10742,7 +10836,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 215350,
       "name": "Spring Cleaning",
       "url": "https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli"
@@ -11392,7 +11486,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136747,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6JrjwK8xblEcNpy9fAjRtZ"
@@ -11736,6 +11830,28 @@
       "duration_ms": 174388,
       "name": "Therapeudick",
       "url": "https://open.spotify.com/track/4Z2ZV7xJlWXiep1zH6jD30"
+    },
+    {
+      "album": {
+        "name": "Thinkin Bout You",
+        "url": "https://open.spotify.com/album/3xKlRIOyVoZ7Adod9934TY"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182486,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF"
     },
     {
       "album": {
@@ -13082,6 +13198,24 @@
       "duration_ms": 150461,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1"
+    },
+    {
+      "album": {
+        "name": "YaYa",
+        "url": "https://open.spotify.com/album/5fF8Q9GJtAA7nsTJGb7NtJ"
+      },
+      "artists": [
+        {
+          "name": "Aphrose",
+          "url": "https://open.spotify.com/artist/2rmzhSK2Jh6O406qYuLrd6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189814,
+      "name": "YaYa - Radio Edit",
+      "url": "https://open.spotify.com/track/0t4TG5MPTq2fNFQD5vLDor"
     },
     {
       "album": {

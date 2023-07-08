@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Bajo la Luna",
+        "url": "https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Bajo la Luna",
+      "url": "https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L"
+    },
+    {
+      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/5UKIBpihDcDueSCZpmyToc"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 223920,
       "name": "Olvidate De M\u00ed",
       "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"

@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Alonica",
+        "url": "https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
+    },
+    {
+      "album": {
         "name": "Alright (feat. Russell Dickerson)",
         "url": "https://open.spotify.com/album/77QWAkgoVbOBai1OpFRW9z"
       },
@@ -2463,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Blue Eyed Boy",
+        "url": "https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V"
+      },
+      "artists": [
+        {
+          "name": "AVIV",
+          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Blue Eyed Boy",
+      "url": "https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
@@ -3496,7 +3532,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 184649,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
@@ -4896,7 +4932,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171601,
       "name": "DANCING ALL ALONE",
       "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
@@ -18325,6 +18361,24 @@
     },
     {
       "album": {
+        "name": "reason",
+        "url": "https://open.spotify.com/album/6BAf0M7T4Bin94QE2n5jeP"
+      },
+      "artists": [
+        {
+          "name": "Jake Cornell",
+          "url": "https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142165,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/4Ec5sEqxjEC2mrX9JSAuIP"
+    },
+    {
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y"
       },
@@ -19824,7 +19878,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
@@ -20698,6 +20752,24 @@
       "duration_ms": 172880,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
+    },
+    {
+      "album": {
+        "name": "stars",
+        "url": "https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "stars",
+      "url": "https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H"
     },
     {
       "album": {
@@ -21590,6 +21662,24 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "album": {
+        "name": "Thank You For Everything",
+        "url": "https://open.spotify.com/album/4ZMv4G1yofnlaOdZKqkqwG"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165874,
+      "name": "Thank You For Everything",
+      "url": "https://open.spotify.com/track/5hVdovNC8QAuuJqUnT400l"
     },
     {
       "album": {
@@ -23438,7 +23528,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 153905,
       "name": "wait it out",
       "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
@@ -25182,7 +25272,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"

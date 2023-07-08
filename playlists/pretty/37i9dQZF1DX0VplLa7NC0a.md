@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,090 likes - 60 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,106 likes - 60 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 | 59 | [Mosè in Egitto / Act 1: No\. 1 Introduzione: "Ah! Chi ne aiuta! Oh ciel!"](https://open.spotify.com/track/7azntC5Asa8PqC7Pj3J8lf) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Claudio Scimone](https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw), [Siegmund Nimsgern](https://open.spotify.com/artist/1OlV6acs5ZqPtQAaLcmr8g), [Ernesto Palacio](https://open.spotify.com/artist/2OGqTvYzZQHwYeJ4fsCn3B), [Zehava Gal](https://open.spotify.com/artist/5bsqJik2rkobBsjS8bA7nw), [Ambrosian Opera Chorus](https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ) | [Rossini: Mosé in Egitto](https://open.spotify.com/album/6kfBjgw3Lymoi41gLXCTqB) | 6:53 |
 | 60 | [La Cenerentola, Act II: Aria\. Sia qualunque delle figlie](https://open.spotify.com/track/714b6Kmu52Xdrdyyv1PD8W) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Paolo Montarsolo](https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Rossini: La Cenerentola](https://open.spotify.com/album/6o703AiUF0JywZUalx4yha) | 5:05 |
 
-Snapshot ID: `MCw3YjA0MjQ1NTQyMjlhNzJmODBlNTk1NTZmM2QyZmU0NGY5MjNiZTEz`
+Snapshot ID: `MCw5M2YyYmFjMGRkNzVhMDg4MTQxZTkxMGE5ZWQwNzA5MDJhNzAyYmJk`

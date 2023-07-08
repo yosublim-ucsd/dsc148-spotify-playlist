@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,393 likes - 150 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,428 likes - 150 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [September Song](https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Marco Fratini](https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX), [Roberto Gatto](https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8) | [September Song](https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA) | 6:08 |
 | 150 | [Had It Happened](https://open.spotify.com/track/5Pnj7upUtbxav0LNu4v5lX) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:55 |
 
-Snapshot ID: `MCxmZjkzMWY1NDQ4YzAwM2RlZThhYjAxNzc1Y2ExNTNkMzIwMzgzODQ5`
+Snapshot ID: `MCw2MGY1ODAxOTRhOTE4MjA2MzZmNTI4MzVkM2IxYzUyNTRkMDc1Njc5`

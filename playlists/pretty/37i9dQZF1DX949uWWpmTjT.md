@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,547 likes - 600 songs - 1 day 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,821 likes - 600 songs - 1 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 599 | [Land For My Love](https://open.spotify.com/track/3WG7pwf5FqUfERgKQgupuo) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Land For My Love](https://open.spotify.com/album/4FmatmMODomKGq8cFwlO7v) | 3:14 |
 | 600 | [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 |
 
-Snapshot ID: `MCw1YTJkMTA1ZjNmOTk0NmQwOTIxZGVjY2M0ZTIzNDEwOWY5MjU0NDhm`
+Snapshot ID: `MCxkOTBkM2QxOGU2NjcyNTQ4MTZlNGZiNjFiMTU5YzYwNTBlNmNmNjU3`

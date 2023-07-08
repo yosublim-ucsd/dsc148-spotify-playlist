@@ -940,7 +940,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 248747,
       "name": "Dignidad",
       "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
@@ -2978,6 +2978,24 @@
       "duration_ms": 255000,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
+    },
+    {
+      "album": {
+        "name": "Fuiste Bueno (Remaster 2022)",
+        "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161672,
+      "name": "Nunca Se Apaga - Remaster 2022",
+      "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
     },
     {
       "album": {

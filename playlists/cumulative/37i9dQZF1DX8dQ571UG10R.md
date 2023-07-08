@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-73 songs - 5 hr 1 min
+75 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Esse é o melhor Rap do Levi](https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [Esse é o melhor Rap do Levi](https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF) | 2:43 | 2022-02-22 |  |
 | [Estilo Ninja](https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO) | 3:26 | 2022-02-22 | 2022-11-12 |
 | [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 | 2022-05-27 |  |
+| [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 | 2023-07-07 |  |
+| [Ira do Imperador](https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv) | [WLO Raps](https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p) | [Ira do Imperador](https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT) | 4:49 | 2023-07-07 |  |
 | [Lobo da Morte](https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Lobo da Morte](https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy) | 3:29 | 2023-03-31 |  |
 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 | 2022-02-22 | 2023-03-11 |
 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 | 2022-02-22 |  |
@@ -37,7 +39,7 @@
 | [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 | 2022-02-22 |  |
 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 | 2022-02-22 |  |
 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 | 2022-02-22 |  |
-| [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 | 2022-02-22 |  |
+| [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 | 2022-02-22 | 2023-07-08 |
 | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/track/6MTfh45Ywrgu1jS27Zd1kn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/album/4gQBNib1VzNA7K3zST5ZUu) | 3:41 | 2023-05-26 |  |
 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr) | 9:51 | 2022-02-22 | 2023-01-28 |
 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 | 2022-05-27 |  |
@@ -69,7 +71,7 @@
 | [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 | 2022-02-22 | 2023-06-18 |
 | [Sete Pecados Capitais](https://open.spotify.com/track/7hOpo4Xghw0EX1HgShJU3o) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Sete Pecados Capitais](https://open.spotify.com/album/7gZnPoiybTDKjXe7NmEvms) | 5:06 | 2022-02-22 |  |
 | [SpeedLord: Akatsuki](https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [SpeedLord: Akatsuki](https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG) | 5:13 | 2022-02-22 |  |
-| [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 | 2022-05-27 |  |
+| [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 | 2022-05-27 | 2023-07-08 |
 | [Tipo Hashirama](https://open.spotify.com/track/1vX0KmArqxz2b0ByQQp81H) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Hashirama](https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU) | 3:09 | 2022-02-22 |  |
 | [Tipo Kisame](https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Kisame](https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3) | 3:11 | 2022-02-22 |  |
 | [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 | 2022-02-22 |  |

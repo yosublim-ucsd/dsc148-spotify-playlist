@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Smiley",
+  "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
   "name": "Hip-Hop Rewind",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 208109,
       "name": "Control",
       "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "ELEMENTS Vol. 1",
+        "url": "https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197357,
+      "name": "Made Me Everything",
+      "url": "https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww"
+    },
+    {
+      "album": {
         "name": "Man Listen",
         "url": "https://open.spotify.com/album/1AAaWeadQaRO6Vab1u3qyU"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"
@@ -1634,6 +1652,28 @@
       "duration_ms": 135221,
       "name": "Time & It's Order",
       "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+    },
+    {
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        },
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH"
     },
     {
       "album": {

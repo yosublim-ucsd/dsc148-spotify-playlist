@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Rebecca, Pabllo Vittar e Vivi",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Lia Clark, Pabllo Vittar",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 160000,
       "name": "Noite Estrelada",
       "url": "https://open.spotify.com/track/7zDFZH6lG3ULdWVGwF09SQ"
@@ -3679,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "SEREIA",
+        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
+    },
+    {
+      "album": {
         "name": "SexToU",
         "url": "https://open.spotify.com/album/1YTcOXOhHmMCjV2MFnKA2M"
       },
@@ -3926,7 +3948,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 164373,
       "name": "TANTO FAZ",
       "url": "https://open.spotify.com/track/31cQX1WeqiCHQSysz9KaVb"
@@ -3996,6 +4018,24 @@
       "duration_ms": 121176,
       "name": "te vi na festa (e nem doeu)",
       "url": "https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC"
+    },
+    {
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV"
     },
     {
       "album": {

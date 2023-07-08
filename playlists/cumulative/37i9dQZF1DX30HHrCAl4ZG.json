@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "In Theory Depression",
+        "url": "https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Are You Thinking of Me",
+      "url": "https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj"
+    },
+    {
+      "album": {
         "name": "Armchair",
         "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
       },
@@ -7703,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179416,
+      "name": "Hell of a Ride",
+      "url": "https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3"
+    },
+    {
+      "album": {
         "name": "Hello Sunshine",
         "url": "https://open.spotify.com/album/4QO0A5dTLKEkjKMQuFGH9i"
       },
@@ -8742,6 +8778,24 @@
       "duration_ms": 158947,
       "name": "i won't run",
       "url": "https://open.spotify.com/track/3ykvobAQxQ5VlcDOMKXI4M"
+    },
+    {
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "album": {
@@ -11160,6 +11214,24 @@
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
+    },
+    {
+      "album": {
+        "name": "Big Bite EP",
+        "url": "https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cole",
+          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Grade A](https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId)
 
-> The highest quality alternative blend ft\. Devon Gilfillian
+> The highest quality alternative blend ft\. Local Natives
 
-783 songs - 1 day 23 hr 48 min
+787 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Sleep in the Garden](https://open.spotify.com/track/0pz1mBpvTtblb4xV7dwa3h) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Under the New Light](https://open.spotify.com/album/1xkpmshOmxXWdDssCCmfg5) | 4:27 | 2022-03-11 | 2022-04-16 |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-03-05 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2022-08-12 | 2022-12-10 |
-| [Ace Up My Sleeve \- from the Motion Picture “The Starling Girl”](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Ace Up My Sleeve \(from the Motion Picture “The Starling Girl”\)](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 | 2023-05-19 |  |
+| [Ace Up My Sleeve](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/1QI4AHWvms26AJI5mXHvqE) | [Ace Up My Sleeve](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 | 2023-05-19 |  |
 | [Act Natural](https://open.spotify.com/track/3QPcAIBe5rJy9WdzmbBxtL) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Act Natural](https://open.spotify.com/album/2sUwM4xWyiyh9yPHWqXdQZ) | 4:19 | 2023-06-02 |  |
 | [Adult Friend Finder](https://open.spotify.com/track/1LT1jHtnFN7uHM5xbJwWnS) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Everyone Stop](https://open.spotify.com/album/412JTr9RnrVoNANnMuWb07) | 3:36 | 2022-12-16 | 2023-02-25 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-06-02 | 2023-06-24 |
@@ -35,6 +35,7 @@
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-05-07 |
 | [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 | 2023-03-03 | 2023-06-24 |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-24 | 2022-09-24 |
+| [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 | 2023-07-07 |  |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-05-20 | 2022-07-02 |
 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-08-19 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-06-24 | 2022-08-27 |
@@ -181,6 +182,7 @@
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-12-10 | 2022-03-26 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-19 |  |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2023-01-28 |
+| [Empty Mansions](https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:25 | 2023-07-07 |  |
 | [Endless Summer](https://open.spotify.com/track/6H84DggstIx0r9Dk3J5VJG) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Endless Summer](https://open.spotify.com/album/7hGVr1eHSLvCIV0EFRqw2i) | 4:14 | 2021-12-17 | 2022-03-18 |
 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 | 2022-09-30 | 2023-01-14 |
 | [Evergreen](https://open.spotify.com/track/2bUyKAHjQ58o6gQNh5uyf1) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 2:51 | 2022-09-30 | 2023-05-13 |
@@ -219,6 +221,7 @@
 | [Flowers](https://open.spotify.com/track/4hv63SoULMZVYynykK6Wv0) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Flowers](https://open.spotify.com/album/1rjZKkFIFk1CsDKBeB0764) | 3:38 | 2022-06-10 | 2022-07-29 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-20 | 2023-02-25 |
 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 | 2023-06-09 |  |
+| [For A Moment](https://open.spotify.com/track/751gGLt9KVRg2e8JfDgHCZ) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [For A Moment](https://open.spotify.com/album/0qvMNSe6WvH8eStHB3kmfD) | 3:53 | 2023-07-07 |  |
 | [For Your Soul](https://open.spotify.com/track/0nCS9vXUbuD13169TCPCv2) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sawgrass / For Your Soul](https://open.spotify.com/album/7l2Z5C2MAkfKlU9xs3uNph) | 3:05 | 2023-01-27 |  |
 | [Forever in Sunset](https://open.spotify.com/track/12BRuJGvSrjoVDfeBIpO1M) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever in Sunset](https://open.spotify.com/album/0MRtuttU8Z8Pk7W0apeKP2) | 4:22 | 2022-05-13 | 2022-07-29 |
 | [Forever In Sunset](https://open.spotify.com/track/5g8FFO1MkitRDartlFKciT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever In Sunset](https://open.spotify.com/album/0vyVVgohtd4dZNQMnIl7iO) | 4:22 | 2022-07-22 | 2022-08-29 |
@@ -651,6 +654,7 @@
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2022-12-09 | 2023-02-18 |
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 | 2022-10-08 |
 | [Sweet Unknown](https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/0aTcsM65p88W6cw7qwG3EM) | 3:58 | 2021-12-10 | 2022-02-05 |
+| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-07 |  |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-17 | 2022-07-16 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-12-10 | 2022-05-07 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-03-18 | 2022-08-06 |

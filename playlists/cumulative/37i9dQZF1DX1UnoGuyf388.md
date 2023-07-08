@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Madison Rose
 
-229 songs - 11 hr 36 min
+230 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 | 2022-02-04 | 2023-01-28 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-16 |  |
 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 | 2023-01-27 | 2023-04-01 |
-| [Another Hit Of You](https://open.spotify.com/track/6WNR9aFkw70fMa63FOGuDq) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Another Hit Of You](https://open.spotify.com/album/5wpZYf12G4ClTXNGT2x0Yb) | 2:37 | 2023-01-27 |  |
+| [Another Hit Of You](https://open.spotify.com/track/6WNR9aFkw70fMa63FOGuDq) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Another Hit Of You](https://open.spotify.com/album/5wpZYf12G4ClTXNGT2x0Yb) | 2:37 | 2023-01-27 | 2023-07-08 |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-02-04 | 2023-01-28 |
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2022-02-04 | 2022-04-23 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 |  |
@@ -56,7 +56,7 @@
 | [Don't Say No](https://open.spotify.com/track/3a9oWZ6mI5v3yGmcmVpcmu) | [Thalia Falcon](https://open.spotify.com/artist/7AsrMHlSAgnoCLSW723gYb) | [Don't Say No](https://open.spotify.com/album/3rliGA4cYKqMuzCKK819m2) | 3:00 | 2022-02-04 | 2023-01-28 |
 | [DONT TOUCH MY MONEY](https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [Happy Trap](https://open.spotify.com/album/6vUvRaGRXMpZTU1ZFTsTUf) | 2:12 | 2022-02-25 | 2023-01-28 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-28 |  |
-| [drummer](https://open.spotify.com/track/5azjk29GqijbSSsi0JY01x) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:08 | 2023-01-27 |  |
+| [drummer](https://open.spotify.com/track/5azjk29GqijbSSsi0JY01x) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:08 | 2023-01-27 | 2023-07-08 |
 | [Dumb](https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Dumb](https://open.spotify.com/album/5Xc7SZi7EuNczZ1TU0gvfd) | 2:18 | 2023-01-27 | 2023-03-18 |
 | [Dumb Bitch Punch](https://open.spotify.com/track/771oKmhmsRmq3iNnEIyFTw) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [Dumb Bitch Punch](https://open.spotify.com/album/3JJcipJTUaT5gpavGpRFkH) | 3:19 | 2023-05-19 |  |
 | [EGO DYE](https://open.spotify.com/track/1iw4Chi31B4zwIYqDbEqJB) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [EGO DYE](https://open.spotify.com/album/4ZnK1fDS9dKE2FwWi39mcG) | 3:01 | 2022-02-04 | 2022-04-09 |
@@ -188,8 +188,9 @@
 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 |  |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2022-03-25 | 2023-01-28 |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2023-01-27 | 2023-05-06 |
-| [stranger danger!](https://open.spotify.com/track/1nyLZYAeEVQaTM0KMGJous) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2I7SwNPGo5QQupmfiXKE5d) | 3:41 | 2023-05-19 |  |
+| [stranger danger!](https://open.spotify.com/track/1nyLZYAeEVQaTM0KMGJous) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2I7SwNPGo5QQupmfiXKE5d) | 3:41 | 2023-05-19 | 2023-07-08 |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-27 | 2023-05-26 |
+| [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2023-01-27 |  |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2022-02-04 | 2022-03-26 |
 | [Syrup](https://open.spotify.com/track/1ocLSTOw9RNTMmHfxkhc7t) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2BUrp7pIF6OTVS2Tu8JMpy) | 2:25 | 2022-02-04 | 2022-02-26 |

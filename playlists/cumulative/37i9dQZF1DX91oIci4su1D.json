@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/038yMWxukpd2jvLuWjDhHk"
+      },
+      "artists": [
+        {
+          "name": "Robbie Seed",
+          "url": "https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll"
+        },
+        {
+          "name": "Rinaly",
+          "url": "https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232482,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/3kqGoIAQ7frSr0vHGjSIYC"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL"
       },
@@ -1537,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Black Heart (Sunny Lax Remix)",
+        "url": "https://open.spotify.com/album/5arJSnUKUoHTkOzezVtoIh"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Sunny Lax",
+          "url": "https://open.spotify.com/artist/0cCOt2mcZfspvOOhY8TdmD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Black Heart - Sunny Lax Remix",
+      "url": "https://open.spotify.com/track/6EshijssDrfMJKXbztdI4w"
+    },
+    {
+      "album": {
         "name": "Black Hole (Giuseppe Ottaviani + Ferry Tayle Remixes)",
         "url": "https://open.spotify.com/album/5r4XW6r0Xd3wt8FN2yDonY"
       },
@@ -1556,7 +1600,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 241739,
       "name": "Black Hole - Giuseppe Ottaviani Remix",
       "url": "https://open.spotify.com/track/1l1tWWqQc2lHmbg5r7iknD"
@@ -2689,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Conscious",
+        "url": "https://open.spotify.com/album/3VSYfXlXEjMKMp1EyBWLiP"
+      },
+      "artists": [
+        {
+          "name": "Dustin Husain",
+          "url": "https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177624,
+      "name": "Conscious",
+      "url": "https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11"
+    },
+    {
+      "album": {
         "name": "Constancy",
         "url": "https://open.spotify.com/album/3kEVfGFVUOtE8YshBabPYV"
       },
@@ -2944,6 +3006,28 @@
       "duration_ms": 182000,
       "name": "Dark & Stormy",
       "url": "https://open.spotify.com/track/2RInAfucpwkL7daWgkkDak"
+    },
+    {
+      "album": {
+        "name": "Darker Days",
+        "url": "https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177435,
+      "name": "Darker Days",
+      "url": "https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI"
     },
     {
       "album": {
@@ -4276,7 +4360,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 266492,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
@@ -4386,7 +4470,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 203567,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/1KGNzb5XDbFOJCOhQjnDJy"
@@ -4816,7 +4900,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 253714,
       "name": "From The Ashes - Paul van Dyk Remix",
       "url": "https://open.spotify.com/track/54qt0W69bdDuWRimXd7gXt"
@@ -4904,6 +4988,28 @@
       "duration_ms": 216874,
       "name": "Future Fantasy",
       "url": "https://open.spotify.com/track/3HBbA4NCnqin4hI1oDG9UP"
+    },
+    {
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP"
     },
     {
       "album": {
@@ -5498,7 +5604,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 279555,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
@@ -6206,7 +6312,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199024,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/1bokCdLRWPmwH2vOclyHF2"
@@ -6297,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/6fBOUmSFyjXFfKF71uRDjZ"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247488,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2gwmzjBRPv1ElKevOdp3Ld"
+    },
+    {
+      "album": {
         "name": "Inner Strength (Progressive Mix)",
         "url": "https://open.spotify.com/album/3fRb4Yr6TcX2dCOXhdeuPh"
       },
@@ -6352,7 +6476,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 234285,
       "name": "INTO MY ARMS",
       "url": "https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI"
@@ -6378,6 +6502,32 @@
       "duration_ms": 191304,
       "name": "Invaders",
       "url": "https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/4NXuaixHAJ2uJ868gsS5nr"
+      },
+      "artists": [
+        {
+          "name": "Johan Gielen",
+          "url": "https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP"
+        },
+        {
+          "name": "Airscape",
+          "url": "https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym"
+        },
+        {
+          "name": "Sarah Anglionin",
+          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/3c6M5w7F9CrlCINaUZ4aOm"
     },
     {
       "album": {
@@ -6572,7 +6722,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 247058,
       "name": "Keep My Dreams Alive - Giuseppe Ottaviani Remix",
       "url": "https://open.spotify.com/track/4rVY1TN8PQQilUQSrrSPQo"
@@ -6642,7 +6792,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 215652,
       "name": "Keep You Safe - OnAir Mix",
       "url": "https://open.spotify.com/track/4MkOL1fHqSGgHiEC5X73lj"
@@ -8140,7 +8290,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 216956,
       "name": "Million Stars",
       "url": "https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ"
@@ -9928,7 +10078,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 201739,
       "name": "Protect Your Mind (braveheart)",
       "url": "https://open.spotify.com/track/4c6E9EwMfjwkO0s6c8WCFt"
@@ -10686,6 +10836,32 @@
       "duration_ms": 219239,
       "name": "Same Sky Same Stars",
       "url": "https://open.spotify.com/track/6c0gGrpLmSsYbeYnAxAhYh"
+    },
+    {
+      "album": {
+        "name": "Satellites (Will Atkinson Remix)",
+        "url": "https://open.spotify.com/album/1OICuNwuxj5AEeeECqryq6"
+      },
+      "artists": [
+        {
+          "name": "Somna",
+          "url": "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Satellites - Will Atkinson Remix",
+      "url": "https://open.spotify.com/track/5kjlnD6qTE8GeAMS2RmTan"
     },
     {
       "album": {
@@ -12639,6 +12815,24 @@
     },
     {
       "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/6qYFfuTsXYPAEnYJ3TPm3D"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/4RoQHhHjeY5hOLakrLq1v1"
+    },
+    {
+      "album": {
         "name": "The Embrace / Watershed",
         "url": "https://open.spotify.com/album/36yGUuYlgvKLpDG0B7wWJY"
       },
@@ -13327,6 +13521,28 @@
     },
     {
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4wuQtzxlOdDDLph2YGiADu"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/6NheG5mzQSKKu5gMGgSUy5"
+    },
+    {
+      "album": {
         "name": "Trust You",
         "url": "https://open.spotify.com/album/02Cc7jp5gajM4TIXaFlUAL"
       },
@@ -13478,7 +13694,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 196363,
       "name": "Underneath My Skin - Nifra Remix",
       "url": "https://open.spotify.com/track/3zE1H3FeEpcfK7PuQ1DG2N"
@@ -14395,7 +14611,7 @@
     },
     {
       "album": {
-        "name": "you broke me first (edit) [XiJaro & Pitch Remix]",
+        "name": "you broke me first (XiJaro & Pitch Remix)",
         "url": "https://open.spotify.com/album/635AMftd7i92nnCOIX5Dse"
       },
       "artists": [
@@ -14412,7 +14628,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169116,
-      "name": "you broke me first (edit) - XiJaro & Pitch Remix",
+      "name": "you broke me first - XiJaro & Pitch Remix",
       "url": "https://open.spotify.com/track/3mivCx58qsgZszezCkvmcp"
     },
     {

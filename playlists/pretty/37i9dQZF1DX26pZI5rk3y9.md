@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,785 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,793 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 49 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
 | 50 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 |
 
-Snapshot ID: `MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0`
+Snapshot ID: `MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4`

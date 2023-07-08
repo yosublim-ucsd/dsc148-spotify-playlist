@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Jully Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,983 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,993 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
-| 2 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
-| 3 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
-| 4 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 |
-| 5 | [Rubbin'](https://open.spotify.com/track/4bT6qTu5mi5i0ZcZtgcz1Y) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 3:43 |
-| 6 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
-| 7 | [Shook](https://open.spotify.com/track/0nEYHi9AxVTKbCrdIF6SJT) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Tyson Kuteyi](https://open.spotify.com/artist/1rBVWwyMlMosvfIZ9zivQG) | [Shawn Desman](https://open.spotify.com/album/7Axco23tgWGyvopgKbmMja) | 3:32 |
-| 8 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
-| 9 | [Beautiful U R](https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [The Promise](https://open.spotify.com/album/7a36clUB9EeYb5ATXyBfxb) | 4:10 |
-| 10 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 |
-| 11 | [Don't Call Me Baby](https://open.spotify.com/track/5WlbWmsrfhKiDKpZRmneBN) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Passion](https://open.spotify.com/album/53Wfv9yLqFI3WdrtxtiXop) | 3:21 |
-| 12 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 |
+| 1 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 |
+| 2 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
+| 3 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
+| 4 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
+| 5 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 |
+| 6 | [Rubbin'](https://open.spotify.com/track/4bT6qTu5mi5i0ZcZtgcz1Y) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 3:43 |
+| 7 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
+| 8 | [Shook](https://open.spotify.com/track/0nEYHi9AxVTKbCrdIF6SJT) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Tyson Kuteyi](https://open.spotify.com/artist/1rBVWwyMlMosvfIZ9zivQG) | [Shawn Desman](https://open.spotify.com/album/7Axco23tgWGyvopgKbmMja) | 3:32 |
+| 9 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
+| 10 | [Beautiful U R](https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [The Promise](https://open.spotify.com/album/7a36clUB9EeYb5ATXyBfxb) | 4:10 |
+| 11 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 |
+| 12 | [Don't Call Me Baby](https://open.spotify.com/track/5WlbWmsrfhKiDKpZRmneBN) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Passion](https://open.spotify.com/album/53Wfv9yLqFI3WdrtxtiXop) | 3:21 |
 | 13 | [Give It To Me Right](https://open.spotify.com/track/51nhSIsg5G8hjhV4kja0Oz) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 3:43 |
 | 14 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 |
 | 15 | [Smile For Me](https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/25X7WTyOdq1j7PMjq86zPK) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Formation](https://open.spotify.com/track/1ohNGsQ3anAsAywqjFvUMA) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Ecology](https://open.spotify.com/album/7flLLFOfhJ2zGXiyPzCJnJ) | 4:02 |
 | 75 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCw5ZmI0YWRlNjUwYWMxM2U3MDlhYmU3YWNlNTA1M2VlZjRlNjM2MmQy`
+Snapshot ID: `MCwxZWIyYzM5MDA2NTNiZjhjOTgyOTBjZmY1OWVkOTA0MzAwZWYxNmZj`

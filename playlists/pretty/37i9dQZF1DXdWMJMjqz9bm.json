@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 196813,
+  "num_followers": 196985,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWNmNDI2NzE5MDYxZjU0MzM2OTNlZDAwYzZkODgyOWQwMDYwZWRi",
+  "snapshot_id": "MCwwMzcwNjAyZDE5OGNkNzM0ZjA5ODdlZGQwMzk1NjFiOTdhM2IwZDg5",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -53,20 +53,20 @@
       "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-07-07 21:12:57",
       "album": {
-        "name": "A NECESSARY EVIL",
-        "url": "https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO"
+        "name": "OVER AGAIN",
+        "url": "https://open.spotify.com/album/6k8DYfBzV2K8cozvyPzHmw"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
         }
       ],
-      "duration_ms": 140135,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP"
+      "duration_ms": 150638,
+      "name": "OVER AGAIN",
+      "url": "https://open.spotify.com/track/3EWOqfBTQyh8CujYZ7ePHL"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Vroom",
-        "url": "https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 137915,
-      "name": "Vroom",
-      "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "fvcked up",
         "url": "https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0"
       },
@@ -135,6 +115,22 @@
       "duration_ms": 112500,
       "name": "fvcked up",
       "url": "https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF"
+    },
+    {
+      "added_at": "2023-07-07 21:12:57",
+      "album": {
+        "name": "Same Streets",
+        "url": "https://open.spotify.com/album/32bbFhtMy0OhYcE4UolJAB"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 153768,
+      "name": "Same Streets",
+      "url": "https://open.spotify.com/track/7cUhsSkqpWI8JMrlRKdEGI"
     },
     {
       "added_at": "2023-07-03 20:52:43",
@@ -153,20 +149,24 @@
       "url": "https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "High More Often",
-        "url": "https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb"
+        "name": "Vroom",
+        "url": "https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL"
       },
       "artists": [
         {
-          "name": "Jon Wiilde",
-          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Not Another Summer Jam",
-      "url": "https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q"
+      "duration_ms": 137915,
+      "name": "Vroom",
+      "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -183,6 +183,38 @@
       "duration_ms": 124621,
       "name": "strings attached",
       "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
+    },
+    {
+      "added_at": "2023-07-07 21:12:57",
+      "album": {
+        "name": "start over",
+        "url": "https://open.spotify.com/album/45gX56k9JSR5QeTZiN3p9i"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "duration_ms": 119873,
+      "name": "start over",
+      "url": "https://open.spotify.com/track/19B5pFYADCRVgMSInD1n7h"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "High More Often",
+        "url": "https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Not Another Summer Jam",
+      "url": "https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q"
     },
     {
       "added_at": "2023-06-16 14:08:21",
@@ -225,6 +257,38 @@
       "url": "https://open.spotify.com/track/3qrxa00Q7sONw0HuvDA3Pg"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "A NECESSARY EVIL",
+        "url": "https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 140135,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP"
+    },
+    {
+      "added_at": "2023-07-07 21:12:57",
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 185831,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "C'est la vie",
@@ -255,6 +319,22 @@
       "duration_ms": 191666,
       "name": "2D",
       "url": "https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8"
+    },
+    {
+      "added_at": "2023-07-07 21:12:57",
+      "album": {
+        "name": "SUMMER VIBES",
+        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "duration_ms": 146587,
+      "name": "SUMMER VIBES",
+      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -327,6 +407,22 @@
       "duration_ms": 200295,
       "name": "Barcelona (feat. Samm Henshaw)",
       "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
+    },
+    {
+      "added_at": "2023-07-07 21:12:57",
+      "album": {
+        "name": "comfort, texas",
+        "url": "https://open.spotify.com/album/0XnxJHLlceYWMWNRWjzd2H"
+      },
+      "artists": [
+        {
+          "name": "Buppy.",
+          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
+        }
+      ],
+      "duration_ms": 131030,
+      "name": "comfort, texas",
+      "url": "https://open.spotify.com/track/5G4dllapO3PVyuIy2XYZQG"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -423,6 +519,22 @@
       "duration_ms": 192547,
       "name": "MIAMI",
       "url": "https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu"
+    },
+    {
+      "added_at": "2023-04-04 13:32:19",
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -523,22 +635,6 @@
       "duration_ms": 132323,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ"
-    },
-    {
-      "added_at": "2023-04-04 13:32:19",
-      "album": {
-        "name": "OUT OF MY MIND",
-        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1253,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
     },
     {
-      "added_at": "2023-04-04 13:41:51",
-      "album": {
-        "name": "2hrs",
-        "url": "https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        }
-      ],
-      "duration_ms": 64722,
-      "name": "2hrs",
-      "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Are You Entertained (feat. Ed Sheeran)",
@@ -1319,42 +1399,6 @@
       "duration_ms": 150604,
       "name": "That's What I Get",
       "url": "https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/0Q6YjIjuNy5Bt37PvxWes4"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "ESCAPISM",
-        "url": "https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p"
-      },
-      "artists": [
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 221797,
-      "name": "Westside Story (with Duckwrth)",
-      "url": "https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1569,42 +1613,6 @@
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "miranda!",
-        "url": "https://open.spotify.com/album/1pC6umMKhr0BrOtJT8QxG2"
-      },
-      "artists": [
-        {
-          "name": "Buppy.",
-          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
-        }
-      ],
-      "duration_ms": 139994,
-      "name": "miranda!",
-      "url": "https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu"
-    },
-    {
-      "added_at": "2022-09-23 04:14:00",
-      "album": {
-        "name": "rewind",
-        "url": "https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        },
-        {
-          "name": "Marco Luka",
-          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "rewind",
-      "url": "https://open.spotify.com/track/66orvVes79w0dZao9ZIw97"
-    },
-    {
       "added_at": "2022-12-02 17:00:00",
       "album": {
         "name": "End of Time",
@@ -1667,26 +1675,6 @@
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4"
-    },
-    {
-      "added_at": "2023-01-06 16:15:54",
-      "album": {
-        "name": "Ski Trip",
-        "url": "https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk"
-      },
-      "artists": [
-        {
-          "name": "Skeez",
-          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
-        },
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 166846,
-      "name": "Ski Trip",
-      "url": "https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk"
     },
     {
       "added_at": "2022-09-30 05:34:00",

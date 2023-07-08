@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "Hopeless Romantic, Pt. 1",
+        "url": "https://open.spotify.com/album/2SbZ3ohaiBoFvCofVE18h0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Adventure with You",
+      "url": "https://open.spotify.com/track/7eEBjmN52u18OZUATiUGFD"
+    },
+    {
+      "album": {
         "name": "All Summer",
         "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
       },
@@ -224,7 +246,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238613,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"

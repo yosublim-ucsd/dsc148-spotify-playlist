@@ -1,28 +1,28 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1375599,
+  "num_followers": 1376096,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBhMjA1NjlkYzVhMjk2NTVmMmNkNjE4YWM3YmQ0MGEwZmRjOTM0",
+  "snapshot_id": "MCw4ZmJjZmFmZjAzYmJjYjMwN2EzYTVhOWYxZDg3ZjE1M2RmNDFjNmNj",
   "tracks": [
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Make It A Double",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+        "name": "RICH SCHOLAR",
+        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
       },
       "artists": [
         {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         }
       ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+      "duration_ms": 118923,
+      "name": "RICH SCHOLAR",
+      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -49,20 +49,36 @@
       "url": "https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "RICH SCHOLAR",
-        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
+        "name": "Make It A Double",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
       },
       "artists": [
         {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 118923,
-      "name": "RICH SCHOLAR",
-      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -117,20 +133,20 @@
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm"
       },
       "artists": [
         {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
         }
       ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+      "duration_ms": 106012,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -155,6 +171,22 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "KNOYA",
+        "url": "https://open.spotify.com/album/1dxFSqmTFEKpva3RnzQf9c"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 109722,
+      "name": "KNOYA",
+      "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -187,6 +219,22 @@
       "duration_ms": 172455,
       "name": "NODA",
       "url": "https://open.spotify.com/track/67yPNZ1tsrQGbHvCs5m8Od"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "SUPERSEXXXYSUMMER",
+        "url": "https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "SUPERSEXXXYSUMMER",
+      "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
     },
     {
       "added_at": "2023-06-02 18:37:43",
@@ -775,22 +823,6 @@
       "duration_ms": 154074,
       "name": "Easter Pink",
       "url": "https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 136050,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
     },
     {
       "added_at": "2023-02-10 18:26:46",
@@ -1763,38 +1795,6 @@
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Honeyberry 2",
-        "url": "https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 170868,
-      "name": "Honeyberry 2",
-      "url": "https://open.spotify.com/track/7DST9azASHMawTfFksNnoT"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "i wna be like you",
-        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "i wna be like you",
-      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
     },
     {
       "added_at": "2023-04-14 04:00:00",

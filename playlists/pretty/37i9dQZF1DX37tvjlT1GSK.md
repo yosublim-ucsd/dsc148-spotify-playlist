@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Del Limit en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,602 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,689 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Díganle A Mi Ex](https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi) | 3:00 |
 | 100 | [Por Si Te Lo Preguntas](https://open.spotify.com/track/1VEQ2EDfVO6fMcAzhI42D7) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:06 |
 
-Snapshot ID: `MCwyNTI0NzRjMmYxYzY2ZmFlMzYzNzY3YWRmNzgzYWQ0M2U0NmNkZjNh`
+Snapshot ID: `MCw0YzJhNTJkMDM2ZmI1ZWQxMzVkMzUyYzhiZWY5YzVjMWY5ZWFjNTA2`

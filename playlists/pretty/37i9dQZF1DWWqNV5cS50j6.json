@@ -1,12 +1,12 @@
 {
   "description": "Yeek & Paris Texas make anti pop.",
-  "num_followers": 697692,
+  "num_followers": 697706,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTdmNGZkNTQ1MTc2YzczOGYwYzczZDU3ZGI1YjMxM2EyZjdmNTc1",
+  "snapshot_id": "MCwzMDliYzlmZTZhMDYwY2VjZjNhOGNmZGE4YTRhODliMDIyY2UxODMy",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -155,6 +155,22 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
+    },
+    {
+      "added_at": "2023-07-07 18:29:24",
+      "album": {
+        "name": "IdgaF",
+        "url": "https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 103664,
+      "name": "IdgaF",
+      "url": "https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL"
     },
     {
       "added_at": "2023-06-30 04:00:00",

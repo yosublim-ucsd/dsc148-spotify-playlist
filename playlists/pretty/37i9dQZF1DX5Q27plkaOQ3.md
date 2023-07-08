@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,445 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,551 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 |
 | 125 | [All I Need](https://open.spotify.com/track/0B2NXI85NABXRoUcNNtceE) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [AFK](https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL) | [REBIRTH](https://open.spotify.com/album/2LSsxrKHCA8lO39BtBI98X) | 3:06 |
 
-Snapshot ID: `MCw5NTdkZGY5MmRiNDE2OTM5NmViNDQ4ZmExOWE2ZGU5ZTJmOGVmMTdi`
+Snapshot ID: `MCwxNTMzYTcyOTIxYjdjYTdiMTE5NTFmYjRkY2U5NWQzMjYxM2Q0Yzgz`

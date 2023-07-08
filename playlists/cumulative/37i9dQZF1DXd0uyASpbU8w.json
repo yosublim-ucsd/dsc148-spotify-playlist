@@ -2681,7 +2681,7 @@
     },
     {
       "album": {
-        "name": "Fallin feat. Nasty C",
+        "name": "Fallin",
         "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
       },
       "artists": [
@@ -2698,7 +2698,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171152,
-      "name": "Fallin feat. Nasty C",
+      "name": "Fallin",
       "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
     },
     {
@@ -2725,6 +2725,32 @@
     },
     {
       "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "album": {
         "name": "Feels Like Heaven",
         "url": "https://open.spotify.com/album/2UbpzaCba64ZNOUbVUjaXa"
       },
@@ -2744,6 +2770,28 @@
       "duration_ms": 207534,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/0Xgsn609jEaoR0g5YSmAuQ"
+    },
+    {
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "album": {
@@ -3562,6 +3610,24 @@
       "duration_ms": 158750,
       "name": "HURTING",
       "url": "https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
       "album": {
@@ -6773,7 +6839,7 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 381000,
+      "duration_ms": 385703,
       "name": "Phepha Ndaba",
       "url": "https://open.spotify.com/track/7l7VcyXpXrE6732WA9udB0"
     },

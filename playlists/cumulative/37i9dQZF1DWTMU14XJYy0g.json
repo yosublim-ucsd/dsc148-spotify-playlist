@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Barbi Recanati.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: \u00c9l Mat\u00f3 a un Polic\u00eda Motorizado.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 212141,
       "name": "Ella Va",
       "url": "https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w"
@@ -2250,6 +2250,24 @@
       "duration_ms": 296869,
       "name": "Mis Heridas Cure",
       "url": "https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2"
     },
     {
       "album": {

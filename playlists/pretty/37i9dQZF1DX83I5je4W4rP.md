@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,447 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,723 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Bag of Bones](https://open.spotify.com/track/1FfQK0wO6PTWWSQwHas548) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Surfer Girl](https://open.spotify.com/album/1Slm6YYhhL1HMQh8P4eUDI) | 3:58 |
 | 125 | [Raise It \(with Mihali\)](https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Raise It \(with Mihali\)](https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT) | 2:46 |
 
-Snapshot ID: `MCxkYTkyZGE4NjgzMTY2MDAzMTI5NzNhMGRhMTYzZWM4Yjk2MzZlMmM3`
+Snapshot ID: `MCxjOWIxZTlhNmEwOTAxNmQ3MDQ3NDZmN2FlNWZkMDhlNTE0MzU0NDI0`

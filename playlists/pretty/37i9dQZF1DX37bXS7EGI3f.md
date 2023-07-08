@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,717 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,862 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m) | 5:30 |
 | 80 | [Fears Don't Matter](https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ) | 3:44 |
 
-Snapshot ID: `MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw`
+Snapshot ID: `MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm`

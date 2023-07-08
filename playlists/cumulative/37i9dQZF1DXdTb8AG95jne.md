@@ -4,12 +4,13 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Jeon Jin Hee\(전진희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-583 songs - 1 day 11 hr 42 min
+584 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-10 | 2023-01-26 |
 | [\#with\_you](https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag) | [D'avant](https://open.spotify.com/artist/4KIzyH8RDYbO94Qs7tfGRg) | [\#with\_you](https://open.spotify.com/album/764n0TwmT7M4xW9BaOy1cZ) | 2:58 | 2021-12-21 | 2022-07-12 |
+| [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-07 |  |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
@@ -335,7 +336,7 @@
 | [Myeongdong Calling](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [THE FAN 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2022-04-11 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-05 | 2022-07-09 |
 | [Name 이름](https://open.spotify.com/track/4CQhnpPfX9mX14VZlXI0q2) | [Azzul 아줄](https://open.spotify.com/artist/5nuzNvC1OBb7iFQMttCDGX) | [Afterimages 잔상들](https://open.spotify.com/album/3Su8wjhHX8RGeP6QgCUvkC) | 4:37 | 2022-03-31 | 2022-04-18 |
-| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2021-12-12 |  |
+| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2021-12-12 | 2023-07-08 |
 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 | 2022-03-31 | 2022-04-12 |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-07-12 | 2022-08-19 |
 | [New York](https://open.spotify.com/track/538iD010hO1udTC76GIhZN) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [New York](https://open.spotify.com/album/4aBTnVXPMVeD7jrSAENlSb) | 4:19 | 2021-12-21 | 2022-04-17 |

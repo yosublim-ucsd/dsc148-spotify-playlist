@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-834 songs - 2 day 6 hr 47 min
+836 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Do You Love Her Now](https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:34 | 2023-01-11 | 2023-04-22 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-07-22 | 2022-11-11 |
 | [Doin' Fine Today](https://open.spotify.com/track/5q0XUBXqK5wV2Dn0bL5I5Z) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [Doin' Fine Today](https://open.spotify.com/album/0Ju5SlXJQR0vv4iov2GtqL) | 3:03 | 2023-01-06 | 2023-01-14 |
+| [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 | 2023-07-07 |  |
 | [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-15 | 2022-12-25 |
 | [Don't Come Back](https://open.spotify.com/track/637Dhg7cBf6ODFeY2wjF5Z) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/2XGKQzWNKsrUOdg4719WPb) | 3:37 | 2022-10-24 | 2023-03-07 |
 | [Don't Fight The Feeling](https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Don't Fight The Feeling](https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5) | 5:04 | 2022-06-03 | 2022-07-29 |
@@ -498,6 +499,7 @@
 | [Mushroom Cloud](https://open.spotify.com/track/4CBdk3m49AsxYeRwPwQAFI) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Must Be a Dream](https://open.spotify.com/album/5zGfpfO04UiTB9g73oFi5F) | 4:18 | 2022-04-20 | 2022-10-26 |
 | [My Funny Serpentine](https://open.spotify.com/track/1kdi05AbQ5etXv9PtfMpV3) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 3:34 | 2022-05-20 | 2022-07-03 |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2022-07-11 | 2022-10-29 |
+| [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-07-07 |  |
 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 | 2021-04-02 | 2022-04-22 |
 | [Naima's Dream](https://open.spotify.com/track/2EXM4GiSRb60AA4BtYeQgm) | [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [Naima's Dream](https://open.spotify.com/album/36jye0varM2wI5vOzOmauk) | 3:20 | 2021-04-02 | 2022-04-21 |
 | [Nangs](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:47 | 2022-04-20 | 2022-06-01 |

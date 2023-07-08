@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. A Winged Victory For The Sullen on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,298 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,438 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Inspirit \- Takuya's Ryūteki Dragons](https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Inspirit \(Takuya's Ryūteki Dragons\)](https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw) | 4:15 |
 | 100 | [Music For Growing Flowers \- Pt\. 1](https://open.spotify.com/track/12QBPa6pOKXnSx3PBBQw69) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:09 |
 
-Snapshot ID: `MCxjNWJhMWE3Y2YyMDQ5YWQ3MzM3ZmI0MTlmOGZmMzllZWY4M2MxMjg5`
+Snapshot ID: `MCw2N2MxYzEwN2EyODc1NDVmNzM4YjEzMzI1N2NkNTlkYWY1NmMxZTAz`

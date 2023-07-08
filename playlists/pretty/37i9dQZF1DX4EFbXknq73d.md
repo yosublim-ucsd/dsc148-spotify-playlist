@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,579 likes - 75 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,718 likes - 75 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 41 | [She Said, She Said](https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:57 |
 | 42 | [Stomping Grounds \- Live Version](https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Live Art](https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm) | 5:26 |
 | 43 | [Fat Man In The Bathtub \- Live at Lisner Auditorium, Washington, DC, 8/10/1977](https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Waiting for Columbus \(Live Version; Deluxe Edition\)](https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM) | 4:53 |
-| 44 | [Hot Tea \(8.10.19\)](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 |
+| 44 | [Hot Tea \- Live, 8.10.19](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well \(Live\)](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 |
 | 45 | [Diner](https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Light Fuse Get Away](https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx) | 14:04 |
 | 46 | [Scarlet Begonias / I Know You Rider \- Live](https://open.spotify.com/track/00D3kP7H8OfHJDrZ6iU55e) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D), [Billy & The Kids](https://open.spotify.com/artist/11K4t6bF7NguAUDx5IYoiK) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 12:36 |
 | 47 | [Baby Night](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
 | 48 | [Bottoms Up](https://open.spotify.com/track/1KBjcNiDHKpJmdOfmqFMCs) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [The End of the Game \(Expanded\)](https://open.spotify.com/album/3owsPmXv3QbMk5iROMRAnj) | 9:01 |
 | 49 | [The Wheel / Uncle John’s Band \- Medley / Live](https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09) | [Phil Lesh & Communion](https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 17:00 |
 | 50 | [The Lover](https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Friday Afternoon In The Universe](https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4) | 6:19 |
-| 51 | [Arcadia \(7.27.19\)](https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 9:31 |
+| 51 | [Arcadia \- Live, 7.27.19](https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well \(Live\)](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 9:31 |
 | 52 | [Back Where It All Begins](https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Trouble No More: 50th Anniversary Collection](https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6) | 9:10 |
 | 53 | [Regarding Steven](https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Live From The Fall](https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV) | 4:41 |
 | 54 | [Franklin's Tower \(Live\)](https://open.spotify.com/track/7bMisliKEpEEwzcR2Vvpu6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l), [Keller Wiliams](https://open.spotify.com/artist/3tjL3XZW9whCWYENGm3sPP) | [On the Road: San Francisco, CA \- 12/31/02](https://open.spotify.com/album/1Pcf8mx1yRLj1ILHptLjfq) | 8:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Ship](https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [51 Phantom](https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv) | 5:29 |
 | 75 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 
-Snapshot ID: `MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx`
+Snapshot ID: `MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5`

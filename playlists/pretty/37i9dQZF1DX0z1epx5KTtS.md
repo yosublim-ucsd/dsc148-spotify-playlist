@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,051 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,085 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Chauffer le moteur](https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Chauffer le moteur](https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3) | 2:47 |
 | 40 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 |
 
-Snapshot ID: `MCw5NGI4ZDgyZWE1MzE4ODM0YzY5YTYzZDM3NTE3OGIyZjIwZjVmMTNi`
+Snapshot ID: `MCwyYTI0MmM0NjY4NGIzODZmNDFlNjI0MmZjMTU3ZGE3NGZmYTBiMzk4`

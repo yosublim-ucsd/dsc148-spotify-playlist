@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: BABY GRAVY",
+  "description": "make it pop! cover: Gus Dapperton",
   "name": "soda",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 168000,
       "name": "bubble boi",
       "url": "https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 222133,
       "name": "Change",
       "url": "https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 201186,
       "name": "cindy",
       "url": "https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 124830,
       "name": "coachella",
       "url": "https://open.spotify.com/track/1C8oR7bQs66ZHJxiKGwUT2"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 180571,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/7soY9QzpSB9vI1LKwVxDuY"
@@ -4267,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "Hate You The Least",
+        "url": "https://open.spotify.com/album/4AhR1HMCepAcnlEW1KORQY"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110175,
+      "name": "Hate You The Least",
+      "url": "https://open.spotify.com/track/6vFbWYHAs0Wg37tr1nSPRI"
+    },
+    {
+      "album": {
         "name": "hate you to love myself",
         "url": "https://open.spotify.com/album/2WxtQfmEOjAnJrodRSGOSy"
       },
@@ -4462,7 +4480,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 192452,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/4RPnYynrxLHVuzTj1Abs2p"
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213706,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/7DD5C8Dxq3acjvwDUCvuQQ"
@@ -7066,7 +7084,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136206,
       "name": "Love You 'Til I Die",
       "url": "https://open.spotify.com/track/0q8qzOGUClwoZi4K71kY6j"
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136579,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV"
@@ -9142,6 +9160,24 @@
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
+    },
+    {
+      "album": {
+        "name": "NOMAD - EP",
+        "url": "https://open.spotify.com/album/1QFTJyV7Hqu3RzDAcnIiDF"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "ROI",
+      "url": "https://open.spotify.com/track/57PdidKlKLiTtyJapoN111"
     },
     {
       "album": {
@@ -10069,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "stars",
+        "url": "https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "stars",
+      "url": "https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H"
+    },
+    {
+      "album": {
         "name": "leave me where you found me",
         "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
       },
@@ -10405,6 +10459,24 @@
     },
     {
       "album": {
+        "name": "SUMMER VIBES",
+        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146587,
+      "name": "SUMMER VIBES",
+      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu"
       },
@@ -10474,6 +10546,24 @@
       "duration_ms": 170226,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
+    },
+    {
+      "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "SUNDAY",
+      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
     },
     {
       "album": {

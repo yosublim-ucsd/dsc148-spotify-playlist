@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Kabir Singh
+> Let these songs be the background score to your love story\. Cover \- SatyaPrem Ki Katha
 
 178 songs - 12 hr 33 min
 

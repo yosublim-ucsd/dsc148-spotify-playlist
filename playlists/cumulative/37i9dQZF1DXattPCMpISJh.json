@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Disco Save My Life",
+        "url": "https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF"
+      },
+      "artists": [
+        {
+          "name": "Babert",
+          "url": "https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326400,
+      "name": "Disco Save My Life",
+      "url": "https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV"
+    },
+    {
+      "album": {
         "name": "Do I Do (Radio Edit)",
         "url": "https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3"
       },
@@ -1534,6 +1552,28 @@
       "duration_ms": 185893,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/32MJWgGagVzCGmXC85jzWD"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/5KNa1uT6mqIWsIeEinAySc"
+      },
+      "artists": [
+        {
+          "name": "Luke Delite",
+          "url": "https://open.spotify.com/artist/3cBXq2Zo29hMzveMGVPDzL"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197619,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
     },
     {
       "album": {
@@ -2144,7 +2184,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 253565,
       "name": "Jump Into The Light - Wash House Dub",
       "url": "https://open.spotify.com/track/6Jd8t7HR1g8LBS53mhOwXM"
@@ -2702,7 +2742,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 203940,
       "name": "Never Coming Back",
       "url": "https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG"
@@ -3208,7 +3248,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 219661,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/1HEvA91tHBpt78hZLIq0MG"
@@ -4004,6 +4044,28 @@
       "duration_ms": 168000,
       "name": "Under the Light",
       "url": "https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY"
+    },
+    {
+      "album": {
+        "name": "Undone (Dave Lee's Disco Blend)",
+        "url": "https://open.spotify.com/album/0anPxpLYjej5T6lixjBu0w"
+      },
+      "artists": [
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339562,
+      "name": "Undone - Dave Lee's Disco Blend",
+      "url": "https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr"
     },
     {
       "album": {

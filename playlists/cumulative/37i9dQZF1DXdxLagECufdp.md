@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-150 songs - 9 hr 38 min
+151 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Double Dare](https://open.spotify.com/track/0IYSqo0DzYtbrpAxfaiV5d) | [Molotov Jukebox](https://open.spotify.com/artist/4lVL5YCP0V5po055LJcJaD) | [Double Dare EP](https://open.spotify.com/album/3HLS7NMeYXHhxPg58XfziG) | 3:43 | 2021-09-10 | 2022-07-27 |
 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 | 2021-09-10 |  |
 | [Duda Morena](https://open.spotify.com/track/3U0VWhffr8bNtIb9NXLsAF) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/14izgFmt2bYnz6GT6utXKG) | 4:53 | 2021-09-10 | 2022-07-29 |
+| [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/track/3FUlOJl1oJWfeEQkd4JqQ9) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/album/3Ka4qbcJGSq1ouSFDbs4K1) | 5:32 | 2023-07-07 |  |
 | [El Futuro Es Nuestro \(feat\. Goran Bregovic\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 | 2021-09-10 |  |
 | [El Joven](https://open.spotify.com/track/6rF2b4T24K7cug33CFssX5) | [Barrio Manouche](https://open.spotify.com/artist/64uzGw6SoD7DIMxnvZ9HcS) | [El Joven](https://open.spotify.com/album/7LERmFEyTVVGMDrdseq0Uz) | 4:23 | 2021-09-10 | 2022-07-28 |
 | [El Leñador](https://open.spotify.com/track/36dMgM3svUVhgQlVXPbZQu) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf), [Goy Ogalde](https://open.spotify.com/artist/170R5MHc1kaj5wjpe9r0V4), [Alfonso Barbieri](https://open.spotify.com/artist/5d3mMmYy6A3MGlXfp42c26) | [Esto Es un Abrazo](https://open.spotify.com/album/6YQ3Qc2P4vmCuHGnQkPxfx) | 3:32 | 2021-09-10 | 2022-07-28 |
@@ -124,7 +125,7 @@
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 | 2021-09-10 | 2022-07-29 |
 | [Padam Padam](https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 2:59 | 2021-09-10 | 2022-07-29 |
 | [Palinka](https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo) | [Lemon Bucket Orkestra](https://open.spotify.com/artist/6GWO9W0sGGhCFEXPNt1w21), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [If I Had The Strength](https://open.spotify.com/album/27oG7yQMyxzz5p40ZwDjgb) | 4:16 | 2021-09-10 | 2022-07-29 |
-| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 |  |
+| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 | 2023-07-08 |
 | [Para Olvidarte](https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Para Olvidarte](https://open.spotify.com/album/7LJJlpLzQTBQ0wjMopDN81) | 4:04 | 2021-09-10 | 2022-07-29 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-03 |
 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 | 2021-09-10 |  |

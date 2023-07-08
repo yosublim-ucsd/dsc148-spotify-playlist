@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,468 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Goodbye \(feat\. Xillions\) \- Crude Intentions & Dr\. Rude Remix](https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Goodbye \(feat\. Xillions\) \[Crude Intentions & Dr\. Rude Remix\]](https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq) | 2:55 |
 | 80 | [One And The Same](https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [One And The Same](https://open.spotify.com/album/7GKygds15lUloYYV0wyINF) | 3:32 |
 
-Snapshot ID: `MCxjNGVmODQ5MGYzMDJmYjUyYTg5ZGU2OGNjMmMxNGI2MmY5ZWJkMzBl`
+Snapshot ID: `MCwxY2YzNjhjMzA0NmNjM2RmMDIyZDFiYWM4Zjk5ODIzMzRkNTZkOTg1`

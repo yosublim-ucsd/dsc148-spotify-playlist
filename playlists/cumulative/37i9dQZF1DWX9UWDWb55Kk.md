@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-367 songs - 23 hr 22 min
+368 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [That Way Again](https://open.spotify.com/track/0TIQ60yLeT4khQVvzH673I) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:13 | 2021-09-01 |  |
 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 | 2021-09-01 |  |
 | [The Drums \(Din Daa Daa\)](https://open.spotify.com/track/1WI29eelbdQQWpFhhexThe) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [The Drums \(Din Daa Daa\)](https://open.spotify.com/album/3LO2FgUMxLFzulGaDKuJuA) | 3:26 | 2021-09-01 |  |
-| [The Last Goodbye](https://open.spotify.com/track/7GswgLLrtSouvDcIHyqmbE) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 3:39 | 2021-09-01 |  |
+| [The Last Goodbye](https://open.spotify.com/track/7D1ONerlSPQOpq1EfV84uU) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 3:39 | 2021-09-01 |  |
+| [The Last Goodbye](https://open.spotify.com/track/7GswgLLrtSouvDcIHyqmbE) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 3:39 | 2021-09-01 | 2023-07-08 |
 | [The Top](https://open.spotify.com/track/5a8zFeKUi02rwbKlMZeNiZ) | [Eva McBel](https://open.spotify.com/artist/1eh2IiirE7f7OZmcl20USQ) | [Some Kind of Portrait](https://open.spotify.com/album/5LJikFN5KojJ6tOKmy7r8m) | 3:47 | 2021-09-01 |  |
 | [The Valley of Unrest](https://open.spotify.com/track/4kM0EiMGiqUdexK9TGWvju) | [SEYES](https://open.spotify.com/artist/2m4PpwXvakDva5glFbzBbE) | [Beauty Dies](https://open.spotify.com/album/35Dunjly7CbV8xHLswv8wR) | 3:18 | 2022-04-08 |  |
 | [The Wall & I](https://open.spotify.com/track/5qIOUorQ9AInP9UliORgCC) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 5:04 | 2021-09-01 |  |

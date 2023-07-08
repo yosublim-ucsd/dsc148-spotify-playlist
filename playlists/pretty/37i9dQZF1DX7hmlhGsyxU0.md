@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,161 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,285 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 |
 | 63 | [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 |
 
-Snapshot ID: `MCxkODcyOWVhZjE4NjcwM2UwNzQ1NjI3ODM0YmM5ZmUxNGMzNWQ0ZjYz`
+Snapshot ID: `MCw2ZjQ1ZmU5ZDJmNDQ0NTllYzlmOWIwZGE4ZmU4NTc3ZGMyNzkwYTFl`

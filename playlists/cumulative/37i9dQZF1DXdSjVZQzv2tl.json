@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 184128,
       "name": "Desejo Imortal (It Must Have Been Love)",
       "url": "https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM"
@@ -2359,7 +2359,7 @@
     },
     {
       "album": {
-        "name": "Se Ele Soubesse (Ao Vivo Em Goi\u00e2nia / 2022)",
+        "name": "Se Ele Soubesse (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/3IzxCfPuWv3r8fQ1IpDY5a"
       },
       "artists": [
@@ -2376,7 +2376,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170106,
-      "name": "Se Ele Soubesse - Ao Vivo Em Goi\u00e2nia / 2022",
+      "name": "Se Ele Soubesse - Ao Vivo Em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM"
     },
     {
@@ -2400,6 +2400,24 @@
       "duration_ms": 168840,
       "name": "Seu Brilho Sumiu - Ao Vivo",
       "url": "https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN"
+    },
+    {
+      "album": {
+        "name": "Solteiro Frustrado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zspJVASlzrBFFPbiazk46"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "Solteiro Frustrado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QqkNyWHUACzoT6isznHWS"
     },
     {
       "album": {

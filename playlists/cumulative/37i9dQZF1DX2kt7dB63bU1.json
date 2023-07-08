@@ -476,7 +476,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 228245,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/5ECbeElJIvaqZFtmBx1O4s"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 254930,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/4DPgH9sdbVpsM2gJbfT1Lx"
@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 167109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/38rGDsmxtgLCo6RFkJCNMq"
@@ -8103,6 +8103,28 @@
     },
     {
       "album": {
+        "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/1s1hg0fDxYubOCjG5dJT4s"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc"
+    },
+    {
+      "album": {
         "name": "No Erasing You",
         "url": "https://open.spotify.com/album/1l9g7m0KKeJ2CTFs2R6OXp"
       },
@@ -8136,7 +8158,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 290920,
       "name": "No Goodbyes",
       "url": "https://open.spotify.com/track/60YQOHFo9twHyRTgqn30Xh"
@@ -8324,6 +8346,24 @@
       "duration_ms": 355587,
       "name": "Nuit Blanche (Live)",
       "url": "https://open.spotify.com/track/1GoyNvRJycBHfiHPJvRgwz"
+    },
+    {
+      "album": {
+        "name": "On a Clear Day",
+        "url": "https://open.spotify.com/album/2xs9zIvepSaIbTRSYDF4AQ"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255829,
+      "name": "On a Clear Day",
+      "url": "https://open.spotify.com/track/3jCd4mKJou4SLrhuPJe0gX"
     },
     {
       "album": {
@@ -8975,6 +9015,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Forest",
+        "url": "https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290381,
+      "name": "Rainbow Forest - Single Edit",
+      "url": "https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV"
+    },
+    {
+      "album": {
         "name": "Retro Kind of Love",
         "url": "https://open.spotify.com/album/60ad6yYVwd1Ed0RQgc4QTg"
       },
@@ -8990,6 +9048,24 @@
       "duration_ms": 206595,
       "name": "Retro Kind of Love",
       "url": "https://open.spotify.com/track/0ccnF7JHBUewZYWNXrut2y"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7wclw9jn08AQIlVngXWdgE"
+      },
+      "artists": [
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203491,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/0RUr2PshDtTFAdkIN6DSoI"
     },
     {
       "album": {

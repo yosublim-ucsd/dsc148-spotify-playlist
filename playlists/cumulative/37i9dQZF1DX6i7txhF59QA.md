@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: SUNGMIN\(성민\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-797 songs - 1 day 21 hr 35 min
+798 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Love is the seed of tears](https://open.spotify.com/track/1s1aHyQx3HZlVyqROXGzgU) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 2:53 | 2022-04-07 | 2022-07-28 |
 | [Love letter](https://open.spotify.com/track/6SsTCoS6ofghaAqbzEiFK4) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:11 | 2022-05-03 | 2022-07-19 |
 | [Love must be a butterfly + I am 17 years old](https://open.spotify.com/track/5tXEh4F6N1cOLCzmVYHApa) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/1qabkEyfuiYxzewvUD6hHf) | 2:31 | 2022-04-22 | 2022-07-13 |
+| [Love Signal](https://open.spotify.com/track/3rnvLgteBQWTALKwhRt0p9) | [JANG SONG HO](https://open.spotify.com/artist/61f28y2zvYJyjTqfCB5b4p) | [Love Signal](https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN) | 3:33 | 2023-07-07 |  |
 | [Love Station](https://open.spotify.com/track/2D1xAiDD33nqcxtSMH30hO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:11 | 2022-07-22 | 2023-03-02 |
 | [Love Station](https://open.spotify.com/track/2LQCNmrPz6cIm1Y3sdwHO4) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:11 | 2022-05-03 | 2022-07-29 |
 | [Love that left Autumn behind](https://open.spotify.com/track/1ehBpQ5yivI6sjlmnPVHx7) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 3:05 | 2022-05-03 | 2022-07-09 |
@@ -735,7 +736,7 @@
 | [라 트라비아타 \- 축배의 노래](https://open.spotify.com/track/1JZrZ4MMGbPsnhZuV6ylf7) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [이상원](https://open.spotify.com/artist/1v9EQbZP9Y6LE636W2x5zQ) | [아무도 모르게 김호중의 파트너 Pt\. 4](https://open.spotify.com/album/1tgsVFqUFXFCcfoTogeGky) | 3:07 | 2022-04-07 | 2022-07-22 |
 | [로꾸거!!!](https://open.spotify.com/track/77Z6XdUHDsbvsLd61vVbQU) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:59 | 2022-05-03 |  |
 | [마셔라](https://open.spotify.com/track/7M7dVVgNr0VaLq6B2aqw5E) | [Mr.Boombox](https://open.spotify.com/artist/47feRgmsZDfJs3AOY68xPp) | [마셔라](https://open.spotify.com/album/5HcjCPrfrpBgkGYJUTwRYr) | 3:48 | 2022-04-07 | 2022-07-29 |
-| [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-12-05 |  |
+| [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-12-05 | 2023-07-08 |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |

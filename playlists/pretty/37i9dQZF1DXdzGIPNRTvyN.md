@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,093 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,609 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 104 | [Incubations](https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Incubations](https://open.spotify.com/album/3PLtwNgWWjOPHlExuhvbvh) | 3:20 |
 | 105 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 |
 
-Snapshot ID: `MCxjYWZkYTM1YmU4MDc2MzliODYwOGRkNGNlMGE3MGJmMjBmOTQxZmZj`
+Snapshot ID: `MCw2NDUwMTFkYjFiYjQ5MDMwNTc3OTY2ZDEyNmJlMTFhYjJjMjM1NTIw`

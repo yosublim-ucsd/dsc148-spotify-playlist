@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Yemil",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171764,
       "name": "AMOR ESPACIAL",
       "url": "https://open.spotify.com/track/6sv9yrzfoVWzXKplXEKkcg"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 208360,
       "name": "Bajo Presi\u00f3n",
       "url": "https://open.spotify.com/track/6ySk8C9ebTPQcABtSNJ1QM"
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Dramatico",
+        "url": "https://open.spotify.com/album/2v6uqNMQ2JS3Xyygxs7SwJ"
+      },
+      "artists": [
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141706,
+      "name": "Dramatico",
+      "url": "https://open.spotify.com/track/77ykkmmxq1iIkeYMcHvk3K"
+    },
+    {
+      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 187978,
       "name": "En La Luna",
       "url": "https://open.spotify.com/track/7LoBGVOINvvyKBmsSkS5CA"
@@ -1322,6 +1340,28 @@
       "duration_ms": 161386,
       "name": "Hola",
       "url": "https://open.spotify.com/track/4n98DgeQFXDsz15Wi6uT70"
+    },
+    {
+      "album": {
+        "name": "H\u00e1blame de Ti",
+        "url": "https://open.spotify.com/album/7bwsis1VLOwTBOOqYkmnGI"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223137,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4"
     },
     {
       "album": {
@@ -2221,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "Alter Egos",
+        "url": "https://open.spotify.com/album/6WMQIRtweiHEROHJF0TVG8"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "Mil Razones",
+      "url": "https://open.spotify.com/track/5NZhelLEwoxLpR1fasqp44"
+    },
+    {
+      "album": {
         "name": "Mojaita",
         "url": "https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB"
       },
@@ -2658,7 +2720,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
@@ -3200,6 +3262,28 @@
       "duration_ms": 168000,
       "name": "SECRETOS",
       "url": "https://open.spotify.com/track/7gzHBtLU0lYfIGcvEGbIz6"
+    },
+    {
+      "album": {
+        "name": "Sexo Terrorista",
+        "url": "https://open.spotify.com/album/6K2Ctxj3u4FwpeutJQFuIk"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187423,
+      "name": "Sexo Terrorista",
+      "url": "https://open.spotify.com/track/3k7VVjgXsjS7tu8mR30J2k"
     },
     {
       "album": {

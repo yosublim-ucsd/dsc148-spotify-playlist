@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-386 songs - 21 hr 49 min
+387 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Design](https://open.spotify.com/track/1pX8oB4YvglQZEkLJBMkRv) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Design](https://open.spotify.com/album/5x1d3pzZkeUW3lDPgsbPHH) | 3:37 | 2021-05-14 | 2022-04-21 |
 | [Devotion \- Shakur Ahmad Remix](https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe) | [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Shakur Ahmad](https://open.spotify.com/artist/2AH7NRIWkddZkdpyiFuR8S) | [Devotion \(Shakur Ahmad Remix\)](https://open.spotify.com/album/5MLhPlELucdc3OdlACAXdC) | 3:20 | 2021-04-09 | 2022-08-09 |
 | [Distracted](https://open.spotify.com/track/1BWPQ3okXEbZTPI3sJ0Ywi) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Why the Face](https://open.spotify.com/artist/6CaKWuwEWYsoFiPweD7Mir) | [Distracted](https://open.spotify.com/album/0nyRnJXQiTSTU9n60douBJ) | 4:53 | 2020-11-13 | 2022-02-09 |
+| [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 | 2021-09-21 | 2022-04-21 |
 | [Do or Die](https://open.spotify.com/track/1CfTuOvVnBDEE9ox8yYDrv) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Do or Die](https://open.spotify.com/album/5rv4qSw9HLMWhI2S2tNISG) | 2:46 | 2020-11-13 | 2022-03-26 |
 | [Do That \(feat\. FHAT\)](https://open.spotify.com/track/0RtkiBgYQmkiDg8ntoJxzT) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Do That \(feat\. FHAT\)](https://open.spotify.com/album/6zmUhkZKIx7SBQZCpaJg7H) | 2:41 | 2020-11-13 | 2021-12-28 |
@@ -208,7 +209,7 @@
 | [Mantra](https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Disco Submarine](https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5) | 2:46 | 2022-09-09 | 2022-10-01 |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2020-11-13 | 2022-02-16 |
 | [Monica](https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Dreamboat](https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29) | 3:07 | 2022-07-29 |  |
-| [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-23 |  |
+| [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-23 | 2023-07-08 |
 | [Moonwalking](https://open.spotify.com/track/0ghnwFrfblAPwGxsNlasOd) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [Moonwalking](https://open.spotify.com/album/2uR5RuNR0KypxPYNjF5JXK) | 3:01 | 2022-08-19 | 2022-09-18 |
 | [More](https://open.spotify.com/track/5fkAuH8tIC537wT67dwrDn) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 3:16 | 2020-11-13 | 2022-03-23 |
 | [More](https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY) | 3:03 | 2021-09-21 | 2022-07-25 |

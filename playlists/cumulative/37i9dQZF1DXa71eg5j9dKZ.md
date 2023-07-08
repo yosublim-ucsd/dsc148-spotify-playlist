@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Sampha
 
-729 songs - 2 day 4 hr 30 min
+730 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Fifty Fifty](https://open.spotify.com/track/4NMpg12KxtwBh1eO1Bvbcd) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Fifty Fifty](https://open.spotify.com/album/4oM49FpswfCebXvSQxqMqb) | 4:25 | 2023-03-08 | 2023-06-16 |
 | [Filter Funk](https://open.spotify.com/track/7hfdbY5EE98A5aqrzwCKop) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:22 | 2022-04-15 | 2022-08-05 |
 | [Find You](https://open.spotify.com/track/6TF0UViz2tE4ygW9NjmYWK) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [Find You](https://open.spotify.com/album/6xzI3PZYo4aQb95vr4zSn3) | 3:43 | 2023-01-27 | 2023-06-16 |
+| [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-06 |  |
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 | 2022-08-20 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-13 | 2022-08-05 |
 | [Fireworks](https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:24 | 2021-11-24\* | 2022-03-19 |

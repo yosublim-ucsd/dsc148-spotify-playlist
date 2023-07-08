@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Ninho
 
-239 songs - 15 hr 22 min
+240 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Femme Africaine](https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Femme Africaine](https://open.spotify.com/album/2vNXcv6Pa0IBvs70onbDqr) | 2:37 | 2023-06-23 |  |
 | [Fimbu](https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt) | [Felix Wazekwa](https://open.spotify.com/artist/0pzeKLviAxrnJTAUQzaUs3) | [Fimbu](https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa) | 3:46 | 2022-12-02 |  |
 | [Fiohna Mukusa](https://open.spotify.com/track/5dseKmdnMxEJnlKPtyg2J5) | [Ministre Manzaka DJ](https://open.spotify.com/artist/45cBTgK3RwWjZwoBwJuukk) | [Monde A Part](https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL) | 4:13 | 2022-09-23 | 2023-02-11 |
+| [Flex](https://open.spotify.com/track/1TfP0ZQzyiveYN9lzmGTCd) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Flex](https://open.spotify.com/album/56hBQiMKWLzDd9rEWdACzh) | 2:34 | 2023-07-07 |  |
 | [foko foko](https://open.spotify.com/track/424VcU7tyWtjqY72Pw3OIk) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [ML nkosi](https://open.spotify.com/artist/7tPYBPHItyAQ05pWVOle2u), [Dr pm](https://open.spotify.com/artist/4yGZTJU4pCnoCSaLkt7BCl), [Maréchal ABD](https://open.spotify.com/artist/3oLHEqDRbxY7sQiVkr88lA), [bnb all star](https://open.spotify.com/artist/1JeNYTgxclwohb4nUsOU3X), [Sam Samouraï](https://open.spotify.com/artist/0IC7bw0fGs65wAsdUS94EL) | [foko foko](https://open.spotify.com/album/28QxNODJ8hrSjgRjo1vZkq) | 4:19 | 2023-03-17 | 2023-05-20 |
 | [Fololo \(Liberté\)](https://open.spotify.com/track/2MAG2l8Jjrj9K53fBa6Hui) | [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc) | [Liberté](https://open.spotify.com/album/5y7sY65Ip1uT0IRFO5V48q) | 4:40 | 2022-12-30 | 2023-03-18 |
 | [Formule 7](https://open.spotify.com/track/1zo15YjbaTTwAho4ECmrDZ) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 8:05 | 2023-03-24 | 2023-04-01 |
@@ -156,7 +157,7 @@
 | [Motivation](https://open.spotify.com/track/4i4VJqautuPs4c8WlgdQzz) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Motivation](https://open.spotify.com/album/48fSfulmRvtuVOKZXn6a8F) | 4:02 | 2022-10-07 | 2023-01-28 |
 | [MOTO YA 2 FOIS TE](https://open.spotify.com/track/0ItpulUvbfHp5BUhWRWHku) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOTO YA 2 FOIS TE](https://open.spotify.com/album/0X1gWuPzMfMrAJQQctSGjW) | 3:43 | 2022-12-08 | 2023-03-18 |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
-| [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 | 2022-09-16 |  |
+| [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 | 2022-09-16 | 2023-07-08 |
 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 | 2023-03-18 |
 | [Na Boyi](https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Na Boyi](https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y) | 2:50 | 2022-06-30 | 2022-10-29 |
 | [Na Pètè](https://open.spotify.com/track/15A4yOkL1eudjFq8F7gOk7) | [L\. Cam's](https://open.spotify.com/artist/3y0KvFOUhys9mOPLfqGnj3) | [Na Pètè](https://open.spotify.com/album/4QuTp9qmtG5ZSc5npGfVPy) | 3:16 | 2022-06-30 | 2022-08-20 |

@@ -4456,8 +4456,8 @@
           "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
         },
         {
-          "name": "\u9db4 The Crane",
-          "url": "https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6"
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
         }
       ],
       "date_added": "2023-07-06",
@@ -14144,10 +14144,32 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213506,
       "name": "WINDY SUMMER - Cover",
       "url": "https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH"
+    },
+    {
+      "album": {
+        "name": "HONEY meets ISLAND CAFE - Sea of Love 8- Collaboration with SHONAN by the Sea",
+        "url": "https://open.spotify.com/album/2rIlcICz28RnLRVWH3oXqn"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "WINDY SUMMER - Cover",
+      "url": "https://open.spotify.com/track/6fekvsa1wJ2vUokdemZHDd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,792 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [Fuck The Industry Pt\. 2](https://open.spotify.com/track/5leAk8qQS6HGWwEvpyWSqd) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:07 |
 | 100 | [Sdot Go \- WNA](https://open.spotify.com/track/2mNcQnrHoGyM7QmzA6oEqt) | [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Sdot Go \- WNA](https://open.spotify.com/album/2SCd2rfr1TaH0SO7ew9sbG) | 2:19 |
 
-Snapshot ID: `MCwyZmMyYWI5MTY5ZDIyM2Q5ZmI3YTcyYmY2MjA4ZjY5YTgyMTIwODIy`
+Snapshot ID: `MCxkY2FiNTRlN2JlYzEyNjk1MzY1NGNiMzdkZjkwYzMxZDU0NTkyMTQz`

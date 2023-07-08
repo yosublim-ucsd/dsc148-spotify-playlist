@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,935 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,031 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Guarachi Guaro \- Live](https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [Dizzy Con Clave: Live from Dizzy's Club Coca Cola](https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm) | 9:28 |
 | 100 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 
-Snapshot ID: `MCw1ZTc1OTk1ZTYzZjNkNjVmNjIyOGMyYjI5MzY3ZmUyMmMxNWJmMTM3`
+Snapshot ID: `MCw4ODUxMDQ2NmUyOTU0ZDIxMTEzNzBlMmQyOTc1NWJhZWNiY2I3ODhi`

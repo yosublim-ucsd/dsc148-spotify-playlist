@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=el7cesKCTjav8giRVJfIvQ"> عصام صاصا </a>
 
-160 songs - 9 hr 47 min
+161 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [ضحكتك و ضحكتي عليا \( لحظه فراقك جرحتني \)](https://open.spotify.com/track/5WQ4GUTek3BUnjmcoxf4cU) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ضحكتك و ضحكتي عليا \( لحظه فراقك جرحتني \)](https://open.spotify.com/album/0eVad4eWSNMuOpe55MdZUZ) | 3:13 | 2023-03-23 | 2023-05-19 |
 | [طخ طخ انا الطخطوخ](https://open.spotify.com/track/3smY1fF2RinJwhaxGToDSh) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طخ طخ انا الطخطوخ](https://open.spotify.com/album/64o8RrttINtiwfUcCXMMMv) | 5:51 | 2021-12-16 | 2022-07-29 |
 | [طخ طخ انا الطخطوخ](https://open.spotify.com/track/6stW4DuSMCxC7BNcVlF8yV) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طخ طخ انا الطخطوخ](https://open.spotify.com/album/6l7ow81eOmAlhtTwy6U7cQ) | 5:51 | 2022-07-19 | 2023-05-31 |
-| [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-07-19 |  |
+| [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-07-19 | 2023-07-08 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2022-01-10 | 2022-07-29 |
 | [طمنيني](https://open.spotify.com/track/02WytyOun59cEcy1LhyGP3) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/48Hqj988XJYOOzaudRAj70) | 3:55 | 2022-07-19 |  |
 | [طمنيني](https://open.spotify.com/track/1LBnLlVug13kIthC9VtMcJ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/3wnNwOBfnZhl6CZ8NtEzc9) | 3:55 | 2021-12-16 | 2022-07-29 |
@@ -146,6 +146,7 @@
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |
 | [مهرجان اسكت يا قلبي](https://open.spotify.com/track/3bpMAr3KaaAm7YrAp8K9XD) | [Eslam Nabawy](https://open.spotify.com/artist/4msLeWosAtlqUnbOu7K0bk) | [مهرجان اسكت يا قلبي](https://open.spotify.com/album/3oyReWYuMccCmyqaJMIpGF) | 3:36 | 2021-12-16 | 2022-01-11 |
 | [مهرجان خصمي بكيفو مكتفو](https://open.spotify.com/track/3L8EMN39GeZr6kXTxHTXpz) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [مهرجان خصمي بكيفو مكتفو](https://open.spotify.com/album/7nke7ljG583Vv8lDQbyA6A) | 4:47 | 2022-10-24 |  |
+| [مهرجان طلقاتى راشقه \(اولها حب و تانيها خبى\) حمو الطيخا](https://open.spotify.com/track/4DpDiqw5eq04pDADV4rEZt) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان طلقاتى راشقه \(اولها حب و تانيها خبى\) حمو الطيخا](https://open.spotify.com/album/5Tfsp1n7k36Y3o9BdVfsaC) | 3:58 | 2023-07-03 |  |
 | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/track/0g8KH2qkC7lwfYt1cEqddg) | [i Media](https://open.spotify.com/artist/1PKVWSj5RnhEsVuyJ1AFCo) | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/album/1jT4cNu2gl2tV7LVUNKvlZ) | 4:00 | 2022-10-16 | 2022-12-07 |
 | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/track/2bQNy3nPQScyHMoHD4BiLa) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/album/4dQP9XYz589KvRXP7hbFSu) | 4:00 | 2022-10-27 | 2022-11-13 |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 |  |

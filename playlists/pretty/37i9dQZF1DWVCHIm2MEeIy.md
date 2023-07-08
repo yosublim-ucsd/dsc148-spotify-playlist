@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,191 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,331 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Gordon](https://open.spotify.com/track/2mj6LDSazUdSLe9ed32lEH) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Gordon](https://open.spotify.com/album/1aormndMh4RfNXV1fJdjFL) | 4:00 |
 | 70 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 
-Snapshot ID: `MCxhMjNkNWQ4MWY4NTZmOGNhMTA1NWIwMTk1MTgyNjQxYjZlZjI2MGMy`
+Snapshot ID: `MCwwNzJjNTkzNTViMmQzZmExMWQ0Y2Q5MDViMzYwMmM1YjVjNGEzNmJj`

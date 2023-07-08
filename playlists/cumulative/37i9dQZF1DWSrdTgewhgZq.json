@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Only the best Hip-hop, only non-stop hits. Cover: Metro Boomin\n",
+  "description": "Only the best Hip-hop, only non-stop hits. Lil Uzi Vert on Cover \n",
   "name": "DOPE.",
   "tracks": [
     {
@@ -2647,6 +2647,28 @@
     },
     {
       "album": {
+        "name": "Patience (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1N36aG06vSw0jiZkYqDhhZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262429,
+      "name": "Patience (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
+    },
+    {
+      "album": {
         "name": "CHOMP 2.5 (EP)",
         "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
@@ -3052,7 +3074,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 182400,
       "name": "Slight Dub (feat. 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
@@ -3356,7 +3378,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"

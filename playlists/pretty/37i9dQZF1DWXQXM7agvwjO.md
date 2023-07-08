@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Gordon Flanders, 鶴 The Crane
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,828 likes - 99 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,359 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [鶴 The Crane](https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
+| 1 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
 | 2 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 3 | [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 |
 | 4 | [TV LOVE](https://open.spotify.com/track/2MieJBlO7Tra8Vv9nsPy6w) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [OCPY](https://open.spotify.com/album/6mLweu3OdJUR6sEFf86ym2) | 3:19 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 24 | [Peak Season](https://open.spotify.com/track/2P7RLgJ1c7aJM17RImzE5y) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/2pGFuOxiVWmMeTLAAS5UJX) | 2:23 |
 | 25 | [Always](https://open.spotify.com/track/6T6nYHiFkFcy7XR6FD6B3K) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [Sooner or Later](https://open.spotify.com/album/3KoCj5WIT671pWd0iZicua) | 3:29 |
 | 26 | [Devil's Bargain](https://open.spotify.com/track/0a3IlLkvg1FaUAs4QR1Yse) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Devil's Bargain](https://open.spotify.com/album/5gRd0zhPpH4TUmfMTBKZNg) | 4:57 |
-| 27 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 |
+| 27 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/6fekvsa1wJ2vUokdemZHDd) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [HONEY meets ISLAND CAFE \- Sea of Love 8\- Collaboration with SHONAN by the Sea](https://open.spotify.com/album/2rIlcICz28RnLRVWH3oXqn) | 3:33 |
 | 28 | [Seeking For Connection](https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Seeking For Connection](https://open.spotify.com/album/0mhtW9uXg47fTa35fFk72C) | 2:54 |
 | 29 | [VENTI GRANDE](https://open.spotify.com/track/0S2AAZbQRxcq6igNugWqaH) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [VENTI GRANDE](https://open.spotify.com/album/6bmM0W38LqKKWzueVmHIxG) | 2:38 |
 | 30 | [Twenty\-Nine](https://open.spotify.com/track/2Z6WalGqMj3dU81BH9EEkN) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl) | [Handle With Care](https://open.spotify.com/album/63iaoGDbIVMUjfec3hyBgP) | 4:26 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 98 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
 | 99 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 |
 
-Snapshot ID: `MCwzNmQxY2FhMWUyN2E0OWY5Y2E2OTA3YTQ0NjAyZWJkNjY5ZmEyMDli`
+Snapshot ID: `MCwxZGM0MjE3ZGMwNWFhZDdjNzk1YWI5Mzk1NDJkZWU0ZmY3YThjMzhi`

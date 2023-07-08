@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=WgAO-NgbQZSqV5y_aN46MA\">AYL\u00d8 </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=OIg_mIumQY-yAohjU8OJ_A\">sGawD </a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1144,6 +1144,24 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
+    },
+    {
+      "album": {
+        "name": "Boytoy",
+        "url": "https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7"
+      },
+      "artists": [
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Boytoy",
+      "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
     },
     {
       "album": {
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 220243,
       "name": "Just Cool",
       "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"

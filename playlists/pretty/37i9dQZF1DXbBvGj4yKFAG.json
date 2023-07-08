@@ -1,12 +1,12 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 45878,
+  "num_followers": 46126,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTdlNzAwOTFkYTcyZjI0YjkxOTYwMzkzMGU2NzIxYTU2N2IzNzRj",
+  "snapshot_id": "MCw2ZjlmN2I5NTliYjU4NzI3ODAxMjFjYzY4MjJkNzRlMzBkZjYzOTNj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
     },
     {
+      "added_at": "2023-07-07 21:29:25",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1"
+      },
+      "artists": [
+        {
+          "name": "Blood Estate",
+          "url": "https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF"
+        }
+      ],
+      "duration_ms": 158730,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP"
+    },
+    {
       "added_at": "2023-04-11 14:48:39",
       "album": {
         "name": "fairies in our house",
@@ -121,26 +137,6 @@
       "url": "https://open.spotify.com/track/38PleSiXelEox4nUyO5apt"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "canine teeth",
-        "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        },
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "canine teeth",
-      "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "melanchole (remaster)",
@@ -171,6 +167,22 @@
       "duration_ms": 166263,
       "name": "never find u",
       "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
+    },
+    {
+      "added_at": "2023-07-07 21:29:25",
+      "album": {
+        "name": "rainwater on the windowsill",
+        "url": "https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "rainwater on the windowsill",
+      "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -267,6 +279,26 @@
       "duration_ms": 241186,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "canine teeth",
+        "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "canine teeth",
+      "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Skullcrusher",
-        "url": "https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 183116,
-      "name": "Places/Plans",
-      "url": "https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "rainbow music",
         "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 125830,
       "name": "lust",
       "url": "https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Far From This World",
-        "url": "https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 216541,
-      "name": "Never Know Why",
-      "url": "https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS"
     },
     {
       "added_at": "2023-04-11 14:48:39",

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=bVkB1sTCRYSyOZMnP5JTiA">Limoblaze</a>
 
-256 songs - 20 hr 19 min
+257 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I Really Want You to Know](https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs) | [Kelly Emuegba](https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v) | [I Really Want You to Know](https://open.spotify.com/album/6Ogz6BdSHhCeilep6LQGp3) | 4:37 | 2023-06-23 | 2023-07-07 |
 | [I Say Yes](https://open.spotify.com/track/63J7WORrZ3VjYdWlxueSJh) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [I Say Yes](https://open.spotify.com/album/26qayDHX6QPJM24xCoKnAN) | 6:28 | 2023-06-30 |  |
 | [I Still Believe \- Remix](https://open.spotify.com/track/3zyEqCLSFEVovSEmYLFPgA) | [Volney Morgan & New\-Ye](https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN) | [I Still Believe \(Remix\)](https://open.spotify.com/album/0D5WeWMKWVPqOLzmZEeOdF) | 3:15 | 2023-06-02 | 2023-06-09 |
+| [I Want to See Your Face](https://open.spotify.com/track/6GP3gpuAwzsjLKJYLMEWIa) | [Depths of Worship](https://open.spotify.com/artist/3TIsFycbG1A7hLXusMmmcI) | [I Want to See Your Face](https://open.spotify.com/album/1RXBlLxdeNWuvdF2BGMR0J) | 1:00:33 | 2023-07-07 |  |
 | [I will soar](https://open.spotify.com/track/1Eag9P72ROslztON6d2z15) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [Your Glory](https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ) | 5:08 | 2023-06-16 | 2023-06-30 |
 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 | 2023-06-09 | 2023-06-16 |
 | [I'll worship](https://open.spotify.com/track/0LcmFV0FGF3oBtlYu4WaW6) | [Somy Ohuabunwa](https://open.spotify.com/artist/0ZnkUUTJvHkUpPRQJ9u1np) | [I'll worship](https://open.spotify.com/album/6WNaZgJJDFImwIUluM0ysn) | 3:38 | 2023-06-09 | 2023-06-16 |
@@ -227,8 +228,8 @@
 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 | 2023-06-02 | 2023-06-23 |
 | [Talk Am](https://open.spotify.com/track/4s6AYqtWjtDogBMhW2a80s) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Talk Am](https://open.spotify.com/album/5b7jxnJ9v5NU0BWFYmlDiN) | 7:12 | 2023-06-30 |  |
 | [Te Bola Be?](https://open.spotify.com/track/3GPQwkDMPQgxgJx1252ypX) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 3:36 | 2023-06-02 | 2023-06-09 |
-| [Teach Me Lord](https://open.spotify.com/track/3jJ9cYTLLQqBXoirUNi0QY) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/08w3iXoVjYTw8DnaA3QKJn) | 4:19 | 2023-06-23 |  |
-| [Teach Me Lord](https://open.spotify.com/track/7LzTDIYTxezdrlxBO43nkj) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/0OkR1TymjDnbSlBxtpayg6) | 4:19 | 2023-07-07 |  |
+| [Teach Me Lord](https://open.spotify.com/track/3jJ9cYTLLQqBXoirUNi0QY) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/08w3iXoVjYTw8DnaA3QKJn) | 4:19 | 2023-06-23 | 2023-07-08 |
+| [Teach Me Lord](https://open.spotify.com/track/7LzTDIYTxezdrlxBO43nkj) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/0OkR1TymjDnbSlBxtpayg6) | 4:19 | 2023-06-23 |  |
 | [Thank You Lord](https://open.spotify.com/track/5vy5AVFTef17Yt4dCTUc7s) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 4:55 | 2023-06-09 | 2023-06-11 |
 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 | 2023-06-09 | 2023-06-30 |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 | 2023-06-16 |

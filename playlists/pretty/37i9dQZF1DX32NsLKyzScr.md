@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442,701 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,443,618 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 100 | [Remember \(feat\. Stevie Appleton\)](https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Remember](https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg) | 3:19 |
 
-Snapshot ID: `MCxkMjExZDEzMWRlYjdkNjY5MzQ2OThkMGUyOTIzNDE1MmFiYTRlYjNm`
+Snapshot ID: `MCw5OGQ5ZTZiY2JlMTljYTQ2NmIxNzk0ZWJmNTdiZDM4NWEwZjBiZWJi`

@@ -2,7 +2,7 @@
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Jully Black
 
 135 songs - 8 hr 50 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: James Blake",
+  "description": "carving their own lane. Cover: SadBoi",
   "name": "Outliers",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 196750,
       "name": "03:17",
       "url": "https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 143200,
       "name": "Champagne Shit",
       "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
@@ -3484,6 +3484,24 @@
       "duration_ms": 152727,
       "name": "Dance Like This",
       "url": "https://open.spotify.com/track/0zPRHnj8UVKetT0mIo2EWF"
+    },
+    {
+      "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "album": {
@@ -7714,7 +7732,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
@@ -9716,6 +9734,24 @@
       "duration_ms": 257521,
       "name": "midnight sun - sampha remix",
       "url": "https://open.spotify.com/track/6DSfUltWc0D0WYiIAeKZ0D"
+    },
+    {
+      "album": {
+        "name": "Mile End - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153341,
+      "name": "Mile End - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21"
     },
     {
       "album": {
@@ -12758,7 +12794,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 297610,
       "name": "Running Back To You",
       "url": "https://open.spotify.com/track/2y7VAoprorhUH8iQdViWUX"
@@ -13489,6 +13525,28 @@
     },
     {
       "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+    },
+    {
+      "album": {
         "name": "Simp",
         "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
       },
@@ -14102,7 +14160,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 147801,
       "name": "Standards",
       "url": "https://open.spotify.com/track/3KlMZOquo0xTST9QzA29We"
@@ -15596,6 +15654,32 @@
       "duration_ms": 164210,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6pCkuandJvtLZzcOXS2CJu"
+    },
+    {
+      "album": {
+        "name": "Trenchezzz (with Nemzzz)",
+        "url": "https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp"
     },
     {
       "album": {
@@ -17366,7 +17450,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 137142,
       "name": "\u200emint \u200econdition (\u200egood \u200eas \u200enew)",
       "url": "https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN"

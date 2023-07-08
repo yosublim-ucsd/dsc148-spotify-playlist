@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-193 songs - 12 hr 35 min
+194 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 | 2022-02-17 | 2022-08-27 |
 | [Lean On Me](https://open.spotify.com/track/69MPX3JJo4rPSVxK1IsGLY) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Lean On Me](https://open.spotify.com/album/0KJwBIU3wFXO7K86A4AFOb) | 3:10 | 2023-05-19 |  |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-07-29 |  |
+| [Let Go](https://open.spotify.com/track/4WADFGQzhFPdCIChjnlb0P) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Let Go](https://open.spotify.com/album/7AUH8Z01PFGilH3RRxFmcT) | 2:47 | 2023-07-07 |  |
 | [Let It Roll](https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Let It Roll](https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL) | 3:48 | 2022-07-22 |  |
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |
 | [Live Up To Your Name](https://open.spotify.com/track/0wTrxg0xcGj7vuxjdmkBBb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Live Up To Your Name](https://open.spotify.com/album/0tkp1dWnazRvLaUMzKFnzk) | 4:24 | 2022-10-14 |  |

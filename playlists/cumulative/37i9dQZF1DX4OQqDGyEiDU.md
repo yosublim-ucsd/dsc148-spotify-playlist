@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-497 songs - 1 day 4 hr 29 min
+499 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hungry song](https://open.spotify.com/track/5VP0VvJuLNK2lvCWNnPMz7) | [RemAlice](https://open.spotify.com/artist/5nN8gCpVNLQVlu6h7YGeSx), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Hungry song](https://open.spotify.com/album/7y8rGTJsU438lkwIBINbfq) | 3:09 | 2022-06-14 | 2022-06-20 |
 | [Ice breaker](https://open.spotify.com/track/0FEXG9Fj3lhH2g5eVwvNJ4) | [ねじ式](https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT) | [nevertheless](https://open.spotify.com/album/2NXES3g783EEfaFyFomaBV) | 4:01 | 2022-07-14 | 2022-07-20 |
 | [IMAWANOKIWA](https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [ねむるピンクノイズ](https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy) | 4:13 | 2022-06-30 | 2022-07-25 |
+| [Iria](https://open.spotify.com/track/5dzjLYKpR8NzKVAyJY4FRZ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Iria](https://open.spotify.com/album/6cWPUrFmaXLUwHs9h509ww) | 2:37 | 2023-07-06 |  |
 | [Iゆえに](https://open.spotify.com/track/2zEr5CZpgOhjAe54NkYieg) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [Iゆえに](https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo) | 3:32 | 2022-07-05 | 2022-07-07 |
 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 | 2023-01-24 | 2023-02-24 |
 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 | 2023-02-10 |
@@ -208,7 +209,7 @@
 | [アンノウンフィルタ](https://open.spotify.com/track/74xLYeg88SbmN1XbhmNZBt) | [Nqsi](https://open.spotify.com/artist/2FZi0Xj9ERRmQAFRWlLGcS) | [アンノウンフィルタ](https://open.spotify.com/album/44xEQqloDnzaScjS6Bo6KM) | 2:12 | 2022-06-09 | 2022-07-23 |
 | [アンプランド・アポトーシス](https://open.spotify.com/track/2TwVplURaIUB1WoPeVjaLs) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [アンプランド・アポトーシス](https://open.spotify.com/album/1GhG2xOYhaBJkLdmpeK39Q) | 3:00 | 2022-06-30 | 2022-07-27 |
 | [イカサマライフゲイム](https://open.spotify.com/track/3eGoU7axuRs95XEg2bHgLJ) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn) | [イカサマライフゲイム](https://open.spotify.com/album/1FrxMJLctKQwGiXifCEqoz) | 4:06 | 2022-06-09 | 2022-06-21 |
-| [イリア](https://open.spotify.com/track/51qRTszFLIUGU2pBrQsH6b) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [イリア](https://open.spotify.com/album/1m430rtn5iIGbqvgN9ojCG) | 2:37 | 2023-07-06 |  |
+| [イリア](https://open.spotify.com/track/51qRTszFLIUGU2pBrQsH6b) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [イリア](https://open.spotify.com/album/1m430rtn5iIGbqvgN9ojCG) | 2:37 | 2023-07-06 | 2023-07-08 |
 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 | 2022-06-09 | 2023-01-04 |
 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 | 2022-07-26 | 2022-10-14 |
 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 | 2022-07-19 |  |
@@ -315,7 +316,8 @@
 | [ビバハピ](https://open.spotify.com/track/4QaDgEbUd91TklG65p65JK) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Greatest Idol](https://open.spotify.com/album/6vcfg5AQ5Yu31SnUHWVkLV) | 3:35 | 2022-07-10 | 2022-07-13 |
 | [ビートシンカー](https://open.spotify.com/track/1vGOT1kLjpSIpeX1Ttm3P7) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [ミライコレクション](https://open.spotify.com/album/2DzfW4dqIF1J7KCM0y2i2d) | 3:42 | 2022-06-23 | 2022-07-19 |
 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 | 2022-06-09 | 2023-01-25 |
-| [フォニイ](https://open.spotify.com/track/5pBIavXhjzTi0u7pkOK71N) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 3:09 | 2022-06-09 |  |
+| [フォニイ](https://open.spotify.com/track/5pBIavXhjzTi0u7pkOK71N) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 3:09 | 2022-06-09 | 2023-07-08 |
+| [フォニイ](https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2) | [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 3:09 | 2023-07-06 |  |
 | [フラジール](https://open.spotify.com/track/2N1Gc90q9I4bbvpAmxptmw) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:30 | 2022-06-09 | 2022-07-29 |
 | [フランケンX \- 煮ル果実×はるまきごはん](https://open.spotify.com/track/322a8OKJJEV5z5B5CeeopR) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh), [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [キメラ](https://open.spotify.com/album/77rEReLUqAP2TZf2krjApQ) | 3:09 | 2022-06-14 | 2022-07-21 |
 | [フリィダムロリィタ](https://open.spotify.com/track/3RQcsfD2CT4ldupQsjgvc0) | [ねじ式](https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT) | [sissy songs](https://open.spotify.com/album/5vYgdhX3b3o6yQQHiUC9lf) | 3:41 | 2022-06-09 | 2022-06-15 |

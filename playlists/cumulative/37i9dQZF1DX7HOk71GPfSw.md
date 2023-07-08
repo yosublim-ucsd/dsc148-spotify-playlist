@@ -4,7 +4,7 @@
 
 > music to play for your parents\. Cover: 8485
 
-1,765 songs - 3 day 8 hr 14 min
+1,768 songs - 3 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Argan](https://open.spotify.com/track/6zI1k0jHfaWydQn15SuG5r) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Oitido](https://open.spotify.com/artist/2pvLGa7fjBiZm6iOU1kwY5) | [Argan](https://open.spotify.com/album/3RRzlz8vQn9i2sHg0BJ815) | 3:12 | 2021-10-29 | 2022-02-26 |
 | [Armageddon](https://open.spotify.com/track/2WzZnoJFsyKPs7ZIrFv0dl) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Tonser](https://open.spotify.com/artist/4XQCRgJvDzVmu6xjcv5dfm) | [Armageddon](https://open.spotify.com/album/52hz06264oPZjTsGO8pc8K) | 2:43 | 2020-11-14 | 2021-01-08 |
 | [arsenic](https://open.spotify.com/track/6jRj5tzddShW6JVEktRePw) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [arsenic](https://open.spotify.com/album/1Ugw6rLUEMn4jFThArJjbL) | 1:51 | 2020-10-13\* | 2021-02-10 |
+| [artifact 22](https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [artifact 22](https://open.spotify.com/album/2PFM9dsU68zeAWCA1dbAHb) | 1:44 | 2023-07-07 |  |
 | [Ascension](https://open.spotify.com/track/3ih7DSjunO6fqpFJKc64rj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Ascension](https://open.spotify.com/album/2UAECkxh2d5EIRN05WWVL1) | 2:42 | 2020-11-04 | 2020-11-06 |
 | [asshole](https://open.spotify.com/track/5XF5930PecOpR4E60wmkK8) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [asshole](https://open.spotify.com/album/4Ne1eeeJkUdQ45hGlmtW87) | 2:36 | 2021-03-14 | 2021-12-20 |
 | [asshole](https://open.spotify.com/track/0yzgXQkpwP46MdX245tzQ2) | [iris day](https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [asshole](https://open.spotify.com/album/2DLMX9XEEvIG0JJChdXH5h) | 2:57 | 2022-11-25 | 2023-01-25 |
@@ -336,7 +337,7 @@
 | [CNTTHROAT](https://open.spotify.com/track/6iFBT15za2nHMwoXy9Mk51) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [CNTTHROAT](https://open.spotify.com/album/6USsZ1soI58SLaLC0Z4dZK) | 2:02 | 2023-06-30 |  |
 | [Cobra](https://open.spotify.com/track/6bjSg7w75hnMILt5xJ4sl6) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Cobra](https://open.spotify.com/album/1lTKouMRssAu9PuIpgBx41) | 2:06 | 2021-09-18 | 2022-02-24 |
 | [coca\-cola](https://open.spotify.com/track/1Z6WO5ZPAhXsQcER3rkl1U) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [coca\-cola](https://open.spotify.com/album/0Z6NJPYA4WaWk5p1pFRHBT) | 2:45 | 2020-10-13\* | 2021-02-10 |
-| [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 | 2022-03-25 | 2022-05-21 |
+| [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 | 2022-03-25 |  |
 | [cold & hot](https://open.spotify.com/track/64aqyJ93QNCy5Cce086rJt) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [cold & hot](https://open.spotify.com/album/75yUFxNvifTkYc6PWp05Nt) | 1:43 | 2021-04-26 | 2022-01-13 |
 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 | 2023-05-19 |  |
 | [Come 2 Brazil](https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Come 2 Brazil](https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq) | 2:14 | 2023-03-10 | 2023-07-01 |
@@ -1528,6 +1529,7 @@
 | [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 | 2021-10-08 | 2022-02-24 |
 | [Tambaleo \- Machine Girl Remix](https://open.spotify.com/track/3nWpmZtPeb6qqi03YcuDE6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T), [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Tambaleo \(Machine Girl Remix\)](https://open.spotify.com/album/3bXr4Mu7MSHbUCzEHzn226) | 4:42 | 2022-08-19 | 2022-09-04 |
 | [TASTY](https://open.spotify.com/track/3V3ijKDFFwPM9ADBAW41XQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:24 | 2021-02-10 | 2021-04-17 |
+| [Taxi](https://open.spotify.com/track/6KlkbowjQWXsef4AwSQu4c) | [Sara King](https://open.spotify.com/artist/5CRfAxYjJsDBH5wvWF2nja) | [Taxi](https://open.spotify.com/album/1R85AwV2bmMs9aPdeVbwR9) | 2:28 | 2023-07-07 |  |
 | [tbh i dont like being social](https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr) | [luvlxckdown](https://open.spotify.com/artist/5gchr4NRAbDOgdPcjUITGz) | [tbh i dont like being social](https://open.spotify.com/album/5cHGXf6nIqWYL3DodZlNkq) | 2:15 | 2021-01-08 | 2021-09-15 |
 | [Teacup](https://open.spotify.com/track/1qYTH6kyJ2wSoL1bwppdeV) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Teacup](https://open.spotify.com/album/6QnuZBLx8bfoIFNiTxQ8hP) | 1:38 | 2021-11-05 | 2022-02-26 |
 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 | 2021-06-13 | 2022-01-13 |
@@ -1634,6 +1636,7 @@
 | [UCKERS](https://open.spotify.com/track/3CFPJGktOC1KpxwvDjIHfL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/6QSYoJYxiaD5884cvGrytt) | 1:55 | 2021-03-01 | 2021-04-17 |
 | [UI](https://open.spotify.com/track/7aT7DrYdVsv9r33ZHJhwOD) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 2:49 | 2022-11-15 | 2023-02-11 |
 | [ULTIMA](https://open.spotify.com/track/5OGEp6SCW5FlbGyyAZUcFm) | [Body Meat](https://open.spotify.com/artist/4BrSvpXSgT02JhhNULggJk) | [ULTIMA](https://open.spotify.com/album/7qtFuJE7usTnWfS3IhRICl) | 2:39 | 2021-01-15 | 2021-02-26 |
+| [ULTRABLAST](https://open.spotify.com/track/2t5A1wjtpNfFa1yqTYrG4P) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [ULTRABLAST](https://open.spotify.com/album/14LqGwkUPdW0TII5sdlNYJ) | 2:51 | 2023-07-07 |  |
 | [Umbrella](https://open.spotify.com/track/1bdWyqURzJVKl4bRmm2eXq) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [Umbrella](https://open.spotify.com/album/5lEUWsw23R7nZDJiveB8kC) | 2:48 | 2022-08-26 | 2022-10-22 |
 | [Uncertain Cold](https://open.spotify.com/track/3XuQbegDSf5To2qCM4sZav) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Uncertain Cold](https://open.spotify.com/album/59LEVXmzZqjibAAbYiacpm) | 2:48 | 2022-10-28 | 2022-12-03 |
 | [under fire](https://open.spotify.com/track/2VzBXKnCpSTEDI3n644voV) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [under fire](https://open.spotify.com/album/2JTCIjVD9CKOFkzArt5vXJ) | 2:26 | 2022-07-29 | 2022-10-22 |

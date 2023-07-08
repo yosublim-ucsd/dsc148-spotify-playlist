@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-334 songs - 16 hr 21 min
+335 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Lights Go Down](https://open.spotify.com/track/2M2itA0spt6ZXit7l21WMJ) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu), [Why So Low](https://open.spotify.com/artist/4udkcJD4btZYw9AOlCBDMK) | [Lights Go Down](https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C) | 2:31 | 2021-10-29 | 2022-08-06 |
 | [LIKE IT LIKE THAT](https://open.spotify.com/track/30rKQFJZCiC2fN0ONdBH2s) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [LIKE IT LIKE THAT](https://open.spotify.com/album/5HS01UhpXnWSBEtUbvd62E) | 2:03 | 2021-10-29 | 2022-06-21 |
 | [Like That](https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Like That](https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U) | 2:27 | 2022-04-15 | 2023-03-08 |
-| [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-30 |  |
+| [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-30 | 2023-07-08 |
 | [Like This \(feat\. AMY MIYÚ\) \- Carta Edit](https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Like This \(feat\. AMY MIYÚ\) \[Carta Edit\]](https://open.spotify.com/album/7E9ci5D1kdxQO9uPCRlKMI) | 2:22 | 2021-10-29 | 2022-05-15 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2022-12-16 |  |
@@ -242,6 +242,7 @@
 | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg) | 2:30 | 2021-10-29 | 2022-08-06 |
 | [Oh Lord](https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Oh Lord](https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC) | 2:38 | 2021-10-29 | 2022-08-27 |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-06-09 |  |
+| [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 |  |
 | [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 | 2023-05-13 |
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |

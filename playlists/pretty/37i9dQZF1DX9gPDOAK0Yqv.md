@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,254 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,427 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 5 | [The Pulse Of Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 |
 | 6 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 |
 | 7 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 |
-| 8 | [Breathe In \- Short Mix](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
+| 8 | [Breathe In \(Short Mix\)](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
 | 9 | [My City's On Fire \- Anyma & Cassian Remix](https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/album/2YL3vvVlPJlUNG1RaAzYzQ) | 3:19 |
 | 10 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 |
 | 11 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Alone ft\. braev](https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:46 |
 | 75 | [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 |
 
-Snapshot ID: `MCwyZmY0ZDUyNjUwZjliMWJmYTcwZjEyM2YwNDNmMTRiOGE2Njc4MzVk`
+Snapshot ID: `MCw2NjZlN2VjMTY3YmFjOTBjNWJmYTdhYzM2YjA2MzkzY2Y4OTJmNDgw`

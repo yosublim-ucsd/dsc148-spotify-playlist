@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 7 hr 10 min
+77 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hold On \- Ben Böhmer Remix](https://open.spotify.com/track/3IBZef3HMEggoajpef5SAx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Armada Deep \- Miami 2019](https://open.spotify.com/album/0vcV5JAf8O9kWC01y31HgT) | 5:07 | 2022-10-14 |  |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2022-10-14 |  |
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2022-10-14 |  |
-| [I Remember \- Vocal Mix](https://open.spotify.com/track/24oJ33zUPIfFXVfc39g7E6) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/1vN0ln5O00vAWe5FEmUUst) | 9:53 | 2022-10-14 |  |
+| [I Remember \- Vocal Mix](https://open.spotify.com/track/6R3bajI4ZCrUfrPUhLakO1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/4SQc1Al4ilF0vCqtnjXEDk) | 9:53 | 2023-02-08 |  |
+| [I Remember \- Vocal Mix](https://open.spotify.com/track/24oJ33zUPIfFXVfc39g7E6) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/1vN0ln5O00vAWe5FEmUUst) | 9:53 | 2022-10-14 | 2023-07-08 |
 | [I'm Waitin](https://open.spotify.com/track/6f3Y2l9NF0jLIhhfP0vMlD) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [I'm Waitin](https://open.spotify.com/album/3muljk0lmX8hPVH4INunXg) | 7:16 | 2022-10-14 |  |
 | [In Common \- Black Coffee Remix](https://open.spotify.com/track/45gbor15xy5IXj2P5oXQNf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [In Common \(The Remixes\)](https://open.spotify.com/album/7K0eeA5BaamKDiTZ8mm05D) | 4:58 | 2022-10-14 |  |
 | [Innerbloom](https://open.spotify.com/track/4sFv3KYuo4w0KZiCsStweo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Innerbloom \(The Remixes\)](https://open.spotify.com/album/3F7BkIRC9c624hb5wMb2cI) | 9:38 | 2022-11-04 | 2022-11-13 |

@@ -12700,7 +12700,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 202933,
       "name": "Highly Unrecommended",
       "url": "https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D"
@@ -14162,7 +14162,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189214,
       "name": "I Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
@@ -14264,6 +14264,28 @@
       "duration_ms": 217136,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/5Qlsugh2ZVlaOgPSHpI8D7"
+    },
+    {
+      "album": {
+        "name": "I'm Good (feat. charlieonnafriday)",
+        "url": "https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165885,
+      "name": "I'm Good (feat. charlieonnafriday)",
+      "url": "https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c"
     },
     {
       "album": {
@@ -21982,6 +22004,24 @@
       "duration_ms": 160883,
       "name": "Picture You Naked",
       "url": "https://open.spotify.com/track/5EX6Fj4aElgJUt1YXuEn6F"
+    },
+    {
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "album": {

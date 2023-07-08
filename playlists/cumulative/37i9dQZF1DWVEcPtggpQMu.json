@@ -6117,6 +6117,40 @@
     },
     {
       "album": {
+        "name": "Menzi Ngubane",
+        "url": "https://open.spotify.com/album/1SqxmLAIWyVm6KEBLoXnjb"
+      },
+      "artists": [
+        {
+          "name": "Gigi Lamayne",
+          "url": "https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        },
+        {
+          "name": "Ntosh Gazi",
+          "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267610,
+      "name": "Menzi Ngubane",
+      "url": "https://open.spotify.com/track/4fozcNnXw2dJX5v45Z8vfO"
+    },
+    {
+      "album": {
         "name": "MIDDLE MAN",
         "url": "https://open.spotify.com/album/6LGyEwOYDCnkEgWdnFo0J3"
       },
@@ -9108,7 +9142,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 164307,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/427j7juxoIn7rDcdvDajuO"

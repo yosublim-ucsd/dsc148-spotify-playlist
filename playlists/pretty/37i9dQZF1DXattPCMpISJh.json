@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 91937,
+  "num_followers": 92033,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWFjOTFiYjAxNTRjMGFjNDhhYTMzMThiZThhZjE3YWFhMGY2OGZj",
+  "snapshot_id": "MCxmNWU3ZDVhODZhMzUyZmMwNTZkN2U1ODI2NWU1YjhlNTU3NmU0Yzgw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
     },
     {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Undone (Dave Lee's Disco Blend)",
+        "url": "https://open.spotify.com/album/0anPxpLYjej5T6lixjBu0w"
+      },
+      "artists": [
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 339562,
+      "name": "Undone - Dave Lee's Disco Blend",
+      "url": "https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr"
+    },
+    {
       "added_at": "2023-06-23 04:01:00",
       "album": {
         "name": "Mystical Magical Rhythmical Radical Ride",
@@ -71,6 +91,26 @@
       "duration_ms": 239817,
       "name": "Feel Good Too",
       "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/5KNa1uT6mqIWsIeEinAySc"
+      },
+      "artists": [
+        {
+          "name": "Luke Delite",
+          "url": "https://open.spotify.com/artist/3cBXq2Zo29hMzveMGVPDzL"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "duration_ms": 197619,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -91,6 +131,22 @@
       "duration_ms": 150000,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/3PQ9quodpMV1tUrr1J7box"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Disco Save My Life",
+        "url": "https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF"
+      },
+      "artists": [
+        {
+          "name": "Babert",
+          "url": "https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Disco Save My Life",
+      "url": "https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1349,26 +1405,6 @@
       "url": "https://open.spotify.com/track/2BoA9kgubZHEio7mK4EIxs"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Jump Into The Light (Wash House Dub)",
-        "url": "https://open.spotify.com/album/2ME0JUq8lspfSwMUcHrINz"
-      },
-      "artists": [
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        },
-        {
-          "name": "Kathy Sledge",
-          "url": "https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K"
-        }
-      ],
-      "duration_ms": 253565,
-      "name": "Jump Into The Light - Wash House Dub",
-      "url": "https://open.spotify.com/track/6Jd8t7HR1g8LBS53mhOwXM"
-    },
-    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "Fired Up",
@@ -1509,26 +1545,6 @@
       "url": "https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "The Upper Cuts Singles (2023 Edition)",
-        "url": "https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu"
-      },
-      "artists": [
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "Annie",
-          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
-        }
-      ],
-      "duration_ms": 203940,
-      "name": "Never Coming Back",
-      "url": "https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Still In Love (Dave Lee Mixes)",
@@ -1547,22 +1563,6 @@
       "duration_ms": 421054,
       "name": "Still In Love - Dave Lee Solar Powered Club Mix",
       "url": "https://open.spotify.com/track/44uMMMbmxXEKLL1ijxUsyw"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/1d5rKxAiv7gfOPO8Yb0TSm"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 219661,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/1HEvA91tHBpt78hZLIq0MG"
     },
     {
       "added_at": "2023-04-07 04:01:00",

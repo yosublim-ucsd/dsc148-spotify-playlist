@@ -2975,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "The Deal",
+        "url": "https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF"
+      },
+      "artists": [
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        },
+        {
+          "name": "Afterfab",
+          "url": "https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "The Deal",
+      "url": "https://open.spotify.com/track/3WVwBe9JdXuetcnjkcs9oQ"
+    },
+    {
+      "album": {
         "name": "The Moment (Living Like It's Golden)",
         "url": "https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6"
       },
@@ -3567,7 +3589,7 @@
     },
     {
       "album": {
-        "name": "Why",
+        "name": "Why (BLK RSE Remix)",
         "url": "https://open.spotify.com/album/3UQ5fqGMimlIULruwBMZhf"
       },
       "artists": [

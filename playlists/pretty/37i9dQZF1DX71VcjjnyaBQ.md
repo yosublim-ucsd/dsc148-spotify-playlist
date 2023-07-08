@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,721 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,790 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 |
 | 100 | [A Change Of Face](https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl) | 4:58 |
 
-Snapshot ID: `MCxhYjJmMzk2ZTUzNTQ5NjkxNzU1MmYwZjEzMGQ3NjIwZWFiYzFiOTRl`
+Snapshot ID: `MCxmZWIzYTcwMzc2OWZlZjlkOTYyNTJlNjZiZDlkZDhlNjBmMDM5NGEz`

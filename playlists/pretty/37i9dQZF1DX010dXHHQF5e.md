@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,286 likes - 300 songs - 16 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,290 likes - 300 songs - 16 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 | 299 | [It Never Entered My Mind](https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [It Never Entered My Mind](https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC) | 4:02 |
 | 300 | [As We Speak](https://open.spotify.com/track/1a2lP6SjYE38IRWc6Sxzmn) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [As We Speak](https://open.spotify.com/album/1TsNdg1ekGBfxYsjeEnOCy) | 2:56 |
 
-Snapshot ID: `MCw5Zjk5OTIxM2NiMWQ4MGMxODc1NDE4YjJmMGRkNzExODMwMmJjMzNj`
+Snapshot ID: `MCw0MjVkZmU5YTRmM2UzMzRjMTQ5NGIwNzY0MDBjMjZkZWEwYzYyNDVm`

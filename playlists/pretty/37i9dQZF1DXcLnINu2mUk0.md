@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,285 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,309 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 |
 | 75 | [Tá Pedir](https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd) | [Clenny Mendes](https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy) | [Tá Pedir](https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV) | 2:27 |
 
-Snapshot ID: `MCxlZGE5ODRhMTQ1ZjI1MDIxMTY1M2ZlMjgwMzlkNWIxN2I2MTdiY2Vk`
+Snapshot ID: `MCw1YTQ5ZTE5N2MxNDJjODBmYTMxOTkzMjFlOTE2MjdkMGU1YjE0YTc4`

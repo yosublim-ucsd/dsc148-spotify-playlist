@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 18282,
+  "num_followers": 18315,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzY1OWI3ZjM1NWFhZjE2M2UwODFhNDdmZDFlNDYyYzg1YjZjNWY3",
+  "snapshot_id": "MCw0ZWNlNTdiZDNiMjRiNTU1YzY0YWUzNGJmZjQ1NDRiNTA1ZGI3ZDVh",
   "tracks": [
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Funk Fries",
+        "url": "https://open.spotify.com/album/1ELgy3PwHaW1URuDWSsux1"
+      },
+      "artists": [
+        {
+          "name": "Mofak",
+          "url": "https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 230797,
+      "name": "Superfluous",
+      "url": "https://open.spotify.com/track/63yec9swSIGOYVmwneLe45"
+    },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
@@ -171,6 +191,26 @@
       "duration_ms": 204150,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/31AMYOkmTXQryJ27RGCoXj"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Million Miles Away (Edit)",
+        "url": "https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Milk Talk",
+          "url": "https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Million Miles Away - Edit",
+      "url": "https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -679,22 +719,6 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "Funk Junkie",
-        "url": "https://open.spotify.com/album/1IF1xqJ4PlH16gZvMv9iLi"
-      },
-      "artists": [
-        {
-          "name": "Throwback Zack",
-          "url": "https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "Just Like Dope",
-      "url": "https://open.spotify.com/track/04nBW6rzcc3cNCljAwDqBx"
     },
     {
       "added_at": "2021-07-26 17:42:45",
@@ -1763,26 +1787,6 @@
       "duration_ms": 229250,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/55OKR2BbANR7aq9UwA9u08"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        },
-        {
-          "name": "Zoe Kypri",
-          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
-        }
-      ],
-      "duration_ms": 196290,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/6g3dWdveVFaFrBR6cZTLHx"
     },
     {
       "added_at": "2021-07-26 17:42:45",

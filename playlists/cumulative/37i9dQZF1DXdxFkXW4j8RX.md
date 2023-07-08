@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-161 songs - 9 hr 13 min
+162 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Felicidad](https://open.spotify.com/track/23OrSfz5ApfD5cgDtGllLv) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/5XwQSw2yYaq8katQCdUl33) | 3:12 | 2023-02-03 |  |
 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 | 2022-01-06 | 2023-03-03 |
 | [Flor Te Mata](https://open.spotify.com/track/6TKA2yBPqSKWpA3hBxRsgl) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 | 2022-01-06 |  |
-| [Forial](https://open.spotify.com/track/5DOzirdPyTEe6JJe9yXpTA) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Forial](https://open.spotify.com/album/5GXAldoDssF1hJvLJZEqQi) | 2:58 | 2022-01-06 |  |
+| [Forial](https://open.spotify.com/track/5DOzirdPyTEe6JJe9yXpTA) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Forial](https://open.spotify.com/album/5GXAldoDssF1hJvLJZEqQi) | 2:58 | 2022-01-06 | 2023-07-08 |
 | [Free Estilo](https://open.spotify.com/track/1OQLJZxIMCp4zLRLJueWrJ) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Emci Naus](https://open.spotify.com/artist/0O0LqgXyHlKemfqZ5Q70DE) | [Free Estilo](https://open.spotify.com/album/3xOec1z9gF95KainMqPqQy) | 4:20 | 2022-07-15 |  |
 | [Free Estilo](https://open.spotify.com/track/6OUKfmBx6qSQTEVlTRYa6I) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Emci Naus](https://open.spotify.com/artist/0O0LqgXyHlKemfqZ5Q70DE) | [Free Estilo](https://open.spotify.com/album/7CZfgBJCyv3jLYWqjEtImr) | 4:20 | 2022-01-06 | 2022-07-29 |
 | [Fumando Maria](https://open.spotify.com/track/31fb0ZiCtYYM29LhVNV2VX) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [maginboo](https://open.spotify.com/artist/6Uoz8MU56AED9dg1Db8A6x) | [Fumando Maria](https://open.spotify.com/album/01c5VblvdMkM2A1RQtLvvM) | 3:38 | 2022-01-06 | 2022-03-12 |
@@ -98,6 +98,7 @@
 | [Mi Mejor Rima](https://open.spotify.com/track/3JB5m2J7ArNEFdX5yxXCEF) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Mi Mejor Rima](https://open.spotify.com/album/29vUwFu7OH5mIp1uREyCnR) | 3:42 | 2022-01-06 |  |
 | [Mi Moment](https://open.spotify.com/track/5TYzgrLrj8M0IwzG3uJZG9) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Mi Moment](https://open.spotify.com/album/6WmFkq471ZfjnUFsydgI0q) | 3:18 | 2022-01-06 | 2023-05-27 |
 | [Mil Vidas](https://open.spotify.com/track/0GvZmwNcfP2rigLEIhrg7y) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Magia](https://open.spotify.com/album/1Tx7bQqx88Qi0cnxYqBQy6) | 3:08 | 2022-02-18 |  |
+| [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Lan](https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 | 2023-07-07 |  |
 | [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 | 2023-04-07 |  |
 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 | 2022-01-06 |  |
 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 | 2022-03-04 | 2023-03-11 |

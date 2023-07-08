@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,901 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,999 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Promesses](https://open.spotify.com/track/7xxid48pIcAmxB60s3YFg0) | [Kidaki](https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M) | [Vnus](https://open.spotify.com/album/0beyPn4CEcx2oWOCDYnrMm) | 3:26 |
 | 40 | [Sans Filtre](https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Sans Filtre](https://open.spotify.com/album/5JczTcyvSeUFSE4h5pBfIW) | 3:00 |
 
-Snapshot ID: `MCxkODhmMjFhNzcyZWIzZjFmZGVhMzNlNTg0MjhjZmQ2OWUyZTcwOTdk`
+Snapshot ID: `MCw2ZmJhYTUwNTJhZWM2MTg3OTNhNmVmODlkOGMwZGRlZTQwMGNkMDYw`

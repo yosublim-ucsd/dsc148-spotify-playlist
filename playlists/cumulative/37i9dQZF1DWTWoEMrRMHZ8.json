@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Maria Luiza Jobim",
+  "description": "As belas novidades da MPB. Foto: Mahmundi",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 203319,
       "name": "Argumento (Spotify Singles)",
       "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 195836,
       "name": "BEIJANDO TODOS VOC\u00caS",
       "url": "https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Caravana",
+        "url": "https://open.spotify.com/album/2s2IWrYT4vpnF6tgCIhHba"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Caravana",
+      "url": "https://open.spotify.com/track/5SPoEc1PJlm7Nf6Gkr7dzq"
+    },
+    {
+      "album": {
         "name": "Caso Perdido",
         "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
       },
@@ -1900,6 +1922,28 @@
       "duration_ms": 151458,
       "name": "Ciumeira",
       "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+    },
+    {
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "album": {
@@ -3215,6 +3259,28 @@
     },
     {
       "album": {
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163426,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "album": {
         "name": "Feiti\u00e7o",
         "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
       },
@@ -3398,6 +3464,24 @@
       "duration_ms": 193896,
       "name": "Fique Aqui",
       "url": "https://open.spotify.com/track/4ywqzr72Cw1I5hbHdU7wsC"
+    },
+    {
+      "album": {
+        "name": "Foge de Casa",
+        "url": "https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219307,
+      "name": "Foge de Casa",
+      "url": "https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7"
     },
     {
       "album": {
@@ -3644,7 +3728,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 107794,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3pla8YL6bz8rURpyZhyEKD"
@@ -4192,6 +4276,24 @@
       "duration_ms": 200853,
       "name": "Logun",
       "url": "https://open.spotify.com/track/3EBMlCjT3kY8AEZ4GyXhRi"
+    },
+    {
+      "album": {
+        "name": "Longe Longe de Mim",
+        "url": "https://open.spotify.com/album/4Q0SqBQFjXeHgk8mURWowP"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206442,
+      "name": "Longe Longe de Mim",
+      "url": "https://open.spotify.com/track/3J490nepj3gEksEuHqZmfT"
     },
     {
       "album": {
@@ -5356,7 +5458,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 262208,
       "name": "Noite de S\u00e3o Jo\u00e3o",
       "url": "https://open.spotify.com/track/3NEXx8zNNlwPp1fycU9kHG"
@@ -7294,7 +7396,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 157840,
       "name": "P\u00e3o",
       "url": "https://open.spotify.com/track/76Y6aibRSSe1qn7IYVv31J"
@@ -7370,7 +7472,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 159250,
       "name": "Quem Me Conhece Sabe",
       "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
@@ -7472,7 +7574,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 211464,
       "name": "Ran\u00e7o",
       "url": "https://open.spotify.com/track/40G6UdBzjpBroqGcP0OLAk"
@@ -7724,7 +7826,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 158000,
       "name": "Resolvi Seguir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/311ubDqihHe4pWzV5lCIkM"
@@ -7866,6 +7968,32 @@
       "duration_ms": 274259,
       "name": "Sai da Frente Brasil",
       "url": "https://open.spotify.com/track/1uOh4NuXZA75PrAAMTBKuM"
+    },
+    {
+      "album": {
+        "name": "Samba Bom Demais",
+        "url": "https://open.spotify.com/album/4uR1TGvczcg7ZLnaDPl8sU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcia Tauil",
+          "url": "https://open.spotify.com/artist/7Aa0vo5yjKHzmo7ClxhHNX"
+        },
+        {
+          "name": "Rildo Hora",
+          "url": "https://open.spotify.com/artist/1k8zzgBXqFh30NWvus8cAl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207730,
+      "name": "Samba Bom Demais",
+      "url": "https://open.spotify.com/track/5Rm9x0gnxcn4WtG9cDZUs9"
     },
     {
       "album": {
@@ -8617,6 +8745,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se for Agora",
+        "url": "https://open.spotify.com/album/4yJ6DfxUVToJxp2jsINkRM"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        },
+        {
+          "name": "Herminio Bello De Carvalho",
+          "url": "https://open.spotify.com/artist/11mH4bHBJ9wAeJ3e7h02zv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "S\u00f3 Se for Agora",
+      "url": "https://open.spotify.com/track/2wLKTCZvedZJTfgiqWAq04"
+    },
+    {
+      "album": {
         "name": "Ef\u00eamera (Remix)",
         "url": "https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G"
       },
@@ -8666,6 +8816,28 @@
       "duration_ms": 281034,
       "name": "Tangerina - Ao Vivo",
       "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
+    },
+    {
+      "album": {
+        "name": "Tarde Demais",
+        "url": "https://open.spotify.com/album/2NKp0PVLQFCzEuTWapCs7c"
+      },
+      "artists": [
+        {
+          "name": "Theo Bial",
+          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110774,
+      "name": "Tarde Demais",
+      "url": "https://open.spotify.com/track/1b1iFsSCdTpf8Te9Wa3XsJ"
     },
     {
       "album": {
@@ -8840,6 +9012,28 @@
       "duration_ms": 228150,
       "name": "Teu Olhar Me Fisgou",
       "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
+    },
+    {
+      "album": {
+        "name": "Teus Olhos em Mim",
+        "url": "https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182528,
+      "name": "Teus Olhos em Mim",
+      "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
     },
     {
       "album": {
@@ -9452,7 +9646,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213513,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
@@ -9842,6 +10036,24 @@
       "duration_ms": 190166,
       "name": "\u00c9 Tanta",
       "url": "https://open.spotify.com/track/680Qr1d3HRhVHN2A66aHHT"
+    },
+    {
+      "album": {
+        "name": "\u00c9, Meu Bem",
+        "url": "https://open.spotify.com/album/7K96zZtKvtXLdZqkC4qROe"
+      },
+      "artists": [
+        {
+          "name": "Wem",
+          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199925,
+      "name": "\u00c9, Meu Bem",
+      "url": "https://open.spotify.com/track/0iPi757UJZuEmPfq5hk92z"
     },
     {
       "album": {

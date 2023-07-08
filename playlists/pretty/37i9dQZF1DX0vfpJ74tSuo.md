@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,858 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,884 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [I Know the Blues](https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX) | [Marco Descontus](https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ), [The Italian Connection](https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn) | [I Know the Blues](https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw) | 4:04 |
 | 120 | [Isolation Blues](https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE) | [Ben Reel](https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD) | [Isolation Blues](https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho) | 3:12 |
 
-Snapshot ID: `MCxlZmExMWZkMzNiZTdkNDViYTRiZDYyMzk2MDQxNWQzODk2MmViYzgy`
+Snapshot ID: `MCxhMDExNzg1ZDNmMzlhMzY5MTYzOGMwNDZlYTc2OWM5ZjQwMTcxY2Mz`

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-651 songs - 1 day 15 hr 29 min
+653 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Don't Leave Me, My Love](https://open.spotify.com/track/2yqaOTRo1plpmNkbnZs2YY) | [AN DA EUN](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Tomorrow OST Part.2](https://open.spotify.com/album/2tpvs8W8KSOfRBgREj1sAh) | 3:46 | 2022-04-12 | 2022-06-21 |
 | [Don't Say](https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 | 2023-01-13 | 2023-06-03 |
 | [Don't walk away](https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG) | [LISA](https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX) | [Don't walk away \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.8](https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v) | 3:28 | 2022-06-09 | 2022-08-03 |
+| [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 | 2023-07-07 |  |
 | [Draw Longing](https://open.spotify.com/track/4M7qSl5ctJCLsOwml4U2he) | [Lim Zian](https://open.spotify.com/artist/6y7rlnP4g02oK4eQw0vJTo) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5BCd09REl32F6RtD6XGGRx) | 3:13 | 2022-03-22 | 2022-06-10 |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-03-27 |  |
 | [Dreamer](https://open.spotify.com/track/7jNY7h3A7Xf4ZcBlAfai6Q) | [Lee Sun Bin](https://open.spotify.com/artist/7fIixACoi67hBc7Pua9Vj3) | [Work Later Drink Now, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6OYnyMysSFPmywGpAKE6yN) | 3:36 | 2021-12-19 | 2022-02-22 |
@@ -190,6 +191,7 @@
 | [Freedom](https://open.spotify.com/track/0C64OAzFqP8d3s14qf1p9Q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0LJz8YtfJoqzsW2sL3CIh1) | 3:47 | 2022-06-18 | 2022-09-06 |
 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 | 2021-12-19 | 2022-03-10 |
 | [Get In The Fire](https://open.spotify.com/track/3x1dgDREHEreTGj8KpzbRU) | [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Taxidriver2 OST Part.8](https://open.spotify.com/album/6135JchrGY56rbIn1obpgh) | 3:31 | 2023-04-18 |  |
+| [Get To You](https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [KING THE LAND \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU) | 3:27 | 2023-07-07 |  |
 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 | 2022-07-08 | 2022-11-04 |
 | [GIFT](https://open.spotify.com/track/7DMcy43YpQIj4gxPeTAKGb) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Dali and Cocky Prince \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/4NYJeIHVwJcyyALHeEanP8) | 3:38 | 2021-12-19 | 2022-02-22 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-12 | 2022-06-21 |

@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 209733,
       "name": "Bird's Eye View",
       "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 210573,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0SBvvCsgPoS6gu1Z4XmIHd"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O"
+    },
+    {
+      "album": {
         "name": "four",
         "url": "https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP"
       },
@@ -1941,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Alice, Gloria and Jon",
+        "url": "https://open.spotify.com/album/1eL3olLqqX6J1wwMyx8WqB"
+      },
+      "artists": [
+        {
+          "name": "J.E. Sunde",
+          "url": "https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208919,
+      "name": "Stop Caring",
+      "url": "https://open.spotify.com/track/6aopZlCfVFWLD4syXG9Hj7"
+    },
+    {
+      "album": {
         "name": "Summer Season",
         "url": "https://open.spotify.com/album/5b8hdyknYNPJ0ssyIPJb4l"
       },
@@ -2058,7 +2094,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 233391,
       "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
       "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
@@ -2258,6 +2294,24 @@
       "duration_ms": 324959,
       "name": "Tramp Like You",
       "url": "https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ"
+    },
+    {
+      "album": {
+        "name": "Turn Away / Place of Our Own",
+        "url": "https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226647,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Dan Tyminski",
-  "num_followers": 122793,
+  "num_followers": 122838,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGFjZGQwMmUwMDlmYzUyNTg5YTUxZDdlMjYxYzdhMjA3OTYzMDEy",
+  "snapshot_id": "MCw2NTIwM2VhMjY2OThiMGFmMzhiYTI5NDYxYWFkMmNjNzAwMTU0MWQz",
   "tracks": [
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
         "name": "Live the Dream",
         "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
       },
@@ -1475,6 +1491,22 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
+        "name": "Fare Thee Well",
+        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
+      },
+      "artists": [
+        {
+          "name": "Lindley Creek",
+          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1491,22 +1523,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "Fare Thee Well",
-        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
-      },
-      "artists": [
-        {
-          "name": "Lindley Creek",
-          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1751,22 +1767,6 @@
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     }
   ],
   "unique_name": "Grass Roots",

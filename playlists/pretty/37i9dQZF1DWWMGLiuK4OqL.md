@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,581 likes - 200 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,673 likes - 200 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [All Or Nothing At All](https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [All Or Nothing At All](https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz) | 3:44 |
 | 200 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
 
-Snapshot ID: `MCwzYTRkOWI0YjJjNDFjMWM3ZjI0ZWU5OTg2ZjQ0MWI5Zjk0NTQ0MWY5`
+Snapshot ID: `MCxkOGI3YTc4NmJmMjE3Y2Y0OTdkMjY5OTI1YmRiMjRlNzQ3YzhlYzBh`

@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: Doe Boy
 
-437 songs - 21 hr 10 min
+438 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Dreamin Of The Past \(feat\. Kanye West\)](https://open.spotify.com/track/3Wx98ijEDnsxyMYePCuFNI) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:53 | 2022-04-29 | 2022-07-02 |
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/3GrHP2CwUNecBc1SdVMTJ8) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 4:31 | 2022-07-18 | 2022-09-10 |
 | [Drive By](https://open.spotify.com/track/6THXudILWQ4VZQ3mganpt8) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Drive By](https://open.spotify.com/album/1irwcgHKeiwvpyXFXSAkqu) | 3:41 | 2022-07-01 | 2022-09-03 |
-| [Dropped The Lo](https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Dropped The Lo](https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh) | 2:41 | 2023-04-15 |  |
+| [Dropped The Lo](https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Dropped The Lo](https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh) | 2:41 | 2023-04-15 | 2023-07-08 |
+| [Dropped The Lo](https://open.spotify.com/track/78JaKnC6wjdRlhxzN3tWSF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:41 | 2023-06-23 |  |
 | [Duffle Bag](https://open.spotify.com/track/4hXjFFaoPBwCytlb6IAs4d) | [Fargo](https://open.spotify.com/artist/09K3a0notqoP1MFnyBfRAb), [Peso Da Goon](https://open.spotify.com/artist/33YOw3idBhwSFkYkktqssV), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Almighty Suspect](https://open.spotify.com/artist/4y5IK8VBswkl40ltpHI5o9), [Frostydasnowmann](https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l) | [Duffle Bag](https://open.spotify.com/album/4vzAatBLzFd0h5Q3m5kBKG) | 2:40 | 2022-12-02 | 2023-01-25 |
 | [Dumb In Love With You](https://open.spotify.com/track/6WFQyZonE1mQkeLx1ymi0k) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Dumb In Love With You](https://open.spotify.com/album/6Y04QM8AkjO42pzX1Yvxik) | 3:33 | 2022-10-25 | 2023-04-25 |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-07 | 2022-12-03 |

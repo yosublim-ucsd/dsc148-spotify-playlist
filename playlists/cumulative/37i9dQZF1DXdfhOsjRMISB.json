@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Over For You",
+        "url": "https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185681,
+      "name": "Over For You",
+      "url": "https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS"
+    },
+    {
+      "album": {
         "name": "Little Bit Of Everything",
         "url": "https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ"
       },
@@ -5846,7 +5864,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 211430,
       "name": "Why We Drink",
       "url": "https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD"

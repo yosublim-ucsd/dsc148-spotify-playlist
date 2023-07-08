@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-277 songs - 18 hr 21 min
+278 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2022-07-08 |  |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2022-07-08 |  |
 | [Antenas Rubias](https://open.spotify.com/track/3t7f4CiUO8jihCCmc13yYB) | [Buenos Muchachos](https://open.spotify.com/artist/4FQG5l6GOTXcsF7BuA62l2) | [\#8](https://open.spotify.com/album/7jgw3TOJBmRO4bjamJd1VV) | 3:15 | 2022-07-08 | 2022-07-12 |
-| [Antes y Después](https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:02 | 2022-07-08 |  |
+| [Antes y Después](https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:02 | 2022-07-08 | 2023-07-08 |
 | [Antes y Después](https://open.spotify.com/track/7dVj5UjkSMybmGDCdyVPUt) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/3ssZtOx9wK8IPybx1sdwQd) | 5:02 | 2022-05-20 | 2022-07-29 |
 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 | 2022-05-20 |  |
 | [Austro](https://open.spotify.com/track/4Wtz4dpKRKnWqqQeWb02Q5) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 4:17 | 2022-07-08 | 2022-07-29 |
@@ -125,7 +125,7 @@
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2022-07-08 |  |
 | [Inadaptados](https://open.spotify.com/track/4meoGqkR1NgVtWuyVk6zhZ) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Lu Ferreira](https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ) | [39 de Febrero](https://open.spotify.com/album/468bG1AvnxwaZtgA8hTMLw) | 3:55 | 2023-06-23 |  |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-05-20 |  |
-| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2022-05-20 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2022-05-20 | 2023-07-08 |
 | [Jordan](https://open.spotify.com/track/6EnCaLkLfAO3xQVlZX5Aku) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [El Éxodo](https://open.spotify.com/album/7oZygg8ZInYyhfiEOBE6Ja) | 3:30 | 2022-05-20 | 2022-07-29 |
 | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/track/11ajmoDDs9wYcU7S5gkwQs) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Jordan \(Orquesta en las sombras\) \[En Vivo\]](https://open.spotify.com/album/2ayGpdqShhiQwJbffxzfSQ) | 4:30 | 2022-07-01 | 2022-07-12 |
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-05-20 | 2022-07-29 |
@@ -173,6 +173,7 @@
 | [Mil Horas](https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 2:48 | 2022-07-08 |  |
 | [Mira Cómo Es](https://open.spotify.com/track/4YYhZJo0FaqFmGCDVcBlGO) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Mira Cómo Es](https://open.spotify.com/album/06QSbfpZqxSpwyl4Qta8hG) | 2:37 | 2022-05-20 | 2022-07-23 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-05-20 | 2022-07-29 |
+| [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 |  |
 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 | 2022-07-08 |  |
 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 | 2022-05-20 | 2022-07-29 |
 | [Mutantes](https://open.spotify.com/track/76JS66fQKVW2TEknyPNOoj) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Mutantes](https://open.spotify.com/album/0lt6oS9QStYcgPwR6gZQVf) | 2:28 | 2022-07-01 | 2022-07-28 |
@@ -208,7 +209,7 @@
 | [Plaza de oriente](https://open.spotify.com/track/4mEhwiGVVcvBEoz3OS6pFj) | [Diego Pez & los Pernoctantes](https://open.spotify.com/artist/1UVUdDwXsDQe8TtUqJnlLm), [Ernesto Tabárez](https://open.spotify.com/artist/2sSK0x3cGIogax2VPqE5Gt) | [El primero de los cobardes](https://open.spotify.com/album/2QzcNogfRCuTRAPejrEPhO) | 2:36 | 2022-07-08 | 2022-07-28 |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-05-20 |  |
 | [Pretenden](https://open.spotify.com/track/0mWsrwWZXW49QXABIg3Qg2) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Días por Venir](https://open.spotify.com/album/1FYgkh7jHejtb5ADq49jeD) | 3:26 | 2022-07-08 | 2022-07-12 |
-| [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 | 2022-05-20 | 2023-07-04 |
+| [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 | 2022-05-20 |  |
 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 | 2022-05-20 |  |
 | [Que pase algo](https://open.spotify.com/track/6rXoDB1ZAOptgdLDYU6uGP) | [Los Prolijos](https://open.spotify.com/artist/71i89DDkLzx6Xmi9DmMsaG) | [Rústico](https://open.spotify.com/album/1nIgWuM3mTHhluBoAVhX3R) | 3:14 | 2022-07-01 | 2022-07-24 |
 | [Que Sigas Bien](https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Cada Segundo Dura Una Eternidad](https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99) | 3:43 | 2022-12-16 |  |

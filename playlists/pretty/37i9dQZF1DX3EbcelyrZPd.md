@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,124 likes - 71 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,193 likes - 71 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 70 | [Msela](https://open.spotify.com/track/4upDXvDKpFZPSYRDLqB1hh) | [Hamadai](https://open.spotify.com/artist/78SJ8LXcqTSHyJ6nCxKLay), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ) | [Msela](https://open.spotify.com/album/7CIU4vCiIDpZwDN226FcZh) | 2:32 |
 | 71 | [Muntata](https://open.spotify.com/track/3yoO7snzo0WS0hnTlwR2BR) | [Dully Sykes](https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6) | [Muntata](https://open.spotify.com/album/5ep5gQJmXTr3DubfkOWXA0) | 2:56 |
 
-Snapshot ID: `MCwxNGU2ODVhMzc5MWJiZjc3NzM1OWNkMWZjNDJhOTY3YzEzZWFkYmZk`
+Snapshot ID: `MCxhNGI2Yjk2Y2QyMGI4OTA4MmRjODBiMTIyMmJlMjI5YmIyYTUyOThi`

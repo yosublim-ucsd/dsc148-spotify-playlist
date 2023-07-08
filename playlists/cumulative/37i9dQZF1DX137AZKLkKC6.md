@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Peso Pluma
 
-155 songs - 7 hr 57 min
+156 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Gracias A Ti](https://open.spotify.com/track/6si8DH4KS3qLuC1JEIyCBv) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Gracias A Ti](https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu) | 2:54 | 2022-08-12 |  |
 | [Guaro \- Remix](https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS) | 3:42 | 2022-08-12 |  |
 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 | 2023-06-09 |  |
+| [Invicto](https://open.spotify.com/track/4hbGBaXM4L5VRcBoYQemw2) | [Marlon Arenas](https://open.spotify.com/artist/3DKftlYPvpGgCvPVBj8OR3), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Invicto](https://open.spotify.com/album/4X6DG3LgEiIBmxm6gIjrmx) | 2:29 | 2023-07-07 |  |
 | [Juré](https://open.spotify.com/track/2FHEbBCdGu5tDzMLkxY0bS) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Juré](https://open.spotify.com/album/5XxFlKVLOFkklkz1NgyeyX) | 2:28 | 2023-06-02 |  |
 | [La Calientahuevos](https://open.spotify.com/track/6ZeJi7RQrOGN8PVJ8J5vHj) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [La Calientahuevos](https://open.spotify.com/album/44ZBC1HGyDGvxvxi9jY8cg) | 2:18 | 2022-11-04 | 2022-12-17 |
 | [La Cita \(feat\. Jessi Uribe\)](https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Cita \(feat\. Jessi Uribe\)](https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB) | 3:45 | 2022-08-12 | 2023-07-01 |
@@ -159,7 +160,7 @@
 | [Y Si Me Dejas](https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Y Si Me Dejas](https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1) | 2:58 | 2023-03-31 | 2023-04-15 |
 | [Ya No Estoy a Tus Pies](https://open.spotify.com/track/1fLDqQSdDcKZEsmtXsnojw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Ya No Estoy a Tus Pies](https://open.spotify.com/album/763xBBavvXtYoiKxDVTTTa) | 2:59 | 2022-08-12 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-08-12 |  |
-| [Yo Quiero Ser](https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Yo Quiero Ser](https://open.spotify.com/album/4lSQhkv2M8CeYsHkK99Zam) | 2:54 | 2023-06-16 |  |
+| [Yo Quiero Ser](https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Yo Quiero Ser](https://open.spotify.com/album/4lSQhkv2M8CeYsHkK99Zam) | 2:54 | 2023-06-16 | 2023-07-08 |
 | [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 | 2023-06-16 |  |
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-08-12 | 2022-10-29 |
 | [Ángel o Demonio](https://open.spotify.com/track/3t17siJ4pNDgSxtpcTVB1m) | [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Ángel o Demonio](https://open.spotify.com/album/1XnfrUTeFCfXEFXXu4d2qM) | 3:19 | 2022-08-12 |  |

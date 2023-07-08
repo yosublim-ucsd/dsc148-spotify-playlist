@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 201106,
       "name": "1Trago",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
@@ -322,6 +322,24 @@
       "duration_ms": 146133,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/0opSeJdqFHa0iNGqJ3DtmE"
+    },
+    {
+      "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188974,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC"
     },
     {
       "album": {
@@ -980,6 +998,24 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
     },
     {
       "album": {
@@ -2222,7 +2258,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 209684,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9"

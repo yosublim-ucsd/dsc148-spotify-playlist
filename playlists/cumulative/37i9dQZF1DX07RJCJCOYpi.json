@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: MJ Nebreda",
+  "description": "The wave of Latin Electronic music. Cover: Nicky Jam, Maluma & The Chainsmokers",
   "name": "mint Latin",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 210213,
       "name": "Albaricoque",
       "url": "https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8"
@@ -299,6 +299,32 @@
     },
     {
       "album": {
+        "name": "BEACHY (Play-N-Skillz House Remix)",
+        "url": "https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205163,
+      "name": "BEACHY (Play-N-Skillz House Remix)",
+      "url": "https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa"
+    },
+    {
+      "album": {
         "name": "Bella Ciao (Bruno Martini Remix)",
         "url": "https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty"
       },
@@ -446,6 +472,32 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Bololo",
+        "url": "https://open.spotify.com/album/4Rld5vncIN0XFmc7iCr9f2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158216,
+      "name": "Bololo",
+      "url": "https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU"
     },
     {
       "album": {
@@ -603,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
+    },
+    {
+      "album": {
         "name": "Cheke (The Remixes)",
         "url": "https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ"
       },
@@ -626,6 +704,28 @@
       "duration_ms": 173472,
       "name": "Cheke (Spanish Version)",
       "url": "https://open.spotify.com/track/4DDzgjfANSHudWS56LQJkU"
+    },
+    {
+      "album": {
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
       "album": {
@@ -794,7 +894,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 185541,
       "name": "De 100 a 0 - Arles & Dann Remix",
       "url": "https://open.spotify.com/track/2igJtrYivqRVRR7e5eQA0L"
@@ -1110,6 +1210,24 @@
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
+    },
+    {
+      "album": {
+        "name": "Encadenados",
+        "url": "https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444297,
+      "name": "Encadenados",
+      "url": "https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM"
     },
     {
       "album": {
@@ -1912,7 +2030,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
@@ -2326,6 +2444,10 @@
         {
           "name": "Icee Red",
           "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        },
+        {
+          "name": "Luxury Lane",
+          "url": "https://open.spotify.com/artist/6a6voplni66Uh1LOQYEhvB"
         }
       ],
       "date_added": "2023-05-08",
@@ -2498,7 +2620,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
@@ -2748,7 +2870,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
@@ -2982,7 +3104,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186403,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
@@ -4029,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
+    },
+    {
+      "album": {
         "name": "Amor En Los Tiempos de Odio (Deluxe)",
         "url": "https://open.spotify.com/album/3SXpzwoqEhCfGG1Oug9FAY"
       },
@@ -4212,7 +4356,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189000,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/6AWR659y1G3N61bZNUTAz5"
@@ -4637,6 +4781,32 @@
     },
     {
       "album": {
+        "name": "Tr\u00e1gatelo",
+        "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Philip Z",
+          "url": "https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Tr\u00e1gatelo",
+      "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
+    },
+    {
+      "album": {
         "name": "CNTRL",
         "url": "https://open.spotify.com/album/6StSmIVCCvWMiV4EHkTcdD"
       },
@@ -4957,6 +5127,28 @@
     },
     {
       "album": {
+        "name": "Wataqui",
+        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Wataqui",
+      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "album": {
         "name": "WAYO",
         "url": "https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD"
       },
@@ -5076,7 +5268,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 152280,
       "name": "\u00bfD\u00f3nde?",
       "url": "https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt"

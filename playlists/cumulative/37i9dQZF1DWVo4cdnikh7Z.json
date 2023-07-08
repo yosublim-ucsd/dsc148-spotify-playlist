@@ -536,10 +536,40 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 204000,
       "name": "Adikira Pondaati (From \"Glassmates\")",
       "url": "https://open.spotify.com/track/1Ju3Mz3nKAYKXkqwRdDYrb"
+    },
+    {
+      "album": {
+        "name": "Adikira Pondaati (From \"Glassmates\")",
+        "url": "https://open.spotify.com/album/0ntcVTzEWT6BYWzX2kKMQG"
+      },
+      "artists": [
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Prithivy",
+          "url": "https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP"
+        },
+        {
+          "name": "Sirkazhi Sirpi",
+          "url": "https://open.spotify.com/artist/1Wy2vVpsCdoUUYmnqfUCIA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Adikira Pondaati (From \"Glassmates\")",
+      "url": "https://open.spotify.com/track/4CvPToQvmlQh0wqhqEA41e"
     },
     {
       "album": {
@@ -5608,12 +5638,12 @@
       },
       "artists": [
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         },
         {
           "name": "Arunraja Kamaraj",
@@ -16348,6 +16378,28 @@
       "duration_ms": 223934,
       "name": "Vaa Vaathi (Dhanush Reprise Version)",
       "url": "https://open.spotify.com/track/43bgjI3ZddPJsu3JvNmYui"
+    },
+    {
+      "album": {
+        "name": "Vaa Veera (From \"Maaveeran\")",
+        "url": "https://open.spotify.com/album/3aJ8NblvlITtCfmQEqPxVE"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324472,
+      "name": "Vaa Veera (From \"Maaveeran\")",
+      "url": "https://open.spotify.com/track/7F87INMyRLIPBEpQxoYo6x"
     },
     {
       "album": {

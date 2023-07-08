@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,627 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,626 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Dont Rain on My Parade](https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 3:07 |
 | 100 | [I've Never Been in Love Before](https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [Caity Gyorgy Quartet](https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm) | 5:47 |
 
-Snapshot ID: `MCxlYzkxZTFiNjBiOGRlOWY1Y2NiY2Q5MWIzMzRhZGEyMzg3ZmZmZDVh`
+Snapshot ID: `MCw1NzBiYzVjMjc5NzkwNGU1YjlhMGRkMjUzY2MxMTIwNGEwZDc5MzNi`

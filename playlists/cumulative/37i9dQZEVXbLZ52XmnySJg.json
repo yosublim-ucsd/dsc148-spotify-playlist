@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -8416,7 +8416,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "Mann Mera",
       "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
@@ -14762,7 +14762,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
@@ -14920,6 +14920,32 @@
       "duration_ms": 200816,
       "name": "Wytb",
       "url": "https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx"
+    },
+    {
+      "album": {
+        "name": "Yaar Ka Sataya Hua Hai",
+        "url": "https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Nawazuddin Siddiqui",
+          "url": "https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Yaar Ka Sataya Hua Hai",
+      "url": "https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy"
     },
     {
       "album": {

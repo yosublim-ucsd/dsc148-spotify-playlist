@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 217000,
       "name": "Beluga",
       "url": "https://open.spotify.com/track/3sHG3Wv2MqYFRZhUdnIXCO"
@@ -1622,6 +1622,24 @@
       "duration_ms": 138857,
       "name": "Khamsa",
       "url": "https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "Kitkat - Freestyle",
+      "url": "https://open.spotify.com/track/7BDmhU0TnKMATUSNeiSB83"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,209 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,396 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [King Of Kings \- Live](https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm) | 4:51 |
 | 100 | [Life + Love](https://open.spotify.com/track/0EheUfcQwsZgQPdQ80RzaG) | [1910 Worship](https://open.spotify.com/artist/4IyWlfSJ9BabkBnmkROEEV) | [Life + Love](https://open.spotify.com/album/76yW9XMMy9huSpK9EFkOeD) | 3:40 |
 
-Snapshot ID: `MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5`
+Snapshot ID: `MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz`

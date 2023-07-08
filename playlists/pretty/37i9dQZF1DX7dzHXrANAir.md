@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,358 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,408 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Familiar](https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt) | [Unfold \(XXIM:EXPO \#2\)](https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu) | 3:38 |
 | 80 | [mist](https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 6:33 |
 
-Snapshot ID: `MCwzOWM0MGZiYjI4Y2M4OTNiYzFiOTI4NWM3ODlkZmEyZjU5OGE2ZDdk`
+Snapshot ID: `MCxmNTliOWMxZjFiNWI3OWJkMTY3ZDdkMTA2M2ZmOTQ0Y2M3ZjJjZjQ4`

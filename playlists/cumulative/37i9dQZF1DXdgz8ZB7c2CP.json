@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "album": {
         "name": "black and white / MY FAULT",
         "url": "https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N"
       },
@@ -2209,6 +2227,28 @@
     },
     {
       "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "album": {
         "name": "Dodgeball",
         "url": "https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N"
       },
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174926,
       "name": "Eyes Closed - Overmono Remix",
       "url": "https://open.spotify.com/track/0xlJ00P5pwPbzDYxsIGKZ4"
@@ -3352,7 +3392,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 145964,
       "name": "frenemy - clear eyes Remix",
       "url": "https://open.spotify.com/track/2duNaM5UOAFbkSYhHKcTjx"
@@ -5248,7 +5288,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 155806,
       "name": "lovely2*",
       "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"
@@ -8194,10 +8234,32 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E"
+    },
+    {
+      "album": {
+        "name": "Tennis Skirt (feat. Ella Boh)",
+        "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186363,
+      "name": "Tennis Skirt (feat. Ella Boh)",
+      "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
       "album": {
@@ -8577,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "TINY FLOWERS",
+        "url": "https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244063,
+      "name": "TINY FLOWERS",
+      "url": "https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP"
+    },
+    {
+      "album": {
         "name": "Tirana",
         "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
       },
@@ -8698,12 +8778,12 @@
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
           "name": "What So Not",
           "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
       "date_added": "2023-06-23",

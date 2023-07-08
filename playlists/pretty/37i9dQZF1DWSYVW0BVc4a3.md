@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,115 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,248 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 23 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 |
 | 24 | [The Muze](https://open.spotify.com/track/5XyTlJId7s85wGD4uESdR6) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [The Muze](https://open.spotify.com/album/7zWaxBsAwtyRjAKkwTnzWo) | 3:43 |
 | 25 | [Can't Fix A Broken Heart](https://open.spotify.com/track/4UgstCyrgpaPLVVsf64sez) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 5:25 |
-| 26 | [Breathe In \- Short Mix](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
+| 26 | [Breathe In \(Short Mix\)](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
 | 27 | [Light For Me](https://open.spotify.com/track/7eHwRUMCk1dR8jk6DOMBTD) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Light For Me / Sirin](https://open.spotify.com/album/6TZF4wgQM6cN7gGSseKzoV) | 4:40 |
 | 28 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 |
 | 29 | [Bird](https://open.spotify.com/track/0FGG8uB6cqwDxI1LzIGLZ6) | [Time](https://open.spotify.com/artist/121kK4qdKVJMI8kIFIPbag) | [Bird](https://open.spotify.com/album/3gPdFSeAxBSpSidzKwyWMz) | 6:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 |
 | 100 | [Rej](https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Rej EP](https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4) | 8:08 |
 
-Snapshot ID: `MCwyYmI2Y2QzZTlmOTIwYjZmMDZhYWU2NjYyYjRhNzZkY2ZlNTQ2NzA4`
+Snapshot ID: `MCw5MDUwYWMzYzM3ODE5NDQ4NGNlZWMxYjRjOWRmMDU3OTMzZjU5ODll`

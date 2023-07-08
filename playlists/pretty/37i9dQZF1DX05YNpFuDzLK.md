@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,778 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,828 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 |
 | 2 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 |
-| 3 | [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/track/64R3TW0uTp1cy9Xi9yC2pL) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [シャーリー\(CV.折笠富美子\)](https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5) | [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/album/3pJsZDFSdhE8Z5yqI9Dygn) | 3:47 |
+| 3 | [Shirley \(Shirley Fenette ver.\)](https://open.spotify.com/track/45xfqD9Ad3YgIy6KDmG7NE) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [シャーリー\(CV.折笠富美子\)](https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5) | [Shirley \(Shirley Fenette ver.\)](https://open.spotify.com/album/1KZCfSh39gPRU3O8BwBBb4) | 3:47 |
 | 4 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
 | 5 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 |
 | 6 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 64 | [Rhythmic Footstep](https://open.spotify.com/track/5u6IMA5Ldpf4dzC8wSdy46) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
 | 65 | [Upheaval](https://open.spotify.com/track/04RuAp7fyZdSXaWoKHCJAk) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
 
-Snapshot ID: `MCxhMmY4MGFkZTU1Y2I1NGViZDFlNzY1ODkyMmVhY2M4YTk4ZDY4YzJm`
+Snapshot ID: `MCwxZTQ2MGNlMjQ3Y2VkMWFlZjNjNjFlMDhlY2VmNDgwNWIzMDJlY2M1`

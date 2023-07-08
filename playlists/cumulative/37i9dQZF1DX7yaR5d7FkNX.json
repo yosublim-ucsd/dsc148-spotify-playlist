@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"
+    },
+    {
+      "album": {
         "name": "Vuelve a Querer",
         "url": "https://open.spotify.com/album/5ePVvhh7X6TpFuYhXQaODp"
       },

@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-118 songs - 7 hr 14 min
+120 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-07-04 |  |
 | [falling flowers \(With Yebit\)](https://open.spotify.com/track/0sJnL9WUIl5BmuRPYDuELE) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 3:14 | 2022-07-04 |  |
 | [Falling Leaves are Beautiful](https://open.spotify.com/track/7sNPQxJLeBNOQY1pEDZl1K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/72657rD0E5qtjgwNi0R5Nm) | 3:22 | 2022-11-01 |  |
+| [Globe](https://open.spotify.com/track/6l7jth8VMA9Wo52NeNwwwm) | [LIZRO](https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF), [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/3yCc0PMldpvQXlmM7rgdZn) | 2:41 | 2023-07-07 |  |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-07-04 |  |
 | [He'll be good to you\. \(feat.KURO\)](https://open.spotify.com/track/5O6OjZxFxxroClXNp6hHK8) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [He'll be good to you.](https://open.spotify.com/album/7kh037xNhXtxAgwMnWS49V) | 3:32 | 2022-07-04 |  |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2022-07-04 |  |
@@ -64,6 +65,7 @@
 | [I'm Not Okay](https://open.spotify.com/track/4HTwHAJvDUy9HkGle66RsB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/65ppWmFsBo0BnuIlHN5XIr) | 3:43 | 2022-11-01 |  |
 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 | 2022-11-01 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2022-11-01 |  |
+| [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 | 2023-07-07 |  |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2022-11-01 |  |
 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 | 2022-07-04 |  |
 | [Let you be you](https://open.spotify.com/track/3e8zXmTtU55QH1dr5DBBe2) | [Ryu Jisu](https://open.spotify.com/artist/04jWY9JwIHZRT3HugwfHtb) | [Let you be you](https://open.spotify.com/album/71Z3eY671mt4dN3vsImj2o) | 3:33 | 2022-07-04 |  |

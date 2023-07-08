@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Velours Velours",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: MUNYA",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 244617,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH"
+    },
+    {
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "album": {
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213499,
       "name": "Feu int\u00e9rieur",
       "url": "https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 209920,
       "name": "Inhibitions / Intuitions",
       "url": "https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI"
@@ -5924,6 +5942,24 @@
       "duration_ms": 171355,
       "name": "Umami (edit)",
       "url": "https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs"
+    },
+    {
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "album": {

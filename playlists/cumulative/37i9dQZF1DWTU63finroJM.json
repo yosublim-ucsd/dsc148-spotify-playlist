@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-06",
   "description": "From across the globe. New artists on the horizon. ",
-  "name": "RADAR Global",
+  "name": "RADAR Global ",
   "tracks": [
     {
       "album": {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 193469,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 228688,
       "name": "Bahala Na",
       "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
@@ -5359,6 +5359,28 @@
     },
     {
       "album": {
+        "name": "FIRST CLASS (feat. The Crane)",
+        "url": "https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184512,
+      "name": "FIRST CLASS (feat. The Crane)",
+      "url": "https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq"
+    },
+    {
+      "album": {
         "name": "Five Black",
         "url": "https://open.spotify.com/album/4upjS5lPcbcAaL0SxmK7FB"
       },
@@ -7624,7 +7646,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 181593,
       "name": "INSECURE",
       "url": "https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4"
@@ -13251,6 +13273,24 @@
     },
     {
       "album": {
+        "name": "RESTO IN CHILL",
+        "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "RESTO IN CHILL",
+      "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
+    },
+    {
+      "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/6lEf40SnNDQRuC2a6myp5O"
       },
@@ -14520,6 +14560,28 @@
       "duration_ms": 146494,
       "name": "SOLO CON ME (con TOMMY DALI)",
       "url": "https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia"
+    },
+    {
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/6GmLbLRhlsFwHN5IRimKBo"
+      },
+      "artists": [
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        },
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "somebody's daughter",
+      "url": "https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr"
     },
     {
       "album": {
@@ -15873,6 +15935,24 @@
     },
     {
       "album": {
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+    },
+    {
+      "album": {
         "name": "Toute la vie",
         "url": "https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ"
       },
@@ -16100,7 +16180,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 130173,
       "name": "TY (for ruining my life)",
       "url": "https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON"

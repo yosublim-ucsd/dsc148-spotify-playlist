@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "acting wild.",
+        "url": "https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb"
+      },
+      "artists": [
+        {
+          "name": "tswai",
+          "url": "https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "acting wild.",
+      "url": "https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -46,6 +68,24 @@
       "duration_ms": 177203,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0"
+    },
+    {
+      "album": {
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN"
+      },
+      "artists": [
+        {
+          "name": "Micah Acosta",
+          "url": "https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167032,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8"
     },
     {
       "album": {
@@ -224,7 +264,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 190000,
       "name": "Canadian Tuxedo",
       "url": "https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv"
@@ -286,7 +326,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 239591,
       "name": "Die Lewe is 'n Lied",
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
@@ -428,6 +468,24 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
+        "name": "The Second Kind",
+        "url": "https://open.spotify.com/album/45lRnw6ZrXjQrgiNNKrsuu"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/18ozEdfEItAJxK0s2xS4IU"
     },
     {
       "album": {
@@ -793,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Kele Kele - Spotify Singles",
+        "url": "https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Kele Kele",
+      "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
+    },
+    {
+      "album": {
         "name": "The First Kind",
         "url": "https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx"
       },
@@ -873,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Local Celebrity Freestyle",
+        "url": "https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75428,
+      "name": "Local Celebrity Freestyle",
+      "url": "https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA"
+    },
+    {
+      "album": {
         "name": "XXXPRESSIONS",
         "url": "https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0"
       },
@@ -884,7 +978,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 97500,
       "name": "Long Live Anna",
       "url": "https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa"
@@ -1022,7 +1116,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 142299,
       "name": "Mixed Feelings(Sped Up)",
       "url": "https://open.spotify.com/track/5n9rG2h1q6jTRPVNlbDP4j"
@@ -1080,7 +1174,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 163210,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
@@ -1261,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0v8tGz36BYVS4DWfx85Vhj"
+      },
+      "artists": [
+        {
+          "name": "Maleikent",
+          "url": "https://open.spotify.com/artist/3KDOZElfZs701H8KVRuoEZ"
+        },
+        {
+          "name": "MoAvnue",
+          "url": "https://open.spotify.com/artist/5UFpbcUuicomaVH5OYiRc1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2frpsQ4NPnuf4EE1HB1tbw"
+    },
+    {
+      "album": {
         "name": "Play Dumb",
         "url": "https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm"
       },
@@ -1396,7 +1512,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 221814,
       "name": "Sauti Ya Mama",
       "url": "https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M"
@@ -1469,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Diamond",
+          "url": "https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ"
+    },
+    {
+      "album": {
         "name": "Take Me Home (One Take)",
         "url": "https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY"
       },
@@ -1516,7 +1650,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 176857,
       "name": "Te Sexy",
       "url": "https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I"
@@ -1592,6 +1726,24 @@
       "duration_ms": 142159,
       "name": "THE MORNING AFTER",
       "url": "https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts"
+    },
+    {
+      "album": {
+        "name": "the pain that a human carries can be healed",
+        "url": "https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC"
+      },
+      "artists": [
+        {
+          "name": "Janice Iche",
+          "url": "https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330270,
+      "name": "the pain that a human carries",
+      "url": "https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi"
     },
     {
       "album": {
@@ -1872,7 +2024,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 130666,
       "name": "YOU A KILLER",
       "url": "https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn"

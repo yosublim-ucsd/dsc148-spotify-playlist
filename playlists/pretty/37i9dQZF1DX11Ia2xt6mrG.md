@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Nortec: Bostich + Fussible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,620 likes - 81 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,630 likes - 81 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 80 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |
 | 81 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
 
-Snapshot ID: `MCw0NmIyZDlkZDkyNTVmOTMzNzA2MTIxMzVmNGMxOTFkOWVmMWZiYmFi`
+Snapshot ID: `MCxlZjZmNzViNDcyOWQ3MjNkMjYzZWVlYjVlMjhlZmU2YjM1MDFmMTBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,241 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,468 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
 | 100 | [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renkse](https://open.spotify.com/artist/5ttMur3R8GpuNimbWm1xn0) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 |
 
-Snapshot ID: `MCwzYTkxOWViYTVhODQ4ZDdmYWFkNjRlMGUxY2Y3ZjlkMGQxYzc3MGJh`
+Snapshot ID: `MCxlOWEzNTIxMDQ5ZTIzY2Q0NDlkNGFjMjE3NmU3OTQ3ZjBjMTczMGU0`

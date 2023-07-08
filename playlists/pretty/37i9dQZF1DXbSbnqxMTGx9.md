@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,784,928 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785,245 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 201 | [Illya Kuryakin](https://open.spotify.com/track/0KHN2kDPcVdhMPV0RVHiRU) | [Ike Bennett](https://open.spotify.com/artist/3ipJMUoiT6z3y7WV5uRpLu), [The Crystalites](https://open.spotify.com/artist/3DX0eiXQmScKETXJDBFrdy) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8) | 3:21 |
 | 202 | [Copy Me Donkey](https://open.spotify.com/track/1PmPNcT7oxjTcL60w8ZF9b) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Barry Myers Presents Scratchy Sounds \(Ska, Dub, Roots & Reggae Nuggets\)](https://open.spotify.com/album/5oaPjZZGZQp1NCjzs8m7f7) | 2:10 |
 | 203 | [It Comes and Goes](https://open.spotify.com/track/50wl4ceK1FASG2rGkkp2fT) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Rivers of Babylon: The Best of The Melodians 1967\-1973](https://open.spotify.com/album/3Jh8nwkZZXaTPXWRaFm4yu) | 2:38 |
-| 204 | [People Funny Boy](https://open.spotify.com/track/2k39ES8EcOY3IeEOzsdAb4) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:36 |
+| 204 | [People Funny Boy](https://open.spotify.com/track/0osb4Qi1dCIQMFh42oUegP) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [King Scratch \(Musical Masterpieces from the Upsetter Ark\-ive\)](https://open.spotify.com/album/55XJeVGQo4qkfa7ZrNr6BF) | 2:36 |
 | 205 | [Watch This Sound \(For What It's Worth\)](https://open.spotify.com/track/0Hu8gNKjd1WJRY3BFp8Vf7) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
 | 206 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
 | 207 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MCxlZDBkY2U1ODM1Y2ZlN2QzMGI5Y2JiOGMyYjliNDEwYTIyZGE2YmNk`
+Snapshot ID: `MCw5YTU5NWE3OGQwYmI4NWZkMGFhYmMwNjM5NTBmOGEzMTc1Y2UzZjFi`

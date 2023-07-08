@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: JK\-47 & Jay Orient\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,504 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,515 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Blue Jeans](https://open.spotify.com/track/7D3jxvZUfgPSGfOLdnkCNw) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Blue Jeans](https://open.spotify.com/album/3tdjELreUsHNSClYqCEYYo) | 3:38 |
 | 100 | [Dead To Me](https://open.spotify.com/track/2M9Fly8aaSJDKGhEE8lvZa) | [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Manning](https://open.spotify.com/album/7GbBtV6uaeUlZGFjy6zyfm) | 2:40 |
 
-Snapshot ID: `MCwzMjdlN2YwMTE1MTk4YmU0YzIwNmEyMTliZDNiY2M2YzY1MDA3YTMy`
+Snapshot ID: `MCwzYTQ4MjNlZjliNjk3ZjVjYTFkNzVlZGY2ZjAyYjEyZTNiMjMzNWZk`

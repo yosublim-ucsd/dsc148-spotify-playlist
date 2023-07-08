@@ -1,13 +1,33 @@
 {
   "description": "Featuring that new vintage. Cover: Jon Batiste",
-  "num_followers": 410901,
+  "num_followers": 410956,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzk5MTk3OTJmNjM5ZTE4ZmZkMzdhYTZkMGE3NTlmMzE1MzEwNWYw",
+  "snapshot_id": "MCxhM2Y3M2YyOGQ5NTk2MWYxMzgzZTg1NTQ0OTg4NGNhZjUyNmY4N2Nk",
   "tracks": [
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Hopeless Romantic, Pt. 1",
+        "url": "https://open.spotify.com/album/2SbZ3ohaiBoFvCofVE18h0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Adventure with You",
+      "url": "https://open.spotify.com/track/7eEBjmN52u18OZUATiUGFD"
+    },
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
@@ -39,22 +59,6 @@
       "duration_ms": 177793,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Corner Cafe",
-        "url": "https://open.spotify.com/album/3fpq7OhEhBYgHVFywuRDAT"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Corner Cafe",
-      "url": "https://open.spotify.com/track/2W890mW3ATTdVOVTSNfhsj"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -119,6 +123,22 @@
       "duration_ms": 181356,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Corner Cafe",
+        "url": "https://open.spotify.com/album/3fpq7OhEhBYgHVFywuRDAT"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Corner Cafe",
+      "url": "https://open.spotify.com/track/2W890mW3ATTdVOVTSNfhsj"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1675,22 +1695,6 @@
       "duration_ms": 174393,
       "name": "Every Day and Every Night",
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     }
   ],
   "unique_name": "Retro Pop",

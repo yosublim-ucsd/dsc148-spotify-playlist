@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best in modern country music\. Cover: Tim McGraw
+> Nothing but the best in modern country music\. Cover: Elle King and Diplo
 
 502 songs - 1 day 3 hr 9 min
 

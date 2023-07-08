@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Ana Tijoux en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Masta Quba, Delfina Dib y Astrid Cruz en portada.
 
 207 songs - 10 hr 37 min
 
@@ -208,7 +208,7 @@
 | [Versos Tristes](https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Versos Tristes](https://open.spotify.com/album/64j88cpynr6CNVRtHeJvnC) | 3:33 | 2021-12-13 | 2023-02-21 |
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 | 2023-07-01 |
 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-17 | 2023-07-01 |
-| [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 |  |
+| [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 | 2023-07-08 |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-12-13 | 2023-07-01 |
 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 | 2021-12-13 | 2023-07-01 |
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 |  |

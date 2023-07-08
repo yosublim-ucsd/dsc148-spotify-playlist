@@ -12048,10 +12048,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 139447,
       "name": "neonlichter",
       "url": "https://open.spotify.com/track/453YZ9FEA0mOt1hg053G6h"
+    },
+    {
+      "album": {
+        "name": "bitters\u00fcss",
+        "url": "https://open.spotify.com/album/2CAfkMIWyGWRoGiHWLpSs8"
+      },
+      "artists": [
+        {
+          "name": "nikan",
+          "url": "https://open.spotify.com/artist/2OiRLm3KVbAyUj8U4SoUCM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139447,
+      "name": "neonlichter",
+      "url": "https://open.spotify.com/track/7tjXY1FyBF4dceRJVHpsOH"
     },
     {
       "album": {
@@ -13760,6 +13778,28 @@
       "duration_ms": 267520,
       "name": "Pluto Projector",
       "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+      "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "album": {

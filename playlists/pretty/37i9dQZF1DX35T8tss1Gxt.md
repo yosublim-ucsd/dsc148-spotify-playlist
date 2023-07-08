@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,313 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,485 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 100 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
 
-Snapshot ID: `MCxjYTlkY2RhODA3NTBiNzEzYWIyZDk2YzU5MjY5YjYzYzAwOTU0YWQx`
+Snapshot ID: `MCxmNWNiYjFiZjM5YmIzZGUxNTI1NTg0NjgwYWM1ZGJlNWVhOTljNDMx`

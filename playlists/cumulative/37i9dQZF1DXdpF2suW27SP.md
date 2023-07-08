@@ -4,7 +4,7 @@
 
 > Bispo e Ivandro entram na zona.
 
-314 songs - 17 hr 11 min
+315 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 | 2023-05-13 |
 | [Preço](https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2), [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Preço](https://open.spotify.com/album/0ErHkdC4omVhUWM5syHNe9) | 3:15 | 2022-11-04 | 2023-01-06 |
 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 | 2022-07-16 | 2022-09-09 |
+| [PTSD](https://open.spotify.com/track/4rYjl6XGbeXh8b3ao7hxLV) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [PTSD](https://open.spotify.com/album/5HDyAtdL04UZqbXs4BLFyA) | 2:27 | 2023-07-06 |  |
 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 | 2022-09-22 | 2022-10-14 |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/295wfiB7UTuXo4ijuwyCgt) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/album/0TExxh5ZuuPjZG596GkoiH) | 3:39 | 2022-07-16 | 2022-07-29 |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 | 2022-07-21 | 2022-10-01 |

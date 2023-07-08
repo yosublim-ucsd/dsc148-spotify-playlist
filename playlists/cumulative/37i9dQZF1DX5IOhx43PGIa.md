@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. Cover: Zeph.
+> Illuminating Asian artists everywhere\. Cover: Audrey Nuna.
 
-474 songs - 1 day 0 hr 38 min
+476 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [i'm having a hard time being myself](https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [i'm having a hard time being myself](https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09) | 2:56 | 2022-05-27 | 2022-12-30 |
 | [I'm Not Crying](https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [I'm Not Crying](https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp) | 2:29 | 2023-05-12 |  |
 | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-05 |  |
+| [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-24 | 2023-02-18 |
 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 | 2022-09-23 | 2022-10-08 |
 | [imysm](https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 2:27 | 2022-09-09 |  |
@@ -245,7 +246,7 @@
 | [Let Me Blow Ya Mind \(Spotify Singles\)](https://open.spotify.com/track/4lRm2lCC7YyUtiQMoiaHJ0) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Bootleg Orchestra](https://open.spotify.com/artist/3kutD0l68s9TCgDYsxV50L) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 3:48 | 2022-06-03 | 2022-06-11 |
 | [LET YOU DOWN](https://open.spotify.com/track/1AUN1caNm5RtzEYNeKgU0b) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [LET YOU DOWN](https://open.spotify.com/album/0Lgvf12iErK9spS2DBZHC8) | 4:13 | 2022-06-10 | 2022-07-06 |
 | [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 |  |
-| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
+| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-07-08 |
 | [lie to me](https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [lovescene:](https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j) | 2:40 | 2022-10-14 |  |
 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-04-07 |  |
 | [like this](https://open.spotify.com/track/1ZugawyphM8M7BS460mgEH) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp) | [lofi // HYPHY](https://open.spotify.com/album/1Ht88W58vAoXNVGZ7ugpWu) | 2:28 | 2022-06-24 | 2022-07-20 |
@@ -343,8 +344,9 @@
 | [Ritual](https://open.spotify.com/track/4sozcKEMSVGXx8bq5yhM6O) | [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3) | [Ritual](https://open.spotify.com/album/5T61mmXOkCEUgUH7WAuCn7) | 3:02 | 2022-09-23 | 2022-10-08 |
 | [Rocksta](https://open.spotify.com/track/5R06bSYKRELA1caseE2BAX) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Rocksta](https://open.spotify.com/album/05O0yLKns392cA0eim0gyy) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 |  |
-| [rollercoaster](https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [rollercoaster](https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa) | 2:31 | 2022-10-07 |  |
+| [rollercoaster](https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [rollercoaster](https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa) | 2:31 | 2022-10-07 | 2023-07-08 |
 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-27 | 2022-07-24 |
+| [Same Energy](https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Same Energy](https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc) | 2:31 | 2023-07-07 |  |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 | 2022-11-12 |
 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 | 2022-09-23 | 2022-10-08 |
 | [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 |  |

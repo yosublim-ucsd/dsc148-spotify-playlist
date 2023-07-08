@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno. Foto: Piero 47.",
+  "description": "La casa del trap chileno. Foto: Marcianeke.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 212706,
       "name": "24:7",
       "url": "https://open.spotify.com/track/1iliAXHwU07P8tdftvtsew"
@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Aborrecio",
+        "url": "https://open.spotify.com/album/344jAFq72ipLqCH5QSFh61"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175998,
+      "name": "Aborrecio",
+      "url": "https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y"
+    },
+    {
+      "album": {
         "name": "Aburrido",
         "url": "https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ"
       },
@@ -222,6 +240,24 @@
       "duration_ms": 181714,
       "name": "AIRDROP",
       "url": "https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146553,
+      "name": "AKRI TU ERE UN XULO",
+      "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
     },
     {
       "album": {
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 318545,
       "name": "Me Quieren Ver Mal",
       "url": "https://open.spotify.com/track/2w0oJX9IAyLmpf07d2KmF3"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 305880,
       "name": "Party Party",
       "url": "https://open.spotify.com/track/1uGPbKHjriysR2dho5t66M"
@@ -3672,6 +3708,28 @@
       "duration_ms": 174785,
       "name": "X Dinero",
       "url": "https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161652,
+      "name": "XERATON",
+      "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK"

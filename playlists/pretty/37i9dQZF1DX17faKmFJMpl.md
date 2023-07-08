@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,554 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
 | 100 | [Respect 4 Brotha \(feat\. Ill Skillz, K.O.D.\)](https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW), [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [Respect 4 Brotha](https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT) | 5:13 |
 
-Snapshot ID: `MCw5YjAzNDg0YWU2ZDQzNzFmYTljMWZmODViMGI0ODZmMDZmNzM0OWU5`
+Snapshot ID: `MCwxMzU1YWE1YzFkNmZkYmIyOWE3OTQ3MTQwNDRiMTNhN2NhNDg0NTFl`

@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=WgAO\-NgbQZSqV5y\_aN46MA">AYLØ </a>
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=OIg\_mIumQY\-yAohjU8OJ\_A">sGawD </a>
 
-425 songs - 21 hr 6 min
+426 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [body count](https://open.spotify.com/track/7blHE1ssculA05pENkKaoZ) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Gigi Atlantis](https://open.spotify.com/artist/6wukMcC4TS5AUV1cc8lmmd) | [EVERYTHING YOU HEARD IS TRUE](https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN) | 2:31 | 2021-02-26 | 2022-03-12 |
 | [Bombs Away \(the perfect interlude\)](https://open.spotify.com/track/3J1ghAVjFCEQqk6FFgd92L) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Bombs Away \(the perfect interlude\)](https://open.spotify.com/album/0mcQZKJZt12vonk7P56Gi4) | 2:24 | 2022-04-28 | 2022-05-06 |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-16 |  |
+| [Boytoy](https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Boytoy](https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7) | 2:19 | 2023-07-07 |  |
 | [Breathe](https://open.spotify.com/track/699RAgFdoNpI5o1TxAFjej) | [Shaun Mbah](https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb) | [Breathe](https://open.spotify.com/album/3NZ6PcH6TPgZRBZJjLzwE5) | 2:20 | 2023-06-09 | 2023-06-23 |
 | [Broken](https://open.spotify.com/track/6emc8ZxLfdSF86APJW1duQ) | [Ibejii](https://open.spotify.com/artist/2zxNSwGXJmWCHyoEDsl1j0) | [POST\-19](https://open.spotify.com/album/3N0aPdI9wrcHPiZ48zaaMc) | 2:57 | 2022-05-19 | 2022-06-24 |
 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 | 2023-06-09 |  |
@@ -204,7 +205,7 @@
 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 | 2022-11-04 | 2022-11-19 |
 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 | 2023-03-31 |
 | [Jump On It \- Suté Iwar Remix](https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF) | [Bankyondbeatz](https://open.spotify.com/artist/7DpKQ2Ynq3k9C1zgV8fxJV), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Jump On It \(REMIX\)](https://open.spotify.com/album/3JI4J8tbDetUugD4Dn7CU8) | 2:45 | 2022-05-26 | 2022-07-29 |
-| [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 |  |
+| [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 | 2023-07-08 |
 | [Kele](https://open.spotify.com/track/0BgmidEk74t9YNwGGt77Jl) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:25 | 2022-09-29 | 2023-06-17 |
 | [Kerewa](https://open.spotify.com/track/2TdbsYPPDKKGZjaBeiPHiY) | [Bryann](https://open.spotify.com/artist/6l3e6Htn4aUo6Jx0q5ChZX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Kerewa](https://open.spotify.com/album/0la26c1vhf3NyYj0MfXS2e) | 3:43 | 2022-09-15 | 2022-12-03 |
 | [Kerewa \(feat\. Blaqbonez\)](https://open.spotify.com/track/5BeGPJdDixrxEDpY2NaZ0Z) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Ileke](https://open.spotify.com/album/1I6GnLLD7UEjZfEdGSxA3s) | 3:48 | 2021-12-09 | 2022-12-02 |

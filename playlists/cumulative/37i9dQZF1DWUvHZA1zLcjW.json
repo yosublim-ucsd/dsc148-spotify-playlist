@@ -4277,6 +4277,36 @@
     },
     {
       "album": {
+        "name": "Violin Concertos",
+        "url": "https://open.spotify.com/album/0RUn4drZM0maOMiEqRgVnm"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Rudolf Koelman",
+          "url": "https://open.spotify.com/artist/5loxtI1yNUJicuu3QkVmtL"
+        },
+        {
+          "name": "Sinfonietta Schaffhausen",
+          "url": "https://open.spotify.com/artist/2qruyVnfASPUyhMMENKn94"
+        },
+        {
+          "name": "Paul K. Haug",
+          "url": "https://open.spotify.com/artist/19URArtIzd4OhOu4MTFOVa"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454440,
+      "name": "Violin Concerto No. 3 in B Minor, Op. 61: II. Andantino quasi Allegretto",
+      "url": "https://open.spotify.com/track/1pbKeG2h8eLjbts7VVpkIh"
+    },
+    {
+      "album": {
         "name": "We Contain Multitudes \u2014 piano reworks",
         "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
       },

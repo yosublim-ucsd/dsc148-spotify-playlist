@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 285573,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 291453,
       "name": "God Alone (NYE Live)",
       "url": "https://open.spotify.com/track/1aohEgupGtgViBxFeo4xxF"
@@ -2584,6 +2584,28 @@
       "duration_ms": 229053,
       "name": "I Rely",
       "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "album": {
+        "name": "I Remember (Radio Version)",
+        "url": "https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209312,
+      "name": "I Remember - Radio Version",
+      "url": "https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh"
     },
     {
       "album": {
@@ -3892,6 +3914,28 @@
       "duration_ms": 350142,
       "name": "Manifest - Remix",
       "url": "https://open.spotify.com/track/2G6G9a5zDZZC9itH7VSqZj"
+    },
+    {
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251490,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
     },
     {
       "album": {
@@ -5970,6 +6014,10 @@
         {
           "name": "Todd Curry",
           "url": "https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY"
+        },
+        {
+          "name": "B.Slade",
+          "url": "https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt"
         }
       ],
       "date_added": "2023-02-03",

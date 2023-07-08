@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href="https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA">Pastor Steven Furtick</a> and <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,699 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,774 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [Abide \- Live](https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl) | 6:00 |
 | 100 | [My Help \- Live](https://open.spotify.com/track/5V98PEmkQzEcigKBlamSGs) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [My Help \(Live\)](https://open.spotify.com/album/3z109kjHinxN81XWZKmV9Q) | 4:48 |
 
-Snapshot ID: `MCw2MmMzOTcwMjZhYzdhMjI4OTY2NDFiZmE4ZjY3Yzk2ZTJlM2ZkMDMy`
+Snapshot ID: `MCw5ZTYxN2ZkM2EwZWEwMmY1YmM1ZDI0ZWVjZTJlMDcxYTI1ZDQ5YzQ5`

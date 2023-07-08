@@ -2,7 +2,7 @@
 
 ### [Tokyo Super Hits!](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Mrs\. 米津玄師 \(Kenshi Yonezu\)
+> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 米津玄師 \(Kenshi Yonezu\)
 
 909 songs - 2 day 8 hr 46 min
 

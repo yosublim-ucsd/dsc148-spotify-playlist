@@ -967,6 +967,60 @@
     },
     {
       "album": {
+        "name": "Garoto - Wanderson Lopez Ensemble (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56Qvs3eXRYJhbZhXBZSWJT"
+      },
+      "artists": [
+        {
+          "name": "Wanderson Lopez",
+          "url": "https://open.spotify.com/artist/6h9bYkUKLSwIz5QpU5pQ5A"
+        },
+        {
+          "name": "Daniel Freire",
+          "url": "https://open.spotify.com/artist/6onbHhPrPUlO3oZVI3d2gF"
+        },
+        {
+          "name": "Gabriela Deps",
+          "url": "https://open.spotify.com/artist/2opxc4s9hYeX6m64w0P1eI"
+        },
+        {
+          "name": "Ariana Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/4F41zUk5aoh9aBmZojdSMF"
+        },
+        {
+          "name": "Cristiano Costa",
+          "url": "https://open.spotify.com/artist/2pVlCFhYdHicGSXHKLZQad"
+        },
+        {
+          "name": "Renato Rocha",
+          "url": "https://open.spotify.com/artist/57mFL4s85u6sFhZKuEYxxf"
+        },
+        {
+          "name": "Gabriel Novaes",
+          "url": "https://open.spotify.com/artist/4TwEzkGnAshfu8bJtpbxQZ"
+        },
+        {
+          "name": "Roger Bezerra",
+          "url": "https://open.spotify.com/artist/0zQ9H0IO107WhC2nQZWQEW"
+        },
+        {
+          "name": "Hugo Maciel",
+          "url": "https://open.spotify.com/artist/3MqqQAc1pTbDBlj9N6jbtG"
+        },
+        {
+          "name": "Jonathan Yoshikawa",
+          "url": "https://open.spotify.com/artist/6lRUToyBDaLfA88MMwTTYA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "Garoto - Ao Vivo",
+      "url": "https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k"
+    },
+    {
+      "album": {
         "name": "Garra",
         "url": "https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2"
       },
@@ -1814,7 +1868,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170000,
       "name": "Samba da rosa",
       "url": "https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp"

@@ -12159,6 +12159,28 @@
     },
     {
       "album": {
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "KEITA",
+          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
+    },
+    {
+      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -20234,6 +20256,32 @@
       "duration_ms": 74434,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/12HoWGPi1CWFDM5FmcIrhT"
+    },
+    {
+      "album": {
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/3zg0SQRlizoLDxYGavTIDb"
+      },
+      "artists": [
+        {
+          "name": "99' Nasty Kidz",
+          "url": "https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5"
+        },
+        {
+          "name": "Coa White",
+          "url": "https://open.spotify.com/artist/6cHHFikz4JtK0BmU86vnvo"
+        },
+        {
+          "name": "GTC",
+          "url": "https://open.spotify.com/artist/3oOQ47mUFcBGxUU8IJImUx"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/0PnKsGNKY7CFdqlM7qV7uB"
     },
     {
       "album": {

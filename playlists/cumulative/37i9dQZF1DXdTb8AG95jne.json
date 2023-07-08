@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "(1)",
+        "url": "https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "(The Cherry Trees)",
+      "url": "https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg"
       },
@@ -6158,7 +6176,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"

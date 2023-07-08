@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,994 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,036 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [Peace](https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA) | [Steve Davis](https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD) | [Correlations](https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos) | 7:16 |
 | 100 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 |
 
-Snapshot ID: `MCw4NDIyMmU0M2VkZDk4MTVmZmY5NTJhNTU0YTlkZDY3YjM5MDRhZTBm`
+Snapshot ID: `MCwyNGUyMTk4NDY3NjYyMzdiNzA5OWUyZmEwYjFhZDQxYTdiMmI4MjY4`

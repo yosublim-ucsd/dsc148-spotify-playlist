@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 464485,
+  "num_followers": 464546,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDg2NGZkNTZmNjUxNzIzMTA2NTZkY2JmOTEyNjZhMmM3NDY5NGUz",
+  "snapshot_id": "MCw4ZDMwOGVhZDVmYTVmYjNkZDFhZTYxMmUyZDZmNWNhNWQzNzkxYjg4",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -67,6 +67,22 @@
       "duration_ms": 206591,
       "name": "High Steppa",
       "url": "https://open.spotify.com/track/7xTg3npAWRMFYToVZGhDFv"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Burnt Toast & Coffee",
+        "url": "https://open.spotify.com/album/0xl0L7fwDbjrqatRt1SNkY"
+      },
+      "artists": [
+        {
+          "name": "High Fade",
+          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
+        }
+      ],
+      "duration_ms": 198442,
+      "name": "Burnt Toast & Coffee",
+      "url": "https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -133,22 +149,6 @@
       "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
-      "added_at": "2023-04-14 19:24:16",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/2JsgVPQiEaMnpJyO6rQ9Hd"
-      },
-      "artists": [
-        {
-          "name": "High Fade",
-          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
-        }
-      ],
-      "duration_ms": 265632,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/2RCz7D2tqHOrBxAQ8F88iX"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Rage Against The Machine",
@@ -179,6 +179,22 @@
       "duration_ms": 217133,
       "name": "Suck My Kiss",
       "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
+    },
+    {
+      "added_at": "2023-04-14 19:24:16",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/2JsgVPQiEaMnpJyO6rQ9Hd"
+      },
+      "artists": [
+        {
+          "name": "High Fade",
+          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
+        }
+      ],
+      "duration_ms": 265632,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/2RCz7D2tqHOrBxAQ8F88iX"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -939,22 +955,6 @@
       "duration_ms": 264933,
       "name": "Vinnie",
       "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
     },
     {
       "added_at": "2022-02-04 05:02:00",

@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-56 songs - 3 hr 52 min
+57 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All In Allu Beauty](https://open.spotify.com/track/4WycRfs3ibeHRiJL38K6EU) | [Gana Hari](https://open.spotify.com/artist/4x67D7VuInlKD9UKbrPPAW) | [All In Allu Beauty](https://open.spotify.com/album/0WLaNZ6MDMRbtcyr9oJtrJ) | 3:48 | 2022-11-05 |  |
 | [Amakkalam \- From "Think Originals"](https://open.spotify.com/track/49vfyaR7KxgTEqpFtn3XPg) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Keya Pothen](https://open.spotify.com/artist/3aRvYgNaKNnAiJHjWJEyIk) | [Amakkalam \(From "Think Originals"\)](https://open.spotify.com/album/6NYPqaUrwTKneOjnJK6kAp) | 2:37 | 2023-06-27 |  |
 | [Bhae Bhae](https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG) | [AG Maggy](https://open.spotify.com/artist/3I4Vemt9tNQnBG7apbbMJY) | [Bhae Bhae](https://open.spotify.com/album/4qP8WhOmeSmMuuaY3WTkHr) | 4:09 | 2023-01-11 |  |
+| [Butterfly Pola](https://open.spotify.com/track/3vRRPomvHC3ySQGJGuRVqR) | [Gana Gokul](https://open.spotify.com/artist/3ORko4ywmPEs62KSqYQJAo) | [Butterfly Pola](https://open.spotify.com/album/2AaOjj3PBD5IE66IqgFIdw) | 3:15 | 2023-07-07 |  |
 | [Chikkom](https://open.spotify.com/track/2auqkXYwA848ortEvX88m7) | [Thiruvallur Gana Akash](https://open.spotify.com/artist/2aFQWgQ2qM5dhyP6RGzeOQ) | [Chikkom](https://open.spotify.com/album/0nOGQn9LPxeMRTaKl6K9zY) | 4:23 | 2023-03-22 |  |
 | [Ciroc](https://open.spotify.com/track/6oP9lZa4DcHeCXyGMbEAjA) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Vaeraan](https://open.spotify.com/album/51k2UGRpwrrCD6ooIvwfYa) | 4:37 | 2023-01-11 |  |
 | [Daavula Darling](https://open.spotify.com/track/0lFMi29egMLARQNudPnuzo) | [Gana Ulaganathan](https://open.spotify.com/artist/0xtvx5hHw1uN34pEC6euTe), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Daavula Darling](https://open.spotify.com/album/2dmsXLOxnl5f0jlUFk7ISX) | 4:01 | 2023-06-21 |  |

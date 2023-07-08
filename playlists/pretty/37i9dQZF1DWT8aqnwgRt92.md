@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,653 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,465 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 |
 | 84 | [Stay Free](https://open.spotify.com/track/07eAQ4yUtJXlmajfLDL2fs) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Stay Free \(Kono Subarashii Sekai Ni Bakuen Wo! Opening Theme\)](https://open.spotify.com/album/4AFGph0PQNYPqu4nYpdsQf) | 4:01 |
 
-Snapshot ID: `MCw4OGFkNjkzNTYzMzExMzNiY2ZmOWMwOWM4NmIyNDQ5NWNhYjBjODli`
+Snapshot ID: `MCw0OGYzODAyOTU5NDQyZDdjYzAxMDYzMTQxODVhMWFjNWM0MmMyOWNj`

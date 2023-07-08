@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -5498,7 +5498,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -9856,7 +9856,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 155583,
       "name": "kalb\u0117sim\u0117s/myl\u0117sim\u0117s",
       "url": "https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH"
@@ -20324,6 +20324,24 @@
       "duration_ms": 225908,
       "name": "Tavo veidas",
       "url": "https://open.spotify.com/track/6oNsrrv0HjsHDbI8jIDkKI"
+    },
+    {
+      "album": {
+        "name": "Tav\u0119s Tr\u016bksta (Radio Edit)",
+        "url": "https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q"
+      },
+      "artists": [
+        {
+          "name": "OG Version",
+          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131856,
+      "name": "Tav\u0119s Tr\u016bksta - Radio Edit",
+      "url": "https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV"
     },
     {
       "album": {

@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "Arabesque Vol. 3",
+        "url": "https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166154,
+      "name": "Diali",
+      "url": "https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m"
+    },
+    {
+      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -2461,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Mriyech",
+        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Fadili",
+          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208436,
+      "name": "Mriyech",
+      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
+    },
+    {
+      "album": {
         "name": "Nari",
         "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
       },
@@ -3024,7 +3064,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 265806,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
@@ -3112,7 +3152,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"

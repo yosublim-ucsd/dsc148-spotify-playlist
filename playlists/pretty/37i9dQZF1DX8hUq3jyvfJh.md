@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,026 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,019 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Volta](https://open.spotify.com/track/15hl2JfhoxqWVaQfO9OT5S) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:15 |
 | 50 | [Insegurança](https://open.spotify.com/track/1a3RCKohK84mXO8GmlcfXb) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Insegurança](https://open.spotify.com/album/1IbDGV9gKwVftBV6JXCA6t) | 3:12 |
 
-Snapshot ID: `MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli`
+Snapshot ID: `MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk`

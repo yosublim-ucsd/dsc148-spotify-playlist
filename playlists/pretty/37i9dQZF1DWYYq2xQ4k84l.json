@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 27744,
+  "num_followers": 27786,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU2ZjVlMGZhYjQyYTBjNjA1MjlhYjZkZDcyYzg0NzI2OGQ3YTU1",
+  "snapshot_id": "MCxhMmNiMTdjOTcyNzg4YWZlZmRlMTM3ZjFkMzg2NjEwOTVlNDQ5NDEz",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Al Natural (Remix)",
-        "url": "https://open.spotify.com/album/3RPBIxoBBQIvqGV8ShN0wu"
-      },
-      "artists": [
-        {
-          "name": "DJ Booster",
-          "url": "https://open.spotify.com/artist/46ht5heFXWUBleroN1jgGu"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Al Natural - Remix",
-      "url": "https://open.spotify.com/track/6FYReDAof3VBMbRKRbwboP"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Coleccion Cristiana",
         "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
       },
@@ -831,6 +815,26 @@
       "duration_ms": 318760,
       "name": "Volando Entre Tus Brazos - Salsa Version",
       "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "1989-2009",
+        "url": "https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "duration_ms": 275077,
+      "name": "Duele El Amor!",
+      "url": "https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi"
     },
     {
       "added_at": "2021-12-22 23:41:59",

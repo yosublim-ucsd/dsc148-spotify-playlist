@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,902 likes - 250 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,950 likes - 250 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 |
 | 250 | [The Apple](https://open.spotify.com/track/1jWtn89sIC21MvZjMAXcJr) | [Duo Acoustica](https://open.spotify.com/artist/2kMgalFxtY6wl6nnaKB3W0) | [The Apple](https://open.spotify.com/album/78HoC1Nipn2jKskrl4bxSt) | 2:56 |
 
-Snapshot ID: `MCwwZjBkNGEzOGJkOWQzYWRiZjMyNmVkZDMxMGQwY2QyNTE4OTYxOWM5`
+Snapshot ID: `MCxjYzY1OWI5ZTM0NjQyNmJlZTNmYWM3YzIxOGQ2MzdkNTEyNDJkMDY0`

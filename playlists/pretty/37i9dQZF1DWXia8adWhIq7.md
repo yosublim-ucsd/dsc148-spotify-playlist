@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles, Margem Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,110 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,182 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 80 | [Quem Sou Eu Sem Você?](https://open.spotify.com/track/54Dw2XPvYm2LlWx9n2jqjr) | [Jujubita](https://open.spotify.com/artist/3bo6KIZeJRIscQKaeqroVg) | [Quem Sou Eu Sem Você?](https://open.spotify.com/album/5E8SijDUIc5m9rt6zuTfTF) | 2:40 |
 
-Snapshot ID: `MCwyMWY1ZDM2ZDY2Y2U3N2IzMmFjYzgxYTJmMWQ0MTkxNWVlNzEwNzEx`
+Snapshot ID: `MCw2ZmZjMjE5OWViNDUyM2EyYzlmZmI5ZWRiZjlmMzQ4NjU5MjZkOGZk`

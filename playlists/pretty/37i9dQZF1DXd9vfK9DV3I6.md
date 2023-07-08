@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,885 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,122 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [The Fire](https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD) | [The Fire](https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ) | 2:56 |
 | 100 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 |
 
-Snapshot ID: `MCw4ODA4MzY2MDYxNDk3ODg2Y2Q5MTFhYzIyM2FlYTIxZWM5YzM2MDZh`
+Snapshot ID: `MCxiZjkxMzgxZTE4N2U3MDBlNGI5N2Q1NjRmN2FkMDg4OWE1MGRiZDA1`

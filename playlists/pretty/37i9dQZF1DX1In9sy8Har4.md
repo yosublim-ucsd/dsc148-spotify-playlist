@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,471 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,484 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FÖRSENT](https://open.spotify.com/track/2A0ldcG3kavQErxfGlwJNs) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [FÖRSENT](https://open.spotify.com/album/75lodPgecaqXT1up0Maffe) | 3:02 |
 | 2 | [Gangster](https://open.spotify.com/track/0M8NW8okUy3iFhCr3SDW4O) | [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h) | [Respektera hungern](https://open.spotify.com/album/0f3iBGKdncmpSWAhc7LLH3) | 3:06 |
-| 3 | [Driftig](https://open.spotify.com/track/1TmmfkscxUmzbGu628xvrT) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Evin Ahmad](https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN) | [Kör vi tills att dör vi](https://open.spotify.com/album/4hcA7HaYT2RxASb4mRKWgJ) | 3:18 |
+| 3 | [Driftig \(feat\. Evin Ahmad\)](https://open.spotify.com/track/454PxjaPn7yQGHO7bGqg1f) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Evin Ahmad](https://open.spotify.com/artist/1GBNY4fBfNUPMcm60rUNyN) | [Kör vi tills att dör vi](https://open.spotify.com/album/4gIOT1AjdVE8yYVZTVO4kl) | 3:18 |
 | 4 | [Tänd Alla Ljus](https://open.spotify.com/track/0kdOSSWcYye98wID8RIhdl) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [Jag Dör För Dig](https://open.spotify.com/album/4TGIEEN54PKQe0GuQGjZ4M) | 3:50 |
 | 5 | [E.C.](https://open.spotify.com/track/3VNWq8rTnQG6fM1eldSpZ0) | [Abidaz](https://open.spotify.com/artist/58RMTlPJKbmpmVk1AmRK3h), [Chapee](https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K), [C.U.P](https://open.spotify.com/artist/1VLf7Ncxb5Jga6eyd3jh6K) | [In & ut](https://open.spotify.com/album/5m4VYOPoIpkV0XgOiRKkWC) | 2:50 |
 | 6 | [Horse](https://open.spotify.com/track/0m4donue5KgOq9D9s6wfTu) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Horse](https://open.spotify.com/album/0z5OpRRF8NPklLH8p1T3fo) | 2:53 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 | 19 | [PEDIGREE](https://open.spotify.com/track/3aQvo1QV18zMObAYYZBqAB) | [BENNETT](https://open.spotify.com/artist/0SiKXP7Ak60VxFUEcLFz8R) | [OCH DU HETER?](https://open.spotify.com/album/51w8CfOy488vXizf1cVSUj) | 3:24 |
 | 20 | [GANGSTER](https://open.spotify.com/track/6Wv079faQo140DbgBt0M3z) | [Lilla Namo](https://open.spotify.com/artist/2DsNd8GBB1y1J0XMq0nT6s) | [QUEENS](https://open.spotify.com/album/6VlXFys7aE3UOesOrd6SPf) | 3:03 |
 
-Snapshot ID: `MCxiZjM1YzViNjIzM2M5NmQ0YjkxZTQ3ZTc3OWIzZTNhZDcxNzU0ZjJl`
+Snapshot ID: `MCxkODg3ZjBmOTUyMTI4NDY3MTMxMzlhYzc0Zjc0MWNjYzIwYjFkNDhi`

@@ -2,7 +2,7 @@
 
 ### [Pop Drive](https://open.spotify.com/playlist/37i9dQZF1DWSThc8QnzIme)
 
-> Breeze through your commute with these pop favorites\. Cover: Jonas Brothers
+> Breeze through your commute with these pop favorites\. Cover: P!nk
 
 335 songs - 17 hr 47 min
 

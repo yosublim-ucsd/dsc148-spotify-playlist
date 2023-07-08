@@ -2612,10 +2612,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 190434,
       "name": "Highlight Reel",
       "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Highlight Reel",
+      "url": "https://open.spotify.com/track/5RGv8UfRNPHLLvPxQMYoDY"
     },
     {
       "album": {

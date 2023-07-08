@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Golden Features",
-  "num_followers": 134634,
+  "num_followers": 134657,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmUzYjI1YzkxNDI2MmZiZmI4OThiOTU5NDY0NzMzNzIxNmJmYTRh",
+  "snapshot_id": "MCxlODBmNTA1OTMwNjJhMDg0MTFhNjYxMjMyZjMxZDJiOTMwNmYxZTNl",
   "tracks": [
     {
       "added_at": "2023-07-06 14:06:50",
@@ -71,6 +71,26 @@
     {
       "added_at": "2023-07-06 14:06:50",
       "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "added_at": "2023-07-06 14:06:50",
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
@@ -127,6 +147,30 @@
       "duration_ms": 144143,
       "name": "Punkrocker",
       "url": "https://open.spotify.com/track/5IcDrdNSx9SPvM5cdjQKSg"
+    },
+    {
+      "added_at": "2023-07-06 14:06:50",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "added_at": "2023-07-06 14:06:50",
@@ -848,7 +892,7 @@
       "added_at": "2023-07-06 14:06:50",
       "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
-        "url": "https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71"
+        "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
       "artists": [
         {
@@ -862,7 +906,7 @@
       ],
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
-      "url": "https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E"
+      "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
       "added_at": "2023-07-06 14:06:50",
@@ -1392,12 +1436,12 @@
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
           "name": "What So Not",
           "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
       "duration_ms": 193098,

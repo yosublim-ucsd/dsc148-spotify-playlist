@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Getcha Some",
+        "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Somebody Else's Whiskey",
+      "url": "https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U"
+    },
+    {
+      "album": {
         "name": "Someone Just Like You",
         "url": "https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX"
       },
@@ -2290,6 +2308,24 @@
       "duration_ms": 211273,
       "name": "Vaquero Arrepentido",
       "url": "https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ"
+    },
+    {
+      "album": {
+        "name": "Frank Ray",
+        "url": "https://open.spotify.com/album/2baf9NLrekhUeG7gz9PIQ8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Wasting Your Words",
+      "url": "https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV"
     },
     {
       "album": {

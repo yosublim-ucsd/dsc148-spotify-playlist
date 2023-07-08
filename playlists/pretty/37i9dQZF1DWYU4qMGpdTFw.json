@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cerveza, Sudor y Garage hasta la muerte!",
-  "num_followers": 276,
+  "num_followers": 285,
   "original_name": "DEMOLER DEMOLER ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBlYTM0MDEzN2JhZWE3MzMyNTBlMzYxZDY5YjExMGVmNDY3ZTQ2",
+  "snapshot_id": "MCxjYjBjMzFmNjM4OTEwMTAyYTE5ZTdhNjQ1NWJjNDc1NDIyNDdmZmFj",
   "tracks": [
     {
       "added_at": "2023-07-07 02:09:47",
@@ -23,6 +23,26 @@
       "duration_ms": 177640,
       "name": "Demolici\u00f3n",
       "url": "https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD"
+    },
+    {
+      "added_at": "2023-07-07 02:09:47",
+      "album": {
+        "name": "Mafia al Dente",
+        "url": "https://open.spotify.com/album/5ibirZ6xkpsP3PGj8b2GZZ"
+      },
+      "artists": [
+        {
+          "name": "Los Infierno",
+          "url": "https://open.spotify.com/artist/2Ss3Q7aKxMNVX2z5vFUGXM"
+        },
+        {
+          "name": "The Barbacans",
+          "url": "https://open.spotify.com/artist/64p9uKyB0A4FQccl1tgjwE"
+        }
+      ],
+      "duration_ms": 150351,
+      "name": "Yo No Soy Como los Dem\u00e1s",
+      "url": "https://open.spotify.com/track/5gXpGARuKW2Gp7oaUfF4B9"
     },
     {
       "added_at": "2023-07-07 02:09:47",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed?si=eda0dd0b1708488b\">Chris Daveport<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0?si=4912ea84a45d4efd\">Cody Carnes<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 388875,
       "name": "Call On The Name - Live",
       "url": "https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR"
@@ -3027,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "I Remember (Radio Version)",
+        "url": "https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209312,
+      "name": "I Remember - Radio Version",
+      "url": "https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh"
+    },
+    {
+      "album": {
         "name": "Revival Nights (Live)",
         "url": "https://open.spotify.com/album/4w5FajlRlCXCoflshe1IsS"
       },
@@ -4923,6 +4945,28 @@
     },
     {
       "album": {
+        "name": "The Narrow Way",
+        "url": "https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390967,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
+    },
+    {
+      "album": {
         "name": "Not By Might",
         "url": "https://open.spotify.com/album/2DLtiW2GI0H6BKGpfdaEH7"
       },
@@ -5418,6 +5462,24 @@
       "duration_ms": 310586,
       "name": "Plead The Blood (with Brandon Lake and Cody Carnes)",
       "url": "https://open.spotify.com/track/3O0KjuEzvCEZc3e7byO2sv"
+    },
+    {
+      "album": {
+        "name": "Plead The Blood + The Dove (Live)",
+        "url": "https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441083,
+      "name": "Plead The Blood - Live",
+      "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
     },
     {
       "album": {
@@ -6862,7 +6924,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 322262,
       "name": "The Narrow Way",
       "url": "https://open.spotify.com/track/3ERoa5DS0byy2NxrO26GYv"

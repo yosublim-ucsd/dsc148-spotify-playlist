@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-230 songs - 13 hr 30 min
+231 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [If You're Gonna Leave Me](https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1) | 5:32 | 2021-05-21 | 2022-05-07 |
 | [In The Water](https://open.spotify.com/track/0RiY8zC9nRkLJmjyWL90Or) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN) | [In The Water](https://open.spotify.com/album/5KYbUkIW8rj1anUazzefDx) | 3:38 | 2021-09-03 | 2023-05-06 |
 | [It Is What It Is](https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh) | [Bill Daniels](https://open.spotify.com/artist/1AaxjORCdqUfWScr7UACJT) | [It Is What It Is](https://open.spotify.com/album/2Ktr9SyLhkvAKtvBEMqcoF) | 3:01 | 2022-03-11 |  |
+| [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 | 2023-07-07 |  |
 | [Jumpin’ For Joy](https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Jumpin’ For Joy](https://open.spotify.com/album/1ZpY8QOPygcO1SfiApXNqR) | 3:47 | 2022-07-29 |  |
 | [Keep My Cool](https://open.spotify.com/track/4vEaaqaOh7Aw7cHw7U9enA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:07 | 2021-10-29 | 2023-02-14 |
 | [Keep Off of You](https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Keep Off of You](https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb) | 3:04 | 2023-03-10 |  |
@@ -163,7 +164,7 @@
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 |  |
 | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/track/4LXdNt8mbZIJD6LXBxFS1W) | [Josh Morningstar](https://open.spotify.com/artist/2mGDvM39bEKWuSNd9H7Prm) | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/album/5N6B3t4lNcsuUe2lZn3GF4) | 2:49 | 2021-03-26 | 2022-03-26 |
 | [Say My Name](https://open.spotify.com/track/67k7KL7HTCrVUdMnBVbO7L) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Say My Name](https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl) | 3:52 | 2023-01-20 | 2023-05-13 |
-| [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 |  |
+| [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 | 2023-07-08 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 | 2022-07-29 |
 | [Settle For Less](https://open.spotify.com/track/2ha56ZefX99UI2KqBkZs29) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Settle For Less](https://open.spotify.com/album/1JpcWCaJAFI2nBoW4pqJRF) | 3:08 | 2023-04-24 | 2023-05-20 |
 | [Shake It, Shake It, Shake It](https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 2:37 | 2023-03-03 |  |

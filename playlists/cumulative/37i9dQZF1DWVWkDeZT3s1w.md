@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-74 songs - 4 hr 46 min
+77 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 | 2023-04-14 |  |
 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 | 2023-04-14 |  |
 | [Dictamen](https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Dictamen](https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx) | 3:14 | 2023-04-14 |  |
+| [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 | 2023-07-07 |  |
 | [Educando Esclavos](https://open.spotify.com/track/7ldTlfYNQ2TS988rzrZVJL) | [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [Educando Esclavos](https://open.spotify.com/album/71Dj151SpJCB0zuNkpNZpi) | 2:38 | 2023-04-14 |  |
 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 | 2023-04-14 |  |
 | [El eslabón perdido](https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [El eslabón perdido](https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq) | 3:33 | 2023-05-19 |  |
@@ -69,6 +70,7 @@
 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 | 2023-04-14 |  |
 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 | 2023-04-14 |  |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2023-04-14 |  |
+| [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 | 2023-07-07 |  |
 | [Shhh](https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Shhh](https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5) | 2:25 | 2023-04-14 |  |
 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 | 2023-06-23 |  |
 | [Singular \(feat\. El Chojin\)](https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 4:36 | 2023-04-14 |  |
@@ -76,6 +78,7 @@
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-04-14 |  |
 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 | 2023-04-14 |  |
 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2023-04-14 |  |
+| [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 | 2023-07-07 |  |
 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 | 2023-05-29 |  |
 | [Vive Libre](https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Choko Rap De Luz](https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU), [Maniobra Bits](https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn) | [Vive Libre](https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h) | 3:48 | 2023-04-14 |  |
 | [Voy a Regresar](https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE) | [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN), [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w) | [Voy a Regresar \(Escape Al Purgatorio\)](https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58) | 3:09 | 2023-04-14 |  |

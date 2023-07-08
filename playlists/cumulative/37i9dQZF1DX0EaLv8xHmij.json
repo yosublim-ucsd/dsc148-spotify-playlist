@@ -138,7 +138,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 111125,
       "name": "5 Estrelas",
       "url": "https://open.spotify.com/track/0YGl7RgoEq9L4FPitQhTpm"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 231026,
       "name": "Ah Todo Vapor",
       "url": "https://open.spotify.com/track/6TcpVI5qLqnEStAa266ZRc"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 137237,
       "name": "Bonde da Rock",
       "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 198404,
       "name": "Estraga Baile",
       "url": "https://open.spotify.com/track/0xRQXUyKp0k2Qhxukx5x2C"
@@ -3065,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "Palpite",
+        "url": "https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj"
+      },
+      "artists": [
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112984,
+      "name": "Palpite",
+      "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
+    },
+    {
+      "album": {
         "name": "Eu Tamb\u00e9m Sou um Anjo",
         "url": "https://open.spotify.com/album/6yd1wjgnMwGxmrgMNwE7wt"
       },
@@ -3092,6 +3114,32 @@
       "duration_ms": 185142,
       "name": "Passarelas e Vitrines",
       "url": "https://open.spotify.com/track/1bzqCRQHnTaN3hgPtujOTz"
+    },
+    {
+      "album": {
+        "name": "Pela Minha Cria",
+        "url": "https://open.spotify.com/album/3EWSDy4qtTTgCoqS5AWEwn"
+      },
+      "artists": [
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        },
+        {
+          "name": "Vullto GSS",
+          "url": "https://open.spotify.com/artist/0XBJpChSvDHdrEpIKDMlre"
+        },
+        {
+          "name": "Street GSS",
+          "url": "https://open.spotify.com/artist/32KMLrn53JBCVetCiDRGaU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Pela Minha Cria",
+      "url": "https://open.spotify.com/track/52bpwdvzZ9dsMlCpEiVmVm"
     },
     {
       "album": {
@@ -3449,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "Real Trem",
+        "url": "https://open.spotify.com/album/3RH0qFmFxR7mAu3xDRcBZL"
+      },
+      "artists": [
+        {
+          "name": "Roman\u00ed",
+          "url": "https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K"
+        },
+        {
+          "name": "prodbyeros",
+          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176542,
+      "name": "Real Trem",
+      "url": "https://open.spotify.com/track/0I0W1n5Ula6vhHLbf93ZMV"
+    },
+    {
+      "album": {
         "name": "Realces",
         "url": "https://open.spotify.com/album/424KapKIbAM78Sgr7QvhzR"
       },
@@ -3780,6 +3850,28 @@
       "duration_ms": 150857,
       "name": "SP igual Birmigham",
       "url": "https://open.spotify.com/track/1KlyWpzvFxUqP7Ni3ro6KA"
+    },
+    {
+      "album": {
+        "name": "O Mundo \u00e9 Seu Neguin",
+        "url": "https://open.spotify.com/album/2WQ8Wyiv39Cta9qCaYLs2Z"
+      },
+      "artists": [
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173399,
+      "name": "SP Na Minha Mente",
+      "url": "https://open.spotify.com/track/56DfKgXtsnjT5UjummJUOK"
     },
     {
       "album": {
@@ -4330,7 +4422,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174168,
       "name": "Yo Mami",
       "url": "https://open.spotify.com/track/1f5zESheEAJvU2hYZxMGRX"

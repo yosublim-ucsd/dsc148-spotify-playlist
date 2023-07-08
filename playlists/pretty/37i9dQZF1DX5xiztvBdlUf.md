@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,521 likes - 80 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,705 likes - 80 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 | 80 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 
-Snapshot ID: `MCxjYTM0MjhiODIzNjViMjMzMDk0ZGU5MDdiZTk0NTBiNDk0MjBkN2M4`
+Snapshot ID: `MCw2OTRmNjZhYjliYzk0ZjUyOTBhNzEyZTA2YWUyNjYyYTk1ODk4NzM3`

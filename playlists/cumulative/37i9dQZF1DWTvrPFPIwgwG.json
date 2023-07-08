@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Suellen Brum",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al",
   "name": "Louvores Pentecostais",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 375584,
       "name": "A Igreja Vai Rompendo",
       "url": "https://open.spotify.com/track/4dgefmixhra06k2ugKL33e"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 268515,
       "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
       "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
@@ -778,6 +778,24 @@
       "duration_ms": 395574,
       "name": "Ele \u00c9",
       "url": "https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J"
+    },
+    {
+      "album": {
+        "name": "Enquanto a Igreja Ora",
+        "url": "https://open.spotify.com/album/2casb8zplapBFUHPOmTq3q"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201524,
+      "name": "Enquanto a Igreja Ora",
+      "url": "https://open.spotify.com/track/7zr5HXsViII0gR1Iwcr0ed"
     },
     {
       "album": {
@@ -1117,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Foi Livramento",
+        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Foi Livramento",
+      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
+    },
+    {
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -1400,7 +1436,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 403262,
       "name": "Marcas da Dor",
       "url": "https://open.spotify.com/track/0n3kpiCcgLLZpuiKy0CBeC"
@@ -1458,6 +1494,24 @@
       "duration_ms": 432666,
       "name": "Meu Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq"
+    },
+    {
+      "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
     },
     {
       "album": {
@@ -2336,7 +2390,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 231754,
       "name": "Recompensa (Ao Vivo)",
       "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
@@ -2437,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Sobre o Mar",
+        "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377884,
+      "name": "Sobre o Mar",
+      "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
+    },
+    {
+      "album": {
         "name": "Soldado Ferido (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7"
       },
@@ -2456,6 +2528,28 @@
       "duration_ms": 267000,
       "name": "Soldado Ferido (Ao Vivo)",
       "url": "https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX"
+    },
+    {
+      "album": {
+        "name": "Solu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        },
+        {
+          "name": "Mattos Nascimento",
+          "url": "https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249262,
+      "name": "Solu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB"
     },
     {
       "album": {
@@ -2564,7 +2658,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 327456,
       "name": "Sou Teu Deus",
       "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
@@ -2702,7 +2796,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 278571,
       "name": "Tua Presen\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/3opf9cUte5xtH40SgkbC00"
@@ -2862,6 +2956,24 @@
       "duration_ms": 329395,
       "name": "Vai Ter Festa",
       "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
+    },
+    {
+      "album": {
+        "name": "Vai Ter Surpresa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/35ldhu30Vn4LecR1FrUqLR"
+      },
+      "artists": [
+        {
+          "name": "Polyana Martins",
+          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265363,
+      "name": "Vai Ter Surpresa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3JBriN1tBkNyni3c7hsxj2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,104 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,194 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 24 | [Hold On To The Vision \- Orig '85](https://open.spotify.com/track/63k9gIrlrg1o5eY4ymiKIo) | [Frank Harris](https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n) | [No Retreat No Surrender](https://open.spotify.com/album/4Iqq71YTxef2D8u7cFIHsB) | 3:35 |
 | 25 | [Take Me Home Tonight](https://open.spotify.com/track/63diy8Bzm0pHMAU37By2Nh) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [The Best Of Eddie Money](https://open.spotify.com/album/590LYMDhJ9uUglR8QeNGWz) | 3:31 |
 | 26 | [Streets Of Siam](https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Kickboxer: The Deluxe Edition Soundtrack](https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4) | 3:51 |
-| 27 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [The Very Best Of Billy Idol: Idolize Yourself](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
+| 27 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
 | 28 | [Iron Eagle \(Never Say Die\)](https://open.spotify.com/track/3tD4AR8vbvM0b9X09YBYE0) | [King Kobra](https://open.spotify.com/artist/60DhbkIV5C2aLGgtpfUw2C) | [Thrill Of A Lifetime](https://open.spotify.com/album/1eXreZseW9GGTQTfRJk2zn) | 3:32 |
 | 29 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
 | 30 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 49 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 50 | [No Shelter](https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR) | [Broken Edge](https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:58 |
 
-Snapshot ID: `MCxhOGY2NDZlZTUxYjIwOTQxOWI4MThlOWU5ZjhmM2RjMjgzYTIzZDA5`
+Snapshot ID: `MCwyY2RiNjkwMWE5NTY3NzIyZmQwNDkyODZkODE4MjUyZDc3ZTJlM2Y4`

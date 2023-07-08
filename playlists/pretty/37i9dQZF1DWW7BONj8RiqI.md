@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,886 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,991 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [The Best](https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs) | [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Kan Kan Riddim](https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx) | 3:08 |
 | 100 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
 
-Snapshot ID: `MCwyNTY3MjEyNDZhYTFmOGRkNzYxNzNkMjQ5M2FiN2UwMjUzNjEwNGRi`
+Snapshot ID: `MCxjNzQzZGE4YjMxZTE1ZmEyNTdiOTViZjBhZjU4MGQ5OGU1OGRmMmQ4`

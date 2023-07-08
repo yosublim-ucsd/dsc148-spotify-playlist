@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Usted Se\u00f1alemelo en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Enrique Bunbury en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 226925,
       "name": "23 Semanas",
       "url": "https://open.spotify.com/track/1mOuJDPc5XPkRhHOZzjS4E"
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156703,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
+    },
+    {
+      "album": {
         "name": "Tiempos Mejores",
         "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 174303,
       "name": "Billie Max",
       "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
@@ -700,6 +718,24 @@
       "duration_ms": 216525,
       "name": "Campamento Krusty",
       "url": "https://open.spotify.com/track/6kMXaluhWHgeZgLWw61dEP"
+    },
+    {
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3e7A0tT3QQPLZjNVvPxcmt"
+      },
+      "artists": [
+        {
+          "name": "Ruido Rosa",
+          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227310,
+      "name": "Caos",
+      "url": "https://open.spotify.com/track/70EinsQyB0rxfvtCuqhqFr"
     },
     {
       "album": {
@@ -1340,7 +1376,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 136413,
       "name": "Desde Afuera",
       "url": "https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS"
@@ -1808,7 +1844,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 238232,
       "name": "Esa Estrella",
       "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
@@ -3559,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -5303,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Trampas",
+      "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "album": {
         "name": "SUPERALMA",
         "url": "https://open.spotify.com/album/00aqqoS6QTBSnQmnoemdkf"
       },
@@ -5728,6 +5800,24 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+    },
+    {
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"
     },
     {
       "album": {

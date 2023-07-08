@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,115 likes - 500 songs - 1 day 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,180 likes - 500 songs - 1 day 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 499 | [Ancient and Distant](https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:13 |
 | 500 | [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 |
 
-Snapshot ID: `MCxmNTViZDllMjc0N2ViNDgyMzJiNzI4MjZhZWI0YjI4ZWZkNWUxNjJl`
+Snapshot ID: `MCxiMjMwZTQyZTI1YTQwMzkwMTRmN2FhOTcwZjQ3ZTAyNWE2MmFlNmQy`

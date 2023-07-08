@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music by Blur.
 
-1,056 songs - 2 day 9 hr 25 min
+1,060 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [April Baby](https://open.spotify.com/track/2Uq8YwiAYhbG2jNzLimd7A) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [April Baby](https://open.spotify.com/album/1VX0j5c4IKT9VRKWNJ0i5U) | 3:53 | 2022-04-08 | 2022-07-02 |
 | [Are You Happy?](https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Are You Happy?](https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF) | 3:12 | 2021-06-07 | 2022-06-11 |
 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 | 2023-05-05 | 2023-06-24 |
+| [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 | 2023-07-07 |  |
 | [Armchair](https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Armchair](https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY) | 4:30 | 2022-10-28 | 2022-11-19 |
 | [Army Of Me](https://open.spotify.com/track/4RYc3RH9YZD6jn8k6h7aAW) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/3KXPsypHcb5a9taDnFWkFp) | 4:06 | 2021-06-07 | 2022-04-15 |
 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 | 2022-09-30 | 2022-10-08 |
@@ -427,6 +428,7 @@
 | [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 | 2022-11-04 | 2023-01-28 |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-19 | 2022-05-26 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-11 | 2022-12-18 |
+| [Hell of a Ride](https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3) | 2:59 | 2023-07-07 |  |
 | [Hello Sunshine](https://open.spotify.com/track/0gWJjbrMpbWkOauTiWghvV) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/4QO0A5dTLKEkjKMQuFGH9i) | 3:42 | 2022-06-14 | 2022-12-03 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-06-07 | 2022-04-15 |
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-12-07 | 2023-03-04 |
@@ -484,6 +486,7 @@
 | [I Was A Tunnel](https://open.spotify.com/track/2zQaGCGjNaSZOIqKDU6d6V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [I Was A Tunnel](https://open.spotify.com/album/0vMo2W4diAVi2Tg05zHeMa) | 3:42 | 2021-11-19 | 2022-04-20 |
 | [I Won!](https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [I Won!](https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq) | 3:20 | 2021-06-25 | 2022-02-06 |
 | [i won't run](https://open.spotify.com/track/3ykvobAQxQ5VlcDOMKXI4M) | [Keanu Bicol](https://open.spotify.com/artist/24kKjYHpxr9bHyAJqChG68) | [i won't run](https://open.spotify.com/album/5MaMrXsh9tYod0w4iAE2jc) | 2:38 | 2021-11-26 | 2022-02-11 |
+| [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-07-07 |  |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-11 | 2022-04-19 |
 | [I'm Better](https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [I'm Better](https://open.spotify.com/album/1sYWSth05IlhsuOSR9SmmE) | 2:41 | 2022-06-10 | 2022-06-25 |
 | [I'm Not A Boy](https://open.spotify.com/track/1RP67chizWCvjmCIBzzsCv) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [I'm Not A Boy](https://open.spotify.com/album/2OMpy04GBRgxTgdJhuXTyk) | 2:37 | 2022-07-29 | 2022-08-13 |
@@ -617,6 +620,7 @@
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-07 | 2022-06-11 |
 | [Medicine \- Edit](https://open.spotify.com/track/5fxjGUTu5OFVb5gJkRnM22) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 3:41 | 2021-11-19 | 2022-02-10 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 |  |
+| [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-07 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2022-01-14 | 2022-06-01 |
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2022-03-04 | 2022-07-07 |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-22 | 2022-07-02 |

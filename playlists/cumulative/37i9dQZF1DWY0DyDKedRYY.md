@@ -4,7 +4,7 @@
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Peso Pluma on the cover.
 
-553 songs - 1 day 4 hr 30 min
+554 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Buen Callo \- En Vivo](https://open.spotify.com/track/1IyDPcSWAjNe06JXqTxpWE) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [De Buen Callo \(En Vivo\)](https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl) | 2:08 | 2023-01-04 | 2023-04-01 |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-05-17 | 2022-06-15 |
 | [Buzzkill](https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Buzzkill](https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo) | 2:54 | 2022-09-06 | 2022-11-15 |
-| [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-27 |  |
+| [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-27 | 2023-07-08 |
 | [Call Of The Unicorn](https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Call Of The Unicorn](https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1) | 3:10 | 2021-12-01 | 2022-04-09 |
 | [cambiarte](https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [cambiarte](https://open.spotify.com/album/0PuUNo37BZ2P0M0ajTo0GG) | 2:43 | 2022-04-08 | 2022-05-18 |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-07-26 | 2022-09-07 |
@@ -280,6 +280,7 @@
 | [La Peli](https://open.spotify.com/track/7w02E3rFXuEZ1kHstJei6w) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [La Peli](https://open.spotify.com/album/4aOadYFXOcFPQByfBdsIny) | 2:22 | 2022-04-08 | 2022-05-18 |
 | [LA VIDA](https://open.spotify.com/track/3mqviLZGmvcW9cIXAPwUBG) | [La Duraca](https://open.spotify.com/artist/51qafD5MEuLHv8NeDiAupX) | [LA VIDA](https://open.spotify.com/album/5gyZsMfwa3bDarJLayommS) | 4:02 | 2022-04-08 | 2022-05-18 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-05-08 |  |
+| [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-07-07 |  |
 | [Lamborghini Geeski](https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lamborghini Geeski](https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU) | 2:51 | 2021-12-01 | 2022-04-09 |
 | [Leave It](https://open.spotify.com/track/3ZvSv0X4OhU5yJPwEtFYR3) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:52 | 2022-07-26 | 2022-09-07 |
 | [Leaves](https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 4:34 | 2023-01-04 | 2023-04-01 |

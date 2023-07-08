@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-93 songs - 5 hr 17 min
+94 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Prodigal Daughter](https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:42 | 2023-04-14 |  |
 | [Real Women Drive Trucks](https://open.spotify.com/track/32oTlq7w9VekLge7IonIW4) | [Casey Henry](https://open.spotify.com/artist/1vYxSBhLyy4ZgYAZhMa7OH) | [Real Women Drive Trucks](https://open.spotify.com/album/1jVkyZ198TAQO3pJelwM8p) | 3:45 | 2023-04-14 |  |
 | [Reedology](https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 4:25 | 2023-04-14 |  |
-| [Ride Away](https://open.spotify.com/track/0BtuV1jppu2onZUkzKFtFk) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ride Away](https://open.spotify.com/album/418T1rZx2tAvzv7g7Zs0z8) | 3:08 | 2023-04-14 |  |
+| [Ride Away](https://open.spotify.com/track/0BtuV1jppu2onZUkzKFtFk) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ride Away](https://open.spotify.com/album/418T1rZx2tAvzv7g7Zs0z8) | 3:08 | 2023-04-14 | 2023-07-08 |
+| [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 | 2023-06-30 |  |
 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 | 2023-04-14 |  |
 | [Ruby, Are You Mad at Your Man?](https://open.spotify.com/track/3g7DfvDfXZ6MffPb9Q6ams) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Leaving Eden](https://open.spotify.com/album/1RGG9MCrdqsaBqvvxiM2Hf) | 3:46 | 2023-04-14 |  |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2023-04-14 |  |

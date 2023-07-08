@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-309 songs - 19 hr 27 min
+311 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,9 @@
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2023-02-12 |
 | [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2022-04-22 |  |
-| [Go Poseidon!](https://open.spotify.com/track/2PNFIfnnavc5BbrwwtfR6l) | [Andy McCutcheon](https://open.spotify.com/artist/1HNLfaKJEfCJHYrgWN3MRQ) | [Go Poseidon!](https://open.spotify.com/album/6rZknVym4R0eJhIVApU0GB) | 7:03 | 2023-04-07 |  |
+| [Go Poseidon!](https://open.spotify.com/track/2PNFIfnnavc5BbrwwtfR6l) | [Andy McCutcheon](https://open.spotify.com/artist/1HNLfaKJEfCJHYrgWN3MRQ) | [Go Poseidon!](https://open.spotify.com/album/6rZknVym4R0eJhIVApU0GB) | 7:03 | 2023-04-07 | 2023-07-08 |
 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 | 2021-12-17 | 2023-02-25 |
-| [Good Thing](https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [Good Thing](https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI) | 4:04 | 2022-09-02 |  |
+| [Good Thing](https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [Good Thing](https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI) | 4:04 | 2022-09-02 | 2023-07-08 |
 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 | 2021-12-17 |  |
 | [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 | 2023-05-26 |  |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-17 | 2023-04-01 |
@@ -132,6 +132,7 @@
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:52 | 2022-05-27 | 2023-02-25 |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 | 2022-06-24 |
+| [I Need a Cigarette](https://open.spotify.com/track/2J6c7nw2laKuGzu8ky4j2i) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [I Need a Cigarette](https://open.spotify.com/album/6Q3NpJI06MuIhYEqp9QEkb) | 3:40 | 2023-07-07 |  |
 | [I Ran Down Every Dream](https://open.spotify.com/track/15kPxt5PPzlo6RtPC82eEV) | [Tommy McLain](https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [I Ran Down Every Dream](https://open.spotify.com/album/2k5iceeyXKhKfsSeH7QkHM) | 3:22 | 2022-04-22 |  |
 | [I Ran Down Every Dream](https://open.spotify.com/track/43UMMNyNRnDao4nqqXz5SL) | [Tommy McLain](https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [I Ran Down Every Dream](https://open.spotify.com/album/62sA97QyEIuDWovqknXQ8J) | 3:22 | 2022-04-22 | 2023-04-30 |
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2023-03-11 |
@@ -168,6 +169,7 @@
 | [Long Black Electric Cadillac](https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:25 | 2021-12-17 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
+| [Lost On Your Time](https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Lost On Your Time](https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8) | 3:53 | 2023-07-07 |  |
 | [Love Again](https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j) | 3:43 | 2022-01-28 | 2023-06-04 |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Love Again](https://open.spotify.com/track/4eqO4esVROJogbHufw59o6) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/1dwdMLgBkMqwaSbYeb2DzL) | 3:43 | 2022-01-28 | 2023-04-30 |

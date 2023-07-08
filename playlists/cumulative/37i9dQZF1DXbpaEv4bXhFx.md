@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-207 songs - 12 hr 40 min
+208 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [LET IT RAIN](https://open.spotify.com/track/6BBBU2oQsKb7TydvGTzjZP) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [2 4 8 2](https://open.spotify.com/album/5EJxhjUavcjZKjhla9agvg) | 3:30 | 2022-06-20 | 2022-06-23 |
 | [Letter](https://open.spotify.com/track/0ITMEO0clDcUSmoYkf2JsI) | [th!nk](https://open.spotify.com/artist/6wkbcJFYb6g2k5nUsyu7t3) | [Letter](https://open.spotify.com/album/2UpSNHpmHjtNVuVVKYfuSF) | 3:46 | 2022-07-22 | 2022-07-28 |
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-06-20 | 2022-07-29 |
+| [Like You Was To Me](https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Perfect Stranger OST Part.3](https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri) | 4:31 | 2023-07-07 |  |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-06-20 | 2022-07-28 |
 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 | 2022-10-09 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-20 | 2022-07-29 |
@@ -147,7 +148,7 @@
 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2022-08-13 |  |
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-06-20 | 2022-08-14 |
-| [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 | 2023-05-02 |  |
+| [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 | 2023-05-02 | 2023-07-08 |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-20 | 2022-07-13 |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-06-20 | 2022-12-03 |
 | [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2022-11-03 |  |

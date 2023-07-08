@@ -2,7 +2,7 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Melly Goeslaw
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rita Tila
 
 73 songs - 4 hr 38 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: bule",
+  "description": "Novidades e destaques do indie nacional. Foto: Luiza Lian",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 188473,
       "name": "A Vista",
       "url": "https://open.spotify.com/track/0u8PfBqEG82KR2IrQtLjEE"
@@ -298,6 +298,24 @@
       "duration_ms": 191570,
       "name": "Agora Eu Preciso Pagar Contas",
       "url": "https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO"
+    },
+    {
+      "album": {
+        "name": "Aim\u00ea",
+        "url": "https://open.spotify.com/album/3ULDlTFQBZv8oOURPQEN4u"
+      },
+      "artists": [
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182874,
+      "name": "Aim\u00ea",
+      "url": "https://open.spotify.com/track/1SUnvJLHXSWDddMUjuVTcE"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 173949,
       "name": "Andar 14",
       "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 247350,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt"
@@ -1825,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "c\u00ea disse que me ama",
+        "url": "https://open.spotify.com/album/4hc5JdVbwXs2cPmYsm2Yz9"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "c\u00ea disse que me ama",
+      "url": "https://open.spotify.com/track/0ES1WHS9pYIAxHtR5EhkV2"
+    },
+    {
+      "album": {
         "name": "C\u00ea me viu ontem",
         "url": "https://open.spotify.com/album/5oVdbLtt5DHqphA3xevV6N"
       },
@@ -2134,7 +2170,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 161319,
       "name": "Disco!",
       "url": "https://open.spotify.com/track/0o93TtbMKfREE0nsW6oWzq"
@@ -2434,7 +2470,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 309906,
       "name": "Errare Humanum Est",
       "url": "https://open.spotify.com/track/2v95wNLuJPSTlA77BzLgf5"
@@ -2656,6 +2692,24 @@
       "duration_ms": 110366,
       "name": "Eu e a Sol",
       "url": "https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF"
+    },
+    {
+      "album": {
+        "name": "Eu Estou Aqui",
+        "url": "https://open.spotify.com/album/56US9CJ5EiV3nW2u9WDGNT"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188937,
+      "name": "Eu Estou Aqui",
+      "url": "https://open.spotify.com/track/6WrbfGs62Y2q2SLmVPKb8H"
     },
     {
       "album": {
@@ -3144,7 +3198,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 202393,
       "name": "Frutas",
       "url": "https://open.spotify.com/track/5X8Mv7ksfj4mEo2yyOwmK6"
@@ -4788,7 +4842,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170788,
       "name": "n\u00e3o mudo por ningu\u00e9m",
       "url": "https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw"
@@ -8070,6 +8124,28 @@
       "duration_ms": 167914,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO"
+    },
+    {
+      "album": {
+        "name": "V\u00edcio",
+        "url": "https://open.spotify.com/album/33eMKXBpDAWV4119EHEMhB"
+      },
+      "artists": [
+        {
+          "name": "Julia Zatt",
+          "url": "https://open.spotify.com/artist/3M3zkhuY3YwUAc5txHHrWX"
+        },
+        {
+          "name": "ZAK BEATZ",
+          "url": "https://open.spotify.com/artist/2QDy52sQIOVW5Zr42lKt9m"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/4veFOEMnC9LVh8kXKHjYDz"
     },
     {
       "album": {

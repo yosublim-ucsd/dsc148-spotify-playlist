@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Mist & M1llionz
 
-1,467 songs - 3 day 3 hr 9 min
+1,468 songs - 3 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,7 +1019,8 @@
 | [Popstar](https://open.spotify.com/track/61a019JxUjpW9ln3EbwQ0W) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Popstar](https://open.spotify.com/album/6hSq44nwWmsvIcu9Twxl7K) | 3:13 | 2022-01-28 | 2022-02-11 |
 | [Popular Loner](https://open.spotify.com/track/5e3E0LdMpP3JgfHJn7NUAc) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Popular Loner](https://open.spotify.com/album/4JNLW3pKcMPAAFjE5afuYI) | 2:26 | 2022-01-07 | 2022-02-25 |
 | [Porsche \(feat\. Headie One\)](https://open.spotify.com/track/5e2A2qCFme2WYD4bB6cpmU) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Quarantime: The Lost Files](https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0) | 2:55 | 2020-05-22\* | 2020-06-19 |
-| [Potential](https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Potential](https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY) | 2:40 | 2023-07-06 |  |
+| [Potential](https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:40 | 2023-07-06 |  |
+| [Potential](https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Potential](https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY) | 2:40 | 2023-07-06 | 2023-07-08 |
 | [Pound Signs](https://open.spotify.com/track/37U6ujT5pW7DYaMVsidIxQ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Pound Signs](https://open.spotify.com/album/7G4eRNZ9UKth2j3WnusN7i) | 3:21 | 2021-06-26 | 2021-10-09 |
 | [Pounds and Dollars](https://open.spotify.com/track/5i1296P4AjoOztZ3X9foTp) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Pounds and Dollars](https://open.spotify.com/album/22kUywUuiAhrmYLSNkbuiP) | 3:30 | 2021-03-14 | 2021-04-26 |
 | [Pour It Up \(feat\. M1llionz\)](https://open.spotify.com/track/21mIuBa7WbUnpV0kDRpiEG) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Street Side Effects](https://open.spotify.com/album/4zjayuvGf7VroC0sqkSPTO) | 3:16 | 2020-11-13 | 2021-02-27 |

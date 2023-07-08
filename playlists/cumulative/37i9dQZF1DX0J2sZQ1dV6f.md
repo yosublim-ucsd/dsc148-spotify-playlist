@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-318 songs - 16 hr 52 min
+319 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [BESTIES](https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-24 | 2023-05-26 |
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-07-27 | 2022-07-29 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2022-04-19 |  |
-| [BIKINI](https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [BIKINI](https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV) | 2:26 | 2023-05-25 |  |
+| [BIKINI](https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [BIKINI](https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV) | 2:26 | 2023-05-25 | 2023-07-08 |
 | [BOLO](https://open.spotify.com/track/2E1QJy5BSlGYjw68puOUEN) | [FENIX](https://open.spotify.com/artist/5rIENGsPQvl5N2QBs2Jkc1), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Ricky Blanco](https://open.spotify.com/artist/1opTHYMTFaZzyLYqKCAJTl) | [BOLO](https://open.spotify.com/album/5SjCudGuDMqhxBoiLUg6o0) | 2:20 | 2022-10-14 | 2023-02-25 |
 | [Bombero](https://open.spotify.com/track/0wGUCDSRabJuQa01Hoo0tD) | [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bombero](https://open.spotify.com/album/1QX5SucGWKS4RF2UhdNaC9) | 2:06 | 2022-07-08 | 2023-01-28 |
 | [BOY TOY](https://open.spotify.com/track/4sfiPyEjbUip1wR4wWZcP6) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [BOY TOY](https://open.spotify.com/album/7m0EBWf9PUkwYR4LP9fGdQ) | 2:16 | 2022-03-21 | 2022-04-20 |
@@ -56,6 +56,7 @@
 | [Chulo](https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Chulo](https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ) | 2:00 | 2023-05-25 |  |
 | [Chupable](https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chikybombom La Pantera](https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chupable](https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb) | 2:57 | 2022-03-21 | 2022-07-09 |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-05-25 |  |
+| [CLI CLAN \- \(Remix\)](https://open.spotify.com/track/7MAa9K8YxffUkgfjyhzIm1) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [CLI CLAN \(Remix\)](https://open.spotify.com/album/2qphmXHClkEDvj4OIuMUiZ) | 3:22 | 2023-07-07 |  |
 | [Clito \(feat\. Lenny Tavárez, Dalex & Brray\)](https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:25 | 2022-09-16 | 2022-10-15 |
 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 | 2022-03-21 | 2022-07-09 |
 | [COMO EH](https://open.spotify.com/track/6PNrKqzxvVRvdLRU88t5xk) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [COMO EH](https://open.spotify.com/album/3kHo1dk5VeAODMjjGsrdB7) | 2:46 | 2022-03-21 | 2022-07-09 |

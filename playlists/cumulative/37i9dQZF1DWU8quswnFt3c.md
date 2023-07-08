@@ -2,7 +2,7 @@
 
 ### [EQUAL Global](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women from all over the world, at full volume\. Cover: My CLAUDIA
+> Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
 1,320 songs - 3 day 0 hr 46 min
 
@@ -66,7 +66,7 @@
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2023-01-04 | 2023-02-02 |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-05-04 | 2022-06-01 |
 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 | 2022-10-04 | 2022-11-03 |
-| [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 | 2023-07-05 |  |
+| [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 | 2023-07-05 | 2023-07-08 |
 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-07-05 |  |
 | [Are You Okay?](https://open.spotify.com/track/3PUaD0ghcL0160tlyDYlCg) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 4:05 | 2021-12-11 | 2022-01-06 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-07-05 |  |
@@ -396,7 +396,7 @@
 | [Furiosa](https://open.spotify.com/track/6NTcvSG2Kjz23QoJtaqgmN) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Furiosa](https://open.spotify.com/album/4lPUATsky4Q3HlJn7LnJZs) | 2:33 | 2022-09-07 | 2022-10-05 |
 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 | 2023-02-15 | 2023-03-02 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-07-06 | 2022-08-04 |
-| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 | 2023-07-07 |
+| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 |  |
 | [Garçon manqué](https://open.spotify.com/track/6XXXWiYJTPPVHxHewxGeY5) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 3:31 | 2022-02-02 | 2022-03-09 |
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-01 | 2022-07-07 |
 | [Gazoza](https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Gazoza](https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h) | 3:45 | 2023-01-04 | 2023-04-06 |

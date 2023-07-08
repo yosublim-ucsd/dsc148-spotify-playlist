@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: BIOS \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,643 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,644 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 19 | [Co było w snach](https://open.spotify.com/track/34BZf3YeqCrZdesFubyXa4) | [Tacher](https://open.spotify.com/artist/7xWCIAn5tIZvpQS7hrGfqJ) | [Co było w snach](https://open.spotify.com/album/2I7gZgSMTTyiibi0IErfEH) | 4:27 |
 | 20 | [Jestem Twoim wrogiem](https://open.spotify.com/track/6DZYQsWUAXxu4kk2nfaWbP) | [Łukasz Gluza](https://open.spotify.com/artist/3KZlDqiue4hns0aV9Eg1CD) | [Jestem Twoim wrogiem](https://open.spotify.com/album/7i0GjBK5DtRywAZ6PLbRDO) | 3:00 |
 | 21 | [Jeśli chcesz to mnie zaproś](https://open.spotify.com/track/6QyEjxOD2oH78opHarZ97P) | [dersky](https://open.spotify.com/artist/6dVASDR9mP4EYERipP6cWW) | [Jeśli chcesz to mnie zaproś](https://open.spotify.com/album/2o2QWFexHl3VWnOK6MOiDU) | 2:17 |
-| 22 | [Las](https://open.spotify.com/track/03qd2tF1KgT8hgCt12OBsM) | [Unnoticed Guest](https://open.spotify.com/artist/5X0Zk73BWeYdCK3WJfnqDg), [Karolina Kozar](https://open.spotify.com/artist/1WpN0DlcfGwHP6mAesRI7W), [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Las](https://open.spotify.com/album/4PeY8dybpyv14unZs1VSW5) | 3:08 |
+| 22 | [Las](https://open.spotify.com/track/03qd2tF1KgT8hgCt12OBsM) | [Unnoticed Guest](https://open.spotify.com/artist/5X0Zk73BWeYdCK3WJfnqDg), [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan), [Karolina Kozar](https://open.spotify.com/artist/1WpN0DlcfGwHP6mAesRI7W) | [Las](https://open.spotify.com/album/4PeY8dybpyv14unZs1VSW5) | 3:08 |
 | 23 | [Patrz!](https://open.spotify.com/track/6Pa6V0azSo3rGftOGjGBNG) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Patrz!](https://open.spotify.com/album/0zrLLmeCZhnrZSlzbAqnOV) | 3:28 |
 | 24 | [Face ID](https://open.spotify.com/track/4Ek5n4nsvtHvaakygWe0rL) | [Hudini](https://open.spotify.com/artist/6cm2KusQa8iwafbDcHeEZz) | [Face ID](https://open.spotify.com/album/4ASyB4ZwWIhbHpEmvT9AAR) | 2:47 |
 | 25 | [Something Indefinitely Good](https://open.spotify.com/track/6vCZiObf6egbgKjLJBSQM8) | [Happy Pills](https://open.spotify.com/artist/7nvAamPGscEhAUBOEXhqe9) | [Something Indefinitely Good](https://open.spotify.com/album/4bzqdfp4K1KOcazzr7LrMT) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [NO LOVE](https://open.spotify.com/track/4zeyfZiqKVOBwmQbYhBaOO) | [The Bullseyes](https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f) | [NO LOVE](https://open.spotify.com/album/13viE1DX3zkD2LFBDa4TGV) | 2:28 |
 | 100 | [Rozbitek](https://open.spotify.com/track/0zikAPODAQuKMYsQ4unaNz) | [Lochy I Smoki](https://open.spotify.com/artist/6SGL2glOJ2tDR1gs6Xrdru) | [Powiedz, że wystarczam](https://open.spotify.com/album/0PefBnEhr7G8tyKA1R3i0B) | 3:22 |
 
-Snapshot ID: `MCxjMjY2Mjk5ZTNiZWNhOGJjZDBmODU1NDJkYTllMmNkOWRhOTkyNDBj`
+Snapshot ID: `MCw4M2QxMTNhYTQwZmQ2NWRiNTgxNWZlOTE1ZjU1NGNhY2E4NjNkYTI5`

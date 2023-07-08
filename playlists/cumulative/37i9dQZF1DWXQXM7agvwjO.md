@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Gordon Flanders, 鶴 The Crane
 
-853 songs - 2 day 3 hr 8 min
+854 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Fernweh \- Live](https://open.spotify.com/track/5KuGDy6XfdlqNNIQ3Ad7X2) | [Wake up, Iris !](https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1) | [Live at Wedding Concert](https://open.spotify.com/album/65wUHq01WHP7qO0ZRTvrpA) | 5:32 | 2022-08-18 | 2022-08-26 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-23 | 2023-05-19 |
 | [Fire Wind Wheel](https://open.spotify.com/track/0RcO8NZgpXa2Kh21eSgHpf) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Tao Fire 道火](https://open.spotify.com/album/4seJp56F0oEF4QHcREZGtl) | 3:54 | 2023-06-29 | 2023-07-07 |
-| [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [鶴 The Crane](https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-06 |  |
+| [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-06 |  |
 | [Fish in a Can \- feat\. Oscar Lolang](https://open.spotify.com/track/2tWeWrvsVB7sK9KopCcpwE) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh), [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ) | [Fish in a Can \(feat\. Oscar Lolang\)](https://open.spotify.com/album/3F1aLofaKvFzU3u91tmKwF) | 4:00 | 2023-01-19 | 2023-02-03 |
 | [Florida Sunset Motel](https://open.spotify.com/track/5zd7EY6ueuuQ83SAYNJBdo) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO), [Katie Glasgow](https://open.spotify.com/artist/7aYZm7onOdAyYbrVwHD6SR) | [Florida Sunset Motel](https://open.spotify.com/album/2rd9Iuzm7fbQ1o4VCpm4gl) | 3:28 | 2022-11-17 | 2023-01-27 |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-24 | 2022-04-15 |
@@ -750,7 +750,8 @@
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-03-31 | 2022-05-07 |
 | [Why Say Why](https://open.spotify.com/track/7rVCdOGWg1tEZylPxAUEXN) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/63pRwAidDd1EtsJimLsWlz) | 3:04 | 2022-03-31 | 2022-05-07 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-08-25 | 2023-05-12 |
-| [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-08 |  |
+| [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-08 | 2023-07-08 |
+| [WINDY SUMMER \- Cover](https://open.spotify.com/track/6fekvsa1wJ2vUokdemZHDd) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [HONEY meets ISLAND CAFE \- Sea of Love 8\- Collaboration with SHONAN by the Sea](https://open.spotify.com/album/2rIlcICz28RnLRVWH3oXqn) | 3:33 | 2023-07-06 |  |
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2023-04-20 |  |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-16 | 2022-07-22 |
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-09-22 | 2022-11-11 |

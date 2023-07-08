@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/5WNZrufN9IiYYtaI7JExmu"
+      },
+      "artists": [
+        {
+          "name": "Eddie Flint",
+          "url": "https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187159,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/3gM04ju6IpdlcAOFhHYYdJ"
+    },
+    {
+      "album": {
         "name": "Poor Lost Souls",
         "url": "https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK"
       },

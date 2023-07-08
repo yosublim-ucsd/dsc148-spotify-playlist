@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,574 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,700 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Come Home Soon](https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 2:43 |
 | 100 | [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 |
 
-Snapshot ID: `MCw1ZmQyZDBkYzY5ZTJmN2IzMDAzYThhM2MyNjliMDU5MmJhNjNlNjBm`
+Snapshot ID: `MCw0OGQ2N2IxNDIxZTRmN2YxMzc5OGRmMTRlMGVjMzRiNGQyOTc1OTZj`

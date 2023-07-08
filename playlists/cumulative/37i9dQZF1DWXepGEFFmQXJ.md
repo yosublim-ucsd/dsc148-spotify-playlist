@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Brooke McClymont & Adam Eckersley
 
-394 songs - 21 hr 34 min
+395 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Nothing Like Me](https://open.spotify.com/track/5YlyQIOBHGbcd2QTf1bWkD) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Nothing Like Me](https://open.spotify.com/album/5NkZwtpPJD3y2oGPLCZqV9) | 3:26 | 2022-11-24 | 2023-03-18 |
 | [Now She Ain't](https://open.spotify.com/track/5uWiBMDjI0vnmVOuTFhwFf) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 2:55 | 2023-04-13 |  |
 | [Old Skoolin'](https://open.spotify.com/track/2ucaoYoZxD8wrsAHofdEe1) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Old Skoolin'](https://open.spotify.com/album/4uCXNTXiYLHq5fAptVf08p) | 2:41 | 2023-01-19 | 2023-05-19 |
-| [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-16 |  |
+| [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-16 | 2023-07-08 |
+| [On My Own Again](https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 2:58 | 2023-07-06 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-30 | 2022-04-01 |
 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 | 2023-02-10 |
 | [Only You](https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:05 | 2021-12-30 | 2022-03-18 |

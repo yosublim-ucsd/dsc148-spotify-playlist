@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,904 likes - 250 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659 likes - 250 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 |
 | 250 | [Seaside](https://open.spotify.com/track/0puUf8o9DMPD3ew6cX7UZt) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:26 |
 
-Snapshot ID: `MCxmOTI1MjQ3YzdjMmVkMWVlNjM3ZGQxZTRiZDhmODg5YjY0YWJlNzE5`
+Snapshot ID: `MCxiMjBjZjQwODYzMzFiNWY5NmUyNDk1OTYyYjJjNmY4ODk4ZWY4MThj`

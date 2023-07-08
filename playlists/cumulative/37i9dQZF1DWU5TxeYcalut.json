@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Rioja",
+        "url": "https://open.spotify.com/album/4EGJWju5MvV3Wtoaj1fThC"
+      },
+      "artists": [
+        {
+          "name": "Angel Ruediger",
+          "url": "https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118883,
+      "name": "Chablis",
+      "url": "https://open.spotify.com/track/5dbtSvnRtBa4eSzm4hqVD1"
+    },
+    {
+      "album": {
         "name": "Cinepoesia: Samba do \u00c1rvore",
         "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 273388,
       "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX"
@@ -1087,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "album": {
         "name": "IBC",
         "url": "https://open.spotify.com/album/1NRlLPsK07v1psS7dB4ZjH"
       },
@@ -1118,7 +1154,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 283200,
       "name": "IBC",
       "url": "https://open.spotify.com/track/3qdV4ZMnD4AKiyD7JC4kDc"

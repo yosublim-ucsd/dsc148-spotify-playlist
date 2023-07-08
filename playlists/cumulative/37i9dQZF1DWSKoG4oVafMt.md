@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-761 songs - 1 day 17 hr 21 min
+763 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [Raatan Teriyan](https://open.spotify.com/track/5zYQ1uyhtDR64cJXX8iElB) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Pragati](https://open.spotify.com/artist/0DbVzPStkbvSMq7LQCHdUQ) | [Raatan Teriyan](https://open.spotify.com/album/2NsZM8ZbWRuA6MOSWdx6UW) | 3:13 | 2022-01-19 | 2022-02-01 |
 | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/track/0cxdYx46DmEPcULjPEDyQQ) | [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/album/5WgdYtGjAMrhowUK3nr0BC) | 3:16 | 2022-06-16 | 2022-07-06 |
 | [Rab Di Sau](https://open.spotify.com/track/03PqUYFXHfXqkH4rNCYZz6) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF) | [Rab Di Sau](https://open.spotify.com/album/16DnSa5RKq5mr8QHBqLqsm) | 3:40 | 2022-02-18 | 2022-04-06 |
-| [Rabb](https://open.spotify.com/track/4ma0IT1ooa3HcH0KU7AF6L) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:24 | 2023-06-29 |  |
+| [Rabb](https://open.spotify.com/track/4ma0IT1ooa3HcH0KU7AF6L) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [MXRCI](https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:24 | 2023-06-29 |  |
 | [Rabb Karke](https://open.spotify.com/track/732kphYlO47LBXbemJlTlv) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Rabb Karke](https://open.spotify.com/album/4QxBRSf1zzIfMqClzt2Bqj) | 3:41 | 2022-04-25 | 2022-05-11 |
 | [Rabb Lagda](https://open.spotify.com/track/08VrJGA7t2dmth9oP8D3g8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT) | [Rabb Lagda](https://open.spotify.com/album/1QffzMgmVdIEQpjVGxhY0Z) | 3:31 | 2022-05-10 | 2022-05-20 |
 | [Rabba Kyun](https://open.spotify.com/track/27ffhH14QEiGyuqY9BJAzM) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4) | [Rabba Kyun](https://open.spotify.com/album/3dCwIeIdC2nQNXpGOgZgw0) | 3:16 | 2022-05-09 | 2022-05-20 |
@@ -559,6 +559,7 @@
 | [Raula](https://open.spotify.com/track/2ouoRxZfarixkj8X1cbn3f) | [Mansimran Sandhu](https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn) | [Raula](https://open.spotify.com/album/7eVn5dhmsfTvvZKrKSJQA1) | 2:51 | 2022-02-04 | 2022-02-12 |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2021-12-02 | 2022-04-06 |
 | [Reborn Heer](https://open.spotify.com/track/6CFz2B5aYYEhlzUuAyDAix) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Reborn Heer](https://open.spotify.com/album/7wjT78yuSQw2oIxupfA5Rr) | 2:52 | 2022-07-11 | 2022-08-18 |
+| [Reejha](https://open.spotify.com/track/0L9kKHbCCYPcKb2ExdALHC) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Deewana 2](https://open.spotify.com/album/6FRCVjTaqjmFQUp4pecgS3) | 2:55 | 2023-07-07 |  |
 | [Reh Ni Hunda](https://open.spotify.com/track/2kKt7xkWtHAOAPKtim6eQG) | [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Reh Ni Hunda](https://open.spotify.com/album/2fmtzmBdtOzhTppeg2ruQs) | 3:24 | 2022-05-20 | 2022-07-06 |
 | [Retirement](https://open.spotify.com/track/6PYte1lHTd5htEKOnoghqi) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8) | [Retirement](https://open.spotify.com/album/7o7hQLjlrtf6NaWvgvThgJ) | 2:37 | 2023-01-18 | 2023-01-28 |
 | [Right Left](https://open.spotify.com/track/3NRQrlGGoeTvCTrV7cpQq4) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Right Left](https://open.spotify.com/album/22Ldpb0mavJumq7gLpYKkK) | 3:05 | 2022-08-04 | 2022-08-18 |
@@ -689,6 +690,7 @@
 | [Tere Supne](https://open.spotify.com/track/6ey1jPdZnZ44rAvDlxCbyI) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP) | [Tere Supne](https://open.spotify.com/album/2pAstXpLBnLSGQnhPAQ7VH) | 3:06 | 2022-07-29 | 2022-08-18 |
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2022-11-07 | 2022-12-16 |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
+| [Teri Main Hogayi \- From Tufang](https://open.spotify.com/track/34RZB1JvacxRuV8SY6zYbK) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Teri Main Hogayi \(From Tufang\)](https://open.spotify.com/album/1jsYMVjnjTuMoWqM7d2VNa) | 3:26 | 2023-07-07 |  |
 | [Teri Meri Gal](https://open.spotify.com/track/5xDHYn57Qo3DQL0kWYguil) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Teri Meri Gal](https://open.spotify.com/album/7cS93JAZcki9VeUz4udf1u) | 2:53 | 2022-12-05 | 2023-01-28 |
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-07-29 | 2022-08-18 |
 | [Teri Sardarni](https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n) | [Teri Sardarni](https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG) | 3:47 | 2021-12-02 | 2022-02-01 |

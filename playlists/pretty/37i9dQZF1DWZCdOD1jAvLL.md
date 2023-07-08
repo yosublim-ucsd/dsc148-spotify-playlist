@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,401 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,534 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 124 | [Bring It Back](https://open.spotify.com/track/1ghkYGLrfh3tBIqLs9npGn) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Bring It Back](https://open.spotify.com/album/7fZxEMpbSPrkb0gsJ8swk9) | 3:00 |
 | 125 | [Headphones \- DLMT Remix](https://open.spotify.com/track/2VxT9ExMqzxqXTbWw6aUG3) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/1L9PPBhoNv4VdKrXSzVuWD) | 2:37 |
 
-Snapshot ID: `MCxkNDg1Y2I0YTQ0YjBjMzZlMzVmZjEzNjUxY2E4ZDEzNDVhOGVmZmYx`
+Snapshot ID: `MCwzZjUxMjQxMzgxZjZlNzE1MzY3OTRiZTdjZmU1ZGJkNDI1N2M3YmRk`

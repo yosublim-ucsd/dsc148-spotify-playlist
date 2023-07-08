@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,444 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,480 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 8 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 |
 | 9 | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/track/2FxjU8KBwkhd8cUq8As0aB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/album/5UXscuxjTNROjxeBD0yhrm) | 2:17 |
 | 10 | [CLOUT CHASE \(feat\. DaBaby\)](https://open.spotify.com/track/1rNJ4bEN1Tad000pRt8XJS) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:38 |
-| 11 | [Dropped The Lo](https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Dropped The Lo](https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh) | 2:41 |
+| 11 | [Dropped The Lo](https://open.spotify.com/track/78JaKnC6wjdRlhxzN3tWSF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:41 |
 | 12 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
 | 13 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 |
 | 14 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 55 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 |
 | 56 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 |
 
-Snapshot ID: `MCxmMzM5OTIzODdhNjI3MDc1OWI5Mzc2YTdmNmU3NmMwMzdjYTFhODY5`
+Snapshot ID: `MCw3YWQ3YWRmNTI1NzFmNTA2ZDg4MDc2ZDhjMDk5ZTRmMzgzNmVmMGJj`

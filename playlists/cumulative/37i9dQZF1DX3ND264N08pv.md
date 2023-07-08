@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-169 songs - 9 hr 41 min
+170 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 |  |
 | [Battle Tonight](https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Battle Tonight](https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ) | 4:08 | 2022-12-08 | 2023-06-02 |
 | [Be The Light](https://open.spotify.com/track/3WaMpSz8UDnFIoDgtehaR4) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Be The Light](https://open.spotify.com/album/0hJkfPlK8XUaIPHchvZDB9) | 3:15 | 2022-12-08 | 2022-12-13 |
+| [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 | 2023-07-07 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-06 | 2023-04-28 |
 | [Beat My Drum](https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Beat My Drum](https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq) | 3:22 | 2022-12-08 |  |
 | [Beyond Imagination \- Element Remix](https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU) | [The Purge Remix EP](https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY) | 3:48 | 2022-12-08 | 2023-04-14 |
@@ -109,7 +110,7 @@
 | [Mythology of Hardcore \- Official Masters of Hardcore Russia 2022 Anthem](https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Mythology of Hardcore \(Official Masters of Hardcore Russia 2022 Anthem\)](https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J) | 4:55 | 2022-12-08 |  |
 | [NARKOS](https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [NARKOS](https://open.spotify.com/album/77Nlgy3Pbxf3CdSlcwyOas) | 3:31 | 2022-12-08 | 2023-03-07 |
 | [Never Fall](https://open.spotify.com/track/4TQ7Lj196gFcYG5yUsE8Cx) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Never Fall](https://open.spotify.com/album/1Pan5l4Z1LKXbpRJT21I84) | 3:22 | 2023-06-22 |  |
-| [Never Write](https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn) | [Basspunkz](https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Never Write](https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo) | 3:06 | 2023-03-23 |  |
+| [Never Write](https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn) | [Basspunkz](https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Never Write](https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo) | 3:06 | 2023-03-23 | 2023-07-08 |
 | [No Matter](https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [No Matter](https://open.spotify.com/album/3HRodgTtyTaMaXqMFIKWsh) | 3:47 | 2022-12-08 | 2023-03-10 |
 | [NO MONEY](https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [NO MONEY](https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm) | 3:21 | 2022-12-08 | 2023-03-07 |
 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |

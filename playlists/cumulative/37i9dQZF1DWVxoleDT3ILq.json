@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 221537,
       "name": "As\u00ed Te Soy",
       "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
@@ -1741,6 +1741,28 @@
     },
     {
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Martin Berrios",
+          "url": "https://open.spotify.com/artist/56BZ0odGTZKUHSfct4pVFC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277942,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi"
+    },
+    {
+      "album": {
         "name": "Hits para Morir",
         "url": "https://open.spotify.com/album/3UfoBjgBDZo3NQSLWKVLzg"
       },
@@ -2384,6 +2406,24 @@
       "duration_ms": 247457,
       "name": "Eufrasia en el Desierto",
       "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
+    },
+    {
+      "album": {
+        "name": "Eufrasia en el Desierto (Demo)",
+        "url": "https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul"
+      },
+      "artists": [
+        {
+          "name": "PASKURANA",
+          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Eufrasia en el Desierto - Demo",
+      "url": "https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2"
     },
     {
       "album": {
@@ -5636,7 +5676,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 206700,
       "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"

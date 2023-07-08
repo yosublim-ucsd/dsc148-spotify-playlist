@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,206 likes - 200 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,226 likes - 200 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [Have A Heart](https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Boss Man](https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK) | 3:10 |
 | 200 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 |
 
-Snapshot ID: `MCwwYmE4YWMxNjQ2NDhkZTE5ZDU4ZjA3NjcxYzdlNjYwYTQ4MDJiNzI4`
+Snapshot ID: `MCxlMjNlMzg5MTVlMjZmNGU3MTZiZjdkY2I0Y2Q3ZWRiMTVjYzU2MmRk`

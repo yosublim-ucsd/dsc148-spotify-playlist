@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Jordan Hawkins\. Updates every Wednesday.
 
-1,465 songs - 3 day 3 hr 36 min
+1,466 songs - 3 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1334,7 +1334,8 @@
 | [Trip](https://open.spotify.com/track/47gtpP2UeCTvGy17LxnCer) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Moon in Pisces](https://open.spotify.com/album/2dqSwIbWxvfCk3QEwXheuV) | 3:28 | 2022-11-30 | 2023-01-12 |
 | [Trouble](https://open.spotify.com/track/4OeLGihd8NHPmKTZjNIBqB) | [Michael J Woodard](https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e) | [Trouble](https://open.spotify.com/album/19Kafj3I0EHXP7QXWeYnkO) | 2:10 | 2023-04-26 |  |
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-12 |  |
-| [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-02 |  |
+| [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-02 | 2023-07-08 |
+| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-02 |  |
 | [Trust](https://open.spotify.com/track/72tjVQ9uqhYqpcKgwd4z9V) | [Hilåry](https://open.spotify.com/artist/4eB5F8yOKRvut3FvuOOmsg) | [Yours Truly](https://open.spotify.com/album/7dkCjigakY1HcOiSDQfYcn) | 3:46 | 2022-09-02 | 2023-01-12 |
 | [Try Me](https://open.spotify.com/track/6x1n3dgr2OXpffuK3YOARN) | [Sanura](https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL) | [Try Me](https://open.spotify.com/album/4QDRe76Y8CnoXMWcAESIcL) | 2:31 | 2023-04-29 |  |
 | [tryin'](https://open.spotify.com/track/6duHdmejOzmN50yAyov3me) | [Hydra](https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY) | [karma/tryin'](https://open.spotify.com/album/7MIw0DITwU9Hdw1d8EMFGn) | 2:59 | 2022-04-13 | 2023-01-19 |

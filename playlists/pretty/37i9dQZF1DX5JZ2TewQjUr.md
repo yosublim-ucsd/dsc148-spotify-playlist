@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lydia Pau
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,634 likes - 185 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,635 likes - 185 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [鶴 The Crane](https://open.spotify.com/artist/3SXtzyt0uz5BQhmVGbWTr6) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
+| 1 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
 | 2 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 | 3 | [二泊三日](https://open.spotify.com/track/1znnzG14xxoMvHYHvMyypO) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [二泊三日](https://open.spotify.com/album/5ClMZZvNhlXfDSrBMXpiYR) | 3:12 |
 | 4 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 184 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 185 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCw5MWJkYTIxN2MwOGY2MDc5OTk3NWJjMGZkMjdmNDJlNTYzYTJkOTAw`
+Snapshot ID: `MCxmMzI4NGE1YjZkZTk1ZGFkNTJlMGNjYWVkZTE4MDg3MjkxMTJiMjkw`

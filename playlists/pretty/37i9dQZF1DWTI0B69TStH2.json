@@ -1,12 +1,12 @@
 {
   "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: BIOS | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
-  "num_followers": 16643,
+  "num_followers": 16644,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjY2Mjk5ZTNiZWNhOGJjZDBmODU1NDJkYTllMmNkOWRhOTkyNDBj",
+  "snapshot_id": "MCw4M2QxMTNhYTQwZmQ2NWRiNTgxNWZlOTE1ZjU1NGNhY2E4NjNkYTI5",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -368,12 +368,12 @@
           "url": "https://open.spotify.com/artist/5X0Zk73BWeYdCK3WJfnqDg"
         },
         {
-          "name": "Karolina Kozar",
-          "url": "https://open.spotify.com/artist/1WpN0DlcfGwHP6mAesRI7W"
-        },
-        {
           "name": "Sophie Szklarska",
           "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+        },
+        {
+          "name": "Karolina Kozar",
+          "url": "https://open.spotify.com/artist/1WpN0DlcfGwHP6mAesRI7W"
         }
       ],
       "duration_ms": 188000,

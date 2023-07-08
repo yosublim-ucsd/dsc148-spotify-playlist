@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/319942?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-2,114 songs - 5 day 8 hr 6 min
+2,115 songs - 5 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [9th](https://open.spotify.com/track/6vlEAbVpxnloVwZ4BxOlb7) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [delmontestudio](https://open.spotify.com/artist/54IHHNshCadZuXLStuo6N9) | [STARDUST](https://open.spotify.com/album/5a5TBHVirIyefdIKHnyEwU) | 2:06 | 2023-05-02 | 2023-05-04 |
 | [a \(hey\)](https://open.spotify.com/track/1sGH32pmXnEhI5myHYhYi1) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [a \(hey\)](https://open.spotify.com/album/2SwEji0M37BGWE7nDKMUOG) | 3:09 | 2023-05-24 | 2023-05-31 |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-31 | 2023-06-07 |
-| [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-07-04 |  |
+| [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-07-04 | 2023-07-08 |
+| [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 | 2023-07-05 |  |
 | [A Phenomenal Man](https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [A Phenomenal Man](https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99) | 3:00 | 2023-04-19 | 2023-04-26 |
 | [A Roller Skating Tour](https://open.spotify.com/track/0Wm2IxOesidzdRhxOZdZHa) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [A Roller Skating Tour](https://open.spotify.com/album/6eAjrTTsZ2PY0cQawXNoVs) | 4:35 | 2023-04-19 | 2023-04-26 |
 | [A Roller Skating Tour](https://open.spotify.com/track/46fnr7t24SMiZ1wOdEblMz) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [A Roller Skating Tour](https://open.spotify.com/album/40nhVsHi8moPhSFUL5rGmo) | 4:35 | 2023-04-18 | 2023-04-20 |
@@ -1989,7 +1990,7 @@
 | [火遊び](https://open.spotify.com/track/5z04OSKrmIakufm8vEMlQl) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [火遊び](https://open.spotify.com/album/5MnxhgDndyzTbMUif8ou7a) | 3:39 | 2023-03-29 | 2023-04-05 |
 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 | 2023-03-07 | 2023-03-15 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 | 2023-02-08 |
-| [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2023-07-04 |  |
+| [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2023-07-04 |  |
 | [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 | 2023-06-10 |
 | [無添加](https://open.spotify.com/track/6XjFPsbkATcM5XQP13WPMv) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [無添加](https://open.spotify.com/album/0BHc0krSxXLBO1LDLvuPs0) | 5:20 | 2023-05-16 | 2023-05-24 |
 | [無限 LOOP](https://open.spotify.com/track/0ydnroBWtgH9gswTVmqGxt) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [無限 LOOP](https://open.spotify.com/album/6zu6PJ0tNLAXN5So6vJuLS) | 4:17 | 2023-03-21 | 2023-03-23 |

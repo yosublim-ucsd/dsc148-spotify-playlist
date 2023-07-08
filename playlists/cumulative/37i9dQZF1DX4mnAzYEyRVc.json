@@ -185,6 +185,32 @@
     },
     {
       "album": {
+        "name": "A Message to You Rudy (feat.Emi)",
+        "url": "https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "Emi",
+          "url": "https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252425,
+      "name": "A Message to You Rudy (feat.Emi)",
+      "url": "https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse"
+    },
+    {
+      "album": {
         "name": "The Best Of The Specials",
         "url": "https://open.spotify.com/album/6rrLvfVJh2GoIY36EphGSo"
       },
@@ -254,7 +280,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 123946,
       "name": "A Mis Amigos",
       "url": "https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm"
@@ -1008,7 +1034,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
@@ -5070,7 +5096,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 183800,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB"
@@ -7152,6 +7178,28 @@
       "duration_ms": 211879,
       "name": "Siempre en Vano Fue",
       "url": "https://open.spotify.com/track/1adUH1wDk9Fv5CqsstWW34"
+    },
+    {
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "album": {
@@ -9282,6 +9330,24 @@
       "duration_ms": 258321,
       "name": "We're All Fruit Salad!",
       "url": "https://open.spotify.com/track/3n78qHQ2OVUU5ywVHJjysb"
+    },
+    {
+      "album": {
+        "name": "Unsubscribe",
+        "url": "https://open.spotify.com/album/1M96XanWYvRz20iAaUjM4T"
+      },
+      "artists": [
+        {
+          "name": "Ed Rome",
+          "url": "https://open.spotify.com/artist/7LAxQmb2x5ZXVLn0pEbPH4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165999,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/0eBGdQjZW6uP9WfGYutw2S"
     },
     {
       "album": {

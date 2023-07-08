@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-396 songs - 1 day 10 hr 57 min
+397 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 |  |
 | [Boats](https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Boats](https://open.spotify.com/album/13zXBB7vZeWSmDvLOYjqQd) | 5:49 | 2021-12-08 | 2022-10-07 |
 | [Boats](https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 5:49 | 2022-05-03 |  |
-| [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 |  |
+| [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 | 2023-07-08 |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 |  |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-09 |  |
 | [Break Silent](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Break Silent](https://open.spotify.com/album/5iXJeKdUJZwPFyJ1LfmYyf) | 4:39 | 2022-10-28 |  |
@@ -387,6 +387,7 @@
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 |  |
 | [When the Lights Are Out \- Late Night Mix](https://open.spotify.com/track/6skTPlJtkpqN7mM95QfsUD) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:18 | 2021-12-08 |  |
+| [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 | 2023-07-07 |  |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2021-12-08 |  |
 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 | 2023-05-06 |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-05-12 |  |

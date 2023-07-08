@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-213 songs - 11 hr 15 min
+214 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,9 +81,10 @@
 | [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
+| [january](https://open.spotify.com/track/0P54f5kEDE7dpqgE0VARhL) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [july](https://open.spotify.com/album/1qdyW78nO5jD8U4ecLYBJ2) | 5:05 | 2023-06-30 |  |
 | [january](https://open.spotify.com/track/2YNDyBG7HzSwz38KYaE97J) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [april](https://open.spotify.com/album/13TLAy8ASNcpRwxbSjzwCc) | 5:05 | 2023-04-06 | 2023-05-04 |
 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 | 2023-01-06 | 2023-04-01 |
-| [january](https://open.spotify.com/track/3gaklxqbiGCzd5KGsgDGWE) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [june](https://open.spotify.com/album/3kNdTr0IqphjVaVthCDxSU) | 5:05 | 2023-06-16 |  |
+| [january](https://open.spotify.com/track/3gaklxqbiGCzd5KGsgDGWE) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [june](https://open.spotify.com/album/3kNdTr0IqphjVaVthCDxSU) | 5:05 | 2023-06-16 | 2023-07-08 |
 | [january](https://open.spotify.com/track/4SWK9ci2J6LOhVVkwM3XD0) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [march](https://open.spotify.com/album/1QatPz60thJwBAUGMgZlQV) | 5:05 | 2023-03-31 | 2023-04-07 |
 | [january](https://open.spotify.com/track/6MGqNuoVTYl4LfuhCTCg0S) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [may](https://open.spotify.com/album/26CRNQIefnR8zIAR9aQKWw) | 5:05 | 2023-04-28 | 2023-06-18 |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |

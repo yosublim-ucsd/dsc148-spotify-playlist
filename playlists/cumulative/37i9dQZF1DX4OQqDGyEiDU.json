@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Iria",
+        "url": "https://open.spotify.com/album/6cWPUrFmaXLUwHs9h509ww"
+      },
+      "artists": [
+        {
+          "name": "nulut",
+          "url": "https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157249,
+      "name": "Iria",
+      "url": "https://open.spotify.com/track/5dzjLYKpR8NzKVAyJY4FRZ"
+    },
+    {
+      "album": {
         "name": "I\u3086\u3048\u306b",
         "url": "https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo"
       },
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 157249,
       "name": "\u30a4\u30ea\u30a2",
       "url": "https://open.spotify.com/track/51qRTszFLIUGU2pBrQsH6b"
@@ -5834,10 +5852,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 189884,
       "name": "\u30d5\u30a9\u30cb\u30a4",
       "url": "https://open.spotify.com/track/5pBIavXhjzTi0u7pkOK71N"
+    },
+    {
+      "album": {
+        "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR"
+      },
+      "artists": [
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "\u30c4\u30df\u30ad",
+          "url": "https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189884,
+      "name": "\u30d5\u30a9\u30cb\u30a4",
+      "url": "https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2"
     },
     {
       "album": {

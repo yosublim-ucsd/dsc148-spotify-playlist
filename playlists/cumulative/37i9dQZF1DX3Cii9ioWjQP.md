@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-145 songs - 10 hr 30 min
+146 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 |  |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 |  |
 | [One Last Try](https://open.spotify.com/track/7frTGx6QXM3hIqYeDle3JH) | [Jae Hong Park](https://open.spotify.com/artist/0zfE74CTrrvYONTaDAocIY) | [One Last Try](https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU) | 4:27 | 2023-03-31 |  |
+| [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 | 2023-07-07 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 |  |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |

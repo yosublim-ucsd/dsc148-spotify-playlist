@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: RADWIMPS
 
-573 songs - 1 day 12 hr 2 min
+574 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Heroine](https://open.spotify.com/track/1rhPpFbyMssL3Rc9wSAO54) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Heroine](https://open.spotify.com/album/0hckNohlwrrJFFZVHqUI7m) | 3:07 | 2023-06-06 | 2023-06-08 |
 | [Heroine](https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Heroine](https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf) | 3:07 | 2023-06-06 |  |
 | [Hesitate](https://open.spotify.com/track/059gJJ8254eNcPhese0enO) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Hesitate](https://open.spotify.com/album/2a4JxJrhYkacvjOShXbKSX) | 2:55 | 2023-01-17 | 2023-02-02 |
+| [Hiasobi](https://open.spotify.com/track/7fvKEuXCfAi6sYFezz85vE) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Hiasobi](https://open.spotify.com/album/7g8JFhggBUBAOOVeui56nz) | 3:43 | 2023-07-06 |  |
 | [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-07 | 2023-03-29 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-02-15 |
 | [Himegoto](https://open.spotify.com/track/5DKtqqUAFmBSq7gUoydsTm) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Himegoto](https://open.spotify.com/album/4tHtEtjR2jOd7M0jDbPlzH) | 4:41 | 2023-06-27 |  |
@@ -412,7 +413,7 @@
 | [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 | 2023-01-19 |
 | [バードヘッドブルース](https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [バードヘッドブルース](https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH) | 3:49 | 2023-01-24 | 2023-02-15 |
 | [パピコ](https://open.spotify.com/track/061UEZryTNIpPeN9YzDhhY) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [パピコ](https://open.spotify.com/album/3COmQ1RmxzodhQ0I51hPQK) | 4:52 | 2023-02-07 | 2023-03-15 |
-| [ヒアソビ](https://open.spotify.com/track/6qKp7lmQmKJMOlQILibPqA) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [ヒアソビ](https://open.spotify.com/album/1h3Bt2RaUK4JELrtxZsXo3) | 3:43 | 2023-07-06 |  |
+| [ヒアソビ](https://open.spotify.com/track/6qKp7lmQmKJMOlQILibPqA) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [ヒアソビ](https://open.spotify.com/album/1h3Bt2RaUK4JELrtxZsXo3) | 3:43 | 2023-07-06 | 2023-07-08 |
 | [ヒメゴト](https://open.spotify.com/track/36A9odRn2YOFd32Z0imnyy) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [ヒメゴト](https://open.spotify.com/album/3irroKY3CuejqNOU5qniXG) | 4:41 | 2023-06-27 | 2023-06-29 |
 | [ヒモと愛](https://open.spotify.com/track/0bYCJFtqOP7Zkf4EFzRka1) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [ヒモと愛](https://open.spotify.com/album/6iCCe0GQhkRgDP2ru8iUtG) | 2:42 | 2023-02-28 | 2023-03-02 |
 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 | 2023-05-16 |  |

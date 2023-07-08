@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: ID:Earth \(아이디얼스\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,106 songs - 2 day 14 hr 28 min
+1,107 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Spring](https://open.spotify.com/track/5D3jVxi4Tg9yqSFLSBdE9O) | [Young Froze](https://open.spotify.com/artist/2zHJutAT3VRCuC2h5LaktX) | [Long Money Short Life LP](https://open.spotify.com/album/1pqP6XE6S40VkuR0sWqQui) | 2:44 | 2022-04-20 | 2022-06-10 |
 | [Spring Weeds](https://open.spotify.com/track/3v5fCdLEFPbxZpjIm5tmrQ) | [Cosmic Abalone](https://open.spotify.com/artist/2GsF3mU0hzhqtnAN6mpbwR) | [Spring Weeds](https://open.spotify.com/album/7JpTawZ0FoVwhHNuHLnYTW) | 4:14 | 2022-05-11 | 2022-06-19 |
 | [Spring's Regard](https://open.spotify.com/track/3wyElOzzWs0Je9vN0gCEe4) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [Spring's Regard](https://open.spotify.com/album/31Bty10AIwdQEDQyUXz5ab) | 2:29 | 2023-05-01 | 2023-07-06 |
+| [Stain](https://open.spotify.com/track/0t6FALwsesvu3cTdiuuswU) | [PYMEL](https://open.spotify.com/artist/4lcveRjo1vlFWfvLiGIFkg) | [Stain](https://open.spotify.com/album/0uovuzFeIR1v3CHSCWDNoq) | 2:29 | 2023-07-07 |  |
 | [Stan](https://open.spotify.com/track/5u9kvvEisRTVYBMOJ7vIAL) | [yoobin Jeon](https://open.spotify.com/artist/4E9i8RO7ZDMNLLlIceDrIj) | [Stan](https://open.spotify.com/album/2UkupgY3uxw6i6r9mmhzDj) | 3:18 | 2023-07-06 |  |
 | [Stars on Summer](https://open.spotify.com/track/4iL7TptZ0IK79JjezDXwtu) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [Stars on Summer](https://open.spotify.com/album/1AdEy1SUBuzbObNdP0ntvL) | 3:05 | 2023-07-06 |  |
 | [Stay](https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Winter](https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb) | 4:06 | 2023-01-30 | 2023-02-09 |

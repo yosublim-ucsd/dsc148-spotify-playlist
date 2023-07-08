@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,426 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,481 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 |
 | 100 | [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 |
 
-Snapshot ID: `MCwwMjc0NDZkZTYxOWM4ZjdiYzFlZTg0NWI5YWIyODc2NzFmMDg0MTM5`
+Snapshot ID: `MCw5YjE0MWJkNWYxZjc5MGVmMzBjMGYwZWFjNDNkYTI0OTMzN2EyMDE4`

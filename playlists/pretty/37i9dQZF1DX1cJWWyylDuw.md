@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,317 likes - 125 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,575 likes - 125 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 124 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 |
 | 125 | [Left in the Wake](https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Left In The Wake](https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC) | 2:39 |
 
-Snapshot ID: `MCw4NWFhM2ViZGY4Y2ExOWEyODM4MTRkYWIxY2ZmZTkzZTM1ZjYxNDU0`
+Snapshot ID: `MCxiY2RmMDhkNTU4ZDEzNDFkMmNlODU5NGYzNTU1ZjgxMGE2NmRjZTQ0`

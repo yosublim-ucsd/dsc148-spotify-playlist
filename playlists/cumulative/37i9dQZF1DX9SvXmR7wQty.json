@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aliocha Schneider",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Soolking, Gazo",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 72380,
       "name": "2005",
       "url": "https://open.spotify.com/track/24X8QSYqgp7P3j9LlAtEuw"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
     },
     {
       "album": {
@@ -1154,6 +1172,24 @@
       "duration_ms": 202989,
       "name": "Airbag",
       "url": "https://open.spotify.com/track/1rKci6yiF4rb4zrDlt5JEH"
+    },
+    {
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "album": {
@@ -2516,7 +2552,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 119692,
       "name": "Avant l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 179164,
       "name": "BBM",
       "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
@@ -3322,6 +3358,24 @@
       "duration_ms": 185510,
       "name": "Bicycle (Rework)",
       "url": "https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su"
+    },
+    {
+      "album": {
+        "name": "Big AK",
+        "url": "https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97895,
+      "name": "Big AK",
+      "url": "https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q"
     },
     {
       "album": {
@@ -5223,6 +5277,28 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/5VvVdAC7pMti78FbTv96Y2"
       },
@@ -5784,6 +5860,24 @@
       "duration_ms": 149408,
       "name": "Chercheur d'art (interlude)",
       "url": "https://open.spotify.com/track/7G4TvaI18jZveZ4pqiuw8H"
+    },
+    {
+      "album": {
+        "name": "Retour \u00e0 Baveuse City",
+        "url": "https://open.spotify.com/album/77ZB9Vg6efYbkqQvzFTRlK"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Chez la Psy",
+      "url": "https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0"
     },
     {
       "album": {
@@ -6396,7 +6490,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -6788,7 +6882,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 186713,
       "name": "Comme un saule",
       "url": "https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl"
@@ -10440,7 +10534,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
@@ -12374,7 +12468,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 149064,
       "name": "Freestyle LVL UP 2",
       "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
@@ -12972,7 +13066,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 179902,
       "name": "Go",
       "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
@@ -14042,7 +14136,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 227320,
       "name": "I love U",
       "url": "https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF"
@@ -14972,7 +15066,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "J'aime pas sortir",
       "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
@@ -16658,7 +16752,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 205337,
       "name": "KENZO NIGO - Sur moi",
       "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
@@ -16800,6 +16894,24 @@
       "duration_ms": 130472,
       "name": "Kis\u00e9",
       "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
+    },
+    {
+      "album": {
+        "name": "Kit\u00e9",
+        "url": "https://open.spotify.com/album/2I7x6rFiyHKHCT0QVqut5b"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Kit\u00e9",
+      "url": "https://open.spotify.com/track/714aK4Z7RopS0NxlPl0jmr"
     },
     {
       "album": {
@@ -17778,7 +17890,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218532,
       "name": "La Fin du Monde",
       "url": "https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi"
@@ -18228,7 +18340,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 225137,
       "name": "LA RUE",
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
@@ -18622,6 +18734,24 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "album": {
+        "name": "Langue de P***",
+        "url": "https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy"
+      },
+      "artists": [
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164906,
+      "name": "Langue de P***",
+      "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
     },
     {
       "album": {
@@ -22394,7 +22524,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 186231,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr"
@@ -22448,7 +22578,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 187058,
       "name": "MEILLEUR ET MIEUX",
       "url": "https://open.spotify.com/track/4qkGvhAFs6PZLz7Esr0rR6"
@@ -24038,7 +24168,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 170366,
       "name": "Nasty feat. Smeels (French Version)",
       "url": "https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU"
@@ -24254,6 +24384,28 @@
       "duration_ms": 179481,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/7FdeH1ziL9awJywvTbAsYO"
+    },
+    {
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "album": {
@@ -24870,7 +25022,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 144970,
       "name": "On & Off - Spotify Singles",
       "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
@@ -26284,7 +26436,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 171743,
       "name": "patio",
       "url": "https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk"
@@ -28684,7 +28836,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 202760,
       "name": "Quoi de neuf b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
@@ -29256,6 +29408,24 @@
       "duration_ms": 209506,
       "name": "Retomber en enfance",
       "url": "https://open.spotify.com/track/3UKVn5yI2jGAjyMD2Tdb97"
+    },
+    {
+      "album": {
+        "name": "Retour de flamme",
+        "url": "https://open.spotify.com/album/1aw0j3ZQb1R4tx2WS7zCGA"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160358,
+      "name": "Retour de flamme",
+      "url": "https://open.spotify.com/track/2FBGeh8LBjI1YVbUSF1WKk"
     },
     {
       "album": {
@@ -34952,6 +35122,24 @@
       "duration_ms": 192979,
       "name": "Un coup de g\u00e9nie",
       "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
+    },
+    {
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "album": {

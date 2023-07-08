@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,452 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,473 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [Hearth](https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Hearth](https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx) | 3:26 |
 | 100 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 |
 
-Snapshot ID: `MCw0NjMxNjYxODdkZjQzODA1ZWFiYTA2ZmMwMjZlNTAwMjliZjExMjA4`
+Snapshot ID: `MCxjOTk5MGIzYTYyOWQwYmJkNjIyM2YwNjg2ZDZjMTc3NWQ5ZjVlZTQw`

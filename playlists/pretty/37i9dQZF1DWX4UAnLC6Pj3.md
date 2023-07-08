@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Virlán García & Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,830 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,041 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [La Contraseña De Tu Cuerpo](https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Eladio Flores LR](https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG) | [La Contraseña De Tu Cuerpo](https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp) | 3:22 |
 | 125 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 |
 
-Snapshot ID: `MCw3NmYyNzNhMzNlYTY3ODQ5OWIzZGExN2FkZTQ0ZTM2YzQ2YjExY2Y0`
+Snapshot ID: `MCw2NTIwZGE2YzE2MjZhMGZmZDAzMDk4MjU3MDIyMjFkYWVhYzYzZjlh`

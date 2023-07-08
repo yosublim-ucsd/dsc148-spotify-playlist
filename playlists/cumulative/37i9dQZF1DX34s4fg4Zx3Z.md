@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-1,081 songs - 2 day 15 hr 36 min
+1,084 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Cơn Gió Thời Gian](https://open.spotify.com/track/6yYxZMkDBsfAIaWCAtJGRj) | [LƯNZ](https://open.spotify.com/artist/0pqQtEyvPtBevNNVE7R9Kr), [Vmax](https://open.spotify.com/artist/6JRub6T1C3dI4O9xg3P1VP), [Lispbanhz](https://open.spotify.com/artist/7z2PHV5g9cf2PmXHE0jdEq) | [Cơn Gió Thời Gian](https://open.spotify.com/album/3ywQpoAI47rPZezeXxTDPV) | 2:36 | 2023-07-03 |  |
 | [Cơn Mưa Bình Yên \(feat\. Cường\)](https://open.spotify.com/track/3kGgUPDgMF2N9QQUREePAi) | [Lãnh Cung](https://open.spotify.com/artist/16H5og96i0ZbAmG54t6s9X), [Cuong](https://open.spotify.com/artist/4fkPPfSk4WJXtvKITIgD9u) | [Cơn Mưa Bình Yên](https://open.spotify.com/album/48H3MdnVtoXTTo6R3RWRyf) | 3:57 | 2022-01-28 | 2022-04-16 |
 | [cơn mưa hôm ấy](https://open.spotify.com/track/30fYixEFvTlBU6FXfIOdZn) | [Thái Thanh Nhàn](https://open.spotify.com/artist/0FOTQAZjUcHvp7oIsC8khc), [SinKra](https://open.spotify.com/artist/2T5dRhMqYYZCEx7zwRd9yP) | [cơn mưa hôm ấy](https://open.spotify.com/album/6zLHFlAl3ie13I6jjDPTdm) | 3:27 | 2022-06-26 | 2022-09-22 |
+| [Cơn Mộng Tưởng](https://open.spotify.com/track/3owygAaSb5XdmZNaVtMZj8) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Cơn Mộng Tưởng](https://open.spotify.com/album/6s2nODQ4COBdc1ahnUzZTR) | 3:34 | 2023-07-06 |  |
 | [Cảm Giác](https://open.spotify.com/track/6rwZG0j0Kj3E9ZRjkNggrj) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Cảm Giác](https://open.spotify.com/album/3VNqaZJGEHrbcB7Q0aZkyS) | 3:39 | 2023-01-18 | 2023-05-02 |
 | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/track/4okdW9XpuHlQW6YWt1rCp7) | [Zoky](https://open.spotify.com/artist/2NwcaFBDo5q8yedM6HZe38), [Tài Smile](https://open.spotify.com/artist/7l7JnnrdPYWBSFDfXuce4T) | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/album/7ES5gcJGdbs9moHJiWVZLS) | 3:32 | 2022-02-18 | 2022-02-25 |
 | [Cậu Bé Mộng Mơ](https://open.spotify.com/track/1wEwCi4H573BUthmo0LSSw) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Cậu Bé Mộng Mơ](https://open.spotify.com/album/4q4VXjN8H0AAINJCmBXkJP) | 3:22 | 2023-06-01 | 2023-06-14 |
@@ -569,6 +570,7 @@
 | [Mây](https://open.spotify.com/track/0qOBop4NRKdxWwjEM5RoQM) | [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Mây](https://open.spotify.com/album/4BwzWKgw1pp10yfRPhW8a6) | 2:12 | 2022-02-10 | 2022-02-24 |
 | [Mây của trời phải để gió cuốn](https://open.spotify.com/track/37lTnoIEd3kPMal1WqICgq) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Mây của trời phải để gió cuốn](https://open.spotify.com/album/6poXW1dNN56g7QYHYxjBPL) | 4:03 | 2023-04-26 | 2023-05-17 |
 | [Mây Mưa](https://open.spotify.com/track/5UY2LGUTenQKzafvDCJUbY) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Mây Mưa](https://open.spotify.com/album/7gOmdp3IQpPkC6g2qsFISb) | 3:32 | 2022-08-13 | 2022-09-18 |
+| [mùa luyến lưu \(Prod\. KayTee\)](https://open.spotify.com/track/04hcNyE02jH5rOgwRe8vaE) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [mùa luyến lưu \(Prod\. KayTee\)](https://open.spotify.com/album/0nfVRmZ9hjGMu0FnpMH2ua) | 4:13 | 2023-07-06 |  |
 | [MÙA THU ĐI QUA](https://open.spotify.com/track/1NpcHGWVmb7Yh2UqE61w4a) | [Phạm Trương Bình](https://open.spotify.com/artist/4MUgLIEVzqgGrPepPRQ2yh) | [MÙA THU ĐI QUA](https://open.spotify.com/album/66USdlCzT6NS9aWoDjgK3g) | 4:26 | 2022-01-06 | 2023-01-06 |
 | [Mùa Đông Cô Đơn](https://open.spotify.com/track/1se2ZknYwSDiGYYyD4KFdU) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Công Phúc](https://open.spotify.com/artist/2RTxk7k09aitr15vkJ5kwL) | [Mùa Đông Cô Đơn](https://open.spotify.com/album/32CQporH0IpIWdLnFI1H6q) | 4:32 | 2022-04-27 | 2023-01-06 |
 | [Mưa Dầm Thấm Lâu](https://open.spotify.com/track/0rc4xvZ8uUnafmd7yL6OZk) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Mưa Dầm Thấm Lâu](https://open.spotify.com/album/3SDdy9yokkSOXSGq9scOb8) | 3:06 | 2022-10-12 | 2022-11-01 |
@@ -663,6 +665,7 @@
 | [Night by Night](https://open.spotify.com/track/2nvimM1VZtUG4UEU70wXqw) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Night by Night](https://open.spotify.com/album/5zplSaRTVT2xNvrYVbGCpC) | 3:14 | 2022-07-09 | 2023-01-06 |
 | [NO LOVE](https://open.spotify.com/track/2lvWcwIYU9An39Z0xlta2n) | [Hazel](https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2) | [NO LOVE](https://open.spotify.com/album/7xUcliC3z7felABHhe0a1l) | 2:51 | 2022-11-17 | 2023-02-16 |
 | [No Matter](https://open.spotify.com/track/2zD1M5u0YB60LOu5Ckrdp4) | [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i), [Lockie](https://open.spotify.com/artist/6Kwe8bsUxkQZAhmkAMPQt3) | [No Matter](https://open.spotify.com/album/0lbAre0a1uWokh19EEkr4V) | 2:45 | 2022-01-06 | 2022-03-11 |
+| [NOBODY CARES](https://open.spotify.com/track/7p4ZOOQVt1VPz41ycuWKhf) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [NOBODY CARES](https://open.spotify.com/album/2nGDYuKXpYmWeuuKJyMZLO) | 2:22 | 2023-07-06 |  |
 | [NOIVOIANH](https://open.spotify.com/track/7thW824tiZ3P27x2g2b89v) | [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [NOIVOIANH](https://open.spotify.com/album/1Bgk336Ij6myaDodxkywSr) | 3:24 | 2023-03-23 | 2023-04-09 |
 | [NOT A LOVER](https://open.spotify.com/track/1q6QkUdZ6wqghYIcfbNoTP) | [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [Darwindaboi](https://open.spotify.com/artist/6uKR3bSMz8u2Qb9G990NFp), [Naggie](https://open.spotify.com/artist/2rAxHfpCAAkq2ZU2yfA1wi) | [NOT A LOVER](https://open.spotify.com/album/7ckFk3RNEHvytLDzLYGMHx) | 3:19 | 2022-01-06 | 2022-05-12 |
 | [Not The Same](https://open.spotify.com/track/7EsDa5BIIUZXyJIfy67If9) | [Dewie](https://open.spotify.com/artist/2fZ5sWYSqJpL11OqCDr9oY) | [Not The Same](https://open.spotify.com/album/6lrKTsuNtd5JoKTTKPaxG6) | 2:33 | 2022-02-10 | 2022-02-24 |

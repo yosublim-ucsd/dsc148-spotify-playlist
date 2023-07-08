@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,754 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,917 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
 | 100 | [Instance](https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c) | 3:32 |
 
-Snapshot ID: `MCw3MDg5OGMxOGI2MWMzYjU0OTI4ZmFiNGIwNTBhNDA3MmJkMTk0MjIw`
+Snapshot ID: `MCxjODgwZTEyMzYxOTU0ODNkNGY3ZDU5MjgyYTMyMDlhMjczMWYyZDFh`

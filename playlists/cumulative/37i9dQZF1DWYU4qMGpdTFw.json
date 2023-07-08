@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Mafia al Dente",
+        "url": "https://open.spotify.com/album/5ibirZ6xkpsP3PGj8b2GZZ"
+      },
+      "artists": [
+        {
+          "name": "Los Infierno",
+          "url": "https://open.spotify.com/artist/2Ss3Q7aKxMNVX2z5vFUGXM"
+        },
+        {
+          "name": "The Barbacans",
+          "url": "https://open.spotify.com/artist/64p9uKyB0A4FQccl1tgjwE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150351,
+      "name": "Yo No Soy Como los Dem\u00e1s",
+      "url": "https://open.spotify.com/track/5gXpGARuKW2Gp7oaUfF4B9"
+    },
+    {
+      "album": {
         "name": "Boda Rumana",
         "url": "https://open.spotify.com/album/1GDpRaPRrqLZTZZeNYnuyj"
       },

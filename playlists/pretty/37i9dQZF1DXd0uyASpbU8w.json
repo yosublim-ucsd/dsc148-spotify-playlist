@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj?si=uD060DMQRRq6DTwxZg340w\">Cici</a> & <a href=\"https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW?si=xy78nUYZQ2-yy4PcFIWYew\">DJ Zinhle</a>",
-  "num_followers": 65010,
+  "num_followers": 65122,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWRjMGY2YzU1ZTk3ZWE2NGU5YTUxOTYyOTFkNjU4MjFkNmZjYTlh",
+  "snapshot_id": "MCxlZmNhMDg2YjNkMTU5NTQ5ZjMyNWNmZjBhYzFhMTlmZjM4ZWFjODI5",
   "tracks": [
     {
       "added_at": "2023-07-07 00:06:49",
@@ -27,6 +27,22 @@
       "duration_ms": 377154,
       "name": "Thula",
       "url": "https://open.spotify.com/track/1s59XTyE9Xwt0HQZx8KJ1X"
+    },
+    {
+      "added_at": "2023-07-07 00:06:49",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
       "added_at": "2023-07-07 00:06:49",
@@ -131,7 +147,7 @@
     {
       "added_at": "2023-07-07 00:06:49",
       "album": {
-        "name": "Fallin feat. Nasty C",
+        "name": "Fallin",
         "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
       },
       "artists": [
@@ -145,8 +161,28 @@
         }
       ],
       "duration_ms": 171152,
-      "name": "Fallin feat. Nasty C",
+      "name": "Fallin",
       "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
+    },
+    {
+      "added_at": "2023-07-07 00:06:49",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "added_at": "2023-07-07 00:06:49",
@@ -351,6 +387,30 @@
       "duration_ms": 219130,
       "name": "Location",
       "url": "https://open.spotify.com/track/58S9G6ELYmprrmDyb19lAp"
+    },
+    {
+      "added_at": "2023-07-07 00:06:49",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "added_at": "2023-07-07 00:06:49",
@@ -692,7 +752,7 @@
           "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
         }
       ],
-      "duration_ms": 381000,
+      "duration_ms": 385703,
       "name": "Phepha Ndaba",
       "url": "https://open.spotify.com/track/7l7VcyXpXrE6732WA9udB0"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,856 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,891 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 |
 | 100 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
 
-Snapshot ID: `MCwxMTQ2MjMxMGViODkwMGNkYTM2ZmMzZDNjNjM4NDMwNjc1MTE5MGFm`
+Snapshot ID: `MCw4YzkyYjEwMmVjNDJkYzMwN2U5NjlkMzBjY2FhYjQ1NGM0MWU4MmQ3`

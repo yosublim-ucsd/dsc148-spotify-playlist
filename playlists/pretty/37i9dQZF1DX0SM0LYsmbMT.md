@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,153,889 likes - 300 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,154,063 likes - 300 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Autumn Leaves](https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Autumn Leaves](https://open.spotify.com/album/5f9eCZ7zM4nymYWZzwH67x) | 2:22 |
 | 300 | [Cyanea](https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Cyanea](https://open.spotify.com/album/7B0J92Q3arDhnC5Vf3eRFh) | 1:55 |
 
-Snapshot ID: `MCxlMDdjMDFmODZiZDlhZWYxNGMyMDBmZmMwZWI1ZGQ2OTk3NzUyZmU4`
+Snapshot ID: `MCw5ZTM3YzU0ZWViOWEyMGUwOGNlMTBlMDJlNDk0ZjdlYjk5NTgwOWYy`

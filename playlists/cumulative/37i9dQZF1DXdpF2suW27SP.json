@@ -4911,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/5HDyAtdL04UZqbXs4BLFyA"
+      },
+      "artists": [
+        {
+          "name": "MS Capone",
+          "url": "https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147043,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/4rYjl6XGbeXh8b3ao7hxLV"
+    },
+    {
+      "album": {
         "name": "Pull Up na C",
         "url": "https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv"
       },

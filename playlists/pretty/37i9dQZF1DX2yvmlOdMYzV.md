@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,665 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,889 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 |
 | 100 | [Silence](https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO) | [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Underground](https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB) | 2:58 |
 
-Snapshot ID: `MCw0NjY1OGMxNjZhNGIwYzFkYjczNjllOTk4MzJlMjEyYTc2ZTczOGEx`
+Snapshot ID: `MCxhYTcxN2VhZWQ4MjRhYmFmNWRlMGY1ODYyZmNjMTJhN2NmZDRmYjk4`

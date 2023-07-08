@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,945 likes - 200 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,287 likes - 200 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [Can't Bring Me Down](https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Can't Bring Me Down](https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h) | 3:16 |
 | 200 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
 
-Snapshot ID: `MCxjOTBlZGMzNzY3NjRkZWVjODc1NmNkMmFjZDM1NzY5MzA5MTA2MjFk`
+Snapshot ID: `MCxkY2YxZWQ0YzgxNmFiMWRmZTBhMGMyOWVmMzQyNTQwNzYxNDE3NmUy`

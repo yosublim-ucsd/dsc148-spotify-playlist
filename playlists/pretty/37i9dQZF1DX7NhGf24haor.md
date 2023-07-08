@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Radical Redemption
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,154 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,335 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 6 | [Rainbow](https://open.spotify.com/track/2MRzbtWB7Aqq3w4KI2AyBu) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Rainbow](https://open.spotify.com/album/3W5MWyeUceT5oXak9qdN4C) | 2:38 |
 | 7 | [The Bomb](https://open.spotify.com/track/6iqCjwtQvYIeRGc4pabc9K) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [The Bomb](https://open.spotify.com/album/4S37Wgik5n4lzYjndOYFIO) | 3:18 |
 | 8 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 |
-| 9 | [Come As One \(Sefa Remix\)](https://open.spotify.com/track/72hsM9j4S34ofhOcueWxc3) | [The Viper](https://open.spotify.com/artist/1ovLf87ytwpNoA4prvV8wt), [G\-Town Madness](https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Come As One \(Sefa Remix\)](https://open.spotify.com/album/1UDp8nOIXoL7B8qVaVrzgR) | 4:36 |
-| 10 | [The Soul](https://open.spotify.com/track/7EOZRhI98MiZQXJI8bNIKQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [The Soul](https://open.spotify.com/album/0lwumLqC9ZSjOcctsnnsnX) | 5:31 |
+| 9 | [The Soul](https://open.spotify.com/track/7EOZRhI98MiZQXJI8bNIKQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [The Soul](https://open.spotify.com/album/0lwumLqC9ZSjOcctsnnsnX) | 5:31 |
+| 10 | [Come As One \(Sefa Remix\)](https://open.spotify.com/track/72hsM9j4S34ofhOcueWxc3) | [The Viper](https://open.spotify.com/artist/1ovLf87ytwpNoA4prvV8wt), [G\-Town Madness](https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Come As One \(Sefa Remix\)](https://open.spotify.com/album/1UDp8nOIXoL7B8qVaVrzgR) | 4:36 |
 | 11 | [Dopamine](https://open.spotify.com/track/3vfymWmy9pRcqFPPNsGhy9) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Dopamine](https://open.spotify.com/album/6fcRsHRYndldCq70TlQKYB) | 3:27 |
 | 12 | [Gänsehaut](https://open.spotify.com/track/4xQJSkraElaWEAK21Q6jMg) | [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb), [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [Gänsehaut](https://open.spotify.com/album/22bWCNzLMCxBzMmzhmcBri) | 2:42 |
 | 13 | [Brutal X](https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal X](https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq) | 4:28 |
@@ -105,8 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Elysium](https://open.spotify.com/track/6nyagZS2y0Q60bhFvCFsar) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [Elysium](https://open.spotify.com/album/2GOzAZNCu2LWGJgDaUQmpb) | 2:43 |
 | 96 | [I'll be fine](https://open.spotify.com/track/2dqTlgUaIJgufoaRSCKbDa) | [Mirisz](https://open.spotify.com/artist/2uGfa8SP7ICbWj3hxaSnoH) | [I´ll be fine](https://open.spotify.com/album/06X5BvNmFim7e14jxJuL7r) | 3:17 |
 | 97 | [Reevolution](https://open.spotify.com/track/6fBjnNhmNgAAVt5D30mFtQ) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Reevolution EP](https://open.spotify.com/album/1vTwPGPGjp0xIdOsaSqUY4) | 3:39 |
-| 98 | [Another Night](https://open.spotify.com/track/1KOcE8QcPCLPASSfA1Ekdp) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Rob Mayth](https://open.spotify.com/artist/618ZpOIfe3ELAa36M3GMz7) | [Another Night](https://open.spotify.com/album/4AAgU3gqqgJwKKWVwVcMEV) | 2:32 |
-| 99 | [Waste Your Love](https://open.spotify.com/track/278lyWvloSVUgHGZb5OnAY) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Waste Your Love](https://open.spotify.com/album/0YJYkYfq1g8T9KxMmolj3G) | 3:08 |
-| 100 | [Satellites](https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx) | 2:26 |
+| 98 | [Waste Your Love](https://open.spotify.com/track/278lyWvloSVUgHGZb5OnAY) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Waste Your Love](https://open.spotify.com/album/0YJYkYfq1g8T9KxMmolj3G) | 3:08 |
+| 99 | [Satellites](https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx) | 2:26 |
 
-Snapshot ID: `MCxhMTc3OTQ1NzhjYzE3NDY4NDdlNDY2ZDc4MTk1OGQxYTQ5YWRiYzdk`
+Snapshot ID: `MCxlZTk5MjBiYzIwZGRiMWRmMjA4OWVjNmY3NzNjYmIwNDI5NjRhMGRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,671 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,022 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Agarra Em Mim](https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7), [Pedro Mafama](https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk) | [Agarra Em Mim](https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ) | 3:27 |
 | 100 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 
-Snapshot ID: `MCxiYmZkYjgzZGVlNmM2MjdhYmUyMGUzNjY1NzQ0YzgyNDgxOWU4NTJh`
+Snapshot ID: `MCw5Y2RkODI4ZDgzYjI5OGQyNmYzMzdmZjg1ZDA0NDFhNThjOGQzZjYw`

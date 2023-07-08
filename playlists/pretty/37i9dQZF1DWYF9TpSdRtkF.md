@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,110 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,122 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Super Duper](https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [Nao Yokoyama \(CV: Yui Watanabe\)](https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf) | [THE IDOLM@STER MILLION THE@TER WAVE 07 Jus\-2\-Mint](https://open.spotify.com/album/7mihuPl9XKNe5EbrWmf9Gs) | 4:10 |
 | 75 | [アフタースクールパーリータイム](https://open.spotify.com/track/25DliXdeWLl2NFEKUYCYyP) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 04](https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW) | 3:21 |
 
-Snapshot ID: `MCwzMzE4YzNkMzdjOGU4ODJiYjgwMzgyYjA1MDA1OWM4NDU1NjFmZmM1`
+Snapshot ID: `MCxiOTYzNjFiODIxNmIyY2YzZTg3Mjk1OThlMmFhN2Y3NThkNWE0ZGNi`

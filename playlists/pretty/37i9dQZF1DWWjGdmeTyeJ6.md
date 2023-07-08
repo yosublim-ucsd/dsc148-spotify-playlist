@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Grace Enger\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,351 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,296 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 73 | [Doce](https://open.spotify.com/track/2oSkKilmqbFvtU19bzMLcA) | [Christian White](https://open.spotify.com/artist/5Dmhq7JGEuDLiqA5cnutGq) | [Doce](https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE) | 2:47 |
 | 74 | [Cenizas](https://open.spotify.com/track/688BEx0xZQmWtgxEtZk43H) | [Rollo California](https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Cenizas](https://open.spotify.com/album/6kYBHRqulDX38YUvBfTpUw) | 2:47 |
 
-Snapshot ID: `MCxiZTdmZjI3YTQyNTExMTkxYmRjMGY0ZjZmYjM5NGIwYWI2N2ZmYTRk`
+Snapshot ID: `MCw2OTkwNzg4MTg0YzRmOWE3ZTNmMjE0NTc3ZjNlMjFkYzQ3ZjdmOGQx`

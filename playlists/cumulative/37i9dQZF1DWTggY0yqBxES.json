@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 193878,
       "name": "5 O'Clock",
       "url": "https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 237306,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/0YHf50qhg3z8JZslKOfMrE"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 261423,
       "name": "DRUNK WORDS, SOBER THOUGHTS",
       "url": "https://open.spotify.com/track/1X0I5zmgZHBrvEo5k0Va1X"
@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "HANDS UP!",
+        "url": "https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89372,
+      "name": "HANDS UP!",
+      "url": "https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7"
+    },
+    {
+      "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
         "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 132413,
       "name": "Helluva Day",
       "url": "https://open.spotify.com/track/36aqn18EqDHyw0Jg0lumJt"
@@ -4293,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "STILL (Five & A F*** You) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171682,
+      "name": "Hyperbole",
+      "url": "https://open.spotify.com/track/2LJcdaFICUtl0JRywIB9yN"
+    },
+    {
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -4442,6 +4478,24 @@
       "duration_ms": 117366,
       "name": "IDFIATOK",
       "url": "https://open.spotify.com/track/3UCfeH1mZnwErqWZhiN32y"
+    },
+    {
+      "album": {
+        "name": "IdgaF",
+        "url": "https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103664,
+      "name": "IdgaF",
+      "url": "https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL"
     },
     {
       "album": {
@@ -5020,7 +5074,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 99929,
       "name": "Liu Kang",
       "url": "https://open.spotify.com/track/6VAf9bOL9WyDRH6mP6OgBo"
@@ -6909,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "pretty girls",
+        "url": "https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "pretty girls",
+      "url": "https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt"
+    },
+    {
+      "album": {
         "name": "Private Valet",
         "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
       },
@@ -8123,6 +8195,24 @@
     },
     {
       "album": {
+        "name": "STILL (Five & A F*** You) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147474,
+      "name": "SS",
+      "url": "https://open.spotify.com/track/0DGvzDTQ2cTNJbHAV7Ltz9"
+    },
+    {
+      "album": {
         "name": "Rap?",
         "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
       },
@@ -8504,7 +8594,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 180076,
       "name": "Swamp Bitches (with Rico Nasty)",
       "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
@@ -9000,6 +9090,24 @@
       "duration_ms": 194851,
       "name": "To have it all",
       "url": "https://open.spotify.com/track/6NB1pTttxTyw5L9sp1b9A7"
+    },
+    {
+      "album": {
+        "name": "Toddlerz",
+        "url": "https://open.spotify.com/album/2flPB9VQGGhoWiZGOKqlYs"
+      },
+      "artists": [
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Toddlerz",
+      "url": "https://open.spotify.com/track/0VFsde8J1rzWAWgJfAEpcA"
     },
     {
       "album": {

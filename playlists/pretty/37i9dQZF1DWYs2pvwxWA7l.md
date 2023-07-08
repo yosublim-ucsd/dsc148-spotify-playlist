@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=CfgMhWd0Q0ubZw2dxpCjHA"> SPINALL </a> and <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=WvF\-KSEZQhWAS\-DKCN1pMQ"> WizKid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,761 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,135 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
 | 70 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 
-Snapshot ID: `MCxjNzI2ZDE0MGExZTBkMWVmZjNkOTI2NWFkMDY5OTY5MjgzNTU0NTIx`
+Snapshot ID: `MCw0MTIzYzkyY2NkNjkwZGIyYzk0MDJiNWU0NGIyNmYyYmM5ZTc1NDA3`

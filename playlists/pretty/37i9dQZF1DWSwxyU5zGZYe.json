@@ -1,12 +1,12 @@
 {
   "description": "Best acoustic melodies from Bollywood",
-  "num_followers": 188640,
+  "num_followers": 188729,
   "original_name": "Bollywood Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTljNTIyMTM5ZDQxODZkMTAzZWNmMjA3YzkzNTc2YTNlYmFhNTAz",
+  "snapshot_id": "MCxjY2M0M2IzNDcyNDJkZTMwOWM5MTM3OTM1NGE1ZWE1YWRiZDYzMTcx",
   "tracks": [
     {
       "added_at": "2023-07-06 09:21:25",
@@ -91,18 +91,26 @@
     {
       "added_at": "2023-07-06 09:21:25",
       "album": {
-        "name": "Tere Vaaste - Unplugged",
-        "url": "https://open.spotify.com/album/4Zf72Ba35B929XFWqvFrWP"
+        "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") [Unplugged]",
+        "url": "https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ"
       },
       "artists": [
         {
           "name": "Varun Jain",
           "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 55321,
-      "name": "Tere Vaaste - Unplugged",
-      "url": "https://open.spotify.com/track/0mCStjzY19ZfiG62IEATmk"
+      "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Unplugged",
+      "url": "https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7"
     },
     {
       "added_at": "2023-07-06 09:21:25",

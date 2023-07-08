@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,420 likes - 100 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,495 likes - 100 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 |
 | 100 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 |
 
-Snapshot ID: `MCxiOGU3Njg0MWFhYzQ1OTQxOGQ1MTc2ZmRjMDU0ODJiYmFjOGY2MTll`
+Snapshot ID: `MCxhMjJhMDdlNWRkNjIxMTA0N2I2OWE1MGI4YzdhNWQ0NmYxOGZiMjcy`

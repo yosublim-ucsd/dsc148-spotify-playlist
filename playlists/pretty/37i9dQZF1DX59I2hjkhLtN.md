@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,450 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,453 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Não Finge](https://open.spotify.com/track/6ywwdAkZnzQPZIztmRhHQ6) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Não Finge](https://open.spotify.com/album/6pv4K6of9HdrdpYpmx15Hk) | 2:32 |
 | 99 | [Fumo No Spot](https://open.spotify.com/track/4BvIIeMYtthoWVMawj8zBT) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [Vácuo](https://open.spotify.com/artist/7KdRBYXqkH88wCZFxixHXi), [Stone Jones](https://open.spotify.com/artist/0qs6uqmfYtn7SxWVrap6Nb) | [Fumo No Spot](https://open.spotify.com/album/1pgsnBVJwE1L4sW9SVaW64) | 3:30 |
 
-Snapshot ID: `MCw0YzczMGJjM2JjZGRmYjBmMTIxZDhlMDk4YmM1ZDRiOGNlMWI2YjI3`
+Snapshot ID: `MCxmNzdhNTkwYjVjN2RiZDU5ZjQwYjcxZTUzODU1MjEyZDc0NTg2OWMy`

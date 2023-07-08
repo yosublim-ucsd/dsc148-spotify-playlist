@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LINION
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,615 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,621 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [for all this savin’](https://open.spotify.com/track/7LVsxInZbRLYucWpNCgx7A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [for all this savin’](https://open.spotify.com/album/0HYTco54WqzpbJiiZJ3ym0) | 3:26 |
 | 67 | [Oh Bob](https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:10 |
 
-Snapshot ID: `MCxmNjJlZTUzMTU4NGUxODNkOTVmZTY1YWQyMWJiNTQ5NGE4ZjRlNGQ3`
+Snapshot ID: `MCxlYTI3ZGJiYzY4ODAyMThkMTQzYTU4Njc1ZTJiZWI3MDlkYTUwMWM1`

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: PJ Harvey
 
-1,611 songs - 3 day 23 hr 49 min
+1,613 songs - 3 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-15 | 2022-10-21 |
 | [Bunker](https://open.spotify.com/track/7tdhnR3o3p2jPZL7WD1u6k) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Bunker](https://open.spotify.com/album/6RavgfEZ7VgRwUF0uuhS7d) | 5:20 | 2022-09-15 | 2022-10-28 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2021-07-15 | 2021-08-27 |
-| [Burn Money](https://open.spotify.com/track/3tGAnteiFrnaVzVPXriZGz) | [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Invaluable Vol.1](https://open.spotify.com/album/6lrUGlsQdtWTNegGR6UtrE) | 2:06 | 2023-07-06 |  |
+| [Burn Money](https://open.spotify.com/track/3tGAnteiFrnaVzVPXriZGz) | [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Invaluable Vol.1](https://open.spotify.com/album/6lrUGlsQdtWTNegGR6UtrE) | 2:06 | 2023-07-06 | 2023-07-08 |
+| [Burn Money](https://open.spotify.com/track/4edy96lC5RsbZvOI0HvmUO) | [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Invaluable Vol.1](https://open.spotify.com/album/5NUbkJxoermauKSzXjoFal) | 2:06 | 2023-07-06 |  |
 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-11 | 2022-09-30 |
 | [Burning Hour](https://open.spotify.com/track/3KumYJaFPKu21cmB9WaYcC) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Burning Hour](https://open.spotify.com/album/4n49IEbnELACOEq8ssVkHj) | 4:38 | 2020-09-29\* | 2020-10-02 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-22 |  |
@@ -870,7 +871,8 @@
 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 | 2023-06-22 |  |
 | [Luv Him \(about u\)](https://open.spotify.com/track/4SgdhN9HvFUh9vBhRnhJxj) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Luv Him \(about u\)](https://open.spotify.com/album/4UBL6LpNX33GFaKXtrH6Z1) | 2:28 | 2023-03-24 | 2023-04-21 |
 | [Luv U Do](https://open.spotify.com/track/4QPFQgKBwvUARsuWfI8P3o) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Luv U Do](https://open.spotify.com/album/4QjKUO5qLoLK6GZ99d8lhU) | 2:56 | 2021-07-16 | 2021-08-27 |
-| [Lwonesome Tonight](https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 3:48 | 2023-07-06 |  |
+| [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-06 |  |
+| [Lwonesome Tonight](https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 3:48 | 2023-07-06 | 2023-07-08 |
 | [Macilent](https://open.spotify.com/track/2DIrNUvNn2bePJptkvUUgi) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Macilent](https://open.spotify.com/album/7IrHR6QrD5JlMj0aTeKlNL) | 3:23 | 2021-11-12 | 2022-02-04 |
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-06-18 | 2021-09-03 |
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2022-11-11 | 2023-03-31 |

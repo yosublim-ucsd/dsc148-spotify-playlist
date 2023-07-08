@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: BRAVA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,017 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,020 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Tus amigas \- Lemonboi Remix](https://open.spotify.com/track/4l4Ty2FmiQ6WZL00m0gcCH) | [Sinunduro](https://open.spotify.com/artist/20kioV18lr7UUUTtSKJu99), [Lemonboi](https://open.spotify.com/artist/5Izm4J80boe28jCueTGxNZ) | [Tus amigas \(Lemonboi Remix\)](https://open.spotify.com/album/7ko1eTVbWJRA9AxmqV4tyU) | 2:22 |
 | 50 | [SOLO PIENSO EN TI](https://open.spotify.com/track/3nmOY18QmeLzmZcdbc04Dv) | [Roberta Nikita](https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE) | [SOLO PIENSO EN TI](https://open.spotify.com/album/6P7YrlAXD6KyC2vlw3u6hz) | 2:45 |
 
-Snapshot ID: `MCw0MDI0YjIxYzJmMjRiYzQ4YjY0MDViNWIyYThiMDg2NmY5ZjFkMGYx`
+Snapshot ID: `MCwxZGRkMGYxMjdhZTIxZDJiN2MyMDZhMzIyZGUzODhmNzhhMDMwMzlj`

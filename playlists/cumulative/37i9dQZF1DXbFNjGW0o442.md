@@ -2,9 +2,9 @@
 
 ### [Rockeras](https://open.spotify.com/playlist/37i9dQZF1DXbFNjGW0o442)
 
-> Guerreras del rock latinoamericano\. Foto: Ana Sanz
+> Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-245 songs - 14 hr 39 min
+246 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 | 2022-01-20 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-03-08 |  |
 | [Creo](https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:53 | 2022-01-20 |  |
+| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-07-07 |  |
 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 | 2023-05-19 |  |
 | [Cuentos](https://open.spotify.com/track/0lGL5kvifiLpsn6hEbJAAs) | [Las Otras](https://open.spotify.com/artist/0AOY1Sj0V5URW5vLabuXbM) | [Amarilla](https://open.spotify.com/album/1eIFqYqqIgR2EmjoqFcDNZ) | 1:59 | 2022-01-20 | 2022-07-27 |
 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 | 2023-04-14 |  |
@@ -119,7 +120,7 @@
 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 | 2023-05-19 | 2023-06-05 |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-01-20 |  |
 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 | 2022-10-26 |
-| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 |  |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 | 2023-07-08 |
 | [La Voz de Iemanya](https://open.spotify.com/track/4niTRWovfbM4093jChuCuu) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz de Iemanya](https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN) | 3:37 | 2022-01-20 | 2022-07-29 |
 | [La Vuelta de Adán](https://open.spotify.com/track/61MJzxnWfquKkns6ImXYgh) | [Mirtha Defilpo](https://open.spotify.com/artist/5jN2wYqhUCltMC9RnxavSa), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Canciones para Perdedores](https://open.spotify.com/album/4aKGpSwyYPNswB5InDZqvm) | 2:49 | 2022-01-20 | 2022-07-11 |
 | [Las Horas Se Destiñen](https://open.spotify.com/track/1ct4eypbDqzT2r3Xd78q04) | [Púrpura](https://open.spotify.com/artist/3htuTMjp7p0JS7sL8NhlXl) | [Púrpura](https://open.spotify.com/album/0LbklSYO5D9ECDjePxZfFd) | 3:39 | 2022-01-20 | 2022-07-22 |

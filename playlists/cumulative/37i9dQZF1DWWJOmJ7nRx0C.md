@@ -2,9 +2,9 @@
 
 ### [Rock Hard](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The hardest songs, loud\. Very loud\. Cover: Jelly Roll
+> The hardest songs, loud\. Very loud\. Cover: Atreyu
 
-856 songs - 2 day 3 hr 17 min
+859 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Down](https://open.spotify.com/track/5wSDE6o75zcW3JtDhPFG7j) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Down](https://open.spotify.com/album/2bGrVi31sU6HS2SG24sWNy) | 3:32 | 2022-06-17 | 2022-08-06 |
 | [Down the Drain](https://open.spotify.com/track/2xJ3rxAYeABD28ayby1w8g) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 3:28 | 2023-01-13 | 2023-05-13 |
 | [Dreams of Nowhere](https://open.spotify.com/track/0XagPzF4JY9rxH8wZ0Qzv9) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Dreams Of Nowhere](https://open.spotify.com/album/2xQwrxXBneEnpqvsJ5rXt3) | 4:29 | 2022-07-15 | 2022-09-17 |
-| [Drown](https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Drown](https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg) | 3:28 | 2023-04-07 |  |
+| [Drown](https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Drown](https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg) | 3:28 | 2023-04-07 | 2023-07-08 |
 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 | 2022-11-18 | 2023-01-28 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 | 2023-03-18 |
 | [EARTHRISE](https://open.spotify.com/track/56v5UfviHZFpZ0lghilvOI) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [EARTHRISE](https://open.spotify.com/album/5sfygFN1lAjCNwbeFwwNDL) | 4:56 | 2021-10-08 | 2022-07-29 |
@@ -309,6 +309,7 @@
 | [God’s Gonna Cut You Down](https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:48 | 2023-05-12 |  |
 | [Going Hunting \- Edit](https://open.spotify.com/track/722ZaBl6RTzYP3bq1P7Nit) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Going Hunting](https://open.spotify.com/album/39uxGGCb4dTwsIFl9VdKEv) | 3:56 | 2021-09-03 | 2022-01-22 |
 | [Golden](https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Feel This](https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty) | 3:57 | 2022-10-28 | 2023-01-28 |
+| [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-07 |  |
 | [Good Time](https://open.spotify.com/track/52mt7K5dPckj5TD2XzZwj2) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Good Time](https://open.spotify.com/album/3GMKkw7aQfIO3lGFg6jK76) | 2:52 | 2023-03-10 | 2023-06-05 |
 | [Good Time](https://open.spotify.com/track/7lJ0CEmlSdD2TUt0PVshMb) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Vol\. 10](https://open.spotify.com/album/6Noy1xgW6lBTqW0CA70Mep) | 2:52 | 2023-06-02 |  |
 | [Gotta Get Outta Here](https://open.spotify.com/track/1a2qjHAhopSGNrE1zSrSo8) | [Blacklite District](https://open.spotify.com/artist/31hrPUMBg96szrqNAb3oqP) | [Gotta Get Outta Here](https://open.spotify.com/album/2jMO1lQAno6IGeRuwOFmAR) | 3:26 | 2021-10-01 | 2022-04-09 |
@@ -374,7 +375,7 @@
 | [I'll Be Waiting](https://open.spotify.com/track/1bIKZrSVv21xC6mlF04iD4) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [002.TV](https://open.spotify.com/album/24NJXCfZ37G4sqHSRgFFzs) | 4:22 | 2023-05-19 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/5vgm295Dbcs3iL2dAMWmWl) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Bitter End](https://open.spotify.com/album/4YK3WiVwu6Ya40erAVlC1V) | 4:22 | 2023-04-14 | 2023-05-23 |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-03 | 2022-06-04 |
-| [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 | 2023-03-10 |  |
+| [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 | 2023-03-10 | 2023-07-08 |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 | 2023-04-22 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Could](https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [If I Could](https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR) | 3:29 | 2023-04-21 |  |
@@ -487,6 +488,7 @@
 | [MONEY](https://open.spotify.com/track/6uEwHhQjA253wuQQ6KDMAj) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MONEY](https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T) | 3:14 | 2022-03-25 | 2022-08-27 |
 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 | 2022-09-16 | 2023-01-06 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-18 | 2023-03-18 |
+| [Monsters \(feat\. Aaron Gillespie of Underoath\)](https://open.spotify.com/track/26bgULl57xDw3Pska642zL) | [Magic Whatever](https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Monsters \(feat\. Aaron Gillespie of Underoath\)](https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2) | 3:18 | 2023-07-07 |  |
 | [More](https://open.spotify.com/track/0pSKTP4rLzd1WjSJk0HGmO) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [More](https://open.spotify.com/album/3txBRhFpNmlhuhtoVCFNJ1) | 3:10 | 2023-06-16 |  |
 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 | 2023-05-12 |  |
 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 | 2022-07-29 | 2022-10-08 |
@@ -520,7 +522,7 @@
 | [Nobody Wants to Die](https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Nobody Wants to Die](https://open.spotify.com/album/4AWOxOI6D5iH8VuVWY1Fbe) | 3:43 | 2022-10-21 | 2023-04-09 |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-07-01 | 2022-12-03 |
 | [Nothing Ever After](https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
-| [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-21 |  |
+| [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-21 | 2023-07-08 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-10 | 2022-01-15 |
 | [Obey](https://open.spotify.com/track/5qIZ1FlFioNdPOn2cFb2EC) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Obey](https://open.spotify.com/album/6lzrWtHIQWRGRhUayfLucA) | 2:40 | 2023-04-28 |  |
 | [Oblivion](https://open.spotify.com/track/7jePbTgyKol6gHshTbF3Xz) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Inferno](https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF) | 3:19 | 2023-06-30 |  |
@@ -723,7 +725,7 @@
 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 | 2022-07-01 | 2022-08-20 |
 | [The Captains Sat](https://open.spotify.com/track/6v2mzvKpghhrJBtCoeFquM) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [The Captains Sat](https://open.spotify.com/album/0MqckUlgOyFq6dHqxSXBaa) | 2:09 | 2023-04-21 | 2023-05-20 |
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-07-23 | 2022-03-12 |
-| [The Credits](https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Credits](https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu) | 3:04 | 2023-02-24 |  |
+| [The Credits](https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Credits](https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu) | 3:04 | 2023-02-24 | 2023-07-08 |
 | [THE CURSED ONE](https://open.spotify.com/track/6NHVEjxxdZzEHXsgoLeOJ4) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [RISE](https://open.spotify.com/album/2x73F3tjGb16GlzrwwxuES) | 2:25 | 2023-04-14 |  |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2021-11-12 | 2022-02-26 |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 | 2023-06-02 |  |
@@ -849,6 +851,7 @@
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2023-06-10 |
 | [Without Me](https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Without Me](https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU) | 3:43 | 2022-08-26 | 2023-04-22 |
 | [Wolf](https://open.spotify.com/track/5sWrfb9vKQUnm2rSBbOSO4) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Wolf](https://open.spotify.com/album/12emOqzCBWE74T63XjZYF2) | 3:18 | 2022-10-21 | 2022-11-19 |
+| [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 | 2023-07-07 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2022-06-04 |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 | 2023-06-17 |
 | [Worst Is On Its Way](https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 4:03 | 2022-06-10 | 2023-03-18 |

@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-120 songs - 7 hr 12 min
+122 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-06-20 | 2022-07-29 |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-07-22 |  |
 | [F902](https://open.spotify.com/track/72Crnzf4RXJvssLigcC7om) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [\#02](https://open.spotify.com/album/7mJsJcbED93wlCutILesJi) | 2:59 | 2022-06-20 | 2022-07-26 |
+| [Fall In Love](https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love Alarm CLAP! CLAP! CLAP! OST](https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L) | 4:10 | 2023-07-07 |  |
 | [fallin \(feat\. Liss\)](https://open.spotify.com/track/0syedLlswRozp59jePqhIG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat\. Liss\)](https://open.spotify.com/album/5bwuj0Iuze77jbfrymLEtp) | 2:47 | 2022-06-20 | 2022-07-28 |
 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 | 2023-05-02 |  |
 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 | 2022-07-22 | 2023-02-17 |
@@ -48,8 +49,9 @@
 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 | 2022-06-20 | 2023-06-04 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-06-20 | 2022-12-27 |
 | [Have You Ever](https://open.spotify.com/track/4AjBFmioxIaW1QzH1FrPEI) | [Kim Yeo Myeong](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Have You Ever](https://open.spotify.com/album/0gW2S1J50ucDsXbClgMqPl) | 3:16 | 2022-06-20 | 2022-07-09 |
+| [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-07-07 |  |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-06-20 | 2022-07-28 |
-| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 |  |
+| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 | 2023-07-08 |
 | [Hide and Seek 숨바꼭질](https://open.spotify.com/track/4U32fbHxP7cob8enxammI6) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:57 | 2022-06-20 | 2022-07-24 |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-06-20 |  |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-26 | 2023-04-11 |
@@ -60,7 +62,7 @@
 | [I'm an aeroplane](https://open.spotify.com/track/6zQ0txBHpbqBh25qjfnNeu) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [I'm an aeroplane](https://open.spotify.com/album/3ySmGnt7e8BV3zxSvKfigL) | 4:25 | 2022-06-20 | 2022-07-29 |
 | [I'm Finally a Ghost](https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ) | 2:55 | 2022-07-04 | 2022-08-30 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-06-20 | 2022-07-28 |
-| [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 | 2023-05-02 |  |
+| [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 | 2023-05-02 | 2023-07-08 |
 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2022-08-18 | 2022-10-22 |
 | [Let it rain](https://open.spotify.com/track/1peqmD3DVtDroR84DQwumr) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Let it rain](https://open.spotify.com/album/6C1W88KCWx6qDBHSpHfnnZ) | 3:10 | 2022-06-20 | 2022-07-29 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-20 | 2022-07-27 |

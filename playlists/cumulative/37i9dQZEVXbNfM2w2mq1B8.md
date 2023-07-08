@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,146 songs - 2 day 16 hr 23 min
+1,147 songs - 2 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1063,7 +1063,7 @@
 | [Живей, мило мое](https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Живей, мило мое](https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc) | 3:09 | 2023-04-30 |  |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2023-04-06 | 2023-04-09 |
 | [Забравяй ме](https://open.spotify.com/track/2BfIkZJht4lBG73fqtsSxp) | [Tita](https://open.spotify.com/artist/5uOrQMWvhytvkjU7P3jgwV), [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1) | [Забравяй ме](https://open.spotify.com/album/7DTXFlPRsJ5swv6DNdShM1) | 3:10 | 2022-11-12 | 2023-06-01 |
-| [Здрав\. Як\. Силен\. Стабилен.](https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Откровение II](https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r) | 3:13 | 2022-11-26 |  |
+| [Здрав\. Як\. Силен\. Стабилен.](https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Откровение II](https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r) | 3:13 | 2022-11-26 | 2023-07-08 |
 | [Земетръс](https://open.spotify.com/track/3r3Z6VpkIPqQnc7XZyIWmr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Земетръс](https://open.spotify.com/album/2e2HHs307O6RBdDAD36Gi0) | 4:23 | 2021-06-10 | 2021-08-31 |
 | [Знам ли](https://open.spotify.com/track/1qoRKC4dltaqIOAllaJC6m) | [SkandaU](https://open.spotify.com/artist/21Q5VJotowNOhkOD2x2Cti) | [Знам ли](https://open.spotify.com/album/5Q1ochnGEaasOtnu5hzIuf) | 3:26 | 2022-11-08 | 2022-11-19 |
 | [Зомби](https://open.spotify.com/track/4e1RbIHenXkXwhe7aCcAux) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Shunaka](https://open.spotify.com/artist/5yawwjGbFGcVtn22j8OHA6) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 2:20 | 2021-06-21 | 2021-06-24 |
@@ -1102,6 +1102,7 @@
 | [Нашата](https://open.spotify.com/track/1sxBCEsROBfhqXZC3f3yNt) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Costi](https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw) | [Нашата](https://open.spotify.com/album/6cxLVTN1MdBxjw6Zvrpd6b) | 3:16 | 2023-07-02 | 2023-07-05 |
 | [Не влюбляйся](https://open.spotify.com/track/131yYsReuwHR2P9QmX9Pro) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g) | [хорошее и плохое](https://open.spotify.com/album/0KRXh9Asu2TCEAyENqz6om) | 2:53 | 2021-11-10 | 2021-11-12 |
 | [Не Ме Боли](https://open.spotify.com/track/4eyqPKjf3EPjsuLgtA0I6U) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [CAESAR](https://open.spotify.com/album/21IaJR7LfaalDFwkGAvP8e) | 3:26 | 2021-10-17 | 2021-10-21 |
+| [Не ме давай, татко!](https://open.spotify.com/track/4hq3RTXfB9Y6sVhZ7insII) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Не ме давай, татко!](https://open.spotify.com/album/6ijbBCe2tXLLb4MpDO06Yo) | 3:02 | 2023-07-07 |  |
 | [Не си ме давай](https://open.spotify.com/track/3e0vQbNB9cw7b6ke7L8ZeN) | [Sabi](https://open.spotify.com/artist/1goOMQQ0WvAs1SUlaVpI8r), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Не си ме давай](https://open.spotify.com/album/3ylmJjcYM6utvUqGpYVZjw) | 3:53 | 2022-12-29 |  |
 | [Недей са обяснява](https://open.spotify.com/track/1OEqCaZjd9ojM1NhblhncD) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Mom4eto](https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 2:53 | 2021-06-21 | 2021-06-25 |
 | [Никога твой](https://open.spotify.com/track/1JpqwDolccy7XGrFINYLYy) | [Donika](https://open.spotify.com/artist/3DJYC50MIKFpWotJVrxFJg), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Никога твой](https://open.spotify.com/album/0tlUI8VHoGeMlLObqABGMJ) | 2:49 | 2022-03-29 | 2022-05-15 |

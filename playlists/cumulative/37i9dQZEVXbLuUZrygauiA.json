@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
@@ -11540,6 +11540,32 @@
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "album": {
+        "name": "Mexican Invasion",
+        "url": "https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX"
+      },
+      "artists": [
+        {
+          "name": "T-Dre",
+          "url": "https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD"
+        },
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f"
+        },
+        {
+          "name": "Cali Life Style",
+          "url": "https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288156,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
     },
     {
       "album": {
@@ -16030,7 +16056,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 180880,
       "name": "Piripituchy",
       "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
@@ -17956,7 +17982,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 263606,
       "name": "Sal rosa",
       "url": "https://open.spotify.com/track/3hHb8Mw9HvlcFUBlSELElq"
@@ -23870,7 +23896,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"

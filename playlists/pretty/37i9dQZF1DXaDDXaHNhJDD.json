@@ -1,13 +1,33 @@
 {
-  "description": "Your ultimate playlist for the best in Mollywood!\nCover: Romancham",
-  "num_followers": 61277,
+  "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
+  "num_followers": 61409,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjk2YjRlM2U4NjZmYzZjMjkzMjM0NWM2ZWE4OWZlOTI5N2IzODBj",
+  "snapshot_id": "MCwzYmNmMTY1MGQ1Y2YzODlhZThhNDJlYmJhNzI3N2Q1NjVhNDlkMjNj",
   "tracks": [
+    {
+      "added_at": "2022-08-18 06:40:38",
+      "album": {
+        "name": "Manavaalan Thug (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Manavaalan Thug - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
+    },
     {
       "added_at": "2023-02-13 04:25:09",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 149278,
       "name": "Aadharanjali (From \"Romancham)",
       "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
-    },
-    {
-      "added_at": "2022-08-18 06:40:38",
-      "album": {
-        "name": "Manavaalan Thug (From \"Thallumaala\")",
-        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Manavaalan Thug - From \"Thallumaala\"",
-      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
     },
     {
       "added_at": "2023-05-15 09:38:30",
@@ -341,30 +341,6 @@
       "url": "https://open.spotify.com/track/5NDycJoUh9uaDVi0Hoqkh5"
     },
     {
-      "added_at": "2023-03-13 03:41:13",
-      "album": {
-        "name": "Karinthol (From \"Rrr\")",
-        "url": "https://open.spotify.com/album/1OIdyZqmKKnFSQqVOm0uSe"
-      },
-      "artists": [
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        },
-        {
-          "name": "Maragadhamani",
-          "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
-        }
-      ],
-      "duration_ms": 214389,
-      "name": "Karinthol (From \"Rrr\")",
-      "url": "https://open.spotify.com/track/1AcQmRLLDNAjB6Zi3OgEt4"
-    },
-    {
       "added_at": "2023-04-03 05:09:57",
       "album": {
         "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
@@ -451,26 +427,6 @@
       "duration_ms": 197538,
       "name": "Ingattu Nokku - From \"Chattambi\"",
       "url": "https://open.spotify.com/track/0WTIeBhKBR293BRjAiDjJD"
-    },
-    {
-      "added_at": "2022-08-18 06:40:38",
-      "album": {
-        "name": "Devadoothar Paadi (From \"Nna Thaan Case Kodu\")",
-        "url": "https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA"
-      },
-      "artists": [
-        {
-          "name": "Biju Narayanan",
-          "url": "https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx"
-        },
-        {
-          "name": "Ouseppachan",
-          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
-        }
-      ],
-      "duration_ms": 344791,
-      "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
-      "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
     },
     {
       "added_at": "2023-02-02 06:22:04",
@@ -959,26 +915,6 @@
     {
       "added_at": "2022-05-17 06:14:03",
       "album": {
-        "name": "Velipadinte Pusthakam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/10FVqAlUuZG99OqKW1Cle4"
-      },
-      "artists": [
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Renjith Unni",
-          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Entammede Jimikki Kammal",
-      "url": "https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B"
-    },
-    {
-      "added_at": "2022-05-17 06:14:03",
-      "album": {
         "name": "Raftaara (From \"Lucifer\")",
         "url": "https://open.spotify.com/album/6DyWpQpggHBivSY6Ya5kmG"
       },
@@ -1135,22 +1071,6 @@
       "duration_ms": 282776,
       "name": "Vaanam",
       "url": "https://open.spotify.com/track/7J1r94cV8CUtdiGPDe8APL"
-    },
-    {
-      "added_at": "2022-05-17 06:14:03",
-      "album": {
-        "name": "Joseph (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4IRajabvtEQsiitJjKvK2P"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        }
-      ],
-      "duration_ms": 290810,
-      "name": "Poomuthole",
-      "url": "https://open.spotify.com/track/6gCENembQSBTbuVLvjMerP"
     },
     {
       "added_at": "2022-05-17 06:14:03",

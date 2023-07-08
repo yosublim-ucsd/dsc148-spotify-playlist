@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/70u9s1ZchOeK4YFEMYPdKZ"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "1 Drink 2 Many",
+      "url": "https://open.spotify.com/track/1TlCkk6DxbS41hTVQEjhhf"
+    },
+    {
+      "album": {
         "name": "10 Percent",
         "url": "https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 155496,
       "name": "Bacc Like I Never Left",
       "url": "https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ"
@@ -4127,6 +4145,28 @@
     },
     {
       "album": {
+        "name": "Hell Of A Feeling (feat. LaRussell)",
+        "url": "https://open.spotify.com/album/4rOSVfwupNXRyakzIUi765"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255996,
+      "name": "Hell Of A Feeling (feat. LaRussell)",
+      "url": "https://open.spotify.com/track/7ijT5izrqUYkiVU7nBmPt9"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp"
       },
@@ -5018,7 +5058,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 156521,
       "name": "Keep Calling",
       "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
@@ -5793,6 +5833,24 @@
     },
     {
       "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ"
       },
@@ -5852,6 +5910,32 @@
       "duration_ms": 146285,
       "name": "Meat This",
       "url": "https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP"
+    },
+    {
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Midnight Oil (feat. Larry June & Jay Worthy)",
+      "url": "https://open.spotify.com/track/0xkeObNA3vzp5tzpXNwbbF"
     },
     {
       "album": {
@@ -6826,7 +6910,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 158240,
       "name": "Nuthin 2 Krazy",
       "url": "https://open.spotify.com/track/6b0ENlBpO9z9fcHiDO2Q84"
@@ -8060,7 +8144,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 170661,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy"
@@ -8104,6 +8188,28 @@
       "duration_ms": 186122,
       "name": "Say Lady",
       "url": "https://open.spotify.com/track/0DxmOT2FElosMIw0LHerwC"
+    },
+    {
+      "album": {
+        "name": "Say Luv",
+        "url": "https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140074,
+      "name": "Say Luv",
+      "url": "https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1"
     },
     {
       "album": {
@@ -8250,7 +8356,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 213333,
       "name": "Shake That Shit (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5"

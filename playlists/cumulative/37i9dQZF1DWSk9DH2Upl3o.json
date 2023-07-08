@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 218293,
       "name": "Bittersweet Ending (Kev Rowe)",
       "url": "https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 378531,
       "name": "Movin On",
       "url": "https://open.spotify.com/track/12Ba6mKHtXygjTcUp4aGfH"
@@ -1638,6 +1638,24 @@
       "duration_ms": 286119,
       "name": "On and On",
       "url": "https://open.spotify.com/track/24DTU2rSsVkiehF2bxUKRL"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2oW4uG3cuWhOAgJwuw6gZO"
+      },
+      "artists": [
+        {
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6"
     },
     {
       "album": {
@@ -1981,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Smoke on the Shoulder",
+        "url": "https://open.spotify.com/album/0IqZzNKnF55j1gi0TL9zqi"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "Smoke on the Shoulder",
+      "url": "https://open.spotify.com/track/6VhKlQjE2fOgnX1pTdS0Ow"
+    },
+    {
+      "album": {
         "name": "So Hi // So Lo",
         "url": "https://open.spotify.com/album/4H0JNm9NuL5vdpsVEk6mdu"
       },
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 282213,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/4nzCwV6pz7bvDBg9jlVtEM"
@@ -2600,6 +2636,24 @@
       "duration_ms": 160157,
       "name": "Waltz of a Thousand Stars",
       "url": "https://open.spotify.com/track/7t81QaJ5tYzJVbX17Damcc"
+    },
+    {
+      "album": {
+        "name": "Warming Up",
+        "url": "https://open.spotify.com/album/37LcA7IfthCIjmFG4v1Vsn"
+      },
+      "artists": [
+        {
+          "name": "Jon Sullivan Band",
+          "url": "https://open.spotify.com/artist/23FBB7KARNDUnKXhzo93Pb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338026,
+      "name": "Warming Up",
+      "url": "https://open.spotify.com/track/5atSKRkn8KIc6juTtZuRja"
     },
     {
       "album": {

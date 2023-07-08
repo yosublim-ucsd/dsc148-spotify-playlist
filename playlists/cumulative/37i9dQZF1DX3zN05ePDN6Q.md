@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> Tem rap nacional tem boom bap na área\. Foto: Sain, Febem
+> Tem rap nacional tem boom bap na área\. Foto: Sain
 
-289 songs - 16 hr 2 min
+290 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [De Coração \- Extended Version](https://open.spotify.com/track/0qASMrCdhWRjnjqsav11aF) | [Arthur Freestyle](https://open.spotify.com/artist/7tRuMFXUl7QIgTbou4dJkc), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [De Coração \(Extended Version\)](https://open.spotify.com/album/4uiORO4JWPPuRNNWECjlPi) | 4:10 | 2023-03-10 |  |
 | [Deixa Baixo](https://open.spotify.com/track/2Vo6Qal0SmLAR48FehTkRv) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [DaHype](https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM) | [Deixa Baixo](https://open.spotify.com/album/2XQeYibbFQekoQxmw1lvU3) | 4:13 | 2023-05-19 |  |
 | [Deixa Girar](https://open.spotify.com/track/5vS3poJ0YgEYFJuyXzSSaI) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Hermes MC](https://open.spotify.com/artist/1Hbs5vIF6Ry4xM3awFcb1h) | [Deixa Girar](https://open.spotify.com/album/4FjIU21YzjyxdjUGD2aMzT) | 3:31 | 2022-12-09 | 2022-12-17 |
+| [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Arthur Luna Beccaris](https://open.spotify.com/artist/1C4hfM3tF2ZBZ54TOZne6T) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 | 2023-07-07 |  |
 | [Depoimento](https://open.spotify.com/track/42p0xuP2D0qSqd7qZr1Or0) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruno Cunha](https://open.spotify.com/artist/7BRalUBpDkkEu9lbgu05dv) | [Depoimento](https://open.spotify.com/album/1M6ns1RMj8vsHGUjrTbBno) | 2:50 | 2022-07-29 | 2022-08-13 |
 | [Depressão Freestyle](https://open.spotify.com/track/1yeYXm6mMGgo2EVmZ1w39r) | [Bruno Darko](https://open.spotify.com/artist/27jhhOC9dxRGWFhfgVuIjJ), [Neutro](https://open.spotify.com/artist/4IQcaVLkIDtZJlM8cGYuuw) | [Depressão Freestyle](https://open.spotify.com/album/3RHQIpHYgJa7vxbuoqUZQs) | 1:13 | 2022-05-20 | 2022-05-28 |
 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 | 2022-07-01 |  |
@@ -117,7 +118,7 @@
 | [Forte](https://open.spotify.com/track/25WxHeVrvnZlqw77YCUBw4) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf) | [Forte](https://open.spotify.com/album/0OMWmUYryA0lJzXhR5vGEj) | 3:03 | 2023-03-24 | 2023-04-03 |
 | [Forte](https://open.spotify.com/track/022xGfOjOH2Hm9zP6WoPPO) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [DJ Erick Jay](https://open.spotify.com/artist/3Jwzin3ekPemfhs79RrsOf), [Beatmonk](https://open.spotify.com/artist/50OGScQr1zEwOnwxJqbXBh) | [Forte](https://open.spotify.com/album/6iWJpsVhxmHkNpjJRgFwoI) | 3:03 | 2023-03-31 |  |
 | [Fé Absoluta](https://open.spotify.com/track/4jGhKkUCIdaFol6T1lNyKQ) | [SXN!](https://open.spotify.com/artist/1iezxPg7OHTfSrQFhqm09M), [Dlucca](https://open.spotify.com/artist/6bJji9rCX7JLhomeGUCYDP) | [Fé Absoluta](https://open.spotify.com/album/5SEBrbtCm3469FdScP7g2O) | 3:43 | 2022-04-01 | 2022-06-04 |
-| [Fé no Delírio](https://open.spotify.com/track/1XXqoP3E33I6eJBVbDY0z3) | [Matuz](https://open.spotify.com/artist/22UKKzrqlzCs9eHJk05XxE), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Fé no Delírio](https://open.spotify.com/album/3oEASyrGw9QjgKCV2tC2yT) | 2:51 | 2023-05-26 |  |
+| [Fé no Delírio](https://open.spotify.com/track/1XXqoP3E33I6eJBVbDY0z3) | [Matuz](https://open.spotify.com/artist/22UKKzrqlzCs9eHJk05XxE), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Fé no Delírio](https://open.spotify.com/album/3oEASyrGw9QjgKCV2tC2yT) | 2:51 | 2023-05-26 | 2023-07-08 |
 | [Fé No Processo](https://open.spotify.com/track/3wx7XAAC8SjXpOMv8YDVhe) | [Epílogo](https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Fé No Processo](https://open.spotify.com/album/5K4vMTbZjJzzwSSY8TEZ0m) | 3:16 | 2022-06-03 | 2023-01-28 |
 | [Ganhe Dinheiro ou Morra](https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg) | [Jacksom](https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn), [Dj Novset](https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD) | [Ganhe Dinheiro ou Morra](https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd) | 3:00 | 2022-06-03 | 2022-11-12 |
 | [Gestão Inteligente](https://open.spotify.com/track/2ZyWcxtPhrTC8mSNW1y4aL) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob) | [Gestão Inteligente](https://open.spotify.com/album/3nMXu0UsQ9EsjArYfJEdeN) | 2:34 | 2022-08-26 | 2022-09-03 |

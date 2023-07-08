@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Bunter Asphalt",
+        "url": "https://open.spotify.com/album/7nKNbHoQdlph2NDYdXo2nG"
+      },
+      "artists": [
+        {
+          "name": "Dell\u00e9",
+          "url": "https://open.spotify.com/artist/4Bldm9wIvjM4fDXyDLwH9i"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Bunter Asphalt",
+      "url": "https://open.spotify.com/track/3kXsWZAq73WHM9NTEA7WZd"
+    },
+    {
+      "album": {
         "name": "CANADA",
         "url": "https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW"
       },
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 216000,
       "name": "Mashonzha",
       "url": "https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh"
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-08",
       "duration_ms": 450000,
       "name": "Mystery Lady - Scorpion Kings Remix",
       "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"

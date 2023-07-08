@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Tanner Adell
 
-363 songs - 18 hr 20 min
+364 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bonfire](https://open.spotify.com/track/35Wg7qEpf5Ai1c6PDm5v4Q) | [Greg Keys](https://open.spotify.com/artist/026BdhMiLdezQFhx6zujEa), [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Bonfire](https://open.spotify.com/album/0jChumoxm3xtMlxFNlBR1A) | 3:37 | 2021-12-10 | 2022-06-18 |
 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 | 2022-01-28 |  |
 | [Bottom Of This Bottle](https://open.spotify.com/track/7JhbMQw7V8qsJoCGh29SKp) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9), [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Bottom Of This Bottle](https://open.spotify.com/album/6Jwg4j56ovv2lKOOdaup4R) | 3:10 | 2021-12-10 | 2022-04-09 |
+| [Bourbon In Barrels](https://open.spotify.com/track/3tMdzDTUhQbBH7pTqP4Oik) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP), [UG skywalkin](https://open.spotify.com/artist/0ueHgiiwRHbqzl5vUzv6GW) | [Bourbon In Barrels](https://open.spotify.com/album/3xeIDLOOg5cnb0PQHS70aW) | 2:31 | 2023-07-07 |  |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-10 | 2023-05-04 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-14 | 2023-01-04 |
 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 | 2021-12-17 |  |

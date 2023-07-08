@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,135 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,327 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Estágio](https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estágio](https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk) | 4:19 |
 | 150 | [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 |
 
-Snapshot ID: `MCxjZGRkZjNjYWI3MzVhNzgyZGQ1ZTAxZjY2Yjk5NzU1YzM5YjIyNTFj`
+Snapshot ID: `MCxlODJmNTY1MDk0MGFhMzA2MmYyYTNhNTY5MmFlODczYTZlMjliMzc5`

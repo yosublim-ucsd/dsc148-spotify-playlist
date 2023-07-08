@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,777 likes - 200 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,830 likes - 200 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 199 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 |
 | 200 | [Delighted to be Free](https://open.spotify.com/track/4PhODd2drbUzTfzOvSWY6g) | [Awkward Moments](https://open.spotify.com/artist/7cOkx7Bfr5L9j5VVkOAWXW) | [Ambient Layers](https://open.spotify.com/album/5YdO5KcCWwCEQv5urzXCfz) | 4:00 |
 
-Snapshot ID: `MCwxOTUyMjQ4MjJiMGQzNjdiODAwMDU0MzRhYmI4YzU4YzBhZWQ4YWU2`
+Snapshot ID: `MCxlYmRiZTE0NzIyOTJjYWU1OGNiZGI5MGM5NjE2MzA1ODRkYjYwZjNm`

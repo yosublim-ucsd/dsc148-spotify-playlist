@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, makko, t\-low
 
-1,021 songs - 2 day 0 hr 42 min
+1,023 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,8 @@
 | [Nachts wach \(Lila Wolken Bootleg\)](https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach \(Remix EP\)](https://open.spotify.com/album/3iHDtutprAk1q5Fe55till) | 2:38 | 2022-08-25 | 2022-11-21 |
 | [Nachtschicht](https://open.spotify.com/track/2zd0CD8RMHR4cuJcgdJXly) | [Jaill](https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ortus Solis](https://open.spotify.com/album/6LrKN6SY8FKOZz2ClZ37em) | 3:25 | 2022-07-14 | 2022-07-26 |
 | [NAPOLEON](https://open.spotify.com/track/49EO0VHHts92I0ZRrbLCKF) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [NAPOLEON](https://open.spotify.com/album/7Ikc5Wa5WJR8durhYokDsg) | 2:23 | 2023-02-02 | 2023-03-25 |
-| [neonlichter](https://open.spotify.com/track/453YZ9FEA0mOt1hg053G6h) | [nikan](https://open.spotify.com/artist/2OiRLm3KVbAyUj8U4SoUCM) | [neonlichter](https://open.spotify.com/album/6L7u4NojIIWmpErD4bEO6b) | 2:19 | 2023-07-06 |  |
+| [neonlichter](https://open.spotify.com/track/453YZ9FEA0mOt1hg053G6h) | [nikan](https://open.spotify.com/artist/2OiRLm3KVbAyUj8U4SoUCM) | [neonlichter](https://open.spotify.com/album/6L7u4NojIIWmpErD4bEO6b) | 2:19 | 2023-07-06 | 2023-07-08 |
+| [neonlichter](https://open.spotify.com/track/7tjXY1FyBF4dceRJVHpsOH) | [nikan](https://open.spotify.com/artist/2OiRLm3KVbAyUj8U4SoUCM) | [bittersüss](https://open.spotify.com/album/2CAfkMIWyGWRoGiHWLpSs8) | 2:19 | 2023-07-06 |  |
 | [Neunzig](https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Neunzig](https://open.spotify.com/album/4sTrbesmnig1SJYSBYAJBn) | 2:25 | 2023-04-27 | 2023-05-19 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-17 | 2023-06-23 |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2022-06-13 | 2022-06-24 |
@@ -701,6 +702,7 @@
 | [Pirouetten](https://open.spotify.com/track/19oh6bdG1lvSL2loTOGi09) | [Helsynki](https://open.spotify.com/artist/09CPWQj1yNBn950BwzCRRb), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Pirouetten](https://open.spotify.com/album/373hdity9HcAEuKK7TBjVM) | 2:18 | 2023-04-20 | 2023-05-05 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-05 | 2023-04-07 |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2022-08-18 | 2022-09-02 |
+| [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-06 |  |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-20 | 2022-11-11 |
 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 | 2023-05-11 | 2023-05-26 |
 | [POOL](https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3) | [MADEIRA MADNESS](https://open.spotify.com/album/1UpIYat89xq5ivr1CzpDKl) | 2:53 | 2022-10-13 | 2022-11-04 |

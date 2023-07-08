@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,642 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,787 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 3:10 |
 | 150 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 |
 
-Snapshot ID: `MCxkNDQxN2NmNTI0ZTBjM2NmNzk4NjA1ODdhNzRlNWEyMjA4MmExOWEw`
+Snapshot ID: `MCw5OGQ2ODkxOTlkMDE4OWVlNjk0NDljN2YzOWQ3Nzk4NWZmYjQ0YWRj`

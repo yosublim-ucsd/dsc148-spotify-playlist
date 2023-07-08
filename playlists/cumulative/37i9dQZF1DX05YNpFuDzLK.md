@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-74 songs - 4 hr 32 min
+75 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Salvation](https://open.spotify.com/track/3irK9WOSOIUxPVobKUpkxj) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:42 | 2022-11-17 |  |
 | [Serious Landscape](https://open.spotify.com/track/6fWhrSFAm5ISISLcY97L4c) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:05 | 2022-11-17 | 2023-07-07 |
 | [Shirley](https://open.spotify.com/track/562R2Qhkk98stqCUsQV8EB) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:38 | 2023-07-06 |  |
-| [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/track/64R3TW0uTp1cy9Xi9yC2pL) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [シャーリー\(CV.折笠富美子\)](https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5) | [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/album/3pJsZDFSdhE8Z5yqI9Dygn) | 3:47 | 2023-07-06 |  |
+| [Shirley \(Shirley Fenette ver.\)](https://open.spotify.com/track/45xfqD9Ad3YgIy6KDmG7NE) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [シャーリー\(CV.折笠富美子\)](https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5) | [Shirley \(Shirley Fenette ver.\)](https://open.spotify.com/album/1KZCfSh39gPRU3O8BwBBb4) | 3:47 | 2023-07-06 |  |
+| [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/track/64R3TW0uTp1cy9Xi9yC2pL) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [シャーリー\(CV.折笠富美子\)](https://open.spotify.com/artist/4ybg4Gm4f3tDZn1p7DpWw5) | [Shirley \(シャーリー・フェネットver.\)](https://open.spotify.com/album/3pJsZDFSdhE8Z5yqI9Dygn) | 3:47 | 2023-07-06 | 2023-07-08 |
 | [SILENT](https://open.spotify.com/track/0V7BB50KQOQXuwXamAkk8g) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:43 | 2023-07-06 |  |
 | [Stories](https://open.spotify.com/track/6oLdsKc3HYsBgmMKhwoOlK) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 1](https://open.spotify.com/album/2L4B0cobrQ4MN2RvsuvJRx) | 5:19 | 2022-10-01 | 2022-11-14 |
 | [Stories](https://open.spotify.com/track/1nS1lUTYXp6gO3ssPSKGU1) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 5:19 | 2022-08-04 |  |

@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Vampire in Appalachia",
+        "url": "https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu"
+      },
+      "artists": [
+        {
+          "name": "Philip Bowen",
+          "url": "https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9"
+        },
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184975,
+      "name": "Vampire in Appalachia",
+      "url": "https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo"
+    },
+    {
+      "album": {
         "name": "Sudden Opera",
         "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
       },

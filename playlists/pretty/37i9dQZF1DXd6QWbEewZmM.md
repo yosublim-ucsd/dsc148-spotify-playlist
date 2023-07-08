@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,916 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,142 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 100 | [Enfocado En El Dinero](https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Enfocado En El Dinero](https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC) | 2:32 |
 
-Snapshot ID: `MCxkMmJjMDNmZTliNWNkYjE2N2YzOTlmZGNhZTMyZDIwZDc2NWJlYThk`
+Snapshot ID: `MCwwYWRiZDBlNjdkNzkzYWY1YjFiOTY0ODRmYjAwZWM5ZDVmZTZkMWFm`
