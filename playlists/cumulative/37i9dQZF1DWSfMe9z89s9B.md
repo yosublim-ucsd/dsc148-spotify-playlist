@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Sampha
 
-892 songs - 2 day 0 hr 13 min
+893 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [alright](https://open.spotify.com/track/4twgRiWgXqAXgIav4CSsBq) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [alright](https://open.spotify.com/album/58zAZhucz2wGL2O4YQpS9R) | 2:18 | 2022-04-01 | 2022-04-14 |
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-06-10 | 2022-07-28 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2022-07-23 |
-| [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 | 2023-06-23 |  |
+| [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 | 2023-06-23 | 2023-07-09 |
 | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/track/1n0XdG69mCrBG4ssLAFe1S) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/album/40e6KofbEaCqosHBg0Saag) | 4:45 | 2023-06-23 |  |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2021-03-19 | 2022-07-23 |
 | [AMERICAN GURL](https://open.spotify.com/track/4wYmgjrDbHprid8pODwPq4) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/1onm247Cd6CExLh8CcnhVy) | 3:48 | 2022-04-01 | 2022-04-09 |
@@ -661,6 +661,7 @@
 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 | 2023-02-24 | 2023-04-01 |
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2021-03-19 | 2022-01-06 |
 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 | 2022-07-15 |  |
+| [SATURDAY](https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SATURDAY](https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m) | 2:39 | 2023-06-30 |  |
 | [Save My Number](https://open.spotify.com/track/2NCcyscxO8FRjfycY1xCa2) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 |  |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-11 |

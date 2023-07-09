@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2631064,
+  "num_followers": 2631290,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZjYWNmMzhhNDcwOWIxMGUyOTA4NWE3ZmVkMWU2Y2Y1ZTJlNmYz",
+  "snapshot_id": "MCxlYmE3Nzc1YTgzZDBhZjM2ZTJlNTFmMDM3NjhhOWVkYjgyMTZiYjE2",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "COOL RELAX",
-        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Keith Sweat",
@@ -127,6 +111,22 @@
       "duration_ms": 264773,
       "name": "Nobody (feat. Athena Cage)",
       "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
+    },
+    {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "COOL RELAX",
+        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Rufus Featuring Chaka Khan",
@@ -251,22 +267,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Freak Me",
-      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Blackstreet",
-        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
-      },
-      "artists": [
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 282333,
       "name": "Kissin' You",
       "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "The Gap Band III",
-        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 340933,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "In Full Bloom",
         "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Gap Band III",
+        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 340933,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -613,20 +629,20 @@
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
         }
       ],
-      "duration_ms": 290933,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+      "duration_ms": 323826,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -647,22 +663,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 323826,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -715,34 +731,18 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+        "name": "Chillin'",
+        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Force M.D.'s",
+          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
         }
       ],
-      "duration_ms": 267160,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+      "duration_ms": 234053,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Chillin'",
-        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
       "artists": [
         {
-          "name": "Force M.D.'s",
-          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Tender Love",
-      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-02-02 23:04:07",

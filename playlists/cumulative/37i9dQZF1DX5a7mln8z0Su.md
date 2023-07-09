@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-221 songs - 12 hr 31 min
+222 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [DANCE](https://open.spotify.com/track/0DUTC8bzJvSXudIv5IQqVY) | [Z.flat](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [DANCE](https://open.spotify.com/album/51ON5n5bYm9kycCGUbvJ0Q) | 3:00 | 2022-06-18 | 2022-07-24 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2022-05-11 | 2022-07-27 |
 | [Dear\. My Side](https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH) | [Park Do Ha](https://open.spotify.com/artist/6Mv1YjL5xpxbMLTgIqdgul) | [Dear\. My Side](https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ) | 3:39 | 2022-05-11 | 2022-07-24 |
-| [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 | 2022-12-26 |  |
+| [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 | 2022-12-26 | 2023-07-09 |
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-08 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-22 |  |
 | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/track/6bAPp4QeJVZsNV25qeNpnQ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP), [Han So Hyun](https://open.spotify.com/artist/1rPMbGyEuqszrddihRZ7Iq) | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/album/4u6oiRKDWp20C75Y13EjGt) | 4:02 | 2022-07-08 | 2022-07-22 |
@@ -103,7 +103,7 @@
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-05-11 | 2022-07-27 |
 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-04 |  |
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
-| [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
+| [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 | 2023-07-09 |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 | 2023-07-04 |
 | [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-01-25 | 2023-03-25 |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-07-24 |
@@ -129,7 +129,8 @@
 | [Moonlight](https://open.spotify.com/track/4eZ9loHPbWoqloowcIjpmn) | [CHAHN](https://open.spotify.com/artist/68THMb8TxW3Z4c4xN4Ne1g), [Jiwoo](https://open.spotify.com/artist/0G43e5mxF38JfyJKwlxXQu) | [002.LONDON CAFE](https://open.spotify.com/album/4i4FhEW6tXsXg9qH18gATU) | 3:05 | 2022-05-11 | 2022-07-27 |
 | [My Monday](https://open.spotify.com/track/2aynDdyhQhR2LoBpXXEtBJ) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [My Monday](https://open.spotify.com/album/1I6Q6XDcmQM0YKzydu8k8F) | 3:00 | 2022-05-11 | 2022-07-17 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-18 | 2022-12-22 |
-| [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 | 2022-06-09 | 2023-05-14 |
+| [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 | 2022-06-09 |  |
+| [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-13 | 2023-01-29 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2022-08-23 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 | 2023-03-11 |  |

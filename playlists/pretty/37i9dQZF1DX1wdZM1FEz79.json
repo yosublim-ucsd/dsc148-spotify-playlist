@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: CHEEZE(\uce58\uc988)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 264674,
+  "num_followers": 264776,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmU4MzU5MzhmMzY0NGFiMTU0NGQxYWIxNzkyYWI0YjU1ZmVhOGYy",
+  "snapshot_id": "MCw1NjkyMDkxMDMwOWRmZDk1YjgzZmJjZWJmYmE1NWFjYjJjMWY1ZDNm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:49:44",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-07-07 15:49:44",
       "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
+    },
+    {
+      "added_at": "2023-07-07 15:49:44",
+      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2023-07-07 15:49:44",
-      "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2023-07-07 15:49:44",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-07-07 15:49:44",
       "album": {
-        "name": "Just 10 centimeters",
-        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Just 10 centimeters",
-      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
-    },
-    {
-      "added_at": "2023-07-07 15:49:44",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 205683,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
+    },
+    {
+      "added_at": "2023-07-07 15:49:44",
+      "album": {
+        "name": "Just 10 centimeters",
+        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Just 10 centimeters",
+      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2023-07-07 15:49:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-07 15:49:44",
       "album": {
-        "name": "5.4 [My Ultimate First Love]",
-        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "My Ultimate First Love",
-      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
-    },
-    {
-      "added_at": "2023-07-07 15:49:44",
-      "album": {
         "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 209230,
       "name": "with you",
       "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
+    },
+    {
+      "added_at": "2023-07-07 15:49:44",
+      "album": {
+        "name": "5.4 [My Ultimate First Love]",
+        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "My Ultimate First Love",
+      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
     },
     {
       "added_at": "2023-07-07 15:49:44",

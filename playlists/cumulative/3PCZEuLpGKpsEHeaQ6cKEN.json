@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: D.O.D",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Punctual",
   "name": "Armada Today",
   "tracks": [
     {
@@ -10326,10 +10326,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 153088,
       "name": "So Much In Love - Sped Up",
       "url": "https://open.spotify.com/track/0zCIiBHKWGJejY3ji35IVr"
+    },
+    {
+      "album": {
+        "name": "So Much In Love (Symmetrik Remix)",
+        "url": "https://open.spotify.com/album/3EJQjppVdrqkvu7CmNrfBQ"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "So Much In Love - Symmetrik Remix",
+      "url": "https://open.spotify.com/track/2Li9PhSrXPNGP8rXtoAYlQ"
     },
     {
       "album": {

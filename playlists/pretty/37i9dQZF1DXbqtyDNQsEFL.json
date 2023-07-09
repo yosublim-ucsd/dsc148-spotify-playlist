@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 38448,
+  "num_followers": 38494,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjdkYThkNjU1YWQ0MjZiZTYxM2QyZWRmYjVlYTdhZjg0NmZhYTc1",
+  "snapshot_id": "MCxjODgxZDgzNjQ4MTc3YmY5MWVmMzFiOWVmMTc2NGM1YWQ0ZjI0NWY3",
   "tracks": [
     {
       "added_at": "2023-07-07 00:01:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "This God Is Too Good",
         "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 552855,
-      "name": "Obinigwe",
-      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Kingdom Now",
         "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 552855,
+      "name": "Obinigwe",
+      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
       "added_at": "2023-06-30 00:01:00",
       "album": {
         "name": "Daily",
@@ -835,6 +819,22 @@
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -899,18 +879,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -951,22 +935,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1097,24 +1097,20 @@
       "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
     },
     {
-      "added_at": "2023-06-16 07:12:46",
+      "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+        "name": "Yahweh Be Praised",
+        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Wonder (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+      "duration_ms": 327554,
+      "name": "Yahweh Be Praised",
+      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1139,22 +1135,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+      "duration_ms": 243040,
+      "name": "Wonder (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1171,6 +1167,26 @@
       "duration_ms": 360486,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1241,20 +1257,20 @@
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
-      "added_at": "2023-06-30 00:01:00",
+      "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Yahweh Be Praised",
-        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 327554,
-      "name": "Yahweh Be Praised",
-      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1271,22 +1287,6 @@
       "duration_ms": 357236,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "To The One",
         "url": "https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 594782,
       "name": "To The One",
       "url": "https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1425,6 +1425,26 @@
       "url": "https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA"
     },
     {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
       "added_at": "2023-06-16 07:12:46",
       "album": {
         "name": "Victory",
@@ -1451,22 +1471,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Your Glory",
-        "url": "https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ"
-      },
-      "artists": [
-        {
-          "name": "Nene Olajide",
-          "url": "https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "I will soar",
-      "url": "https://open.spotify.com/track/1Eag9P72ROslztON6d2z15"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "IBUKA",
         "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
       },
@@ -1483,6 +1487,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Your Glory",
+        "url": "https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ"
+      },
+      "artists": [
+        {
+          "name": "Nene Olajide",
+          "url": "https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "I will soar",
+      "url": "https://open.spotify.com/track/1Eag9P72ROslztON6d2z15"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
@@ -1495,30 +1515,6 @@
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "NEVER FORGET",
-        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "NEVER FORGET",
-      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     }
   ],
   "unique_name": "Be Lifted ",

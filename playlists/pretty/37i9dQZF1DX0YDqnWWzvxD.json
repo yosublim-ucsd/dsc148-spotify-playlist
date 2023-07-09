@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 68820,
+  "num_followers": 68863,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2QxZDM4OTNhN2RmMTE5YWE0ZGM2MTc3Mzk5NjU3MmE4NGY4ZTBi",
+  "snapshot_id": "MCxkYjZhMDdlZjJhMDA1MjBkZDVmNTc3OTFiZGY0ODAyNmI3YmZkYjI2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 166827,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 165920,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 166827,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -323,6 +323,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 134504,
       "name": "Bedside Angels",
       "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Benny Bernstein",
-        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 154246,
-      "name": "Conscious Jorney",
-      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/4JSl7jspo0pnnh4iy3z2NQ"
     },
     {
-      "added_at": "2023-05-10 11:43:32",
-      "album": {
-        "name": "Blue Dunes",
-        "url": "https://open.spotify.com/album/5L1AdJPeUnvRwyEk8OFx6g"
-      },
-      "artists": [
-        {
-          "name": "Soulgarden",
-          "url": "https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Blue Dunes",
-      "url": "https://open.spotify.com/track/7p8brxEGCXT8VF4wWphDGI"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Incomplete",
@@ -455,6 +439,22 @@
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+    },
+    {
+      "added_at": "2023-05-10 11:43:32",
+      "album": {
+        "name": "Blue Dunes",
+        "url": "https://open.spotify.com/album/5L1AdJPeUnvRwyEk8OFx6g"
+      },
+      "artists": [
+        {
+          "name": "Soulgarden",
+          "url": "https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Blue Dunes",
+      "url": "https://open.spotify.com/track/7p8brxEGCXT8VF4wWphDGI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Sleeping Traveller",
+        "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Insitarament",
+      "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 345319,
       "name": "Savasana Sunrise - Dawn Flow",
       "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Sleeping Traveller",
-        "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Insitarament",
-      "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Long Long Sleep",
-        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
+        "name": "Holistic Relaxation",
+        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
       },
       "artists": [
         {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+          "name": "Philip Guyler",
+          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
         }
       ],
-      "duration_ms": 137854,
-      "name": "Long Long Sleep",
-      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
+      "duration_ms": 364266,
+      "name": "Garden of Peace",
+      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -675,34 +675,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Holistic Relaxation",
-        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
+        "name": "Long Long Sleep",
+        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
       "artists": [
         {
-          "name": "Philip Guyler",
-          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
         }
       ],
-      "duration_ms": 364266,
-      "name": "Garden of Peace",
-      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Savasana",
-        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
-      },
-      "artists": [
-        {
-          "name": "Sintrano",
-          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
-        }
-      ],
-      "duration_ms": 131284,
-      "name": "Savasana",
-      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
+      "duration_ms": 137854,
+      "name": "Long Long Sleep",
+      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -719,6 +703,22 @@
       "duration_ms": 399666,
       "name": "Goddess Evocation",
       "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Savasana",
+        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
+      },
+      "artists": [
+        {
+          "name": "Sintrano",
+          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
+        }
+      ],
+      "duration_ms": 131284,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Jupiter Grains",
-        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Meditation: Soft Mindfulness",
-      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pamanyungan",
         "url": "https://open.spotify.com/album/4GafeD514GWyl9actIQHbA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 499696,
       "name": "Earth and Sky",
       "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Jupiter Grains",
+        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Meditation: Soft Mindfulness",
+      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -853,26 +853,6 @@
       "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
     },
     {
-      "added_at": "2023-05-10 11:43:32",
-      "album": {
-        "name": "In A River",
-        "url": "https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a"
-      },
-      "artists": [
-        {
-          "name": "Winston Church",
-          "url": "https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi"
-        },
-        {
-          "name": "David Peter Vestin",
-          "url": "https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3"
-        }
-      ],
-      "duration_ms": 121373,
-      "name": "In A River",
-      "url": "https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Echoes of Silence",
@@ -891,6 +871,26 @@
       "duration_ms": 217573,
       "name": "Flutes of Harmony",
       "url": "https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn"
+    },
+    {
+      "added_at": "2023-05-10 11:43:32",
+      "album": {
+        "name": "In A River",
+        "url": "https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a"
+      },
+      "artists": [
+        {
+          "name": "Winston Church",
+          "url": "https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi"
+        },
+        {
+          "name": "David Peter Vestin",
+          "url": "https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3"
+        }
+      ],
+      "duration_ms": 121373,
+      "name": "In A River",
+      "url": "https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 247022,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+      },
+      "artists": [
+        {
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Yoga World Meditation Vol .1",
-        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
-      },
-      "artists": [
-        {
-          "name": "One Trybal",
-          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
-        }
-      ],
-      "duration_ms": 274186,
-      "name": "Light and Color",
-      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga World Meditation Vol .1",
+        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
+      },
+      "artists": [
+        {
+          "name": "One Trybal",
+          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
+        }
+      ],
+      "duration_ms": 274186,
+      "name": "Light and Color",
+      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG"
     },
     {
-      "added_at": "2023-05-10 11:43:32",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9"
-      },
-      "artists": [
-        {
-          "name": "Michael Logozar",
-          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
-        }
-      ],
-      "duration_ms": 169303,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Jardin Zen - Musique Asiatique avec des Sons de la Nature",
@@ -1507,6 +1491,22 @@
       "duration_ms": 322478,
       "name": "Relaxation Music",
       "url": "https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt"
+    },
+    {
+      "added_at": "2023-05-10 11:43:32",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "duration_ms": 169303,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3"
     },
     {
       "added_at": "2021-06-15 08:38:14",

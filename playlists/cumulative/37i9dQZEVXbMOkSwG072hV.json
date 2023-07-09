@@ -3873,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "Speak Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Better Than Revenge",
+      "url": "https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC"
+    },
+    {
+      "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
       },
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -9009,6 +9027,28 @@
     },
     {
       "album": {
+        "name": "Em Quatro Paredes Eu Vou Acabar Contigo",
+        "url": "https://open.spotify.com/album/34usctWcwTf3ZLwBOrvg1s"
+      },
+      "artists": [
+        {
+          "name": "DJ Nz7",
+          "url": "https://open.spotify.com/artist/75QsoyqH40dfu6i6zEQi9P"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191495,
+      "name": "Em Quatro Paredes Eu Vou Acabar Contigo",
+      "url": "https://open.spotify.com/track/2rc8DGft2OCyM45iTvzAEG"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -11416,7 +11456,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 238153,
       "name": "Fuma do Kunk Amor o Tetel Voc\u00ea que Pagou",
       "url": "https://open.spotify.com/track/5xQv8Cff2wvivGwU2hEGcl"
@@ -11486,7 +11526,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 112008,
       "name": "Garota Absurda",
       "url": "https://open.spotify.com/track/23Dssnc0RVjsICs9JNGRZX"
@@ -27918,7 +27958,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 105454,
       "name": "Toma Toma Pau",
       "url": "https://open.spotify.com/track/353gM5AZL8OWRoBYR2JxDs"

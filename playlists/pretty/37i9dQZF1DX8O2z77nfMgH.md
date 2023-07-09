@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,884 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,958 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 49 | [Keep Stepping](https://open.spotify.com/track/7Fs0TYkdrk4E46IdWHDGim) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Soul Glow](https://open.spotify.com/album/17lIm26ljC86dEhcBDf0Rs) | 4:04 |
 | 50 | [Caos](https://open.spotify.com/track/70EinsQyB0rxfvtCuqhqFr) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Caos](https://open.spotify.com/album/3e7A0tT3QQPLZjNVvPxcmt) | 3:47 |
-| 51 | [Solteiro Forçado \- \(Boiadeira Internacional\)](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 |
+| 51 | [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 |
 | 52 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/0zzQaay3HAzltZjDTRP9sN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/2xTads2t8xoKGxeU1hW1yF) | 2:33 |
 | 53 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 |
 | 54 | [Tengo](https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Tengo](https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g) | 2:09 |
-| 55 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Arthur Luna Beccaris](https://open.spotify.com/artist/1C4hfM3tF2ZBZ54TOZne6T) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
+| 55 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
 | 56 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
 
-Snapshot ID: `MCxhNDcxZjE3NjI3NzlkMGVhYTZkNjhkZTNkYzc1NjhlNGQwMWFmYzE2`
+Snapshot ID: `MCwyMDJiOTcxYjk0NWIzODhmOGIyNjliYzQ3NjZlOWQ0OWUxYTQzN2Qw`

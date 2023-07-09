@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-201 songs - 12 hr 3 min
+202 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Háblame de Ti](https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS) | 3:31 | 2023-04-07 |  |
 | [Imposible Olvidarte](https://open.spotify.com/track/7rDdwH8FRnHHsWZSsLJ7fB) | [Sergio Moran](https://open.spotify.com/artist/5Epal131XDOm4RrZYx6kDQ) | [Como Tú](https://open.spotify.com/album/6CO9vS875lEVjA2HDgyCTL) | 3:20 | 2022-06-03 | 2022-07-29 |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2022-04-15 | 2022-06-22 |
+| [Insaciable](https://open.spotify.com/track/62MwZTT02y2hPelIia0HlX) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/1AjvJTxq6SiZzvomF0GZ3P) | 3:26 | 2023-05-05 |  |
 | [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \- Enganchaditos en vivo 3](https://open.spotify.com/track/3an2GneYCpU1qh9q7fcS2K) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \(Enganchaditos en vivo 3\)](https://open.spotify.com/album/2jM5kmlcSblZkM0C8pdde7) | 6:24 | 2023-04-07 | 2023-05-08 |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2022-04-15 |  |
 | [La Ausencia de Tu Amor](https://open.spotify.com/track/2Chtst7fHm8Cb47cApyXyT) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n) | [La Ausencia de Tu Amor](https://open.spotify.com/album/3QUTBR1bX44OhhPRpnm2uO) | 3:23 | 2022-06-10 | 2022-06-12 |
@@ -180,7 +181,7 @@
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2022-06-03 |  |
 | [Te Perdono](https://open.spotify.com/track/46SixvsqGTjE1dufNyjTrR) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Te Perdono](https://open.spotify.com/album/2ZT6052xVwoQPd8592JsZV) | 3:24 | 2022-04-15 | 2022-07-13 |
 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 | 2022-06-03 | 2022-07-27 |
-| [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 | 2022-04-15 |  |
+| [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 | 2022-04-15 | 2023-07-09 |
 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 | 2022-06-03 |  |
 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 | 2022-04-15 |  |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2022-04-15 |  |

@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-226 songs - 14 hr 28 min
+227 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Here's to Life](https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG) | [Jacintha](https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2) | [Autumn Leaves \(The Songs of Johnny Mercer\)](https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU) | 4:47 | 2022-09-08 |  |
 | [Hey Jude](https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 6:28 | 2022-03-11 |  |
 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 | 2021-12-21 | 2023-06-16 |
-| [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 | 2022-03-17 |  |
+| [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 | 2022-03-17 | 2023-07-09 |
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2022-09-08 |  |
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2021-12-21 |  |
 | [Hommage](https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [Hommage](https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX) | 3:34 | 2022-09-06 | 2022-11-21 |
@@ -102,6 +102,7 @@
 | [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-27 |  |
 | [I've Never Been In Love Before](https://open.spotify.com/track/4spNUk1Fj62kbBQibFAHpu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:42 | 2022-08-29 | 2022-09-01 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:42 | 2022-08-29 | 2022-10-13 |
+| [If I Had You](https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI) | 4:21 | 2023-06-20 |  |
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-09-08 | 2023-06-30 |
 | [If It Was](https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:41 | 2023-05-18 |  |
 | [If It Was](https://open.spotify.com/track/0WzwQNa3Nn5VxNiFL46XMx) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:41 | 2023-03-23 | 2023-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1553443,
+  "num_followers": 1554112,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzY2OTJmOWFkYjllNjNiMzI5ZjdlMDRjZGNiNjFjY2Q5YTc4OGE2",
+  "snapshot_id": "MCwyYjhlYTc5M2E4ZWIwYzg0ZmMyZDEwMjBhN2Q4MzgwYmI0YzQ3ZDg4",
   "tracks": [
     {
       "added_at": "2023-02-22 23:37:11",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-22 23:37:11",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2023-02-22 23:37:11",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2023-02-22 23:37:11",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2023-02-22 23:37:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,167 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,170 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 |
 | 80 | [Fly, My Wings](https://open.spotify.com/track/5wu9Tj5D2LNjBR9A9IlZMC) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Fly, My Wings](https://open.spotify.com/album/63Ol5xpVeZOk4mMMjo5Xzy) | 3:14 |
 
-Snapshot ID: `MCwyODU5YzZiNWZmNTEyYjcyMGI2NGNiZDY3ZDdhZWVkZmYwNGY1MTcy`
+Snapshot ID: `MCxjZjI1YzM4MjM4Y2I0ZWRlNDM3YmJmMWVlZGMyZDRjMzgzYzQwNmM3`

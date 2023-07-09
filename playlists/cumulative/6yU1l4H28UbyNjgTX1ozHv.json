@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Billie Jean (Acoustic)",
+        "url": "https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185157,
+      "name": "Billie Jean - Acoustic",
+      "url": "https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet Symphony",
         "url": "https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS"
       },

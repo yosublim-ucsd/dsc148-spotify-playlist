@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Victoria Monét
 
-294 songs - 14 hr 32 min
+298 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,10 @@
 | [Dumb Bitch Punch](https://open.spotify.com/track/771oKmhmsRmq3iNnEIyFTw) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [Dumb Bitch Punch](https://open.spotify.com/album/3JJcipJTUaT5gpavGpRFkH) | 3:19 | 2023-05-19 |  |
 | [ELEMENT](https://open.spotify.com/track/5AU9zzH93rIhScxS0mDCoh) | [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [INTERMISSION / ELEMENT](https://open.spotify.com/album/4WyBnMfIJdjPr58rUbZBWz) | 3:29 | 2023-04-28 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2022-06-03 |  |
+| [End Of Time \- SPINALL Remix](https://open.spotify.com/track/1qyMTlA8QGAlmiiyBcOs6w) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [End Of Time \(SPINALL Remix\)](https://open.spotify.com/album/7xWQDLgWLyoaCzVQld4C4h) | 3:41 | 2023-07-07 |  |
 | [Evangeline \- bedroom sessions](https://open.spotify.com/track/3uxcO1EhggfMxswMdcOMrc) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Evangeline \(bedroom sessions\)](https://open.spotify.com/album/0eZjtTvS2HwKmUYJPvkc7f) | 3:09 | 2023-05-05 |  |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-06-10 |
+| [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 | 2023-07-07 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-06-03 | 2023-02-05 |
 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 | 2022-06-03 | 2023-03-18 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-06-03 |  |
@@ -102,6 +104,7 @@
 | [FYM](https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [FYM](https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK) | 2:53 | 2022-06-03 |  |
 | [Galipette](https://open.spotify.com/track/4mQTPwMKPNLGODbonuGCtP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Galipette](https://open.spotify.com/album/1TGFqdW4JDw4YAgSLAawb2) | 2:03 | 2022-06-03 |  |
 | [Galipette \- BIBI Remix](https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Galipette \(BIBI Remix\)](https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus) | 2:02 | 2022-06-03 | 2023-03-18 |
+| [GD Woman](https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE) | 2:58 | 2023-07-07 |  |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-06-03 | 2023-02-05 |
 | [Girls From Atlanta](https://open.spotify.com/track/0LWCy7p5LkUtmMyl6FMyel) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs) | [Girls From Atlanta](https://open.spotify.com/album/0MNZ9dWCgygx9ky9OssBp8) | 2:20 | 2023-03-10 |  |
 | [God Sent You](https://open.spotify.com/track/7d1l036DDGFaG7PuzAeKJG) | [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [God Sent You](https://open.spotify.com/album/14dBe5b4Kxgu87f4sFHfRE) | 2:38 | 2022-06-03 |  |
@@ -131,6 +134,7 @@
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-28 |  |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 |  |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-04 |  |
+| [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 |  |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 |  |
 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 | 2022-06-03 |  |
@@ -142,7 +146,7 @@
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-06-03 |  |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-09 |  |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-04-03 |  |
-| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 |  |
+| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 | 2023-07-09 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-06-03 | 2023-02-05 |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-06-03 | 2023-06-10 |
 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2022-08-19 | 2023-06-10 |

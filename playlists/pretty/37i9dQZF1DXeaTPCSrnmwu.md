@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,229 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,236 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 27 | [La Paloma \- Yradier](https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 3:15 |
 | 28 | [Tres Palabras](https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:43 |
 | 29 | [Suavecito / En Manzanillo Se Baila el Son \(Sones\)](https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w) | [Enrique Chia](https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9), [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Sones y Tradiciones \(feat\. Cachao\)](https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte) | 6:18 |
-| 30 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
-| 31 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
+| 30 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
+| 31 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
 | 32 | [Desafinado](https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:12 |
 | 33 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
 | 34 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 | 50 | [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 |
 
-Snapshot ID: `MCxlZjBhZDFhMzZlNWRjMTdmMTMwZDQ1YWQxODUxNmZlMGUwMGYyZTg3`
+Snapshot ID: `MCw1ZTExOTI4YWUzZjAxZWYwYmJiYWJkNGVmNGNkZDMxN2NkMDk2ZmU3`

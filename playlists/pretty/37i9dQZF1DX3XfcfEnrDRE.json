@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 230680,
+  "num_followers": 230715,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
+  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 200200,
-      "name": "imagination",
-      "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
       },
       "artists": [
         {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
+      "duration_ms": 200200,
+      "name": "imagination",
+      "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -615,22 +619,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Broken Places",
         "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 255693,
       "name": "Broken Places",
       "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -895,18 +911,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Stages Of A Breakdown",
-        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Raise Up",
-      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
       },
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Stages Of A Breakdown",
+        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Heaven Is Everywhere",
         "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 234890,
       "name": "Heaven Is Everywhere",
       "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+        "name": "No Greater Love",
+        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
         }
       ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
+      "duration_ms": 199306,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "No Greater Love",
-        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
       },
       "artists": [
         {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Move of Heaven",
-        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 204000,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Move of Heaven",
+        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "We Won't Bow",
         "url": "https://open.spotify.com/album/536bwdqrKaKDLKH0LZgSfE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 172552,
       "name": "We Won't Bow",
       "url": "https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Natural Killer",
+        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
+      },
+      "artists": [
+        {
+          "name": "Truslow",
+          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 199005,
       "name": "Give My All",
       "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Natural Killer",
-        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
-      },
-      "artists": [
-        {
-          "name": "Truslow",
-          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Between The Joy And The Sorrow - Part 2",
         "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 202000,
       "name": "Between The Joy And The Sorrow",
       "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-12-16 05:02:00",

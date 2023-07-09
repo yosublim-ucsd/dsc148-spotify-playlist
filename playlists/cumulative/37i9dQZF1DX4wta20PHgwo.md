@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-350 songs - 1 day 8 hr 31 min
+351 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2021-02-10 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4bRNH9mxHDszZGskpBFhPq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/5QtowGE69geuScDtDeGltr) | 6:59 | 2020-05-02\* | 2021-03-23 |
 | [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-29 |  |
+| [Ack Värmeland, Du Sköna](https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Art Roho Serving Hannes Bennich](https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA) | 4:12 | 2023-06-20 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 | 2023-07-02 |
 | [Adventure Of A Lifetime](https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/2pdW1q8PwPIwx2SXHLNyzB) | 4:59 | 2020-05-02\* | 2021-08-20 |
 | [Afflicted](https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f) | [Jonas Sorgenfrei](https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Peter Christof](https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4) | [Afflicted](https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA) | 4:21 | 2022-03-25 | 2022-11-23 |
@@ -189,7 +190,7 @@
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2020-05-02\* | 2022-07-29 |
 | [Mo' Better Blues \(feat\. Terence Blanchard\)](https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [MUSIC FROM MO' BETTER BLUES \(feat\. Terence Blanchard\)](https://open.spotify.com/album/0p9pjx1LrmYBb70ns5lMGz) | 3:38 | 2020-05-02\* | 2022-01-25 |
 | [Moment](https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 4:59 | 2023-01-05 |  |
-| [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 | 2023-06-20 |  |
+| [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 | 2023-06-20 | 2023-07-09 |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-02-26 | 2022-03-11 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 | 2023-06-01 |  |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-03-02 | 2023-05-17 |

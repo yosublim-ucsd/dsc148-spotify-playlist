@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-763 songs - 1 day 17 hr 27 min
+764 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 |  |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
 | [Jaan Vaardi](https://open.spotify.com/track/74jjRSV4m6V76C2wuDX4QA) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Jannat](https://open.spotify.com/album/4FBpYgUuTATkO3mPDFh5QW) | 3:29 | 2023-01-09 | 2023-02-04 |
-| [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 | 2022-11-22 |  |
+| [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 | 2022-11-22 | 2023-07-09 |
+| [Jaane Meriye](https://open.spotify.com/track/6m52WOS01Vm4r7sk6bBkZ5) | [Akhil](https://open.spotify.com/artist/0by2DLDdi20jCrhyf2DnBc) | [Jaane Meriye](https://open.spotify.com/album/6kXTUjRBsL3mWusw1hSkXR) | 3:53 | 2023-07-07 |  |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |
 | [Jaaneman](https://open.spotify.com/track/28FLHp1phC1eBLgae9hIB2) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Sharry Hassan](https://open.spotify.com/artist/3ZtrmL8sJMjnLVnHuA7Vd5), [Angad](https://open.spotify.com/artist/59BA4APzM0Hooxqsxa74Tu) | [Jaaneman](https://open.spotify.com/album/2DliuQNPXUekTFeYByTcPl) | 2:19 | 2022-04-15 | 2022-04-29 |
 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 | 2022-09-23 |

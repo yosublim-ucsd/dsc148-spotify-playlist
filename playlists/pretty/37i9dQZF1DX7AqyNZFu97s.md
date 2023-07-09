@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Tilly Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,133 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,137 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Delirious](https://open.spotify.com/track/5i6Fz1VjD7ygWw67CzhJJe) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Delirious](https://open.spotify.com/album/4yzcEBSqw2BAttYmlcQ0br) | 2:23 |
 | 80 | [Everything](https://open.spotify.com/track/08doI6a2PPJoeYCWMXdKSZ) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Everything](https://open.spotify.com/album/2hkRgU5Xm7CJy5HQQxh07k) | 3:29 |
 
-Snapshot ID: `MCwyNjMxMWY2ZmUxMThjZTBhYzgwNjExMjdiYTBlODMxYjU1ZmU2OTM0`
+Snapshot ID: `MCxiZjcyYjdiOWNlYzMyNzA3NDFkYzllYzRkMzk0ZGFjMGNjZmY5N2Ri`

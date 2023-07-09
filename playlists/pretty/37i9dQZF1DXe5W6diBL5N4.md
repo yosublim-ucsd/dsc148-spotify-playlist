@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SWAN\(수안\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,973 likes - 770 songs - 1 day 19 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,185 likes - 770 songs - 1 day 19 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 |
 | 7 | [ii](https://open.spotify.com/track/66mB29bGkqegZT1CSMk9zd) | [HoneyChurros](https://open.spotify.com/artist/7ahMlmFTinPNzrEEgDXHi3) | [ii](https://open.spotify.com/album/2wjzz1b18c84VAKzlW2dw8) | 3:29 |
 | 8 | [Dear Rain](https://open.spotify.com/track/6NqKLLE0vjJr3EmnSg94Mo) | [YeoDongSaeng](https://open.spotify.com/artist/7qwYeaMsqrO3TFFHvwhEtg) | [Dear Rain](https://open.spotify.com/album/6XOWj8wnpboCSQjrMvi33P) | 2:56 |
-| 9 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [김보아](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 |
+| 9 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 |
 | 10 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
 | 11 | [탕후루 Tanghulu \(Feat\. KURO\)](https://open.spotify.com/track/4iOAc8VRpvrdMs96JQ7Pyt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [탕후루 Tanghulu \(Feat\. KURO\)](https://open.spotify.com/album/4CwpYKVkCJNFSSZBZzw2j2) | 2:41 |
 | 12 | [Rock Star](https://open.spotify.com/track/77fwmS4Zy1VDR0aqFeMui7) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Rock Star](https://open.spotify.com/album/0gWKMdU3QuBTfenehdDrHB) | 3:33 |
@@ -779,4 +779,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 769 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 |
 | 770 | [Hug Me](https://open.spotify.com/track/7wWGayXaXNhJoqGXKpZx8B) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Hug Me](https://open.spotify.com/album/6oCJH0FVr840WLbNeWgpaO) | 2:17 |
 
-Snapshot ID: `MCw1NTY4NzhkODMxZWJjYWIzZTA1YTdhMGVjYWEzMzc0NTdiNDJjZmM1`
+Snapshot ID: `MCxiNjdmYmZkYTYzOWExZGFiZjE5MGNiZmM0MDljNWU0NTRjMTgwN2E1`

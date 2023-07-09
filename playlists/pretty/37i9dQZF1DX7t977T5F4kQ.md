@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=kafKB6C1TwqML0bLp4DoYQ">Akwaboah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,027 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,057 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Donow](https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G) | [Article Wan](https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Donow](https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu) | 3:20 |
 | 80 | [Check My Zingo](https://open.spotify.com/track/3ksujzQdErGpeHxWhI6UpN) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Check My Zingo](https://open.spotify.com/album/38m3KXMGYqncMQj98b5Nwy) | 3:33 |
 
-Snapshot ID: `MCxiOTA1MDYwZGI0OGZhY2IyY2E2YzA2ZDJhYmU2MTYxMWNhODM1NmNh`
+Snapshot ID: `MCwxMjZkNjhlZTEwYTIzOTAxZDhjNjVlMmI0YzE1NGJhN2YzZWM3OGZk`

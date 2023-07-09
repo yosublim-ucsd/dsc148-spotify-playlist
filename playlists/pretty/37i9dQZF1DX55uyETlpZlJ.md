@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,903 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,941 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 |
 | 2 | [Innu Yaaka Baralilla](https://open.spotify.com/track/4XxsJ4oRg0cUxPq81b6akQ) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Innu Yaaka Baralilla](https://open.spotify.com/album/6KlTzhCkk50M4ow5sCMWaA) | 3:33 |
 | 3 | [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 |
-| 4 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 |
-| 5 | [Ninagaagi](https://open.spotify.com/track/4pEyj2beXCpZrSoxfeu6nj) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:12 |
-| 6 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 |
-| 7 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 |
-| 8 | [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 |
+| 4 | [Ninagaagi](https://open.spotify.com/track/4pEyj2beXCpZrSoxfeu6nj) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:12 |
+| 5 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 |
+| 6 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 |
+| 7 | [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 |
+| 8 | [Ranasagar](https://open.spotify.com/track/4sQQVsnzryMPIiBBSMSQFk) | [D rapper](https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4) | [Ranasagar](https://open.spotify.com/album/2iAIXYgbgH7Xlw0H520BFo) | 1:43 |
 | 9 | [Kanasella \- Female Version](https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanasella \- Female Version](https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf) | 4:28 |
 | 10 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 |
-| 11 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 |
-| 12 | [Innastu Bekenna](https://open.spotify.com/track/7j4GNqlnygN7gXTun7CRdo) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Innastu Bekenna](https://open.spotify.com/album/4gHIhq2qAc7gHTeZqK6ihU) | 4:01 |
-| 13 | [Rain Chant](https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo), [Halakki Vokkaliga](https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD) | [Rain Chant](https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7) | 5:30 |
+| 11 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 |
+| 12 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 |
+| 13 | [Innastu Bekenna](https://open.spotify.com/track/7j4GNqlnygN7gXTun7CRdo) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Innastu Bekenna](https://open.spotify.com/album/4gHIhq2qAc7gHTeZqK6ihU) | 4:01 |
 | 14 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 |
 | 15 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 |
 | 16 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 | 75 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 |
 
-Snapshot ID: `MCxlZDJlMzg1N2E3YWY4Y2ZkOWY5ZDNhZTRmYzNjNjQwMTNhNTA1Zjlk`
+Snapshot ID: `MCw3YWVhMTRkNGVhNGM3Y2RjMWY3OTY2ZjIyNzdjZjY5MjRjNGUyYjEz`

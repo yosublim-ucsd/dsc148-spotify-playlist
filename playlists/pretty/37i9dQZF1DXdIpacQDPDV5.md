@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Hayden James & Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,917 likes - 79 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,938 likes - 79 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 78 | [Salty](https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Salty](https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM) | 2:56 |
 | 79 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 
-Snapshot ID: `MCw0YWEwZTBmZWE2ZjIyMjkzODEwMzUyYTUwODgxZmZlMDFiZmMxN2Zm`
+Snapshot ID: `MCw3ZGM2OTRlNWUxYTE2ZTg1Y2VhYzE0ZDUzMDliMjMzOWI5OTZiZmI0`

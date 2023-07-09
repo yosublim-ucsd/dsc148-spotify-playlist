@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 30214,
+  "num_followers": 30219,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGExYzI0YTA0OTU5ZGU1MGI0MzMxNmU0OGNhMGZkZDNmNDExODg0",
+  "snapshot_id": "MCxiNGJkNjE5MjQ4MjU3NDk5ZWY5M2VkNjcxZDZjMmExYTliOTc2MDcz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Black Origami",
+        "url": "https://open.spotify.com/album/58imCwhskjkHi9GxNGOREE"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "duration_ms": 211710,
+      "name": "Never Created, Never Destroyed",
+      "url": "https://open.spotify.com/track/1HJ7S8m730oqXmfBZHxaCo"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "TEKLIFE Vol.2: What You Need",
         "url": "https://open.spotify.com/album/3gp6LlL3363zr3Jz9rjH0G"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 341488,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/1oGd6koqefNYVJ0Rn6EKOW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Black Origami",
-        "url": "https://open.spotify.com/album/58imCwhskjkHi9GxNGOREE"
-      },
-      "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        }
-      ],
-      "duration_ms": 211710,
-      "name": "Never Created, Never Destroyed",
-      "url": "https://open.spotify.com/track/1HJ7S8m730oqXmfBZHxaCo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -267,18 +267,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Legacy Volume 2",
-        "url": "https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa"
+        "name": "#UOAI",
+        "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
       },
       "artists": [
         {
-          "name": "RP Boo",
-          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+        },
+        {
+          "name": "Lefty",
+          "url": "https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W"
+        },
+        {
+          "name": "Nikes",
+          "url": "https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc"
         }
       ],
-      "duration_ms": 225002,
-      "name": "Heavy Heat",
-      "url": "https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp"
+      "duration_ms": 260625,
+      "name": "Chicago (feat. Lefty & Nikes)",
+      "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -307,26 +315,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "#UOAI",
-        "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
+        "name": "Legacy Volume 2",
+        "url": "https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa"
       },
       "artists": [
         {
-          "name": "BSN Posse",
-          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
-        },
-        {
-          "name": "Lefty",
-          "url": "https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W"
-        },
-        {
-          "name": "Nikes",
-          "url": "https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc"
+          "name": "RP Boo",
+          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
         }
       ],
-      "duration_ms": 260625,
-      "name": "Chicago (feat. Lefty & Nikes)",
-      "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
+      "duration_ms": 225002,
+      "name": "Heavy Heat",
+      "url": "https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Players, Ballers, Rollers",
-        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
-      },
-      "artists": [
-        {
-          "name": "Starski and Clutch",
-          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/5eo8Wp8FvbEem069NfzdBv"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157605,
       "name": "Big Booty Savage",
       "url": "https://open.spotify.com/track/7Ig4fHD2A3cWBBN9hQNnEA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Players, Ballers, Rollers",
+        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
+      },
+      "artists": [
+        {
+          "name": "Starski and Clutch",
+          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nowadays Pressure",
-        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
+        "name": "Afrika Jungle Them EP",
+        "url": "https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ"
       },
       "artists": [
         {
-          "name": "NameBrandSound",
-          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
+          "name": "DSS",
+          "url": "https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f"
         }
       ],
-      "duration_ms": 228002,
-      "name": "Hip Thruster",
-      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
+      "duration_ms": 192000,
+      "name": "Afrika Jungle Them",
+      "url": "https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -695,34 +695,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Afrika Jungle Them EP",
-        "url": "https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ"
+        "name": "Nowadays Pressure",
+        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
       },
       "artists": [
         {
-          "name": "DSS",
-          "url": "https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f"
+          "name": "NameBrandSound",
+          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Afrika Jungle Them",
-      "url": "https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Chap",
-          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
-        }
-      ],
-      "duration_ms": 283735,
-      "name": "1luv",
-      "url": "https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM"
+      "duration_ms": 228002,
+      "name": "Hip Thruster",
+      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 169693,
       "name": "Below Zero",
       "url": "https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
+      },
+      "artists": [
+        {
+          "name": "DJ Chap",
+          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
+        }
+      ],
+      "duration_ms": 283735,
+      "name": "1luv",
+      "url": "https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -863,34 +863,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "T3 TRAXX, Vol. 2",
-        "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5"
       },
       "artists": [
         {
-          "name": "CRZKNY",
-          "url": "https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po"
+          "name": "Jana Rush",
+          "url": "https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503"
         }
       ],
-      "duration_ms": 186000,
-      "name": "L",
-      "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Crack Capone",
-        "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
-      },
-      "artists": [
-        {
-          "name": "DJ Roc",
-          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
+      "duration_ms": 344618,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -911,18 +895,34 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5"
+        "name": "The Crack Capone",
+        "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
       },
       "artists": [
         {
-          "name": "Jana Rush",
-          "url": "https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503"
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
         }
       ],
-      "duration_ms": 344618,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1"
+      "duration_ms": 167973,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "T3 TRAXX, Vol. 2",
+        "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
+      },
+      "artists": [
+        {
+          "name": "CRZKNY",
+          "url": "https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "L",
+      "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
+        "name": "ON LIFE, Vol. 2",
+        "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
       },
       "artists": [
         {
@@ -952,17 +952,13 @@
           "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
         },
         {
-          "name": "DJ Big Hank",
-          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
-        },
-        {
-          "name": "Sirr TMO",
-          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
         }
       ],
-      "duration_ms": 206853,
-      "name": "DON'T JUST STAND THERE",
-      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
+      "duration_ms": 162750,
+      "name": "fucK iT uP",
+      "url": "https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1031,18 +1027,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Street Bangers Factory 04",
-        "url": "https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d"
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
       },
       "artists": [
         {
-          "name": "Seimei",
-          "url": "https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V"
+          "name": "DJ Curt",
+          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
         }
       ],
-      "duration_ms": 278699,
-      "name": "Can't Fake My Feelings (part 2)",
-      "url": "https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G"
+      "duration_ms": 303308,
+      "name": "Next Subject",
+      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1063,22 +1059,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Curt",
-          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
-        }
-      ],
-      "duration_ms": 303308,
-      "name": "Next Subject",
-      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Guaranteed",
         "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
       },
@@ -1095,8 +1075,24 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE, Vol. 2",
-        "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
+        "name": "Street Bangers Factory 04",
+        "url": "https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d"
+      },
+      "artists": [
+        {
+          "name": "Seimei",
+          "url": "https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V"
+        }
+      ],
+      "duration_ms": 278699,
+      "name": "Can't Fake My Feelings (part 2)",
+      "url": "https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
       "artists": [
         {
@@ -1104,13 +1100,17 @@
           "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
         },
         {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+          "name": "DJ Big Hank",
+          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
+        },
+        {
+          "name": "Sirr TMO",
+          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
         }
       ],
-      "duration_ms": 162750,
-      "name": "fucK iT uP",
-      "url": "https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16"
+      "duration_ms": 206853,
+      "name": "DON'T JUST STAND THERE",
+      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "High On Clouds",
-        "url": "https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67"
-      },
-      "artists": [
-        {
-          "name": "Nangdo",
-          "url": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Druguse",
         "url": "https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 208530,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "High On Clouds",
+        "url": "https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67"
+      },
+      "artists": [
+        {
+          "name": "Nangdo",
+          "url": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL"
     },
     {
       "added_at": "2023-06-30 04:00:00",

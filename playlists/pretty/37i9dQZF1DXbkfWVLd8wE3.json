@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 150856,
+  "num_followers": 151093,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWFjNTg4NzhkZDA0ZjIyOTc4NmU4MmVlOTNkYzFmNDkyNjNhZTc4",
+  "snapshot_id": "MCwxMDJhYjg2MzdhZDQ1ZTM5NGI4NDcyYjU2NzRiZmI2MGJkMmViMTM5",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+      "duration_ms": 233560,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC"
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Tha Carter III (MTV Bonus Version)",
+        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Tha Carter III (MTV Bonus Version)",
-        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Tha Carter III (MTV Bonus Version)",
-        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+        "name": "Tha Carter III (MTV Bonus Version)",
+        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 285906,
-      "name": "E.I.",
-      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1103,6 +1087,22 @@
       "duration_ms": 267933,
       "name": "The Seed (2.0)",
       "url": "https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "E.I.",
+      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1171,26 +1171,26 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Best of 2Pac",
-        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         },
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 284480,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
+      "duration_ms": 191600,
+      "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1215,26 +1215,26 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6"
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
         },
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
+      "duration_ms": 284480,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Greatest Hits with a Twist - Deluxe Edition",
-        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Ruff Ryders' Anthem - Re-Recorded",
-      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Flava In Ya Ear Remix",
         "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 302013,
       "name": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
       "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Greatest Hits with a Twist - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Ruff Ryders' Anthem - Re-Recorded",
+      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
-      "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 209626,
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
+      "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Amplified",
+        "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Breathe And Stop",
+      "url": "https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Touch It Remixes",
         "url": "https://open.spotify.com/album/47akZaaMhLabeq82yH2u08"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 240373,
       "name": "Touch It - Remix/Featuring Mary J. Blige, Rah Digga, Missy Elliot, Lloyd Banks, Papoose & DMX (Explcit)",
       "url": "https://open.spotify.com/track/4MHboJP4Mj8b2bc4hXayIo"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Amplified",
-        "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
-      },
-      "artists": [
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Breathe And Stop",
-      "url": "https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ"
     },
     {
       "added_at": "2023-03-07 08:01:20",

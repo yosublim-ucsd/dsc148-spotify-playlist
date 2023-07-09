@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,923 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,081 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Ålderdomshemmet](https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Ålderdomshemmet](https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX) | 3:03 |
 | 50 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 
-Snapshot ID: `MCwyYjkxODZmZTc5ZWQzMDNhZWIxYWVjOGM0YWI5ZmU4OTJiYjMxMWE0`
+Snapshot ID: `MCw3MzM4N2M1ZGQ3ZDhiOGUxYzVkZTg1N2IzNjFhMmVkMDY4ZTk4NjBi`

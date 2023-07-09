@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,349 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,470 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 71 | [BRB \- Acoustic](https://open.spotify.com/track/2a8LoldsEpzYbwAs7uf4Sl) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [BRB \(Acoustic\)](https://open.spotify.com/album/0ZJVf5ifFPQg6Zb6tNpDKZ) | 2:32 |
 | 72 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 |
 | 73 | [You Win](https://open.spotify.com/track/5oLHZYHAvYXmIt3AEqm2PE) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [You Win](https://open.spotify.com/album/7AWkXbVuFinaGlItRtCR0o) | 2:39 |
-| 74 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
+| 74 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
 | 75 | [Desert Flower](https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:54 |
 | 76 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 |
 | 77 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 |
 | 100 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 
-Snapshot ID: `MCxmNDY0ZjlkYWU2N2UxY2NjNTk2MWVkYTNhNTI3NzNlNjA3MmI0ZDIy`
+Snapshot ID: `MCw4MGMyMzQ4MDQ5ODgzMmQwMjEzNjQ3NGZjZWU1NGU2NzgyZTUyOTY5`

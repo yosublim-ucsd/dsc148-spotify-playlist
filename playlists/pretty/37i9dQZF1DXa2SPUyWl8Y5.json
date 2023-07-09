@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 461905,
+  "num_followers": 462001,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE0NjA0MmM4ZGI3ZTM3YmJhYzliYjI3YmQwYzAzNzAyYWI4YzA1",
+  "snapshot_id": "MCwwMmFmYjIzYjhjNWRlZTFmNDI5NjZjZjU5NTQ5M2IwYzllYzZlOWJl",
   "tracks": [
     {
       "added_at": "2023-06-30 15:07:53",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
       "artists": [
         {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Mars",
-        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
-      },
-      "artists": [
-        {
-          "name": "S.ONE",
-          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
-        }
-      ],
-      "duration_ms": 362218,
-      "name": "Meli",
-      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
       },
       "artists": [
         {
-          "name": "Benzsoul",
-          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+          "name": "S.ONE",
+          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
         }
       ],
-      "duration_ms": 404532,
-      "name": "Solid",
-      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
+      "duration_ms": 362218,
+      "name": "Meli",
+      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -463,6 +447,22 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+      },
+      "artists": [
+        {
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+        }
+      ],
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 275409,
-      "name": "Four Hills",
-      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Mind Kontrol EP",
-        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 403709,
-      "name": "Dark Future",
-      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+      "duration_ms": 275409,
+      "name": "Four Hills",
+      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Mind Kontrol EP",
+        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "duration_ms": 403709,
+      "name": "Dark Future",
+      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Owls (Edit)",
         "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226014,
       "name": "Owls - Edit",
       "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
       "artists": [
         {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Send Return EP",
-        "url": "https://open.spotify.com/album/0oAHqBwAWhkrUZGQImt8Sh"
-      },
-      "artists": [
-        {
-          "name": "Magit Cacoon",
-          "url": "https://open.spotify.com/artist/3Qx8IB0qHtVhm4ub0pFcdF"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Send Return",
-      "url": "https://open.spotify.com/track/3glGPzmUeQGNbxqv6upBTf"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Pure Love EP",
         "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+        "name": "Send Return EP",
+        "url": "https://open.spotify.com/album/0oAHqBwAWhkrUZGQImt8Sh"
       },
       "artists": [
         {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Magit Cacoon",
+          "url": "https://open.spotify.com/artist/3Qx8IB0qHtVhm4ub0pFcdF"
         }
       ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+      "duration_ms": 352000,
+      "name": "Send Return",
+      "url": "https://open.spotify.com/track/3glGPzmUeQGNbxqv6upBTf"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Sonderling Berlin 50",
-        "url": "https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk"
-      },
-      "artists": [
-        {
-          "name": "Dapayk solo",
-          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
-        }
-      ],
-      "duration_ms": 488048,
-      "name": "Klunkerkranich",
-      "url": "https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 356188,
       "name": "Forsaken Dream - Extended Mix",
       "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Sonderling Berlin 50",
+        "url": "https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk"
+      },
+      "artists": [
+        {
+          "name": "Dapayk solo",
+          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
+        }
+      ],
+      "duration_ms": 488048,
+      "name": "Klunkerkranich",
+      "url": "https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
       },
       "artists": [
         {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
       "artists": [
         {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
         }
       ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1215,34 +1199,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
       "artists": [
         {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
         }
       ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Seige",
-        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 433564,
-      "name": "Seige",
-      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1263,6 +1231,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Seige",
+        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 433564,
+      "name": "Seige",
+      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
     },
     {
       "added_at": "2023-06-30 15:07:53",

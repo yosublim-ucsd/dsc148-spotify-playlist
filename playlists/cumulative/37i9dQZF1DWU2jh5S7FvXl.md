@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-280 songs - 14 hr 27 min
+281 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Love The Way You Move \(feat\. Sara Diamond\)](https://open.spotify.com/track/5hMxY2lnop8kCVkNfSycMz) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Restart EP](https://open.spotify.com/album/2vQkBAkvDqzJND57bwMEMr) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [LOVELIFE \(with Jeremih\)](https://open.spotify.com/track/27ITlhgZIx0ZYwaLYYDBsi) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [LOVELIFE \(with Jeremih\)](https://open.spotify.com/album/20z68r2DFjrTCCLLA9xTXM) | 2:31 | 2022-05-27 | 2022-07-19 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2022-05-27 | 2022-07-27 |
-| [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-10-28 |  |
+| [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-10-28 | 2023-07-09 |
 | [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 | 2023-03-24 |  |
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2022-05-27 | 2022-12-01 |
 | [Memories](https://open.spotify.com/track/6j4j6iRR0Ema531o5Yxr2T) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Memories](https://open.spotify.com/album/3Hrk5hHesGUeDCQzxtaReB) | 2:29 | 2022-05-27 | 2022-07-21 |
@@ -238,6 +238,7 @@
 | [Taste of You](https://open.spotify.com/track/655sojH8GGEteZTBJOFyy7) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Taste of You](https://open.spotify.com/album/6OcfV7fsmHKyV8wXMzXvei) | 2:47 | 2022-05-27 | 2022-06-15 |
 | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy) | 2:50 | 2022-07-08 | 2022-07-29 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2022-05-27 |  |
+| [Temptation](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation](https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ) | 3:12 | 2023-03-24 |  |
 | [Temptation](https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/46ylD5cDHV4oEUA5nfSa3t) | 3:12 | 2022-05-27 | 2022-07-29 |
 | [Temptation \(feat\. Elise LeGrow\)](https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation \(feat\. Elise LeGrow\)](https://open.spotify.com/album/2SerB9WFHD9HekA6tX95cb) | 3:12 | 2022-06-24 | 2022-07-29 |
 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 | 2022-05-27 | 2022-11-13 |

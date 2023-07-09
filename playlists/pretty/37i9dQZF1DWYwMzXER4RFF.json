@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 268516,
+  "num_followers": 268601,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
+  "snapshot_id": "MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
     },
     {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
       "added_at": "2023-03-17 13:08:31",
       "album": {
         "name": "American Nightmare",
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
         }
       ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 258130,
       "name": "Houseplants",
       "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-06-20 22:28:34",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
       "added_at": "2023-06-20 22:28:34",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sun Coming Down",
-        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
       "artists": [
         {
-          "name": "Ought",
-          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 463545,
-      "name": "Beautiful Blue Sky",
-      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -507,18 +507,34 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+        "name": "Stumpwork",
+        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+      "duration_ms": 165440,
+      "name": "Kwenchy Kups",
+      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Sun Coming Down",
+        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+      },
+      "artists": [
+        {
+          "name": "Ought",
+          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+        }
+      ],
+      "duration_ms": 463545,
+      "name": "Beautiful Blue Sky",
+      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -535,22 +551,6 @@
       "duration_ms": 453211,
       "name": "The Cleaner",
       "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Stumpwork",
-        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Kwenchy Kups",
-      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
-      },
-      "artists": [
-        {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
-        }
-      ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 271106,
       "name": "I Don't Belong",
       "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
       "artists": [
         {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
       },
       "artists": [
         {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Pure Mode",
-      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Pure Mode",
+      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 375626,
-      "name": "Paddling",
-      "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "It's a Myth",
         "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197613,
       "name": "Look Like That",
       "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 375626,
+      "name": "Paddling",
+      "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
     }
   ],
   "unique_name": "Post Punk",

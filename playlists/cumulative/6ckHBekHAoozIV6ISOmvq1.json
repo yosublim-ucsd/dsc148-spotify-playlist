@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:337hCRFLjygh0JPpHZ80GM\">German Renaissance</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:337hCRFLjygh0JPpHZ80GM\">German Renaissance</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 385967,
       "name": "Amours, cent mille mercyz (Ballade)",
       "url": "https://open.spotify.com/track/5s4QI1q8jIl2fzCaifElpF"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 423933,
       "name": "Bietris est mes delis",
       "url": "https://open.spotify.com/track/5soicLhevzwE3Cwc3rJkCX"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "Carmina Burana: Clauso Cronos",
       "url": "https://open.spotify.com/track/6V8tODEW4YyPhWzkpTauYn"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 258560,
       "name": "Cl\u00e9reau: Les Odes de Pierre de Ronsard \u00e0 3 parties: No. 9, La lune est coustumiere De naistre tous les mois",
       "url": "https://open.spotify.com/track/3UHF9CPqE7Y2PGaGGGIANc"
@@ -6484,6 +6484,28 @@
       "duration_ms": 222173,
       "name": "En attendant esperance",
       "url": "https://open.spotify.com/track/3iHbyi9rVKRx0vep5BVbzP"
+    },
+    {
+      "album": {
+        "name": "Vocal Music (Medieval) - Oswald Von Wolkenstein / Vaillant, J. / Hugo Von Montfort / Dufay, G. / Dowland, J.",
+        "url": "https://open.spotify.com/album/14F2e31iPyIblpBSdwOwVv"
+      },
+      "artists": [
+        {
+          "name": "Jehan Vaillant",
+          "url": "https://open.spotify.com/artist/6ZmspnOIb8okDIzM6aBepj"
+        },
+        {
+          "name": "Freiburg Spielleyt",
+          "url": "https://open.spotify.com/artist/2Pwk3VFI9o3uszcPGmrp3X"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282213,
+      "name": "En biancha vesta",
+      "url": "https://open.spotify.com/track/71ULUCgss0TaYDfOdyNty1"
     },
     {
       "album": {
@@ -8656,7 +8678,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 189466,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/0qIqJjEbBxvVyuvIOGlI2U"
@@ -8834,6 +8856,32 @@
       "duration_ms": 526666,
       "name": "Instrumental Piece",
       "url": "https://open.spotify.com/track/77doyagvrFnKp3j0JIGtrH"
+    },
+    {
+      "album": {
+        "name": "Renaissance Masterpieces",
+        "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490426,
+      "name": "Intemerata Dei mater",
+      "url": "https://open.spotify.com/track/13dTXGC6c4t9XPMaAzumtU"
     },
     {
       "album": {
@@ -9476,7 +9524,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 360200,
       "name": "Je qui paoir seule ai de conforter (Descort)",
       "url": "https://open.spotify.com/track/0PW4qmx4iRAV8L4sNP9KBo"
@@ -11038,7 +11086,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 228493,
       "name": "Le Jeune: Le Printemps: No. 1, Revecy venir du Printans",
       "url": "https://open.spotify.com/track/3Cl0tyeqMCsKDWDn5pRuEZ"
@@ -12850,7 +12898,7 @@
       ],
       "date_added": "2018-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 197000,
       "name": "Nevestinko oro",
       "url": "https://open.spotify.com/track/4BLP0mzUyEy3C56d3FHPkW"
@@ -13853,6 +13901,32 @@
     },
     {
       "album": {
+        "name": "Ockeghem - Requiem (Missa Pro Defunctis) & Missa Mi Mi (Missa Quarti Toni)",
+        "url": "https://open.spotify.com/album/7Kon7UneIGifQw86PB6z7K"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337080,
+      "name": "Ockeghem: Missa pro Defunctis: I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/3zlS9Y1jztEKcTId4OESOd"
+    },
+    {
+      "album": {
         "name": "Segreti accenti: Italian Renaissance Music",
         "url": "https://open.spotify.com/album/6noPPtQbJgryMCwUQAewvh"
       },
@@ -14314,7 +14388,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/3g88uWMnGtkjssuAtSwfEy"
@@ -15010,7 +15084,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 355080,
       "name": "Pois tornatz",
       "url": "https://open.spotify.com/track/1Vl68qItQdA4gVjIot67vT"
@@ -15062,7 +15136,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 344786,
       "name": "Pois vezem",
       "url": "https://open.spotify.com/track/5urZmYiASkybmyBwLpXV9R"

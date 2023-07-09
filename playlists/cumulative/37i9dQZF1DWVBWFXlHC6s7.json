@@ -324,6 +324,24 @@
     {
       "album": {
         "name": "Mr Bongo Record Club, Vol. 1",
+        "url": "https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127773,
+      "name": "Esperar pra Ver",
+      "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
+    },
+    {
+      "album": {
+        "name": "Mr Bongo Record Club, Vol. 1",
         "url": "https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r"
       },
       "artists": [
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 127773,
       "name": "Esperar pra Ver",
       "url": "https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf"

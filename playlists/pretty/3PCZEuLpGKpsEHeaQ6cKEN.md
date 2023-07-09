@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Punctual
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,347 likes - 159 songs - 8 hr 20 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,355 likes - 159 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 19 | [Keep It Secret](https://open.spotify.com/track/2BmoUqxBd0allDvLmnB6iN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:48 |
 | 20 | [Ducati](https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Ducati](https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF) | 3:00 |
 | 21 | [Aslan](https://open.spotify.com/track/7kAYdRXMipZJUD4NCxDd4L) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Aslan](https://open.spotify.com/album/4sIF6Yd0SCPGrKSssaw85p) | 3:34 |
-| 22 | [So Much In Love \- Sped Up](https://open.spotify.com/track/0zCIiBHKWGJejY3ji35IVr) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [So Much In Love \- Sped Up](https://open.spotify.com/album/1F9LHT5yFuaXVH6r5vkZ87) | 2:33 |
+| 22 | [So Much In Love \- Symmetrik Remix](https://open.spotify.com/track/2Li9PhSrXPNGP8rXtoAYlQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [So Much In Love \(Symmetrik Remix\)](https://open.spotify.com/album/3EJQjppVdrqkvu7CmNrfBQ) | 3:08 |
 | 23 | [On & On](https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:50 |
 | 24 | [The Eye Of Ra](https://open.spotify.com/track/66z0LXGjm2tZGYopB3JCqy) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [The Eye Of Ra](https://open.spotify.com/album/5QDKaZpb11BDryDPytX1gB) | 3:44 |
 | 25 | [The Jumper \- \[IVY\] Remix](https://open.spotify.com/track/2A7jLakkfRp6te0yZKjj81) | [Hammer House](https://open.spotify.com/artist/7eh776e6NmW68TTYLGd5zA), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [The Jumper \(\[IVY\] Remix\)](https://open.spotify.com/album/11n7anBebd0w5kqDvPdkRF) | 3:14 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 158 | [Sunshine](https://open.spotify.com/track/0vZSG4Sbbv2xSeHqXEHBsk) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 3:29 |
 | 159 | [Way Back Home](https://open.spotify.com/track/2ZpL0ykp4gIyMxHam6vi6G) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Way Back Home](https://open.spotify.com/album/4I4yBrnQO22XwUh0iUYiSO) | 2:44 |
 
-Snapshot ID: `NTI4MjEsMmI2MjEzNjBjYmQyYzZkNzUzYmUwNWUzN2YzM2RhZjk5NWVmNDYxNA==`
+Snapshot ID: `NTI4MjcsMDEwOTc2MDVjMzcyZjg0MDBjZmQzODk5OWMyNWQzZTM2ZDMwNWIxOA==`

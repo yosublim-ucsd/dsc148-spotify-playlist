@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 210342,
+  "num_followers": 210487,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
+  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Leon Ware",
-        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
-      },
-      "artists": [
-        {
-          "name": "Leon Ware",
-          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Why I Came to California",
-      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Jazz",
         "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 479629,
       "name": "Aaj Shanibar",
       "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Leon Ware",
+        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
+      },
+      "artists": [
+        {
+          "name": "Leon Ware",
+          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Why I Came to California",
+      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
         }
       ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1335,34 +1335,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
       "artists": [
         {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1379,6 +1363,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

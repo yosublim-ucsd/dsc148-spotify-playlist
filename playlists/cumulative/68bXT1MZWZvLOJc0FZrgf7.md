@@ -2,9 +2,9 @@
 
 ### [Dance For Days](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits\. Cover: Icona Pop
+> Press play and dance away to your favorite electronic hits\. Cover: GATTÜSO
 
-408 songs - 21 hr 24 min
+410 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [The Veldt Cinema \- BYNX Edit](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [The Veldt Cinema \(BYNX Edit\)](https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg) | 4:37 | 2023-06-09 |  |
 | [The Way \- Dennis Lloyd Remix](https://open.spotify.com/track/2RDefzoeUOz5tF1aTIAjO1) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [The Way \(Dennis Lloyd Remix\)](https://open.spotify.com/album/6elTX2Ty2PrsvaGqNUyAFQ) | 2:30 | 2022-06-03 | 2022-10-29 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-11 | 2022-11-19 |
+| [The Way You Lie](https://open.spotify.com/track/2pKSx4iITnvmewjPzsAu8l) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Way You Lie](https://open.spotify.com/album/7s1z9ixqcgzAu8HvOYvilP) | 2:41 | 2023-07-07 |  |
 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 | 2023-01-27 |  |
 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-05-26 |  |
 | [Thinking About You](https://open.spotify.com/track/77YkavTzHlKyJ71au9cQa4) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Thinking About You](https://open.spotify.com/album/2a0K1R2ZXXIUD1AQBDVCdo) | 2:58 | 2023-06-02 |  |
@@ -378,6 +379,7 @@
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-05 |  |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2022-06-03 | 2023-06-10 |
 | [UNIVERSAL COLLAPSE](https://open.spotify.com/track/5KdDTwThrGgmVwUDUF5zED) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [UNIVERSAL COLLAPSE](https://open.spotify.com/album/2txVm7goETfeEO3QkKfxsc) | 3:09 | 2023-02-25 | 2023-04-29 |
+| [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 | 2023-07-07 |  |
 | [Until We Meet Again](https://open.spotify.com/track/6EyVi6QyhwWIRcre1GuhGg) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Until We Meet Again](https://open.spotify.com/album/5zGUHHJsn0GRglaZQ0QVtg) | 3:54 | 2023-05-05 |  |
 | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/track/3s3tzG4jG1q5CoAvcASuyC) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/album/7r90Qf9J5SQXQHcl9a5zkW) | 2:46 | 2023-06-23 |  |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 |  |

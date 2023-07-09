@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como un junte entre Sky Rompiendo, Feid y Myke Towers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,139 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,217 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 |
 | 60 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 |
 
-Snapshot ID: `MCw2NzYwOTBlNWIyY2Q3ZGE2NGE1YTRkNzk3ZDVkNmQ3YTE0YjYwYzdl`
+Snapshot ID: `MCxkN2E1ZTU2ZDFjOWFkODdmYjg4YTM0YjY5MjljYjU2YWQxOWNlNDQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCw5ZjhhNTU1MzlkZTk4MzI3YTg2NWZkYzg3ZjYyZTY3NzYzMjJiM2Iw`
+Snapshot ID: `MCwxZjExYzIwZWUzNGUxNDM1OTFkZThjNjAyNzBjNGViZGQ0MGEzYTUx`

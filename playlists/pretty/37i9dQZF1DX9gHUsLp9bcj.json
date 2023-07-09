@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 22416,
+  "num_followers": 22437,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzIyYjNlYWFiNmUzMjAzMWU4N2E2ZjRhNDhkNTZlNDNhNDU1YTEz",
+  "snapshot_id": "MCxmN2Y5NGIyYmM5ODYxZGY5MjcwZDdkZGY3MzBjNjljMDU5MzliYTg3",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Quinto Patio",
-      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Mar\u00eda Victoria",
         "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202553,
       "name": "Mil Besos",
       "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Ruega por Nosotros",
+      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Ruega por Nosotros",
-      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
+      "duration_ms": 183560,
+      "name": "Quinto Patio",
+      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
-        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 187129,
-      "name": "Somos (Bolero) - Remastered",
-      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Canciones del Corazon",
         "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 173792,
       "name": "Perf\u00eddia",
       "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
+        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 187129,
+      "name": "Somos (Bolero) - Remastered",
+      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Cienfuegos (Remastered)",
-        "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
-      },
-      "artists": [
-        {
-          "name": "Benny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P"
-        }
-      ],
-      "duration_ms": 161782,
-      "name": "El agarrao - Remastered",
-      "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Cuban Carnival",
         "url": "https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 167506,
       "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
       "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Cienfuegos (Remastered)",
+        "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
+      },
+      "artists": [
+        {
+          "name": "Benny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P"
+        }
+      ],
+      "duration_ms": 161782,
+      "name": "El agarrao - Remastered",
+      "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
     },
     {
       "added_at": "2023-02-17 20:56:35",

@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-303 songs - 18 hr 42 min
+304 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2022-04-29 |  |
 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 | 2022-02-25 | 2022-05-29 |
 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 | 2022-04-29 | 2023-07-07 |
+| [Build a Boat](https://open.spotify.com/track/4S5n7jpEICqOQupHEB43g6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Let It Snow](https://open.spotify.com/album/6BgmTvXhhGIYXW7EbPdtUV) | 2:50 | 2023-03-10 |  |
 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-03-10 |  |
 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-08-26 | 2023-03-11 |
 | [Captain \- Silverline Session](https://open.spotify.com/track/6veVha4v9oAFvA4rdF9DXv) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Captain \(Silverline Session\)](https://open.spotify.com/album/1JZFuicWwcSaMdDTHo3vuL) | 3:33 | 2022-04-22 | 2022-07-09 |
@@ -163,7 +164,7 @@
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-07-08 | 2023-03-11 |
 | [King Of Kings](https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [King Of Kings](https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv) | 4:01 | 2022-08-26 |  |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2022-04-29 | 2023-03-11 |
-| [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 | 2022-02-25 |  |
+| [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 | 2022-02-25 | 2023-07-09 |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-08-26 | 2022-10-02 |
 | [Let Me In](https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Let Me In](https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3) | 3:29 | 2022-04-22 | 2022-07-09 |
 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 | 2022-02-25 | 2022-06-11 |

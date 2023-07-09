@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 2381,
+  "num_followers": 2401,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjVmZjk5MmNlN2M2MzBkYzY2NGZmOTRiNWQwYWQ0ZmRmZDRiMTVh",
+  "snapshot_id": "MCwzZWQ1Yjc4ZmZjZjA0MWVjN2ZiMzlkZmNiMjFmMjc0MzllMzBmNDJi",
   "tracks": [
     {
       "added_at": "2023-07-07 04:08:40",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+        "name": "Medalla de Oro",
+        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
+    },
+    {
+      "added_at": "2023-07-07 04:08:40",
+      "album": {
         "name": "RIO HOTEL",
         "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 245572,
       "name": "Apasionado",
       "url": "https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs"
-    },
-    {
-      "added_at": "2023-07-07 04:08:40",
-      "album": {
-        "name": "Sinoca",
-        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 215462,
-      "name": "Sinoca",
-      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+        "name": "Sinoca",
+        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
+      "duration_ms": 215462,
+      "name": "Sinoca",
+      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2023-07-07 04:08:40",
-      "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 174303,
       "name": "Billie Max",
       "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
+    },
+    {
+      "added_at": "2023-07-07 04:08:40",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Soy Un Guapo",
-        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
+        "name": "Nunca Te Quise",
+        "url": "https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
         }
       ],
-      "duration_ms": 182780,
-      "name": "Soy Un Guapo",
-      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
+      "duration_ms": 215829,
+      "name": "Nunca Te Quise",
+      "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
     },
     {
       "added_at": "2023-07-07 04:08:40",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-07-07 04:08:40",
       "album": {
-        "name": "Nunca Te Quise",
-        "url": "https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv"
+        "name": "Soy Un Guapo",
+        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
         }
       ],
-      "duration_ms": 215829,
-      "name": "Nunca Te Quise",
-      "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
+      "duration_ms": 182780,
+      "name": "Soy Un Guapo",
+      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
     },
     {
       "added_at": "2023-07-07 04:08:40",

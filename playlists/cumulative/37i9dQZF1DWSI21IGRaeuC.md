@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-177 songs - 15 hr 8 min
+178 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Mantra](https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe) | 3:21 | 2023-03-17 |  |
 | [Maybe Not](https://open.spotify.com/track/17dtDJ02K8SaDugoYuPoWB) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm) | [Maybe Not](https://open.spotify.com/album/6uN87iMBCYoavfRE6jIcjg) | 7:33 | 2022-06-03 | 2022-07-20 |
 | [MDMA](https://open.spotify.com/track/4pzKf9d5woftnKhWzELZoS) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [MDMA](https://open.spotify.com/album/2GTK8t2bYMjsiEtZCOpMFB) | 5:55 | 2022-06-24 | 2022-07-24 |
-| [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 | 2023-03-24 |  |
+| [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 | 2023-03-24 | 2023-07-09 |
 | [Miss B](https://open.spotify.com/track/25Gn1kR7JZRYYDY9VNFPxL) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05) | [Miss B](https://open.spotify.com/album/0v8hyn2w4hBJ3nAy7zDQ5w) | 6:44 | 2022-06-03 | 2022-07-19 |
 | [Mistakes](https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Mistakes EP](https://open.spotify.com/album/2J8IaTOHYwiXB1ItJwSLYG) | 2:39 | 2022-06-24 | 2022-07-28 |
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
@@ -183,6 +183,7 @@
 | [Work Out](https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj) | [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [Work Out](https://open.spotify.com/album/4ksU29xJ4PKvzQhfiBOoYz) | 7:03 | 2022-06-03 | 2022-07-10 |
 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 | 2022-11-11 |  |
 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 | 2022-07-01 |  |
+| [You & Me](https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [You & Me](https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS) | 3:41 | 2023-07-07 |  |
 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-05-26 | 2023-07-04 |
 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 | 2023-03-03 |  |
 

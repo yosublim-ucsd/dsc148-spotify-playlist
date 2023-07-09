@@ -918,10 +918,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 233658,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
+    },
+    {
+      "album": {
+        "name": "Homegrown (Deluxe)",
+        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Say Yes (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
     },
     {
       "album": {

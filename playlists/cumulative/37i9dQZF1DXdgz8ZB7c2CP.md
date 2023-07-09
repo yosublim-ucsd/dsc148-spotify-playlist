@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-476 songs - 1 day 2 hr 26 min
+477 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [call me up](https://open.spotify.com/track/4WzOPJJtDYjBpqLDvadaMx) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [call me up](https://open.spotify.com/album/1w14PvnHzO7YSAwvx1dzcJ) | 3:48 | 2023-02-24 | 2023-03-01 |
 | [call me up](https://open.spotify.com/track/7hV9TqcZDOJbGRNxEjXUJb) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [call me up](https://open.spotify.com/album/0i3z1G1OXeonHedYoebyOa) | 3:48 | 2023-02-24 | 2023-03-04 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-11-26 | 2023-03-01 |
-| [Casual](https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [KABL](https://open.spotify.com/artist/2tvHo5GWaKHJxXrSxv34FB) | [Casual](https://open.spotify.com/album/4Q0s7rQh6BDtUnM8BfZYtV) | 2:44 | 2023-04-21 |  |
+| [Casual](https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [KABL](https://open.spotify.com/artist/2tvHo5GWaKHJxXrSxv34FB) | [Casual](https://open.spotify.com/album/4Q0s7rQh6BDtUnM8BfZYtV) | 2:44 | 2023-04-21 | 2023-07-09 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-16 |  |
 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-19 |  |
 | [Chakra](https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [All Glows](https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q) | 4:08 | 2021-08-06 | 2023-02-11 |
@@ -365,6 +365,7 @@
 | [Shine](https://open.spotify.com/track/76FR3MBARic3eh86RQjubB) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Shine](https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi) | 3:45 | 2021-08-06 | 2023-04-09 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 | 2023-05-13 |
 | [Siento Mi Destino](https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Original Classic](https://open.spotify.com/album/2KBN5wIYIuy8SlrxNiZWq1) | 3:48 | 2021-11-12 | 2022-07-28 |
+| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-07 |  |
 | [sinking @@!](https://open.spotify.com/track/47vCeLdxTjshWI3emh3ZUb) | [late year](https://open.spotify.com/artist/5VIvm6mJVnzoOrcFEsKIfP), [Otxhello](https://open.spotify.com/artist/4S3cwLP8haGAdlqyza3GZ3), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [late year](https://open.spotify.com/album/52IWApcFLgfDu9clR1GGNg) | 3:20 | 2021-08-06 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Skin](https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq) | 2:49 | 2023-04-13 |  |
 | [SKY SKY 1.3 \[2016 Export Wav\]](https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 2:44 | 2023-05-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3510,
+  "num_followers": 3512,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
+  "snapshot_id": "MCwwMWM4OGZlY2RiZmRlNDgxZGQyYWEwMDNhYWZhYzhhNjJmNjhkNzZj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le treizi\u00e8me \u00e9tage",
-        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
+        "name": "Tous Les Sens",
+        "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
         }
       ],
-      "duration_ms": 389320,
-      "name": "Un monstre",
-      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
+      "duration_ms": 321426,
+      "name": "Pers\u00e9ides",
+      "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tous Les Sens",
-        "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
+        "name": "Le treizi\u00e8me \u00e9tage",
+        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
       },
       "artists": [
         {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 321426,
-      "name": "Pers\u00e9ides",
-      "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
+      "duration_ms": 389320,
+      "name": "Un monstre",
+      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "La grande nuit vid\u00e9o",
         "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
-      },
-      "artists": [
-        {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les amours parall\u00e8les",
         "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 218935,
       "name": "L\u2019oiseau m\u00e9canique",
       "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "And The Boys",
+        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "And The Boys - French Version",
+      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -943,22 +959,6 @@
       "duration_ms": 253124,
       "name": "Elles",
       "url": "https://open.spotify.com/track/2f1aeMuXIJDlI4YbaihQ4e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "And The Boys",
-        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "And The Boys - French Version",
-      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
-      },
-      "artists": [
-        {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "J'irai l\u00e0",
-      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Ombres Longues",
         "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+        "name": "La vraie nature - Chansons par Pilou",
+        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
       "artists": [
         {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
+      "duration_ms": 246613,
+      "name": "J'irai l\u00e0",
+      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1087,6 +1071,22 @@
       "duration_ms": 257546,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Parades",
         "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
         }
       ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1267,22 +1283,6 @@
       "duration_ms": 253145,
       "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
       "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z"
-      },
-      "artists": [
-        {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ta Chance",
-        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
-      },
-      "artists": [
-        {
-          "name": "Nerina Pallot",
-          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
-        }
-      ],
-      "duration_ms": 268276,
-      "name": "Ta Chance",
-      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Nord-est",
         "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 243977,
       "name": "Nord-est",
       "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ta Chance",
+        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
+      },
+      "artists": [
+        {
+          "name": "Nerina Pallot",
+          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
+        }
+      ],
+      "duration_ms": 268276,
+      "name": "Ta Chance",
+      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
       },
       "artists": [
         {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1459,6 +1459,22 @@
       "duration_ms": 273473,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+      },
+      "artists": [
+        {
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1511,22 +1527,6 @@
       "duration_ms": 344346,
       "name": "Oubliette",
       "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
-      },
-      "artists": [
-        {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",

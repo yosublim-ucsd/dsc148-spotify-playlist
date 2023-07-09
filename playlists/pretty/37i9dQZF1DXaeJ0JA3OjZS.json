@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 51588,
+  "num_followers": 51727,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTY2ZjVlMzdiYjcyZmQ5YjRmNjNmMWI3ZmNiYjBhNmMzOGY3NDY4",
+  "snapshot_id": "MCw1ZWExMGE1YzUxM2QxMzM1NTZmNzQ3OWUwZjg1MjRlYWRhNGRkZGY1",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 205165,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "Con el Poder del Corrido",
         "url": "https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 229750,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/5RhDoarqLwMX9ftRP3oz09"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 205165,
-      "name": "El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
     },
     {
       "added_at": "2023-05-03 18:57:46",

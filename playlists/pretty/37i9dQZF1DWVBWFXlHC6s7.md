@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,771 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,889 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 23 | [Mistério da raça](https://open.spotify.com/track/3GDM3x918Z9o9COKIdf4jc) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Nós](https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b) | 3:07 |
 | 24 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
 | 25 | [Estou Livre](https://open.spotify.com/track/4wQsadZBQqUX0uFXPHylcN) | [Tony Bizarro](https://open.spotify.com/artist/4Eev3uY6rsEe2XheMKXWZX) | [Estou Livre \(Remixes\)](https://open.spotify.com/album/031gLsHm36Z8lqjY7ZOAyY) | 4:00 |
-| 26 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 |
+| 26 | [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 |
 | 27 | [E O Espetáculo Continua](https://open.spotify.com/track/0mNK2GQOs0Y8TFFQo4Fr1q) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Roupa Nova \(1981\)](https://open.spotify.com/album/4fB4jcW0KgBhVsO1l8lJ8P) | 3:20 |
 | 28 | [A Paraíba Não é Chicago](https://open.spotify.com/track/5b2EESljfAcvuqhV1o5ied) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Vontade de Rever Você](https://open.spotify.com/album/5udboLLSVDzy8y7iBHpafc) | 4:38 |
 | 29 | [Baby](https://open.spotify.com/track/17OzfblzUJ5XHBeBUb95av) | [Quinteto Ternura](https://open.spotify.com/artist/6KKYUjIV0oZTEWC8GPYehw) | [Quinteto Ternura](https://open.spotify.com/album/0veoGWuGVvpPgmvVw9jGZd) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 |
 | 50 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 |
 
-Snapshot ID: `MCwxMmIzMDVmOWE4Y2E1MTc4MDY0NmMxMzFkNThiM2JlYTk4ODFjMWE3`
+Snapshot ID: `MCw5MjRlZjU5Yjc5OGU4M2JmY2IxNDI1OGZjYTk2NGI5YmFlZDcwNWEw`

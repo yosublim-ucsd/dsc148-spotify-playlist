@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: CLAUDIA ",
-  "num_followers": 916747,
+  "num_followers": 916710,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl",
+  "snapshot_id": "MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj",
   "tracks": [
     {
       "added_at": "2023-07-07 18:52:48",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
         }
       ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+      "duration_ms": 181000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 223231,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 234236,
-      "name": "\u5927\u4eba",
-      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 212054,
       "name": "Overgrown",
       "url": "https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 234236,
+      "name": "\u5927\u4eba",
+      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Pao Sto Nisi",
-        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 178705,
-      "name": "Pao Sto Nisi",
-      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "God give me a car",
         "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 176670,
       "name": "God give me a car",
       "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Pao Sto Nisi",
+        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 178705,
+      "name": "Pao Sto Nisi",
+      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 137666,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Changer",
         "url": "https://open.spotify.com/album/5NnTyMnwFkYpkr0AwaCkgd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189124,
       "name": "Changer",
       "url": "https://open.spotify.com/track/5reuS90U6IugxXu6kmZNI0"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "duration_ms": 137666,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+        "name": "Gerade aus",
+        "url": "https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
         }
       ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+      "duration_ms": 131460,
+      "name": "Gerade aus",
+      "url": "https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -767,6 +767,22 @@
       "duration_ms": 179253,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Good Luck in Chicago",
-        "url": "https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0"
-      },
-      "artists": [
-        {
-          "name": "Juliet",
-          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Good Luck in Chicago",
-      "url": "https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "\u6211\u5011\u7684\u9b3c\u9b42",
         "url": "https://open.spotify.com/album/2hRcS0qsuqiCxMQel0zivj"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 224585,
       "name": "\u6211\u5011\u7684\u9b3c\u9b42",
       "url": "https://open.spotify.com/track/59LwPApVp3ay4m1GyQtefy"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Good Luck in Chicago",
+        "url": "https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0"
+      },
+      "artists": [
+        {
+          "name": "Juliet",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Good Luck in Chicago",
+      "url": "https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -931,6 +947,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "Doppio nodo",
         "url": "https://open.spotify.com/album/2PoUtrAkX4j8gOgvajY2Ww"
       },
@@ -951,22 +983,6 @@
       "duration_ms": 182500,
       "name": "Doppio nodo (feat. Fred De Palma & Emis Killa)",
       "url": "https://open.spotify.com/track/3INOCg3ju4OhKWRYd2BxT9"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Alf Rooh (\u0623\u0644\u0641 \u0631\u0648\u062d)",
+        "url": "https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "Alf Rooh - \u0623\u0644\u0641 \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "Paralelas",
         "url": "https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH"
       },
@@ -1087,22 +1119,6 @@
       "duration_ms": 195877,
       "name": "Closer (Clothes Off)",
       "url": "https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Gerade aus",
-        "url": "https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 131460,
-      "name": "Gerade aus",
-      "url": "https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Hamburguesa",
+        "url": "https://open.spotify.com/album/0opyW8r8noqcuW32vAeI4t"
+      },
+      "artists": [
+        {
+          "name": "MADBEL",
+          "url": "https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Hamburguesa",
+      "url": "https://open.spotify.com/track/6gm61ctlsKeiyPRIgdyR2p"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "blank",
         "url": "https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz"
       },
@@ -1171,18 +1203,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Hamburguesa",
-        "url": "https://open.spotify.com/album/0opyW8r8noqcuW32vAeI4t"
+        "name": "LIVE ARCHIVE",
+        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
       "artists": [
         {
-          "name": "MADBEL",
-          "url": "https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4"
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Champion Sound",
+          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
         }
       ],
-      "duration_ms": 149865,
-      "name": "Hamburguesa",
-      "url": "https://open.spotify.com/track/6gm61ctlsKeiyPRIgdyR2p"
+      "duration_ms": 242256,
+      "name": "Pink Matter - Live",
+      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1219,26 +1255,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "LIVE ARCHIVE",
-        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
-      },
-      "artists": [
-        {
-          "name": "Annet X",
-          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
-        },
-        {
-          "name": "Champion Sound",
-          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
-        }
-      ],
-      "duration_ms": 242256,
-      "name": "Pink Matter - Live",
-      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Brilla",
         "url": "https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 170666,
       "name": "Baddie In The Passenger Seat",
       "url": "https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Games",
-        "url": "https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7"
-      },
-      "artists": [
-        {
-          "name": "Helaine Vis",
-          "url": "https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Games",
-      "url": "https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs"
     }
   ],
   "unique_name": "EQUAL Global",

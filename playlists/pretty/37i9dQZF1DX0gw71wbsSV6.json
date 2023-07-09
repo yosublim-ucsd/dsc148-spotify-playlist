@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43759,
+  "num_followers": 43766,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjE1ODNlN2VmOGQ1ZWE3YzI4OWY1MGRjOGQyOGQ0ZTlhMGFhZWYy",
+  "snapshot_id": "MCxjYTJjMjk0YWQ0MDk0YzJlZDhmZWM5YjhjNDg4YWIyMzk5NDJiYzdk",
   "tracks": [
     {
       "added_at": "2023-07-06 15:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 203787,
+      "name": "napori",
+      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
       },
@@ -499,34 +515,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 203787,
-      "name": "napori",
-      "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
-      },
-      "artists": [
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 195277,
-      "name": "Little Runaway",
-      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 195277,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Calm Down (Dennis Bovell dUb Remix)",
-        "url": "https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL"
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Dennis Bovell",
-          "url": "https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 195848,
-      "name": "Calm Down - Dennis Bovell dUb Remix",
-      "url": "https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv"
+      "duration_ms": 184133,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

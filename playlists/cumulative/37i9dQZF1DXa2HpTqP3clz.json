@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
@@ -7635,6 +7635,40 @@
     },
     {
       "album": {
+        "name": "These Ole Blues",
+        "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Danny Paisley",
+          "url": "https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi"
+        },
+        {
+          "name": "Darol Anger",
+          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
+        },
+        {
+          "name": "Shad Cobb",
+          "url": "https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u"
+        },
+        {
+          "name": "Ellie Hakanson",
+          "url": "https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255178,
+      "name": "These Ole Blues",
+      "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
+    },
+    {
+      "album": {
         "name": "They Call It Music (Simply Bluegrass)",
         "url": "https://open.spotify.com/album/3LLq6jMuRW8pF8j6sf9D8g"
       },
@@ -8180,7 +8214,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 176000,
       "name": "Well",
       "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
@@ -8354,7 +8388,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
@@ -8580,7 +8614,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"

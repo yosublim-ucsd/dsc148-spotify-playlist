@@ -1750,8 +1750,8 @@
           "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
         },
         {
-          "name": "Martin Berrios",
-          "url": "https://open.spotify.com/artist/56BZ0odGTZKUHSfct4pVFC"
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
         }
       ],
       "date_added": "2023-07-07",
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 177309,
       "name": "es caprichoso el azar",
       "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
@@ -3582,6 +3582,24 @@
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
+    },
+    {
+      "album": {
+        "name": "mala",
+        "url": "https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj"
+      },
+      "artists": [
+        {
+          "name": "carla martinez",
+          "url": "https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "mala",
+      "url": "https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b"
     },
     {
       "album": {

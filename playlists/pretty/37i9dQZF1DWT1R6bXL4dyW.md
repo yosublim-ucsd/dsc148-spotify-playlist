@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,963 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,128 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 7 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 8 | [Primo amore](https://open.spotify.com/track/44nITwzqqMN5YGkkpHIssi) | [Carlo Buti](https://open.spotify.com/artist/2X9ZzmPwihIKKf2hIFfPyX) | [Se vuoi goder la vita](https://open.spotify.com/album/5crLflFonGxdtP6O5llh0H) | 3:45 |
 | 9 | [Sott'er celo de Roma](https://open.spotify.com/track/4aoGVSGI98wtrol55ppThj) | [Teddy Reno](https://open.spotify.com/artist/6bobviRFkmyCKCIxqMluuv) | [Pezzi da...90](https://open.spotify.com/album/6Ie5uPiaaDhJRbssFBAkZf) | 3:13 |
-| 10 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
+| 10 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
 | 11 | [Conversazione](https://open.spotify.com/track/6QJCRh7zkxzpNZ5tzK2Rfm) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Sabato sera Studio Uno 1967](https://open.spotify.com/album/0GE5WZVdug1awyoHhWkBd0) | 2:20 |
 | 12 | [Colpevole \(con Orchestra\)](https://open.spotify.com/track/3jcLeXLBfmfxWmRVQ7oIc6) | [Nicola Arigliano](https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD) | [Colpevole](https://open.spotify.com/album/1mgsq0slHd56RMtIyTjej2) | 3:06 |
 | 13 | [Save The Last Dance For Me](https://open.spotify.com/track/3AgDyq95PRlHWhij9CaHam) | [Russ Columbo](https://open.spotify.com/artist/1bX7fjOYkonAk4NR2S82Kw) | [Save The Last Dance For Me](https://open.spotify.com/album/3GFvLuliDKA3e1dVGzGJ5H) | 2:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 54 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 
-Snapshot ID: `MCxiNTY2NTcwY2IyZDEzYjI5YTFhZjljZjcwZjgxMWY5ZGFlZjI3ZmM3`
+Snapshot ID: `MCxlZDNlZDM5YzNjMTc2MjgxYjZhYjNiMjg1MGNmZGUxZWM0YmJiM2Ji`

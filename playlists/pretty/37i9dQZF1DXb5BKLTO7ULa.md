@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Jaap Reesema
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,592 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,613 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 28 | [Draai Terug De Tijd](https://open.spotify.com/track/1aS7NHq5rPp4F5EBMUbPgT) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Jennie Lena](https://open.spotify.com/artist/69YjsiBzjT9ZPbngJlO0Rm) | [Draai Terug De Tijd](https://open.spotify.com/album/0JP1faEcGqQER2k9cN2tRt) | 4:49 |
 | 29 | [The Way](https://open.spotify.com/track/6fiz1XTowkiuhsxCT9Bcdf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [The Way](https://open.spotify.com/album/3Xtl0u7KD7SSMSPfavCOPB) | 2:01 |
 | 30 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 |
-| 31 | [Zeg Me Dat Het Niet Zo Is \- Live in Carré 2023](https://open.spotify.com/track/1XTcg6lSJ2ME4EdBz365ul) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Onderweg Naar Jou \(Live in Carré\) \[Live in Carré 2023\]](https://open.spotify.com/album/6QAKwEUlHsbZ2Ee1H8mg3U) | 4:02 |
+| 31 | [Zeg Me Dat Het Niet Zo Is \- Live in Carré 2023](https://open.spotify.com/track/1XTcg6lSJ2ME4EdBz365ul) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Onderweg Naar Jou \(Live in Carré\)](https://open.spotify.com/album/6QAKwEUlHsbZ2Ee1H8mg3U) | 4:02 |
 | 32 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 33 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR) | 2:31 |
 | 34 | [Party “AAAH”](https://open.spotify.com/track/2oyVV3GeFVJxthXByHNtNo) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [Party “AAAH”](https://open.spotify.com/album/5fvbKgEPjtG8B4wuqoIoJ5) | 1:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 99 | [Inspiral](https://open.spotify.com/track/7of6zR9pYc1aQeSrQnxY8f) | [Eboman](https://open.spotify.com/artist/18Rbmhp3zmXBXVu3LO8E2L) | [Hold Your Horses](https://open.spotify.com/album/7sLxxtRryW0kH4eS9l8AnX) | 2:32 |
 
-Snapshot ID: `MCwxOWFmNWNlYjBmMjIwMzVmZmMyYzIzN2MwMzAwZWQ0ODBkMDNmY2Zh`
+Snapshot ID: `MCw3NTUwZDk2ZGFiNWVkZTM4ZDE5NzQ2NzU1ODQ5NzAzZGIzODdlODli`

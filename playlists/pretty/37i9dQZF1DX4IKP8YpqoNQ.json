@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 24333,
+  "num_followers": 24353,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDE5M2ViZGVkOTQ1OWI0MmEzY2U2ZWZlMjIzNTQ4NzgzZmQ0MGUw",
+  "snapshot_id": "MCxjYWFhMGUyNDQwOTM3NGZiZTYzYmU5OWExOTI3NzljYmRhYjE1MjAy",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 181200,
       "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 374236,
+      "name": "Ain't Nobody - Live",
+      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "The Roots Come Alive",
         "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 374236,
-      "name": "Ain't Nobody - Live",
-      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Aretha Live at Fillmore West",
         "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 261533,
       "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
       "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "'Live' At The Apollo (Vol. II)",
-        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 247106,
-      "name": "That's Life - Live At The Apollo Theater, 1967",
-      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "'Live' At The Apollo (Vol. II)",
+        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "That's Life - Live At The Apollo Theater, 1967",
+      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 310973,
       "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
       "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Coming Home - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -915,6 +899,22 @@
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Coming Home - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 180551,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Natural Wonder",
-        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "I Wish - Live/1995",
-      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "The Tour",
         "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 274306,
       "name": "St. James Infirmary - Live/Remastered",
       "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Natural Wonder",
+        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "I Wish - Live/1995",
+      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Weekend in London (Live)",
-        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 374800,
-      "name": "The Ghetto - Live",
-      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live At The London Palladium",
         "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 220672,
       "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Weekend in London (Live)",
+        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 374800,
+      "name": "The Ghetto - Live",
+      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 376973,
       "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
       "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 398986,
       "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 296809,
-      "name": "Nakamarra - Live from Spotify Sydney",
-      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1587,6 +1571,22 @@
       "duration_ms": 289600,
       "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
       "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 296809,
+      "name": "Nakamarra - Live from Spotify Sydney",
+      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Let's Stay Together - Live",
+      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
     }
   ],
   "unique_name": "Soul Live",

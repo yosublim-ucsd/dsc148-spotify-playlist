@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Mahmundi",
-  "num_followers": 341354,
+  "num_followers": 341411,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTY2MmYzYmIxZmVhZTM2NTg0ZjVkZDI2YjJmNjk4OTVjMTY5Y2Nm",
+  "snapshot_id": "MCw3MDAyYzQ5M2Y4MmRiNDIyZWJhNTZjNDEyNDQ2YWMyZDE0NzA0NWIz",
   "tracks": [
     {
       "added_at": "2023-07-07 06:02:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Feliz, Alegre e Forte",
+      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Feliz, Alegre e Forte",
-      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -259,26 +259,18 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -319,22 +311,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
         "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -727,6 +711,42 @@
       "duration_ms": 205215,
       "name": "Coment\u00e1rio a Respeito de John",
       "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -791,26 +811,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Ana Ca\u00f1as Canta Belchior",
         "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "\u00c9 Preciso Perdoar",
-        "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "\u00c9 Preciso Perdoar",
-      "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "O Fio do Meu Destino",
         "url": "https://open.spotify.com/album/5dupeWUgQCj41ufb2bu99j"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 142432,
       "name": "O Fio do Meu Destino",
       "url": "https://open.spotify.com/track/5K1ORBKHS8arS7gT8WpjVF"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "\u00c9 Preciso Perdoar",
+        "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "\u00c9 Preciso Perdoar",
+      "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Acabou",
-        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 178416,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "O Anel",
-        "url": "https://open.spotify.com/album/78rK79e9aSYV6QfGjDc4Yp"
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
       },
       "artists": [
         {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
         }
       ],
-      "duration_ms": 222925,
-      "name": "O Anel",
-      "url": "https://open.spotify.com/track/3xg3P55NwmLh29uKCjF5uI"
+      "duration_ms": 178416,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1487,6 +1471,42 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "O Anel",
+        "url": "https://open.spotify.com/album/78rK79e9aSYV6QfGjDc4Yp"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 222925,
+      "name": "O Anel",
+      "url": "https://open.spotify.com/track/3xg3P55NwmLh29uKCjF5uI"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Teus Olhos em Mim",
+        "url": "https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 182528,
+      "name": "Teus Olhos em Mim",
+      "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "De Longe Toda Serra \u00c9 Azul",
-        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Da\u00edra",
-          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
-        }
-      ],
-      "duration_ms": 177825,
-      "name": "De Longe Toda Serra \u00c9 Azul",
-      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1579,6 +1579,26 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "De Longe Toda Serra \u00c9 Azul",
+        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Da\u00edra",
+          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+        }
+      ],
+      "duration_ms": 177825,
+      "name": "De Longe Toda Serra \u00c9 Azul",
+      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Teus Olhos em Mim",
-        "url": "https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 182528,
-      "name": "Teus Olhos em Mim",
-      "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Poliamor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2tgQHFbqFj0fUHG4wUudLC"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Sobre N\u00f3s",
-        "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/7ohl7yuUZovJaz7e4U8KNY"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "OMINIRA A Historia de Jo\u00e3o Bento",
         "url": "https://open.spotify.com/album/782sfffrhSKieZSoTKdGIE"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 118813,
       "name": "Eu Vi!",
       "url": "https://open.spotify.com/track/4robtOMus4YUBjtBVL7n0b"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Sobre N\u00f3s",
+        "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/7ohl7yuUZovJaz7e4U8KNY"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
+        "name": "Caravana",
+        "url": "https://open.spotify.com/album/2s2IWrYT4vpnF6tgCIhHba"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Caravana",
+      "url": "https://open.spotify.com/track/5SPoEc1PJlm7Nf6Gkr7dzq"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1807,6 +1827,22 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
+    },
+    {
+      "added_at": "2023-07-07 06:02:00",
+      "album": {
+        "name": "Foge de Casa",
+        "url": "https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 219307,
+      "name": "Foge de Casa",
+      "url": "https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7"
     },
     {
       "added_at": "2023-07-07 06:02:00",
@@ -1835,42 +1871,6 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Caravana",
-        "url": "https://open.spotify.com/album/2s2IWrYT4vpnF6tgCIhHba"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        },
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Caravana",
-      "url": "https://open.spotify.com/track/5SPoEc1PJlm7Nf6Gkr7dzq"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
-        "name": "\u00c9, Meu Bem",
-        "url": "https://open.spotify.com/album/7K96zZtKvtXLdZqkC4qROe"
-      },
-      "artists": [
-        {
-          "name": "Wem",
-          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
-        }
-      ],
-      "duration_ms": 199925,
-      "name": "\u00c9, Meu Bem",
-      "url": "https://open.spotify.com/track/0iPi757UJZuEmPfq5hk92z"
-    },
-    {
-      "added_at": "2023-07-07 06:02:00",
-      "album": {
         "name": "Tarde Demais",
         "url": "https://open.spotify.com/album/2NKp0PVLQFCzEuTWapCs7c"
       },
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-07-07 06:02:00",
       "album": {
-        "name": "Foge de Casa",
-        "url": "https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T"
+        "name": "\u00c9, Meu Bem",
+        "url": "https://open.spotify.com/album/7K96zZtKvtXLdZqkC4qROe"
       },
       "artists": [
         {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+          "name": "Wem",
+          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
         }
       ],
-      "duration_ms": 219307,
-      "name": "Foge de Casa",
-      "url": "https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7"
+      "duration_ms": 199925,
+      "name": "\u00c9, Meu Bem",
+      "url": "https://open.spotify.com/track/0iPi757UJZuEmPfq5hk92z"
     },
     {
       "added_at": "2023-07-07 06:02:00",

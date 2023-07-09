@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,151 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,223 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
-| 2 | [HOMER & TROCA \- PA MORIR SE NACE MASTER FINAL](https://open.spotify.com/track/5LM38gYHNnfUpOJorx79Yf) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Pa Morir Se Nace](https://open.spotify.com/album/7o5b0dMIzT4kT5KnSX7fiF) | 2:05 |
+| 2 | [Pa Morir Se Nace](https://open.spotify.com/track/5LM38gYHNnfUpOJorx79Yf) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Pa Morir Se Nace](https://open.spotify.com/album/7o5b0dMIzT4kT5KnSX7fiF) | 2:05 |
 | 3 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 |
 | 4 | [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 |
 | 5 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 100 | [XL](https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [XL](https://open.spotify.com/album/5DGbD9cul3TZcq8NPzhhbe) | 2:54 |
 | 101 | [Paquetes](https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Paquetes](https://open.spotify.com/album/2yPAPnynCHDjYi69UF1UUI) | 2:51 |
 
-Snapshot ID: `MCw1MjVmZDliNzg4NDJlODM4OTYyMWZiYjM5MTU3ZTBjYjQ4MDYyNmYw`
+Snapshot ID: `MCxlOTkwZDkxZjdiZDg3N2E0OTMxZTQ2MGQwZjdlMDI1YmY1N2YwYWQ0`

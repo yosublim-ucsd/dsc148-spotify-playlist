@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 625101,
+  "num_followers": 625220,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTVmZWY5MWM5ODI1ZmM2M2RkMjUyZTNkMjhhYTlhYWU2NmYyN2I3",
+  "snapshot_id": "MCwyNTYyNWUyZGQzMzBhY2ZjNDM5YTAxMDMxMWI2MDIyM2IzOGQ5OTRk",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "L\u00e1grimas De Miel",
-        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "L\u00e1grimas De Miel",
-      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 150315,
       "name": "Solo",
       "url": "https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "L\u00e1grimas De Miel",
+        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "L\u00e1grimas De Miel",
+      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
-      },
-      "artists": [
-        {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "pero qu\u00e9 cosa",
         "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 165500,
       "name": "pero qu\u00e9 cosa",
       "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     },
     {
       "added_at": "2023-02-24 17:40:22",

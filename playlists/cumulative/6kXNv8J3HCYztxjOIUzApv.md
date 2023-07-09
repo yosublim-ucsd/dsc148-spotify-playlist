@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-219 songs - 13 hr 55 min
+220 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bulletproof](https://open.spotify.com/track/4VRRbrw7ai2mztUrXrAvfd) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Bulletproof](https://open.spotify.com/album/1TtbAHb4E0J0BQkf5HOl7o) | 2:57 | 2021-08-20 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2023-01-04 |  |
 | [Burn It Up](https://open.spotify.com/track/0W22ed8cPRlbyaDEhuBQTB) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:26 | 2022-09-21 | 2023-01-04 |
+| [Burn Me Down](https://open.spotify.com/track/0esLzQSUI4NUOFV1f75AKS) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Burn Me Down](https://open.spotify.com/album/02dE6aUrvRGG3rkbifZf2u) | 3:51 | 2023-07-07 |  |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-01-25 |  |
 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/4ut8tFTcjm9gWPOJNWZ41T) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:14 | 2022-09-21 | 2023-01-04 |
 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 | 2021-08-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,891 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,160 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 98 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 |
 | 99 | [Delta Sinus 160 Hz \- L 165 Hz \- R \- Drone](https://open.spotify.com/track/69V8WWWQCX7aFd2uVWml3x) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:33 |
 
-Snapshot ID: `MCwzNWMxOTAzOTNmZmZmM2I3MjA0YTBkYzY1OGYwNWZkYzQ1ZmRkZGIy`
+Snapshot ID: `MCxlOGUyOTgyZjM2YTM3MTkzZDYwNDdmZTQxMTlmNmRlNjI4MjQ5NGIx`

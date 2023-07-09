@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,656 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,015 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 68 | [月の大きさ](https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeD](https://open.spotify.com/album/2NkG7Ei5PObrNHHcTgXLgF) | 3:56 |
 | 69 | [紅蓮](https://open.spotify.com/track/0ldzDKNON23ajcssPHjTKH) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [DOES](https://open.spotify.com/album/1KnBUiw5MLYjJsSqJWLTPU) | 4:03 |
 | 70 | [風](https://open.spotify.com/track/19yMWtwmIY2IzThaHG4IEV) | [Yamazaru](https://open.spotify.com/artist/6VuxycWaTHHrz5ZP5sNSsd) | [あいことば3](https://open.spotify.com/album/0OcKRcQ0m5Ox4RS6VeaKzh) | 4:09 |
-| 71 | [LINE](https://open.spotify.com/track/7pcN20ycxFODgvpQYHxMkH) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Weather Song of SUKIMASWITCH](https://open.spotify.com/album/6A259cXcFtZMqOGCKRvGIa) | 4:40 |
+| 71 | [LINE](https://open.spotify.com/track/3EDltrWSBkZAv2EPaQeS9R) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [SUKIMASWITCH 20th Anniversary BEST『POPMAN’S WORLD \-Second\-』](https://open.spotify.com/album/40dcCDUEw7blRejxhrXye8) | 4:43 |
 | 72 | [それでは、また明日](https://open.spotify.com/track/4MofkwTlUx5LgADVqD0HM1) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [それでは、また明日](https://open.spotify.com/album/2si9SsOjJplp5DMpeHuOyn) | 3:43 |
 | 73 | [流れ星 〜Shooting Star〜](https://open.spotify.com/track/0OlmKJGeZyigVtRaKeAL7n) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [流れ星 〜Shooting Star〜](https://open.spotify.com/album/4XbW4UevuUiPxmCnZlZWq7) | 4:57 |
 | 74 | [五月雨](https://open.spotify.com/track/3aNugT13qqQoUKwfJKmcrk) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 3:27 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MCw4MDU1NDg2MzEwZTRjMTI2ZGZmMmU0OWQ4ZmE0ODIwN2ExNTk0MTUw`
+Snapshot ID: `MCw5ZmJkOWQ0OGYwOTI2MGY1OTI0MWM1ZWY4OTE1NzIyMjMxMDIwMDli`

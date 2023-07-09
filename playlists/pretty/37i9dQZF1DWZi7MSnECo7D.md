@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Luiza Lian
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,539 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,535 likes - 69 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 68 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 |
 | 69 | [MONTANHA RUSSA](https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [MONTANHA RUSSA](https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF) | 3:13 |
 
-Snapshot ID: `MCwyNDc3OGNiOWE0YjRjMGIzYjExM2FjOTZkZGNmZGYxZDg0MTYwMmZi`
+Snapshot ID: `MCw3MTJhODYzOTJmMTlhYmNjNmE2OTE4MWRiMTM2MWJjMTkyMDgxYjRj`

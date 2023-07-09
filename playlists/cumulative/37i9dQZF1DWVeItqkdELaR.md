@@ -4,7 +4,7 @@
 
 > 
 
-218 songs - 10 hr 55 min
+219 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-21 | 2023-05-26 |
 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 | 2022-07-07 |  |
 | [Afro Tropical](https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm) | [Afro Tropical](https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n) | 2:31 | 2022-07-07 |  |
-| [Agarra Em Mim](https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7), [Pedro Mafama](https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk) | [Agarra Em Mim](https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ) | 3:27 | 2023-05-12 |  |
+| [Agarra Em Mim](https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7), [Pedro Mafama](https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk) | [Agarra Em Mim](https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ) | 3:27 | 2023-05-12 | 2023-07-09 |
 | [Ai Coração](https://open.spotify.com/track/2i2L1439P8JJRqp1jiKfUR) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-05-12 |  |
 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 | 2022-08-30 | 2023-05-04 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-13 |  |
@@ -147,6 +147,7 @@
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-07-07 | 2023-05-13 |
 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 | 2023-06-20 |  |
 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 | 2023-05-03 |  |
+| [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 | 2023-06-29 |  |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-15 |  |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-07-07 | 2023-05-04 |
 | [Pensamentos](https://open.spotify.com/track/5iEIIgkYwzLCMAJxEKWsf0) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Pensamentos](https://open.spotify.com/album/23sexT4JiMMfCQJei6Gulo) | 2:35 | 2022-07-07 | 2022-07-20 |

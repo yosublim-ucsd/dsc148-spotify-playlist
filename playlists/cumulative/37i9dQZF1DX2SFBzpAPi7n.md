@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Bluepaprika\(블루파프리카\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-494 songs - 1 day 6 hr 23 min
+496 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,10 +393,11 @@
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 | 2022-10-01 |
 | [Summer Nostalgia](https://open.spotify.com/track/6AaI8NkeP0Yaw2r2tSg6uv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [Summer Nostalgia](https://open.spotify.com/album/0xh9ejn2bLP6NUJGkORVkz) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |
-| [surf.](https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv) | 3:45 | 2023-07-07 |  |
+| [surf.](https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv) | 3:45 | 2023-07-07 | 2023-07-09 |
 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 | 2022-04-21 | 2022-07-26 |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-11 | 2022-05-18 |
 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 | 2022-04-22 | 2023-06-07 |
+| [Sweet Chaos](https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:47 | 2023-07-07 |  |
 | [Swimming](https://open.spotify.com/track/7hRxZMsZhyz2Azs4A4t2sz) | [Dan](https://open.spotify.com/artist/4BMnAOwN9giwY67owHDYYB) | [Swimming](https://open.spotify.com/album/6MFF00PGZQTQq3Gq4xgHTt) | 4:38 | 2022-04-22 | 2022-05-08 |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
@@ -449,12 +450,13 @@
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-26 | 2023-02-15 |
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |
 | [We're destined to meet someday](https://open.spotify.com/track/6YgVmvaDpMIIeBCYog2wkx) | [BLVN](https://open.spotify.com/artist/5YpY8ifnZKsV99rZqwYMGF) | [B\-SIDE](https://open.spotify.com/album/2xfhZvZmpCsTmS3vyT8Pdu) | 4:40 | 2022-05-11 | 2022-06-04 |
-| [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 |  |
+| [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 | 2023-07-09 |
 | [What I Want To Say](https://open.spotify.com/track/7uJTJ5dlGhPeQ9IS8VReF6) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [What I Want To Say \(Police University OST Part.6\)](https://open.spotify.com/album/0i1PtAZNjiF9IIxm4i0N2m) | 3:18 | 2022-06-13 | 2022-06-15 |
 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 | 2022-04-21 | 2022-06-23 |
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-11 | 2022-05-23 |
 | [Where Am I](https://open.spotify.com/track/0ZsgX7WDC1jnwFbHUdwTky) | [Tomiyo](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Where Am I](https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr) | 4:12 | 2022-04-22 | 2022-07-27 |
 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-04-12 | 2023-06-07 |
+| [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-07-07 |  |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-13 |
 | [Why You Worry About Me ?](https://open.spotify.com/track/0eFluhjGKP9fuHievmNyHw) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Urb Fisher](https://open.spotify.com/artist/0voTqkcuTrpIN2tZDzYccH) | [Why You Worry About Me ?](https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH) | 2:32 | 2022-04-12 | 2022-05-08 |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |

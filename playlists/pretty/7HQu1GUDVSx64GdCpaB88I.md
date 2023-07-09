@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 
 > Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,862 likes - 90 songs - 6 hr 29 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,833 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 51 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
 | 52 | [Killing Me Softly With His Song](https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [The Score](https://open.spotify.com/album/7m1r9h3wfPRm3Iv8uvq9vQ) | 4:58 |
 | 53 | [Love Like This \- 2016 Remaster](https://open.spotify.com/track/3pYkhCA97OPAwO6rkWLRcQ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:31 |
-| 54 | [Feel so Good \- 2016 Remaster](https://open.spotify.com/track/1Hzj9qMFRfIDKgek6nPS1Z) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 3:24 |
+| 54 | [Feel So Good \- 2016 Remaster](https://open.spotify.com/track/1Hzj9qMFRfIDKgek6nPS1Z) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 3:24 |
 | 55 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
 | 56 | [Insane in the Brain](https://open.spotify.com/track/6DtVPEJXQxDp7nn3Kp076o) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday \(Radio Version\)](https://open.spotify.com/album/3pUzgS0cVT10PPszgR3VF5) | 3:30 |
 | 57 | [Baby Got Back](https://open.spotify.com/track/7MCNnnmwm7TXMh7xyNGohi) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6YZ0BFvP2Hj0vbTwPytvrb) | 4:22 |
 | 58 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 59 | [O.P.P](https://open.spotify.com/track/3voxsfqnGr9V74jkkzPhXC) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra) | 4:31 |
 | 60 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
-| 61 | [Big Momma Thang](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
+| 61 | [Big Momma Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
 | 62 | [Poison](https://open.spotify.com/track/0j7UX4XEd3PXGOmmcn84xY) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded\)](https://open.spotify.com/album/6MvzZcF9TtJEEkrQdDVaHn) | 4:21 |
 | 63 | [Tennessee \- Remastered 2001](https://open.spotify.com/track/5K8qwhQQSAj9ebIvlNJY8q) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Classic Masters](https://open.spotify.com/album/4Q0QBX3Td4FfHeG7fiJcVW) | 4:32 |
 | 64 | [Around The Way Girl](https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out \(Deluxe Edition\)](https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe) | 4:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 89 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 90 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 
-Snapshot ID: `MTI4NCxiMWRhZWVjMDBmMjM5OTQ2NmE2MzI1N2UwMWJkMWE4MGMyNDcxMGMw`
+Snapshot ID: `MTI4OCxjZTJjZDdjYmE1YTI5OWE0OTBhYjBhZjRkMDdlOGIyNjZjYWNkMTBi`

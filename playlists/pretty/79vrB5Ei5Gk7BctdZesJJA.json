@@ -1,338 +1,502 @@
 {
-  "description": "",
-  "num_followers": 4285,
-  "original_name": "Roadrunner Records Official Playlist",
+  "description": "Official Roadrunner Records Playlist - Guest curator: OLLI APPLEYARD from STATIC DRESS! (New guest curator every 2 weeks)",
+  "num_followers": 4474,
+  "original_name": "DEADNOISE.FM",
   "owner": {
     "name": "Roadrunner Records",
     "url": "https://open.spotify.com/user/roadrunnerrecords"
   },
-  "snapshot_id": "MzAyNSw0YWI5MjUzNDMzNzNjNzJiOTFjZTBjY2M4ZTQzNjllZTdmOGQ5Zjcw",
+  "snapshot_id": "MzAzNSw2MTQ4M2U3YWQ0OTQyNTU1Njk2MGI1OTY1MjE2NmI2ZDEzZjE0M2E3",
   "tracks": [
     {
-      "added_at": "2023-06-06 05:05:58",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Rouge Carpet Disaster (Redux)",
-        "url": "https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn"
+        "name": "Change The Way You Think About Pain",
+        "url": "https://open.spotify.com/album/2WfjxP33VNZGYdlXi0mjKb"
       },
       "artists": [
         {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        },
+          "name": "Incendiary",
+          "url": "https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC"
+        }
+      ],
+      "duration_ms": 159160,
+      "name": "C.T.E",
+      "url": "https://open.spotify.com/track/7kEq2MpHxIc8hpWKOJ4XX4"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "No Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN"
+      },
+      "artists": [
+        {
+          "name": "Gridiron",
+          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
+        }
+      ],
+      "duration_ms": 134647,
+      "name": "No Good At Goodbyes",
+      "url": "https://open.spotify.com/track/76p9SVJz9HDQxXzN8EwEJj"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "A New Tomorrow",
+        "url": "https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Fakin\u2019 Tha Funk (You Get Did)",
+      "url": "https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Baldpate Driver",
+      "url": "https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Somebody's Closer",
+        "url": "https://open.spotify.com/album/3TGCf5xW77jYE9JbzM0SiC"
+      },
+      "artists": [
+        {
+          "name": "Bleed",
+          "url": "https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3"
+        }
+      ],
+      "duration_ms": 253545,
+      "name": "Somebody's Closer",
+      "url": "https://open.spotify.com/track/5fPuLnGPyX4aukl77Ln555"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Violent Closure",
+        "url": "https://open.spotify.com/album/5ER78fT4ETuQKWguUnPrn0"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 102055,
+      "name": "Bitchmade",
+      "url": "https://open.spotify.com/track/2zPFZe39jVSyeccb1HczTT"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Do It With a Smile",
+        "url": "https://open.spotify.com/album/3jgxc23UY1lofVUFVCvUxf"
+      },
+      "artists": [
+        {
+          "name": "Thirdface",
+          "url": "https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG"
+        }
+      ],
+      "duration_ms": 181753,
+      "name": "Villains!",
+      "url": "https://open.spotify.com/track/0Y2XfRa0rybe1siBC1mlQi"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Flesh + Blood",
+        "url": "https://open.spotify.com/album/1XHZenZ4x1D7qHij5w84cC"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Engulfed",
+      "url": "https://open.spotify.com/track/78X9TU73KlVEsO0qMOMnDz"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Weapon of Pleasure",
+        "url": "https://open.spotify.com/album/7suLwWGbNcaCkbExdOiHKI"
+      },
+      "artists": [
         {
           "name": "World of Pleasure",
           "url": "https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb"
         }
       ],
-      "duration_ms": 175101,
-      "name": "Courtney, just relax (feat. World Of Pleasure)",
-      "url": "https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO"
+      "duration_ms": 129817,
+      "name": "World War X",
+      "url": "https://open.spotify.com/track/2C3OCEZEz1h8AkngCq2BlS"
     },
     {
-      "added_at": "2023-06-06 05:06:11",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+        "name": "God's Hate",
+        "url": "https://open.spotify.com/album/1YlCSCK8WEfVYzdVGgIHKe"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "God's Hate",
+          "url": "https://open.spotify.com/artist/5vrN9cJHOufg1grCNms9WU"
         }
       ],
-      "duration_ms": 220066,
-      "name": "Sign of Life",
-      "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+      "duration_ms": 329050,
+      "name": "War Man",
+      "url": "https://open.spotify.com/track/6WvF17s9yE6Rm7VJ2DAzbi"
     },
     {
-      "added_at": "2023-06-06 05:06:44",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq"
+        "name": "Separation Souvenir",
+        "url": "https://open.spotify.com/album/20d476doG98gErKY6sh38c"
       },
       "artists": [
         {
-          "name": "Empire State Bastard",
-          "url": "https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq"
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG"
+      "duration_ms": 215780,
+      "name": "Separation Souvenir",
+      "url": "https://open.spotify.com/track/3TPX2opdVfRSWCnqslFECX"
     },
     {
-      "added_at": "2023-06-06 05:07:12",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+        "name": "World Full Of...",
+        "url": "https://open.spotify.com/album/3szSSG9C1WEMUPdkukrybl"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Life's Question",
+          "url": "https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq"
         }
       ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+      "duration_ms": 154803,
+      "name": "The Will To Dream",
+      "url": "https://open.spotify.com/track/6rvFkJspVEUibUSQhUNBsl"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Our Saints Drown In Ash",
+        "url": "https://open.spotify.com/album/2KKGQ5P26Z4X3JtZ3lbl3F"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+      "duration_ms": 283666,
+      "name": "Sacrosanct",
+      "url": "https://open.spotify.com/track/2Nn9TfnoYWOHjnHlq0DXru"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Rise, Naianasha (Cut The Cord)",
-        "url": "https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p"
+        "name": "27 Miles Underwater",
+        "url": "https://open.spotify.com/album/5QS3d3TiNeDsuF4jkwesGD"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
         }
       ],
-      "duration_ms": 319114,
-      "name": "Rise, Naianasha (Cut The Cord)",
-      "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
+      "duration_ms": 193615,
+      "name": "Seamless",
+      "url": "https://open.spotify.com/track/5IHgggZomjyjAPru6jabgQ"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "In The Court Of The Dragon",
-        "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
+        "name": "Ten Digits Away",
+        "url": "https://open.spotify.com/album/1rjnAe1sdEu8Elh5uVqzw9"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
         }
       ],
-      "duration_ms": 233406,
-      "name": "No Way Back Just Through",
-      "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
+      "duration_ms": 211200,
+      "name": "Ten Digits Away",
+      "url": "https://open.spotify.com/track/7KZD93OYuG3qAoO0ccyLDM"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "The Phalanx",
-        "url": "https://open.spotify.com/album/3AYR093HV8sXPrCjWHKzrf"
+        "name": "Worldwide Brotherhood",
+        "url": "https://open.spotify.com/album/6EAsZ7r9uByYiQsJ7Bsmy9"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Despize",
+          "url": "https://open.spotify.com/artist/7gpFh6i3O9mUWHfzRStXMw"
         }
       ],
-      "duration_ms": 435976,
-      "name": "The Phalanx",
-      "url": "https://open.spotify.com/track/6aXZwKM6C2aNVZiMpf0AMh"
+      "duration_ms": 200104,
+      "name": "Deep Wire",
+      "url": "https://open.spotify.com/track/3IlKunTh0SAPnMOp8MGpqy"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Chewing Gum for the Ears",
+        "url": "https://open.spotify.com/album/2xjdHiey1HSArUOVLHi4GR"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "The Flex",
+          "url": "https://open.spotify.com/artist/1aU7iYWYKvGWgDkGqxABQz"
         }
       ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+      "duration_ms": 112382,
+      "name": "Warboy",
+      "url": "https://open.spotify.com/track/1TBkcggL74clIb8bLzl5KV"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
+        "name": "Don't Test the Pest",
+        "url": "https://open.spotify.com/album/6YkMeBcCcXcc8iCWGhOLjc"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Pest Control",
+          "url": "https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y"
         }
       ],
-      "duration_ms": 205205,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
+      "duration_ms": 289353,
+      "name": "The Great Deceiver",
+      "url": "https://open.spotify.com/track/27gVh1C7dkLcem9nW4WYmA"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+        "name": "Little Green House",
+        "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
         }
       ],
-      "duration_ms": 309029,
-      "name": "In The Court Of The Dragon",
-      "url": "https://open.spotify.com/track/40iyvp3T5mgHhTRefrTVFR"
+      "duration_ms": 181915,
+      "name": "Call From You",
+      "url": "https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR"
     },
     {
-      "added_at": "2023-06-06 05:06:46",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Stutter",
-        "url": "https://open.spotify.com/album/0YKMhs46eY0qUOTiii6LQF"
+        "name": "Third Chain",
+        "url": "https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y"
       },
       "artists": [
         {
-          "name": "Empire State Bastard",
-          "url": "https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq"
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 140506,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/2ylZFw2YgLy5B37REVfZOK"
+      "duration_ms": 177000,
+      "name": "Phantom Pool",
+      "url": "https://open.spotify.com/track/4iZWc02T4nDHq2pihGJFYL"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/0QaS7rHAPOIE3P0zaB99Xu"
+        "name": "WOULDYOUWAITFORME?",
+        "url": "https://open.spotify.com/album/5ARVJpCjJYtlBKUJcNQV9o"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
         }
       ],
-      "duration_ms": 226124,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/3Mol9yc6kEdpu8lKEvsune"
+      "duration_ms": 207090,
+      "name": "WOULDYOUWAITFORME",
+      "url": "https://open.spotify.com/track/5mWNiGLS2S3rYqETHT9Pb1"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+        "name": "REMOTE GOD SEEKER",
+        "url": "https://open.spotify.com/album/3kFJDkVdjbSUjrwwrZfDBd"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
         }
       ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+      "duration_ms": 194711,
+      "name": "24 HOURS LEFT",
+      "url": "https://open.spotify.com/track/0YfaVptYwieYBdZXZXH0V6"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Scary Website",
+        "url": "https://open.spotify.com/album/4t8gI3E25vtNtFuF1vuy63"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "I'm letting unseen forces take the wheel",
+          "url": "https://open.spotify.com/artist/2xqrNISX0JAhmapSu1KEhv"
+        },
+        {
+          "name": "Weed Cowboy",
+          "url": "https://open.spotify.com/artist/5qBBYZrOHuuDHD1OznY805"
+        },
+        {
+          "name": "TWINK OBLITERATOR",
+          "url": "https://open.spotify.com/artist/2P6rqT47Y5gYCXklaZ1c24"
         }
       ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
+      "duration_ms": 194000,
+      "name": "Jake Is A Mostly Dog Name",
+      "url": "https://open.spotify.com/track/79hYvJBOIvPWGeV7XDuf5B"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0oT9RORJbDzMypzBlOi6CC"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Living Weapon",
+          "url": "https://open.spotify.com/artist/4NjxiFkFYR8PO2KJ54NgM8"
         }
       ],
-      "duration_ms": 264947,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api"
+      "duration_ms": 130666,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/6jRbZXRvXoyi8iOwikD9nQ"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": "train_wreck_simulation",
+        "url": "https://open.spotify.com/album/5I6ukEQlMrbER63y7VbDIg"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Bodyweb",
+          "url": "https://open.spotify.com/artist/3huApecbypmvQJVccpEoxj"
         }
       ],
-      "duration_ms": 315177,
-      "name": "Nero Forte",
-      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
+      "duration_ms": 236687,
+      "name": "synthetic",
+      "url": "https://open.spotify.com/track/3lM8ZYAYI9WigryYtr89hv"
     },
     {
-      "added_at": "2022-01-07 17:41:24",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "The All Star Sessions",
-        "url": "https://open.spotify.com/album/3w3HyqvtsWnnYwvl0xsvv1"
+        "name": "We See U",
+        "url": "https://open.spotify.com/album/7FqwYh024YLwTdbi3PEojP"
       },
       "artists": [
         {
-          "name": "Roadrunner United",
-          "url": "https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 332466,
-      "name": "The Dagger",
-      "url": "https://open.spotify.com/track/06RQguo4vybrXooUewSSuA"
+      "duration_ms": 63524,
+      "name": "We See U",
+      "url": "https://open.spotify.com/track/20Ew1p99UPwMKqsW3mmeTU"
     },
     {
-      "added_at": "2023-03-07 00:54:55",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+        "name": "Innocence Bleeds",
+        "url": "https://open.spotify.com/album/3AwwLPQAADwHLbQzwbsBoT"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Splitknuckle",
+          "url": "https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk"
         }
       ],
-      "duration_ms": 212082,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
+      "duration_ms": 204293,
+      "name": "Lingchi",
+      "url": "https://open.spotify.com/track/2vIlHX0y258du36kzSyeBV"
     },
     {
-      "added_at": "2023-03-07 00:56:03",
+      "added_at": "2023-07-06 16:21:23",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+        "name": "Hell Is Other People",
+        "url": "https://open.spotify.com/album/79muG1xkGhczVEgU73a8p7"
       },
       "artists": [
         {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+          "name": "Rough Justice",
+          "url": "https://open.spotify.com/artist/6WwR8D1J3GHvTt17v51QtE"
         }
       ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+      "duration_ms": 202000,
+      "name": "Rough Justice",
+      "url": "https://open.spotify.com/track/7svp6pxODYm99lKQ7sQY54"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "Years of Lead",
+        "url": "https://open.spotify.com/album/0ADFxla9SaBgFcumchZisK"
+      },
+      "artists": [
+        {
+          "name": "World I Hate",
+          "url": "https://open.spotify.com/artist/04l0T0rBlp4cMuYY59JMrO"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "Meat Grinder",
+      "url": "https://open.spotify.com/track/6b6R6fObBAwxWucmF0r3Wq"
+    },
+    {
+      "added_at": "2023-07-06 16:21:23",
+      "album": {
+        "name": "California Cursed",
+        "url": "https://open.spotify.com/album/4EWjkaxOuuIHanKD5fjFIK"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 218355,
+      "name": "Feel the Pressure",
+      "url": "https://open.spotify.com/track/58z4qdwM0zpWJEGfjSptR7"
     }
   ],
-  "unique_name": "Roadrunner Records Official Playlist",
+  "unique_name": "DEADNOISE.FM",
   "url": "https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA"
 }

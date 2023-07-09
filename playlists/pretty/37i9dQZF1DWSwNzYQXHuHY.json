@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7768,
+  "num_followers": 7771,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDNlZTNkZjU2YTdiYjdjOTUwODU5NDQyNmYyMTMzM2E4OWYwNjQy",
+  "snapshot_id": "MCwwOTI4NjE4NjNlYmQ5NTE5ZWYzNDgxMTUwYzlhOGI2OTg0NWJmNmUw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:53:11",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
-      },
-      "artists": [
-        {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Love to Hate You, Pt. 2 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3"
-      },
-      "artists": [
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Lovey Dovey",
-      "url": "https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
+        "name": "Love to Hate You, Pt. 2 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Lovey Dovey",
+      "url": "https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -643,26 +643,6 @@
       "duration_ms": 224726,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        },
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "HONEY (Feat. Crucial Star)",
-      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -687,18 +667,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "3rd Digital Single 'Not In Public'",
-        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
       "artists": [
         {
-          "name": "SUMMER CAKE",
-          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 171560,
-      "name": "Not In Public",
-      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+      "duration_ms": 227506,
+      "name": "HONEY (Feat. Crucial Star)",
+      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -715,6 +699,22 @@
       "duration_ms": 191126,
       "name": "Imagine Love",
       "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
+        "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Your name",
+      "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
         "name": "DA DA!",
         "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 201238,
       "name": "Traffic Accident",
       "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
-        "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Your name",
-      "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
     }
   ],
   "unique_name": "\uc378",

@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Isla de Caras.",
-  "num_followers": 295410,
+  "num_followers": 295420,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjAyNjk0ZWU3OTdiZjhkOWNhYTgyNzQ2ZTIxNGRlOTJiNWQ2MTM0",
+  "snapshot_id": "MCxmYzY1ODExMDk0ZWYzN2U0NWU3YmFjZmM5YWViMGMzMGU4NzU0NDhk",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "guestlist",
-        "url": "https://open.spotify.com/album/0f3NjIka2uWe4yJZpBkfhq"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 211070,
-      "name": "guestlist",
-      "url": "https://open.spotify.com/track/0bK3XvZm1RQKGsYmGdhgOK"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Sangre Total",
         "url": "https://open.spotify.com/album/314YW5sSG4ln32lJN4j2iD"
       },
@@ -320,8 +304,8 @@
           "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
         },
         {
-          "name": "Martin Berrios",
-          "url": "https://open.spotify.com/artist/56BZ0odGTZKUHSfct4pVFC"
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
         }
       ],
       "duration_ms": 277942,

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22548,
+  "num_followers": 22553,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl",
+  "snapshot_id": "MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 178274,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -411,38 +411,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Novia del A\u00f1o",
-        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "hey, goodbye",
-      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Solo me gustas cuando yo te gusto a ti",
-        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Solo me gustas cuando yo te gusto a ti",
-      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
       },
@@ -463,6 +431,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "hey, goodbye",
+      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "NO ME PASA NADA",
         "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 160000,
       "name": "Nada ha cambiado",
       "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Solo me gustas cuando yo te gusto a ti",
+        "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Solo me gustas cuando yo te gusto a ti",
+      "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Del cielo",
-        "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Del cielo",
-      "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "Del cielo",
+        "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 190344,
+      "name": "Del cielo",
+      "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "Porque t\u00fa lo sabr\u00edas",
         "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -751,22 +767,6 @@
       "duration_ms": 163384,
       "name": "Bloque",
       "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-05-19 09:08:21",

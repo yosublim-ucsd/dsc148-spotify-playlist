@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-273 songs - 15 hr 2 min
+274 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 | 2022-03-25 |  |
 | [Body Breaker](https://open.spotify.com/track/6ViOxqq7aLe3lnfVTXH8LI) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Body Breaker](https://open.spotify.com/album/3iuQ6wqOmB3c4Bm9We7hRS) | 3:04 | 2022-06-10 | 2023-04-29 |
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2022-06-17 | 2023-03-10 |
+| [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 | 2023-07-07 |  |
 | [Bread](https://open.spotify.com/track/4faOZ6IoasobnFNB2PAaYx) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Bread](https://open.spotify.com/album/3d4L0bShdwPHwnQkbRKYaF) | 2:52 | 2021-11-19 | 2022-01-08 |
 | [Bunker Buster](https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bunker Buster](https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa) | 3:53 | 2021-11-19 | 2022-01-08 |
 | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Trollphace](https://open.spotify.com/artist/0OJ5ViZQUFL6ileg5HvKKy) | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE) | 3:46 | 2022-07-22 |  |
@@ -67,7 +68,7 @@
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-12-21 |
 | [Dies Irae feat\. Black Prez](https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Requiem](https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R) | 5:09 | 2022-07-22 |  |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 | 2022-07-29 |
-| [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-25 |  |
+| [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-25 | 2023-07-09 |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 |  |
 | [DO SUMMIN](https://open.spotify.com/track/2bBTeoD8VGVCZsaYeGGlBw) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [iMinikon](https://open.spotify.com/artist/1JDkC5KMUaF7udEONQIKQo) | [DO SUMMIN](https://open.spotify.com/album/1xqGnAaUclFB1IoNBuOc6I) | 2:23 | 2022-03-11 | 2022-07-28 |
 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 | 2021-11-19 | 2022-01-08 |

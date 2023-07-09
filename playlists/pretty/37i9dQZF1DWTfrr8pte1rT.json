@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Grabbitz \\m/",
-  "num_followers": 309526,
+  "num_followers": 309604,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNjM2I2NDJiMjQ4MjM4NTJiNWRkN2FiZjU2YmM2ZjZmNWVmODBi",
+  "snapshot_id": "MCw3MDQ3ZmMwZDAzY2RhNzIwZmEzZTg5ZjkwYWYzMjMyZTY1NWExMjcw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Shockwave",
-        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 181283,
-      "name": "Shockwave",
-      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Bad Man (Kordhell Remix)",
         "url": "https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 153809,
       "name": "Bad Man - Kordhell Remix",
       "url": "https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 181283,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nothing's Perfect",
-        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Nothing's Perfect",
-      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Nothing's Perfect",
+        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Nothing's Perfect",
+      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "War",
-      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
+        "name": "War",
+        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
       },
       "artists": [
         {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
         }
       ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1283,6 +1263,26 @@
       "duration_ms": 142065,
       "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
+      },
+      "artists": [
+        {
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
         }
       ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
       },
@@ -1851,6 +1831,22 @@
       "duration_ms": 171243,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1875,6 +1871,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Eyes Wide Shut",
         "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 215172,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2043,22 +2043,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Day One (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 204978,
-      "name": "Day One - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2083,22 +2079,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Day One (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 204978,
+      "name": "Day One - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2179,50 +2179,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
-      },
-      "artists": [
-        {
-          "name": "DVRKCLOUD",
-          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
-        },
-        {
-          "name": "PatFromLastYear",
-          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Pursuit of Violence",
-        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Pursuit of Violence",
-      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -2247,6 +2203,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Pursuit of Violence",
+        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Pursuit of Violence",
+      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -2263,6 +2239,30 @@
       "duration_ms": 199448,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
+      },
+      "artists": [
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "PatFromLastYear",
+          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2323,26 +2323,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "self:antiself",
-        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Crywolf",
-          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
-        }
-      ],
-      "duration_ms": 290454,
-      "name": "Ghostbox",
-      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2359,6 +2339,26 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "self:antiself",
+        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Crywolf",
+          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
+        }
+      ],
+      "duration_ms": 290454,
+      "name": "Ghostbox",
+      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+        "name": "Fade With Me",
+        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
         }
       ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
+      "duration_ms": 214758,
+      "name": "Fade With Me",
+      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
     }
   ],
   "unique_name": "Rocktronic",

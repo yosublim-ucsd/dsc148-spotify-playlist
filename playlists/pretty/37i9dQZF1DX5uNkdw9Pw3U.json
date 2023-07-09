@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 65243,
+  "num_followers": 65273,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmM4ODc3Njc3NzYyMDM1NDEwZWIyY2IxMGRjZjEzNTliMTYwYTA1",
+  "snapshot_id": "MCw4ZGFiYmMwZWViMjkwNDcwN2JhNGZhZmU5ZmNjY2ZmY2Y1NWQ3ZTA2",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 215239,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 301000,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 215239,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "New Spring",
-        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
-      },
-      "artists": [
-        {
-          "name": "KAPPEKOFF",
-          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
-        },
-        {
-          "name": "Stefanos Yowhannes",
-          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
-        }
-      ],
-      "duration_ms": 197099,
-      "name": "New Spring",
-      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
+        }
+      ],
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik"
       },
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
+        "name": "Fall into place",
+        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 197995,
-      "name": "Undo (Back To My Heart)",
-      "url": "https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr"
+      "duration_ms": 168576,
+      "name": "Fall into place",
+      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1243,18 +1239,38 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Fall into place",
-        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+        "name": "333",
+        "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 168576,
-      "name": "Fall into place",
-      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
+      "duration_ms": 197995,
+      "name": "Undo (Back To My Heart)",
+      "url": "https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 163366,
       "name": "gangster romanse (feat. Magdi)",
       "url": "https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "who knew (from Grown-ish)",
-        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "who knew - from Grown-ish",
-      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Tamale",
         "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 227880,
       "name": "Tamale",
       "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "who knew (from Grown-ish)",
+        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "who knew - from Grown-ish",
+      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Treat Me so Bad (feat. Beharie)",
-        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 171489,
-      "name": "Treat Me so Bad",
-      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "You Got The Body",
         "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 234313,
       "name": "Orbit - Live from Air Studios",
       "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Treat Me so Bad (feat. Beharie)",
+        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 171489,
+      "name": "Treat Me so Bad",
+      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
-        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
-      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 173809,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
+        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
+      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
     },
     {
       "added_at": "2023-07-06 22:00:00",

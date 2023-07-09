@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,524 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,596 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 40 | [Fall In Love](https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summerpack](https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB) | 2:55 |
 
-Snapshot ID: `MCw1NGI0MGNmODEzNjNjOTcxNWU5ZDZkMzhiNWY3YjJlZmYxMDQ4NWRk`
+Snapshot ID: `MCw5YTMxNjZhZmZjMmY0YTFlYTBiNzU1ZmRmZTEwZmMyNGYzZjIxOWVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,867 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,003 likes - 149 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Stealing Dark from the Night Sky](https://open.spotify.com/track/11srUJtGRAudXAKhnjeSRS) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [To Die For](https://open.spotify.com/album/06WmNWTuEwCWHQaP0XZaiV) | 4:47 |
 | 149 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
 
-Snapshot ID: `MCw5NjU4NzRmYzkzZTkzNDFlMmY3MDAzZjI2ZjA4NmIzYTY3OWIyNDBl`
+Snapshot ID: `MCw5MTYwNWQ2YjYxOTYzNWQxN2M0YjJjZjZlOWE2ZjU3MzcwMjNlZjg4`

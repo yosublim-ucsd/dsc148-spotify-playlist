@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0?si=4912ea84a45d4efd">Cody Carnes<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,878 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,993 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 23 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
 | 24 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 |
 | 25 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
-| 26 | [Breaking Me Down](https://open.spotify.com/track/6A2sbpVQxa31IGAyglsLGy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Take Over](https://open.spotify.com/album/2rHDifXL5BVB6mQSE48M0b) | 4:17 |
+| 26 | [Breaking Me Down](https://open.spotify.com/track/5S7cWUO458cqVn2PS4lHh9) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You're Not Wrong](https://open.spotify.com/album/7jJq3XrNqhOlvaiXch2hbz) | 4:17 |
 | 27 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
 | 28 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
 | 29 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 | 100 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 
-Snapshot ID: `MCxlYzU0ODYyNDYxY2U4Yzg1ZWY1Y2U1ZDYwN2JkMDMyNWFiNWVkNjg4`
+Snapshot ID: `MCxkY2U5ZmEwNWE4MzNmZjliMTNkYzI3NGE1MDllN2U5NGIyMTVjYWZm`

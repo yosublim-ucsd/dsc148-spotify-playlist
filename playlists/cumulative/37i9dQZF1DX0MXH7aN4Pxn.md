@@ -4,7 +4,7 @@
 
 > 
 
-318 songs - 16 hr 19 min
+319 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Luv Drunk](https://open.spotify.com/track/4TtEUqECGrixlAgkvzndCq) | [Milli Major](https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Luv Drunk](https://open.spotify.com/album/1vqLZ9IAIYKiE1z4I9K47M) | 2:41 | 2022-06-20 | 2023-01-01 |
 | [Mad At Me](https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Mad At Me](https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr) | 3:58 | 2022-04-15 |  |
 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 | 2022-04-15 |  |
+| [Madan](https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Madan](https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H) | 2:55 | 2022-12-31 |  |
 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 | 2022-04-15 | 2023-04-26 |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-04-15 |  |
 | [Mega Chords \- Edit](https://open.spotify.com/track/0nms4MMhjU9IJ3Fb2gE09e) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Connect EP \(Edits\)](https://open.spotify.com/album/12r5I2u4n4Fq3dCdwEZUug) | 3:32 | 2022-04-15 | 2022-07-29 |
@@ -277,7 +278,7 @@
 | [That Thing](https://open.spotify.com/track/7ESz6391xBQrfiTXeua3Ay) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [That Thing](https://open.spotify.com/album/5bP1nagNI1gyIUf6cdC3W3) | 2:37 | 2022-04-15 | 2022-07-29 |
 | [The Chant \- Majestic Remix](https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [The Chant \(Majestic Remix\)](https://open.spotify.com/album/5E6OoPcenl0AqK57hHtJqL) | 2:35 | 2022-04-15 | 2022-07-25 |
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2022-04-15 | 2022-08-23 |
-| [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 | 2022-06-20 |  |
+| [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 | 2022-06-20 | 2023-07-09 |
 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 | 2022-04-15 |  |
 | [Think About Me](https://open.spotify.com/track/5mshUuCuItgSPQxWiygwdY) | [Alphalove](https://open.spotify.com/artist/4G59kHVfufDsMkwVr5pb2R) | [Think About Me](https://open.spotify.com/album/2CVVMtkdjkltBV2PDJmOT9) | 3:03 | 2022-04-15 | 2022-07-09 |
 | [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 | 2022-04-15 | 2022-07-29 |

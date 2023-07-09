@@ -1,32 +1,28 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 977,
+  "num_followers": 984,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTQzNCwxZjk1NjUzZjhiOTEzYzNlYjMyNjcwMTU2OTEyZDA2Y2I2ZDlmNzc0",
+  "snapshot_id": "MTQzOSwyZmQwMDA4MTU3NGI1MThiNzY4NDdmYTdhY2YyZWM1ZjkyMzk2NjYz",
   "tracks": [
     {
-      "added_at": "2023-06-22 22:50:25",
+      "added_at": "2023-07-06 22:53:39",
       "album": {
-        "name": "Black Triangles (Metodi Hristov Remix)",
-        "url": "https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP"
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/5wXhentTUReOCMVyvfhSaO"
       },
       "artists": [
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        },
         {
           "name": "Metodi Hristov",
           "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
         }
       ],
-      "duration_ms": 344038,
-      "name": "Black Triangles (Metodi Hristov Remix)",
-      "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
+      "duration_ms": 217218,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q"
     },
     {
       "added_at": "2023-06-24 10:03:47",
@@ -69,20 +65,24 @@
       "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-22 22:50:25",
       "album": {
-        "name": "Asteroid Dream",
-        "url": "https://open.spotify.com/album/2LgRGLta14DnDgodx33lnA"
+        "name": "Black Triangles (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP"
       },
       "artists": [
         {
-          "name": "Lautaro Iba\u00f1ez",
-          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Asteroid Dream",
-      "url": "https://open.spotify.com/track/2H7ARzx8OaU9lJmPqBxZEh"
+      "duration_ms": 344038,
+      "name": "Black Triangles (Metodi Hristov Remix)",
+      "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
     },
     {
       "added_at": "2023-06-24 10:44:00",
@@ -135,6 +135,22 @@
       "duration_ms": 282043,
       "name": "Rave History - Maruwa Remix",
       "url": "https://open.spotify.com/track/4abyzqyrIihNlS7H81VW3R"
+    },
+    {
+      "added_at": "2023-05-30 08:11:59",
+      "album": {
+        "name": "Asteroid Dream",
+        "url": "https://open.spotify.com/album/2LgRGLta14DnDgodx33lnA"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Asteroid Dream",
+      "url": "https://open.spotify.com/track/2H7ARzx8OaU9lJmPqBxZEh"
     },
     {
       "added_at": "2023-05-30 08:11:59",

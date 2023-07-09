@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Letón Pé\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,933 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,932 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
 | 21 | [tal vez, no sé](https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj) | [Poli Sallustro](https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [tal vez, no sé](https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla) | 3:44 |
 | 22 | [Yo de \#1](https://open.spotify.com/track/6WuPCADvkg2NfxUNgZUrV4) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Yo de \#1](https://open.spotify.com/album/1BuV8lwH8yIEVCAh0ghxQV) | 2:05 |
-| 23 | [Puede](https://open.spotify.com/track/5xEKWHTBWbG4RNs2zArUjJ) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Puede](https://open.spotify.com/album/40c31u4OVxCxHI0cEg1GPF) | 2:17 |
-| 24 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 |
-| 25 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 |
-| 26 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 |
+| 23 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 |
+| 24 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 |
+| 25 | [Puede](https://open.spotify.com/track/5xEKWHTBWbG4RNs2zArUjJ) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Puede](https://open.spotify.com/album/40c31u4OVxCxHI0cEg1GPF) | 2:17 |
+| 26 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 |
 | 27 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 |
 | 28 | [Sola \[Parte 2\]](https://open.spotify.com/track/6JNwgS1IqIX1igkbWjkpVe) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte 2\]](https://open.spotify.com/album/7o5qcfnq48X93Q3xCtNOMt) | 3:23 |
 | 29 | [Adiós](https://open.spotify.com/track/11yvLxyYZkUThRSl1RMOG0) | [FERCHO](https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU) | [Adiós](https://open.spotify.com/album/1RASgySitpbIBo3fH8xcx7) | 2:58 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 36 | [BESOS](https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Lowrdes](https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [ENEMIGO DEL FIN Vol\. 1](https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk) | 2:40 |
 | 37 | [Sin Ti](https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu) | [Dragon Rapid](https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE) | [Sin Ti](https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ) | 3:36 |
 | 38 | [Luces De Neón](https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK) | [Mauricio Vallejo](https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W) | [Luces De Neón](https://open.spotify.com/album/33xuuFalm7xdz2hoicktib) | 3:56 |
-| 39 | [Lluvia](https://open.spotify.com/track/4tm9LSSn5YCuIAgqPpOACm) | [Huésped Solitario](https://open.spotify.com/artist/4qhOVL899ZZfq2eOrM7c8P) | [Lluvia](https://open.spotify.com/album/4w9WrFBw71vHHkDtg9yIAY) | 3:40 |
-| 40 | [Bes Lou](https://open.spotify.com/track/7HxdEbLmtKCXjbtlAhvWFy) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8), [Mitzi Licona](https://open.spotify.com/artist/3YevbxT9wRLFdIDlGXXivb) | [Rutina Diaria](https://open.spotify.com/album/0WtXYFD04CHEETNDeNyX1g) | 3:17 |
+| 39 | [Bes Lou](https://open.spotify.com/track/7HxdEbLmtKCXjbtlAhvWFy) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8), [Mitzi Licona](https://open.spotify.com/artist/3YevbxT9wRLFdIDlGXXivb) | [Rutina Diaria](https://open.spotify.com/album/0WtXYFD04CHEETNDeNyX1g) | 3:17 |
+| 40 | [Lluvia](https://open.spotify.com/track/4tm9LSSn5YCuIAgqPpOACm) | [Huésped Solitario](https://open.spotify.com/artist/4qhOVL899ZZfq2eOrM7c8P) | [Lluvia](https://open.spotify.com/album/4w9WrFBw71vHHkDtg9yIAY) | 3:40 |
 | 41 | [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 |
 | 42 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
 | 43 | [INSOMNIO](https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt) | [Ulises Malo](https://open.spotify.com/artist/07ojpr3XaWlEb6uawkobhy) | [AL BORDE DEL DESBORDE](https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Perdido](https://open.spotify.com/track/3btZo8ArCDVSOWq5eEWADO) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Perdido](https://open.spotify.com/album/0UdaCqGtcFF6WvAiApiG3H) | 2:48 |
 | 50 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
 
-Snapshot ID: `MCxkNThmNDY1NDMyYzBmY2JjMjQ3Nzg1N2Q2MDZkMzkxZTM1OTQ2N2Fl`
+Snapshot ID: `MCw3ODU3MWRlYWNiMDRiNDhlZTkyOWY4NmYxMTIzZDlhN2MzMTAxNTFh`

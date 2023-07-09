@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 159198,
       "name": "Dont Let Me Go",
       "url": "https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH"
@@ -4490,6 +4490,24 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/36BvXViiezXgLDyFZ9jXQo"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147306,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/0Z6a9TeBUNwpWBHnqVJVXQ"
     },
     {
       "album": {

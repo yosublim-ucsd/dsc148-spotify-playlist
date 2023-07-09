@@ -1,29 +1,13 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q\"> \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a </a>",
-  "num_followers": 99841,
+  "num_followers": 99925,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGM0NDAwZDIwODFkZjg3YmM4NGRmNWQ0NDYzODFhMTk4ZGI3YTgx",
+  "snapshot_id": "MCw4ZTQ4NDg2YjFhODc0YjNkZDg5Zjg3MjQxZWQyNWE0MDBhZGE4NmJh",
   "tracks": [
-    {
-      "added_at": "2023-07-07 09:42:15",
-      "album": {
-        "name": "\u0645\u0644\u0643 \u0627\u0644\u0641\u0631\u0641\u0634\u0629",
-        "url": "https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 196981,
-      "name": "\u0645\u0644\u0643 \u0627\u0644\u0641\u0631\u0641\u0634\u0629",
-      "url": "https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1"
-    },
     {
       "added_at": "2023-07-07 09:42:15",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 207411,
       "name": "Metkatef",
       "url": "https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD"
+    },
+    {
+      "added_at": "2023-07-08 02:30:18",
+      "album": {
+        "name": "Kam Sana",
+        "url": "https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 176983,
+      "name": "Kam Sana",
+      "url": "https://open.spotify.com/track/1Og247VjsUi4hZIBq6fZEt"
+    },
+    {
+      "added_at": "2023-07-07 09:42:15",
+      "album": {
+        "name": "\u0645\u0644\u0643 \u0627\u0644\u0641\u0631\u0641\u0634\u0629",
+        "url": "https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 196981,
+      "name": "\u0645\u0644\u0643 \u0627\u0644\u0641\u0631\u0641\u0634\u0629",
+      "url": "https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1"
     },
     {
       "added_at": "2023-07-07 09:42:15",

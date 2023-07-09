@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 833108,
+  "num_followers": 833354,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTFkZTIxMGMyMTBlYjVkN2FkZDdiNjEzOGYwM2VkNTgwY2I1NmRj",
+  "snapshot_id": "MCw1ZTMwMTQwMTM4MmVkMzE5YzkwNzUxNjE4MTE1ODAxOTE1MDk4MGVi",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -639,18 +623,34 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
         }
       ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Backstage in Glasgow",
-        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136107,
-      "name": "Backstage in Glasgow",
-      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Austin Plaine",
         "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 196240,
       "name": "Never Come Back Again",
       "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
+        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
-        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Goin' Back",
+        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
+      },
+      "artists": [
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Keeps Me Coming Back",
+      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Goin' Back",
-        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
-      },
-      "artists": [
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Keeps Me Coming Back",
-      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Kinda Wild",
         "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 297279,
       "name": "Kinda Wild",
       "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 171157,
-      "name": "18",
-      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 171157,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "With Love From",
-        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 248120,
-      "name": "Blue Dress",
-      "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 153151,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "With Love From",
+        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 248120,
+      "name": "Blue Dress",
+      "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
     },
     {
       "added_at": "2023-07-07 04:00:00",

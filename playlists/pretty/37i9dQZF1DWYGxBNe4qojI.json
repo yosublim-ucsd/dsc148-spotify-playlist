@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 328724,
+  "num_followers": 328949,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2M3NDZjM2YxOTRlMzIyYTYxZjAwMWU1NmY1YmZjNGRlNDE3NTI2",
+  "snapshot_id": "MCw0MTg1OTIzN2I4NmIyNGM1NDU3MDMzMTVlYWNiNDFhZmI4NDk3MmI2",
   "tracks": [
     {
       "added_at": "2023-06-29 23:37:21",
@@ -843,6 +843,30 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
+        "name": "Party & Bullshit",
+        "url": "https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "jazyxd",
+          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        }
+      ],
+      "duration_ms": 217048,
+      "name": "Party and Bullshit",
+      "url": "https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W"
+    },
+    {
+      "added_at": "2023-06-29 23:37:21",
+      "album": {
         "name": "Flava In Ya Ear Remix",
         "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
       },
@@ -875,22 +899,6 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -911,6 +919,22 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
+    },
+    {
+      "added_at": "2023-06-29 23:37:21",
+      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 270800,
       "name": "Liquid Swords",
       "url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Party & Bullshit",
-        "url": "https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl"
-      },
-      "artists": [
-        {
-          "name": "Ayparia",
-          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
-        },
-        {
-          "name": "jazyxd",
-          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
-        },
-        {
-          "name": "unxbected",
-          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
-        }
-      ],
-      "duration_ms": 217048,
-      "name": "Party and Bullshit",
-      "url": "https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W"
     },
     {
       "added_at": "2023-06-29 23:37:21",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 32478,
+  "num_followers": 32523,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRmYmVhMjA2NDNhY2M2NTRiM2Y5MjJhOTBmOTRkZDcyMWZkNTY1",
+  "snapshot_id": "MCw0MmQ0MjE2ODUzMTA0MjAwYWRiNjNkYzYwOTM0NTFhY2ZjMzY5YThk",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Caminando Y Cantando",
-        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
-      },
-      "artists": [
-        {
-          "name": "Sentimiento Andino",
-          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Valicha",
-      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Caminando Y Cantando",
+        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Andino",
+          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Valicha",
+      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Folklore",
+        "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
+      },
+      "artists": [
+        {
+          "name": "Tupay",
+          "url": "https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Granadita",
+      "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 160200,
       "name": "Carrito del Gobierno",
       "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Folklore",
-        "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
-      },
-      "artists": [
-        {
-          "name": "Tupay",
-          "url": "https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Granadita",
-      "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Soy Provinciano",
         "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Yo Soy el Amor, Vol. 15",
-        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
         }
       ],
-      "duration_ms": 340653,
-      "name": "Yo Soy el Amor",
-      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -979,6 +963,22 @@
       "duration_ms": 171415,
       "name": "Dejame Asi",
       "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Yo Soy el Amor, Vol. 15",
+        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 340653,
+      "name": "Yo Soy el Amor",
+      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

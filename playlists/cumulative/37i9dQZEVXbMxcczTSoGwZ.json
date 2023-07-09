@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 152124,
       "name": "Clean",
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
@@ -5723,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "Ennen vanhaan",
+        "url": "https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205715,
+      "name": "Ennen vanhaan",
+      "url": "https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h"
+    },
+    {
+      "album": {
         "name": "Ensi-ilta (feat. Aliisa Syrj\u00e4)",
         "url": "https://open.spotify.com/album/58B91ucwMPqrJO6bqptwTN"
       },
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 169699,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0ywzYbY0bayTTwL8Ldg7WD"
@@ -6490,7 +6508,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 192030,
       "name": "Kauemmas",
       "url": "https://open.spotify.com/track/6KE32hoeVholHEoGeSoWQ5"
@@ -16403,6 +16421,50 @@
     },
     {
       "album": {
+        "name": "Missaat Mut",
+        "url": "https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114350,
+      "name": "Missaat Mut",
+      "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
+    },
+    {
+      "album": {
+        "name": "Missi",
+        "url": "https://open.spotify.com/album/2628OwDoTqFostXfTK7qMy"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164437,
+      "name": "Missi",
+      "url": "https://open.spotify.com/track/428rSbzZ0AnBMpzyQRW4uE"
+    },
+    {
+      "album": {
         "name": "Missio",
         "url": "https://open.spotify.com/album/6pB7OMHEokYJd58ZndnYxZ"
       },
@@ -18307,6 +18369,28 @@
     },
     {
       "album": {
+        "name": "nuori el\u00e4ke",
+        "url": "https://open.spotify.com/album/1qeWeZgehT9IZJQgUV7r5H"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176819,
+      "name": "nuori el\u00e4ke",
+      "url": "https://open.spotify.com/track/6xzWmSegvd4ntL8MS5XKpO"
+    },
+    {
+      "album": {
         "name": "Nyt tai ei koskaan",
         "url": "https://open.spotify.com/album/0LQjSZjxBk3WFryGgBf92N"
       },
@@ -18836,6 +18920,24 @@
       "duration_ms": 174526,
       "name": "OnlyFans (feat. ibe)",
       "url": "https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB"
+    },
+    {
+      "album": {
+        "name": "Onnea matkaan",
+        "url": "https://open.spotify.com/album/2fZ1zMWE5iVrZCy2DrosSK"
+      },
+      "artists": [
+        {
+          "name": "Kaija Koo",
+          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174006,
+      "name": "Onnea matkaan",
+      "url": "https://open.spotify.com/track/2SbVrYGU6Jt0MLc4nz7LBF"
     },
     {
       "album": {
@@ -19674,6 +19776,24 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "album": {
+        "name": "Persikan per\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/5a3mXWf4NROp56bIkETwFC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205646,
+      "name": "Persikan per\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/47MBPtknnk9xM6k6AYDt0X"
     },
     {
       "album": {
@@ -21166,7 +21286,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 143739,
       "name": "Rio",
       "url": "https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK"
@@ -24582,7 +24702,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -26666,7 +26786,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -26814,6 +26934,24 @@
       "duration_ms": 209198,
       "name": "Vastaaja Pt. 2 (feat. ADI, Ege Zulu & Pessa)",
       "url": "https://open.spotify.com/track/2ptM0AmJl2KMPC3p2SwlM4"
+    },
+    {
+      "album": {
+        "name": "Vastustaa",
+        "url": "https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123660,
+      "name": "Vastustaa",
+      "url": "https://open.spotify.com/track/2lvCRioElAZPAgqWCV9a1S"
     },
     {
       "album": {
@@ -27440,6 +27578,28 @@
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/6vmFYA9uGxkS7u8c651KnL"
+    },
+    {
+      "album": {
+        "name": "VIP (feat. Joe L)",
+        "url": "https://open.spotify.com/album/6XZ3KoZrimVmqZCgeJzTir"
+      },
+      "artists": [
+        {
+          "name": "TIPPA",
+          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
+        },
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161570,
+      "name": "VIP (feat. Joe L)",
+      "url": "https://open.spotify.com/track/1V7heNvQrv36oONabzppJ0"
     },
     {
       "album": {

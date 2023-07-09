@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Halodayı
 
-152 songs - 6 hr 35 min
+153 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [İNATLA](https://open.spotify.com/track/5d1eOk5l7IRRLcvupApHi1) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [İNATLA](https://open.spotify.com/album/0pcQvIDHmRlWxi7JUg2vxr) | 2:09 | 2023-01-10 | 2023-03-03 |
 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-03-16 |  |
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2023-01-10 | 2023-03-31 |
+| [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-07-08 |  |
 | [Jurassic Park](https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Jurassic Park](https://open.spotify.com/album/49wygB8XrpyS7fG8XdGkZ6) | 3:21 | 2023-01-10 | 2023-03-03 |
 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 | 2023-01-10 | 2023-06-24 |
 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 | 2023-01-10 |  |

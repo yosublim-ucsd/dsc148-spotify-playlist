@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Windy Beaches",
+        "url": "https://open.spotify.com/album/5D7fwCIheOaP2aBPha6I7U"
+      },
+      "artists": [
+        {
+          "name": "Nassa Studios",
+          "url": "https://open.spotify.com/artist/3eGvDj3BfP3VSPaZinrZWJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171067,
+      "name": "Crashing Waves",
+      "url": "https://open.spotify.com/track/3g9854dZu0suaW31qpcybV"
+    },
+    {
+      "album": {
         "name": "Algarve Soothing Waves",
         "url": "https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy"
       },
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 194000,
       "name": "Sardinian Sea Ocean Waves",
       "url": "https://open.spotify.com/track/20sJK5KxxmF8YJiWV2NBC3"

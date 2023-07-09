@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137841,
+  "num_followers": 137875,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
+  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Epic (Garmiani Remix)",
-        "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
-      },
-      "artists": [
-        {
-          "name": "Sandro Silva",
-          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Garmiani",
-          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
-        }
-      ],
-      "duration_ms": 155864,
-      "name": "Epic - Garmiani Remix",
-      "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "The Best Of Armin Only",
         "url": "https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 215773,
       "name": "Great Spirit",
       "url": "https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Epic (Garmiani Remix)",
+        "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Garmiani",
+          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+        }
+      ],
+      "duration_ms": 155864,
+      "name": "Epic - Garmiani Remix",
+      "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Kong 2.0",
-        "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 202003,
-      "name": "Kong 2.0",
-      "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Al Pacino",
         "url": "https://open.spotify.com/album/0EboXRRulZiilaIDuptS9j"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 221579,
       "name": "Al Pacino",
       "url": "https://open.spotify.com/track/5ykdEvOIec7UjP2N4Vcuyv"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Kong 2.0",
+        "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 202003,
+      "name": "Kong 2.0",
+      "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
     },
     {
       "added_at": "2023-05-15 15:50:08",

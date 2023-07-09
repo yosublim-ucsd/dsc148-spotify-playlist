@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,732 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,755 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 5 | [Gold, Pt\. 2](https://open.spotify.com/track/5Slpb6VFwhDtNRUmhgsXOO) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Erica Torquatto](https://open.spotify.com/artist/53K9I9NOSk3A0eb2kka8Fb), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Gold, Pt\. 2](https://open.spotify.com/album/3IUFRziRG25vymB2SKSJMW) | 3:19 |
 | 6 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 7 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
-| 8 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Arthur Luna Beccaris](https://open.spotify.com/artist/1C4hfM3tF2ZBZ54TOZne6T) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
+| 8 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
 | 9 | [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 |
 | 10 | [Inevitável](https://open.spotify.com/track/3PrpqhxVI5DlhdItWl6eCt) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq), [Ainá](https://open.spotify.com/artist/3FmYE3Kl96IxyHiTulRlxh) | [As Incríveis Histórias De: Underground Superhero Vs o Terrível Ladrão de Loops](https://open.spotify.com/album/1ZYllrnVQ3DUbYgiVW4lxZ) | 3:17 |
 | 11 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 75 | [Subiu o Voucher](https://open.spotify.com/track/3xYy4YTh4GC5ayMg5swQx6) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Subiu o Voucher](https://open.spotify.com/album/6DaCqBc20PZRMJw8qUbVTb) | 4:02 |
 
-Snapshot ID: `MCw5NTAyYTgyZTI0ZWMyMTcwN2M0ZDVjMzg2YWQyZjYyOTU2NjYyNjRi`
+Snapshot ID: `MCwwN2JkNDViOGIyY2M5M2FjM2U1MmUzYWU5MTUwYjA0Yzc4ZTdmZTJm`

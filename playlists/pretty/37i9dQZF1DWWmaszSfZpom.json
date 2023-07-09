@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1007736,
+  "num_followers": 1007780,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDZiZmI4YzIyMWFiYTQ5MDMzMWUwMGVhMDk3MTgwMmIwMGFkNGNi",
+  "snapshot_id": "MCwwZDdmZTQzMDlhNmE3ZDFjZDk2ZDQ0YTM3YTkzNzhiZGVhMTcwZDM4",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "LARISSA",
         "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 125304,
       "name": "LARISSA",
       "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Amor ou o Litr\u00e3o",
-        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
-      },
-      "artists": [
-        {
-          "name": "Petter Ferraz",
-          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
-        },
-        {
-          "name": "Menor Nico",
-          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Amor ou o Litr\u00e3o",
-      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Olha A Explos\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 210773,
       "name": "Olha A Explos\u00e3o - Remix",
       "url": "https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Amor ou o Litr\u00e3o",
+        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
+      },
+      "artists": [
+        {
+          "name": "Petter Ferraz",
+          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
+        },
+        {
+          "name": "Menor Nico",
+          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Amor ou o Litr\u00e3o",
+      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN"
+      },
+      "artists": [
+        {
+          "name": "Legard",
+          "url": "https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT"
+        }
+      ],
+      "duration_ms": 179624,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "S\u00f3 Quer Vrau",
         "url": "https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 228922,
       "name": "Agora Vai Sentar",
       "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN"
-      },
-      "artists": [
-        {
-          "name": "Legard",
-          "url": "https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT"
-        }
-      ],
-      "duration_ms": 179624,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Espirra o lan\u00e7a",
+        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
+      },
+      "artists": [
+        {
+          "name": "DJ Kaue00s",
+          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "Espirra o lan\u00e7a",
+      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Talarica",
         "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
       },
@@ -1407,30 +1423,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Doguinha",
-          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
-        },
-        {
-          "name": "MC Pupio",
-          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Sapequinha",
         "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
@@ -1451,18 +1443,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Espirra o lan\u00e7a",
-        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
+        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
       },
       "artists": [
         {
-          "name": "DJ Kaue00s",
-          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Doguinha",
+          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
+        },
+        {
+          "name": "MC Pupio",
+          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
         }
       ],
-      "duration_ms": 190058,
-      "name": "Espirra o lan\u00e7a",
-      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
+      "duration_ms": 184607,
+      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
     },
     {
       "added_at": "2023-06-26 14:06:50",

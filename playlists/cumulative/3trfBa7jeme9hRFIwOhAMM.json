@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "all i need *",
+        "url": "https://open.spotify.com/album/5YQjf0alVpOWuoLRuuwuGy"
+      },
+      "artists": [
+        {
+          "name": "Rad Cat",
+          "url": "https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183035,
+      "name": "all i need *",
+      "url": "https://open.spotify.com/track/0kmqtv5cXAKg42HceNZfk1"
+    },
+    {
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7jM1CRuq2XnkgFu8Hh8QOo"
       },
@@ -383,7 +401,7 @@
     },
     {
       "album": {
-        "name": "Miracle (feat. Jordan Grace)",
+        "name": "Miracle (feat. Jetason)",
         "url": "https://open.spotify.com/album/3KPpP2TKfiXe7r6jDeihwK"
       },
       "artists": [
@@ -408,7 +426,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149081,
-      "name": "Miracle (feat. Jordan Grace)",
+      "name": "Miracle (feat. Jetason)",
       "url": "https://open.spotify.com/track/6BVDTFUf0HDTRy7cyY5GXK"
     },
     {
@@ -680,6 +698,24 @@
       "duration_ms": 201230,
       "name": "Telugu Tech",
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
+    },
+    {
+      "album": {
+        "name": "Digital Playground",
+        "url": "https://open.spotify.com/album/2ZvbeN1OdHatcw3yzkV2aY"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154966,
+      "name": "The Endgame",
+      "url": "https://open.spotify.com/track/5LKxeoQvpjAMKVjO2W2tkq"
     },
     {
       "album": {

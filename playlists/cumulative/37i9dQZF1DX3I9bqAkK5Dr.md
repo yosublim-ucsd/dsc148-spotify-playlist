@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-125 songs - 7 hr 29 min
+126 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Padessave Pilla](https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkat Chaitanya](https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Padessave Pilla](https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA) | 3:06 | 2023-04-06 |  |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 |  |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
+| [Podhe Vallipothunde](https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Podhe Vallipothunde](https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu) | 3:21 | 2023-07-08 |  |
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 |  |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |

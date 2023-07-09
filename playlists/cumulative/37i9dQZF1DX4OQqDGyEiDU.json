@@ -6354,10 +6354,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 163686,
       "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
       "url": "https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8"
+    },
+    {
+      "album": {
+        "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163686,
+      "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
+      "url": "https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9"
     },
     {
       "album": {

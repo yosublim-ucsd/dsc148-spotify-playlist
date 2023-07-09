@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bChoi HEART(\ucd5c\ud558\ud2b8)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 42885,
+  "num_followers": 42940,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWViMmVkMWJhNWJmMmUwZmQ2MjAyMDk0ZDIzNTBiYjcyODlhZjZk",
+  "snapshot_id": "MCw4OWI0ZTEyZDJmOTE3Y2YxM2M5MzM3ZDA0NGM4MmJlOWU2YWFhMTEw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:50:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "FREE`SM",
-        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 220526,
-      "name": "Where are you?",
-      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 195973,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "FREE`SM",
+        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 220526,
+      "name": "Where are you?",
+      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257450,
+      "name": "Thanks to",
+      "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 211973,
       "name": "Baby Don't Play",
       "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
         }
       ],
-      "duration_ms": 257450,
-      "name": "Thanks to",
-      "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
       "artists": [
         {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1155,6 +1155,22 @@
       "duration_ms": 227369,
       "name": "\uc0f4\ud478\uc758 \uc694\uc815",
       "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1203,22 +1219,6 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "[COSMOS]",
         "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 213994,
       "name": "NEPTUNE",
       "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
         "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
       "artists": [
         {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
         }
       ],
-      "duration_ms": 191587,
-      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
-      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1519,6 +1503,22 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 191587,
+      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
+      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "S.O.S",
-        "url": "https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "S.O.S",
-      "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.05",
         "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
@@ -1651,18 +1635,38 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
+        "name": "New Wave City",
+        "url": "https://open.spotify.com/album/2ySXEK0kErErlRV7G469GR"
       },
       "artists": [
         {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        },
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
         }
       ],
-      "duration_ms": 191426,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+      "duration_ms": 207398,
+      "name": "I Can't Let You Go (feat. Space Cowboy)",
+      "url": "https://open.spotify.com/track/7hCtts26L8jf4KxxiNAX4P"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

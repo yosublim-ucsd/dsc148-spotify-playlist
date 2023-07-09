@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 510031,
+  "num_followers": 510104,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODUxMDQ2NmUyOTU0ZDIxMTEzNzBlMmQyOTc1NWJhZWNiY2I3ODhi",
+  "snapshot_id": "MCw0NmExYTEyM2MzZDVkMjFjOTQxYzUzMjI4YTUzY2UzYzI3MWQ3MjEy",
   "tracks": [
     {
       "added_at": "2023-07-07 18:46:24",
@@ -39,22 +39,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Slave to Love",
         "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 211191,
       "name": "Slave to Love",
       "url": "https://open.spotify.com/track/28xiVJLGLwEHNFDzXKUIdY"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Conga Blue",
         "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 304066,
       "name": "Dulce Amor",
       "url": "https://open.spotify.com/track/2MF2sME4JRxNVNVxu05v5D"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Soul Bird: Whiffenpoof",
-        "url": "https://open.spotify.com/album/5JZRDbjyuSbc5fvDzcn1iy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Reza",
-      "url": "https://open.spotify.com/track/7sv2Y2vqr4IH8qEyomRjxf"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "At the Edge of the World",
         "url": "https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 347803,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Soul Bird: Whiffenpoof",
+        "url": "https://open.spotify.com/album/5JZRDbjyuSbc5fvDzcn1iy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Reza",
+      "url": "https://open.spotify.com/track/7sv2Y2vqr4IH8qEyomRjxf"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/73z20rpc2F1BMJUTbvHmTq"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
       "artists": [
         {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+      "duration_ms": 259200,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/73z20rpc2F1BMJUTbvHmTq"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Habana",
+        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Indigenous",
         "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 349165,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Habana",
-        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1739,18 +1739,34 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
       "artists": [
         {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
+        "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 568773,
+      "name": "Guarachi Guaro - Live",
+      "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1779,34 +1795,26 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
-        "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
+        "name": "Una Noche Con Rub\u00e9n Blades",
+        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
       "artists": [
         {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 568773,
-      "name": "Guarachi Guaro - Live",
-      "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj"
-      },
-      "artists": [
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
         {
-          "name": "Giovanni Hidalgo",
-          "url": "https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 425333,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6"
+      "duration_ms": 407832,
+      "name": "Don't Like Goodbyes - Bonus Track",
+      "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
     }
   ],
   "unique_name": "Latin Jazz",

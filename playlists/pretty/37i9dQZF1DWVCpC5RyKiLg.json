@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 683374,
+  "num_followers": 683808,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy",
+  "snapshot_id": "MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "O Som das Multid\u00f5es",
-        "url": "https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE"
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
         }
       ],
-      "duration_ms": 227413,
-      "name": "Lancinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+        "name": "O Som das Multid\u00f5es",
+        "url": "https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE"
       },
       "artists": [
         {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         }
       ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+      "duration_ms": 227413,
+      "name": "Lancinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+        "name": "Ao Cubo, Ao Vivo, Em Cores",
+        "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 208930,
-      "name": "Nessas Horas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
+      "duration_ms": 184107,
+      "name": "50 Vezes - Ao Vivo",
+      "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ao Cubo, Ao Vivo, Em Cores",
-        "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 184107,
-      "name": "50 Vezes - Ao Vivo",
-      "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
+      "duration_ms": 208930,
+      "name": "Nessas Horas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 162960,
-      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 162960,
+      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -731,38 +731,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Maus Bocados",
-      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 232278,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 193680,
+      "name": "Maus Bocados",
+      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Cheirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181930,
       "name": "Cheirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 232278,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
+        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Livre (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
-        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 190244,
-      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -911,26 +931,6 @@
       "duration_ms": 199701,
       "name": "Apelido Carinhoso",
       "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "O Embaixador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 203739,
-      "name": "Cem Mil - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 203739,
+      "name": "Cem Mil - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        }
-      ],
-      "duration_ms": 169244,
-      "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
         "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "duration_ms": 169244,
+      "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
     },
     {
       "added_at": "2023-02-10 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Mac Miller",
-  "num_followers": 145910,
+  "num_followers": 145973,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDkxYTA2ZDEwMzY5Mjk5NWE5NTk3Zjg0Y2U3OWIyNjZhNzdlOTdj",
+  "snapshot_id": "MCxjOGM4MWQ5NjAwZDI0YmJhMjcwOGQzYTgwMjI3YTRlNTc1Zjc0NmJk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Watching Movies with the Sound Off (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4aia9Kt2F3gjPKfHA0nZXa"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
       },
       "artists": [
         {
@@ -382,7 +382,7 @@
       ],
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/74IwzlYDUdP3OLVsEpFojX"
+      "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Watching Movies with the Sound Off (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4aia9Kt2F3gjPKfHA0nZXa"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
       },
       "artists": [
         {
@@ -722,7 +722,7 @@
       ],
       "duration_ms": 367930,
       "name": "Red Dot Music (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6kUHlmI4uSLQYzp8tUa3dD"
+      "url": "https://open.spotify.com/track/3G8xKBPsOgViF0V9ffwozx"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -899,6 +899,30 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 283550,
-      "name": "Do Not Disturb",
-      "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 220486,
-      "name": "High Fashion (feat. Mustard)",
-      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
+      "duration_ms": 220486,
+      "name": "High Fashion (feat. Mustard)",
+      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
     },
     {
       "added_at": "2023-06-30 04:00:00",

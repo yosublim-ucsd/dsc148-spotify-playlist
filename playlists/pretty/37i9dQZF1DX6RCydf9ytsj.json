@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 556651,
+  "num_followers": 556991,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm",
+  "snapshot_id": "MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:06:22",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Let It Roll",
         "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179653,
       "name": "Baby's Got Her Blue Jeans On",
       "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "George Strait's Greatest Hits",
+        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "You Look So Good In Love",
+      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 220440,
       "name": "Lookin' for Love",
       "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "George Strait's Greatest Hits",
-        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "You Look So Good In Love",
-      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "Common Man",
-      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Forrest Gump - The Soundtrack",
         "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 148106,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Common Man",
+      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1143,78 +1143,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Crystal Gayle: The Hits",
-        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "You Never Gave Up On Me",
-      "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "That's the Way Love Goes",
-      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1243,18 +1171,58 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+        "name": "Crystal Gayle: The Hits",
+        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 175800,
-      "name": "Just Another Woman In Love",
-      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
+      "duration_ms": 189626,
+      "name": "You Never Gave Up On Me",
+      "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1271,6 +1239,38 @@
       "duration_ms": 146466,
       "name": "I Got Mexico",
       "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Just Another Woman In Love",
+      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "That's the Way Love Goes",
+      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+        "name": "West By West",
+        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+      "duration_ms": 160533,
+      "name": "Jose Cuervo",
+      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "West By West",
-        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
       "artists": [
         {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Jose Cuervo",
-      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+      "duration_ms": 286120,
+      "name": "I Ain't Living Long Like This",
+      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Ten Years Of Hits",
-        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
-      },
-      "artists": [
-        {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Stand By Me - Single Version",
-      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Ten Years Of Hits",
+        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Stand By Me - Single Version",
+      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Earl Thomas Conley",
-        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
-      },
-      "artists": [
-        {
-          "name": "Earl Thomas Conley",
-          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Holding Her and Loving You",
-      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "The Essential Earl Thomas Conley",
+        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
+      },
+      "artists": [
+        {
+          "name": "Earl Thomas Conley",
+          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Holding Her and Loving You",
+      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
     },
     {
       "added_at": "2023-02-10 03:06:22",

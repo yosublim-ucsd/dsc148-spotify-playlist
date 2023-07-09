@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA?si=b865adea41ab4b5d">July 7</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,802 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,811 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
 | 100 | [Pelicans](https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pelicans](https://open.spotify.com/album/70ORb8kKxoDAXwdSADTVII) | 3:50 |
 
-Snapshot ID: `MCxjMjY1MmM2YTA3OTEzMzUyNmU1MTJlYjVlZWY4MDFlM2FmOGIzNjgy`
+Snapshot ID: `MCwyMjIwOWJmYmNlOTEwOGE2MGM3YjZlZDQ3ZTAyODlhNTk5ZWNhNmE0`

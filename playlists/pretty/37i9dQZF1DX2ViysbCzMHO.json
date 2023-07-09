@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 128563,
+  "num_followers": 128670,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGZkNjhlMTNlYWRlMzQyMmJhZDBiY2RhOGU1ZjQyZDBkZDAyZmVi",
+  "snapshot_id": "MCxjZWQ5ZTk5MDE0NjU3ZGQ5MDViOGE3ZTg5NGU2NzE3NDcwZDUxMWRl",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "I Hate Cowboys & All Dogs Go To Hell",
-        "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
+        "name": "Love Like I Drink",
+        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Carter Winter",
+          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
+        },
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
         }
       ],
-      "duration_ms": 168000,
-      "name": "For A Day",
-      "url": "https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm"
+      "duration_ms": 195309,
+      "name": "Love Like I Drink",
+      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Love Like I Drink",
-        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
+        "name": "I Hate Cowboys & All Dogs Go To Hell",
+        "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
       "artists": [
         {
-          "name": "Carter Winter",
-          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
-        },
-        {
-          "name": "Allie Colleen",
-          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 195309,
-      "name": "Love Like I Drink",
-      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+      "duration_ms": 168000,
+      "name": "For A Day",
+      "url": "https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Somebody Like That (Acoustic)",
         "url": "https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194303,
       "name": "Somebody Like That - Acoustic",
       "url": "https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Steady Heart (Wedding Version)",
-        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Steady Heart - Wedding Version",
-      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 198026,
       "name": "Here Tonight - The Acoustic Sessions",
       "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Steady Heart (Wedding Version)",
+        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Steady Heart - Wedding Version",
+      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Primrose",
-        "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
-      },
-      "artists": [
-        {
-          "name": "Jordyn Shellhart",
-          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Maybe Someday You\u2019ll Have A Daughter",
-      "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+        "name": "Primrose",
+        "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
       },
       "artists": [
         {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
         }
       ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+      "duration_ms": 208200,
+      "name": "Maybe Someday You\u2019ll Have A Daughter",
+      "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Made (Wedding Version)",
+        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 215227,
+      "name": "Made (Wedding Version)",
+      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Truth About You (Piano Version)",
         "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me at Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Put It in Drive",
         "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me at Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Wrong Side of a Sunrise (Demo)",
-        "url": "https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 201876,
-      "name": "Wrong Side of a Sunrise - Demo",
-      "url": "https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Austin (Acoustic)",
         "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 226179,
       "name": "Austin - Acoustic",
       "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
     }
   ],
   "unique_name": "Nashville Stripped",

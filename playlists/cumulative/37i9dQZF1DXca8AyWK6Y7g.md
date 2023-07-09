@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: flowerovlove
 
-1,715 songs - 3 day 15 hr 8 min
+1,716 songs - 3 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/track/0mYafDBrC2cpMah8sxTybJ) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM), [JRM](https://open.spotify.com/artist/4EnVza8C7nWRg6dMdnIL0U) | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/album/00ew8QkkWRD4RZTTenerjW) | 2:59 | 2020-02-19 | 2020-03-20 |
 | [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 | 2022-09-02 |  |
 | [All My Fault](https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [All My Fault](https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS) | 3:02 | 2022-03-18 | 2022-06-07 |
-| [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-30 |  |
+| [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-30 | 2023-07-09 |
 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 | 2023-03-25 |
 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 | 2023-02-24 | 2023-03-04 |
 | [all ur fault](https://open.spotify.com/track/3lPXQDaJ0juw8zunPkhse5) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/4IeYBHS7rCG85508IZyGvM) | 3:03 | 2021-11-19 | 2022-01-29 |
@@ -982,6 +982,7 @@
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-13 | 2022-08-13 |
 | [mexico](https://open.spotify.com/track/7h4WvFZjJQvH87W9fTIjyl) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [mexico](https://open.spotify.com/album/0TFUXnSmt2oHWYPl8q4uJQ) | 2:10 | 2021-02-26 | 2021-11-16 |
 | [MIDAS](https://open.spotify.com/track/0QXrMwSBXP5OBiveGLKfgO) | [Jack House](https://open.spotify.com/artist/1BMhFem2BKTcNi9ykcmSE9), [Johnny High](https://open.spotify.com/artist/2hxkFU0Y2R0dhS51p99I2g), [Typhoon Roulette](https://open.spotify.com/artist/7wWTycB5kBZ8Ky7oKE36PW) | [MIDAS](https://open.spotify.com/album/0LF2jFc18ODFkbrR66p3BG) | 2:15 | 2020-05-09 | 2021-01-07 |
+| [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 | 2023-07-07 |  |
 | [Midnight Magic \(feat\. Karra\)](https://open.spotify.com/track/4XdPEFmeb6RKEBdCMTeGPe) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Midnight Magic \(feat\. Karra\)](https://open.spotify.com/album/3y3OHgPeQN4miAmXKAk0Z1) | 3:05 | 2019-05-26\* | 2020-04-16 |
 | [Millennium Angel](https://open.spotify.com/track/5RUT7fWjDk4jk0v3BMYB3y) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Millennium Angel](https://open.spotify.com/album/7zOjqw1DUsKuC3bGa5fKPP) | 3:21 | 2021-11-12 | 2022-03-12 |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 | 2022-06-07 |

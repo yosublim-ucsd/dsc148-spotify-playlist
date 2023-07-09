@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Punctual
 
-629 songs - 1 day 9 hr 35 min
+630 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [So Good](https://open.spotify.com/track/0QXcqNQkP6DctmUv31KG9L) | [DIM KELLY](https://open.spotify.com/artist/60UEBuWoDQnIzdHid5xTkd), [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Lou Zweegers](https://open.spotify.com/artist/77eHwnNisRwfBRz5wXjfZQ) | [So Good](https://open.spotify.com/album/4BxZ1ZUjyqOV4E6oj3x2ii) | 2:41 | 2023-05-12 |  |
 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 | 2022-06-09 | 2023-07-07 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 |  |
-| [So Much In Love \- Sped Up](https://open.spotify.com/track/0zCIiBHKWGJejY3ji35IVr) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [So Much In Love \- Sped Up](https://open.spotify.com/album/1F9LHT5yFuaXVH6r5vkZ87) | 2:33 | 2023-07-06 |  |
+| [So Much In Love \- Sped Up](https://open.spotify.com/track/0zCIiBHKWGJejY3ji35IVr) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [So Much In Love \- Sped Up](https://open.spotify.com/album/1F9LHT5yFuaXVH6r5vkZ87) | 2:33 | 2023-07-06 | 2023-07-09 |
+| [So Much In Love \- Symmetrik Remix](https://open.spotify.com/track/2Li9PhSrXPNGP8rXtoAYlQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [So Much In Love \(Symmetrik Remix\)](https://open.spotify.com/album/3EJQjppVdrqkvu7CmNrfBQ) | 3:08 | 2023-07-07 |  |
 | [So Sick \- Simon Field & SverreV Version](https://open.spotify.com/track/6itUGDgWTBZIyQUckOThGP) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [SverreV](https://open.spotify.com/artist/04sHRlBQD0sORhbe2EYydj) | [So Sick \(Simon Field & SverreV Version\)](https://open.spotify.com/album/3UFyfoEEXYses3JWaVqmvu) | 3:06 | 2022-06-09 | 2022-09-02 |
 | [Sober](https://open.spotify.com/track/4zA1GmTijWtxqbzoXQMS7w) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Sober](https://open.spotify.com/album/5ksDSKIVq3HDY96q8MxL7z) | 2:49 | 2023-03-09 | 2023-06-23 |
 | [Sofrito \(Do It Like That\)](https://open.spotify.com/track/39mRogfOcY1NWb1diQrRJo) | [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Sofrito \(Do It Like That\)](https://open.spotify.com/album/19pyRIlQUCdj7vd6yM7Ya4) | 3:16 | 2023-04-13 | 2023-05-19 |

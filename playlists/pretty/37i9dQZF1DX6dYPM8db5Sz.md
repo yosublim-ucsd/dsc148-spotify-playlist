@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp?si=8zvqT4B3RmmGrbtY\_vdCLw">Cece Vee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,335 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,337 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 14 | [I Won't Say No](https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [I Won't Say No](https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd) | 2:29 |
 | 15 | [Wasting time](https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl) | [TASH AYY](https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas), [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU) | [Wasting time](https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp) | 2:27 |
 | 16 | [So I Ask You](https://open.spotify.com/track/2ypvMGte6AD8eI2ZoTfi55) | [Jacinto](https://open.spotify.com/artist/5pd7gwQaEoDgwowoynX09F) | [So I Ask You](https://open.spotify.com/album/5eQSHxHgFGw0K8Z8PW3Kol) | 3:07 |
-| 17 | [Tell Me Again](https://open.spotify.com/track/2jnXBYpQBpHG7dp7Z1rdKN) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/1XvO9UQ1T3egYcOr0aNgiY) | 4:09 |
+| 17 | [Tell Me Again](https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/34Uhqu0ePpZvIhUyrquWzf) | 4:09 |
 | 18 | [Tightly Bound](https://open.spotify.com/track/1VG1atMGf1GYMQ52MLJKDQ) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Tightly Bound](https://open.spotify.com/album/4g0PmnyPZFN15ezcGZ0bGS) | 3:33 |
 | 19 | [Your Darkest Hour](https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Your Darkest Hour](https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i) | 4:12 |
 | 20 | [Sit Right](https://open.spotify.com/track/3d53nYqXuydZPnU4AjeE4W) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sit Right](https://open.spotify.com/album/21A2eVciYbz82Cu6i8wyCi) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 |
 | 50 | [jupiter.](https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [jupiter.](https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ) | 3:46 |
 
-Snapshot ID: `MCw0YjM0MWRlM2Q3NzI5MGQ3MTFiMDNjMmVlYjFmOTJhZWQ3MTA0ZjA3`
+Snapshot ID: `MCw0NmJkMzE5MzMxY2ZjMzAxYmY5YmUxOGUxZDFiOTMzMzM4NDhmMTgx`

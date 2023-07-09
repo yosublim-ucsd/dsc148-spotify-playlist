@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-361 songs - 21 hr 51 min
+362 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Angels In Science Fiction](https://open.spotify.com/track/6EDt6D43K1OewCZsGDZDku) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:46 | 2023-04-21 |  |
 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 |  |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |
-| [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 | 2023-03-10 |  |
+| [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 | 2023-03-10 | 2023-07-09 |
+| [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 | 2023-03-10 |  |
 | [August](https://open.spotify.com/track/7g1BY9DxCoF440qgBWBZYN) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [August](https://open.spotify.com/album/1jqK0dSq52xEQBCg88FWh5) | 2:57 | 2020-10-17 | 2022-04-21 |
 | [Autumn Town Leaves](https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel) | 3:15 | 2020-10-17 | 2022-07-28 |
 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 | 2020-10-17 | 2023-02-04 |

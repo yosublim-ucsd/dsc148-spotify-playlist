@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Kanen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,726 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,730 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Wendat Rap](https://open.spotify.com/track/0WAyCe91XVpDOuQ2oqtvD3) | [Sandrine Masse](https://open.spotify.com/artist/35fwgEtPJdcASmEbtG4MZh) | [Wendat Rap](https://open.spotify.com/album/3HRmk6CSN7zUyyjHJ7dLIz) | 3:51 |
 | 30 | [Dead Shopping Mall](https://open.spotify.com/track/53YJFdzWn606fbJc9ngrm8) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mitshuap \(Deluxe\)](https://open.spotify.com/album/7afIEP4llzhNpu5xo43jOj) | 4:13 |
 
-Snapshot ID: `MCw0NTk3N2I1ZTIxNzE1ZGQ4NTczODg0YWVmODVmNzE4NTdhMWZmOGIz`
+Snapshot ID: `MCw5YjcwNTliNWM3NmI1MmZkNTI1NTkzMGUwZWQ5ODNiZTZlMDljNDhi`

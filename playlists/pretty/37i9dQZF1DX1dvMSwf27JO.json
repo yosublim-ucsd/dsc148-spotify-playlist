@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 513942,
+  "num_followers": 514084,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzhhNjJkNzM3NzVlMjgxNmVhMTc5MGNhNzFjMTY2YzI4NzM4ZmVi",
+  "snapshot_id": "MCxlMGZlYTFjMmMxNGU5ZTFlYTY0MjI4OTYyZDdhZjE0MDk4NTQ5ZjE2",
   "tracks": [
     {
       "added_at": "2023-04-21 19:48:21",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
-      "added_at": "2023-06-15 16:15:46",
-      "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
       "added_at": "2023-04-21 19:48:21",
       "album": {
         "name": "College Park",
@@ -465,6 +449,22 @@
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
     },
     {
+      "added_at": "2023-06-15 16:15:46",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Bops",
@@ -479,6 +479,26 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -511,26 +531,6 @@
       "duration_ms": 61440,
       "name": "Love U",
       "url": "https://open.spotify.com/track/0uaYHM2SGtMr5Rav2qHo77"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 230554,
-      "name": "HEAVEN TO ME",
-      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 134322,
       "name": "FreakyT",
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Alright - Remastered",
+      "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
         }
       ],
-      "duration_ms": 263920,
-      "name": "Alright - Remastered",
-      "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
+      "duration_ms": 240561,
+      "name": "Flaunt It/Cheap",
+      "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -855,22 +871,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 240561,
-      "name": "Flaunt It/Cheap",
-      "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "dress up!",
         "url": "https://open.spotify.com/album/7MzgnfEIBNiLkOVU8kHhHw"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 129494,
       "name": "Big Flirt",
       "url": "https://open.spotify.com/track/355eZ7ojdzc0ZHc7LeiwE8"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
     },
     {
+      "added_at": "2023-06-15 16:15:46",
+      "album": {
+        "name": "WHO TF IS 8RAE?",
+        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
+      },
+      "artists": [
+        {
+          "name": "8rae",
+          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
+    },
+    {
       "added_at": "2023-04-21 19:48:21",
       "album": {
         "name": "Uber EveryWhere (OG House Mix)",
@@ -1529,20 +1545,20 @@
       "url": "https://open.spotify.com/track/6kH9bJTKlGXLjRIOSuKYX4"
     },
     {
-      "added_at": "2023-06-15 16:15:46",
+      "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "WHO TF IS 8RAE?",
-        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
+        "name": "Long Time No See",
+        "url": "https://open.spotify.com/album/6pEfQSzvABIy8oThBgE6bS"
       },
       "artists": [
         {
-          "name": "8rae",
-          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
+      "duration_ms": 111857,
+      "name": "Long Time No See",
+      "url": "https://open.spotify.com/track/5RRjw6mvUOaGOpHsgHufzH"
     },
     {
       "added_at": "2023-05-19 18:59:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 205226,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Long Time No See",
-        "url": "https://open.spotify.com/album/6pEfQSzvABIy8oThBgE6bS"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 111857,
-      "name": "Long Time No See",
-      "url": "https://open.spotify.com/track/5RRjw6mvUOaGOpHsgHufzH"
     },
     {
       "added_at": "2023-05-19 18:59:00",

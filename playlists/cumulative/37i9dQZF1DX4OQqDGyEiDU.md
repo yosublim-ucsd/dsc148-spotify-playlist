@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-499 songs - 1 day 4 hr 35 min
+500 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2022-06-28 |  |
 | [マネキン](https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [マネキン](https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz) | 2:45 | 2023-03-21 | 2023-04-19 |
 | [マフィア](https://open.spotify.com/track/1oFiR7h7tjI1hXIEDGsN8m) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [マフィア](https://open.spotify.com/album/7cDUnK6abvuyt1IMi7fMau) | 3:05 | 2022-06-09 | 2022-07-18 |
-| [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 | 2022-06-09 |  |
+| [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 | 2022-06-09 | 2023-07-09 |
+| [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 | 2023-07-06 |  |
 | [マーメイド](https://open.spotify.com/track/4DfBPN7Zv23HGvZzBdSrMz) | [monaca:factory](https://open.spotify.com/artist/4kBIGrhwGKdxCORrjYlNqE) | [マーメイド](https://open.spotify.com/album/1Lb1Eha1PSH40d9h3Ji77Y) | 3:19 | 2022-06-30 | 2022-07-03 |
 | [ミザン](https://open.spotify.com/track/6Npem5cLBk4zCDsvO6AWgp) | [バルーン](https://open.spotify.com/artist/4xAuUT1sLcUzjW7EpocCWv), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ミザン](https://open.spotify.com/album/6bt2g47lbqS2LFZrxvADBA) | 3:27 | 2022-06-09 | 2022-07-24 |
 | [ミュージックミュージック \(feat\. 初音ミク\)](https://open.spotify.com/track/3riSzyosO5rqTIy6wGklwr) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [MIKU/TOA](https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ) | 3:41 | 2022-07-14 | 2022-07-20 |

@@ -4969,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Wild Life",
+        "url": "https://open.spotify.com/album/4bdufFgrqgkNspDZLf1Hjd"
+      },
+      "artists": [
+        {
+          "name": "Mikael Sapin",
+          "url": "https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135969,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU"
+    },
+    {
+      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/4Ge1CzxVa3ZYyBktNopMjq"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"

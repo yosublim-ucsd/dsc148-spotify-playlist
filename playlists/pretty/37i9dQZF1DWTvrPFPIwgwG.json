@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al",
-  "num_followers": 81713,
+  "num_followers": 81954,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjA5YTJkMjQ3ZWRlOGFmZGJiMjM2NjIwMGE5YTFhNGJiZGE5NmVm",
+  "snapshot_id": "MCwzNDM0N2MxZTVkYTQ3OTYwNjg3MjIyOTc5OGFhNWViOTVmODFhZGMy",
   "tracks": [
     {
       "added_at": "2023-07-07 04:53:54",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Aguente, Guerreiro",
-        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "Aguente, Guerreiro",
-      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -427,26 +407,6 @@
       "duration_ms": 340411,
       "name": "Voc\u00ea N\u00e3o Vai Parar",
       "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Vou Marcar Tua Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        },
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 249983,
-      "name": "Vou Marcar Tua Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -467,6 +427,46 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Aguente, Guerreiro",
+        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307750,
+      "name": "Aguente, Guerreiro",
+      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Vou Marcar Tua Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 249983,
+      "name": "Vou Marcar Tua Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -563,54 +563,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 313674,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
-      },
-      "artists": [
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        }
-      ],
-      "duration_ms": 485055,
-      "name": "N\u00e3o Desista de Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Que Deus \u00c9 Esse (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
@@ -647,6 +599,54 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "duration_ms": 485055,
+      "name": "N\u00e3o Desista de Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 313674,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "Vou Deixar na Cruz",
         "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
       },
@@ -659,6 +659,38 @@
       "duration_ms": 334692,
       "name": "Vou Deixar na Cruz",
       "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -683,34 +715,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -727,22 +743,6 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 267398,
       "name": "O Le\u00e3o",
       "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "Tenha Paci\u00eancia",
+        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        }
+      ],
+      "duration_ms": 286096,
+      "name": "Tenha Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "Deus Realiza Sonhos",
         "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Tenha Paci\u00eancia",
-        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+        "name": "Santidade",
+        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
       },
       "artists": [
         {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
         }
       ],
-      "duration_ms": 286096,
-      "name": "Tenha Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
+      "duration_ms": 380400,
+      "name": "Santidade",
+      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Santidade",
-        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
       },
       "artists": [
         {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
         }
       ],
-      "duration_ms": 380400,
-      "name": "Santidade",
-      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Eu Cuido de Tudo",
         "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Eu Te Toquei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
       },
       "artists": [
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
         }
       ],
-      "duration_ms": 319018,
-      "name": "Eu Te Toquei - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Gerando Intimidade",
-        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+        "name": "Eu Te Toquei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
       },
       "artists": [
         {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 254754,
-      "name": "Gerando Intimidade",
-      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+      "duration_ms": 319018,
+      "name": "Eu Te Toquei - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1191,38 +1191,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Marcados pela Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh"
-      },
-      "artists": [
-        {
-          "name": "Vanilda Bordieri",
-          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
-        }
-      ],
-      "duration_ms": 301619,
-      "name": "Marcados pela Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m"
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1243,6 +1223,42 @@
       "duration_ms": 322746,
       "name": "O Menor (Ao Vivo)",
       "url": "https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Marcados pela Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh"
+      },
+      "artists": [
+        {
+          "name": "Vanilda Bordieri",
+          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
+        }
+      ],
+      "duration_ms": 301619,
+      "name": "Marcados pela Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Basta uma Palavra",
         "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
       },
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -1379,6 +1395,26 @@
       "duration_ms": 266936,
       "name": "Minha B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Solu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        },
+        {
+          "name": "Mattos Nascimento",
+          "url": "https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Solu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1415,26 +1451,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Solu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        },
-        {
-          "name": "Mattos Nascimento",
-          "url": "https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Solu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Sobre o Mar",
         "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 377884,
       "name": "Sobre o Mar",
       "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": "2023-07-07 04:53:54",

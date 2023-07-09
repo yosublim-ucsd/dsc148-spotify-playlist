@@ -501,6 +501,32 @@
     },
     {
       "album": {
+        "name": "La Fuga Del Dorian",
+        "url": "https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277460,
+      "name": "La Fuga Del Dorian",
+      "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
+    },
+    {
+      "album": {
         "name": "Fiesta En El Cielo Vol 1",
         "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
       },

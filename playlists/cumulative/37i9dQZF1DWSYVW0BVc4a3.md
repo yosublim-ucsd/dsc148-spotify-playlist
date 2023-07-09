@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-563 songs - 1 day 20 hr 38 min
+564 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Lost In You \- Musumeci Remix](https://open.spotify.com/track/0G5UiLHnVOuRDgt4ImEBuW) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp), [Pôngo](https://open.spotify.com/artist/6Gmcf0X0BC2oKO3wSvKHt5), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Lost In You \(Musumeci Remix\)](https://open.spotify.com/album/7jBDEyBuO1n6cmSf1VmtI8) | 6:01 | 2022-12-27 | 2023-01-02 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-08-18 | 2022-11-25 |
 | [LOUI3](https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [LOUI3](https://open.spotify.com/album/4HYjJOasl2gNC0Dwyah4o8) | 2:47 | 2023-02-16 | 2023-02-18 |
+| [Love Me](https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT) | 3:56 | 2023-07-03 |  |
 | [Love Me \- Yotto Remix](https://open.spotify.com/track/7lsy3LZ9Ha36Tdl4TJ1Nbl) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Love Me](https://open.spotify.com/album/2XQGvDUTW5PirrF5TOq31I) | 3:35 | 2022-12-27 | 2023-03-10 |
 | [Love Will Remain](https://open.spotify.com/track/1ijPmeeloygCcUB9S92hS4) | [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Love Will Remain EP](https://open.spotify.com/album/4WRjAuIv736FhQobJaCP17) | 4:33 | 2023-01-19 | 2023-01-27 |
 | [Love's Not Over](https://open.spotify.com/track/3q6mkccpsxtJGGwVedusig) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/3dZGnWkLHS96GFdsMGitNW) | 5:50 | 2023-01-26 | 2023-03-10 |
@@ -388,7 +389,7 @@
 | [Raining Again \- Eli & Fur Remix](https://open.spotify.com/track/4irQGJnGuNM3CsqBZg6nEX) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Raining Again \(Eli & Fur Remix\)](https://open.spotify.com/album/5ypkQ1ZZVfwNzzXdQOSI3N) | 4:24 | 2023-06-29 |  |
 | [Reasons \- Edit](https://open.spotify.com/track/563CREVayRD9O2qiPKHSSk) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Reasons](https://open.spotify.com/album/1yu6quarJ8zgSTFldZTiYx) | 3:55 | 2023-05-05 | 2023-06-03 |
 | [Reflection](https://open.spotify.com/track/4snXjVqAlCym0l9NZFXoz4) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 4:43 | 2023-01-19 | 2023-01-27 |
-| [Rej](https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Rej EP](https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4) | 8:08 | 2023-04-20 |  |
+| [Rej](https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Rej EP](https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4) | 8:08 | 2023-04-20 | 2023-07-09 |
 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 | 2023-04-13 | 2023-06-23 |
 | [Remember Me?](https://open.spotify.com/track/2T7tybC5XZrEnHji0Ri34O) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 4:00 | 2023-02-02 | 2023-04-21 |
 | [Reminiscent](https://open.spotify.com/track/0JnqWFbx7jc9HLvtxZPjLT) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Reminiscent](https://open.spotify.com/album/2bpMCulrk1nNXiOKzgherl) | 4:27 | 2023-01-05 | 2023-04-11 |

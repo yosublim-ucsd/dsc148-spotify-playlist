@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48306,
+  "num_followers": 48329,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWY4MDYxNjQ3YjE3ZTZlMGM2NTNlM2UwNDExYjBkNzliY2YxYmU0",
+  "snapshot_id": "MCw3NDcwODU1ZjM4OTdjMDVjMWZkNmYxNjhjNjBhNWNjMjBkMzg0YTVh",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1107,26 +1107,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Timo Andres",
-          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
-        },
-        {
-          "name": "Conor Hanick",
-          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 177635,
-      "name": "Reflexion",
-      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Timo Andres",
+          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
+        },
+        {
+          "name": "Conor Hanick",
+          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 177635,
+      "name": "Reflexion",
+      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Defeat",
-        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 1318174,
-      "name": "Defeat",
-      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
-        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
       },
       "artists": [
         {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
-      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
+        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
+        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
+      "duration_ms": 229600,
+      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
+      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "e o",
-        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 269471,
-      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "e o",
+        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 269471,
+      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Flimsier",
-        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 239910,
-      "name": "Flimsier",
-      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

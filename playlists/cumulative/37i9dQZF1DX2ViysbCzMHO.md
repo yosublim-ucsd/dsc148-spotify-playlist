@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-237 songs - 12 hr 57 min
+238 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Hold Onto Me](https://open.spotify.com/track/46lQ3fRXyOaugGZkeFr6Gd) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Hold Onto Me](https://open.spotify.com/album/11YRGrT490YxDDTm26dHAT) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [homecoming queen? \- ballerini album version](https://open.spotify.com/track/4l88CHVNHcZPej7aHPGYr4) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 2:57 | 2021-12-17 |  |
 | [Hood of That Car \- Piano Version](https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car \(Piano Version\)](https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu) | 3:28 | 2022-09-23 | 2023-01-20 |
+| [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 | 2023-06-16 |  |
 | [Hope It's Hot Out \- Acoustic](https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk) | 2:47 | 2022-07-01 | 2022-11-19 |
 | [How It Oughta Be \- Acoustic](https://open.spotify.com/track/6d8IG8GblIOXUWMdtQt2jj) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [How It Oughta Be \(Acoustic\)](https://open.spotify.com/album/6iMyQOYBiUrmmGXot3QbFs) | 3:04 | 2022-10-28 |  |
 | [How to Love a Girl \- Acoustic](https://open.spotify.com/track/1nxjPus9HGtq2no7jdeNVr) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl \(Acoustic\)](https://open.spotify.com/album/120UcOfx90ZhZ1DzSKn0wT) | 3:33 | 2022-04-01 | 2022-07-09 |
@@ -239,7 +240,7 @@
 | [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 | 2021-12-17 | 2022-12-18 |
 | [Wish You Were The One \- Acoustic](https://open.spotify.com/track/68L77yToDsg8bWZXt8VOcj) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Wish You Were The One \- Acoustic](https://open.spotify.com/album/1deVT2927jEuMPuKoO8Dbn) | 2:58 | 2023-05-12 | 2023-06-22 |
 | [Woman Of My Word](https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Woman Of My Word](https://open.spotify.com/album/214M4oC89w5sUGGK4kSreW) | 4:55 | 2021-12-17 | 2022-07-10 |
-| [Wrong Side of a Sunrise \- Demo](https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Wrong Side of a Sunrise \(Demo\)](https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm) | 3:21 | 2023-05-12 |  |
+| [Wrong Side of a Sunrise \- Demo](https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Wrong Side of a Sunrise \(Demo\)](https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm) | 3:21 | 2023-05-12 | 2023-07-09 |
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |
 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 |  |

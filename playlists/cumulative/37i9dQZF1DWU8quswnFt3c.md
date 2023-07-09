@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
-1,320 songs - 3 day 0 hr 46 min
+1,321 songs - 3 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 | 2023-01-05 |
 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 | 2022-08-03 | 2022-09-09 |
 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2021-12-11 | 2022-01-06 |
+| [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-07 |  |
 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 | 2022-09-07 | 2022-10-05 |
 | [Alive](https://open.spotify.com/track/3yg4TZJBk7UuF6mJEsWwTe) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf) | [Alive](https://open.spotify.com/album/3xIUeWBzzmpOc1DyQNQnMl) | 3:21 | 2022-09-07 | 2022-10-05 |
 | [ALL ALONG](https://open.spotify.com/track/11Q12uGLdf1ZmbcCbevWAY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:23 | 2021-12-11 | 2022-02-03 |
@@ -396,7 +397,7 @@
 | [Furiosa](https://open.spotify.com/track/6NTcvSG2Kjz23QoJtaqgmN) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Furiosa](https://open.spotify.com/album/4lPUATsky4Q3HlJn7LnJZs) | 2:33 | 2022-09-07 | 2022-10-05 |
 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 | 2023-02-15 | 2023-03-02 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-07-06 | 2022-08-04 |
-| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 |  |
+| [Games](https://open.spotify.com/track/4HeJ9TWZGN7NkV8QCy07Vs) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [Games](https://open.spotify.com/album/6KpRgfBr65pY2TF5tp9aP7) | 3:34 | 2023-07-05 | 2023-07-09 |
 | [Garçon manqué](https://open.spotify.com/track/6XXXWiYJTPPVHxHewxGeY5) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 3:31 | 2022-02-02 | 2022-03-09 |
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-01 | 2022-07-07 |
 | [Gazoza](https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Gazoza](https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h) | 3:45 | 2023-01-04 | 2023-04-06 |

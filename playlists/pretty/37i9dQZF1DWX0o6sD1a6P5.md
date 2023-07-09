@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,080 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,578 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 | 50 | [Zéro Limite](https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Zéro Limite](https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV) | 2:09 |
 
-Snapshot ID: `MCw1ODkwODc5NmMxNWYzMzA5ZWY3YTlmYzNmYjllYWJiNzQ2NGEwZjMz`
+Snapshot ID: `MCxjNDUzODYyNDE0Y2UwMjJlZTk4YWUyMjE5OGM1MWI5Y2ViNGY5MTgx`

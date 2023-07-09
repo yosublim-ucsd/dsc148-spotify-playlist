@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 609882,
+  "num_followers": 610008,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJlZjQ3NWQyNmFlOGJmNGYwMTZlYzNjNTIyZmI0ZDg5ZGFiMDYx",
+  "snapshot_id": "MCw2MmZhOWI0YWVmYmRkNmVhMDhmMGIwOGE5N2U4MjU0ODViYmE1YWUy",
   "tracks": [
     {
       "added_at": "2023-05-31 15:07:35",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+      "duration_ms": 232280,
+      "name": "Wenn wir kommen",
+      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -755,8 +755,8 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Irgendwie, Irgendwo, Irgendwann",
         "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 330409,
       "name": "Irgendwie, Irgendwo, Irgendwann",
       "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-05-31 15:07:35",

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Rajan Batra
 
-113 songs - 6 hr 5 min
+113 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aaj Kal](https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Aaj Kal](https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ) | 3:33 | 2023-04-14 | 2023-06-30 |
 | [Aaj Phir](https://open.spotify.com/track/0ZhUr44gkooybSmoNgqjya) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T) | [Aaj Phir](https://open.spotify.com/album/6KdQegAYeMPv8oIIjAtndT) | 1:09 | 2023-06-30 |  |
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-30 |  |
-| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-07 |  |
+| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-07 |  |
 | [Aarzoo](https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Aarzoo](https://open.spotify.com/album/65mN0z094HGFbyZnmpQpqO) | 2:44 | 2023-07-07 |  |
 | [Adhoore Hum](https://open.spotify.com/track/7HTB2kvarPgyGQfH9KjEg4) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Adhoore Hum](https://open.spotify.com/album/6XPmY7pMPwJmP6KstQkBFJ) | 3:35 | 2023-04-14 | 2023-06-30 |
 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 | 2023-05-19 |  |
@@ -81,7 +81,7 @@
 | [Naya Jahaan](https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan](https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr) | 2:23 | 2023-06-16 |  |
 | [Nee Venda](https://open.spotify.com/track/1JMQrzzFl21dKNZhlPYCNE) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Nee Venda](https://open.spotify.com/album/23Qj45cx8r352ajwLVJRNf) | 2:52 | 2023-04-14 | 2023-06-24 |
 | [Nishaaniyan](https://open.spotify.com/track/1n80hIzru4Oc3834lzNJR1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Nishaaniyan](https://open.spotify.com/album/4SAvROpQw7A12jzkkWB0Iw) | 3:22 | 2023-06-23 | 2023-07-08 |
-| [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:30 | 2023-07-07 |  |
+| [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 |  |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 |  |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-04-14 | 2023-05-20 |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-23 |  |
@@ -92,7 +92,7 @@
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-04-14 | 2023-06-24 |
 | [Saaye](https://open.spotify.com/track/2ZS8Cl38xfzRoW3Ku1EQji) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Saaye](https://open.spotify.com/album/1BxPrCD4Jm2dPFuFo0fPOX) | 3:02 | 2023-07-07 |  |
 | [SABAR](https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562) | [Shrey Jadav](https://open.spotify.com/artist/7FNrXfn1qGnTT5EB5pg8m0), [T\-Rex](https://open.spotify.com/artist/1a6V9zFa1uu6VAssycd5Tc), [Vanishree Sahu](https://open.spotify.com/artist/2HYdcG7Fp7B2xbgBQE9ncy) | [SABAR](https://open.spotify.com/album/4WtT9b9n5A4qAQJ87M5RSC) | 3:23 | 2023-06-30 |  |
-| [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/7e36LMjK2ZWypr9YI08Bgz) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-07 |  |
+| [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-07 |  |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-19 |  |
 | [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 | 2023-07-01 |
 | [Saiban](https://open.spotify.com/track/3rn4PxnE3D75ViL4ATuHUd) | [Epic Stories](https://open.spotify.com/artist/2Oxbce0HTivMo5my8u8tAS), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Saiban](https://open.spotify.com/album/7weSTdjfhRpSbt5uS9C5TE) | 4:27 | 2023-04-14 | 2023-06-24 |

@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 724193,
+  "num_followers": 724273,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjU2YTA3MDY2MTdjYzhkYjdiYmI2NTE3NzBkNjNlMTM2ZTc4ZTc4",
+  "snapshot_id": "MCxkZjhiNmUxYzk4MzRjY2Y4NjAyNjcxZGZkM2UwODUwYzVmZTE2MTM2",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Before the Storm",
         "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 445210,
       "name": "Before the Storm",
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        }
-      ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        }
+      ],
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -547,22 +531,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -587,18 +567,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
         }
       ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Ancestors",
         "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 287518,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -743,22 +759,6 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -1023,6 +1007,38 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 521547,
+      "name": "Tembo",
+      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1063,22 +1079,6 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Humanidad",
-        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 521547,
-      "name": "Tembo",
-      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Tripoli",
-          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
-        }
-      ],
-      "duration_ms": 382066,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Tripoli",
+          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 382066,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1231,6 +1215,22 @@
       "duration_ms": 387898,
       "name": "Kanasi",
       "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 282520,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Latlal",
-        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
-      },
-      "artists": [
-        {
-          "name": "Fairplay",
-          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
-        }
-      ],
-      "duration_ms": 357220,
-      "name": "Latlal",
-      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Yoruba",
         "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 427627,
       "name": "Yoruba",
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Latlal",
+        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Latlal",
+      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
     }
   ],
   "unique_name": "Org\u00e1nica",

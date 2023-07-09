@@ -88,13 +88,17 @@
         {
           "name": "Lil' Kim",
           "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256866,
-      "name": "Big Momma Thang",
+      "name": "Big Momma Thang (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy"
     },
     {
@@ -396,7 +400,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204666,
-      "name": "Feel so Good - 2016 Remaster",
+      "name": "Feel So Good - 2016 Remaster",
       "url": "https://open.spotify.com/track/1Hzj9qMFRfIDKgek6nPS1Z"
     },
     {

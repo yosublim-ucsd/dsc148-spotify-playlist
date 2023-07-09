@@ -5468,10 +5468,32 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 327977,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS"
+    },
+    {
+      "album": {
+        "name": "O.T.S. (Live)",
+        "url": "https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1"
+      },
+      "artists": [
+        {
+          "name": "Lionmilk",
+          "url": "https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ"
+        },
+        {
+          "name": "Lionmilk Quartet",
+          "url": "https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327977,
+      "name": "Take a Breath (Live)",
+      "url": "https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT"
     },
     {
       "album": {

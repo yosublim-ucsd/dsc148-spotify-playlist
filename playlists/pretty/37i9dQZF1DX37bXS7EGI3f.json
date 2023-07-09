@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Within Temptation",
-  "num_followers": 737862,
+  "num_followers": 737960,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm",
+  "snapshot_id": "MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Natural Born Killer",
         "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+        "name": "Secrets Of The American Gods",
+        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+      "duration_ms": 397026,
+      "name": "Secrets Of The American Gods - Single Edit",
+      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Secrets Of The American Gods",
-        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
       "artists": [
         {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
         }
       ],
-      "duration_ms": 397026,
-      "name": "Secrets Of The American Gods - Single Edit",
-      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Light up the Sky",
-        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
-      },
-      "artists": [
-        {
-          "name": "REXORIA",
-          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Light up the Sky",
-      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -435,34 +419,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
         }
       ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Drink with the Gods",
-        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Drink with the Gods",
-      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -483,6 +451,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+        "name": "Drink with the Gods",
+        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
         }
       ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
+      "duration_ms": 250000,
+      "name": "Drink with the Gods",
+      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
       },
       "artists": [
         {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -683,6 +667,22 @@
       "duration_ms": 299076,
       "name": "Beneath (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 259068,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
+      },
+      "artists": [
+        {
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
+        }
+      ],
+      "duration_ms": 259068,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
       },
       "artists": [
         {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
         }
       ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
       },
       "artists": [
         {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
         }
       ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2023-05-19 04:00:00",

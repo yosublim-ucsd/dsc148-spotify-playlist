@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Texas King
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,236 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,237 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 |
 | 100 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 |
 
-Snapshot ID: `MCxmNWFjZTc1NjU0NGI0NDcyOWFlYzRmNjE0M2ZjZTgwM2VkZDgzYTYx`
+Snapshot ID: `MCw3YWUzMDhlNWM5OTU1NDZiZDNkM2E2NWVhNTg3YmZkYTc5Y2E0OWQy`

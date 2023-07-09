@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA"
+    },
+    {
+      "album": {
         "name": "5am and I Can't Sleep",
         "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
       },
@@ -6698,7 +6716,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 193866,
       "name": "satuRday",
       "url": "https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir"

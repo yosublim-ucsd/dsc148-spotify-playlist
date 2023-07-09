@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Burn Me Down",
+        "url": "https://open.spotify.com/album/02dE6aUrvRGG3rkbifZf2u"
+      },
+      "artists": [
+        {
+          "name": "TEMPT",
+          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231478,
+      "name": "Burn Me Down",
+      "url": "https://open.spotify.com/track/0esLzQSUI4NUOFV1f75AKS"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },

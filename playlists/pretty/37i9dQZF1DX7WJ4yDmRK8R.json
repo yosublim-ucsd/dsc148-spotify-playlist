@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
-  "num_followers": 351980,
+  "num_followers": 352093,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2MwZTY5ZDJlOWU5Y2ZjMDljYzI0NjBkMmU2NGU3NzA0OTllZmZm",
+  "snapshot_id": "MCwyMDQ5NDI1NTcxNTUyOGZlN2Y2ZmE5ZGMyMDkxNmRkNjdiN2ZiNzk4",
   "tracks": [
     {
       "added_at": "2023-07-07 20:12:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 143546,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "Duck and Cover",
-        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Road Rash",
-      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "Ska and Rocksteady Collection, Vol. 1",
         "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 159381,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "Duck and Cover",
+        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "Road Rash",
+      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "A Passage In Time (Explicit Version)",
         "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "El Coo Cooi",
+      "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
         "name": "\u2026And The Battle Begun",
         "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 248413,
       "name": "Wasted Days",
       "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Glow Skulls",
-          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "El Coo Cooi",
-      "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
     },
     {
       "added_at": "2023-07-07 20:12:15",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-07 20:12:15",
       "album": {
-        "name": "Beatdown Generation",
-        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 194825,
-      "name": "Beatdown Generation",
-      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
-    },
-    {
-      "added_at": "2023-07-07 20:12:15",
-      "album": {
         "name": "Another Change of Plan",
         "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 196333,
       "name": "Play Some Ska",
       "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
+    },
+    {
+      "added_at": "2023-07-07 20:12:15",
+      "album": {
+        "name": "Beatdown Generation",
+        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 194825,
+      "name": "Beatdown Generation",
+      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
     },
     {
       "added_at": "2023-07-07 20:12:15",

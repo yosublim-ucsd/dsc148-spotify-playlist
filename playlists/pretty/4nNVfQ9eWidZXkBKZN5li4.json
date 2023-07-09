@@ -1,12 +1,12 @@
 {
   "description": "Best of Bollywood - All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood Top tracks only on this playlist! ",
-  "num_followers": 230317,
+  "num_followers": 230519,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NDk5NSwyNTY2OTQxZWQwNDdlNjJjMjk0ZDQ3NWQ0M2EyN2ExZDM0NTQwNzgx",
+  "snapshot_id": "NTAwNSxlYWRjNDNiODk5MjczYWRiZDI4NGYxNzVkMDhhZTk4ZWRkNDNjMTc5",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
     },
     {
+      "added_at": "2022-03-08 11:29:38",
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
       "added_at": "2023-05-25 04:52:50",
       "album": {
         "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
@@ -227,22 +243,6 @@
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM"
-    },
-    {
-      "added_at": "2022-03-08 11:29:38",
-      "album": {
-        "name": "Chaand Baaliyan",
-        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        }
-      ],
-      "duration_ms": 103264,
-      "name": "Chaand Baaliyan",
-      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
     },
     {
       "added_at": "2023-06-28 07:14:52",
@@ -277,54 +277,6 @@
       "url": "https://open.spotify.com/track/46hzNOUOAlivuCZZ0wE3zi"
     },
     {
-      "added_at": "2023-06-28 07:14:37",
-      "album": {
-        "name": "Zihaal e Miskin",
-        "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
-      },
-      "artists": [
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 243953,
-      "name": "Zihaal e Miskin",
-      "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
-    },
-    {
-      "added_at": "2023-02-27 12:06:29",
-      "album": {
-        "name": "Ranjha (Sid X Kiara Version)",
-        "url": "https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Prerna Arora",
-          "url": "https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7"
-        },
-        {
-          "name": "Ashwani Basoya",
-          "url": "https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm"
-        }
-      ],
-      "duration_ms": 118554,
-      "name": "Ranjha - Sid X Kiara Version",
-      "url": "https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM"
-    },
-    {
       "added_at": "2023-01-09 09:56:53",
       "album": {
         "name": "Ghodey Pe Sawaar (From \"Qala\")",
@@ -347,70 +299,6 @@
       "duration_ms": 193832,
       "name": "Ghodey Pe Sawaar (From \"Qala\")",
       "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
-    },
-    {
-      "added_at": "2021-08-10 09:32:02",
-      "album": {
-        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Channa Mereya (From \"Ae Dil Hai Mushkil\")",
-      "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
-    },
-    {
-      "added_at": "2023-01-09 10:06:27",
-      "album": {
-        "name": "Champagne Talk",
-        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Maan Meri Jaan",
-      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
-    },
-    {
-      "added_at": "2023-04-24 06:40:55",
-      "album": {
-        "name": "Woh Khuda - Nooran Sisters Version (From \"8 A.M. Metro\")",
-        "url": "https://open.spotify.com/album/0vLbLVKmqJdt2Qhy5IyPBb"
-      },
-      "artists": [
-        {
-          "name": "Jyoti Nooran",
-          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
-        },
-        {
-          "name": "Sultana Nooran",
-          "url": "https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG"
-        },
-        {
-          "name": "Mark K Robin",
-          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Woh Khuda (From \"8 A.M. Metro\") - Nooran Sisters Version",
-      "url": "https://open.spotify.com/track/7FawxM5cmh2NX03FAFumFt"
     },
     {
       "added_at": "2023-02-07 07:34:43",
@@ -439,38 +327,6 @@
       "duration_ms": 269184,
       "name": "Samjhawan",
       "url": "https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t"
-    },
-    {
-      "added_at": "2023-01-16 10:53:27",
-      "album": {
-        "name": "Qala (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Varun Grover",
-          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
-        },
-        {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        },
-        {
-          "name": "Swanand Kirkire",
-          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
-        }
-      ],
-      "duration_ms": 256284,
-      "name": "Shauq",
-      "url": "https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49"
     },
     {
       "added_at": "2023-02-06 12:09:02",
@@ -515,6 +371,38 @@
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+    },
+    {
+      "added_at": "2023-01-16 10:53:27",
+      "album": {
+        "name": "Qala (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "duration_ms": 256284,
+      "name": "Shauq",
+      "url": "https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49"
     },
     {
       "added_at": "2022-12-06 10:46:29",
@@ -567,6 +455,118 @@
       "duration_ms": 219686,
       "name": "Doobey (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
+    },
+    {
+      "added_at": "2023-04-24 06:40:55",
+      "album": {
+        "name": "Woh Khuda - Nooran Sisters Version (From \"8 A.M. Metro\")",
+        "url": "https://open.spotify.com/album/0vLbLVKmqJdt2Qhy5IyPBb"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Sultana Nooran",
+          "url": "https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG"
+        },
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Woh Khuda (From \"8 A.M. Metro\") - Nooran Sisters Version",
+      "url": "https://open.spotify.com/track/7FawxM5cmh2NX03FAFumFt"
+    },
+    {
+      "added_at": "2023-06-28 07:14:37",
+      "album": {
+        "name": "Zihaal e Miskin",
+        "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 243953,
+      "name": "Zihaal e Miskin",
+      "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
+    },
+    {
+      "added_at": "2023-02-27 12:06:29",
+      "album": {
+        "name": "Ranjha (Sid X Kiara Version)",
+        "url": "https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Prerna Arora",
+          "url": "https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7"
+        },
+        {
+          "name": "Ashwani Basoya",
+          "url": "https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm"
+        }
+      ],
+      "duration_ms": 118554,
+      "name": "Ranjha - Sid X Kiara Version",
+      "url": "https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM"
+    },
+    {
+      "added_at": "2021-08-10 09:32:02",
+      "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Channa Mereya (From \"Ae Dil Hai Mushkil\")",
+      "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
+    },
+    {
+      "added_at": "2023-01-09 10:06:27",
+      "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Maan Meri Jaan",
+      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
     },
     {
       "added_at": "2023-01-24 09:58:52",

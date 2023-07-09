@@ -6,8 +6,184 @@
     "name": "Jacques Greene",
     "url": "https://open.spotify.com/user/philippeaubindionne"
   },
-  "snapshot_id": "MTE3MCw2MTI1OGVjZDMxNjVkOGFjNDBhOTEyZjg1MGVhZmE3NDlhZGRiYTNj",
+  "snapshot_id": "MTE3Myw3MDJjODQ4M2Q2MDQxYTg2YjkyNWUxYzVkNDUxODc0OWNlZDY5MjM0",
   "tracks": [
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Valle Niza",
+        "url": "https://open.spotify.com/album/6u1YpCbFsxoJs0PVglI905"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        },
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6CuZuZ86qtrblvFTbAOrkt"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/3xRwDGeiqYzZx4pCqBfQep"
+      },
+      "artists": [
+        {
+          "name": "Beta Librae",
+          "url": "https://open.spotify.com/artist/5aOx0DSs7guwHbcE4R4FIx"
+        },
+        {
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "duration_ms": 264044,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/2Q49SbtXKqhiKGCZhg4fNd"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "The Head Hurts but the Heart Knows the Truth",
+        "url": "https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x"
+      },
+      "artists": [
+        {
+          "name": "Headache",
+          "url": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH"
+        }
+      ],
+      "duration_ms": 308500,
+      "name": "Business Opportunities",
+      "url": "https://open.spotify.com/track/5raTOwORf2ITmMFLh0tD2b"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Echo (Huna Edit)",
+        "url": "https://open.spotify.com/album/6miWzsOhLwQaprbr8ID8yb"
+      },
+      "artists": [
+        {
+          "name": "RAPRAVE",
+          "url": "https://open.spotify.com/artist/0V0KRijac0RiM8gsdh2UZa"
+        },
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        },
+        {
+          "name": "HUNA",
+          "url": "https://open.spotify.com/artist/2QvAPKCsRJwBC2YIraulhr"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Echo - Huna Edit",
+      "url": "https://open.spotify.com/track/1Q9FBsIfqS9OiktSpxzFjb"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "From Here We Go Sublime",
+        "url": "https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO"
+      },
+      "artists": [
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "From Here We Go Sublime",
+      "url": "https://open.spotify.com/track/50GjiqApQrBUcYs4EYpMfz"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Older Now",
+        "url": "https://open.spotify.com/album/1afuIBP1SEZOtqzeVc7aL7"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "duration_ms": 117375,
+      "name": "DS Glitch",
+      "url": "https://open.spotify.com/track/3qbDIBZNPuZEviLbI2HzlA"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "UMI Says",
+      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+    },
+    {
+      "added_at": "2023-07-06 21:11:51",
+      "album": {
+        "name": "Sd-1",
+        "url": "https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ"
+      },
+      "artists": [
+        {
+          "name": "Louke Man",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 122293,
+      "name": "Easiest4u",
+      "url": "https://open.spotify.com/track/0FDLdCZ3iEqMoby10BmWLf"
+    },
     {
       "added_at": "2023-06-12 20:37:18",
       "album": {
@@ -12715,6 +12891,22 @@
       "duration_ms": 195431,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/6xes1eufGQdmndjTQH6tkT"
+    },
+    {
+      "added_at": "2023-07-07 21:56:56",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     }
   ],
   "unique_name": "JG ~ Dusk Til... \ud83d\udcab",

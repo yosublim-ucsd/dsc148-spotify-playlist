@@ -4,7 +4,7 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-98 songs - 8 hr 38 min
+99 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Love for You](https://open.spotify.com/track/6FAgDSByGGc6Jb0GAa0F1q) | [Fruhwerk](https://open.spotify.com/artist/7B0VnUS4cZggX5pdt0f0ml) | [Love for You](https://open.spotify.com/album/7jx2ZuPvUxbaeW3AsLQ7eU) | 4:55 | 2023-01-09 | 2023-04-05 |
 | [Make You Freak](https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Make You Freak](https://open.spotify.com/album/5NSptPSZRkY5uWJo7Hg0vg) | 3:48 | 2023-02-07 | 2023-04-23 |
 | [Missing Channel \- Original Mix](https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 6:32 | 2022-10-31 | 2023-05-10 |
+| [Modern Dystopia](https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Modern Dystopia](https://open.spotify.com/album/5wXhentTUReOCMVyvfhSaO) | 3:37 | 2023-07-06 |  |
 | [Monsters](https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb) | [Advokate](https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Monsters](https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69) | 3:47 | 2023-05-09 |  |
 | [Never Be The Same \- Kaspar Remix](https://open.spotify.com/track/0qJBk7XNvoIxgknQTgcppH) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Never Be The Same \(Kaspar Remix\)](https://open.spotify.com/album/4n16aENzON8YsEV27RTZ8J) | 6:05 | 2023-05-26 |  |
 | [Off Limits](https://open.spotify.com/track/3w8mOXGZMAY1JIcms9ibmo) | [Rina Mirai](https://open.spotify.com/artist/5RijUBJ7PAxbOci9F4R4mx) | [Off Limits](https://open.spotify.com/album/0UMxjtewdQnCGzXDYRlPnp) | 5:08 | 2023-04-22 |  |

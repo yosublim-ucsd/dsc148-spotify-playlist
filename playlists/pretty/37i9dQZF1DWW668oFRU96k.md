@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: JAX JONES x Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,613 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,621 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 6 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 7 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
 | 8 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
-| 9 | [North Star](https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG) | [North Star](https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY) | 3:09 |
+| 9 | [North Star](https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [North Star](https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY) | 3:09 |
 | 10 | [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 |
 | 11 | [Give It To You Like](https://open.spotify.com/track/7GIEHK5wi5GaIR1YJu6TBI) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Give It To You Like](https://open.spotify.com/album/5wxFWJWLCwv0m7dJAe1MQn) | 3:00 |
 | 12 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 68 | [Keeping Love \- Sola Fae Remix](https://open.spotify.com/track/5WS8LisAqu0oe1BYSEdv0u) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love \(Sola Fae Remix\)](https://open.spotify.com/album/6IpYlw9sPjon156HVs76kQ) | 2:50 |
 | 69 | [The World In My Head](https://open.spotify.com/track/1IY3lGtLsdgEaxod2MdvOJ) | [Zedx](https://open.spotify.com/artist/66E29rNaIWerJcsIBf2uMd), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [The World In My Head](https://open.spotify.com/album/4viBQpuOzuGFnAWlvz4mll) | 2:21 |
 
-Snapshot ID: `MCwyNjIwZTE4ZGE5MTJiYTE5YTNkYTY4M2RkYjAxM2FhOTg1ZTBmN2U5`
+Snapshot ID: `MCxmNTUxY2NiNjY4ZjM0Mjk1YWQyMGEyNWQ1MWE2ZWZiNGYwNWNlMjMy`

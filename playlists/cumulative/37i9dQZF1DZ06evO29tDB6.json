@@ -258,10 +258,36 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 442800,
       "name": "Encuentros cercanos del 3er. sexo - En vivo",
       "url": "https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm"
+    },
+    {
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/5p5V4KWu8WYfOiFrOM0Xk1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Nacho Cano",
+          "url": "https://open.spotify.com/artist/3sNPNZwXgDcCY71Jqa7kMe"
+        },
+        {
+          "name": "Reparto Original Malinche El Musical",
+          "url": "https://open.spotify.com/artist/414Ri5Zew60OnucnMZ0ZNg"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/4CylBNj92fpsrBDF897Amk"
     },
     {
       "album": {
@@ -908,6 +934,28 @@
       "duration_ms": 203573,
       "name": "Triste canci\u00f3n de amor (con El Tri)",
       "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n de Amor (Remix)",
+        "url": "https://open.spotify.com/album/4tfabT7g2WL02c2blHZZLJ"
+      },
+      "artists": [
+        {
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222556,
+      "name": "Triste Canci\u00f3n de Amor - Remix",
+      "url": "https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J"
     },
     {
       "album": {

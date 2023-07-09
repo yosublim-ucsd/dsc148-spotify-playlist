@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-330 songs - 14 hr 49 min
+331 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2022-08-01 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |
 | [Sunday Walk](https://open.spotify.com/track/16weBcKoT5JR4PjgFywQPO) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Sunday Walk](https://open.spotify.com/album/1BYrkKeypnXI3MzODZaSZC) | 2:22 | 2022-08-01 |  |
-| [Survivor](https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/2cpFdGNeFHT99X4oHmDQe0) | 2:15 | 2022-08-01 |  |
+| [Survivor](https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/2cpFdGNeFHT99X4oHmDQe0) | 2:15 | 2022-08-01 | 2023-07-09 |
+| [Survivor](https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/4bdufFgrqgkNspDZLf1Hjd) | 2:15 | 2023-07-03 |  |
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2022-08-01 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2022-08-01 |  |
 | [Sweet Memories](https://open.spotify.com/track/7vv3UtPoCPKD5WO7Y74Ixz) | [Salvatore Altavilla](https://open.spotify.com/artist/1fdryWe2TzsSVCIBB46nCv) | [Sweet Memories](https://open.spotify.com/album/7vjIEiPtRQDjaS5CTWYFBm) | 2:31 | 2022-10-04 | 2023-04-05 |

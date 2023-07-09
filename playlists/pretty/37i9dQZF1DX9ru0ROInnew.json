@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 92186,
+  "num_followers": 92243,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "A Young Past",
+        "url": "https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X"
+      },
+      "artists": [
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+        },
+        {
+          "name": "Joel Ney",
+          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+        }
+      ],
+      "duration_ms": 281734,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "A Young Past",
-        "url": "https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X"
-      },
-      "artists": [
-        {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        },
-        {
-          "name": "Joel Ney",
-          "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
-        }
-      ],
-      "duration_ms": 281734,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Cambio de Clima",
         "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 241520,
       "name": "No Ando Solo",
       "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Real G's",
         "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 245232,
       "name": "Real G's",
       "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",

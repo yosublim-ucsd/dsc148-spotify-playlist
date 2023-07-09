@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 350918,
+  "num_followers": 351020,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQwNzhiMzYxNjRiYTJjMWYzM2MzMmNlODk4NTZiMDczZmY5OWEx",
+  "snapshot_id": "MCxmNmYxMzdiMTZhY2Y1NTM5YzhkNzE3MDU4NjY0ZmRiZDg4ZTMzZGUy",
   "tracks": [
     {
       "added_at": "2023-06-22 14:21:46",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Long Live The Kane",
-        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "Ain't No Half-Steppin'",
-      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "As Nasty As They Wanna Be",
         "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 276466,
       "name": "Me So Horny",
       "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Long Live The Kane",
+        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 319906,
+      "name": "Ain't No Half-Steppin'",
+      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Strictly Business",
-        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 METAL",
+        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
       },
       "artists": [
         {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
         }
       ],
-      "duration_ms": 285413,
-      "name": "Strictly Business",
-      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+      "duration_ms": 338320,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
       "artists": [
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
         }
       ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
+      "duration_ms": 285413,
+      "name": "Strictly Business",
+      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -635,6 +635,22 @@
       "duration_ms": 226040,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 METAL",
-        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 338320,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 422493,
       "name": "Looking for the Perfect Beat - Original 12\" Version",
       "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 266026,
       "name": "Colors - 2014 Remaster",
       "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "I'm Bad",
-      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -947,6 +931,22 @@
       "duration_ms": 340133,
       "name": "My Philosophy",
       "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "I'm Bad",
+      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Critical Beatdown (Re-Issue)",
-        "url": "https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ"
-      },
-      "artists": [
-        {
-          "name": "Ultramagnetic MC's",
-          "url": "https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z"
-        }
-      ],
-      "duration_ms": 326680,
-      "name": "Ego Trippin'",
-      "url": "https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 308558,
       "name": "South Bronx",
       "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Critical Beatdown (Re-Issue)",
+        "url": "https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ"
+      },
+      "artists": [
+        {
+          "name": "Ultramagnetic MC's",
+          "url": "https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z"
+        }
+      ],
+      "duration_ms": 326680,
+      "name": "Ego Trippin'",
+      "url": "https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo"
     },
     {
       "added_at": "2023-06-22 14:21:46",

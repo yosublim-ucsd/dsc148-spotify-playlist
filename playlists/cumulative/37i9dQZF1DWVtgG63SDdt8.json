@@ -17272,7 +17272,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 242481,
       "name": "Faith!?",
       "url": "https://open.spotify.com/track/5M9GCkebVFxSBbth4sqeV3"
@@ -27260,7 +27260,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 221325,
       "name": "Hidden Here",
       "url": "https://open.spotify.com/track/6R6owafbjuXsvtWPD39tDH"
@@ -30036,6 +30036,24 @@
       "duration_ms": 178889,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/4fOZdPNeiis8aa6o5jC4QS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/0XlwlhLvtkFHTBLdKECNaK"
     },
     {
       "album": {
@@ -55072,6 +55090,24 @@
       "duration_ms": 192946,
       "name": "Quiet Mind",
       "url": "https://open.spotify.com/track/5YOWx1Q5Ad1S5EPleZIhr1"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7fMrH4FsutX7omFDtrYWSu"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adelle",
+          "url": "https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195179,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4OlqlozjYRNmQWUK42hzDx"
     },
     {
       "album": {

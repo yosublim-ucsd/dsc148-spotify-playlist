@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 64627,
+  "num_followers": 64747,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBmZjM4NTA1M2NiNGY1ZjZjZDcwZmMzMTVkM2VjZGJlNzkxOGRm",
+  "snapshot_id": "MCxkYTU1Yjc4N2IzMTA0ZmE5OGQwODU2NmNhMTAxMmI3NWMwNzU2YTZk",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -59,7 +59,7 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Hello Dolly To Goodbye Charlie",
+        "name": "From Hello Dolly To Goodbye Charlie",
         "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
       },
       "artists": [
@@ -69,7 +69,7 @@
         }
       ],
       "duration_ms": 124560,
-      "name": "Call Me Irresponsible",
+      "name": "Call Me Irresponsible - 2001 Remaster",
       "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
     },
     {
@@ -85,7 +85,7 @@
         }
       ],
       "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
+      "name": "On The Street Where You Live - 1998 Remaster",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
-        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "It's A Lovely Day Today",
-      "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "How Glad I Am",
         "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 134213,
       "name": "The Boy From Ipanema",
       "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
+        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "It's A Lovely Day Today",
+      "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Just You, Just Me - Remastered 1999",
-      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Motions & Emotions",
         "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 174641,
       "name": "Wandering - Remastered",
       "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Just You, Just Me - Remastered 1999",
+      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
-      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
+      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Mel Torm\u00e9 Sings Fred Astaire (Original Recording Remastered 2013)",
-        "url": "https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 188594,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/7gczaB86KEDi6D6Uic4vtM"
+      "duration_ms": 108826,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1583,38 +1583,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+        "name": "Mel Torm\u00e9 Sings Fred Astaire (Original Recording Remastered 2013)",
+        "url": "https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
         }
       ],
-      "duration_ms": 108826,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Bing Sings Whilst Bregman Swings",
-        "url": "https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Buddy Bregman",
-          "url": "https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX"
+      "duration_ms": 188594,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/7gczaB86KEDi6D6Uic4vtM"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1635,6 +1615,26 @@
       "duration_ms": 193000,
       "name": "Es wird scho glei dumpa",
       "url": "https://open.spotify.com/track/2mv1XxJC01PpzrzVCTEO5P"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Bing Sings Whilst Bregman Swings",
+        "url": "https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Buddy Bregman",
+          "url": "https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Improvisations for the Human Voice",
+        "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
+      },
+      "artists": [
+        {
+          "name": "Annie Ross",
+          "url": "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Farmer's Market",
+      "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Harmonica Jazz",
         "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 132144,
       "name": "Cocktails For Two",
       "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "It's a Blue World (2015 Remastered Version)",
-        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Till the Clouds Roll By - 2015 Remastered Version",
-      "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"
     }
   ],
   "unique_name": "Sunny Day Jazz",

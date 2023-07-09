@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 263122,
+  "num_followers": 263381,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjkxMzgxZTE4N2U3MDBlNGI5N2Q1NjRmN2FkMDg4OWE1MGRiZDA1",
+  "snapshot_id": "MCw4ODA4MzY2MDYxNDk3ODg2Y2Q5MTFhYzIyM2FlYTIxZWM5YzM2MDZh",
   "tracks": [
     {
       "added_at": "2023-07-04 12:38:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -999,6 +999,30 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "La rose \u00e9ternelle",
         "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 176164,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     }
   ],
   "unique_name": "mosaic",

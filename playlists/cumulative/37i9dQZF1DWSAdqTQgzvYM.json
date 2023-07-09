@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Macaroni Birthday Time",
+        "url": "https://open.spotify.com/album/5f0E7TWBJpzg9HeD3wiXQE"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Birthday",
+          "url": "https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101236,
+      "name": "Be Who You Are",
+      "url": "https://open.spotify.com/track/3fj90gpAHZo0fz2IGFG8oC"
+    },
+    {
+      "album": {
         "name": "Be Who You Are",
         "url": "https://open.spotify.com/album/31Mv3LvRbBQ6cewJaiSzvO"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 101236,
       "name": "Be Who You Are",
       "url": "https://open.spotify.com/track/3gAZlrpdu3YUd8hTBkAnXp"

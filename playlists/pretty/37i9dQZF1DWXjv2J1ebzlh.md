@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,025 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,069 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 234 | [Mother Witch \- Shuhusuhu](https://open.spotify.com/track/0TA1I9SGjvCxLDh9vhxRGv) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sir Victor Uwaifo: Guitar Boy Superstar 1970\-76](https://open.spotify.com/album/4fWQefyQN7TwNjemfsDbTT) | 3:29 |
 | 235 | [Obi Agye Me Dofo](https://open.spotify.com/track/3GN1GkAlZ1hd59ek8ySru7) | [Vis a Vis](https://open.spotify.com/artist/0zX9gAaZYmBeJwSlJSV2bm) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 9:50 |
 | 236 | [ดรรชนีไฉไล](https://open.spotify.com/track/5CFT4DTe47cYReevLZ08pk) | [สุรพล สมบัติเจริญ](https://open.spotify.com/artist/37Spq0XXQKSIaOKjFkCGhO) | [น้ำตาจ่าโท](https://open.spotify.com/album/4YBUMYO10oCqvrMIti7Wk0) | 3:14 |
-| 237 | [Deixa a Tristeza](https://open.spotify.com/track/3AZCLawFCY4vkPfULZkfZu) | [Neno Exporta Som](https://open.spotify.com/artist/4KNx7O3WMhmJtp5T3C2YBT) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 3:27 |
+| 237 | [Deixa a Tristeza](https://open.spotify.com/track/5uRQBRTedmdpDKaQyAjGvF) | [Neno Exporta Som](https://open.spotify.com/artist/4KNx7O3WMhmJtp5T3C2YBT) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 3:27 |
 | 238 | [The Message](https://open.spotify.com/track/364k0PwcNv842UUjmleIN9) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [The Message \(Analog Africa Dance Edition No\. 9\)](https://open.spotify.com/album/0brmDZ18UVq39dLEbJEHk0) | 7:47 |
 | 239 | [Sidet Eskemeche](https://open.spotify.com/track/047oT92afW2LN6K1EeB9Re) | [Dexter Story](https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq), [Yared Teshale](https://open.spotify.com/artist/1wdWyGEy7qAGwLxsIW5azQ) | [Wondem](https://open.spotify.com/album/4KOKUW5Zo0G7Kwao30GLLA) | 2:44 |
 | 240 | [Pânico Geral](https://open.spotify.com/track/7dfr71bUMbb2nK2md4k1l0) | [Grupo Controle Digital](https://open.spotify.com/artist/5uNisGq3ouLS89g12oOWtk) | [A Festa É Nossa](https://open.spotify.com/album/2V09pctdsFAFvEHlU33aGU) | 2:59 |
@@ -270,7 +270,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 260 | [Lady Rain](https://open.spotify.com/track/0CzoQCylIwa6OXUACZY935) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:10 |
 | 261 | [I Want You Back](https://open.spotify.com/track/4Pt5fmpEyGL70yXOxUYVNI) | [Esso Trinidad Steel Band](https://open.spotify.com/artist/0cMTpw95Av39PkJH3VAo39) | [Esso Trinidad Steel Band](https://open.spotify.com/album/49Jdj6U9Cfj3d8bhcdc1M8) | 2:17 |
 | 262 | [Tristeza Pé No Chão](https://open.spotify.com/track/41dv2yJDlnhrhFUTeM3jOq) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Raizes Do Samba](https://open.spotify.com/album/0lszlgC6tC0RxQmphoVhfF) | 3:20 |
-| 263 | [Jesus Christo](https://open.spotify.com/track/1MRuheJllwPfQcqxQ97ySK) | [Claudia Balla](https://open.spotify.com/artist/34N5ocYPR5V8clnUnRxnzO) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 3:26 |
+| 263 | [Jesus Christo](https://open.spotify.com/track/3fP2KANlk8mrnmOQndsuD6) | [Claudia Balla](https://open.spotify.com/artist/4ZiDM1wYPCnsZzb8bNo7yK) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 3:26 |
 | 264 | [Zvichapera](https://open.spotify.com/track/0EB6LdcMyj0SHhCAR45CRi) | [Chiwoniso](https://open.spotify.com/artist/5wDUccrtIJwwjOtqed0FrW) | [Zvichapera](https://open.spotify.com/album/6iMCoa8WkNpHSnRdDuMWlA) | 4:05 |
 | 265 | [Gypsy Woman \- Demo Version](https://open.spotify.com/track/17v2ohSG0hO8u2AjKaU6MR) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Under The Streetlamps: Anthology 1967\-72](https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq) | 4:06 |
 | 266 | [Na Palma Da Mão](https://open.spotify.com/track/2bxpTuSEQC9pjAFQOQOlaX) | [União Black](https://open.spotify.com/artist/4ySHVF5d9PxH1v23cOf1lE) | [Banda União Black](https://open.spotify.com/album/7BpQza3VU2kl27I7tGyy0r) | 2:58 |
@@ -1044,7 +1044,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1034 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 |
 | 1035 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
 | 1036 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
-| 1037 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/7DIS6KwM0AEYeMc63lRtnh) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/4s5TDr6VcRzoZro42p5lHP) | 6:44 |
+| 1037 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/4KB3zx8o2ljshzXYtvJsy4) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 6:44 |
 | 1038 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
 | 1039 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 1040 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`
+Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`

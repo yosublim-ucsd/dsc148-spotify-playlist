@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 460359,
+  "num_followers": 460667,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2ZjZTlmNWIzODEyNDMwNjJiYzdlZDE1ZTYwOWRkMGUwNGM5MzU0",
+  "snapshot_id": "MCxiYzE3OTE5NjhkMmNiYzY4MTY4NDg3NGRlZDdhMDBjMWMyZDhkM2U3",
   "tracks": [
     {
       "added_at": "2023-07-06 15:05:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-06 15:05:34",
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 341413,
-      "name": "Shinzo wo Sasageyo!",
-      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
-    },
-    {
-      "added_at": "2023-07-06 15:05:34",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2023-07-06 15:05:34",
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
     },
     {
       "added_at": "2023-07-06 15:05:34",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-06 15:05:34",
       "album": {
-        "name": "\u708e",
-        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "\u708e",
-      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
-    },
-    {
-      "added_at": "2023-07-06 15:05:34",
-      "album": {
         "name": "BEST HIT AKG",
         "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 243346,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
+    },
+    {
+      "added_at": "2023-07-06 15:05:34",
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
       "added_at": "2023-07-06 15:05:34",

@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 64066,
+  "num_followers": 64168,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWY1OWFlNmU4MTIyZWIzZTVhYmQ0M2M5ZTQxNDZiNTg0MWE5M2Vj",
+  "snapshot_id": "MCw5YjcyNjdmMzViYTBjY2ZkNTM1ZWU3MzAwY2NjMzkxNDZiYjViZGE5",
   "tracks": [
     {
       "added_at": "2023-06-21 12:07:12",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "I Only Have Eyes for You",
-        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
-      },
-      "artists": [
-        {
-          "name": "Hugo Winterhalter And His Orchestra",
-          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "You'll Never Know - Instrumental",
-      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "My Way Of Music",
         "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 217266,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "I Only Have Eyes for You",
+        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+      },
+      "artists": [
+        {
+          "name": "Hugo Winterhalter And His Orchestra",
+          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "You'll Never Know - Instrumental",
+      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
+        "name": "Film Festival",
+        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
+      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 188240,
       "name": "Fools Rush In (Where Angels Fear to Tread)",
       "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Film Festival",
-        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
-      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 171520,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "The Essential Henry Mancini",
         "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 160693,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -491,22 +507,6 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-06-21 12:07:12",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-21 12:07:12",
       "album": {
-        "name": "Big Band Bash!",
-        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "My Last Affair",
-      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
-    },
-    {
-      "added_at": "2023-06-21 12:07:12",
-      "album": {
         "name": "Around the World, Vol. 2",
         "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 148053,
       "name": "Majorcan Holiday",
       "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
+    },
+    {
+      "added_at": "2023-06-21 12:07:12",
+      "album": {
+        "name": "Big Band Bash!",
+        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
     },
     {
       "added_at": "2023-06-21 12:07:12",

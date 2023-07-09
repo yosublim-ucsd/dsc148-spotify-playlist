@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 283550,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 240653,
       "name": "Feel No Ways",
       "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
@@ -8453,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
+    },
+    {
+      "album": {
         "name": "Watching Movies with the Sound Off (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4aia9Kt2F3gjPKfHA0nZXa"
       },
@@ -8464,7 +8482,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/74IwzlYDUdP3OLVsEpFojX"
@@ -9437,6 +9455,28 @@
     },
     {
       "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367930,
+      "name": "Red Dot Music (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/3G8xKBPsOgViF0V9ffwozx"
+    },
+    {
+      "album": {
         "name": "Watching Movies with the Sound Off (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4aia9Kt2F3gjPKfHA0nZXa"
       },
@@ -9452,7 +9492,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 367930,
       "name": "Red Dot Music (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6kUHlmI4uSLQYzp8tUa3dD"

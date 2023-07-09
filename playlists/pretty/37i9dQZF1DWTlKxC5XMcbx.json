@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56862,
+  "num_followers": 56870,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmI0MGRmZjk2ZjM5NWE1YTIxMWRiN2IxMDYxYTdiMTAyY2Q3ZTFi",
+  "snapshot_id": "MCwwNTMxMmMyNTlhM2RhODYxMGMxMDk5YzMwOTFjMDEwNzZiZGIxM2Nh",
   "tracks": [
     {
       "added_at": "2023-06-26 03:30:57",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 306226,
-      "name": "I Got It Bad And That Ain't Good",
-      "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 165560,
       "name": "It's Easy To Remember",
       "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 306226,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Speak No Evil",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 414240,
-      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Room 29",
         "url": "https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 212991,
       "name": "The Tearjerker Returns",
       "url": "https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414240,
+      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
+        "name": "Everything I Play Is Funky",
+        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 431266,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
-        "name": "Everything I Play Is Funky",
-        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 431266,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 372786,
-      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 292093,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 426800,
       "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
         "name": "Save US",
         "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+          "name": "Paul Bley Trio",
+          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
         }
       ],
-      "duration_ms": 192893,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+      "duration_ms": 177920,
+      "name": "Ida Lupino",
+      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1143,22 +1159,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
-      },
-      "artists": [
-        {
-          "name": "Paul Bley Trio",
-          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Ida Lupino",
-      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 333346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 333346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
         "name": "The Gotland Session",
         "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "The Original Quartet With Chet Baker",
-        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Bob Acri",
         "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 201226,
       "name": "Sleep Away",
       "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
     },
     {
       "added_at": "2023-06-26 03:30:57",

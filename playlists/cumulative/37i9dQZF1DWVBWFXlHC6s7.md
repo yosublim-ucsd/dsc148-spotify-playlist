@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-53 songs - 3 hr 19 min
+54 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Côco do Macaco](https://open.spotify.com/track/063q4X3EdUKyLVfGo4PSF0) | [Sócrates E As Garotas](https://open.spotify.com/artist/4816McLygy1Or3arIFVN5u) | [Côco do Macaco](https://open.spotify.com/album/5lfewZ1HFVHwm6yQbZmErN) | 3:29 | 2023-01-20 | 2023-07-01 |
 | [De alegria raiou o dia](https://open.spotify.com/track/7IFwTykJguQpyDoAu9hj5a) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ) | [Pra que vou recordar](https://open.spotify.com/album/0kwhUml3QMwRaA2LsWN0my) | 3:38 | 2023-01-20 |  |
 | [E O Espetáculo Continua](https://open.spotify.com/track/0mNK2GQOs0Y8TFFQo4Fr1q) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Roupa Nova \(1981\)](https://open.spotify.com/album/4fB4jcW0KgBhVsO1l8lJ8P) | 3:20 | 2023-01-20 |  |
-| [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2023-01-20 |  |
+| [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 | 2023-06-30 |  |
+| [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2023-01-20 | 2023-07-09 |
 | [Estou Livre](https://open.spotify.com/track/4wQsadZBQqUX0uFXPHylcN) | [Tony Bizarro](https://open.spotify.com/artist/4Eev3uY6rsEe2XheMKXWZX) | [Estou Livre \(Remixes\)](https://open.spotify.com/album/031gLsHm36Z8lqjY7ZOAyY) | 4:00 | 2023-01-20 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2023-01-20 |  |
 | [Fale De Mim \- Mendel Edit](https://open.spotify.com/track/2ryRIpcDBPwWLoSO9ftOd5) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2), [Mendel](https://open.spotify.com/artist/49yqlsZAJePjlhRcPUcNn6) | [Fale De Mim \(Mendel Edit\)](https://open.spotify.com/album/1ia2wFMYdfvxtMFFlXshnA) | 3:52 | 2023-01-20 |  |

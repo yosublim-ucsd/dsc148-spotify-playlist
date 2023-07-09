@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-436 songs - 1 day 13 hr 30 min
+438 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 | 2022-05-13 | 2022-07-28 |
 | [Agnus Dei](https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc) | [Funeral Mist](https://open.spotify.com/artist/2HDKz66BGq7RI2wEoMgPcv) | [Salvation](https://open.spotify.com/album/4aa0c088fBY0PYvrhKVEp2) | 4:33 | 2022-07-13 | 2022-07-27 |
-| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 |  |
+| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 | 2023-07-09 |
 | [Among the Unseen Ones](https://open.spotify.com/track/23h8JMaMMLe414X17cJaWF) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [While the Gods Are Sleeping](https://open.spotify.com/album/7qVN7yi6GFqfsItbmaqWbJ) | 5:39 | 2022-05-06 | 2022-06-11 |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
@@ -114,7 +114,7 @@
 | [Divinertia II](https://open.spotify.com/track/3OV7o6tsKLQGdSXGoTfeos) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Divinertia II](https://open.spotify.com/album/5iZDKEYZMjQnYpEH5gPgMM) | 5:23 | 2023-06-16 | 2023-07-04 |
 | [Djennaration](https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg) | [Liturgy](https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1) | [93696](https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY) | 8:20 | 2023-03-24 | 2023-04-22 |
 | [Dolls](https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC) | [Dark Lunacy](https://open.spotify.com/artist/63P5FOHij9qylmUA4rjHwQ) | [Devoid](https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk) | 7:07 | 2023-06-02 |  |
-| [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renkse](https://open.spotify.com/artist/5ttMur3R8GpuNimbWm1xn0) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 | 2023-03-03 |  |
+| [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renkse](https://open.spotify.com/artist/5ttMur3R8GpuNimbWm1xn0) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 | 2023-03-03 | 2023-07-09 |
 | [Don't Stop](https://open.spotify.com/track/1Lnfd2Tckcl68nhmb2J6Z7) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Don't Stop](https://open.spotify.com/album/2YNGh06TPSOMxj2AhHC1vR) | 4:04 | 2023-06-16 | 2023-07-04 |
 | [Drained of Color](https://open.spotify.com/track/5lrKrPesGrJIX681A3wEKR) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [Drained of Color](https://open.spotify.com/album/3n92juc9UgRjeqzywQW937) | 4:32 | 2022-09-01 | 2022-10-09 |
 | [Dream Cull](https://open.spotify.com/track/6egSfQ3dDoQjaD06KnM4Fe) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dream Cull](https://open.spotify.com/album/7nuXTkFRkZ6hwNAsFIN3hV) | 4:15 | 2022-01-14 | 2022-03-19 |
@@ -155,6 +155,7 @@
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-07-13 |  |
 | [Freezing Moon](https://open.spotify.com/track/6NNzTfx7q6BSGot1bryQuk) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/4O9K2VUsGve0wJl49AG0Mu) | 6:23 | 2022-07-13 | 2022-07-29 |
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-07-13 |  |
+| [From The Inside](https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [From The Inside](https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2) | 6:08 | 2023-07-07 |  |
 | [Frozen](https://open.spotify.com/track/11Vs5xEJo83ER1lA1ENODr) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/3vKmJeFC2mwcxI1QoumQ95) | 3:28 | 2022-07-13 | 2022-07-28 |
 | [Frozen](https://open.spotify.com/track/3iRC1B4yp9fGXMrpCEsWc6) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/0tDQkjDWcKYpuMPpCOSyYV) | 3:28 | 2022-07-13 | 2022-08-20 |
 | [Frozen](https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I) | 3:28 | 2022-10-07 | 2023-07-04 |
@@ -204,6 +205,7 @@
 | [I Resign](https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [I Resign](https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro) | 3:53 | 2023-04-20 | 2023-05-20 |
 | [I Troldskog Faren Vild](https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 7:51 | 2022-07-13 | 2023-07-04 |
 | [Il se vide lentement](https://open.spotify.com/track/5e2K4GKwyDSxrinYCt7WnP) | [CELESTE](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Il se vide lentement](https://open.spotify.com/album/50zzzL5LwCUG4tcUiytHL2) | 4:19 | 2023-07-03 |  |
+| [In Abeyance](https://open.spotify.com/track/5kMqGe9AgwZmgYSl6cQu1o) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [In Abeyance](https://open.spotify.com/album/6TxLiQzD4gg3dHNCuTA4GF) | 2:55 | 2023-07-07 |  |
 | [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 | 2022-07-13 |  |
 | [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 | 2023-04-28 | 2023-06-01 |
 | [In the Shadow of the Horns](https://open.spotify.com/track/3OJNfu0G5Ooab1ZlNCdQyb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze in the Northern Sky](https://open.spotify.com/album/3eE6kwrlKF0RFYMVExCC0O) | 7:01 | 2022-07-13 | 2022-07-29 |

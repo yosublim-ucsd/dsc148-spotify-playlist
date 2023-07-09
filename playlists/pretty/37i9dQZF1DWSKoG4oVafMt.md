@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,753 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,849 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 52 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 |
 | 53 | [Sifat](https://open.spotify.com/track/4RxSQlQNHdlotqEq2GLpNI) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Sifat](https://open.spotify.com/album/4OTSOeM7hmbCXMh3i4LHVu) | 2:26 |
 | 54 | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 |
-| 55 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 |
+| 55 | [Jaane Meriye](https://open.spotify.com/track/6m52WOS01Vm4r7sk6bBkZ5) | [Akhil](https://open.spotify.com/artist/0by2DLDdi20jCrhyf2DnBc) | [Jaane Meriye](https://open.spotify.com/album/6kXTUjRBsL3mWusw1hSkXR) | 3:53 |
 | 56 | [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 |
 | 57 | [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 |
 | 58 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 73 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 74 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCw4Mjg0YTJjMmZiMGNmMjA1NWY1YjVlOGI3NDRhNWRlMDhmMDI3MWQ0`
+Snapshot ID: `MCwwOTE5YmFhMmRkY2QwNGRjYmUwNDdiMjU0ZTM4Y2U3Mzk1MzkwNTAy`

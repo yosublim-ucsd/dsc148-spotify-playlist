@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,676 likes - 200 songs - 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,912 likes - 200 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 81 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 82 | [Misfit](https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3) | [Joe Jam Sumrell](https://open.spotify.com/artist/3d6KL8ojlbObgyImmZTpEm), [Day 7](https://open.spotify.com/artist/5bSQh428JevlpqlqHInzy6) | [Misfit](https://open.spotify.com/album/1SnBz7YabIvC7Ho1rmkdQg) | 3:41 |
 | 83 | [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 |
-| 84 | [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 |
+| 84 | [Take a Breath \(Live\)](https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [O.T.S\. \(Live\)](https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1) | 5:27 |
 | 85 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
 | 86 | [Miles Chases New Voodoo In The Church \- Single Edit](https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb) | [London Brew](https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb), [Benji B](https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Tom Herbert](https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Nikolaj Torp Larsen](https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt), [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F), [Nick Ramm](https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL), [Dan See](https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux), [Tom Skinner](https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm), [Martin Terefe](https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR) | [Miles Chases New Voodoo In The Church](https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3) | 3:14 |
 | 87 | [The Drift](https://open.spotify.com/track/6hN3QEjiGsvHUoKYQxX6ZN) | [Robby Krieger](https://open.spotify.com/artist/6sKdTMcmqO5te16RNTmp0Z) | [The Ritual Begins At Sundown](https://open.spotify.com/album/44XkRaVS0ih0ITOR7frLy3) | 5:35 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxkZjdmODc2YTc2NDZjZjUwZTA1ZGE0ZjQxZTVkMTcwNDFmNzZkOGVh`
+Snapshot ID: `MCw4OTMxODZhOWQwOWY0NmZkMDBlOGE3NWU2MzYwZWU0ZmUxYjViNzIz`

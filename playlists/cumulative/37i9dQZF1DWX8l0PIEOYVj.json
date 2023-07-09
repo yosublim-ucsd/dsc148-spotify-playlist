@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 242181,
       "name": "Journey Alone",
       "url": "https://open.spotify.com/track/0prhxe3Wpd6XfDDs0ZZAGX"
@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 166344,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
@@ -4624,6 +4624,28 @@
       "duration_ms": 209500,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
     },
     {
       "album": {
@@ -5280,7 +5302,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 223561,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/2T2kT4f02nSeRrEENBSIYl"
@@ -5364,6 +5386,32 @@
       "duration_ms": 209464,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx"
+    },
+    {
+      "album": {
+        "name": "North Star",
+        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
     },
     {
       "album": {
@@ -7664,6 +7712,24 @@
       "duration_ms": 204671,
       "name": "three little words",
       "url": "https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM"
+    },
+    {
+      "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/1NskAA71HU5581lGnC58MC"
+      },
+      "artists": [
+        {
+          "name": "THE HOTEL LOBBY",
+          "url": "https://open.spotify.com/artist/2bFpvoGZ1lD2HiAfE34Ypl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162528,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3BdBvI8Mw2OSaNHBtvZMKo"
     },
     {
       "album": {

@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 255270,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt"
@@ -1204,6 +1204,24 @@
       "duration_ms": 302733,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs"
+    },
+    {
+      "album": {
+        "name": "Calder Shapes",
+        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428653,
+      "name": "Calder Shapes",
+      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
     },
     {
       "album": {
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 134794,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp"
@@ -5374,6 +5392,24 @@
       "duration_ms": 194440,
       "name": "No Confusion (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282785,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
     },
     {
       "album": {

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Rajan Batra
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,082 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,089 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Mera Ho](https://open.spotify.com/track/2IDTkOf6AodC0R4xIFdrL4) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Tu Mera Ho](https://open.spotify.com/album/1SDth8x6bEPXZcr9c4bzdS) | 2:33 |
-| 2 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:30 |
+| 2 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 |
 | 3 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 |
 | 4 | [Listen](https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Listen](https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6) | 3:21 |
 | 5 | [Labon Se Baat](https://open.spotify.com/track/5xDzqvgJ47x3VDRQFGiVwf) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Rishabh Sharma](https://open.spotify.com/artist/6pIt9fhft1vssrtmZEM8yt) | [Labon Se Baat](https://open.spotify.com/album/4tJ5Gyq9I2RjYGcLc5Qz0D) | 4:00 |
-| 6 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/7e36LMjK2ZWypr9YI08Bgz) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 |
+| 6 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 |
 | 7 | [Saaye](https://open.spotify.com/track/2ZS8Cl38xfzRoW3Ku1EQji) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Saaye](https://open.spotify.com/album/1BxPrCD4Jm2dPFuFo0fPOX) | 3:02 |
 | 8 | [Mitwa](https://open.spotify.com/track/3qyMijX4qQxxEe8JS7fLj4) | [Parree Pande](https://open.spotify.com/artist/6np0ggxIOfqxNGTBb1gn5C), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg) | [Mitwa](https://open.spotify.com/album/7plXHLUiuOLWhoeUMkksIt) | 2:46 |
 | 9 | [Aarzoo](https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Aarzoo](https://open.spotify.com/album/65mN0z094HGFbyZnmpQpqO) | 2:44 |
-| 10 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
+| 10 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
 | 11 | [Maze / Haze](https://open.spotify.com/track/5wrBB8f4odV2bsjd8uIvoP) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq) | [Maze / Haze](https://open.spotify.com/album/42jBbohhJCA97YWTwv51GW) | 1:49 |
 | 12 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
 | 13 | [Aaftab](https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT) | [Rajiv Dayal](https://open.spotify.com/artist/3OY4REdDcTl0XKl7gjvEih) | [Aaftab](https://open.spotify.com/album/6UZgALlUwDJBIfA8avEGUA) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
 | 50 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 |
 
-Snapshot ID: `MCw1N2EyNWYzZTg3YjNkZjk5MzkxYTZkOGJjYjU0YjQ1YjEyMDU1MDI5`
+Snapshot ID: `MCw3ZjdlMDg1OWQwMjRiNDhjY2ExZDljMmVjNmQxMzI0NDY4NjI3OTVm`

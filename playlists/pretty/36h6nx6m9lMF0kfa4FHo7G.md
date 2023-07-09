@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,902 likes - 180 songs - 11 hr 42 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,906 likes - 182 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,5 +188,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 178 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 179 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 | 180 | [Liberator](https://open.spotify.com/track/4HdzJLko7FIZdnrUKkqCn3) | [Spear Of Destiny](https://open.spotify.com/artist/4vJgvzfdA3q1KFsNl3GFvc) | [One Eyed Jacks \(Expanded Edition\)](https://open.spotify.com/album/0u8aUhsoeDWAYXM4uxmHPV) | 3:39 |
+| 181 | [Blue Danube Waltz](https://open.spotify.com/track/0PdPirK6TlgnZ8jhmMlCCc) | [The Vienna Opera Orchestra](https://open.spotify.com/artist/5IbHqE3sbrMD1ZVnEfisKj), [Johhann Strauss](https://open.spotify.com/artist/62XXghhL0IERgKWs24YM85), [Peter Falk](https://open.spotify.com/artist/3bdnhiGxupHmiKyZX73MmL) | [The Very Best Of Johann Strauss](https://open.spotify.com/album/0I68MdYNLn3rqoqosCfcuy) | 10:07 |
+| 182 | [Space Oddity](https://open.spotify.com/track/3CDd3KJKMdkN13BCzsj9ch) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [De Tijdloze](https://open.spotify.com/album/7LMZEJRugbATrTWJyrzVOL) | 3:50 |
 
-Snapshot ID: `NDY5LGM1ODc5NDA4ODc3NmU4ZGExODRjOGIwN2MzNDc4MTViZDBmNzAxOWI=`
+Snapshot ID: `NDcxLDBiMjI2ZWJkN2JhMjhkYTkzMjFhN2YzNGE0YjZkNWY5YjEyODE1NGI=`

@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp?si=8zvqT4B3RmmGrbtY\_vdCLw">Cece Vee</a>
 
-389 songs - 22 hr 35 min
+390 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [Take A Moment](https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Take A Moment](https://open.spotify.com/album/094V806M9aCaRlIRMAtBvD) | 3:26 | 2023-05-18 | 2023-07-07 |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2022-11-24 | 2023-01-13 |
 | [Talk Around](https://open.spotify.com/track/2ftX9egMnZAATxMxq1bn9p) | [EIGHT THOUSAND BIRDS](https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC) | [Turn Again and Come Back](https://open.spotify.com/album/0oQnpD7O66NM4sYZTQGUxl) | 5:39 | 2023-02-16 | 2023-04-07 |
-| [Tell Me Again](https://open.spotify.com/track/2jnXBYpQBpHG7dp7Z1rdKN) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/1XvO9UQ1T3egYcOr0aNgiY) | 4:09 | 2023-07-06 |  |
+| [Tell Me Again](https://open.spotify.com/track/2jnXBYpQBpHG7dp7Z1rdKN) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/1XvO9UQ1T3egYcOr0aNgiY) | 4:09 | 2023-07-06 | 2023-07-09 |
+| [Tell Me Again](https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/34Uhqu0ePpZvIhUyrquWzf) | 4:09 | 2023-07-06 |  |
 | [Tell Me How](https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Tell Me How](https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br) | 4:53 | 2022-11-17 | 2023-03-31 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 | 2023-07-07 |
 | [That Lilo Song](https://open.spotify.com/track/1FHmsosFP6zulhQJ0anqSN) | [Pat McCay](https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK) | [That Lilo Song](https://open.spotify.com/album/6AuEwUzXTOpwBqRrKh7Svw) | 1:53 | 2023-06-15 | 2023-07-07 |

@@ -7170,7 +7170,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 225777,
       "name": "surf.",
       "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
@@ -7228,6 +7228,24 @@
       "duration_ms": 227240,
       "name": "Sweet Chaos",
       "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
+    },
+    {
+      "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
     },
     {
       "album": {
@@ -8190,7 +8208,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 199360,
       "name": "Whale",
       "url": "https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz"
@@ -8284,6 +8302,24 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "album": {

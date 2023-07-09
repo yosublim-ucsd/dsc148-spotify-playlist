@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: JUNNY)",
-  "num_followers": 861863,
+  "num_followers": 861970,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzBlMzljY2JmODVmY2U3NDZlMzg2YTJkOGIxZjZlOGU0MDk2NTFm",
+  "snapshot_id": "MCxjOTBjYjMzMTEyNzNhYzcwZGI3Mjk3MjhkYmRjNGMwOTRjNTEzN2Q3",
   "tracks": [
     {
       "added_at": "2023-07-07 15:35:26",
@@ -168,7 +168,7 @@
       },
       "artists": [
         {
-          "name": "\uae40\ubcf4\uc544",
+          "name": "Kim Boa",
           "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
         }
       ],
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
     },
     {
       "added_at": "2023-07-07 15:35:26",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
       "added_at": "2023-07-07 15:35:26",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
+        "name": "Going",
+        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
         "name": "Spring in Winter",
         "url": "https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9"
       },
@@ -1127,38 +1143,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
-        "name": "Going",
-        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
       },
       "artists": [
         {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Broken Love",
-      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
-        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
-      },
-      "artists": [
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
         },
         {
-          "name": "NINGNING",
-          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 169893,
-      "name": "ONCE AGAIN",
-      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+      "duration_ms": 205284,
+      "name": "Ponytail (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
     },
     {
       "added_at": "2023-07-07 15:35:26",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
-        "name": "Ponytail",
-        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
+        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
       "artists": [
         {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         },
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
         }
       ],
-      "duration_ms": 205284,
-      "name": "Ponytail (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
+      "duration_ms": 169893,
+      "name": "ONCE AGAIN",
+      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
     },
     {
       "added_at": "2023-07-07 15:35:26",

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: Conquer Divide
 
-275 songs - 17 hr 55 min
+276 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-18 |  |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2022-11-17 |
 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 | 2021-05-15 | 2023-01-08 |
-| [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 | 2020-12-07\* |  |
+| [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 | 2020-12-07\* | 2023-07-09 |
 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 | 2020-12-07\* |  |
 | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/track/2F33HiU5YDmFKFmlTgUuS6) | [If I Die First](https://open.spotify.com/artist/1YITexXsar0m4s4AROHCKE) | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/album/2Qvi0VnGTYVteHW7pCSJvV) | 3:14 | 2021-05-15 | 2021-10-16 |
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2022-11-18 |  |
@@ -195,6 +195,7 @@
 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 | 2022-03-11 | 2022-11-29 |
 | [Reckless](https://open.spotify.com/track/7hEk5UTV73GwV9mjw8fBy8) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Reckless](https://open.spotify.com/album/0nd9VY90TYG8TuZpiU3boV) | 3:05 | 2020-12-07\* | 2021-05-15 |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-02-04 |  |
+| [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-10-03 |  |
 | [Rubicon](https://open.spotify.com/track/4Mu87wivf8gHElYbWYyHvd) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Rubicon](https://open.spotify.com/album/6z1oOyoX1swwbyRilFHR7g) | 4:38 | 2020-12-07\* | 2021-05-29 |
 | [Run](https://open.spotify.com/track/6QfO2eDPabPXJMhjc84Ie8) | [Ivy Crown](https://open.spotify.com/artist/0Ty4er900wlIfeKinucbBp) | [Run](https://open.spotify.com/album/54HNt5hFD2WXm3W2DkQKVb) | 3:42 | 2020-12-07\* | 2021-05-15 |

@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-183 songs - 14 hr 37 min
+184 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Controller](https://open.spotify.com/track/34aM4AadnV3foQ1cadQYr9) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/0nVzRQh8j8RyVhi7qvJzD5) | 3:28 | 2022-05-06 | 2022-07-29 |
 | [Controller](https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht) | 3:28 | 2022-06-14 |  |
 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 | 2022-06-14 |  |
-| [Dance Tonight Revolution Tomorrow](https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 7:32 | 2023-05-29 |  |
+| [Dance Tonight Revolution Tomorrow](https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 7:32 | 2023-05-29 | 2023-07-09 |
 | [Dance Tonight Revolution Tomorrow](https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 7:32 | 2022-05-06 | 2022-12-13 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-12-05 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-05-06 | 2023-02-02 |
@@ -103,6 +103,7 @@
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-06-14 |  |
 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 | 2022-05-06 | 2022-07-29 |
 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 | 2022-06-14 |  |
+| [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 | 2023-07-07 |  |
 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2022-06-14 |  |
 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 | 2022-05-06 |  |

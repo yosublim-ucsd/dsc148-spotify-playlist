@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 203647,
       "name": "Coca zero",
       "url": "https://open.spotify.com/track/6UyAn0ZryVpQqbpAjICV3e"
@@ -5900,7 +5900,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
@@ -6894,7 +6894,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 165491,
       "name": "DESOL\u00c9 (feat. Rhove & Geolier)",
       "url": "https://open.spotify.com/track/2jeNH1ZJTHOX8upHBmPGzU"
@@ -9259,6 +9259,36 @@
     },
     {
       "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245181,
+      "name": "FIGLIO UNICO (feat. Kid Yugi, Ernia)",
+      "url": "https://open.spotify.com/track/096BYC8tm5zUgfM4ohTcdD"
+    },
+    {
+      "album": {
         "name": "Blu Celeste",
         "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
       },
@@ -10949,6 +10979,32 @@
     },
     {
       "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3RyVu4sbEBBRi9fKif6fHc"
+    },
+    {
+      "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/72FNv51OVhZ0ueIl7Hrlta"
       },
@@ -10968,7 +11024,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 184800,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/729ZgHjcCl1Q2GKVco9anw"
@@ -15962,6 +16018,32 @@
       "duration_ms": 188766,
       "name": "MEGLIO DEL CINEMA",
       "url": "https://open.spotify.com/track/6byHOsfSzBH0R5WQ6QRv54"
+    },
+    {
+      "album": {
+        "name": "MELODIA CRIMINAL",
+        "url": "https://open.spotify.com/album/18hGGaBxw0ZADwBfCkJaWG"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180525,
+      "name": "MELODIA CRIMINAL",
+      "url": "https://open.spotify.com/track/7qZQikVR1TOewAAEo9ylVL"
     },
     {
       "album": {
@@ -22963,6 +23045,32 @@
     },
     {
       "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156674,
+      "name": "SEXY (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6iOZlieTgmYWDCQmq4Auu6"
+    },
+    {
+      "album": {
         "name": "Shakerando",
         "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
@@ -26314,7 +26422,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 167647,
       "name": "Un Altro Mondo (con Tananai & Marracash)",
       "url": "https://open.spotify.com/track/01Lhwz9MYE6hu58oLQjOxh"
@@ -26684,7 +26792,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 197832,
       "name": "UPPER (feat. thasup & Shiva)",
       "url": "https://open.spotify.com/track/1VYUECEcbtQKTpeEkTi36w"

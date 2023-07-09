@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Teven",
-  "num_followers": 27667,
+  "num_followers": 27682,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTRjMjEyNmY0MTI0NWFlNjcwMzNjNTc1MGQ3NmQzN2E1ZjhmNmFl",
+  "snapshot_id": "MCw0N2FkNzgxNzgyMjhiYzNkZDdkMmFiYmExMTc2NjliNjU1Njk4M2Iz",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 149400,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
-      },
-      "artists": [
-        {
-          "name": "PANTHA",
-          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
-        }
-      ],
-      "duration_ms": 111946,
-      "name": "Club",
-      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Wann",
         "url": "https://open.spotify.com/album/7aDSF6oPbVGr1AKmpoaGqL"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 152751,
       "name": "Wann",
       "url": "https://open.spotify.com/track/4uyXyMAfJWO0bG4Q31hm7d"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
+      },
+      "artists": [
+        {
+          "name": "PANTHA",
+          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
+        }
+      ],
+      "duration_ms": 111946,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "SKELETON",
-        "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 168291,
-      "name": "SKELETON",
-      "url": "https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS"
       },
@@ -327,22 +311,6 @@
       "duration_ms": 168243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -367,6 +335,38 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "SKELETON",
+        "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "SKELETON",
+      "url": "https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Wiederg\u00e4nger",
         "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nie nach Paris",
-        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Nie nach Paris",
-      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Flasche und Zeit",
         "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 156000,
       "name": "Flasche und Zeit",
       "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Nie nach Paris",
+        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Nie nach Paris",
+      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "FANTASIZE",
-        "url": "https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/5987KVHSP8DqC2YGP497U9"
       },
       "artists": [
         {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+          "name": "Julia Kautz",
+          "url": "https://open.spotify.com/artist/2ZRvgPsxO6YYc6z6zwOXB8"
         }
       ],
-      "duration_ms": 392991,
-      "name": "FANTASIZE",
-      "url": "https://open.spotify.com/track/155OwUtXixaS773beh6FBD"
+      "duration_ms": 163059,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/1inLVY4WkEt7YnXDPmLvUw"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/5987KVHSP8DqC2YGP497U9"
+        "name": "FANTASIZE",
+        "url": "https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv"
       },
       "artists": [
         {
-          "name": "Julia Kautz",
-          "url": "https://open.spotify.com/artist/2ZRvgPsxO6YYc6z6zwOXB8"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 163059,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/1inLVY4WkEt7YnXDPmLvUw"
+      "duration_ms": 392991,
+      "name": "FANTASIZE",
+      "url": "https://open.spotify.com/track/155OwUtXixaS773beh6FBD"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 193038,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Idaho",
         "url": "https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "AM___PM",
-        "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
       },
       "artists": [
         {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
         }
       ],
-      "duration_ms": 170103,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+      "duration_ms": 193038,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Milestone",
+        "url": "https://open.spotify.com/album/3mg8hCwVgYNPFuRM8l78AI"
+      },
+      "artists": [
+        {
+          "name": "Ladina",
+          "url": "https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Milestone",
+      "url": "https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Nearly to the End",
         "url": "https://open.spotify.com/album/4Gtl2P5U86fdLY8PoLaXO4"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 192459,
       "name": "Nearly to the End",
       "url": "https://open.spotify.com/track/1jDqTmWI61O6frPRiK23K3"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "AM___PM",
+        "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 170103,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Milestone",
-        "url": "https://open.spotify.com/album/3mg8hCwVgYNPFuRM8l78AI"
-      },
-      "artists": [
-        {
-          "name": "Ladina",
-          "url": "https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Milestone",
-      "url": "https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "The Poet",
         "url": "https://open.spotify.com/album/2BRdmswRAFjmSvxRWX3lrc"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 329761,
       "name": "The Poet",
       "url": "https://open.spotify.com/track/17B0PtxroZPDipqeBCa85t"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Easy Out",
-        "url": "https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY"
-      },
-      "artists": [
-        {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Easy Out",
-      "url": "https://open.spotify.com/track/31p8TpE84SfbZ7wj21IOyu"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Easy Out",
+        "url": "https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Easy Out",
+      "url": "https://open.spotify.com/track/31p8TpE84SfbZ7wj21IOyu"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "vision$$",
         "url": "https://open.spotify.com/album/6Zm46AoNgp8cLCWzuqWMKD"
       },
@@ -703,38 +703,6 @@
       "duration_ms": 216000,
       "name": "vision$$",
       "url": "https://open.spotify.com/track/2R40Mf4ntKNb1B2ZqOBmIo"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Living a Lie",
-        "url": "https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd"
-      },
-      "artists": [
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "Living a Lie",
-      "url": "https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1i5AwcaGq2VJo07wflDipH"
-      },
-      "artists": [
-        {
-          "name": "TAM",
-          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/1U5nywdaUc0FDrDht9OZhu"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -771,6 +739,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Living a Lie",
+        "url": "https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd"
+      },
+      "artists": [
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        }
+      ],
+      "duration_ms": 422000,
+      "name": "Living a Lie",
+      "url": "https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "petrichor",
         "url": "https://open.spotify.com/album/0L0FNsWvAuobCEmu7076fG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 156545,
       "name": "petrichor",
       "url": "https://open.spotify.com/track/5qenyikjWDXmAemY8IYB27"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1i5AwcaGq2VJo07wflDipH"
+      },
+      "artists": [
+        {
+          "name": "TAM",
+          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1U5nywdaUc0FDrDht9OZhu"
     },
     {
       "added_at": "2023-07-04 22:00:00",

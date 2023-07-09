@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: TOMORROW X TOGETHER & Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,889 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,948 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 |
 | 100 | [Do Si Do](https://open.spotify.com/track/0lXjag7QhbY2UQdbKKLpQR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Do Si Do](https://open.spotify.com/album/2X1iXLehHwCZsP2BXEiEGg) | 2:38 |
 
-Snapshot ID: `MCxkNDg5YWNiNzNhN2MxODdjM2NiNWFkM2Q4MzQyYzdkMmVkYWVkMzYw`
+Snapshot ID: `MCwyZTBmMDAzOTBjMzRjNDBhMDI0MjU3M2EwMTBhNTcwNGNiZjk4NmIw`

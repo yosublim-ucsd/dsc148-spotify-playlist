@@ -4,7 +4,7 @@
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Esteman
 
-291 songs - 16 hr 6 min
+292 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Cocaíno](https://open.spotify.com/track/3KqUmL6g1DQ7dREkPlvScR) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Hi\-def Femme](https://open.spotify.com/album/6hGmUtvZC5d0z6w63Ow8JL) | 3:52 | 2022-07-05 | 2022-10-22 |
 | [Cocaíno](https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Hi\-def Femme](https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP) | 3:52 | 2022-07-05 | 2023-01-25 |
 | [Coisa Boa](https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ) | 2:45 | 2021-12-09 | 2022-06-01 |
-| [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 | 2023-05-25 |  |
+| [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 | 2023-05-25 | 2023-07-09 |
 | [Como un Dragón](https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Como un Dragón](https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc) | 2:48 | 2021-12-09 | 2023-01-25 |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2021-12-09 | 2022-06-01 |
 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 | 2022-06-01 | 2023-01-25 |
 | [CONTRACORRIENTE](https://open.spotify.com/track/3OUPakC6nPE5MvmvqbyLsS) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 2](https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv) | 3:25 | 2023-01-24 | 2023-01-28 |
 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 | 2023-01-24 | 2023-05-24 |
 | [Corazón Nómada](https://open.spotify.com/track/3GqFlhwUVdhJwCZQ2K7ENJ) | [Kontra](https://open.spotify.com/artist/1dURgdTdHMGPve0sbE0NPO), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Dulce Muerte](https://open.spotify.com/album/5qjb2WDC5mt8lNjG7EvlVy) | 3:34 | 2021-12-09 | 2022-06-01 |
+| [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 | 2023-07-07 |  |
 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 | 2023-01-24 |  |
 | [D.I.V.A](https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [D.I.V.A](https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh) | 2:49 | 2022-06-01 | 2023-01-25 |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-12-09 | 2022-06-01 |

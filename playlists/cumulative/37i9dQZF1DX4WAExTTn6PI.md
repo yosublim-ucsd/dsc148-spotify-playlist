@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-175 songs - 10 hr 42 min
+176 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Big Time](https://open.spotify.com/track/5ibzXO4BdeWbbXBz71YNbl) | [Abby Hamilton](https://open.spotify.com/artist/4tw4XGFI9wF5zn4zs6WPv2) | [Big Time](https://open.spotify.com/album/7fiiv8ckvymj3wBDCuFwUf) | 2:39 | 2023-01-13 |  |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2022-01-28 | 2023-01-21 |
 | [Black Obsidian](https://open.spotify.com/track/2JilhorMUGw4jgivLFcVHU) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 3:05 | 2023-01-13 |  |
-| [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 |  |
+| [Blues Comin' On](https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:24 | 2023-06-30 |  |
+| [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 | 2023-07-09 |
 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 | 2023-02-17 |  |
 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 | 2022-01-28 |  |
 | [Boy and a Bird Dog](https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Boy and a Bird Dog](https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV) | 3:04 | 2023-06-09 |  |

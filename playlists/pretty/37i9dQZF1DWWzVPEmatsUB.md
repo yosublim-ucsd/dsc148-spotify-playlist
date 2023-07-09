@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,171 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,154 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 94 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 | 95 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 96 | [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 |
-| 97 | [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 |
+| 97 | [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 |
 | 98 | [Blueberry Puff](https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Blueberry Puff](https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc) | 2:40 |
 | 99 | [Say No More \- Gary B Balearic Remix](https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI), [Darles Flow](https://open.spotify.com/artist/4hdHzR9Eg6nQ0wYhyCU9Np), [M\-Sol MUSIC](https://open.spotify.com/artist/1odWkvK9dQ8DtQzbLCtoSz), [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Say No More \(Gary B Balearic Remix\)](https://open.spotify.com/album/7kCB3l0xJYiUZpxoz8Nopn) | 3:20 |
 | 100 | [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 |
 
-Snapshot ID: `MCxlOWY4ZDM3ZDA2MjY0MzA0MjI2Y2RhZTA4MGU4MjkxNjUxYmIyZWJi`
+Snapshot ID: `MCw4NGFhOWU1ODg2YzIyYTliMTUwY2EwMjA5OWJmOWM1Mjg4NjZiYzFl`

@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/5wXhentTUReOCMVyvfhSaO"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217218,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69"
       },

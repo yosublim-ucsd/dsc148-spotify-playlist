@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-985 songs - 2 day 4 hr 9 min
+986 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,6 +829,7 @@
 | [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 | 2023-06-18 |
 | [Thanks, I Hate It](https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Thanks, I Hate It](https://open.spotify.com/album/5maB3BSB7Lo0ykXq0ihbSR) | 2:57 | 2021-12-10 | 2022-05-20 |
 | [THAT ONE SONG](https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [THAT ONE SONG](https://open.spotify.com/album/1W9zc0MZLktpJKsj27iKb7) | 3:02 | 2021-12-10 | 2022-07-29 |
+| [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 | 2023-06-09 |  |
 | [THAT SUCKS!](https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [THAT SUCKS!](https://open.spotify.com/album/2CZCt0OJnQXrwFcWRRrje4) | 2:24 | 2023-06-09 | 2023-07-08 |
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [The Antidote](https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:15 | 2022-07-08 | 2023-04-11 |
@@ -940,7 +941,7 @@
 | [Weight of the World](https://open.spotify.com/track/7bnMtIotDJUzjLVqIQlGbn) | [Valencia](https://open.spotify.com/artist/44Ga8DsScroKWAkQAJ1GwE) | [Dancing with a Ghost \(10 Year Deluxe Jawn\)](https://open.spotify.com/album/0nHb28utBa47g1oyLRuXFs) | 3:33 | 2021-12-10 | 2022-06-06 |
 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-12-10 | 2022-04-24 |
 | [What Do You Gotta Lose?](https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [What Do You Gotta Lose?](https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra) | 3:41 | 2021-12-10 | 2022-07-25 |
-| [What Hurts the Most](https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [What Hurts the Most](https://open.spotify.com/album/78JT0gQD3Ff5p7ixbxzgdw) | 3:25 | 2023-04-23 |  |
+| [What Hurts the Most](https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [What Hurts the Most](https://open.spotify.com/album/78JT0gQD3Ff5p7ixbxzgdw) | 3:25 | 2023-04-23 | 2023-07-09 |
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 | 2022-07-08 | 2023-04-11 |

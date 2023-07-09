@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 15 min
+58 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Magni and Modi](https://open.spotify.com/track/2IQonQgsFc35BU5LUgF0ld) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 2:49 | 2023-03-19 | 2023-03-26 |
 | [Masters of the Universe: Revelation \- Extended Version](https://open.spotify.com/track/6J7kQ0BC7okiBFwbxLo7Rw) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Masters of the Universe: Revelation \(Netflix Original Series Soundtrack, Vol\. 1\)](https://open.spotify.com/album/1k5g35tSjZE4Rqqa96mbq1) | 1:55 | 2022-12-01 |  |
 | [Memories of Mother \(feat\. Eivør\)](https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:39 | 2022-12-01 |  |
+| [Moch Sa Mhadainn](https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:35 | 2023-07-08 |  |
 | [Nori Brandyfoot](https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:49 | 2022-12-01 |  |
 | [Númenor](https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 4:31 | 2022-12-01 |  |
 | [Outlander \- The Skye Boat Song \(Castle Leoch Version\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 2:04 | 2022-12-01 |  |

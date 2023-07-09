@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Glory 2 Glory",
+        "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl"
+    },
+    {
+      "album": {
         "name": "We Belong",
         "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 187601,
       "name": "On 10",
       "url": "https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy"

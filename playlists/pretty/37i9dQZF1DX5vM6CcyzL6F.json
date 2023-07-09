@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 34116,
+  "num_followers": 34196,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjk4ZTlmOWQ3YWI2OGJhNjU2NTE1MTZmZjI4OTczNDkzY2Q4NTVk",
+  "snapshot_id": "MCxkZjc2YjEwMzFjMmVjMmJlZWFmZmM3NDRmMTc2ZWUwY2QwM2QzYzY2",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Sin Escencia",
         "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 195960,
       "name": "Sin Escencia",
       "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Y Qu\u00e9 Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Y Qu\u00e9 Me Pasa - Salsa",
-      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Puro Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 255213,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
+      "duration_ms": 302360,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
+        "name": "Puro Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 302360,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
+      "duration_ms": 255213,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
     },
     {
       "added_at": "2023-02-03 06:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 321178,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Expresion",
+        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 290413,
+      "name": "Que Alguien Me Diga",
+      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -615,8 +615,8 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
       "artists": [
         {
@@ -624,25 +624,9 @@
           "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Expresion",
-        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Que Alguien Me Diga",
-      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Luchar\u00e9",
         "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+      },
+      "artists": [
+        {
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 308893,
       "name": "Aqu\u00e9l Viejo Motel",
       "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
-      },
-      "artists": [
-        {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Mi Cuerpo No Esta Hecho de Metal",
+        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes de la Salsa",
+          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
+        }
+      ],
+      "duration_ms": 279591,
+      "name": "Mi Cuerpo No Esta Hecho de Metal",
+      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 293067,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Mi Cuerpo No Esta Hecho de Metal",
-        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes de la Salsa",
-          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
-        }
-      ],
-      "duration_ms": 279591,
-      "name": "Mi Cuerpo No Esta Hecho de Metal",
-      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Por Las Buenas",
-        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
         }
       ],
-      "duration_ms": 155538,
-      "name": "Por Las Buenas",
-      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1099,6 +1103,22 @@
       "duration_ms": 261600,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Por Las Buenas",
+        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Por Las Buenas",
+      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1131,26 +1151,6 @@
       "duration_ms": 262942,
       "name": "D\u00eda Tras D\u00eda",
       "url": "https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 308013,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Hermanos Cartagena",
-        "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Cartagena",
-          "url": "https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF"
-        }
-      ],
-      "duration_ms": 241186,
-      "name": "Nadie Quien Te Quiera",
-      "url": "https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 308013,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Soy Feliz",
         "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+        "name": "Hermanos Cartagena",
+        "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
       },
       "artists": [
         {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+          "name": "Antonio Cartagena",
+          "url": "https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF"
         }
       ],
-      "duration_ms": 215118,
-      "name": "Como la Quiero Cuanto la Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
+      "duration_ms": 241186,
+      "name": "Nadie Quien Te Quiera",
+      "url": "https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1323,6 +1307,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 215118,
+      "name": "Como la Quiero Cuanto la Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
     },
     {
       "added_at": "2022-08-02 22:53:13",

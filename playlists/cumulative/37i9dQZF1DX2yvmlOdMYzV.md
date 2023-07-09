@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-413 songs - 22 hr 59 min
+414 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Shibari Moon](https://open.spotify.com/track/5s4uHZwSbk8XbjARwTzIw4) | [Oscar Key Sung](https://open.spotify.com/artist/2D7YyEYEeZY7W6rpuN6WoB) | [Echo Hill Green Square](https://open.spotify.com/album/7um1eSYkmUL3mOqna9fJF4) | 3:36 | 2021-12-15 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2021-12-15 |  |
 | [Show You](https://open.spotify.com/track/4SwW8YMx6n6CTZLhdmx9MR) | [Mito](https://open.spotify.com/artist/37U1xNagnRbFlO8W08ZH2h) | [Show You](https://open.spotify.com/album/4gytmBpaEK0P8w2pu8j81u) | 3:25 | 2021-12-15 | 2022-07-29 |
-| [Silence](https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO) | [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Underground](https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB) | 2:58 | 2022-09-29 |  |
+| [Silence](https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO) | [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Underground](https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB) | 2:58 | 2022-09-29 | 2023-07-09 |
 | [Sincerely, Yours](https://open.spotify.com/track/4iYy9eFrSoInDBjBs3EYm3) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Candle Glow](https://open.spotify.com/album/0qcmUXzbT1j6c7yEKktiOQ) | 2:32 | 2021-12-15 | 2022-04-18 |
 | [single \(on the weekend\)](https://open.spotify.com/track/1CjvcxzHY3tbv63jui6y8A) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [single \(on the weekend\)](https://open.spotify.com/album/2NhxhIx40txRsi2CbzWpLz) | 2:35 | 2021-12-15 | 2022-04-21 |
 | [single \(on the weekend\)](https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:35 | 2022-06-30 | 2022-12-31 |
@@ -380,6 +380,7 @@
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-09 | 2022-12-04 |
 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 | 2023-06-07 |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-23 |  |
+| [Too Late \(feat\. James Fauntleroy & Elena Pinderhughes\)](https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Fine Tune](https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ) | 4:31 | 2023-06-30 |  |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2023-05-15 |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2021-12-15 | 2023-03-11 |

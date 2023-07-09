@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb"
+      },
+      "artists": [
+        {
+          "name": "Channing Wilson",
+          "url": "https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264762,
+      "name": "Blues Comin' On",
+      "url": "https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8"
+    },
+    {
+      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 264762,
       "name": "Blues Comin' On",
       "url": "https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk"

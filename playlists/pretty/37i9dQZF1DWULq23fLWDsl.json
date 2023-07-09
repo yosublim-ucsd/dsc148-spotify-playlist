@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 184556,
+  "num_followers": 184799,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYwNzcwYzg1MDVlMDJkNmI0ZDJjNmVmM2Q2ZjgwNWQ1NmJjMTU4",
+  "snapshot_id": "MCw5ZDhhZTRjZjVjNDcxZjRlZWMwY2E5ZmNjNGNlZGI2YmMyZTdiMzFi",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Punching In A Dream",
-      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 297459,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Punching In A Dream",
+      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 473333,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ"
+      "duration_ms": 227346,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -871,18 +871,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
+      "duration_ms": 473333,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "One Life Stand",
-        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 321496,
-      "name": "One Life Stand",
-      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 279746,
       "name": "Modern Man",
       "url": "https://open.spotify.com/track/5VWRCDKukSgYRAhXMriSCu"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
     },
     {
       "added_at": "2021-10-05 08:40:49",

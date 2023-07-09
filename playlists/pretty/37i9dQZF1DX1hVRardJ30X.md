@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,566 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,745 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 |
 | 32 | [ARCHIVO 1.wav](https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [CARPETA DE VERANO \(VOL\. 1\)](https://open.spotify.com/album/09rh3FOkytsok3CPyKuRSh) | 2:18 |
 | 33 | [10 PM](https://open.spotify.com/track/58lf6XF6zXL0SgIvEnuz4S) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [10 PM](https://open.spotify.com/album/01QgKX2sDTzbAM8xE8gnbI) | 3:00 |
-| 34 | [Block Freestyle](https://open.spotify.com/track/1BXnx00iokEJXnTPsOW9zR) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Block Freestyle](https://open.spotify.com/album/6qUhuVXSzpcqhI2z3EcekK) | 2:13 |
+| 34 | [Block Freestyle](https://open.spotify.com/track/1BXnx00iokEJXnTPsOW9zR) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Block Freestyle](https://open.spotify.com/album/6qUhuVXSzpcqhI2z3EcekK) | 2:13 |
 | 35 | [Enigma \- Remix](https://open.spotify.com/track/59MDxtaOcMfx1kGbkw4BIQ) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Enigma \(Remix\)](https://open.spotify.com/album/5HwvdJEkRPiVg5BNbpzXuk) | 3:14 |
 | 36 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 37 | [No Quiero Olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [No Quiero Olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [LA ULTIMA VEZ QUE LA VI](https://open.spotify.com/track/6tNLPS4esNX5jEHnZKdHGA) | [BLANKO](https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x) | [LA ULTIMA VEZ QUE LA VI](https://open.spotify.com/album/74zyByj7UJEhDoMwaTOVF7) | 2:50 |
 | 41 | [KBRN](https://open.spotify.com/track/0m0viGOLfywYbLcRv1Hl8W) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [KBRN](https://open.spotify.com/album/186RYRGOZjpz2bNpNnwDaV) | 2:22 |
 | 42 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
-| 43 | [Frio y Tibio](https://open.spotify.com/track/5Eg7iLJoMJFHh4MuMyFD2l) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Frio y Tibio](https://open.spotify.com/album/6y5LYJ0E2eQwUdZXNH9XFs) | 2:51 |
+| 43 | [Frio y Tibio](https://open.spotify.com/track/5Eg7iLJoMJFHh4MuMyFD2l) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [Frio y Tibio](https://open.spotify.com/album/6y5LYJ0E2eQwUdZXNH9XFs) | 2:51 |
 | 44 | [me voy, ya me fui](https://open.spotify.com/track/49B1lQifUr3NU9TfWlybEh) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [me voy, ya me fui](https://open.spotify.com/album/6LYPXy9jBdjshipK36i2ou) | 3:19 |
 | 45 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
-| 46 | [No Way I Wake Up \(Without You\)](https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Daylight](https://open.spotify.com/artist/2MwR0VbGJFXAzK0T98GIVb) | [No Way I Wake Up \(Without You\)](https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c) | 3:15 |
+| 46 | [No Way I Wake Up \(Without You\)](https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Daylight](https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ) | [No Way I Wake Up \(Without You\)](https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c) | 3:15 |
 | 47 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 48 | [AFTER LIFE](https://open.spotify.com/track/2uHw8t8dMkKs7zEeCb5GC6) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [AFTER LIFE](https://open.spotify.com/album/0eUknYuCMoW1GyQP3Cl0rA) | 3:37 |
 | 49 | [Un Besito](https://open.spotify.com/track/6ydzrKlwcFdroCNwbpRVFn) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf), [Osquel](https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd) | [Un Besito](https://open.spotify.com/album/3HWur6KmfoZ84KueFJkmQl) | 3:27 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [EN LA MIA](https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [EN LA MIA](https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ) | 3:44 |
 | 54 | [Pégate A Mí](https://open.spotify.com/track/5VkcxCJw61fpIUTMdB2uMe) | [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM) | [Pégate A Mí](https://open.spotify.com/album/7DIDO6wJAZ7xg9FqHb3Us9) | 3:52 |
 
-Snapshot ID: `MCwyY2E0MTc5MTliYWUyMTU2N2MxNWE4NjA1ODRkNzk4MmQxNGVkYTY5`
+Snapshot ID: `MCw0MzkyNTgyN2MwZTViN2IyZWZkNWRjZGU5NTNhNGY5ODA4NmE2ZmZk`

@@ -6490,7 +6490,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -6882,7 +6882,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 186713,
       "name": "Comme un saule",
       "url": "https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl"
@@ -12765,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176325,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
+    },
+    {
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/0VBafPEujxjs7wbBIW47fu"
       },
@@ -15066,7 +15084,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 172400,
       "name": "J'aime pas sortir",
       "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
@@ -18748,7 +18766,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 164906,
       "name": "Langue de P***",
       "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
@@ -21008,6 +21026,24 @@
       "duration_ms": 181773,
       "name": "Love de moi",
       "url": "https://open.spotify.com/track/1l4XLRKNpfizZFreNAc6DU"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "album": {
@@ -25022,7 +25058,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 144970,
       "name": "On & Off - Spotify Singles",
       "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
@@ -29756,6 +29792,24 @@
       "duration_ms": 153846,
       "name": "Roi",
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
+    },
+    {
+      "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
     },
     {
       "album": {

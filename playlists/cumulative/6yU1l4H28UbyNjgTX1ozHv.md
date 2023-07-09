@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-176 songs - 9 hr 22 min
+177 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
+| [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 |  |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 | 2019-10-13 |  |
 | [California Dreamin' \- Acoustic](https://open.spotify.com/track/5dx6uQJsxVDQSyQ2E1cDBw) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [California Dreamin' \(Acoustic\)](https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg) | 2:32 | 2023-04-21 |  |
 | [Call Me \- Acoustic](https://open.spotify.com/track/7g4qpkynAKRQ2RPDNh5Gwj) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Call Me \(Acoustic\)](https://open.spotify.com/album/0PqRjANzwz9dEy1fAwB5tn) | 2:18 | 2022-06-17 | 2022-07-16 |

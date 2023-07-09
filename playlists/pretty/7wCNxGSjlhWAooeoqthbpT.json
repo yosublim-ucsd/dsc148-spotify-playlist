@@ -6,8 +6,40 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjE2NixlNDE0MzAyZWUwMTJiNjEzMDc4Yzk3NTA2NzJjMjc1NTBmY2I4MDdm",
+  "snapshot_id": "MjE4MSxmODNmZTlmNmYyYzgwZWEyNGM4MmMwODk3ZTI1NDE0MDg3NWEyMmU1",
   "tracks": [
+    {
+      "added_at": "2023-07-07 14:44:34",
+      "album": {
+        "name": "Trynna Link",
+        "url": "https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 177233,
+      "name": "Trynna Link",
+      "url": "https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS"
+    },
+    {
+      "added_at": "2023-07-07 14:44:21",
+      "album": {
+        "name": "SUMMER VIBES",
+        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "duration_ms": 146587,
+      "name": "SUMMER VIBES",
+      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
+    },
     {
       "added_at": "2023-06-02 15:58:15",
       "album": {
@@ -145,26 +177,6 @@
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
-      "added_at": "2023-05-19 15:14:05",
-      "album": {
-        "name": "I'm Geekin (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/3fDSzaNQLV1T1N114sz055"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "I'm Geekin (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/2m5NZAum6ya5azzNGosa6n"
-    },
-    {
       "added_at": "2023-05-05 15:17:11",
       "album": {
         "name": "THE FORMULA",
@@ -183,6 +195,22 @@
       "duration_ms": 227633,
       "name": "THE FORMULA",
       "url": "https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT"
+    },
+    {
+      "added_at": "2023-07-07 14:44:54",
+      "album": {
+        "name": "GD Woman",
+        "url": "https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "GD Woman",
+      "url": "https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ"
     },
     {
       "added_at": "2023-03-03 15:47:31",
@@ -401,6 +429,26 @@
       "url": "https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3"
     },
     {
+      "added_at": "2023-07-07 14:45:12",
+      "album": {
+        "name": "Beam Me Up (feat. Tony Shhnow)",
+        "url": "https://open.spotify.com/album/6KhF9p6MssFEzeoKdsBCYU"
+      },
+      "artists": [
+        {
+          "name": "YoDogg",
+          "url": "https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Beam Me Up (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/6mKNr0BZvcVTyHgs1qNKa6"
+    },
+    {
       "added_at": "2023-01-27 16:30:19",
       "album": {
         "name": "Made You Look (feat. Kim Petras)",
@@ -565,30 +613,6 @@
       "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
     },
     {
-      "added_at": "2022-09-30 13:41:02",
-      "album": {
-        "name": "It's Not Me It's You",
-        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "9 Lives (feat. Polo G & NLE Choppa)",
-      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
-    },
-    {
       "added_at": "2023-06-02 15:58:30",
       "album": {
         "name": "No Boys Allowed",
@@ -605,20 +629,20 @@
       "url": "https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe"
     },
     {
-      "added_at": "2022-10-21 14:47:09",
+      "added_at": "2023-07-07 14:53:15",
       "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC"
+        "name": "WANNABE",
+        "url": "https://open.spotify.com/album/6lyWUsY9aT7YqAVEAKOcvo"
       },
       "artists": [
         {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+          "name": "Melvoni",
+          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
         }
       ],
-      "duration_ms": 130813,
-      "name": "Sex Symbol",
-      "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
+      "duration_ms": 134137,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/39MVjtmCAbQPxOhqzKarUB"
     },
     {
       "added_at": "2023-05-19 15:14:14",
@@ -1025,22 +1049,6 @@
       "url": "https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a"
     },
     {
-      "added_at": "2022-07-15 14:36:44",
-      "album": {
-        "name": "Chi Kidd",
-        "url": "https://open.spotify.com/album/5Ozt1AdSyB8KLT3NAMtQJc"
-      },
-      "artists": [
-        {
-          "name": "Divide",
-          "url": "https://open.spotify.com/artist/7Cm2kCQKXn57TxXdRmIzh1"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Full Throttle",
-      "url": "https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa"
-    },
-    {
       "added_at": "2023-06-02 15:27:21",
       "album": {
         "name": "Neck of the Woods",
@@ -1055,22 +1063,6 @@
       "duration_ms": 129570,
       "name": "Neck of the Woods",
       "url": "https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2"
-    },
-    {
-      "added_at": "2023-06-02 15:58:43",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb"
     },
     {
       "added_at": "2023-06-09 15:19:48",

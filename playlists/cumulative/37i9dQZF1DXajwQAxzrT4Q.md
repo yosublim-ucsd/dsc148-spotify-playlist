@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-260 songs - 10 hr 27 min
+261 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Need Your Body](https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI) | [Jaeo Draftpick](https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq), [DJ Scenario](https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE) | [Need Your Body](https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi) | 2:44 | 2022-09-02 | 2023-01-20 |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-30 |  |
 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3A9QsMXZE9PQi4DRfoNBVU) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 | 2022-12-30 | 2023-01-06 |
-| [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 |  |
+| [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 | 2023-07-09 |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |
 | [One Way](https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [One Way](https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ) | 1:54 | 2022-10-14 | 2022-12-31 |
 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 | 2022-02-11 |  |
@@ -250,6 +250,7 @@
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |
 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 | 2022-12-30 |  |
 | [Touch Them Hips](https://open.spotify.com/track/19lGJuMdZlzaJWPZGCVkq1) | [MikeOnaBeat](https://open.spotify.com/artist/7E69M6L0stZyhtvGzz2nH3) | [Sounds From The 6, Vol\. 4](https://open.spotify.com/album/5REoMVLTZtSPLmfMAngyHv) | 1:24 | 2022-12-30 | 2023-01-06 |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 | 2023-07-07 |  |
 | [Trip to Brazil](https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Trip to Brazil](https://open.spotify.com/album/6tnEzZ6nrmb5XSYoiH2iGW) | 1:43 | 2022-10-14 | 2022-11-09 |
 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 |  |
 | [UMPH](https://open.spotify.com/track/2qaZ0gPUwpL4NeoXbasriP) | [Retroj](https://open.spotify.com/artist/1Q7sV3ike1OCmPxaq1tsdO) | [SKYPE](https://open.spotify.com/album/6n2zjPqLT1aZWSEgNYcWZZ) | 1:56 | 2022-12-30 | 2023-01-06 |

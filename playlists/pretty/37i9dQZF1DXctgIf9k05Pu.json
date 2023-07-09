@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 235844,
+  "num_followers": 235865,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj",
+  "snapshot_id": "MCw0MjFhY2IxNTM4MjE3YmYyODkzYzlhMjIwZGM0YzVlNzcyY2IxNWQy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2022-02-02 00:21:48",

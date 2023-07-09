@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 490639,
+  "num_followers": 490896,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTkwYmI1OTQxMTBlY2I0NjViNzhjYmM2MzllZjkzMmViNWYzMjg1",
+  "snapshot_id": "MCwxZmFmZGM0NjU2NDU2NmNjNzNmMTczNDM3ZDQzZGI3ZDIyMjJjZGI0",
   "tracks": [
     {
       "added_at": "2023-05-22 17:51:40",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "American Beauty",
-        "url": "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
         "name": "Cigarettes On Patios",
         "url": "https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 207813,
       "name": "Cigarettes On Patios",
       "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
+        "name": "American Beauty",
+        "url": "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
     },
     {
       "added_at": "2023-05-22 17:51:40",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 219840,
       "name": "Dern Kala",
       "url": "https://open.spotify.com/track/47FmTHqPWGWEfbgDpLjvCt"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-05-22 17:51:40",

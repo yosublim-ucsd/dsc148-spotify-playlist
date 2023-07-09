@@ -1,12 +1,12 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Little Dragon",
-  "num_followers": 102107,
+  "num_followers": 102112,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQxYjA3M2JhYTcyZWMyM2MzMDc0NzgwNjI1ZjhjNjVhMWYxZTg5",
+  "snapshot_id": "MCxlMzMzY2UxNzUwZWFlMjY3ZWIxY2FjNzA1MzQ0NDI4OTNlZTNlODk5",
   "tracks": [
     {
       "added_at": "2023-07-06 17:27:00",
@@ -181,6 +181,22 @@
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
     },
     {
+      "added_at": "2023-07-08 03:24:41",
+      "album": {
+        "name": "The Greater Wings",
+        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "duration_ms": 200712,
+      "name": "Portrait Of A Clear Day",
+      "url": "https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm"
+    },
+    {
       "added_at": "2023-07-06 17:27:00",
       "album": {
         "name": "Teddy Bear Returns (Summer Edition)",
@@ -227,6 +243,26 @@
       "duration_ms": 126902,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M"
+    },
+    {
+      "added_at": "2023-07-08 03:24:41",
+      "album": {
+        "name": "Why Am I Alive Now?",
+        "url": "https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 359693,
+      "name": "Why Am I Alive Now?",
+      "url": "https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN"
     },
     {
       "added_at": "2023-07-06 17:27:00",

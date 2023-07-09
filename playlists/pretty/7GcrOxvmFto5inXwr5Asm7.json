@@ -1,13 +1,29 @@
 {
   "description": "Welcome to our curated playlist of lofi beats, chillhop, and jazzhop - the perfect background music for studying, relaxing, and sleeping. If you&#x27;re looking to study for hours on end, or simply need to chill and get some rest, our playlist is here to help you find your zen. From classic to new tracks",
-  "num_followers": 122,
+  "num_followers": 440,
   "original_name": "Lofi Beats - Chillhop - Jazzhop - Study Beats - Chill Beats (Study, Relax, Sleep)",
   "owner": {
     "name": "Melted Beatz",
     "url": "https://open.spotify.com/user/1270603891"
   },
-  "snapshot_id": "MTkzLGI1MGYzMzY1NDJjOWQzODU3YzE4MzZkNmZjMjlhYTM3OWM2MmM3ODE=",
+  "snapshot_id": "MjA0LDcxNDQxZjQxNzE2ODBjZDMyMzc3NWNjOTNiMmFiOTJiOWRmOWJmMjQ=",
   "tracks": [
+    {
+      "added_at": "2023-07-06 22:46:29",
+      "album": {
+        "name": "Dedicated Groove",
+        "url": "https://open.spotify.com/album/078oHmkDNmypAkTrk4jFtM"
+      },
+      "artists": [
+        {
+          "name": "Dan Ceder",
+          "url": "https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "Dedicated Groove",
+      "url": "https://open.spotify.com/track/53Nc81aucnDpowjue0NyZI"
+    },
     {
       "added_at": "2023-06-16 13:41:18",
       "album": {
@@ -23,30 +39,6 @@
       "duration_ms": 119316,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5GX4DZ7EjfCdElzIQSSSGp"
-    },
-    {
-      "added_at": "2023-06-25 09:14:17",
-      "album": {
-        "name": "Volpaia",
-        "url": "https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw"
-      },
-      "artists": [
-        {
-          "name": "Webmoms",
-          "url": "https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4"
-        },
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Volpaia",
-      "url": "https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4"
     },
     {
       "added_at": "2023-06-01 14:59:19",
@@ -65,22 +57,6 @@
       "url": "https://open.spotify.com/track/73ebDyoIHxBZEWR7Bhd5ob"
     },
     {
-      "added_at": "2023-06-25 09:11:11",
-      "album": {
-        "name": "On Demand",
-        "url": "https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX"
-      },
-      "artists": [
-        {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
-        }
-      ],
-      "duration_ms": 116493,
-      "name": "On Demand",
-      "url": "https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR"
-    },
-    {
       "added_at": "2023-06-01 15:01:21",
       "album": {
         "name": "Holiday",
@@ -95,26 +71,6 @@
       "duration_ms": 139208,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/24UTc4qZvJ4UjqDvavcRXg"
-    },
-    {
-      "added_at": "2023-05-19 22:15:19",
-      "album": {
-        "name": "Private Letters",
-        "url": "https://open.spotify.com/album/43HxDkKdq0unBdLE2dGTOl"
-      },
-      "artists": [
-        {
-          "name": "Jk Beatbook",
-          "url": "https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Private Letters",
-      "url": "https://open.spotify.com/track/6G32q2ZZIeCraLQweRMa9d"
     },
     {
       "added_at": "2023-05-11 14:59:31",
@@ -165,22 +121,6 @@
       "url": "https://open.spotify.com/track/6wGEEhPKZXeFczrupqwU7n"
     },
     {
-      "added_at": "2023-06-25 09:11:26",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P"
-      },
-      "artists": [
-        {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY"
-    },
-    {
       "added_at": "2023-05-10 11:39:23",
       "album": {
         "name": "A Thing Of Delight",
@@ -197,26 +137,6 @@
       "url": "https://open.spotify.com/track/6NtZEm6gnKHvMTpMyvCEzN"
     },
     {
-      "added_at": "2023-06-25 09:08:52",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf"
-      },
-      "artists": [
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w"
-    },
-    {
       "added_at": "2023-04-28 21:53:42",
       "album": {
         "name": "Road Back 2 U",
@@ -231,22 +151,6 @@
       "duration_ms": 131143,
       "name": "Road Back 2 U",
       "url": "https://open.spotify.com/track/3TecB52q4vd59QK59Y94fA"
-    },
-    {
-      "added_at": "2023-05-19 01:33:09",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/1PjzWg4NKA4MO6a1yN4yMv"
-      },
-      "artists": [
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        }
-      ],
-      "duration_ms": 108571,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/1xYrQE0XStZEJ9Z5QnFsJL"
     },
     {
       "added_at": "2023-06-25 09:07:15",

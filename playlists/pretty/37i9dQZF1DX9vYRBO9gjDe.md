@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。7月5日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,213 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,291 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [福笑い](https://open.spotify.com/track/255lnJnboHgDJw2aDGsT9u) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [リアルタイム・シンガーソングライター](https://open.spotify.com/album/40pjWIbFFCc5HOy42lon6O) | 5:28 |
 | 50 | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl) | 4:21 |
 
-Snapshot ID: `MCw5ZWMzZDhlODUzNjA3ZmM5YTQ1MTAxZTM3ZWY5NjQyMzQ0ODQyOWQ1`
+Snapshot ID: `MCxmOWQyYmY0YmIyNzI5NjQxNjRlM2Y3MGQ5YTU3ZDQyZWM5MDE5Zjkz`

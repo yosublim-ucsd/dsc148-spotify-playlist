@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
@@ -2536,6 +2536,24 @@
       "duration_ms": 97266,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"
+    },
+    {
+      "album": {
+        "name": "OYO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123453,
+      "name": "Zelie",
+      "url": "https://open.spotify.com/track/786PWkpZ8OMdwgk5Nx3xnf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8"

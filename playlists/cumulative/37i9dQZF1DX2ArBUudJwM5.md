@@ -4,7 +4,7 @@
 
 > Mujeres que la rompen feat\. Julieta Laso.<br/>Dales PLAY, dales POWER.
 
-764 songs - 1 day 17 hr 3 min
+765 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-04-06 | 2023-01-05 |
 | [La Bella Bellaki](https://open.spotify.com/track/0kExgLrS36TtLnKtKpcgbF) | [Sassyggirl](https://open.spotify.com/artist/1ZQkPQNVDMxVNpJx6lQ7HR), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9) | [Intima](https://open.spotify.com/album/6wiiBiKiKn4L3PqnmAJkyy) | 4:07 | 2021-12-17 | 2022-01-06 |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-05-03 | 2023-06-06 |
+| [La Caja de Viento](https://open.spotify.com/track/4YBFdOIi4M9zkiY2KYeIs4) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Elementales](https://open.spotify.com/album/46JHg0NY14tkMsyhcUxqgH) | 3:13 | 2023-07-05 |  |
 | [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 | 2022-10-06 | 2022-11-08 |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-06-01 | 2022-07-07 |
 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 | 2023-05-03 | 2023-07-06 |
@@ -437,7 +438,7 @@
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2022-05-04 | 2023-02-02 |
 | [MATAR](https://open.spotify.com/track/4SOrMHpDsMPfjDCub37hMv) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [MATAR](https://open.spotify.com/album/6EB2IoGmYLtm3mbW21gKqY) | 3:49 | 2022-06-01 | 2022-07-07 |
 | [Mates de Pomelo](https://open.spotify.com/track/6xTiQvHmS9vjrW9xDmjNWj) | [Marian de Marte](https://open.spotify.com/artist/4trb7zfrFvtLFRnd9XcSxn) | [Mates de Pomelo](https://open.spotify.com/album/68O7zBFFAueVlFJ1fy2nut) | 2:18 | 2022-05-04 | 2022-07-07 |
-| [Mañana Clara](https://open.spotify.com/track/4pR3FRjIoMFv3vj4qUgeO7) | [Viviana Scarlassa](https://open.spotify.com/artist/5xiFJRaT7TDD6ROlmuEtwR) | [Contemporanea](https://open.spotify.com/album/3eWS7gAwBq14djP6Bgi29H) | 4:03 | 2023-07-05 |  |
+| [Mañana Clara](https://open.spotify.com/track/4pR3FRjIoMFv3vj4qUgeO7) | [Viviana Scarlassa](https://open.spotify.com/artist/5xiFJRaT7TDD6ROlmuEtwR) | [Contemporanea](https://open.spotify.com/album/3eWS7gAwBq14djP6Bgi29H) | 4:03 | 2023-07-05 | 2023-07-09 |
 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 | 2022-09-07 | 2022-10-06 |
 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 | 2023-03-01 | 2023-05-04 |
 | [Me Enamoro](https://open.spotify.com/track/6xdu7o2NgaabYUSCFKxbAL) | [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [Me Enamoro](https://open.spotify.com/album/0M2PvjFa6FTUky5UsFQcNy) | 2:37 | 2022-01-05 | 2022-02-03 |

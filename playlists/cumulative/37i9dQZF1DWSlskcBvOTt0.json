@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB"
       },
@@ -6134,7 +6152,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 291346,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/3gJu4keUtRC5e32h64905c"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 236065,
       "name": "Relax Shiva",
       "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
@@ -6800,6 +6818,28 @@
       "duration_ms": 331717,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/6c7l5dP10UTpi38lOImXmn"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/4jMpmFIETtRsDgo72PRSaW"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214596,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/2KmOzRSCOSUoHL9CAwQbny"
     },
     {
       "album": {

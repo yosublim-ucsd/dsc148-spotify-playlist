@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,043 likes - 76 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,076 likes - 76 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 62 | [Last Living Buffalo](https://open.spotify.com/track/3BOhoENNsKpSmG3ZOfU1iq) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Last Living Buffalo](https://open.spotify.com/album/1F7dOibX5qhJEhGUlCn78b) | 3:14 |
 | 63 | [Ghost with a Peach Skin](https://open.spotify.com/track/5cD2vEAaTKeSUrpFR8Umbs) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Rotten Bun for an Eggless Century](https://open.spotify.com/album/0tqVbc2hj5nC8JoYiqWQEz) | 3:09 |
 | 64 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 |
-| 65 | [For Today](https://open.spotify.com/track/5yK7yW57GecYWgf5gn74lP) | [The Lost Days](https://open.spotify.com/artist/1oZJCe4m2fO2hSZKndGimL) | [In the Store](https://open.spotify.com/album/2S4ZM2zLPEDxtxExcrJuGY) | 1:06 |
+| 65 | [For Today](https://open.spotify.com/track/5yK7yW57GecYWgf5gn74lP) | [The Lost Days](https://open.spotify.com/artist/1oZJCe4m2fO2hSZKndGimL), [Tony Molina](https://open.spotify.com/artist/2fmfhABysLV519rQYOBvtm) | [In the Store](https://open.spotify.com/album/2S4ZM2zLPEDxtxExcrJuGY) | 1:06 |
 | 66 | [Gardetto.](https://open.spotify.com/track/60TTojDqpr2XFzV6pKyWs3) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:55 |
 | 67 | [pawnshop](https://open.spotify.com/track/5YTBLQ5C8cG38Ch41jiJNl) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 2:38 |
 | 68 | [Consequences](https://open.spotify.com/track/0QRAH7hDfeIvmIbXA0Um2r) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Fish Bowl](https://open.spotify.com/album/1HxH0oH1wXSheea1tSj0Ne) | 3:45 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 75 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 | 76 | [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 |
 
-Snapshot ID: `MCxjODI5M2Q5NzM2YWE3ZjgwNmZiZWM0YzNkNmJkNzFhN2ZmNzEzZWU3`
+Snapshot ID: `MCw2OGIwYzFjNjQ3NGNjNWIxZTE4Mzk4ZjNlNDMwZmZlNDc0M2Y2MTAw`

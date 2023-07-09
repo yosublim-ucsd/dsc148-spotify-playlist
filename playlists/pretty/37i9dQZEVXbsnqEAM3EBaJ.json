@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDBlOWVkMzY5ODBiZmQzZWEwMDgzYTM1YWRiODU2MTVlOA==",
+  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDAzZDdlODRmYTI3Y2QzYWM5YzJlZmYxZGZkMzU0NGIwYg==",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -367,7 +367,7 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Paradise Is Here [(Sunrise Mix) [2023 Remaster]]",
+        "name": "Paradise Is Here (Sunrise Mix) [2023 Remaster]",
         "url": "https://open.spotify.com/album/4oO9eUlOWPRHujtc7JcHMY"
       },
       "artists": [
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Space Age Love Song (Re-Recorded) [Sped Up] - Single",
-        "url": "https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Space Age Love Song (Re-Recorded) [Sped Up]",
-      "url": "https://open.spotify.com/track/1PGbSZhAeh25BhUZjsVbVT"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Live at Montreux Jazz Festival '07",
         "url": "https://open.spotify.com/album/3di1aJsAni9pHe56cScyHQ"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Masquerade (Live Boston '90)",
-        "url": "https://open.spotify.com/album/16qDEYZmrUkqTLkV5m9Rpo"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 374255,
-      "name": "Hands All Over - Live",
-      "url": "https://open.spotify.com/track/0gPUFpQN1VhObb3tMi42LB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Planetary Revisions",
         "url": "https://open.spotify.com/album/0JjCjxDhxbke71KIIlwEEF"
       },
@@ -1043,26 +1011,6 @@
       "duration_ms": 247200,
       "name": "Planetary Revisions",
       "url": "https://open.spotify.com/track/1tEEbFhFX1VacJVqSeYJcO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Sugar Mami",
-        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 131671,
-      "name": "Sugar Mami",
-      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1099,26 +1047,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Toni (Jesu Interpolation)",
-        "url": "https://open.spotify.com/album/5LQDz86Isnpu3teDNkokXL"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        },
-        {
-          "name": "Jesu",
-          "url": "https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP"
-        }
-      ],
-      "duration_ms": 287319,
-      "name": "Toni - Jesu Interpolation",
-      "url": "https://open.spotify.com/track/5P9MfXZKSYEWHRpfyXfBjf"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
       },
@@ -1147,162 +1075,6 @@
       "duration_ms": 172520,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Run To You",
-        "url": "https://open.spotify.com/album/4SWWsWiIcgTbRGd78uplK8"
-      },
-      "artists": [
-        {
-          "name": "LMC",
-          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 172438,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/5nEeCaCtSoZDMlgarC3GVF"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "SIX",
-        "url": "https://open.spotify.com/album/481waoZXsOJUES7KpHOF5G"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "THE MASK",
-      "url": "https://open.spotify.com/track/1YUW55GXf7MgjuZL53cm5r"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "La Hora del T\u00e9",
-        "url": "https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ"
-      },
-      "artists": [
-        {
-          "name": "No Rim",
-          "url": "https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa"
-        },
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        }
-      ],
-      "duration_ms": 164825,
-      "name": "La Hora del T\u00e9",
-      "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/63rEPWddr5SlmqfGVUtk0O"
-      },
-      "artists": [
-        {
-          "name": "Perro Zw",
-          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
-        },
-        {
-          "name": "Hijos de las Hojas",
-          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
-        },
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 224677,
-      "name": "Jungla",
-      "url": "https://open.spotify.com/track/76s0uCFzmJRWpELYgkqNKz"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
-        "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
-      },
-      "artists": [
-        {
-          "name": "Banlieue Ouest Mafia",
-          "url": "https://open.spotify.com/artist/617RyKCoagfMG7GCODyPU1"
-        },
-        {
-          "name": "13OR",
-          "url": "https://open.spotify.com/artist/6HQmFUDcLWaLk3ncgBfIAj"
-        },
-        {
-          "name": "Canardo",
-          "url": "https://open.spotify.com/artist/0SVNXV6d5r6CpBCpe8Fbhf"
-        },
-        {
-          "name": "Chabodo",
-          "url": "https://open.spotify.com/artist/676qdoCi12iuUewCryG7lN"
-        },
-        {
-          "name": "Gued1",
-          "url": "https://open.spotify.com/artist/6KIOLTM50RvTpqn4JCFibl"
-        },
-        {
-          "name": "HdoubleL",
-          "url": "https://open.spotify.com/artist/2Pwz3pMIbpC3XoQvB2W2nN"
-        },
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Nosiiila",
-          "url": "https://open.spotify.com/artist/7EB8insZG7vcBTXNGVYEAU"
-        },
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        },
-        {
-          "name": "Pouf-Pouf",
-          "url": "https://open.spotify.com/artist/5DAwRQzJ2z4HzaYPUZKUfw"
-        },
-        {
-          "name": "Stone Flexance",
-          "url": "https://open.spotify.com/artist/16nk2E2W59xAJSRKOrrnsJ"
-        },
-        {
-          "name": "Weedy",
-          "url": "https://open.spotify.com/artist/1lRamcQgdwHrpVsFa6nVc9"
-        }
-      ],
-      "duration_ms": 400377,
-      "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
-      "url": "https://open.spotify.com/track/79hDPw6W97jutRE78kn8ik"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Dare: Singles & Remixes",
-        "url": "https://open.spotify.com/album/38dDUvG4WftuwpWB4RJaLY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 613253,
-      "name": "Hard Times / Love Action - Single Version / Remastered 2021",
-      "url": "https://open.spotify.com/track/551Mr9INSzPxxTJsM7NmUZ"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

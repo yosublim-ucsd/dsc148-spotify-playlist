@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Julie Byrne
 
-1,295 songs - 3 day 7 hr 11 min
+1,296 songs - 3 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Dream Still](https://open.spotify.com/track/3DOm9J49wTkzvGCDKlfauu) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:05 | 2021-11-12 | 2022-03-05 |
 | [Dreamer](https://open.spotify.com/track/4bqeBWlKwz8PoEjI4v7ggz) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Dreamer](https://open.spotify.com/album/5vfbxg7vfVJaT9pXHfoqQc) | 3:40 | 2022-02-11 | 2022-04-23 |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2021-11-12 | 2022-02-12 |
-| [Dreamland](https://open.spotify.com/track/3GBREcHeLva5sO9ScabHuI) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Dreamland](https://open.spotify.com/album/62KTbvJmbsf7qEcgBeNtfL) | 3:09 | 2023-06-02 |  |
+| [Dreamland](https://open.spotify.com/track/3GBREcHeLva5sO9ScabHuI) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Dreamland](https://open.spotify.com/album/62KTbvJmbsf7qEcgBeNtfL) | 3:09 | 2023-06-02 | 2023-07-09 |
+| [Dreamland](https://open.spotify.com/track/4QtVCOCB0Cd447YQ4BsIN8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Dreamland](https://open.spotify.com/album/1SGeUvi3TATE5rNSFBxuVT) | 3:09 | 2023-06-23 |  |
 | [Drive All Night \- Radio Edit](https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Drive All Night](https://open.spotify.com/album/5dlPH02w9VpPP2KJXIibyF) | 3:32 | 2022-04-15 | 2022-07-09 |
 | [Driving Just to Drive](https://open.spotify.com/track/7d2YvZlMNxmauKBGvgsfOw) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just to Drive](https://open.spotify.com/album/0hbuoLh0dHGbQKmQn4UZO6) | 3:32 | 2023-01-20 | 2023-04-29 |
 | [Drown](https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Drown](https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo) | 2:44 | 2023-05-12 |  |

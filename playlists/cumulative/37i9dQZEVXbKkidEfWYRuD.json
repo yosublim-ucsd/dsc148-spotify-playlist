@@ -12970,7 +12970,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 169586,
       "name": "\u0432\u043e\u0442\u0441\u0430\u043f",
       "url": "https://open.spotify.com/track/7iGdK8FeeKfWiLR3Ax6phw"
@@ -16392,7 +16392,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 169500,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB"
@@ -17278,6 +17278,24 @@
       "duration_ms": 202408,
       "name": "\u041d\u0435 \u0437\u0430\u0431\u0443\u0434\u0435\u043c \u0456 \u043d\u0435 \u043f\u0440\u043e\u0431\u0430\u0447\u0438\u043c",
       "url": "https://open.spotify.com/track/6KvQKU21c1ZGEoOajKfim0"
+    },
+    {
+      "album": {
+        "name": "JAZZ DO IT",
+        "url": "https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107538,
+      "name": "\u041d\u0415 \u041c\u041e\u0413\u0423",
+      "url": "https://open.spotify.com/track/0cwrUbIAPi1GNLrdIOT5Sd"
     },
     {
       "album": {
@@ -20614,7 +20632,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 108218,
       "name": "\u0422\u0443\u0434\u0430 \u0441\u044e\u0434\u0430",
       "url": "https://open.spotify.com/track/7lmlqoqCS8NvzRSX3Wf2zr"
@@ -21115,6 +21133,24 @@
     },
     {
       "album": {
+        "name": "JAZZ DO IT",
+        "url": "https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96642,
+      "name": "\u0425\u0410\u0419\u0415\u0413\u041e\u0425\u041e",
+      "url": "https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq"
+    },
+    {
+      "album": {
         "name": "\u0425\u0430\u043b\u043b\u0438\u0432\u0443\u0434 \u0425\u043e\u0443\u0441",
         "url": "https://open.spotify.com/album/0mEvl65Cm91K1EAIjiGfOG"
       },
@@ -21166,7 +21202,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 149584,
       "name": "\u0425\u0432\u0438\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI"
@@ -22168,7 +22204,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"
@@ -22378,7 +22414,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0456\u043d\u0448\u0430 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN"

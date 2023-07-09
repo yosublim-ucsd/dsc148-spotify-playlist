@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 128305,
+  "num_followers": 128410,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh",
+  "snapshot_id": "MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/19paHi9Pp3DNzmo50xGJNG"
+        "name": "BIG!",
+        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
       },
       "artists": [
         {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/1qYA0v6T3iDT6uVfppKgky"
+      "duration_ms": 162352,
+      "name": "BIG!",
+      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "BIG!",
-        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/19paHi9Pp3DNzmo50xGJNG"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 162352,
-      "name": "BIG!",
-      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
+      "duration_ms": 184737,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/1qYA0v6T3iDT6uVfppKgky"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "shadows",
+        "url": "https://open.spotify.com/album/6R6HqsC0djiNv01HQsdaBA"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "shadows",
+      "url": "https://open.spotify.com/track/5h65pxH4GY65qOUTz24CVp"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "IGWT",
         "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 144533,
       "name": "Who That Is",
       "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "shadows",
-        "url": "https://open.spotify.com/album/6R6HqsC0djiNv01HQsdaBA"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "LOGE",
-          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "shadows",
-      "url": "https://open.spotify.com/track/5h65pxH4GY65qOUTz24CVp"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Everyone Loves A Comeback Story",
-        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "I Can't Fail",
-      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Club Eden",
         "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
       },
@@ -1203,26 +1187,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
       },
@@ -1239,6 +1203,42 @@
       "duration_ms": 147000,
       "name": "Hottest In The City (feat. EmanuelDaProphet)",
       "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Everyone Loves A Comeback Story",
+        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "I Can't Fail",
+      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "HELLO KIZZY & COMPANY",
         "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "H O L O G R A P H I C",
         "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 164886,
       "name": "Slidin'",
       "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "My Rocket",
-        "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "My Rocket",
-      "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 127007,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "My Rocket",
+        "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "My Rocket",
+      "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Church House Trap House",
-        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
       },
       "artists": [
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Church House Trap House",
-      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
+      "duration_ms": 116363,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
+        "name": "Church House Trap House",
+        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
       },
       "artists": [
         {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
         }
       ],
-      "duration_ms": 116363,
-      "name": "Under Construction",
-      "url": "https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n"
+      "duration_ms": 138600,
+      "name": "Church House Trap House",
+      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "OH YHWH",
-        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        }
-      ],
-      "duration_ms": 183244,
-      "name": "OH YHWH",
-      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "WINGS OF AN ANGEL",
         "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 120888,
       "name": "butterfly vibes 2",
       "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "OH YHWH",
+        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "duration_ms": 183244,
+      "name": "OH YHWH",
+      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
     },
     {
       "added_at": "2023-04-28 12:30:31",

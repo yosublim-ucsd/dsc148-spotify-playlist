@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,612 songs - 3 day 13 hr 3 min
+1,613 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,7 @@
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-25 | 2022-08-06 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-06-14 |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-28 | 2022-04-16 |
-| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 |  |
+| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 | 2023-07-09 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-05-06 | 2021-05-27 |
 | [i wanna kiss boys cos i'm bored](https://open.spotify.com/track/5BGk9BV2Bar129ZNJFqgWA) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [i wanna kiss boys cos i'm bored](https://open.spotify.com/album/6Q3hFKUM6miEc14p6y9nCl) | 2:56 | 2020-12-12 | 2021-01-15 |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-30 |
@@ -1451,6 +1451,7 @@
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-10-13 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 | 2023-04-01 |
 | [There’s No Insurance For a Broken Heart](https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [There’s No Insurance For a Broken Heart](https://open.spotify.com/album/11xaAjghIJoQpxUAV1UuqH) | 3:23 | 2020-11-20 | 2021-01-15 |
+| [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-06-30 |  |
 | [These Drugs](https://open.spotify.com/track/03GpiUeYPwWFTvZu3feZLi) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [These Drugs](https://open.spotify.com/album/7t8UQuMOTv223ioJh3KVKA) | 4:02 | 2021-03-01 | 2021-05-22 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-11 | 2022-04-15 |
 | [Things I Hate](https://open.spotify.com/track/30rX6yMaXXWJ3CFShHLQGm) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Things I Hate](https://open.spotify.com/album/0lauA8wezg5MEriw6JaF5D) | 3:37 | 2021-08-27 | 2022-04-08 |

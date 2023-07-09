@@ -708,7 +708,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "The Cage & The Crown : Chapter I",
+        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+      },
+      "artists": [
+        {
+          "name": "HEADKEYZ",
+          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "Killing God",
+      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
+    },
+    {
+      "album": {
         "name": "Apelogies",
         "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
       },
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 249533,
       "name": "N\u00e9ant",
       "url": "https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y"
@@ -4842,7 +4860,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 263693,
       "name": "Zone 51",
       "url": "https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD"

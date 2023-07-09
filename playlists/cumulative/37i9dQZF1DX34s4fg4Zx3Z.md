@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
 
-1,084 songs - 2 day 15 hr 47 min
+1,085 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Tàn Hoa](https://open.spotify.com/track/0kyEyMahdYLi8onAPwYmkj) | [Quinn](https://open.spotify.com/artist/4bvfBwk7P6u7mvXkaKu1Hy), [TiB](https://open.spotify.com/artist/12oQKizOm2rS2LjvWjfUXY) | [Tàn Hoa](https://open.spotify.com/album/5aA4zBdLF0bjXWI16UUUk9) | 5:15 | 2022-10-02 | 2022-10-11 |
 | [Tàn Nhẫn](https://open.spotify.com/track/48li0xRYHqluOGtBDOVJ4N) | [Luong Minh Trang](https://open.spotify.com/artist/1tJo3demkLZyzZ3ZNQTCxx) | [Tàn Nhẫn](https://open.spotify.com/album/1sA7C91qrGw7zjQIre4hZe) | 3:18 | 2022-01-06 | 2022-02-11 |
 | [TÀNG LONG](https://open.spotify.com/track/5SbZn0axIjo8OJWejydlLM) | [Chiennhatlang](https://open.spotify.com/artist/71LQEF4uo08r9RIB7eTEAE), [LOWRIDAZ](https://open.spotify.com/artist/4cWLUniSxGXlVpPrp3Ntq2) | [TÀNG LONG](https://open.spotify.com/album/4Ttz3ESfpbciiOCpzpxQc1) | 2:44 | 2023-06-22 |  |
+| [tâm](https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 1:48 | 2023-07-09 |  |
 | [Tâm Tư Khi Yêu](https://open.spotify.com/track/4CAuX9oAmgeBodrz0tK5VL) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [LuckyC](https://open.spotify.com/artist/21N9GQDW47Q5e8VStA0fR8) | [Tâm Tư Khi Yêu](https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme) | 2:40 | 2022-06-07 | 2022-09-09 |
 | [Tìm Trong Giông Bão](https://open.spotify.com/track/2dgxkFzWEpbJyv2Sls52SN) | [Pha hay Fmaj7](https://open.spotify.com/artist/6UzDaLMZAqtrEfPDIN4aEv) | [Tìm Trong Giông Bão](https://open.spotify.com/album/1VHfJ3pZkSmc6tAkO3yAY7) | 5:05 | 2023-05-25 | 2023-06-26 |
 | [Tình Bằng Không](https://open.spotify.com/track/21ht6s6XlzisEPTXz0GIzM) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Tình Bằng Không](https://open.spotify.com/album/611J4KG26gSqBMTkDgKfVZ) | 4:09 | 2023-03-21 | 2023-03-30 |
@@ -973,7 +974,7 @@
 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 | 2022-06-16 | 2023-01-06 |
 | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id) | [Bơ](https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi), [D Aces](https://open.spotify.com/artist/60tSwWmk52m7UJXoVDLqYa) | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/album/0DdZXBHIEpZL9wSw876uM4) | 4:39 | 2023-06-07 | 2023-06-30 |
 | [Vị Son Môi](https://open.spotify.com/track/07COmDP7r58Oxd1StzcsaB) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [Vị Son Môi](https://open.spotify.com/album/2w9o4LzSgNXR4hUpyzEAgO) | 4:10 | 2022-10-06 | 2023-03-10 |
-| [Với em anh là gì? \- Sang](https://open.spotify.com/track/4rKQB0uvS6Mdvcv1quHFiB) | [\#SSdaRealest](https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226) | [Với em anh là gì? \- Sang](https://open.spotify.com/album/57VIdaDXnPMx991FfPKgyu) | 4:17 | 2023-07-06 |  |
+| [Với em anh là gì? \- Sang](https://open.spotify.com/track/4rKQB0uvS6Mdvcv1quHFiB) | [\#SSdaRealest](https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226), [Tr.M](https://open.spotify.com/artist/533XALivP2buJd5Ghsm38o) | [Với em anh là gì? \- Sang](https://open.spotify.com/album/57VIdaDXnPMx991FfPKgyu) | 4:17 | 2023-07-06 |  |
 | [Vợ Nhặt](https://open.spotify.com/track/33GPvxvDxXbKtiEVWo7P8J) | [Thai Son](https://open.spotify.com/artist/1JEYPHTPWUuKR38zPFW7IW) | [Vợ Nhặt](https://open.spotify.com/album/7dlfUANvzCVKBhufDs2VHK) | 3:08 | 2023-06-21 | 2023-07-07 |
 | [Waiting for You](https://open.spotify.com/track/7tseuw1e7EiGHM6YHVz17w) | [Thomas Dong](https://open.spotify.com/artist/69lHbxlJthL5hRim5cTmAR), [Charlotte Lyyn](https://open.spotify.com/artist/3BnFSCI4gUYXHzyXTYuDNk) | [Waiting for You](https://open.spotify.com/album/19qyj4rqHelmQTHF2F1YcF) | 3:15 | 2022-02-10 | 2022-02-19 |
 | [Wake Up](https://open.spotify.com/track/4uBFIeGl2D9Q1TZ6joDN6G) | [Kallawpie](https://open.spotify.com/artist/4no59uwD3gLkifUtPHTwzt), [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm) | [Wake Up](https://open.spotify.com/album/2m2Van6dW7up9EWGrHSKLr) | 3:29 | 2022-11-17 | 2023-03-10 |

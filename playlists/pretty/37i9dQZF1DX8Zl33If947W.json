@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 135374,
+  "num_followers": 135480,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm",
+  "snapshot_id": "MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mailbox",
-        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "mailbox",
-      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 206108,
       "name": "Liebe zu dritt",
       "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Mailbox",
+        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "mailbox",
+      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Dein ist mein ganzes Herz",
-        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
-      },
-      "artists": [
-        {
-          "name": "Heinz Rudolf Kunze",
-          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Dein ist mein ganzes Herz",
-      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 220373,
       "name": "Verdammt, ich lieb Dich - 2020 Remastered",
       "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
+      },
+      "artists": [
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Nur getr\u00e4umt",
-      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
     },
     {
       "added_at": "2023-03-06 08:21:00",

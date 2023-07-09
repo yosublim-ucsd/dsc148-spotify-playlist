@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-224 songs - 14 hr 17 min
+225 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Way Of Life](https://open.spotify.com/track/30x0oEG0ZSNGzccTM6FHGT) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Way Of Life EP](https://open.spotify.com/album/1G34rlXSZIIzLo723IiZzi) | 4:42 | 2022-10-14 | 2023-05-27 |
 | [Westside](https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob) | [Untitld](https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd) | [Westside](https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD) | 2:58 | 2022-09-17 | 2022-10-17 |
 | [What You Do](https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ) | [tsou](https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i) | [What You Do](https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4) | 3:27 | 2023-06-19 |  |
+| [Where I'm Going](https://open.spotify.com/track/1Xj0wD1Qhcsycc1W4Y5ifL) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3) | [Where I'm Going](https://open.spotify.com/album/15sAmxLmFlIHCYl50sPQ6W) | 3:53 | 2023-07-07 |  |
 | [Whiplash](https://open.spotify.com/track/15iMqjEdEXXZkQP67eDaG9) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Whiplash](https://open.spotify.com/album/0b784gQ8Ytq8zAX1MLwG22) | 2:51 | 2022-10-14 | 2022-10-17 |
 | [Windhorse](https://open.spotify.com/track/60ERpJRWMWexY91Jw67wqP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [The Tale of Elegos](https://open.spotify.com/album/6KAma26Kpo2Ro79hLzGIuU) | 3:54 | 2021-10-28 | 2022-02-28 |
 | [Windhorse](https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Windhorse](https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu) | 3:54 | 2021-10-07 | 2022-02-28 |

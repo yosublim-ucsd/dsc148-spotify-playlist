@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,675 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,710 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 40 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
 | 41 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 42 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
-| 43 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
+| 43 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
 | 44 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
-| 45 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
+| 45 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
 | 46 | [TE AMO!](https://open.spotify.com/track/2UZ7xwWTffAbB6nWa9NAfV) | [Duda Spice](https://open.spotify.com/artist/1xPBtxnaXMu5djES3yvlYt), [Goldlab Records](https://open.spotify.com/artist/6ISiV08ogOBFqv2KFVgmFp) | [TE AMO!](https://open.spotify.com/album/6jqmXRHdKBZUwxR9y6TWkc) | 2:13 |
 | 47 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
 | 48 | [Meu Fã](https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK) | [Collors Brasil](https://open.spotify.com/artist/4AjMZGrmvGRSxeDwNtFfgv), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E) | [Meu Fã](https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy) | 2:26 |
 | 49 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwxNWIxYThiZjQyOGY1Njc5MzI2OWM5ZDBmYThkMjJlZDJjMmYwOGM5`
+Snapshot ID: `MCxiNDQxNTcyNWVjZWViYjFlMjk3YWQ3YTU0MGY1YjViY2YwMjJhYjY5`

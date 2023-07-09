@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR, Taylor Swift, Dominic Fike and 347aidan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,597 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,616 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Slow Whine](https://open.spotify.com/track/5WDhz13Rkr3h2xKW7jz75T) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [Xanni](https://open.spotify.com/artist/6aTEaMf07T3LH7YGJcMYtS) | [Slow Whine](https://open.spotify.com/album/1Qq7L1lfyqNt37n5Hc3Hy4) | 3:11 |
 | 100 | [Highkey](https://open.spotify.com/track/2d7X4LdyqkjB01dTaqxkzV) | [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Taxsaal](https://open.spotify.com/artist/7hiTkXJusWkbN3YyTFLkjz) | [Highkey](https://open.spotify.com/album/12vjvK4yZb4H6gABve3vIj) | 2:52 |
 
-Snapshot ID: `MCw3ZjQzYjA0MGM0YjdmZTkwMzhhYTdiZmE2NGNjZmMzMjRjZTExN2Rk`
+Snapshot ID: `MCwzMTQ2M2Q4MWY3YzU0Nzc1OTQwYmZlZTM1Njc4NzIyOTNmNGJkNDYx`

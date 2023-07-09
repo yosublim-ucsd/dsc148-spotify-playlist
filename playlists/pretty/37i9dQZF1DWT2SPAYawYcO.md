@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Tkay Maidza
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,371 likes - 98 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,379 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 27 | [One Man](https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [One Man](https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy) | 2:30 |
 | 28 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 |
 | 29 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
-| 30 | [Fuck the Internet](https://open.spotify.com/track/1rSBKkL2ukLE6TuppA4XX4) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Fuck the Internet](https://open.spotify.com/album/2NueODtDjDpJPggFP2204P) | 2:28 |
+| 30 | [FUCK THE INTERNET](https://open.spotify.com/track/1rSBKkL2ukLE6TuppA4XX4) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [FUCK THE INTERNET](https://open.spotify.com/album/2NueODtDjDpJPggFP2204P) | 2:28 |
 | 31 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 |
 | 32 | [Take No More](https://open.spotify.com/track/40Lns0ks6frbEtQSpDohgs) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Archie Roach Foundation](https://open.spotify.com/artist/7ijb5ZF9T7XaP3sxsxCks4) | [Take No More](https://open.spotify.com/album/4sNHcLD24TLHxgkwaA9LVf) | 3:17 |
 | 33 | [Tramp](https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Tramp](https://open.spotify.com/album/194FegwGaDpCqaL42S9lbG) | 3:33 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 97 | [Heartbreak Hotel](https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Heartbreak Hotel](https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb) | 3:23 |
 | 98 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 
-Snapshot ID: `MCxiMDE4MjBlNjFlNjdkYmFmZDhhMTI5OWM0ZDA0NWJkZWQzNWVkOTMx`
+Snapshot ID: `MCw4ODc5OTNmMTAzYmMzYTE3ODUwMjRiZWI0MmQ3MTA3ZmVjNWE5NTdi`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 347847,
+  "num_followers": 347897,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzZiNDJjMmRjOWE0ZTE2Y2QyOThhMGNkZWNhNDFhYTU0YTZmNzUw",
+  "snapshot_id": "MCxiNjdlZmMzM2ZkZDA3NzNkYmU0MjBlMzA4MThjYzIzMjhlMmNjZjEy",
   "tracks": [
     {
       "added_at": "2023-07-07 19:26:27",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-07-07 19:26:27",
       "album": {
+        "name": "La Esquina del Mall",
+        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "La Esquina del Mall",
+      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
+    },
+    {
+      "added_at": "2023-07-07 19:26:27",
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1jH4f6N9caSeq3VwwtTHLn"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 194437,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv"
-    },
-    {
-      "added_at": "2023-07-07 19:26:27",
-      "album": {
-        "name": "La Esquina del Mall",
-        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "La Esquina del Mall",
-      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
       "added_at": "2023-07-07 19:26:27",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-07 19:26:27",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     }
   ],
   "unique_name": "Buen Vibe",

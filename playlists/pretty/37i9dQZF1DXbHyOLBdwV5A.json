@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 106095,
+  "num_followers": 106194,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTQ3YzQ3ZDUxM2Q2NzZiZDE1NjU1OWZmNzZiYWVkNDkzNTFkZWZi",
+  "snapshot_id": "MCxlOWMxNTJlYjhmMWM2MWQzZDczMzE5YTA1ZmRhNGEzYmUxZjVkOWU4",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -215,22 +215,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Voc\u00ea Me Mudou",
-        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
         }
       ],
-      "duration_ms": 183682,
-      "name": "Voc\u00ea Me Mudou",
-      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+        "name": "Voc\u00ea Me Mudou",
+        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
       "artists": [
         {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         }
       ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
+      "duration_ms": 183682,
+      "name": "Voc\u00ea Me Mudou",
+      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Passando pela Prova (Remix)",
-        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
-      },
-      "artists": [
-        {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 123995,
-      "name": "Passando pela Prova - Remix",
-      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Loucura (Remix)",
         "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Passando pela Prova (Remix)",
+        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 123995,
+      "name": "Passando pela Prova - Remix",
+      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "O Le\u00e3o (Dj Del Mag Remix)",
-        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Victor Rodrigues",
-          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "O Le\u00e3o - Dj Del Mag Remix",
-      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "O Le\u00e3o (Dj Del Mag Remix)",
+        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Victor Rodrigues",
+          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "O Le\u00e3o - Dj Del Mag Remix",
+      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
       },
@@ -1139,6 +1159,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
@@ -1159,42 +1195,6 @@
       "duration_ms": 178663,
       "name": "Balada do Senhor (Slap House Gospel)",
       "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1255,50 +1255,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Me Resgatou (Remix)",
-        "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
-      },
-      "artists": [
-        {
-          "name": "Projeto Vida Nova de Iraj\u00e1",
-          "url": "https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP"
-        },
-        {
-          "name": "Eduardo Silva",
-          "url": "https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV"
-        },
-        {
-          "name": "Carlos Eduardo da Silva de Assis",
-          "url": "https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp"
-        }
-      ],
-      "duration_ms": 231948,
-      "name": "Me Resgatou - Remix",
-      "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
@@ -1327,6 +1283,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Me Resgatou (Remix)",
+        "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
+      },
+      "artists": [
+        {
+          "name": "Projeto Vida Nova de Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP"
+        },
+        {
+          "name": "Eduardo Silva",
+          "url": "https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV"
+        },
+        {
+          "name": "Carlos Eduardo da Silva de Assis",
+          "url": "https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp"
+        }
+      ],
+      "duration_ms": 231948,
+      "name": "Me Resgatou - Remix",
+      "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 190800,
       "name": "Me Encontrou (DJ Vitor Capoia Remix)",
       "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2023-06-02 03:00:00",

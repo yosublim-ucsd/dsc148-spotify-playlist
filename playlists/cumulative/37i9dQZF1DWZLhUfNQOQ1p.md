@@ -4,7 +4,7 @@
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-264 songs - 16 hr 58 min
+265 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 | 2023-05-30 |  |
 | [Feel It Still](https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/1ABBRyrEHEURRnsj9JZNLC) | 3:42 | 2021-08-05 | 2022-07-29 |
 | [Feel It Still](https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t) | 3:42 | 2021-08-05 | 2023-05-31 |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 |  |
 | [Feel Me](https://open.spotify.com/track/6nlNdYGf4TnWPKzxdPZW90) | [Dalac](https://open.spotify.com/artist/66b0xoSrR8tM1qjoEwsDlq) | [Feel Me](https://open.spotify.com/album/0yAeK2SHxC7xKBP1N3jbpB) | 4:02 | 2021-08-05 | 2022-07-13 |
 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 | 2021-08-05 | 2023-05-31 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-05-30 |  |
@@ -172,7 +173,7 @@
 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 | 2021-08-05 | 2022-11-17 |
 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 | 2021-08-05 | 2023-04-14 |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-14 |  |
-| [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2023-05-30 |  |
+| [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2023-05-30 | 2023-07-09 |
 | [Over](https://open.spotify.com/track/4eAKdH0VBbjF4VvU5f4zLp) | [Aérotique](https://open.spotify.com/artist/6qOzyug9zoGuMHTmErJ6zo), [Tara Mobee](https://open.spotify.com/artist/6HThDFOUqUBmjE07Bhqe5K) | [Over](https://open.spotify.com/album/4SAxlTMGIoqcoZxlzOG112) | 3:38 | 2021-08-05 | 2022-07-26 |
 | [Over and Over](https://open.spotify.com/track/1F0DPRmTffMqDkCbQ51vik) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Over and Over](https://open.spotify.com/album/1u718NqKyS7ahIrLbGTnWu) | 2:57 | 2021-08-05 | 2022-07-26 |
 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 | 2023-05-14 |  |

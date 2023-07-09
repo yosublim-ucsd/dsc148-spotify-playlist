@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-373 songs - 21 hr 22 min
+374 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Fire Dance](https://open.spotify.com/track/1gf1zXY3P0YVhU3OVMMUDo) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/4fbubCUHZTOBfdDCsGWQXL) | [Pretty Dark Loud](https://open.spotify.com/album/5vAEBOXanr6tB799kZ6vtA) | 2:38 | 2022-10-21 | 2023-03-11 |
 | [Fire Dance](https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 2:38 | 2021-12-17 | 2022-10-23 |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 | 2023-04-01 |
-| [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 |  |
+| [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 | 2023-07-09 |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [Fuckin'](https://open.spotify.com/track/5DhNPiNSXbQeYkvje3kJf8) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Fuckin' EP](https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6) | 1:20 | 2023-05-12 | 2023-06-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
@@ -157,6 +157,7 @@
 | [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-05-26 |  |
 | [HARD HEADZ](https://open.spotify.com/track/79DeXXSTNCKwo1Ii6LuGpI) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [HARD HEADZ](https://open.spotify.com/album/18ybB6BbZdJCh3OZmMb4ec) | 4:13 | 2022-11-11 |  |
 | [Haxo \-Sharks Remix](https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Graphyt](https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Haxo \(Sharks Remix\)](https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj) | 4:12 | 2022-06-10 | 2023-05-13 |
+| [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-07 |  |
 | [Heavyweights](https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Energy Timewarp](https://open.spotify.com/album/0RrDWUxUMo5BLBZoGPFUyD) | 3:04 | 2022-02-25 | 2022-08-02 |
 | [Higher](https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Higher](https://open.spotify.com/album/0Sl0PD8pjEBHRk4rX8kac8) | 4:58 | 2023-03-31 | 2023-05-19 |
 | [Holla](https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Holla](https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A) | 3:02 | 2022-04-01 | 2023-05-13 |

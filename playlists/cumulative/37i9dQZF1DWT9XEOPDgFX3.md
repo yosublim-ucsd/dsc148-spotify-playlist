@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Maple Glider
 
-364 songs - 22 hr 49 min
+365 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 | 2023-05-12 |  |
 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 | 2022-04-29 | 2022-12-08 |
 | [Blue](https://open.spotify.com/track/60u8U5A6th7e2QcQ1A1Vrh) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/2K8sX4ajUJNTie21tdfDyi) | 5:55 | 2022-04-13 | 2022-07-29 |
+| [Blue Moon \(with paris jackson\)](https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Blue Moon \(with paris jackson\)](https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU) | 2:29 | 2023-06-30 |  |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [bluejay](https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [bluejay](https://open.spotify.com/album/2FIDkKL3ElI7ULEkI8OvY0) | 2:35 | 2023-05-26 |  |
 | [By Myself](https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [By Myself](https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO) | 2:26 | 2022-01-21 | 2023-02-04 |
@@ -89,7 +90,7 @@
 | [Death Is the New Sex](https://open.spotify.com/track/2shp71iOOf5DJVAgqQs58D) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Death Is the New Sex](https://open.spotify.com/album/4wcuAtKqJ2U3ZK6lVteHhX) | 4:14 | 2022-04-13 | 2022-07-29 |
 | [Deep Routed](https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48), [GHRIAN](https://open.spotify.com/artist/3cteHzEas8SKKUnG5VEWsb) | [Deep Routed](https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD) | 3:46 | 2023-02-17 | 2023-05-02 |
 | [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 | 2023-06-02 |  |
-| [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-03 |  |
+| [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-03 | 2023-07-09 |
 | [Distant Axis](https://open.spotify.com/track/572HkIrjSOI7GLfQUTxn4H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison](https://open.spotify.com/album/5EqnUTFVewiWTuN11K4G8E) | 4:25 | 2022-01-21 | 2022-07-29 |
 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 | 2022-04-29 |  |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2022-12-16 |  |

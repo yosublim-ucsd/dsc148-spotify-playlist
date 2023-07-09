@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,082 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,105 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 41 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 |
 | 42 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 |
 | 43 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 |
-| 44 | [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 |
+| 44 | [Blues Comin' On](https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:24 |
 | 45 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 |
 | 46 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 |
 | 47 | [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 100 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 |
 
-Snapshot ID: `MCxlODJjYTcwZTcwODBjMDllMjkwMmU5M2VkMzZlZTg2ZTM1YjVhNWRm`
+Snapshot ID: `MCw5MWVkMTI0N2ZlNTUyMDAyYTRlZGFjMGIzYTQ0OGE1YjgxNGU1ZjE0`

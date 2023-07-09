@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 110849,
+  "num_followers": 110899,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTA1MDQwMjUyNzA5ZTk1M2E0NjhmOTc1YzU5Y2RjY2ExZjdjNjU5",
+  "snapshot_id": "MCw3MTRmMDVmYjI0OGU5ZDk0NGZlNDIwMDFkNWRhOTI4MjkyODYzMDg3",
   "tracks": [
     {
       "added_at": "2023-05-26 17:02:35",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Beamer (Bad Boys)",
-        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 195047,
-      "name": "Beamer (Bad Boys)",
-      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Beamer (Bad Boys)",
+        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 195047,
+      "name": "Beamer (Bad Boys)",
+      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 145909,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "YA LLORARE(MOS)",
-        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "YA LLORARE(MOS)",
-      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Yoyo",
         "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+        "name": "YA LLORARE(MOS)",
+        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         }
       ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+      "duration_ms": 230967,
+      "name": "YA LLORARE(MOS)",
+      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1319,26 +1303,18 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Toco Madera",
-        "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
       "artists": [
         {
-          "name": "Cabra",
-          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
-        },
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        },
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         }
       ],
-      "duration_ms": 228073,
-      "name": "Toco Madera",
-      "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1359,6 +1335,30 @@
       "duration_ms": 194042,
       "name": "Prende",
       "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Toco Madera",
+        "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
+      },
+      "artists": [
+        {
+          "name": "Cabra",
+          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+        },
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 228073,
+      "name": "Toco Madera",
+      "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
     },
     {
       "added_at": "2023-05-26 17:02:35",

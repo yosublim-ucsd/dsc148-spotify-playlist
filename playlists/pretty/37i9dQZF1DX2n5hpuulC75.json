@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 254892,
+  "num_followers": 254930,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
+  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192364,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -731,6 +715,22 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Brother",
@@ -927,22 +943,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Infinite Games",
         "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 208706,
       "name": "Get Light",
       "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -987,22 +1003,6 @@
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
-    },
-    {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
     },
     {
       "added_at": "2018-12-11 21:12:31",

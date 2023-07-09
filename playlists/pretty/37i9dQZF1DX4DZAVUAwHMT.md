@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YONAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,396 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,389 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 |
 | 55 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
 
-Snapshot ID: `MCxjOGZiZGJhYmQwYjg5NTgwMjdiOGYyZWE2YjAzOGNjNDE0NDJmNWU1`
+Snapshot ID: `MCwzMjk1NTFkZWVkYWQ5ZWYwNTcxZGZlNmFlY2E2ZjAxNTEwNDAyN2M1`

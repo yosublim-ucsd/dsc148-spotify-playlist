@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u3010OSHI NO KO\u3011/\u3010\u63a8\u3057\u306e\u5b50\u3011\u00a9\ufe0f\u8d64\u5742\u30a2\u30ab\u00d7\u6a2a\u69cd\u30e1\u30f3\u30b4\uff0f\u96c6\u82f1\u793e\u30fb\u3010\u63a8\u3057\u306e\u5b50\u3011\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "num_followers": 121554,
+  "num_followers": 122281,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2E5ZTM2MDU1Zjc5ZjM3ZTZjMTcwMWRjMWVmZTE2OGE3MjUxNTZl",
+  "snapshot_id": "MCw0ZDQyYWI2NjhmMjA1ZmIzNmQ2NjQ3MDljY2RiNDZkYmZmMzZlN2M2",
   "tracks": [
     {
       "added_at": "2023-07-06 15:08:38",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-07-06 15:08:38",
       "album": {
-        "name": "\u79c1\u306f\u6700\u5f37 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq"
+        "name": "\u6253\u4e0a\u82b1\u706b",
+        "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        },
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 257915,
-      "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
+      "duration_ms": 289334,
+      "name": "\u6253\u4e0a\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
     },
     {
       "added_at": "2023-07-06 15:08:38",
@@ -603,26 +607,6 @@
     {
       "added_at": "2023-07-06 15:08:38",
       "album": {
-        "name": "\u6253\u4e0a\u82b1\u706b",
-        "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
-      },
-      "artists": [
-        {
-          "name": "Daoko",
-          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
-        },
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 289334,
-      "name": "\u6253\u4e0a\u82b1\u706b",
-      "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
-    },
-    {
-      "added_at": "2023-07-06 15:08:38",
-      "album": {
         "name": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 216826,
       "name": "Red:birthmark",
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
+    },
+    {
+      "added_at": "2023-07-06 15:08:38",
+      "album": {
+        "name": "\u79c1\u306f\u6700\u5f37 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 257915,
+      "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
     },
     {
       "added_at": "2023-07-06 15:08:38",

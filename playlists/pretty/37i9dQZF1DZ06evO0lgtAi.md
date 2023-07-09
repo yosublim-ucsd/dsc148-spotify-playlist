@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 
 > This is Tainy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,402 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,455 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 42 | [EL PLAN](https://open.spotify.com/track/4BEhYjP8feURPfmrHNc4dM) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:39 |
 | 43 | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Feel It Too \(with Jessie Reyez & Tory Lanez\)](https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN) | 3:13 |
 | 44 | [La Pena ft\. Dylan Fuentes](https://open.spotify.com/track/0UY7P8WMXfeN8LUXw3zyCN) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:05 |
-| 45 | [VA Y VEN](https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 4:19 |
+| 45 | [CÁMARA LENTA](https://open.spotify.com/track/1m6yzbCrhxXXYKcCcrPgP0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:33 |
 
-Snapshot ID: `MjgxNDU1NjIsMDAwMDAwMDA4MTVmZWZlZGZmZmFlZWQyODM2ZjRiMzNiNDllYzUxNw==`
+Snapshot ID: `MjgxNDcwNDQsMDAwMDAwMDBlOTQ3N2YyM2NlY2Q2NjgwMTZkZTZjODIwMjQ4Mzc5Zg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,451 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,792 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 75 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9) | 4:50 |
 | 76 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 |
 | 77 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
-| 78 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
+| 78 | [Carefree](https://open.spotify.com/track/3ijPbHf7GVkMIT9tlDbWsZ) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree](https://open.spotify.com/album/6ZkKQAXRv2KRTLiWfciQrk) | 4:01 |
 | 79 | [FLOAT \(feat\. Mamii\)](https://open.spotify.com/track/7JADyHONoFkZr3Re80iwLy) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES \(LIMITED EDITION\)](https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF) | 2:26 |
 | 80 | [All Falls Down](https://open.spotify.com/track/4KHozmLnuDoTbjPuVWPWEU) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/2hdwem2NSHtbU7OaqT7HqJ) | 4:11 |
 | 81 | [Breathe](https://open.spotify.com/track/2WjZUZBJb9i41wt3GcJza4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Tope](https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq), [Michael Prince](https://open.spotify.com/artist/1hJTXkltEFvkKJe4xLjXKw) | [CLARITY](https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Goner!](https://open.spotify.com/track/7cmR3b3IPNVgUoqivTJmtj) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [Deniro Farrar](https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p), [Emani](https://open.spotify.com/artist/4V45KUnlhpjQQjsGuh0dVd), [Breanna Burks](https://open.spotify.com/artist/65RKpATWQlBu3TY2G9z9XF) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 4:37 |
 | 100 | [Ma Boy](https://open.spotify.com/track/1kn9JsBWIw6qREhDWw0lKb) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Ma Boy](https://open.spotify.com/album/0UqZZstwaKzBuNLXPZANxa) | 2:46 |
 
-Snapshot ID: `MCwzZTE1ZmU1ODNhMDFjYjUxZDZjMjQwYThlZGMyMmJjNWFmNmNjM2Mw`
+Snapshot ID: `MCwxOGU2M2EzNjZjODNkMDNmYzZkNWM3ODQxNzY5MjcwODQwNDFhMzM1`

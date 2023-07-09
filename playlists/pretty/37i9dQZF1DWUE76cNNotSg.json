@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 452532,
+  "num_followers": 452834,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzhkZTc5YmFkY2I5ZWQzNTQwZmQ5YTIwYWE3MjU5OWJjYTQ0ZTVm",
+  "snapshot_id": "MCwyZjJiZGMwN2RhNzY2OTc3NjFjMjU3YjY1YmNiYWYxZmUwNWVmNGRj",
   "tracks": [
     {
       "added_at": "2023-07-07 16:25:50",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 168245,
-      "name": "Chika (Scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 279653,
       "name": "LULLABY",
       "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 168245,
+      "name": "Chika (Scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
+        }
+      ],
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
       },
@@ -1183,42 +1183,6 @@
       "duration_ms": 209293,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
-        "name": "Run, Run",
-        "url": "https://open.spotify.com/album/3aWroQh3J8YFe7YazP4dTT"
-      },
-      "artists": [
-        {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        },
-        {
-          "name": "Julietta",
-          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
-        }
-      ],
-      "duration_ms": 299173,
-      "name": "Run, Run",
-      "url": "https://open.spotify.com/track/7a0suLGVvHVHigyksiMt28"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Begin Again - Single Edit",
-      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -1279,22 +1243,6 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
-    },
-    {
-      "added_at": "2023-07-07 16:25:50",
-      "album": {
         "name": "Home For Now",
         "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
       },
@@ -1307,6 +1255,58 @@
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Run, Run",
+        "url": "https://open.spotify.com/album/3aWroQh3J8YFe7YazP4dTT"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
+        }
+      ],
+      "duration_ms": 299173,
+      "name": "Run, Run",
+      "url": "https://open.spotify.com/track/7a0suLGVvHVHigyksiMt28"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
+    },
+    {
+      "added_at": "2023-07-07 16:25:50",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "Kyle (i found you)",
-        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Kyle (I Found You)",
-      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2023-07-07 16:25:50",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2023-07-07 16:25:50",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+        "name": "Kyle (i found you)",
+        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
+      "duration_ms": 196071,
+      "name": "Kyle (I Found You)",
+      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
     },
     {
       "added_at": "2023-07-07 16:25:50",

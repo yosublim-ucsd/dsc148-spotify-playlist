@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1081854,
+  "num_followers": 1081911,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2UzMGE2YzJjZTY4ODlmMDE1YmRlZGY3OWNjZmU5MGNlNTU0YjRl",
+  "snapshot_id": "MCw2ZTkzM2JhODA4OWFhNzU5YWI2OTQ5Yzc0MjJmYjg5OWE0N2VlNjhl",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "OUTTA MY MIND",
         "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 226005,
       "name": "OUTTA MY MIND",
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 202248,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Six Speed",
+        "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Six Speed",
+      "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Six Speed",
-        "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
       "artists": [
         {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Six Speed",
-      "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -679,22 +695,6 @@
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
       "added_at": "2023-06-26 19:19:08",
       "album": {
         "name": "Untitled '91",
@@ -791,6 +775,22 @@
       "duration_ms": 87966,
       "name": "Flook",
       "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "feel u",
-        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
-      },
-      "artists": [
-        {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
-        }
-      ],
-      "duration_ms": 150670,
-      "name": "feel u",
-      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "feel u",
+        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
+      },
+      "artists": [
+        {
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+        }
+      ],
+      "duration_ms": 150670,
+      "name": "feel u",
+      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 177600,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "VROOM VROOM",
-        "url": "https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc"
-      },
-      "artists": [
-        {
-          "name": "Mickey Darling",
-          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "VROOM VROOM",
-      "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188143,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "VROOM VROOM",
+        "url": "https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc"
+      },
+      "artists": [
+        {
+          "name": "Mickey Darling",
+          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "VROOM VROOM",
+      "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/5zYDxzEPmchIgpULm0QgJA"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "HEATWAVE",
@@ -1383,6 +1367,22 @@
       "duration_ms": 219833,
       "name": "THE BOTTOM",
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
       "added_at": "2023-04-17 19:26:13",

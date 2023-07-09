@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 372473,
+  "num_followers": 372487,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTk5MGIzYTYyOWQwYmJkNjIyM2YwNjg2ZDZjMTc3NWQ5ZjVlZTQw",
+  "snapshot_id": "MCw0NjMxNjYxODdkZjQzODA1ZWFiYTA2ZmMwMjZlNTAwMjliZjExMjA4",
   "tracks": [
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "You Just Walked In My Life",
-        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "You Just Walked In My Life",
-      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "HONEY DARLIN (feat. Aile The Shota)",
         "url": "https://open.spotify.com/album/7IfOFWG5ewWQ2c2EN9RIB7"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
+        "name": "You Just Walked In My Life",
+        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
         "name": "Late summer waves",
         "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
       },
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "bud",
-        "url": "https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG"
+        "name": "The Swallow (feat. Midories)",
+        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
       "artists": [
         {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
         }
       ],
-      "duration_ms": 166666,
-      "name": "bud",
-      "url": "https://open.spotify.com/track/6G2Y1XUqHlx3FMMML9Eczm"
+      "duration_ms": 217428,
+      "name": "The Swallow (feat. Midories)",
+      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1355,22 +1359,18 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "The Swallow (feat. Midories)",
-        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
+        "name": "bud",
+        "url": "https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        },
-        {
-          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
         }
       ],
-      "duration_ms": 217428,
-      "name": "The Swallow (feat. Midories)",
-      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
+      "duration_ms": 166666,
+      "name": "bud",
+      "url": "https://open.spotify.com/track/6G2Y1XUqHlx3FMMML9Eczm"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
         "name": "Mo ai ni",
         "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 178673,
       "name": "Mo ai ni",
       "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Hozue",
-        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "Hozue",
-      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "My Generation",
         "url": "https://open.spotify.com/album/3OMCNHJJAbgNJcJmYKFqYi"
       },
@@ -1767,26 +1751,34 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Hearth",
-        "url": "https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx"
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
       },
       "artists": [
         {
-          "name": "Sam is Ohm",
-          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        },
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 206017,
-      "name": "Hearth",
-      "url": "https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz"
+      "duration_ms": 220236,
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2023-07-06 15:00:00",

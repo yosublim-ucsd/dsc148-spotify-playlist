@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Little Dragon
 
-1,023 songs - 2 day 13 hr 35 min
+1,025 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [Poodles Dancing](https://open.spotify.com/track/2Zi7DNAS7cUZ50ybfLjdf1) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Poodles Dancing](https://open.spotify.com/album/2izKf7I214u1QWVv7vY0dQ) | 3:05 | 2022-07-29 | 2022-08-27 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-30 | 2022-04-28 |
 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 | 2022-02-10 | 2022-03-04 |
+| [Portrait Of A Clear Day](https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:20 | 2023-07-08 |  |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-01-28 | 2022-04-01 |
 | [Prada](https://open.spotify.com/track/6miahXSZE01l2lNDqNCfxQ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Prada / Rakata](https://open.spotify.com/album/77PE5FgPHyF4uUyaZMszch) | 2:43 | 2021-12-16 | 2021-12-31 |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-20 | 2023-01-14 |
@@ -991,6 +992,7 @@
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-03-31 | 2022-04-15 |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-10 | 2022-04-08 |
 | [Why](https://open.spotify.com/track/0wOUNGOHvZZfwg7EodzJUc) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:19 | 2022-04-07 | 2022-05-13 |
+| [Why Am I Alive Now?](https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Why Am I Alive Now?](https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o) | 5:59 | 2023-07-08 |  |
 | [Why Can't I Help Me?](https://open.spotify.com/track/0eA1W3UokYHGN9Vv7pbAOH) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Why Can't I Help Me?](https://open.spotify.com/album/1iWwrZkWIdZjtCwg8tBpDJ) | 2:26 | 2023-03-31 | 2023-04-22 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-08-26 | 2022-10-29 |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-10 | 2022-08-12 |

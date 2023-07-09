@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,540 likes - 65 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 65 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 64 | [Don't Fuck Around](https://open.spotify.com/track/2vxMgCp6jckeLc0KTGpEBd) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Everything Comes True](https://open.spotify.com/album/6m3K8LjG7jJDtAhJ4FkWPS) | 6:35 |
 | 65 | [Brick City](https://open.spotify.com/track/6cY0VkgAjxj4Bhe0rRnKrU) | [HONEY B](https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W) | [Brick City](https://open.spotify.com/album/7aOTxMiQvikfCpIdtM9JaV) | 3:57 |
 
-Snapshot ID: `MCxlYTNlZDM4ZDU2Zjc1M2MzOWJiNGExYmNiZjk4YjZhZWQzNjEzZTlm`
+Snapshot ID: `MCw4MTFmZjYzZGYzNGM5YjFiZjI4MTNiOWVhMDMxN2EzMGYxYTcwN2Jj`

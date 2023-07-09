@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 30858,
+  "num_followers": 30955,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzhjYjI1NTQ5ZjM3OGE0ZWUzOTk3ZTExNDI1NjQzMGQ3YTA0YTIw",
+  "snapshot_id": "MCxkZjY4N2ExOWZjMGMyNTVlNWE5ODI0YmU3YmIzMmE2N2JlZjhjM2Mx",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Over My Head (Cable Car)",
-      "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 219320,
       "name": "Savin' Me",
       "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Over My Head (Cable Car)",
+      "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "Dead Letters",
+        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Dead Letters",
-        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All the Right Reasons (Special Edition)",
-        "url": "https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "All the Right Reasons (Special Edition)",
+        "url": "https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "3 Doors Down",
         "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 241960,
       "name": "It's Not My Time",
       "url": "https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
     },
     {
       "added_at": "2021-04-09 06:36:41",

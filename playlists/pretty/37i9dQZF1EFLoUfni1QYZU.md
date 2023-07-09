@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 83 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 70 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
 | 71 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
 | 72 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
-| 73 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 |
-| 74 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
+| 73 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
+| 74 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 |
 | 75 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 |
 | 76 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
 | 77 | [Nothing To Lose](https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE) | [Nick Fradiani](https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut) | [Hurricane](https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k) | 3:22 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgxNDQ5MjAsMDAwMDAwMDA2YmMzODM2ODdlM2FmZGE0ZWNiZWRiMTQyY2NkMjJjMg==`
+Snapshot ID: `MjgxNDc4MzAsMDAwMDAwMDBhYTliYjdmNzIzN2FkYThmN2Q2ZWE0ZWFhNzBjZDE2Yg==`

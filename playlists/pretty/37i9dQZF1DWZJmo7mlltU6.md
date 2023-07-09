@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Sebastián Cortés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,179 likes - 104 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,213 likes - 104 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 103 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 |
 | 104 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 |
 
-Snapshot ID: `MCwwYWI4MThiYzg1NzAyMTNiZGYxZWVlMzY3NWI1YTI2NTBiZGZhYmU0`
+Snapshot ID: `MCxiM2EyN2JmYzk1NTFkYTY4MzJiMzlmODg0MjMzMzVkY2NmNGFlOTk0`

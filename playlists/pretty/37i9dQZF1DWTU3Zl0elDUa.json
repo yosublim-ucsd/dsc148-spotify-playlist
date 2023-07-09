@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 277263,
+  "num_followers": 277677,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0",
+  "snapshot_id": "MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -551,6 +551,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "F.L.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
+      },
+      "artists": [
+        {
+          "name": "Mel & Kim",
+          "url": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Showing Out (Get Fresh At the Weekend) - 7\" Version",
+      "url": "https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Frankie Knuckles Presents: His Greatest Hits from Trax Records",
         "url": "https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 417706,
       "name": "The Whistle Song",
       "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "F.L.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
-      },
-      "artists": [
-        {
-          "name": "Mel & Kim",
-          "url": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Showing Out (Get Fresh At the Weekend) - 7\" Version",
-      "url": "https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -963,26 +963,18 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Mushrooms",
-        "url": "https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5"
+        "name": "First Floor",
+        "url": "https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Noosa Heads",
-          "url": "https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp"
-        },
-        {
-          "name": "Salt City Orchestra",
-          "url": "https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi"
+          "name": "Theo Parrish",
+          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
         }
       ],
-      "duration_ms": 492340,
-      "name": "Mushrooms - Salt City Orchestra Out There Mix",
-      "url": "https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V"
+      "duration_ms": 435800,
+      "name": "Sweet Sticky",
+      "url": "https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -1003,18 +995,26 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "First Floor",
-        "url": "https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua"
+        "name": "Mushrooms",
+        "url": "https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5"
       },
       "artists": [
         {
-          "name": "Theo Parrish",
-          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Noosa Heads",
+          "url": "https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp"
+        },
+        {
+          "name": "Salt City Orchestra",
+          "url": "https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi"
         }
       ],
-      "duration_ms": 435800,
-      "name": "Sweet Sticky",
-      "url": "https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN"
+      "duration_ms": 492340,
+      "name": "Mushrooms - Salt City Orchestra Out There Mix",
+      "url": "https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V"
     },
     {
       "added_at": "2021-09-17 08:34:50",

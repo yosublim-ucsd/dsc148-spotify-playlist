@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-124 songs - 5 hr 22 min
+125 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dreaming with the Rain](https://open.spotify.com/track/4RKTcZW70g05cXqEN9oNdJ) | [Sonic Relaxer](https://open.spotify.com/artist/4MOsS7tcUoZjZx5S3wHgDm) | [Night Time Rain](https://open.spotify.com/album/4i1sJp94HJgFGOrV3graF0) | 2:39 | 2021-11-11 |  |
 | [Drip Drop On Me](https://open.spotify.com/track/1VUxSD5imKCgA60P6uXnsd) | [High Voltage](https://open.spotify.com/artist/5EPNlMKDjvTsmvvoCjZcnl) | [Electric Field](https://open.spotify.com/album/4x1HxeNKuCgp0zCgG0Ebrx) | 2:27 | 2021-11-11 |  |
 | [Early Rain, Birds Calling](https://open.spotify.com/track/20NmgmagAsJiW8mRtUv3EP) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 2:13 | 2022-02-16 |  |
+| [Embrace The Nature](https://open.spotify.com/track/7EW5TLrqGjXKYaX0j5mqpe) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 2:37 | 2023-06-20 |  |
 | [Evening Rain & Thunder with Birds](https://open.spotify.com/track/6j9Ni6ELeoRNjWBJT8VWrH) | [Nature Sound Pit](https://open.spotify.com/artist/16DRg1GIJrxspfuMi0uJC6) | [Evening Rain & Thunder with Birds](https://open.spotify.com/album/5ZCkk6QHgorEzZTrH1WdSY) | 2:28 | 2021-11-11 |  |
 | [First Rain Of The Season](https://open.spotify.com/track/4iuVp9H82clJfO37tejmuO) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Weather Season](https://open.spotify.com/album/6zyFSc2amhIXqDMJUrILWz) | 2:30 | 2021-11-11 |  |
 | [Forest Birds and Light Rain](https://open.spotify.com/track/5ISjuJM7YEfjSiATs68VF6) | [Nature Hive](https://open.spotify.com/artist/1iAP2El9Ob3wV3E4HEVVMS) | [Birds & Ckrickets \- Rain](https://open.spotify.com/album/6kWDYmxOuowEpKxvhxNRUl) | 2:04 | 2021-11-11 |  |
@@ -103,7 +104,7 @@
 | [Rainforest Bird Songs](https://open.spotify.com/track/14jB7OqCZ395Oopbo6kVdk) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Bird Showers](https://open.spotify.com/album/2u6TpPMlbL9S7v8suCplxU) | 3:26 | 2021-11-11 |  |
 | [Rainwoods](https://open.spotify.com/track/7IgNXFcFSczlfUt1xlX9wJ) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [Rainwoods](https://open.spotify.com/album/7icK7OfhqEdGLm8NcGxcqt) | 2:31 | 2021-11-11 |  |
 | [Rainy Busy Forest](https://open.spotify.com/track/3cIVjUmW1mlRi7TX6bhj43) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds and animals in the rain](https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn) | 2:00 | 2021-11-11 |  |
-| [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 |  |
+| [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 | 2023-07-09 |
 | [Rainy Woods](https://open.spotify.com/track/1ikgmjVBJrRR6dqstOpPFK) | [Relax, Bro](https://open.spotify.com/artist/2458EUzcZaoFEJInzQBRag) | [Totally Relaxed Rain](https://open.spotify.com/album/231fpoQIPhRRtmKLboGAXf) | 3:00 | 2021-11-11 |  |
 | [Red Iory Rain](https://open.spotify.com/track/6qIeToUmh9jQunxiF2Vbyh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Red Iory Rain](https://open.spotify.com/album/02W5Op73s3MSj0DzDvKoYW) | 3:03 | 2021-11-11 |  |
 | [Rich Rain Bird](https://open.spotify.com/track/48r69Zr1t0h6Y0yFWgHj9O) | [Natural Nature Makers](https://open.spotify.com/artist/1Rbya7c6FqWC3L0UBCXpbv) | [Rich Rain Bird](https://open.spotify.com/album/7MvrD43usHTvHwfo5FAgnc) | 2:42 | 2022-03-29 |  |

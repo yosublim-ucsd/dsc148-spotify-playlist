@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy",
+  "snapshot_id": "MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5",
   "tracks": [
     {
       "added_at": "2023-07-05 14:25:33",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Canci\u00f3n de Viaje",
-        "url": "https://open.spotify.com/album/2bUjicqP2vIndWDMpOknCs"
-      },
-      "artists": [
-        {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Biromes y Servilletas",
-      "url": "https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "Sector Apagado",
         "url": "https://open.spotify.com/album/5M1wEgLPmIX6d15YolKaie"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 310043,
       "name": "Sus Animales",
       "url": "https://open.spotify.com/track/6zzAvGHzEnM7eR2VBe67ga"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Canci\u00f3n de Viaje",
+        "url": "https://open.spotify.com/album/2bUjicqP2vIndWDMpOknCs"
+      },
+      "artists": [
+        {
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Biromes y Servilletas",
+      "url": "https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
+        "name": "Marioneta",
+        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
+      },
+      "artists": [
+        {
+          "name": "Noelia Moncada",
+          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Marioneta",
+      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Marioneta",
-        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
+        "name": "Guanuqueando",
+        "url": "https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB"
       },
       "artists": [
         {
-          "name": "Noelia Moncada",
-          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
         }
       ],
-      "duration_ms": 236599,
-      "name": "Marioneta",
-      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+      "duration_ms": 259874,
+      "name": "Guanuqueando",
+      "url": "https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -707,22 +723,6 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
-        "name": "Guanuqueando",
-        "url": "https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB"
-      },
-      "artists": [
-        {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
-        }
-      ],
-      "duration_ms": 259874,
-      "name": "Guanuqueando",
-      "url": "https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Carmen, Un Cuento Bien Contado",
-        "url": "https://open.spotify.com/album/2gSJ8AcKNxcIpSmXYKcjcP"
-      },
-      "artists": [
-        {
-          "name": "Malena Rossi",
-          "url": "https://open.spotify.com/artist/6GwKc5935Tysrb29PTVojz"
-        },
-        {
-          "name": "Roberto Calvo",
-          "url": "https://open.spotify.com/artist/63Ymu5y0cQyTmv23LtT5I0"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "Siga Cantando Nomas",
-      "url": "https://open.spotify.com/track/5Mfu7kskSWXSap7B2Hdpxg"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "Candombita",
         "url": "https://open.spotify.com/album/36SkDfZK3XpnB7JZzjfEO9"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 259838,
       "name": "Candombita",
       "url": "https://open.spotify.com/track/4uIH9ySiskrJ9HOBjx5W0O"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Carmen, Un Cuento Bien Contado",
+        "url": "https://open.spotify.com/album/2gSJ8AcKNxcIpSmXYKcjcP"
+      },
+      "artists": [
+        {
+          "name": "Malena Rossi",
+          "url": "https://open.spotify.com/artist/6GwKc5935Tysrb29PTVojz"
+        },
+        {
+          "name": "Roberto Calvo",
+          "url": "https://open.spotify.com/artist/63Ymu5y0cQyTmv23LtT5I0"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "Siga Cantando Nomas",
+      "url": "https://open.spotify.com/track/5Mfu7kskSWXSap7B2Hdpxg"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Contemporanea",
-        "url": "https://open.spotify.com/album/3eWS7gAwBq14djP6Bgi29H"
+        "name": "Elementales",
+        "url": "https://open.spotify.com/album/46JHg0NY14tkMsyhcUxqgH"
       },
       "artists": [
         {
-          "name": "Viviana Scarlassa",
-          "url": "https://open.spotify.com/artist/5xiFJRaT7TDD6ROlmuEtwR"
+          "name": "Liliana Vitale",
+          "url": "https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF"
+        },
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
         }
       ],
-      "duration_ms": 243461,
-      "name": "Ma\u00f1ana Clara",
-      "url": "https://open.spotify.com/track/4pR3FRjIoMFv3vj4qUgeO7"
+      "duration_ms": 193026,
+      "name": "La Caja de Viento",
+      "url": "https://open.spotify.com/track/4YBFdOIi4M9zkiY2KYeIs4"
     },
     {
       "added_at": "2023-07-05 14:25:33",

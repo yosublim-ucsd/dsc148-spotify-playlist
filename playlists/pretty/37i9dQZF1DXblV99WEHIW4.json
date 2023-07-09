@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 196030,
+  "num_followers": 196183,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGY2NGI1NGU1MWQ1MWUxNTgwMDkzMWE3MDkyOGFjZjNhMjA5Yzkz",
+  "snapshot_id": "MCwzZTRlNmVlZDE2OTU0M2U4ZmY5MGVlYjQyYjNmODg0YzMwNWY3NWQw",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "I Won't Give In",
-      "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Drug In Me Is Reimagined",
         "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 340071,
       "name": "The Drug In Me Is Reimagined",
       "url": "https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "I Won't Give In",
+      "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "From Death To Destiny",
-        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255373,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
+      "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 157053,
-      "name": "SELF-SABOTAGE",
-      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
+      "duration_ms": 100533,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
     },
     {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Evolution (Deluxe Edition)",
@@ -795,22 +811,6 @@
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 100533,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 227082,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "SO WHAT?",
@@ -939,6 +923,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 227082,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 281807,
+      "name": "Crooked Path",
+      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "The Flood (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Crooked Path",
-      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-16 19:56:13",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Dying Is Absolutely Safe",
-      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 189560,
       "name": "Seneca",
       "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Dying Is Absolutely Safe",
+      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
     },
     {
       "added_at": "2022-08-25 23:00:00",

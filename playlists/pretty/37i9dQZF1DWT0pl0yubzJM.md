@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,774 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 7 | [Secuencia Inicial \- Remasterizado 2007](https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:26 |
 | 8 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
 | 9 | [Siempre Acampa](https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 3:44 |
-| 10 | [Pudo Ser](https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 5:23 |
+| 10 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
 | 11 | [Vida Modelo](https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Vida Modelo](https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ) | 2:45 |
 | 12 | [Desaparecedor](https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 2:49 |
 | 13 | [D\-Generación](https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Pasto](https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa) | 3:50 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 15 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 |
 | 16 | [Mate](https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:14 |
 | 17 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 |
-| 18 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
+| 18 | [Pudo Ser](https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 5:23 |
 | 19 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
 | 20 | [Tarde de Cansancio](https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:08 |
 | 21 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 |
 | 35 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 |
 
-Snapshot ID: `MCw4YmJjMTAxZWZkZGQ2ZjdjZDQ0OGYzNjdjYTA4M2JlMDJmMmViZWU5`
+Snapshot ID: `MCw1MTRjM2YwODA0NDYzNzU3N2IyYzI2ZjU1N2UzNzQ4MTA2MTZiNDEw`

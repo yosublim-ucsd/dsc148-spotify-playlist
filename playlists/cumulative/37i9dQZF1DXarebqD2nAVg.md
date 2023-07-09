@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-110 songs - 4 hr 22 min
+111 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [falling down](https://open.spotify.com/track/7hFLiKigpVlcmFSryIEff8) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll) | 1:36 | 2023-02-16 | 2023-06-21 |
 | [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 | 2023-02-16 | 2023-06-25 |
 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2023-02-16 | 2023-07-07 |
+| [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 | 2023-02-16 |  |
 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 | 2023-02-17 |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2023-02-16 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2019-03-27 | 2023-02-17 |
@@ -68,7 +69,7 @@
 | [Louie's Lullaby](https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz) | 2:51 | 2019-03-27 | 2022-07-29 |
 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 | 2019-03-27 |  |
 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 | 2023-02-16 |  |
-| [Love Myself](https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Pins & Needles](https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF) | 1:32 | 2019-03-27 |  |
+| [Love Myself](https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Pins & Needles](https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF) | 1:32 | 2019-03-27 | 2023-07-09 |
 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 | 2019-03-27 |  |
 | [mangos](https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays.](https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh) | 2:00 | 2019-03-27 | 2023-02-17 |
 | [mangos](https://open.spotify.com/track/3lqAHJLW98TzVZCzNDYDs6) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays\. \[EP\]](https://open.spotify.com/album/2PothCkN45Ukndk1sePfjd) | 2:00 | 2019-03-27 | 2022-07-29 |

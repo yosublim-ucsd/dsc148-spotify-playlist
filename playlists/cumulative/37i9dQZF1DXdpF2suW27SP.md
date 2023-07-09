@@ -4,7 +4,7 @@
 
 > Bispo e Ivandro entram na zona.
 
-315 songs - 17 hr 13 min
+316 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 | 2023-04-27 |  |
 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 | 2023-02-17 |
 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 | 2022-10-13 |  |
-| [Chega](https://open.spotify.com/track/4xNWsL3jDUd5N40xqIyyYt) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/6Yo7DbaCKI7YIJMGKK6dyp) | 2:28 | 2023-07-06 |  |
+| [Chega](https://open.spotify.com/track/0Gul9wh1EQB8K7P9PjcIpi) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:28 | 2023-07-06 |  |
+| [Chega](https://open.spotify.com/track/4xNWsL3jDUd5N40xqIyyYt) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/6Yo7DbaCKI7YIJMGKK6dyp) | 2:28 | 2023-07-06 | 2023-07-09 |
 | [Chega](https://open.spotify.com/track/7uTS1lyLWpi1d5g9qhUaNQ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/2PnN5EFQoaoUhXGOio8LB8) | 2:28 | 2023-06-29 | 2023-07-07 |
 | [Chelas](https://open.spotify.com/track/5x9bucCUnlTZnjpWwCRlSx) | [MC Borga](https://open.spotify.com/artist/2ABm6CuGNzngIIeMncerir), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Chelas](https://open.spotify.com/album/5U0QwA3CYxQjW9kKIvKRYk) | 4:28 | 2023-06-15 |  |
 | [Cheques \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/track/1D8cZxGppgdcMwflIWNsp9) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Cheques \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/album/0zUpP8WYAIlKKWR4IsnNvg) | 3:21 | 2022-07-21 | 2022-09-16 |

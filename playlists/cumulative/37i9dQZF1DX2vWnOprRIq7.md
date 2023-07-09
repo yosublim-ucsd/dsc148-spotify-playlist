@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Varese.
 
-149 songs - 8 hr 58 min
+150 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 |  |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2023-03-17 | 2023-05-20 |
 | [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 | 2023-05-14 |
-| [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-03-17 |  |
+| [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-03-17 | 2023-07-09 |
 | [Amor Perfecto \- Reprise](https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Amor Perfecto \(Reprise\)](https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7) | 3:02 | 2023-03-17 | 2023-06-28 |
 | [Amuleto](https://open.spotify.com/track/05xl9WoeOHodN07hqvjwYQ) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/2G9HvZkwU1yNSYwgWfb2gl) | 3:34 | 2023-03-17 | 2023-04-21 |
 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 | 2023-03-17 |  |
@@ -92,6 +92,7 @@
 | [Mitad Sombra Mitad Luz](https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z) | [Lolaa](https://open.spotify.com/artist/6xbhKmbCwlnZmYHWK4gQGv), [Graham Wright](https://open.spotify.com/artist/7a3G9oqId0lZHHxJHwIfwx) | [La Marea](https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW) | 4:01 | 2023-03-17 | 2023-05-21 |
 | [MKM R<3MIX: Diego Tuñon \- Remix](https://open.spotify.com/track/48c7CFxW1GtA1OA5ybFgDc) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Tuta Torres](https://open.spotify.com/artist/11nDvnfr08aAoSybUjhtZG), [Diego Tuñon](https://open.spotify.com/artist/2rICJWPmeSbx2iqiQH5e6o) | [MKM R<3MIX: Diego Tuñon \(Remix\)](https://open.spotify.com/album/1wcSYByfdjdLzbUuSmNvEJ) | 4:19 | 2023-05-12 |  |
 | [Modernos](https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Modernos](https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0) | 4:13 | 2023-05-26 |  |
+| [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 |  |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2023-03-17 | 2023-04-22 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2023-03-17 |  |
 | [Nadie+](https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [R.L.G](https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra) | [Nadie+](https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X) | 2:22 | 2023-04-07 |  |

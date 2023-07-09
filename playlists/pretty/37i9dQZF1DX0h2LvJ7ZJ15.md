@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,037 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,773 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
 | 50 | [dirty laundry \- slowed](https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dirty laundry \(slowed\)](https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA) | 2:47 |
 
-Snapshot ID: `MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh`
+Snapshot ID: `MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5`

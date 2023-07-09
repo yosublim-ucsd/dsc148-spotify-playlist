@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 467341,
+  "num_followers": 467413,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTJkZTcwOWNmZTUyNGQ4MjFhZjYyYzQ2NWE2MzI3M2E0ZmM3YjZm",
+  "snapshot_id": "MCxjNTI4YjYyNWFlNjI3ZmMzOTJjYWU1ODMyODg3YzcyODY0MjA3OTVk",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:21",
@@ -67,22 +67,18 @@
     {
       "added_at": "2023-07-07 15:52:21",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2023-07-07 15:52:21",
@@ -135,18 +131,22 @@
     {
       "added_at": "2023-07-07 15:52:21",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
     },
     {
       "added_at": "2023-07-07 15:52:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-07 15:52:21",
       "album": {
-        "name": "Seasonal Hiatus",
-        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "One Moment",
-      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
-    },
-    {
-      "added_at": "2023-07-07 15:52:21",
-      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+    },
+    {
+      "added_at": "2023-07-07 15:52:21",
+      "album": {
+        "name": "Seasonal Hiatus",
+        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2023-07-07 15:52:21",

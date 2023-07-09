@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,138 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,151 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
 | 80 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
 
-Snapshot ID: `MCxkYjBhZDQwMzFmOWFlNjA2ZDY4NDI0ZjMzYWFhZjQyYTY5Yjk5YmY5`
+Snapshot ID: `MCxlY2IyMjQ0YzA3MWJmODZhZWMyZDMxYzQyYTVlNDk4NzRiZDdlNzQ3`

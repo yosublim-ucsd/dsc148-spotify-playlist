@@ -16028,7 +16028,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 255000,
       "name": "R\u016f\u017ee",
       "url": "https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva"
@@ -19656,6 +19656,24 @@
       "duration_ms": 161655,
       "name": "Velkej v\u016fz",
       "url": "https://open.spotify.com/track/4IqkrMV11Mx2rA9LhzmN16"
+    },
+    {
+      "album": {
+        "name": "Venku se stm\u00edv\u00e1",
+        "url": "https://open.spotify.com/album/7xYapXzd2rA8URQme2QABF"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133902,
+      "name": "Venku se stm\u00edv\u00e1",
+      "url": "https://open.spotify.com/track/7BioNmpbWfaXd0Upk5Gedc"
     },
     {
       "album": {

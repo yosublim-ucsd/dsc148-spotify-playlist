@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "album": {
         "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
         "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
       },
@@ -1167,6 +1185,36 @@
     },
     {
       "album": {
+        "name": "Em iu",
+        "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "B\u00ecnh Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179986,
+      "name": "Em iu",
+      "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
+    },
+    {
+      "album": {
         "name": "Em Kh\u00f4ng Hi\u1ec3u",
         "url": "https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn"
       },
@@ -1456,7 +1504,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 210820,
       "name": "Hoa C\u1ecf Lau",
       "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
@@ -1806,7 +1854,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 258006,
       "name": "MAKING MY WAY",
       "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"

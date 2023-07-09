@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26338,
+  "num_followers": 26346,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTc3NTVkNTllMGE1OGUxMGJlMzdjYjA1MTgzNWRmODdhYmQwMDcz",
+  "snapshot_id": "MCwxNzYxOTM1NjgxNzA3N2ViNmIxZjA5MTY3MzdlYjdmZTE5OWQzNzBi",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Lyssna till ditt hj\u00e4rta",
         "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185533,
       "name": "Lyssna till ditt hj\u00e4rta",
       "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "X My Heart",
         "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 174733,
       "name": "Let Your Spirit Fly",
       "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
-      },
-      "artists": [
-        {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Om om och om igen",
         "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
     },
     {
       "added_at": "2023-02-26 01:59:39",

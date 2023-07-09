@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Audrey Nuna.
 
-476 songs - 1 day 0 hr 43 min
+477 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [:\)](https://open.spotify.com/track/3WW9a6iele1fFmhTfcbplL) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [:\)](https://open.spotify.com/album/5HufsBaNzVImaUsiLlacOE) | 2:35 | 2023-06-30 |  |
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 |  |
 | [A Thousand Cuts \(Spotify Singles\) \- Remix](https://open.spotify.com/track/5CSJmUUVg21L8xb71UKMnI) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 4:29 | 2022-05-27 | 2022-07-07 |
+| [ADHD](https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [ADHD](https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a) | 2:43 | 2023-07-07 |  |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-27 | 2023-01-14 |
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-09-23 | 2022-10-08 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-04 | 2023-02-18 |
@@ -349,7 +350,7 @@
 | [Same Energy](https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Same Energy](https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc) | 2:31 | 2023-07-07 |  |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 | 2022-11-12 |
 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 | 2022-09-23 | 2022-10-08 |
-| [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 |  |
+| [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 | 2023-07-09 |
 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 | 2022-07-22 | 2022-08-27 |
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2022-06-03 | 2022-07-15 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-06-03 |  |

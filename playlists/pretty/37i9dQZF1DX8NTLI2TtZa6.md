@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,458,529 likes - 233 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,458,463 likes - 233 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 41 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
 | 42 | [Lost & Found](https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Lost & Found](https://open.spotify.com/album/4LablbSrD01fa943OTlDEZ) | 2:23 |
 | 43 | [Fårö](https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Fårö](https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc) | 1:52 |
-| 44 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 |
+| 44 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 |
 | 45 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 |
 | 46 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 |
 | 47 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 232 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 |
 | 233 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 |
 
-Snapshot ID: `MCw5Y2I3YjVjN2U3OWE2ZWViMmY0OThmODQ3NjFkOWI5ODRkNTBmZDQ4`
+Snapshot ID: `MCwwNWVkZDdkN2NhNTU1ZDgzOTM0MTlmYTc5MjgwMGU4ZDg4ZTRjYmUw`

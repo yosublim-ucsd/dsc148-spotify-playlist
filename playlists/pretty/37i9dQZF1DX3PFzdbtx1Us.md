@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,732 likes - 130 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,705 likes - 130 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 19 | [Música De La Montaña](https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Música De La Montaña](https://open.spotify.com/album/7pJy6qLcQVxYYJ1bQXmCM4) | 1:59 |
 | 20 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 |
 | 21 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 |
-| 22 | [IX...like a calm and careless morning](https://open.spotify.com/track/2qSP4rxm2g4A3YUnGd7zKV) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XIV...slightly hesitating](https://open.spotify.com/album/7aH0TVuvsXl16GcxgD25tB) | 2:14 |
+| 22 | [IX...like a calm and careless morning](https://open.spotify.com/track/7ocJrYaBSpfFmj5CrMxsrA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:14 |
 | 23 | [Luna Llena](https://open.spotify.com/track/11WbYgcb6E1FT0ouyqhopV) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Luna Llena](https://open.spotify.com/album/1cNgRDVEReVsIxA6i7Ap7Z) | 2:01 |
 | 24 | [Mondes Séparés](https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Mondes Séparés](https://open.spotify.com/album/3REt6vSBBZLsqVIMFh6lXB) | 2:53 |
 | 25 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 36 | [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 |
 | 37 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
 | 38 | [Fårö](https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Fårö](https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc) | 1:52 |
-| 39 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 |
+| 39 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 |
 | 40 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 |
 | 41 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 |
 | 42 | [Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Ein kurzer Augenblick](https://open.spotify.com/album/2p8wMElkJei2CSNDEda1GW) | 2:20 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 129 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 |
 | 130 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
 
-Snapshot ID: `MCw0ODM2ODZiYjA1Y2EwNTA2ZjQwOTU3MWFmMTAzYzBhMTM1YTljMDE1`
+Snapshot ID: `MCxkZWU3MzcwMWQ4YmQ4MzliYzlmZjZkYTJiNzhkNjg0OGZhMTllMjMz`

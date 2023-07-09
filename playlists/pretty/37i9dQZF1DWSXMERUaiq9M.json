@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 47495,
+  "num_followers": 48357,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2QzNDBhZGZmYzZmYTg3MzVmNjE2ZjdhN2U3YTZjOWJkYmQ0ZGQw",
+  "snapshot_id": "MCxlYmRjNDFhMzkwZmNmYjcwYmNkNzFmMTQzMzJiMDBiNzdjM2QzYWM0",
   "tracks": [
     {
       "added_at": "2023-07-07 09:00:00",
@@ -31,18 +31,18 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2023-07-07 09:00:00",
@@ -63,18 +63,18 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2023-07-07 09:00:00",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "Close Your Eyes EP",
-        "url": "https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj"
-    },
-    {
-      "added_at": "2023-07-07 09:00:00",
-      "album": {
-        "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
-        "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
-      "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
-    },
-    {
-      "added_at": "2023-07-07 09:00:00",
-      "album": {
         "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
         "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
+        "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+        "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+      "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
+    },
+    {
+      "added_at": "2023-07-07 09:00:00",
+      "album": {
         "name": "Good Energy",
         "url": "https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 322293,
       "name": "Good Energy",
       "url": "https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz"
+    },
+    {
+      "added_at": "2023-07-07 09:00:00",
+      "album": {
+        "name": "Close Your Eyes EP",
+        "url": "https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj"
     },
     {
       "added_at": "2023-07-07 09:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 161282,
-      "name": "Love Express",
-      "url": "https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP"
-    },
-    {
-      "added_at": "2023-07-07 09:00:00",
-      "album": {
         "name": "All That She Wants (Helion Remix)",
         "url": "https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 167162,
       "name": "All That She Wants - Helion Remix",
       "url": "https://open.spotify.com/track/747OPJC1PujokY0T3rAajk"
+    },
+    {
+      "added_at": "2023-07-07 09:00:00",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 161282,
+      "name": "Love Express",
+      "url": "https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP"
+    },
+    {
+      "added_at": "2023-07-07 09:00:00",
+      "album": {
+        "name": "No Type",
+        "url": "https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "No Type",
+      "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
     },
     {
       "added_at": "2023-07-07 09:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "No Type",
-        "url": "https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "No Type",
-      "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
-    },
-    {
-      "added_at": "2023-07-07 09:00:00",
-      "album": {
         "name": "Goldener Raver (1995 Remix)",
         "url": "https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-07-07 09:00:00",
       "album": {
-        "name": "Addicted To Bass",
-        "url": "https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR"
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB"
       },
       "artists": [
         {
-          "name": "Farrago",
-          "url": "https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
         }
       ],
-      "duration_ms": 351283,
-      "name": "Addicted To Bass",
-      "url": "https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp"
+      "duration_ms": 232750,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8"
     }
   ],
   "unique_name": "rave",

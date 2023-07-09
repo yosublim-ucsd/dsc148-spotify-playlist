@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ3uKRXjFdH.md) - [plain]
 
 > The Official Playlist for Clark\. Watch Now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 38 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 38 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ3uKRXjFdH.md) - [plain]
 | 37 | [Wish You Were There](https://open.spotify.com/track/3GbKaVG1TvnO7jMsAOjOem) | [Mikael Åkerfeldt](https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan) | [Clark \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt) | 2:51 |
 | 38 | [We Are All The Winners](https://open.spotify.com/track/7K4nPxmgWTNRBN0PnCmfV7) | [Nick Borgen](https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU) | [We Are All The Winners](https://open.spotify.com/album/6rJtluOZr0nkPsSIzN07rb) | 3:08 |
 
-Snapshot ID: `MCwxZDNjZTY0NjUxM2JiODAzNWU3NzY2NWE3YzZhMWZkM2ViOTQ0Yjlk`
+Snapshot ID: `MCw0ZmZiYTU3YjRlODQ4ZjNjOWQ0MGJlM2E3MmU4ZGU0NjdlYTYzMmVj`

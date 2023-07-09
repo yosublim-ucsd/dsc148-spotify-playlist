@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: DJ Seinfeld & Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,205 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,216 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 |
 | 80 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 |
 
-Snapshot ID: `MCw2YTAwOWE3ZDdkZmQxMmZjMmViOTU1N2Q2NTA4NGEyMmZhOWNmNjI1`
+Snapshot ID: `MCxlZmJmMGVmZmU3MTBkNzJlYWVmN2NlMmMyZDE2ZTE2OWU3YmExZjQ5`

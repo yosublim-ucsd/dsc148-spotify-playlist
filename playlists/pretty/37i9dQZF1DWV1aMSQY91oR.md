@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,257 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Night Shift](https://open.spotify.com/track/1knM2BR3zAFetYHxLuQMbg) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [Kurst](https://open.spotify.com/artist/0D4cQbi3Sux3MWTX4ksNPt) | [Night Shift](https://open.spotify.com/album/3TyhM9aYlJ8Usix1HxXUTX) | 3:01 |
 | 50 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 
-Snapshot ID: `MCw5MzdhOTRkZGZiMzE0ZjhiM2VmOGUwNDc0M2YxZmZkMDA5ZDIxY2Iz`
+Snapshot ID: `MCw1NDZkYjRiYTFkNWY2NDE0MjI5MjNjYTUwMmVhODY0OWYwZDlmNmJh`

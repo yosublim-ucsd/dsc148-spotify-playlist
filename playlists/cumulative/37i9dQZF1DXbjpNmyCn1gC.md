@@ -4,7 +4,7 @@
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-154 songs - 10 hr 7 min
+155 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Lie\-Lie\-Lie](https://open.spotify.com/track/3VjwnpyaDRKtwE8Py6GOQt) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [Lie\-Lie\-Lie](https://open.spotify.com/album/1rNjYE0bTbhulTIfTWlSpD) | 3:46 | 2021-10-04 |  |
 | [LINE](https://open.spotify.com/track/1m3qFOyT5u01Yd2WBVX0cI) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [LINE](https://open.spotify.com/album/3JJFe7V4VAITHCxR8kg7Jm) | 4:40 | 2021-10-04 | 2022-07-29 |
 | [LINE](https://open.spotify.com/track/2ssjFpYFDvAx5To38GUR7n) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [ANIME KIDS](https://open.spotify.com/album/1ujdwGwEq3edJaMT4ti4LN) | 4:40 | 2021-10-04 | 2022-11-13 |
-| [LINE](https://open.spotify.com/track/7pcN20ycxFODgvpQYHxMkH) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Weather Song of SUKIMASWITCH](https://open.spotify.com/album/6A259cXcFtZMqOGCKRvGIa) | 4:40 | 2021-10-04 |  |
+| [LINE](https://open.spotify.com/track/7pcN20ycxFODgvpQYHxMkH) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Weather Song of SUKIMASWITCH](https://open.spotify.com/album/6A259cXcFtZMqOGCKRvGIa) | 4:40 | 2021-10-04 | 2023-07-09 |
+| [LINE](https://open.spotify.com/track/3EDltrWSBkZAv2EPaQeS9R) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [SUKIMASWITCH 20th Anniversary BEST『POPMAN’S WORLD \-Second\-』](https://open.spotify.com/album/40dcCDUEw7blRejxhrXye8) | 4:43 | 2023-03-25 |  |
 | [Long Kiss Good Bye](https://open.spotify.com/track/5SPwzvYuJCkeXmbwi3lVID) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [TOKYO GROOVE](https://open.spotify.com/album/2Xgzxq7q3Voo8BavfiwbBe) | 4:03 | 2021-10-04 |  |
 | [Long Kiss Good Bye](https://open.spotify.com/track/7elnaTfxmTw3W8aEKXyuAX) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [Long Kiss Good Bye](https://open.spotify.com/album/09lzjhiSHkmc8VcrCGoUve) | 4:06 | 2021-10-04 | 2022-07-29 |
 | [Moshimo](https://open.spotify.com/track/6qcj0oCHsCJSexlsVV6Ghr) | [Daisuke](https://open.spotify.com/artist/1UrLJfOnrfCZLeAAfdcYPO) | [星のドロップス](https://open.spotify.com/album/7ozAcyUtS0mdQxgKunRQq3) | 3:57 | 2021-10-04 |  |

@@ -1253,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/2nZ7Zg41q5L7IAbJo0RKtE"
       },
@@ -2131,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Life\u2019s A Bitch (VIP Mix)",
+        "url": "https://open.spotify.com/album/4Rq0LE42ylOX3AZn5Bbf1u"
+      },
+      "artists": [
+        {
+          "name": "SUB-X",
+          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Life\u2019s A Bitch (VIP Mix)",
+      "url": "https://open.spotify.com/track/3oczjO9YYFUnjJx51PqKLB"
+    },
+    {
+      "album": {
         "name": "Lifting Me",
         "url": "https://open.spotify.com/album/0LhKJWaazGA3jJoSike5z5"
       },
@@ -2998,6 +3038,24 @@
       "duration_ms": 164776,
       "name": "Nothing Else (When I Think Of You) [Beatfreakz Remix]",
       "url": "https://open.spotify.com/track/08auTMax6RRlvBVOnB6ETA"
+    },
+    {
+      "album": {
+        "name": "Now Work",
+        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Now Work",
+      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
     },
     {
       "album": {
@@ -4224,7 +4282,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 214310,
       "name": "Takata",
       "url": "https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6"
@@ -4316,6 +4374,24 @@
       "duration_ms": 182857,
       "name": "Talk To Me (with BRUX)",
       "url": "https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL"
+    },
+    {
+      "album": {
+        "name": "Tamo Bendecio",
+        "url": "https://open.spotify.com/album/1fhWA3YZmPpJuWn3vtqDAB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunn",
+          "url": "https://open.spotify.com/artist/4FYIy3bsaDrvC0LuW2kqzW"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129959,
+      "name": "Tamo Bendecio",
+      "url": "https://open.spotify.com/track/6q9NCdijVIwIzPwTfKn3zC"
     },
     {
       "album": {
@@ -4596,6 +4672,24 @@
       "duration_ms": 183750,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP"
+    },
+    {
+      "album": {
+        "name": "The Stutter",
+        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "The Stutter",
+      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
     },
     {
       "album": {

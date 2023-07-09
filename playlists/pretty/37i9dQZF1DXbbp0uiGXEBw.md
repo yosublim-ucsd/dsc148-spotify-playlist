@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,629 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,689 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 |
 | 50 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
 
-Snapshot ID: `MCxkZjQzMDk4ZjkyZWMyYjlhYzFlMGU1ZjhkNTE0ODRlYTFjODhhMWEy`
+Snapshot ID: `MCw4ODJkZjY4MjMyYmU2MDE5MjFhOWRjODRjOWU4Njc1Y2RjNWJmNTA0`

@@ -6609,6 +6609,24 @@
     },
     {
       "album": {
+        "name": "Under Mentality",
+        "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203166,
+      "name": "It Might Be Painful, But I Still Love It.",
+      "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+    },
+    {
+      "album": {
         "name": "It Might Be Painful, but I Still Love It.",
         "url": "https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy"
       },
@@ -27940,7 +27958,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 248386,
       "name": "\u9178\u6b20\u5c11\u5973",
       "url": "https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP"

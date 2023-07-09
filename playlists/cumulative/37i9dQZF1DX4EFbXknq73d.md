@@ -4,7 +4,7 @@
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-202 songs - 23 hr 11 min
+203 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Hookahville](https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo) | [Ekoostik Hookah](https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo) | [Where the Fields Grow Green](https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4) | 5:10 | 2023-04-06 |  |
 | [Hot Like Sauce](https://open.spotify.com/track/7zbq8RT5Kd3ExOGVTiUQbR) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Filling Up The City Skies \(disc 2\)](https://open.spotify.com/album/0IiPSY2KKMKpBApop7KuYH) | 7:01 | 2020-09-08 | 2023-04-07 |
 | [Hot Tea \(8.10.19\)](https://open.spotify.com/track/4lHsm2VyLBaw5RD8Hp6plw) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/6TUsfjLX8cqnafBy3p33Iu) | 16:59 | 2020-09-08 | 2022-07-29 |
-| [Hot Tea \- Live, 8.10.19](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well \(Live\)](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 | 2020-09-08 |  |
+| [Hot Tea \- Live, 8.10.19](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well \(Live\)](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 | 2020-09-08 | 2023-07-09 |
 | [House Of The Rising Sun](https://open.spotify.com/track/18btnw40WRP5cRZBqJpa1o) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [The Pizza Tapes](https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ) | 8:05 | 2020-09-08 | 2022-07-29 |
 | [House Of The Rising Sun](https://open.spotify.com/track/1oNRUmyrLZ6SPEv6IS0xVQ) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The Pizza Tapes](https://open.spotify.com/album/6ERBw6ocM6d89W2PGB00Ag) | 8:05 | 2020-09-08 | 2023-04-07 |
 | [I Know I'm Not Alone \- Live](https://open.spotify.com/track/0QzRetkrMupTt9MxK6HmuR) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Yell Fire! \(Live\)](https://open.spotify.com/album/1N4kArKmxYgMvh46ls6EOe) | 4:36 | 2020-09-08 | 2023-04-07 |
@@ -104,6 +104,7 @@
 | [Lady and Man](https://open.spotify.com/track/0tjTndnyFm1xQsaHGf2imW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 4:18 | 2020-09-08 | 2022-07-29 |
 | [Lady and Man](https://open.spotify.com/track/6sjxTY1gPbZXoF2h6YLZ9N) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:18 | 2020-09-08 | 2023-04-07 |
 | [Leave the Light On](https://open.spotify.com/track/0840aH9MvGpXAbS3mq3OXX) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [For Amusement Only](https://open.spotify.com/album/46hZAFDQjOYHnpT3dX8zW5) | 4:13 | 2020-07-24 | 2023-04-07 |
+| [Less Than Five Miles Away \(Live From An Evening With Dawes\)](https://open.spotify.com/track/5LjlDL2G46kQrAcofckZgn) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 8:11 | 2023-04-06 |  |
 | [Let It Bleed \- Live](https://open.spotify.com/track/2vI9SEZcy8go0QHabdTA8R) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Betty's Midwestern Magic Blends](https://open.spotify.com/album/79dgYlDfZYJn9SQ2rmcB3n) | 7:33 | 2020-09-08 | 2023-04-07 |
 | [Loner](https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN) | [Ekoostik Hookah](https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo) | [Dubbabuddah](https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq) | 6:39 | 2023-04-06 |  |
 | [Lost in the Cold \(Live\)](https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Live at House of Blues Boston \(12/31/2018\)](https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ) | 7:10 | 2020-09-08 |  |

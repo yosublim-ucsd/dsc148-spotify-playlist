@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1513703,
+  "num_followers": 1513984,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
+  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 89160,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 175906,
       "name": "Hong Kong Garden",
       "url": "https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Anarchy in the U.K.",
-      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 120333,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+      "duration_ms": 211973,
+      "name": "Anarchy in the U.K.",
+      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -607,6 +607,22 @@
       "duration_ms": 186626,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Suspect Device",
-      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 198160,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Zen Arcade",
-        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Something I Learned Today",
-      "url": "https://open.spotify.com/track/523qoxtSZJE2io945dAkVk"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Zen Arcade",
+        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Something I Learned Today",
+      "url": "https://open.spotify.com/track/523qoxtSZJE2io945dAkVk"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
-      },
-      "artists": [
-        {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag (2006 Remastered Version)",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 139693,
       "name": "Ex Lion Tamer - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Anthology: The Sounds Of Science",
         "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 120266,
       "name": "I Want Some",
       "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Best Of The First 10 Years",
-        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Radio, Radio",
-      "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Record",
         "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 125040,
       "name": "I Love Livin' in the City",
       "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Best Of The First 10 Years",
+        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Radio, Radio",
+      "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
     },
     {
       "added_at": "2022-11-28 15:26:19",

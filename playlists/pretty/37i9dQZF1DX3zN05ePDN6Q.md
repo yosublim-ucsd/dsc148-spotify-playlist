@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Sain
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,148 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,201 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Arthur Luna Beccaris](https://open.spotify.com/artist/1C4hfM3tF2ZBZ54TOZne6T) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
+| 1 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
 | 2 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 |
 | 3 | [Flores de Galeano \- Ao Vivo](https://open.spotify.com/track/0r8KmiBut9KRG4oxI2iLNT) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [O Florista \(Ao Vivo\)](https://open.spotify.com/album/6Je8cRaW3ftIYD4O7ZfwaC) | 5:13 |
 | 4 | [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 | 75 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 
-Snapshot ID: `MCw3YjlkYjQ2ZWJmYTQ5MDQwODRkOTkxN2M2NDczMDNlYWFjMmYxNzI5`
+Snapshot ID: `MCxjZWY0MWZhNmJiZDE0NWViN2IzMzk4NmNlMGVjZjEyY2Y1MWE2MDNm`

@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-371 songs - 21 hr 22 min
+372 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [New Game](https://open.spotify.com/track/6OgI1DGU5UW5e1C1yIA7a4) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [New Game](https://open.spotify.com/album/4poCBKXCGIqjWNuHUKET5i) | 2:22 | 2022-01-07 | 2022-06-20 |
 | [Night Flying](https://open.spotify.com/track/0M8GrO8R44w1ykJ3MUGUyT) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Night Flying](https://open.spotify.com/album/53mbELBH9Aam49AtzMi8qP) | 2:30 | 2022-01-07 | 2022-07-11 |
 | [Nightmare](https://open.spotify.com/track/4gju0eLLPyroDWo12jCvkp) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Julianne Aurora](https://open.spotify.com/artist/4iSahGBKE7lJonRcxzhpPM) | [Nightmare](https://open.spotify.com/album/6nizpLBANHSAwi429FBwLV) | 3:23 | 2022-02-25 |  |
-| [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 |  |
+| [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 | 2023-07-09 |
 | [Nintendo](https://open.spotify.com/track/42Ssb6yMwryGmjz2i4TNCs) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Nintendo](https://open.spotify.com/album/1a4nP3SMKTsTgoiQ2U6LQN) | 3:19 | 2022-08-19 | 2022-10-27 |
 | [Nirvana](https://open.spotify.com/track/1KdEqgbQtzGffswF29Jc5U) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 2:32 | 2022-07-14 | 2022-08-06 |
 | [No One Else Will](https://open.spotify.com/track/6g3txmuT9t6OR3fnIBYYEq) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [No One Else Will](https://open.spotify.com/album/2GfYnALEt3vM8mA529GUbX) | 4:16 | 2023-05-26 |  |
@@ -340,6 +340,7 @@
 | [The Warmth Of Known](https://open.spotify.com/track/5Iw1nBoIBZyEdJevp6oyRR) | [Xavi](https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j) | [The Warmth Of Known](https://open.spotify.com/album/1O9RPs4mXvrg0v5WjJrmlb) | 4:13 | 2022-01-07 | 2022-07-28 |
 | [The World We Left Behind \(feat\. KARRA\)](https://open.spotify.com/track/1tpJ6wdE1jOg8aThxas4oR) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [The World We Left Behind \(feat\. KARRA\)](https://open.spotify.com/album/1FwicSx5OGhuVx68A6oH2s) | 3:17 | 2022-01-07 |  |
 | [Time \- Alan Walker Remix](https://open.spotify.com/track/5H9S7RaxxSAgY77Mb0CSPz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 2:30 | 2022-03-11 |  |
+| [TINY FLOWERS](https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [TINY FLOWERS](https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD) | 4:04 | 2023-07-07 |  |
 | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3) | 2:35 | 2023-05-05 |  |
 | [Tonight \(feat\. Ezra Koenig\) \- 8\-Bit Button Masher Remix](https://open.spotify.com/track/2pV858uxAKjzi7wuFytpqz) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Tonight \(feat\. Ezra Koenig\) \[8\-Bit Button Masher Remix\]](https://open.spotify.com/album/2GNvZZ39EQbDfg7AqO1UAF) | 4:22 | 2022-10-27 | 2023-01-23 |
 | [Traffic \- Pocket Remix](https://open.spotify.com/track/7flM0HXN6R0L2W4iQGeIxF) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Traffic \(Pocket Remix\)](https://open.spotify.com/album/2KvKEdbD9OApGPAEreWPCl) | 3:01 | 2022-01-07 | 2022-07-29 |

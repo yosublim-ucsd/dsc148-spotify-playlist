@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 33480,
+  "num_followers": 33505,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWVmNWM5NmQxNDE1YmUzYjliNWJkMmU1ZDE3MzRhNTk4NjU0MDZh",
+  "snapshot_id": "MCxhNGMyNzYwOGZmZjc3MDkwNGI2OTZmNzEzMzM2MzZkMzU3ZDhkNDRj",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 487359,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Careless Whisper",
         "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 172800,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 487359,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -459,22 +459,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
         }
       ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -615,26 +599,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Someday (Latroit Edition)",
-        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
       "artists": [
         {
-          "name": "Lliam Taylor",
-          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Brea",
-          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
         }
       ],
-      "duration_ms": 201656,
-      "name": "Someday (Latroit Edition)",
-      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -659,26 +635,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Bloom (nowifi Remix)",
-        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
+        "name": "Someday (Latroit Edition)",
+        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Lliam Taylor",
+          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
         },
         {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
         },
         {
-          "name": "nowifi",
-          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+          "name": "Brea",
+          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
         }
       ],
-      "duration_ms": 121461,
-      "name": "Bloom (nowifi Remix)",
-      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+      "duration_ms": 201656,
+      "name": "Someday (Latroit Edition)",
+      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -719,6 +695,30 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Bloom (nowifi Remix)",
+        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "duration_ms": 121461,
+      "name": "Bloom (nowifi Remix)",
+      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Waves (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Waves (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -935,6 +915,46 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Waves (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Waves (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1007,6 +1027,30 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -1023,26 +1067,6 @@
       "duration_ms": 159845,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1119,30 +1143,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "ECH\u014cWALL",
-          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1271,38 +1251,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
       "artists": [
         {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+          "name": "ECH\u014cWALL",
+          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
         }
       ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+      "duration_ms": 156375,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1323,6 +1287,42 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
       },
       "artists": [
         {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
         }
       ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2023-07-06 22:00:00",

@@ -2285,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn"
+      },
+      "artists": [
+        {
+          "name": "Siril Malmedal Hauge",
+          "url": "https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn"
+        },
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R"
+    },
+    {
+      "album": {
         "name": "Nice Work If You Can Get It",
         "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
       },
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 216564,
       "name": "Thunderclouds",
       "url": "https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T"

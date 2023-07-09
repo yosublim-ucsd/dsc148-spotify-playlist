@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
@@ -1170,7 +1170,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 120133,
-      "name": "I Wish You Love",
+      "name": "I Wish You Love - 2004 Remastered/Remixed",
       "url": "https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y"
     },
     {
@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Little Lucy",
+      "url": "https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q"
+    },
+    {
+      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -1992,7 +2010,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
+      "name": "On The Street Where You Live - 1998 Remaster",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {

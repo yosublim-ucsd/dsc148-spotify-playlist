@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6278\)
+## Playlists \(6279\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1302,6 +1302,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cumbias, Huapangos & Zapateados](/playlists/pretty/37i9dQZF1DWXXHuDNowP2z.md)
 - [Cumbieras](/playlists/pretty/37i9dQZF1DX3JGBBuBxYKW.md)
 - [Cyberpunk Synthwave](/playlists/pretty/5hnjEy2ZXUZcEcy8jT0Wiw.md)
+- [DEADNOISE.FM](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md)
 - [DEAS' track IDs](/playlists/pretty/37i9dQZF1DWUBSyNvqfKld.md)
 - [DECONSTRUCTED CLUB](/playlists/pretty/37i9dQZF1DX0dHY5yaDQQD.md)
 - [DEMOLER DEMOLER](/playlists/pretty/37i9dQZF1DWYU4qMGpdTFw.md)
@@ -3868,7 +3869,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Road Trip To Tokyo](/playlists/pretty/37i9dQZF1DWV8IND7NkP2W.md)
 - [Road to Palomino](/playlists/pretty/37i9dQZF1DX0ltG5GWVFIX.md)
 - [Road to Passion 2023](/playlists/pretty/37i9dQZF1DX29zlP8CHXWW.md)
-- [Roadrunner Records Official Playlist](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md)
 - [Robo\-Funk](/playlists/pretty/37i9dQZF1DWUcRrhkfhG22.md)
 - [Rocanlovers](/playlists/pretty/37i9dQZF1DX7yaR5d7FkNX.md)
 - [Rochelle Jordan's track IDs](/playlists/pretty/37i9dQZF1DX712eqXXEDDc.md)
@@ -5943,6 +5943,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Ystad Sweden Jazzfestival 2012](/playlists/pretty/0DH66SG2vZ7dIocTxxA5q9.md)
 - [Yu Su's track IDs](/playlists/pretty/37i9dQZF1DWSggqNUNxI08.md)
 - [Yung Bae's DJ Mix](/playlists/pretty/37i9dQZF1DX3VVyN3qcV0Q.md)
+- [ZOMBIES Official Playlist](/playlists/pretty/37i9dQZF1DWUlr9ih12ddz.md)
 - [Zack Bia's Taste](/playlists/pretty/37i9dQZF1DX9yqRXedvZuv.md)
 - [Zacklog](/playlists/pretty/79mpaUsn0LPGUyCkBRnSgZ.md)
 - [Zero Gravity](/playlists/pretty/37i9dQZF1DWV15Do5xY4up.md)

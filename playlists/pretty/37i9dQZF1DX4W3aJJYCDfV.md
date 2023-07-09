@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from D\-Block Europe \(pictured\), Taylor Swift, Declan McKenna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,505 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,510 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 45 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 |
 | 46 | [03:00](https://open.spotify.com/track/6ExPkK54X5esz5KS6MJwzb) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [In Time](https://open.spotify.com/album/6QJ7Cga7NSvbgIQuobc2BD) | 3:00 |
 | 47 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
-| 48 | [F U \(feat\. DMC\)](https://open.spotify.com/track/0nBpFATKWCh3UZw6Zo3b8j) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF), [DMC](https://open.spotify.com/artist/0TIHoznszlOjqLNkuK6l42) | [F U \(feat\. DMC\)](https://open.spotify.com/album/4iVRcfgqGoV41cZMuVyXXk) | 2:49 |
+| 48 | [F U \(feat\. DMC\)](https://open.spotify.com/track/0nBpFATKWCh3UZw6Zo3b8j) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF), [DMC](https://open.spotify.com/artist/79elFN82NaopoNUxqtDPJ7) | [F U \(feat\. DMC\)](https://open.spotify.com/album/4iVRcfgqGoV41cZMuVyXXk) | 2:49 |
 | 49 | [Sweet](https://open.spotify.com/track/3Drahwwo6t93GENXoeXZNl) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Sweet](https://open.spotify.com/album/4oML7p2MFYhFE9lrtZhx2G) | 2:42 |
 | 50 | [Superhuman](https://open.spotify.com/track/2GEp1rrkPkYBy7xlJT06Hu) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Back To Us \(Deluxe\)](https://open.spotify.com/album/3NTMf87ZofrntJo8rEjQxW) | 3:28 |
 | 51 | [TOO MUCH](https://open.spotify.com/track/2OmsKc6Rx60vJYFa78ppzO) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Louis Rei](https://open.spotify.com/artist/5cJ9OiRVmXUPw9foJCoR0T) | [TOO MUCH](https://open.spotify.com/album/6c7639aObsq3DXHj4PQxb5) | 2:54 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 113 | [Broke](https://open.spotify.com/track/7xRu6tG7amIcv7znsuDGgz) | [Calper](https://open.spotify.com/artist/7AWqSYIArMX7XVqDIKW7Nw), [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Broke](https://open.spotify.com/album/1wnCUmsPZAnuctfIjKetYr) | 2:44 |
 | 114 | [Beehive](https://open.spotify.com/track/1bEiUxVyv9mVqZGXDj3EQ4) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Beehive](https://open.spotify.com/album/37gkwbGYPnIkMhGokeeJCu) | 5:24 |
 
-Snapshot ID: `MCwzZmVjYzhhNWU3ZWIzY2JkY2I5NjBmYWViMjY2NDNiYWNiZTQ1ZGJk`
+Snapshot ID: `MCwwMWZkNmJlNDcwYTAwYjkwNjIyZDRlOWU5MzAyOGUwYWM3ODM5Y2M0`

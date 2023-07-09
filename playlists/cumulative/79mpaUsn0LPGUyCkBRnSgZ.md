@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-275 songs - 18 hr 11 min
+277 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 |  |
 | [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 |  |
-| [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 |  |
+| [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 | 2023-07-09 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-06-27 | 2023-05-17 |
 | [All Things Go](https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 4:53 | 2023-01-22 |  |
 | [Allison](https://open.spotify.com/track/3B0vMz20sN9UUwAwcP2QGQ) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:39 | 2022-06-28 |  |
@@ -37,7 +37,7 @@
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
-| [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 |  |
+| [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
@@ -156,6 +156,7 @@
 | [LMPD](https://open.spotify.com/track/0HFQJcLpqVWhBYzdUZC5xd) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 4:03 | 2022-12-15 |  |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-04-21 |  |
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
+| [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 | 2023-07-06 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-08-11 |  |
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2023-04-30 |  |
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 |  |
@@ -167,6 +168,7 @@
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 |  |
 | [Mojo Pin](https://open.spotify.com/track/3wBy12K7BHKHJspUwJw8fq) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:42 | 2022-07-31 |  |
+| [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 | 2023-07-08 |  |
 | [Mornin'!](https://open.spotify.com/track/5c3OcRPB9vCgCtenGQpIUv) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [POST\-](https://open.spotify.com/album/4dvUYqwZfiRuFvSbqKF2FZ) | 0:05 | 2023-01-03 |  |
 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 | 2023-06-03 |  |
 | [Mystery Fish](https://open.spotify.com/track/5r13QvPVwh6OfOvUf71shX) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [The Impossible Kid](https://open.spotify.com/album/6D6v19wYlLDsYkkfebOY3g) | 3:08 | 2023-03-24 | 2023-05-03 |

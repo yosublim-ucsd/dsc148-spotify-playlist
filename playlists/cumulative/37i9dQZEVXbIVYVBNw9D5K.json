@@ -8275,6 +8275,28 @@
     },
     {
       "album": {
+        "name": "Manolya",
+        "url": "https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb"
+      },
+      "artists": [
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        },
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Manolya",
+      "url": "https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3"
+    },
+    {
+      "album": {
         "name": "Marlon Brando",
         "url": "https://open.spotify.com/album/746vxoUmfdqRya2d924CPj"
       },
@@ -12013,6 +12035,28 @@
     },
     {
       "album": {
+        "name": "Ta\u015ftan",
+        "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176927,
+      "name": "Ta\u015ftan",
+      "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
+    },
+    {
+      "album": {
         "name": "Tek Tabanca",
         "url": "https://open.spotify.com/album/6IZwq14LBnRItURc1H4r4Y"
       },
@@ -12462,7 +12506,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 147760,
       "name": "Veda Saati",
       "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"
@@ -13552,7 +13596,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"

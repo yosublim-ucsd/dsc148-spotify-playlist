@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT"
+    },
+    {
+      "album": {
         "name": "Aboutchu",
         "url": "https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 402711,
       "name": "Disco Dancing (feat. Ayoni) - Lazywax Remix",
       "url": "https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9"
@@ -982,6 +1004,32 @@
       "duration_ms": 183547,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
+    },
+    {
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "album": {
@@ -2674,7 +2722,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 153429,
       "name": "phoenix",
       "url": "https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ"

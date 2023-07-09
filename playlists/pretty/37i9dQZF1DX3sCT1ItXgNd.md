@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,747 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,878 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [5 SENTÍOS](https://open.spotify.com/track/7n12wwP15l3KhIKgMoUiZY) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [5 SENTÍOS](https://open.spotify.com/album/3777kSd47h5uVR0lnPf81n) | 3:35 |
 | 75 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 |
 
-Snapshot ID: `MCxmZDNmMzAxMmEyZDg1ODVmMWQxYzQyZGQ1ZmY5OTNiMDJmMjE2NjM4`
+Snapshot ID: `MCwzYWY5ZjIzNGNmZWNiMjRjM2FjMDU2ODdmOGU4NjMxNjNhYjQ3ZjAx`

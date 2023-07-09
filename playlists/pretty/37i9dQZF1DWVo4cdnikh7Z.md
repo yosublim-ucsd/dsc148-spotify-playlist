@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : LEO
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,961 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,825 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 3 | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/track/7AfS3sw4qaSBvobpdPYalt) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Rehman](https://open.spotify.com/artist/5uKN1IyD8fLoj2lV8CDzws) | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/album/3anqjQy9dqSqFrNFQHBzfT) | 3:28 |
 | 4 | [Raasa Kannu \(From "Maamannan"\)](https://open.spotify.com/track/2xm4sJxwgaeFsxc1cM1xQr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Raasa Kannu \(From "Maamannan"\)](https://open.spotify.com/album/3LUHSIupWJT4QKxRNonzQ0) | 5:27 |
 | 5 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
-| 6 | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/track/7F87INMyRLIPBEpQxoYo6x) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/album/3aJ8NblvlITtCfmQEqPxVE) | 5:24 |
+| 6 | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/track/2FK51rLMRSqPMTouEG6Dfj) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/album/2wFp5On9hgEXS96baqekHB) | 5:24 |
 | 7 | [Salana \(From "LGM"\)](https://open.spotify.com/track/2kt8pqyFNZ1eAfx44GNLH2) | [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Salana \(From "LGM"\)](https://open.spotify.com/album/7tlEW61tcGpEULjPf3l8gH) | 2:57 |
 | 8 | [Veeran Thiruvizha \(From "Veeran"\)](https://open.spotify.com/track/4RgswzHJdeY8YhzEknzQwy) | [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Veeran Thiruvizha \(From "Veeran"\)](https://open.spotify.com/album/0Zf1DRmbm3Cg6Tm2czi8sI) | 3:41 |
 | 9 | [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/track/5p1pZim92MwJcNwJJDeJHV) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/album/1LvcMAe2Ob4r8evADGZC0V) | 2:05 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 53 | [Thayaga Naan](https://open.spotify.com/track/5JG3bvOTNixAPnqyyJtg8b) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt) | [DADA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs) | 3:05 |
 | 54 | [Kannoram](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 |
 
-Snapshot ID: `MCw2NjY1NTc2YzQ3MGI0NDJjNjcyYTU2ZTgzZWVjMmRhZmJjZGEwNTc1`
+Snapshot ID: `MCw4YmYwNzVhNDkyOTAzNDU4YzE4YWU3ZjIzOGJjZjA4ZjUyNjhmNjAw`

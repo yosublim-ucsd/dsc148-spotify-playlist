@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1060411,
+  "num_followers": 1060641,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyMDk2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyMTgzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "DISCO PARADISE",
         "url": "https://open.spotify.com/album/3DIE5BHMhtSsi38Nhi1z4e"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6VOoSi7mgFrKCeymxG6wKB"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/3mMjLv3IyxlEKmXg3JxCI5"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
@@ -169,99 +185,7 @@
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Santana Season",
-        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Un milione di volte (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Ci pensiamo domani",
-        "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 180184,
-      "name": "Ci pensiamo domani",
-      "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
-      },
-      "artists": [
-        {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 173995,
-      "name": "90 SPECIAL (feat. Sfera Ebbasta & Shiva)",
-      "url": "https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -277,23 +201,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
@@ -317,27 +225,99 @@
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+        "name": "Ci pensiamo domani",
+        "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 180184,
+      "name": "Ci pensiamo domani",
+      "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Un milione di volte (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 167339,
-      "name": "IL MALE CHE MI FAI (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3RyVu4sbEBBRi9fKif6fHc"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Non litighiamo pi\u00f9",
         "url": "https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos"
@@ -353,7 +333,7 @@
       "url": "https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -373,7 +353,67 @@
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "IL MALE CHE MI FAI (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 173995,
+      "name": "90 SPECIAL (feat. Sfera Ebbasta & Shiva)",
+      "url": "https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "MATERIA (PRISMA)",
         "url": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75"
@@ -441,23 +481,7 @@
       "url": "https://open.spotify.com/track/0gEw8izgROscS30OVqPb1e"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -477,95 +501,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "HOLLYWOOD",
-        "url": "https://open.spotify.com/album/72FNv51OVhZ0ueIl7Hrlta"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "HOLLYWOOD",
-      "url": "https://open.spotify.com/track/729ZgHjcCl1Q2GKVco9anw"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Malamente",
-      "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
-      },
-      "artists": [
-        {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "CHIAMA (feat. Capo Plaza & Salmo)",
-      "url": "https://open.spotify.com/track/7evS7SkjKaYRSeZQcQ8F0b"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO"
@@ -589,7 +525,207 @@
       "url": "https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Fragole",
+        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Fragole",
+      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 156674,
+      "name": "SEXY (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6iOZlieTgmYWDCQmq4Auu6"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "CHIAMA (feat. Capo Plaza & Salmo)",
+      "url": "https://open.spotify.com/track/7evS7SkjKaYRSeZQcQ8F0b"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -613,27 +749,7 @@
       "url": "https://open.spotify.com/track/6VTxXLLqkJw1GoKlKrwsvQ"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Guasto D'Amore",
-        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Guasto D'Amore",
-      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
@@ -665,43 +781,95 @@
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "Fragole",
-        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
+        "name": "Alta marea",
+        "url": "https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x"
       },
       "artists": [
         {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         },
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
         }
       ],
-      "duration_ms": 209621,
-      "name": "Fragole",
-      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
+      "duration_ms": 171903,
+      "name": "Alta marea",
+      "url": "https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "ORIGAMI ALL'ALBA",
+        "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Matteo Paolillo - Icaro",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Lolloflow",
+          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
         }
       ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+      "duration_ms": 153758,
+      "name": "ORIGAMI ALL'ALBA - CLARA",
+      "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Nove Chiamate",
+        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "Arai (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -712,32 +880,40 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+      "duration_ms": 179863,
+      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "LA FINE DEL MONDO",
+        "url": "https://open.spotify.com/album/62zvNsNxirBdtlb1YQAkX1"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        },
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+      "duration_ms": 162000,
+      "name": "LA FINE DEL MONDO",
+      "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -765,95 +941,27 @@
       "url": "https://open.spotify.com/track/3niuUWFJ3uouqpbnvYU0PB"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq"
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "ORIGAMI ALL'ALBA",
-        "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
-      },
-      "artists": [
-        {
-          "name": "Matteo Paolillo - Icaro",
-          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
-        },
-        {
-          "name": "Lolloflow",
-          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
-        },
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 153758,
-      "name": "ORIGAMI ALL'ALBA - CLARA",
-      "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Alta marea",
-        "url": "https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 171903,
-      "name": "Alta marea",
-      "url": "https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -877,91 +985,7 @@
       "url": "https://open.spotify.com/track/28wHZ9EhKU70CoR1wNZNF3"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Nove Chiamate",
-        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 181668,
-      "name": "Arai (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 179863,
-      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Fake News",
-        "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 203647,
-      "name": "Coca zero",
-      "url": "https://open.spotify.com/track/6UyAn0ZryVpQqbpAjICV3e"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 201845,
-      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
         "name": "Effetto notte",
         "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
@@ -981,92 +1005,80 @@
       "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+        "name": "Un Altro Mondo (con Tananai & Marracash)",
+        "url": "https://open.spotify.com/album/4ryxRPTcHPcbSKN8WbmHDC"
       },
       "artists": [
         {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
         },
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 197832,
-      "name": "UPPER (feat. thasup & Shiva)",
-      "url": "https://open.spotify.com/track/1VYUECEcbtQKTpeEkTi36w"
+      "duration_ms": 167647,
+      "name": "Un Altro Mondo (con Tananai & Marracash)",
+      "url": "https://open.spotify.com/track/01Lhwz9MYE6hu58oLQjOxh"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+        "name": "MELODIA CRIMINAL",
+        "url": "https://open.spotify.com/album/18hGGaBxw0ZADwBfCkJaWG"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+      "duration_ms": 180525,
+      "name": "MELODIA CRIMINAL",
+      "url": "https://open.spotify.com/track/7qZQikVR1TOewAAEo9ylVL"
     },
     {
-      "added_at": "2023-07-07 10:50:06",
+      "added_at": "2023-07-08 11:40:28",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
       },
       "artists": [
         {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         },
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 165491,
-      "name": "DESOL\u00c9 (feat. Rhove & Geolier)",
-      "url": "https://open.spotify.com/track/2jeNH1ZJTHOX8upHBmPGzU"
-    },
-    {
-      "added_at": "2023-07-07 10:50:06",
-      "album": {
-        "name": "LA FINE DEL MONDO",
-        "url": "https://open.spotify.com/album/62zvNsNxirBdtlb1YQAkX1"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        },
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "LA FINE DEL MONDO",
-      "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
+      "duration_ms": 245181,
+      "name": "FIGLIO UNICO (feat. Kid Yugi, Ernia)",
+      "url": "https://open.spotify.com/track/096BYC8tm5zUgfM4ohTcdD"
     }
   ],
   "unique_name": "Top 50 - Italy",

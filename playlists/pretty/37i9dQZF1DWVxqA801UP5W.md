@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,475 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,530 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 35 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 | 36 | [Secrets \- MOTi Remix](https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Secrets \(MOTi Remix\)](https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY) | 2:35 |
 | 37 | [Where Are You Now \- Kungs Remix](https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Where Are You Now \(Remix Pack\)](https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX) | 3:12 |
-| 38 | [people pleaser \- TeeDee Remix](https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [people pleaser \(TeeDee Remix\)](https://open.spotify.com/album/1t8qr9i7Fv2zaECOMgdOC9) | 2:52 |
-| 39 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
+| 38 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
+| 39 | [people pleaser \- TeeDee Remix](https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [people pleaser \(TeeDee Remix\)](https://open.spotify.com/album/1t8qr9i7Fv2zaECOMgdOC9) | 2:52 |
 | 40 | [Lasting Lover \- Tiësto Remix](https://open.spotify.com/track/3fIkn0ksMuH91GpflwmpJf) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lasting Lover \(Tiësto Remix\)](https://open.spotify.com/album/5Et99TQHMNNxn8YhG0XuZu) | 3:32 |
 | 41 | [Lionheart \- Cedric Gervais Remix](https://open.spotify.com/track/1BekxmZKaOuPxxlS7kF1Gz) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Lionheart \(Cedric Gervais Remix\)](https://open.spotify.com/album/5Nlf2SSYLLqgow7j5pIJ8y) | 2:43 |
 | 42 | [Hate Me \- R3HAB Remix](https://open.spotify.com/track/3iJeF2izF1QcpCgUc97BLl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hate Me \(R3HAB Remix\)](https://open.spotify.com/album/6e6RVFWdZaoTiLAZOCMnps) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCwyZDI4NDlkNDA1MGE3NDZlNDAwNDYzYjM4YmJkM2FkM2UyZjFlZjU5`
+Snapshot ID: `MCxmMTMzYmRlYWMwOTU2MzdmNDkwMWE0MGE2YzdjOGMzNzVhYmE3NDk5`

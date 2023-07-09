@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9174,
+  "num_followers": 9178,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTA0Miw0YjM4YTlmNzY4NzQ0MDU1YTcxOTU2Yjk4MmYwNjg0NTkwYWNmODgx",
+  "snapshot_id": "MTA0Myw0NzZhYWVlZTcyN2NlMGIwYzRhZmE0MDc2MjI0ZmNiZWFiZWIxZTI2",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -71,6 +71,22 @@
       "duration_ms": 191976,
       "name": "Go Your Own Way (Acoustic)",
       "url": "https://open.spotify.com/track/5nQtUF2gQhSvGk8ENAFAr5"
+    },
+    {
+      "added_at": "2023-07-07 19:36:32",
+      "album": {
+        "name": "Billie Jean (Acoustic)",
+        "url": "https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "duration_ms": 185157,
+      "name": "Billie Jean - Acoustic",
+      "url": "https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k"
     },
     {
       "added_at": "2023-04-01 05:48:56",

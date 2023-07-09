@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 174528,
+  "num_followers": 174662,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFmNzU0YzE2YWYzMTlmZmM1ZjU2MTRjZmNjZDExNDY1NWEyNDBj",
+  "snapshot_id": "MCwwZTcxM2NlZTU0MmMzMmJmMGZhOWYzNDc5MDI2MjIzMmY0ZDRmNGQ4",
   "tracks": [
     {
       "added_at": "2023-06-30 14:12:30",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
         "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
         "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 237717,
       "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
       "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
       "artists": [
         {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 194638,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1155,22 +1151,6 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
-        "name": "Quarentena",
-        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Quarentena",
-      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+      "duration_ms": 194638,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1255,6 +1239,38 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
+        "name": "Super Mulher",
+        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 232421,
+      "name": "Super Mulher",
+      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -1275,26 +1291,6 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Boda",
-        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
-      },
-      "artists": [
-        {
-          "name": "The Nitrox",
-          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
-        },
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Boda",
-      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
         "name": "Sincera",
         "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Super Mulher",
-        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
+        "name": "Boda",
+        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
         }
       ],
-      "duration_ms": 232421,
-      "name": "Super Mulher",
-      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
+      "duration_ms": 173844,
+      "name": "Boda",
+      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Sinto Falta",
-        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
       },
       "artists": [
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 202397,
-      "name": "Sinto Falta",
-      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+      "duration_ms": 166000,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1391,6 +1391,22 @@
       "duration_ms": 234226,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
+        "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 202397,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
         "name": "Se Eu Pudesse",
         "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2023-06-30 14:12:30",

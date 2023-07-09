@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,523 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,541 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 115 | [En riktig Volvo EPA](https://open.spotify.com/track/0OKmG2oBxxMaJzHzFdaL5S) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [En riktig Volvo EPA](https://open.spotify.com/album/3i28l4ihW86rsTsjPX4pRf) | 3:13 |
 | 116 | [Besatt](https://open.spotify.com/track/5Luc1MxPaCA6pASWag5Bm8) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Besatt](https://open.spotify.com/album/3CJZcCzy5KCqYpCKdrMxxt) | 3:49 |
 
-Snapshot ID: `MCwwYjRmOGQ4Njk1MjZmOTg4ODZkY2JkMTcwZmZlNzQ5ZmMzNWVhNTEz`
+Snapshot ID: `MCxhZWQzZDI3ZDQ2YTRiZDc4NzE0NmVlZjk3MTE2MGJhNTczNjA0YmNm`

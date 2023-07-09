@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,756 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,780 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 39 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 |
 | 40 | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca) | 3:18 |
 | 41 | [FREE BIA \(1ST DAY OUT\)](https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 1:54 |
-| 42 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
-| 43 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
+| 42 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
+| 43 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
 | 44 | [Perfect](https://open.spotify.com/track/7v5fIXqgB0nd5KgekRDe4M) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [Perfect](https://open.spotify.com/album/3cPb7WoJvMKZdJNL9nU2UT) | 3:27 |
 | 45 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
-| 46 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
-| 47 | [Mi Naturaleza](https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD) | [K2](https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mi Naturaleza](https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8) | 3:07 |
+| 46 | [Mi Naturaleza](https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD) | [K2](https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mi Naturaleza](https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8) | 3:07 |
+| 47 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
 | 48 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 |
 | 49 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 |
-| 50 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
+| 50 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 |
 
-Snapshot ID: `MjgxNDQwOTQsMDAwMDAwMDBjMjJjZWY3ZGUxY2I2NmM4MGE5N2EyYmExNTM3NWE2ZA==`
+Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDAwNTRlZjI4ZDY5OTg1NjE4MWEyNTdhMTFhNDIyNjY1MA==`

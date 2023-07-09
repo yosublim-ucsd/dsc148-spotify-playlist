@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-319 songs - 16 hr 56 min
+320 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Andalucia](https://open.spotify.com/track/7EVOm9QdT0pww5jEQ3vwox) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:27 | 2022-03-21 | 2022-04-20 |
 | [Arrebatada](https://open.spotify.com/track/2635qgGEdvylmvCYCNZ33i) | [Sarhai](https://open.spotify.com/artist/1kFFQgFBwYFDYySGfCpIji) | [Arrebatada](https://open.spotify.com/album/51CvjXKO9SpAOSmor1Xz7G) | 2:32 | 2023-04-03 | 2023-05-26 |
 | [Arriba y Abajo](https://open.spotify.com/track/5VQtGffW8zgmAF5nRKoSv2) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW) | [Drum Temple](https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc) | 6:27 | 2022-03-21 | 2022-07-02 |
-| [ASESINA](https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [ASESINA](https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh) | 2:46 | 2023-05-25 |  |
+| [ASESINA](https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [ASESINA](https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh) | 2:46 | 2023-05-25 | 2023-07-09 |
 | [Aventura](https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:37 | 2022-04-19 | 2022-07-09 |
 | [AZAFATA](https://open.spotify.com/track/6BL62CM2gSoKD4ZGr3HRbz) | [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [AZAFATA](https://open.spotify.com/album/4q4PnH4fOJ9phU1knqi7IO) | 2:35 | 2022-03-21 | 2022-04-20 |
 | [Azucar](https://open.spotify.com/track/3DezebHYHERgLxY3bU4y96) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [The Party en la Casa](https://open.spotify.com/album/00WH3NDxKehvOMhCcXAnhD) | 2:40 | 2022-03-21 | 2022-07-09 |
@@ -262,6 +262,7 @@
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2022-07-28 | 2022-12-01 |
 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-11-02 | 2023-05-26 |
 | [Si No Le Contesto](https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw) | 3:40 | 2022-04-25 | 2022-07-29 |
+| [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 | 2023-07-07 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tu Supieras](https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD) | 3:45 | 2023-05-25 |  |
 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 | 2022-12-31 | 2023-05-26 |
 | [Sin Seguro](https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:27 | 2022-12-07 | 2023-05-26 |

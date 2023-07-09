@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,636 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,877 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [SOMOS MAYIZA](https://open.spotify.com/track/15owZZmQfaIUBNVU8ZzSQ1) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [SOMOS MAYIZA](https://open.spotify.com/album/7q167LUIDIEtan68AvwTi0) | 2:57 |
 | 75 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 |
 
-Snapshot ID: `MCxhMzZkZWIxYTRjNjA0NDIyMWJlNjA5ZTIxMjAxNDNhYmIyN2M2NThh`
+Snapshot ID: `MCw0YzYwOTNmYTU4YWU0ZWI3MjlhYzQyYjdkYTBjZGVlZGM2NzhlODY1`

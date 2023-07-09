@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 647540,
+  "num_followers": 647848,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTlkYjI5ZDZhMjViMTYyYTgxOWU3ODYwZjc5NDc3MTRlNzMwYzFl",
+  "snapshot_id": "MCwzNzA2Y2VhMjliYmZlOTA3ZTg2YTA2MWYxMjhiN2U0MDY4ZjkzYjc5",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -845,24 +845,20 @@
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-04-12 02:43:31",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Sir Jean",
-          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
         }
       ],
-      "duration_ms": 432963,
-      "name": "Spies Are Watching Me",
-      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2023-06-23 01:21:55",
@@ -881,20 +877,24 @@
       "url": "https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj"
     },
     {
-      "added_at": "2022-04-12 02:43:31",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
       "artists": [
         {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Sir Jean",
+          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
         }
       ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+      "duration_ms": 432963,
+      "name": "Spies Are Watching Me",
+      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -965,6 +965,22 @@
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Philantropiques",
+        "url": "https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        }
+      ],
+      "duration_ms": 386893,
+      "name": "Kenke Corner",
+      "url": "https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp"
+    },
+    {
       "added_at": "2022-04-17 19:52:01",
       "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
@@ -983,22 +999,6 @@
       "duration_ms": 238440,
       "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
       "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Philantropiques",
-        "url": "https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU"
-      },
-      "artists": [
-        {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        }
-      ],
-      "duration_ms": 386893,
-      "name": "Kenke Corner",
-      "url": "https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1273,6 +1273,42 @@
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
     },
     {
+      "added_at": "2022-04-17 20:13:34",
+      "album": {
+        "name": "Roots in the Air",
+        "url": "https://open.spotify.com/album/2k7SzJHQKAapyNECIvx6rY"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 215202,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
+    },
+    {
+      "added_at": "2022-04-17 18:22:38",
+      "album": {
+        "name": "Gnawa EP",
+        "url": "https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG"
+      },
+      "artists": [
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "The Atlas Collective",
+          "url": "https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Gnawa (feat. The Atlas Collective)",
+      "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
+    },
+    {
       "added_at": "2023-02-02 00:27:59",
       "album": {
         "name": "Le Fruit Disco",
@@ -1305,60 +1341,20 @@
       "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
     },
     {
-      "added_at": "2022-04-17 18:22:38",
-      "album": {
-        "name": "Gnawa EP",
-        "url": "https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG"
-      },
-      "artists": [
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
-          "name": "The Atlas Collective",
-          "url": "https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Gnawa (feat. The Atlas Collective)",
-      "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
-    },
-    {
-      "added_at": "2022-04-17 20:13:34",
-      "album": {
-        "name": "Roots in the Air",
-        "url": "https://open.spotify.com/album/2k7SzJHQKAapyNECIvx6rY"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 215202,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Wahala Wahala",
-        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
+        "name": "Belle Wahallah",
+        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
       },
       "artists": [
         {
-          "name": "K.O.G",
-          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
-        },
-        {
-          "name": "The Zongo Brigade",
-          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
         }
       ],
-      "duration_ms": 361715,
-      "name": "Suro Nipa",
-      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+      "duration_ms": 326606,
+      "name": "Yeanoh (Powe'hande Binga'dbe)",
+      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Belle Wahallah",
-        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
+        "name": "Wahala Wahala",
+        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
       },
       "artists": [
         {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        },
+        {
+          "name": "The Zongo Brigade",
+          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
         }
       ],
-      "duration_ms": 326606,
-      "name": "Yeanoh (Powe'hande Binga'dbe)",
-      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
+      "duration_ms": 361715,
+      "name": "Suro Nipa",
+      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
-      "added_at": "2023-02-02 00:27:59",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Sakla Beni",
@@ -1557,40 +1541,20 @@
       "url": "https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2023-02-02 00:27:59",
       "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1609,20 +1573,20 @@
       "url": "https://open.spotify.com/track/6gZJn1abfUXsOcyBUKjp4D"
     },
     {
-      "added_at": "2021-10-22 15:36:00",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Modern Music (Habibi Funk 006)",
-        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
       "artists": [
         {
-          "name": "Al Massrieen",
-          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Sah",
-      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2022-03-29 03:12:27",
@@ -1643,6 +1607,42 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2021-10-22 15:36:00",
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 348148,
-      "name": "The Rabbit That Hunts Tigers",
-      "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 348148,
+      "name": "The Rabbit That Hunts Tigers",
+      "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
     },
     {
       "added_at": "2021-10-06 02:02:41",

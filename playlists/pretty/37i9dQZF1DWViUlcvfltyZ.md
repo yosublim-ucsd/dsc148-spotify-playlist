@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Le Bambole di Pezza in cover di Rock Italia questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,857 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,867 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 |
 | 55 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 |
 
-Snapshot ID: `MCwwYzU5ZGY0YmQ4NWI2ZDc5YjkxNDkwNDRkZjljOGQ2OTMwNDQ4M2Zk`
+Snapshot ID: `MCw0YzU1OWUyN2I3OWEwMmM4Y2I5NWU3OGMyMmExOGE0YjMxZDI5Yjdj`

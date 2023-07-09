@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:4v6IUouJ3henBgdkXXBfLg">Rosolo Roso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,060 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,062 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [NON LO SO X4](https://open.spotify.com/track/1UzR9fzj03QX9QGVpe0UTt) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [NON LO SO X4](https://open.spotify.com/album/7ecccb52hK4RiXrLuQoExO) | 3:04 |
 | 55 | [Nuove strade](https://open.spotify.com/track/6F5jyYks66HsPyNd97Hx3W) | [Volpe](https://open.spotify.com/artist/7GuHTwsqMwtZXGjBjGIeCP), [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Nuove strade](https://open.spotify.com/album/01d189ZaRUz1AYdof4RygQ) | 2:57 |
 
-Snapshot ID: `MCw4YmU3OWJhZDkwMjYxZWYyZjkxY2U3YTBiMTA0MmU1YmQzNDU4YWI1`
+Snapshot ID: `MCw5YmUzYmM3NDU2N2RkYTk4NzlmNzdjMTIzZWZiNjRhZmE2ODczMGNl`

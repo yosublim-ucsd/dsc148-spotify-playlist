@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Alan Jackson's classic hit \"Chattahoochee\" on 90s Country! ",
-  "num_followers": 1620595,
+  "num_followers": 1621970,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWE4Yzc4OWExYzNiOTg3NDNjMzM3NTM5ZmE4NGUwZDU1YzBjODY1",
+  "snapshot_id": "MCxiZTk5OTI5NWEyN2YzZTZkNjlhNTEwMzMxOTdhNWYwMGU0ZDQ3ZGM5",
   "tracks": [
     {
       "added_at": "2023-05-17 04:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Ain't That Lonely Yet",
-      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "When Fallen Angels Fly",
         "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 169933,
       "name": "I Try to Think About Elvis",
       "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Ain't That Lonely Yet",
+      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 321373,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "Whatcha Gonna Do With A Cowboy",
         "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 321373,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Thinkin' About You",
-        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Thinkin' About You",
-      "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "Thinkin' About You",
+        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"
     },
     {
       "added_at": "2023-05-17 04:00:00",

@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Faz T\u00e3o Bem",
+        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
+      },
+      "artists": [
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Faz T\u00e3o Bem",
+      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
+    },
+    {
+      "album": {
         "name": "Fazer-te sonhar",
         "url": "https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK"
       },
@@ -4598,7 +4616,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 213333,
       "name": "N\u00e3o Consigo",
       "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"
@@ -5701,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "U7",
+        "url": "https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180403,
+      "name": "Saltamos",
+      "url": "https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6"
+    },
+    {
+      "album": {
         "name": "Salto Alto",
         "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
@@ -5974,6 +6010,28 @@
     {
       "album": {
         "name": "Sil\u00eancio",
+        "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
+      },
+      "artists": [
+        {
+          "name": "Gil Semedo",
+          "url": "https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
+    },
+    {
+      "album": {
+        "name": "Sil\u00eancio",
         "url": "https://open.spotify.com/album/1Bzk3BwhxS5lLdFAH5tLzN"
       },
       "artists": [
@@ -5988,7 +6046,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 136956,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qJWEAvblrl03o5lSTKpbI"
@@ -6742,7 +6800,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 147351,
       "name": "T\u00e1 Pedir",
       "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"

@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
       },
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 182821,
       "name": "Stand (feat. Cor.Ece) - Edit",
       "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"

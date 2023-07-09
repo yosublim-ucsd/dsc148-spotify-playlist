@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-266 songs - 17 hr 2 min
+267 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Clear Enough](https://open.spotify.com/track/0dUOty6ev4peVLoiVC8Beh) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Clear Enough](https://open.spotify.com/album/2t1lk5lyBtRpNzuigtwCql) | 2:50 | 2022-01-03 | 2022-04-21 |
 | [Clear Enough](https://open.spotify.com/track/0iqbvLUoANlhXizwGUKWHJ) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Plastic World](https://open.spotify.com/album/4SxMaBkSKYysgd0JM1tewe) | 2:50 | 2022-06-30 |  |
 | [Clement](https://open.spotify.com/track/0gZledHxMOU9mcsVeW9NmF) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Highmare](https://open.spotify.com/album/5rRaCgk5xWmQ6OCZPO6kku) | 4:55 | 2022-02-18 |  |
-| [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 | 2023-07-02 |
+| [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 |  |
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 | 2023-06-30 |
@@ -138,6 +138,7 @@
 | [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 | 2023-02-28 |
 | [Keep Up Until It Bleeds](https://open.spotify.com/track/7FMF5tM8SyGbw7o6pCOKYZ) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Keep Up Until It Bleeds](https://open.spotify.com/album/4wyMHDo55NpyDa14Bc5S4c) | 4:31 | 2022-06-30 | 2023-03-11 |
 | [Khalil](https://open.spotify.com/track/2R0p97M11bb2W7vBKBLA5i) | [Rescue Rangers](https://open.spotify.com/artist/6erPxLLPCkVjBrW6BTylq0) | [Join Hate](https://open.spotify.com/album/2nng9pWpHHSSGGLJnROHTP) | 3:43 | 2022-01-14 | 2022-04-18 |
+| [Killing God](https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 3:35 | 2023-07-05 |  |
 | [Killing Hallelujah](https://open.spotify.com/track/4tOw9SWHCcg9oDROjeuJlJ) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 6:00 | 2023-06-29 |  |
 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 | 2021-12-31 | 2022-07-29 |
 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 | 2021-12-31 |  |
@@ -173,7 +174,7 @@
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |
 | [Nowhere Near Prepared](https://open.spotify.com/track/0gBOasbQ8wXhs0Ji3omdh1) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Nowhere Near Prepared](https://open.spotify.com/album/7ib5O00WC2qag2JBqNaPa5) | 3:23 | 2023-06-29 |  |
 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 | 2022-01-27 |  |
-| [Néant](https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:09 | 2022-04-17 |  |
+| [Néant](https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:09 | 2022-04-17 | 2023-07-09 |
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
@@ -273,6 +274,6 @@
 | [You Suck Dude](https://open.spotify.com/track/4QpTAGLsHj7iXT2VlRwc5R) | [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [You Suck Dude](https://open.spotify.com/album/47qPZfTscKx7zKxWC2aSpG) | 2:44 | 2022-04-17 | 2022-09-10 |
 | [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 | 2021-12-30 | 2022-07-28 |
 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 | 2021-12-30 | 2022-07-25 |
-| [Zone 51](https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:23 | 2023-06-29 |  |
+| [Zone 51](https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:23 | 2023-06-29 | 2023-07-09 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

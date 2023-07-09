@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "The Star Spangled Banner (Live from Super Bowl LVII)",
+        "url": "https://open.spotify.com/album/5oDzftAtEUmroIiDFr9yWD"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133346,
+      "name": "The Star Spangled Banner (Live from Super Bowl LVII)",
+      "url": "https://open.spotify.com/track/3wX3TPwztLphgHldbTmtCn"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },

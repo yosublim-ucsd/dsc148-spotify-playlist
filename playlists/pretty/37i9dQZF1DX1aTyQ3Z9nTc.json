@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 123731,
+  "num_followers": 123812,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWM3ZGIxYjc2YWM1NzZhZWMzMGJjMWViYjQ5YmFkY2MwNWMzZDFi",
+  "snapshot_id": "MCxlNjFiMDAyMWE2NWEzYjM3MTY5MDk4Y2MyYTUzNTZiYjdhMWJhYjgx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -445,26 +445,6 @@
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Vanice",
-        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        },
-        {
-          "name": "Dear Silas",
-          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
-    },
-    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "Grudges",
@@ -503,6 +483,26 @@
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        },
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
       "added_at": "2022-08-12 04:16:30",

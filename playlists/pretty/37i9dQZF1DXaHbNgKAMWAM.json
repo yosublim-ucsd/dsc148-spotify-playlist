@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11969,
+  "num_followers": 11970,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl",
+  "snapshot_id": "MCw1MGYzODhmYWZkZDE1MDI1OTg1ZWVkNGU4OWJmY2Q4NWYzZjhmMjMy",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:59",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
       "artists": [
         {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
         }
       ],
-      "duration_ms": 189575,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
       },
       "artists": [
         {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -615,6 +631,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -635,22 +667,6 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -831,22 +831,6 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -879,6 +863,22 @@
       "duration_ms": 226573,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -927,6 +927,22 @@
       "duration_ms": 199295,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -995,22 +1011,6 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "SummerSweet",
-        "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "SummerSweet",
-      "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

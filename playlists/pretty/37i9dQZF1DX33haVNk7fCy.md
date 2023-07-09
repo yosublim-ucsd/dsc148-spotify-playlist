@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,013 likes - 67 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,223 likes - 67 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 11 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
 | 12 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 |
 | 13 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
-| 14 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 |
-| 15 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 |
+| 14 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 |
+| 15 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 |
 | 16 | [Main Dhoondne Ko Zamaane Mein \(From "Heartless"\)](https://open.spotify.com/track/43YkTTlOD203o9E5ZxhUjF) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Arijit Singh Broken Strings](https://open.spotify.com/album/6jk3ucx33D7CLURgcfVFOT) | 4:22 |
 | 17 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 |
 | 18 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 66 | [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 |
 | 67 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 
-Snapshot ID: `MCxmMTMxOGNkNDJmMzk1MjUyYjUzYTZlMjg5NDI1YjI5Y2U2NDBjNTZi`
+Snapshot ID: `MCw2ODEwYmU4MmYyYzZhN2QwMDkzZjgxZGE4ZDg1YzEyZDM3NDA3MzQ0`

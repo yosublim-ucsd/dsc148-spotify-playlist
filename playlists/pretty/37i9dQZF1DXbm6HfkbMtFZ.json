@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 672817,
+  "num_followers": 673005,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTllOGYzYjA1YzdkMzI2NDNhMmI2OTcxODgyZmY4ZmE4NjkyNzQx",
+  "snapshot_id": "MCxjMmQwMjA3NDZhZGUzODIyYTI5YWM5YjQ0ZjU2MDE5MWI4YjY3ZGNk",
   "tracks": [
     {
       "added_at": "2023-06-26 20:26:14",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 162102,
       "name": "Opendoors",
       "url": "https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Vibe Creator",
         "url": "https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 147250,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "You Ain't The Problem (Claptone Remix)",
         "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 164714,
       "name": "You Ain't The Problem - Claptone Remix",
       "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "Let 'Em In - 2014 Remaster",
-      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "Let 'Em In - 2014 Remaster",
+      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Go Down River",
-      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "The Dandelion",
         "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 221600,
-      "name": "On + Off",
-      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "On + Off",
+      "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "What Will We Be (Standard)",
         "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+      "duration_ms": 242773,
+      "name": "O.P. Jebediah",
+      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
         }
       ],
-      "duration_ms": 242773,
-      "name": "O.P. Jebediah",
-      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "Under The Blacklight (Standard Version)",
         "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 216973,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1303,42 +1319,6 @@
       "duration_ms": 201133,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "You Don't Want Me",
-        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
-      },
-      "artists": [
-        {
-          "name": "Wesley Bright",
-          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
-        },
-        {
-          "name": "Wesley Bright and the Honeytones",
-          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "You Don\u2019t Want Me",
-      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1359,6 +1339,26 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "You Don't Want Me",
+        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
+      },
+      "artists": [
+        {
+          "name": "Wesley Bright",
+          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
+        },
+        {
+          "name": "Wesley Bright and the Honeytones",
+          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "You Don\u2019t Want Me",
+      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 201988,
-      "name": "Obvious Guy",
-      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "Boys, B-Sides & Rarities",
         "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 201988,
+      "name": "Obvious Guy",
+      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "Just Like You Used To",
         "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+        "name": "From Liberty Street",
+        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
       },
       "artists": [
         {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
         }
       ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+      "duration_ms": 202120,
+      "name": "Life On Fire",
+      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1807,22 +1823,6 @@
       "duration_ms": 209561,
       "name": "Walk the Streets of Love",
       "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "From Liberty Street",
-        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Life On Fire",
-      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
     },
     {
       "added_at": "2023-06-26 20:26:14",
@@ -1863,54 +1863,6 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-06-26 20:26:14",
-      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1935,6 +1887,54 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2023-06-26 20:26:14",
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-06-26 20:26:14",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Gold Past Life",
-      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU"
     }
   ],
   "unique_name": "Feel Good Dinner",

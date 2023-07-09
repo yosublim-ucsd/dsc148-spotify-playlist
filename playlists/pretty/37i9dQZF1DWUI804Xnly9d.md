@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,952 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,017 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 5 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 |
 | 6 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 |
 | 7 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 |
-| 8 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:30 |
-| 9 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
+| 8 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 |
+| 9 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
 | 10 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 |
 | 11 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:03 |
 | 12 | [Kivein Mukhade](https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE) | [Harjot K Dhillon](https://open.spotify.com/artist/0OR1HFAannTqpzRH4Efq5Z) | [Kivein Mukhade](https://open.spotify.com/album/7dK1nmyjIuvBb1OZEpZlL8) | 2:21 |
 | 13 | [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 |
-| 14 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/7e36LMjK2ZWypr9YI08Bgz) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 |
+| 14 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 |
 | 15 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 |
 | 16 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 |
 | 17 | [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 |
 | 75 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 
-Snapshot ID: `MCw3MzQzMGI3ZWZlZDQ2YmEwYzRhY2EwZjU1ZGNmZTI5MjcyOGUxNDIx`
+Snapshot ID: `MCxkNTAzYzBhODMwMzhkODcyMGMwN2JlZjNiNzM1ZWU0NTdjZDU0ZjE4`

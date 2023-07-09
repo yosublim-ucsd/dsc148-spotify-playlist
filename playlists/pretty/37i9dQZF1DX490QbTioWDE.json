@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: BM & Luck Ra.",
-  "num_followers": 609380,
+  "num_followers": 609566,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTA1N2JiMGFhYzVjZjBlOWJhMzEwN2I0MzA0MWYzMjQwMTczMzEy",
+  "snapshot_id": "MCw0Zjk4ZDA2OTIzMzUzNjIyOTJjNTljYTE4MDhhNDRlNzZmMzFmMTYz",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -431,18 +431,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Noche Con Arte",
-        "url": "https://open.spotify.com/album/6LFsRjX8LfBWzKcFj29xUf"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
       },
       "artists": [
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 247353,
-      "name": "Noche Con Arte",
-      "url": "https://open.spotify.com/track/4hUkPGHP86mERlxYzZXF6o"
+      "duration_ms": 173949,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -543,42 +547,34 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
+        "name": "Noche Con Arte",
+        "url": "https://open.spotify.com/album/6LFsRjX8LfBWzKcFj29xUf"
       },
       "artists": [
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 173949,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
+      "duration_ms": 247353,
+      "name": "Noche Con Arte",
+      "url": "https://open.spotify.com/track/4hUkPGHP86mERlxYzZXF6o"
     },
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Ya No Llora (En Vivo)",
-        "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 178431,
-      "name": "Ya No Llora - En Vivo",
-      "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+        "name": "Ya No Llora (En Vivo)",
+        "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+      "duration_ms": 178431,
+      "name": "Ya No Llora - En Vivo",
+      "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "25 - Veinticinco",
-        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 217428,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Libertad Provisoria",
         "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 177250,
       "name": "Libertad Provisoria",
       "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "25 - Veinticinco",
+        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Te Pido Que La Dejes",
-      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Te Suena?",
         "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209453,
       "name": "Mi Cama No Habla",
       "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Ven Pa' La Rumba",
-        "url": "https://open.spotify.com/album/2kqD9KotSt8IaeIrwqAIJi"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 277173,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -935,22 +939,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "Ven Pa' La Rumba",
+        "url": "https://open.spotify.com/album/2kqD9KotSt8IaeIrwqAIJi"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 277173,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
     },
     {
       "added_at": "2023-07-07 03:00:00",

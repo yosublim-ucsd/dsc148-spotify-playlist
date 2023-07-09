@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-370 songs - 22 hr 27 min
+371 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-04-15 | 2022-12-10 |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-04-15 |  |
 | [Ea Dem \(Demo 2009\)](https://open.spotify.com/track/24l4gnnZhsfEDQsKntUFQX) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Ea Dem \(Demo 2009\)](https://open.spotify.com/album/0wCC8j4kfKZwrDR4OeHcns) | 3:05 | 2022-04-15 | 2022-12-13 |
-| [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martin Berrios](https://open.spotify.com/artist/56BZ0odGTZKUHSfct4pVFC) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 |  |
+| [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 |  |
 | [El Bosque](https://open.spotify.com/track/0apd5UoECzHEwxVivWILV1) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Hits para Morir](https://open.spotify.com/album/3UfoBjgBDZo3NQSLWKVLzg) | 3:26 | 2022-04-15 | 2022-07-29 |
 | [El Calor Nos Confundió](https://open.spotify.com/track/1eqDrhKuCrdcFID3cAY9vw) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1w7Z6fBFMBHsVGs6mVA2QV) | 3:27 | 2022-04-15 | 2022-12-10 |
 | [El Camino](https://open.spotify.com/track/4e4QltE1uwSGkkM1nyqK8O) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [El Camino](https://open.spotify.com/album/0kUFCDixMxP2RdNIuz7kJx) | 3:11 | 2022-04-15 | 2022-07-24 |
@@ -122,7 +122,7 @@
 | [En Libertad](https://open.spotify.com/track/5vY3PmA4rGhg2qXccdvxj0) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/51oh8fDSvxLabyf8KTNeAD) | 3:59 | 2022-08-12 | 2022-10-25 |
 | [En Libertad](https://open.spotify.com/track/6hsPHgNztdVyZDRwKTzgJq) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [OBSYDIANA](https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb) | 3:59 | 2022-12-09 |  |
 | [entre las sombras,](https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [entre las sombras,](https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p) | 4:30 | 2022-07-29 |  |
-| [es caprichoso el azar](https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [tío pepe](https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA) | [es caprichoso el azar](https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr) | 2:57 | 2022-12-23 |  |
+| [es caprichoso el azar](https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [tío pepe](https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA) | [es caprichoso el azar](https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr) | 2:57 | 2022-12-23 | 2023-07-09 |
 | [Es Suficiente](https://open.spotify.com/track/2PToyUgUHW6iCPUKCvIhzw) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Es Suficiente](https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Esperancita](https://open.spotify.com/track/0hCsSxKmlBFfcoiAEGta0H) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Esperancita](https://open.spotify.com/album/5uEnrbRANWypwVyHXibnfV) | 3:53 | 2022-04-15 | 2022-07-20 |
 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 |  |
@@ -194,6 +194,7 @@
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |
 | [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 |  |
+| [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-07-07 |  |
 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 | 2023-05-12 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |
 | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU) | 3:06 | 2022-04-15 | 2022-12-22 |

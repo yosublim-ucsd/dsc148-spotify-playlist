@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDBmOTBhMzY2MGI5MWRjNTc1NTkyNjYyMTU0NGY0NDA5MQ==",
+  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDBhZmFiODYzMTk3NmFjODlkOTA4Yzg1ZjViYmE2ODk5Ng==",
   "tracks": [
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
@@ -55,26 +79,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+        "name": "Becoming A Coward",
+        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+      "duration_ms": 225906,
+      "name": "Becoming A Coward",
+      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -103,18 +119,74 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Becoming A Coward",
-        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/6qLo1z79xk5hub70FBHGtg"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Becoming A Coward",
-      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
+      "duration_ms": 134295,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7MQZ81UYUdqgTX94JzFxfF"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "The Idol Episode 5 Part 2 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 239783,
+      "name": "Dollhouse (with Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Give Me A Bite",
+        "url": "https://open.spotify.com/album/6Lx2ZHOfqm0U2EdhaMseAM"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "duration_ms": 256239,
+      "name": "Give Me A Bite",
+      "url": "https://open.spotify.com/track/0K6VAdBdFQa2wDOhGV4qj2"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 222839,
+      "name": "Think Fast (feat. Weezer)",
+      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -135,6 +207,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Fine Tune",
         "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
       },
@@ -151,6 +239,62 @@
       "duration_ms": 426441,
       "name": "Sweeter (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/5sJEcokoMPfQS4LqGbtgzU"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/75oDNijUIXFwO1m6FyxBDI"
+      },
+      "artists": [
+        {
+          "name": "XL the Band",
+          "url": "https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Swollen Members",
+          "url": "https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/7G4oZOyYRbkLKHuHyoFsq7"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Blues For Mama (Live)",
+        "url": "https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Blues For Mama - Live",
+      "url": "https://open.spotify.com/track/01spo6sDNqRWv2J1rr8aiR"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Freestyle Canal",
+        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 144780,
+      "name": "Freestyle Canal",
+      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -199,74 +343,70 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Blues For Mama (Live)",
-        "url": "https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR"
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/5bYts6cqDWfSjcXqfVxlyP"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 284583,
-      "name": "Blues For Mama - Live",
-      "url": "https://open.spotify.com/track/01spo6sDNqRWv2J1rr8aiR"
+      "duration_ms": 310576,
+      "name": "So We Won\u2019t Forget - Live at Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2UEQqUtKm52zAo3rXwUFRk"
     },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Freestyle Canal",
-        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
+        "name": "Swimming in the Lotus Garden",
+        "url": "https://open.spotify.com/album/5MS2FvsZNXHkpthszE4EkH"
       },
       "artists": [
         {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
         }
       ],
-      "duration_ms": 144780,
-      "name": "Freestyle Canal",
-      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
+      "duration_ms": 138842,
+      "name": "Swimming in the Lotus Garden",
+      "url": "https://open.spotify.com/track/7aXOm60JLznhO8dNW7ljRy"
     },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/0tC3QGiimExbPI2TZNwYaq"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/75oDNijUIXFwO1m6FyxBDI"
-      },
-      "artists": [
-        {
-          "name": "XL the Band",
-          "url": "https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl"
+          "name": "Spencer Groves",
+          "url": "https://open.spotify.com/artist/7d4VzJT9yzQVNC6Y9t9lau"
         },
         {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Swollen Members",
-          "url": "https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 207642,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/7G4oZOyYRbkLKHuHyoFsq7"
+      "duration_ms": 177307,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/7dJIaWsywNj3CsaccpBH0f"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Gag Order (Live Acoustic EP From Space)",
+        "url": "https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 285859,
+      "name": "Happy - Live Acoustic From Space",
+      "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -323,6 +463,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "BANG BANG! (My Neurodivergent Anthem)",
+        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "BANG BANG! (My Neurodivergent Anthem)",
+      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Drunken Sailor (Metal Version)",
         "url": "https://open.spotify.com/album/7qWqfEemHNdzUUA5R6eEP2"
       },
@@ -359,74 +515,6 @@
       "duration_ms": 248894,
       "name": "Abakhohlwe",
       "url": "https://open.spotify.com/track/4RvDPHwYUb8Au86NSWhgQi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "BANG BANG! (My Neurodivergent Anthem)",
-        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "BANG BANG! (My Neurodivergent Anthem)",
-      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Roll Up",
-        "url": "https://open.spotify.com/album/6ebMagmjBXUAWtP4jwHnBs"
-      },
-      "artists": [
-        {
-          "name": "Pat dukes",
-          "url": "https://open.spotify.com/artist/5UyhboreLPANiB7sf42mn7"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Roll Up",
-      "url": "https://open.spotify.com/track/42d0QtrHwsvP9hS93bCRsm"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "The Fourth Tuning",
-        "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        }
-      ],
-      "duration_ms": 281404,
-      "name": "Man! I Feel Like a Woman!",
-      "url": "https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -475,114 +563,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Champagne Shit",
-      "url": "https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "'Round Midnight (Live In Cologne)",
-        "url": "https://open.spotify.com/album/6qOPsJFKVjSc78dPvvKfC2"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 570204,
-      "name": "'Round Midnight - Live In Cologne",
-      "url": "https://open.spotify.com/track/7fS4JuheYkSmZoJaoSPAUW"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Feeling For You",
-      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "No Particulars",
-        "url": "https://open.spotify.com/album/37Yc7iDKfuLvW9KIRof1iM"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Didda Joe",
-          "url": "https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP"
-        },
-        {
-          "name": "August Rose",
-          "url": "https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44"
-        }
-      ],
-      "duration_ms": 263620,
-      "name": "No Particulars",
-      "url": "https://open.spotify.com/track/5FFoAfeyEX62UkHIoREtgw"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Entre eux deux (The Paris Sessions)",
-        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 433533,
-      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
-      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
+      "duration_ms": 206000,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

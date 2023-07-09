@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-155 songs - 9 hr 11 min
+157 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2022-12-09 |  |
 | [Soul's Refrain](https://open.spotify.com/track/1vHysww8KxCBVFEzqMY7jP) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION: DEATH \(Original Soundtrack\)](https://open.spotify.com/album/5IG0NoQJ5IwyeaNRGhDPcd) | 5:17 | 2023-02-10 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 |  |
+| [STRANGEFAKE](https://open.spotify.com/track/3BslFZV9CGj17fFkmpLlkX) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Fate/strange Fake \-Whispers of Dawn\- Original Soundtrack EP](https://open.spotify.com/album/45gi8PBWr35nixLp7VqvXW) | 5:15 | 2023-07-07 |  |
 | [Takeaway \(feat\. Lennon Stella\)](https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy...Takeaway](https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq) | 3:29 | 2022-02-18 | 2022-12-10 |
 | [THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 4:50 | 2023-01-27 | 2023-02-11 |
 | [THANATOS\-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/4cwVxvlCiZzEUgoW4n0RYg) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [THE END OF EVANGELION \(Original Soundtrack\)](https://open.spotify.com/album/2H8MoSMXUnwcr4szLCJ7IP) | 4:53 | 2023-02-10 |  |
@@ -161,6 +162,7 @@
 | [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2023-01-13 |  |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-12-09 |  |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-01-06 |  |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-07 |  |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-12-09 |  |
 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 | 2023-01-27 | 2023-02-11 |
 

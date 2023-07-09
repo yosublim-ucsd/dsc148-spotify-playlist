@@ -4,7 +4,7 @@
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-77 songs - 4 hr 29 min
+78 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 | 2021-12-17 |  |
 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 | 2021-12-17 | 2022-07-29 |
 | [Professional Griefers](https://open.spotify.com/track/47WNjXohtA1A6gY2zTKZ91) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> Album Title Goes Here <](https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj) | 4:06 | 2021-12-17 | 2022-07-29 |
-| [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:03 | 2021-12-17 |  |
+| [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/173GdOjbjznHLmgcIVJ5Wr) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx) | 4:03 | 2021-12-17 |  |
+| [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:03 | 2021-12-17 | 2023-07-09 |
 | [PROGRESSO](https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [ALESSO MIXTAPE \- PROGRESSO VOLUME 1](https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE) | 4:59 | 2021-12-17 |  |
 | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 | 2021-12-17 |  |
 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 | 2021-12-17 |  |

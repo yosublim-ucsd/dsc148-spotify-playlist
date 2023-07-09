@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Southalid; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Linh Ka; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -18171,6 +18171,28 @@
     },
     {
       "album": {
+        "name": "sinh",
+        "url": "https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Kriss Ngo",
+          "url": "https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108235,
+      "name": "t\u00e2m",
+      "url": "https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT"
+    },
+    {
+      "album": {
         "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
         "url": "https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme"
       },
@@ -19834,6 +19856,10 @@
         {
           "name": "#SSdaRealest",
           "url": "https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226"
+        },
+        {
+          "name": "Tr.M",
+          "url": "https://open.spotify.com/artist/533XALivP2buJd5Ghsm38o"
         }
       ],
       "date_added": "2023-07-06",

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : LEO
 
-751 songs - 1 day 22 hr 37 min
+752 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,8 @@
 | [Vaa Tharagaye \- From "Thiruvin Kural"](https://open.spotify.com/track/4xfIuzftQmEm3gjzTHJRH5) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Abhijith Anilkumar](https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE) | [Vaa Tharagaye \(From "Thiruvin Kural"\)](https://open.spotify.com/album/5YfK8vtbT2AWk6JM9h6gMx) | 3:58 | 2023-04-17 | 2023-05-18 |
 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 | 2022-11-10 | 2023-04-18 |
 | [Vaa Vaathi \(Dhanush Reprise Version\)](https://open.spotify.com/track/43bgjI3ZddPJsu3JvNmYui) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Vaathi](https://open.spotify.com/album/4cp0WC1sFQfAKOnw0VjfMB) | 3:43 | 2023-02-23 |  |
-| [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/track/7F87INMyRLIPBEpQxoYo6x) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/album/3aJ8NblvlITtCfmQEqPxVE) | 5:24 | 2023-07-07 |  |
+| [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/track/7F87INMyRLIPBEpQxoYo6x) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/album/3aJ8NblvlITtCfmQEqPxVE) | 5:24 | 2023-07-07 | 2023-07-09 |
+| [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/track/2FK51rLMRSqPMTouEG6Dfj) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vaa Veera \(From "Maaveeran"\)](https://open.spotify.com/album/2wFp5On9hgEXS96baqekHB) | 5:24 | 2023-07-07 |  |
 | [Vaada Vaada](https://open.spotify.com/track/0ScAD6bOoCqZyssA5vjKeL) | [Anand Sreeraj](https://open.spotify.com/artist/76pQbKPAh3W3KuXfBmmgNB) | [Sandalargal](https://open.spotify.com/album/4b6AN7YCAHOszzY7p3CnjZ) | 3:28 | 2022-08-05 | 2022-08-15 |
 | [Vaadi En Chellakutty](https://open.spotify.com/track/4kn6th3uhNQtDxOrizmGuc) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Vaadi En Chellakutty](https://open.spotify.com/album/2ojS8OYg4oQwuzCEHSjUux) | 3:16 | 2022-04-08 | 2022-07-05 |
 | [Vaadi Vaadi \- From "Think Originals"](https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Nicholas Samuel](https://open.spotify.com/artist/3frp84DqTsoZ8tgdgzGHqr) | [Vaadi Vaadi \(From "Think Originals"\)](https://open.spotify.com/album/7hEKTiFRftKnqTeOG19Inh) | 3:44 | 2022-06-30 | 2022-08-05 |

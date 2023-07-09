@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "La Calandria Canta",
+      "url": "https://open.spotify.com/track/6CIOQAVklQM6h2N98e9uc8"
+    },
+    {
+      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -976,7 +998,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 145466,
       "name": "Los Gringos",
       "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
@@ -1168,7 +1190,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 155026,
       "name": "Noches Eternas",
       "url": "https://open.spotify.com/track/0hjeEnYSntYGl9yQysqBv4"
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 192266,
       "name": "Solo Cumbia",
       "url": "https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c"

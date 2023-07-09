@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Sena Mc",
-  "num_followers": 31262,
+  "num_followers": 31260,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGM3ODU0MGRlZTU1MGVhYjI4ZGMyYjNhNDlmZTc1ZDg3ZjVhNzk1",
+  "snapshot_id": "MCwyNTg5MWU4MzhjM2JlMzQ1YjQwZGI3OGMyNmMwOGUwNzBkZDE3MmQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Faixa Preta",
         "url": "https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 169130,
       "name": "Faixa Preta",
       "url": "https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -871,26 +871,26 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Clone",
-        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
       "artists": [
         {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 198051,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -939,26 +939,54 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
       "artists": [
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         },
         {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+      "duration_ms": 198051,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "Crime News",
+        "url": "https://open.spotify.com/album/1ck3b97uQKCHDREDE9N9oH"
+      },
+      "artists": [
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "G. Shao",
+          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
+        }
+      ],
+      "duration_ms": 151861,
+      "name": "Crime News",
+      "url": "https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1011,34 +1039,6 @@
       "duration_ms": 133168,
       "name": "RJ CLIMA HOSTIL",
       "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Crime News",
-        "url": "https://open.spotify.com/album/1ck3b97uQKCHDREDE9N9oH"
-      },
-      "artists": [
-        {
-          "name": "GTA",
-          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "G. Shao",
-          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
-        }
-      ],
-      "duration_ms": 151861,
-      "name": "Crime News",
-      "url": "https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz"
     },
     {
       "added_at": "2023-07-07 03:01:00",

@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,068 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,091 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [REASON](https://open.spotify.com/track/2oljPlhOzzWrqkTuAhKwzi) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/6TJ3N82EGtf7Gu8QEFAT8t) | 3:17 |
 | 2 | [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 |
-| 3 | [Intro : Save us](https://open.spotify.com/track/4JouZoJFfeKZWZVoIXi81R) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 1:01 |
+| 3 | [Intro : Save us](https://open.spotify.com/track/4R74PW6iQdK0FJyh9v4JxG) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 1:01 |
 | 4 | [Locked Inside A Door](https://open.spotify.com/track/6qz5Cc8zFGCMfqKQXs1taj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:07 |
 | 5 | [Starlight](https://open.spotify.com/track/5D9ooWK4X7TryJoqS6IuS3) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:19 |
-| 6 | [Together](https://open.spotify.com/track/7HxqiFzgIYp8KTJzruAbx1) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:44 |
-| 7 | [Always](https://open.spotify.com/track/2YSQws3nvySFRxgcNnFOH9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 4:29 |
+| 6 | [Together](https://open.spotify.com/track/7wwAYGB68gNgV0lWwU0a4K) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:44 |
+| 7 | [Always](https://open.spotify.com/track/7cREXZL7i0GUBhRyU180Uj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 4:29 |
 | 8 | [Skit : The seven doors](https://open.spotify.com/track/5lIuWlYMhWz4th3mpaSs4u) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 1:45 |
-| 9 | [Cherry \(Real Miracle\) \(JI U SOLO\)](https://open.spotify.com/track/1v02zn8gixnedplruZcfMa) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:15 |
+| 9 | [Cherry \(Real Miracle\) \(JI U SOLO\)](https://open.spotify.com/track/2TZYvSsXSvigKQShBS2OPE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:15 |
 | 10 | [No Dot \(SU A SOLO\)](https://open.spotify.com/track/540pnZupZ7eNA6oISWTMMR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:19 |
-| 11 | [Entrancing \(SIYEON SOLO\)](https://open.spotify.com/track/3TIdiPoROIiKpq47Ff0Wgt) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:32 |
+| 11 | [Entrancing \(SIYEON SOLO\)](https://open.spotify.com/track/6vNrICaSay0nVstOvj9Qjj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:32 |
 | 12 | [Winter \(HANDONG SOLO\)](https://open.spotify.com/track/02DnLnBvJFH4eCRiNngcQl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:51 |
 | 13 | [For \(YOOHYEON SOLO\)](https://open.spotify.com/track/0as8BC7WqUS5VDYGlJQ0GZ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:44 |
-| 14 | [Beauty Full \(DAMI SOLO\)](https://open.spotify.com/track/0eZw9DYzmkGrBcKvxDmT96) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:03 |
+| 14 | [Beauty Full \(DAMI SOLO\)](https://open.spotify.com/track/5sbFa8PFjFPLgNVAlBtdkg) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:03 |
 | 15 | [Playground \(GAHYEON SOLO\)](https://open.spotify.com/track/0j6obWeOj8Z8I1Yj211pWK) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:01 |
 | 16 | [Intro](https://open.spotify.com/track/5xEuQilWz4SfzUYkYPN1v2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 1:15 |
-| 17 | [BEcause](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:11 |
+| 17 | [BEcause](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:11 |
 | 18 | [Airplane](https://open.spotify.com/track/6iJiQqbyDzZMeGfZyFYVFI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:00 |
 | 19 | [Whistle](https://open.spotify.com/track/2PZ9HsMIaBo9Prrtg3TnL5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:29 |
 | 20 | [Alldaylong](https://open.spotify.com/track/3ee90jW6zKgzTHaqfseXgs) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:37 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 104 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 |
 | 105 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
 
-Snapshot ID: `MCw4MzJiMzNmOWY2YzE2YzQwOTI4YzU3MmQ4Y2E0NzNkZTM3ZmFkOGQ2`
+Snapshot ID: `MCxiODgxZjkxYWM4NTQxNmZkZDRiZTMwMWE2MDA3ZDQ2ZGVjNzEyYTEz`

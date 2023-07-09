@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q0ODM1Njk1NzYwZGQ5ZTBkMjA0ODlhNWNhZGVhMDkyM2NiZWVm",
+  "snapshot_id": "MCw3ZmVmMTNjNTNlNDAxYThhYmRmYTM5NTlhNGQ5NjAwNjYyOTk3ZTA5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -387,22 +387,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Macabre",
-        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 208841,
-      "name": "Macabre",
-      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -423,34 +419,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+        "name": "Macabre",
+        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "BORZ",
-        "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
-      },
-      "artists": [
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
         {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 136635,
-      "name": "BORZ",
-      "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
+      "duration_ms": 208841,
+      "name": "Macabre",
+      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -471,22 +455,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+        "name": "BORZ",
+        "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
       },
       "artists": [
         {
-          "name": "Mig",
-          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
         }
       ],
-      "duration_ms": 193381,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
+      "duration_ms": 136635,
+      "name": "BORZ",
+      "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -515,6 +495,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "M\u00e9t\u00e9o",
         "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
@@ -527,26 +527,6 @@
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "La Centrale",
-        "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
-      },
-      "artists": [
-        {
-          "name": "SLK",
-          "url": "https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 166385,
-      "name": "\u00c9ternel",
-      "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -571,18 +551,42 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Eyes Contact",
-        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
+        "name": "La Centrale",
+        "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "SLK",
+          "url": "https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 138109,
-      "name": "Eyes Contact",
-      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
+      "duration_ms": 166385,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Derni\u00e8re danse",
+        "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -607,22 +611,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Derni\u00e8re danse",
-        "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
+        "name": "Eyes Contact",
+        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
       },
       "artists": [
         {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Derni\u00e8re danse",
-      "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
+      "duration_ms": 138109,
+      "name": "Eyes Contact",
+      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Et si ?",
-        "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
       },
       "artists": [
         {
-          "name": "Krisy",
-          "url": "https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Et si ?",
-      "url": "https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx"
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -743,6 +743,22 @@
       "duration_ms": 143055,
       "name": "Le stade",
       "url": "https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Et si ?",
+        "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
+      },
+      "artists": [
+        {
+          "name": "Krisy",
+          "url": "https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Et si ?",
+      "url": "https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -799,6 +815,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Kass\u00efm",
         "url": "https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl"
       },
@@ -811,6 +843,22 @@
       "duration_ms": 93129,
       "name": "Kass\u00efm",
       "url": "https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 176325,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -835,66 +883,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Langue de P***",
-        "url": "https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
       },
       "artists": [
         {
-          "name": "Zaoui",
-          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Langue de P***",
-      "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Comme un saule",
-        "url": "https://open.spotify.com/album/75l2H4yE3KjVWhyigNUdgo"
-      },
-      "artists": [
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "QuietMike",
+          "url": "https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu"
         }
       ],
-      "duration_ms": 186713,
-      "name": "Comme un saule",
-      "url": "https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "J'aime pas sortir",
-        "url": "https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C"
-      },
-      "artists": [
-        {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "J'aime pas sortir",
-      "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Coeur Automatique",
-        "url": "https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb"
-      },
-      "artists": [
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 146273,
-      "name": "Coeur Automatique",
-      "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
+      "duration_ms": 144970,
+      "name": "On & Off - Spotify Singles",
+      "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

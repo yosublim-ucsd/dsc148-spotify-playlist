@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9274,
+  "num_followers": 9285,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjdjZjAxNzMxZDdkMzFkNzdmZjJkYzY1MGUwZDNkMDVhODExOWMy",
+  "snapshot_id": "MCw0NmQ3YzA5MzEyMzVjZjlmZGNiMWU3NDUwYzcwZjgwYTg0NGY3YThl",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:03",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -323,6 +339,22 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "To the other side of greed",
+      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -347,38 +379,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "To the other side of greed",
-      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 233284,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -423,22 +439,6 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
-        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
-      },
-      "artists": [
-        {
-          "name": "IMSEMO",
-          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
-        }
-      ],
-      "duration_ms": 186441,
-      "name": "\uc9c0\ucce4\uc5b4 Burned out",
-      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
         "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
       },
@@ -559,26 +527,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        },
-        {
-          "name": "Yoon Jiyoung",
-          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -595,6 +543,58 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        },
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Mm Mm",
-        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Mm Mm - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "RE: CORD",
         "url": "https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
+        "name": "Mm Mm",
+        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
       "artists": [
         {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+      "duration_ms": 174946,
+      "name": "Mm Mm - Acoustic Version",
+      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "We loved each other so much",
+        "url": "https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2"
+      },
+      "artists": [
+        {
+          "name": "Savina & Drones",
+          "url": "https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7"
+        }
+      ],
+      "duration_ms": 227419,
+      "name": "We loved each other so much",
+      "url": "https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Willow Tree",
-        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "Hoyeon Kim",
+          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
         }
       ],
-      "duration_ms": 279610,
-      "name": "Willow Tree",
-      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

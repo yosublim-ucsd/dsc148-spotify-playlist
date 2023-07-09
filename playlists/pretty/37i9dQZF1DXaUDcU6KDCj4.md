@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Julie Byrne
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,252 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,358 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 81 | [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 |
 | 82 | [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 |
 | 83 | [Defender](https://open.spotify.com/track/4qVsCZhRS0glJbl3kvmGn4) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Defender](https://open.spotify.com/album/63DtjiEiEhC3ZeQqIOeO7O) | 3:56 |
-| 84 | [Dreamland](https://open.spotify.com/track/3GBREcHeLva5sO9ScabHuI) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Dreamland](https://open.spotify.com/album/62KTbvJmbsf7qEcgBeNtfL) | 3:09 |
+| 84 | [Dreamland](https://open.spotify.com/track/4QtVCOCB0Cd447YQ4BsIN8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Dreamland](https://open.spotify.com/album/1SGeUvi3TATE5rNSFBxuVT) | 3:09 |
 | 85 | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Elias Araya](https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Tobias Winterkorn](https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K) | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut) | 5:38 |
 | 86 | [Over And Over](https://open.spotify.com/track/6o3bz3cyg33UV3NMi29oXZ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Over And Over](https://open.spotify.com/album/7zxriEu5QXFdqnO5j3E7TB) | 2:32 |
 | 87 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \[feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\]](https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx) | 3:42 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 |
 | 150 | [Beautiful View](https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Beautiful View](https://open.spotify.com/album/3dVN0luiXkpytUScfzB1q8) | 3:27 |
 
-Snapshot ID: `MCxmYmUwYzllZWQ5Njk5MTMzNjUyZDA3ZTUyYWY4MjZjOGYwNjlkODQ3`
+Snapshot ID: `MCxiYTFjNTU3N2NjNDFkZmRlNjU2MTI2NmQ2M2U5Y2VkYTkxZDlhYjUw`

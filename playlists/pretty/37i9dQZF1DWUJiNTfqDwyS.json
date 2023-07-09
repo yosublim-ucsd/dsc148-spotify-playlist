@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 281248,
+  "num_followers": 281630,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ0ZmRhYjg5MTY0MTZmNGQ5ZWRmNTllYTQ1MGE4ZWM2OTE1NDI2",
+  "snapshot_id": "MCw3MmNhMWNmMjVjYTU5OTE2NGYzYWFjYzM3OWVhM2ViZjM2YjIzMWY3",
   "tracks": [
     {
       "added_at": "2023-06-22 11:25:49",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 366400,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
       },
       "artists": [
         {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
         }
       ],
-      "duration_ms": 210639,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
+      "duration_ms": 246857,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
       },
       "artists": [
         {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
         }
       ],
-      "duration_ms": 246857,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
+      "duration_ms": 210639,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
       "added_at": "2023-06-22 11:25:49",

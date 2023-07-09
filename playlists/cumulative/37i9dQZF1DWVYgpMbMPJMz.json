@@ -899,6 +899,32 @@
     },
     {
       "album": {
+        "name": "You're Not Wrong",
+        "url": "https://open.spotify.com/album/7jJq3XrNqhOlvaiXch2hbz"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257337,
+      "name": "Breaking Me Down",
+      "url": "https://open.spotify.com/track/5S7cWUO458cqVn2PS4lHh9"
+    },
+    {
+      "album": {
         "name": "Take Over",
         "url": "https://open.spotify.com/album/2rHDifXL5BVB6mQSE48M0b"
       },
@@ -918,7 +944,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 257337,
       "name": "Breaking Me Down",
       "url": "https://open.spotify.com/track/6A2sbpVQxa31IGAyglsLGy"

@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-368 songs - 20 hr 51 min
+369 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Like I'm on Fire \- Kartell Remix](https://open.spotify.com/track/3ipwa1I4I5IZ1RKrxsxBhl) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [Like I'm on Fire](https://open.spotify.com/album/1fjHFYjweQpUSrMO2oay53) | 5:08 | 2021-07-17 | 2021-07-24 |
 | [Like Mmh](https://open.spotify.com/track/11ra4Y7CUE7lAJZOXkmGSA) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Like Mmh](https://open.spotify.com/album/2LtGXVyKS8ad2EaJoN7MCV) | 2:42 | 2021-03-14 |  |
 | [Loneliness](https://open.spotify.com/track/3pQHlRvlWeFxClCKo0cTw0) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa) | [Loneliness](https://open.spotify.com/album/0T0U2nxtvqZlH142fMTRCs) | 2:44 | 2021-01-18 | 2021-03-06 |
+| [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-07-07 |  |
 | [Look into My Eyes](https://open.spotify.com/track/30OO2ybk8qPzgy5H8P4NeU) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look into My Eyes](https://open.spotify.com/album/5kfjwMJQlgtWpXJ6XWJp2m) | 2:34 | 2021-07-24 | 2021-11-11 |
 | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7HQsaFGNwdn1DagZm6lfqV) | 2:46 | 2021-06-05 | 2021-07-17 |
 | [Losing Focus](https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [David Pietras](https://open.spotify.com/artist/4gzWHCBn6PjkGbWUp0kmEc) | [Losing Focus](https://open.spotify.com/album/7sXrMnaxr95R2q5ihxC4zu) | 2:30 | 2021-03-06 | 2021-04-24 |

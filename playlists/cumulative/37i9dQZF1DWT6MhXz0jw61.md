@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-564 songs - 1 day 6 hr 35 min
+565 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 | 2023-04-28 |  |
 | [Cali Love](https://open.spotify.com/track/0RXOaIBQn6Fd164xQXtA14) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Cali Love](https://open.spotify.com/album/4GeaXClSylgd7gnKwAtPc8) | 3:12 | 2021-05-21 | 2022-02-19 |
 | [Callin' \(feat\. Big K.R.I.T\. & WESTSIDE BOOGIE\)](https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Callin' All My Children](https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt) | 3:17 | 2022-05-20 | 2022-10-15 |
-| [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 |  |
+| [Carefree](https://open.spotify.com/track/3ijPbHf7GVkMIT9tlDbWsZ) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree](https://open.spotify.com/album/6ZkKQAXRv2KRTLiWfciQrk) | 4:01 | 2023-07-07 |  |
+| [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2023-07-09 |
 | [Caught In Thoughts](https://open.spotify.com/track/17Wx7gWgLsNURCittOUKCP) | [Jack Grange](https://open.spotify.com/artist/07Wp8uglJzJjX9qkwiFdUy) | [Caught In Thoughts](https://open.spotify.com/album/6NoXkv2WarFtwOsDpDpkMo) | 2:55 | 2022-05-20 | 2022-11-12 |
 | [Champagne Glasses \(feat\. Freddie Gibbs & Stevie Wonder\)](https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 4:17 | 2022-01-14 | 2022-09-03 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-10 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-426 songs - 1 day 5 hr 13 min
+427 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cadence \- VIP](https://open.spotify.com/track/3Il52a6rYUkigKzA8Y0GPU) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Cadence \(VIP\)](https://open.spotify.com/album/7mMc76gHOCcs5hKbatiVyo) | 3:51 | 2023-04-25 |  |
 | [CALL MY NAME](https://open.spotify.com/track/1kfN7kA80uCKvZ2kQsXQHt) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [CALL MY NAME](https://open.spotify.com/album/4VYUHJuxMvr4tPQIk6ZJMv) | 2:40 | 2023-05-05 |  |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-02-18 | 2023-04-25 |
+| [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-06-30 |  |
 | [Change](https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza) | [Linguistics](https://open.spotify.com/artist/5ez11adLi95kAPuxh0RefJ), [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ), [Blind Mic](https://open.spotify.com/artist/7yCdWDEm9XhixEPUKPnB75) | [Change](https://open.spotify.com/album/0BLrz7WuXQF3U3FvXkdwXE) | 3:46 | 2021-11-12 | 2022-07-19 |
 | [Changing Form](https://open.spotify.com/track/6WHA7XfZ15jNUJdb2jbPJA) | [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [Emily Makis](https://open.spotify.com/artist/7E6KnFfdetpVlPFgtXte1o) | [Changing Form](https://open.spotify.com/album/73bQp2hbzuAnss8zagYc4O) | 5:23 | 2021-11-12 | 2022-07-29 |
 | [Chicane \- Kumarion Remix](https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Chicane Remixes](https://open.spotify.com/album/3Ka3FCtudWgJhRLnxTq3xw) | 3:04 | 2021-11-12 | 2022-07-29 |
@@ -325,7 +326,7 @@
 | [Red Sun](https://open.spotify.com/track/36tSyKYCVlhSvEhZl1fB8h) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [Steppa](https://open.spotify.com/artist/2tNkGhVcQFvG9hP43HTTsL) | [Red Sun](https://open.spotify.com/album/33pSMeQLeEFRx53bkw0JbN) | 6:42 | 2021-11-12 | 2022-07-28 |
 | [Redwood Falls](https://open.spotify.com/track/5rJ1G4Xh9z48qqhx7sB2D3) | [Opsen](https://open.spotify.com/artist/6Oixt6cJnmyRzkSpe1usgP) | [Redwood Falls](https://open.spotify.com/album/64v4DV5UkXAPPmRoed1kcO) | 4:39 | 2021-11-12 | 2022-06-16 |
 | [Reflections](https://open.spotify.com/track/4HRVvrMFXvtSnw3J3knPV1) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/4lMXaQ2EwU0JcpW3RJEEUf) | 4:27 | 2021-11-12 | 2022-07-29 |
-| [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 | 2022-07-15 |  |
+| [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 | 2022-07-15 | 2023-07-09 |
 | [RELOAD](https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [RELOAD](https://open.spotify.com/album/1ufueDEIU7GYmBgjRYXHqp) | 3:01 | 2021-11-12 | 2022-07-24 |
 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/1Ojk0XlwKxvqByaHq6Uviz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/album/54Ulib16eKnja2K1oXKD5p) | 3:20 | 2021-11-12 | 2023-05-21 |
 | [Remember](https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Remember](https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L) | 3:35 | 2022-08-05 | 2023-01-17 |

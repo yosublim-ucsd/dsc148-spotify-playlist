@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Bispo e Ivandro entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,554 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,628 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Nu Sta](https://open.spotify.com/track/41n9aagcBXCwwzIn9OUyH9) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Sureno Beatzz](https://open.spotify.com/artist/0QATVY5ZWpWIkDANDDXcnq) | [Nu Sta](https://open.spotify.com/album/2Z43E5ys44xB53CmF605zA) | 4:49 |
 | 70 | [Chelas](https://open.spotify.com/track/5x9bucCUnlTZnjpWwCRlSx) | [MC Borga](https://open.spotify.com/artist/2ABm6CuGNzngIIeMncerir), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Chelas](https://open.spotify.com/album/5U0QwA3CYxQjW9kKIvKRYk) | 4:28 |
 | 71 | [Paper](https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Paper](https://open.spotify.com/album/1idwx450GZN7DYPcB5KcQA) | 3:12 |
-| 72 | [Chega](https://open.spotify.com/track/4xNWsL3jDUd5N40xqIyyYt) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/6Yo7DbaCKI7YIJMGKK6dyp) | 2:28 |
+| 72 | [Chega](https://open.spotify.com/track/0Gul9wh1EQB8K7P9PjcIpi) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:28 |
 | 73 | [Suprior](https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Suprior](https://open.spotify.com/album/2NVz7NmPPqJuuG7D4W7VNW) | 2:39 |
 | 74 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 |
 | 75 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
 
-Snapshot ID: `MCwzMjk2OGZjOGZhY2MxZTEyMzNmZGM0NGU2ZGE0MWZhZWMyMGJkNTY5`
+Snapshot ID: `MCw1NGUxMThiMDg4ZjNiMzU4NzM0YjE5Y2I1YmZhZDAwZTZhYTkxMGYz`

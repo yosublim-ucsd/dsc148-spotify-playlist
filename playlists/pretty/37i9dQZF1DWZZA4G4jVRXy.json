@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 122672,
+  "num_followers": 122749,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm",
+  "snapshot_id": "MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Blow Up presents Exclusive Blend Volume 2",
@@ -299,6 +283,22 @@
       "duration_ms": 242226,
       "name": "Underlay No.3",
       "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -351,22 +351,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -451,8 +435,8 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -531,6 +515,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Young Hawaii Plays Old Hawaii",
@@ -607,6 +591,22 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
         "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162721,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
-      },
-      "artists": [
-        {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
+      },
+      "artists": [
+        {
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Chill Out Hawaiian Music",
-        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
-      },
-      "artists": [
-        {
-          "name": "The Surfmen",
-          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
-        }
-      ],
-      "duration_ms": 103903,
-      "name": "Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
         "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 161595,
       "name": "Too Young Cha Cha",
       "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Chill Out Hawaiian Music",
+        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
+      },
+      "artists": [
+        {
+          "name": "The Surfmen",
+          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
+        }
+      ],
+      "duration_ms": 103903,
+      "name": "Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
     },
     {
       "added_at": "2022-01-11 02:53:42",

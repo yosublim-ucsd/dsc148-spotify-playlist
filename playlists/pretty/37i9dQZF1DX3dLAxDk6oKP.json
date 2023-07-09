@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 324950,
+  "num_followers": 325156,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTI0MDgxMDgzMGVjYzdiYWM5NTUwMDY5NDk0N2VhYmFmMDljYzYx",
+  "snapshot_id": "MCw5NzlkZjAzZjE4NzM4NjU3MGJmOTJlYTZkODY0NDM2MTM4YWVmMjhi",
   "tracks": [
     {
       "added_at": "2023-05-24 06:51:10",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "El G\u00fcero (Feat. Marca MP)",
-        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "El G\u00fcero (Feat. Marca MP)",
-      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 203068,
       "name": "DEL Negociante",
       "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "El Monstro 7",
-      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "El Carrito",
         "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 178812,
       "name": "El Carrito",
       "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "El Monstro 7",
+      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Lo Que Les Falta",
-        "url": "https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP"
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 134507,
-      "name": "Lo Que Les Falta",
-      "url": "https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM"
+      "duration_ms": 122111,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 122111,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "En El Refuego",
         "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 214426,
       "name": "LoLo Felix",
       "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Lo Que Les Falta",
+        "url": "https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 134507,
+      "name": "Lo Que Les Falta",
+      "url": "https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Vida Peligrosa",
-      "url": "https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Chevrolet 4 X 4",
         "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 187520,
       "name": "Chevrolet Cuatro por Cuatro",
       "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Vida Peligrosa",
+      "url": "https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 201563,
-      "name": "El Muchacho De Las Cajas",
-      "url": "https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 220160,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 201563,
+      "name": "El Muchacho De Las Cajas",
+      "url": "https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
+        "name": "Pueblo Querido",
+        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Pueblo Querido",
+      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
         "name": "El Pelo Chino",
         "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
-        "name": "Pueblo Querido",
-        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Pueblo Querido",
-      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
+        "name": "Entre La Lumbre",
+        "url": "https://open.spotify.com/album/7a14EIE5mItaLkChrNPXvE"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 200667,
+      "name": "Entre La Lumbre",
+      "url": "https://open.spotify.com/track/1aB7psehfqMi20HZB2Q0rK"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
         "name": "Bien Motivados",
         "url": "https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 172338,
       "name": "Bien Motivados",
       "url": "https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
-        "name": "Entre La Lumbre",
-        "url": "https://open.spotify.com/album/7a14EIE5mItaLkChrNPXvE"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 200667,
-      "name": "Entre La Lumbre",
-      "url": "https://open.spotify.com/track/1aB7psehfqMi20HZB2Q0rK"
     }
   ],
   "unique_name": "La Mamalona",

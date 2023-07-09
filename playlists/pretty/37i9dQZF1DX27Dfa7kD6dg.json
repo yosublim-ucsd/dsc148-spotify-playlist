@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 21013,
+  "num_followers": 21052,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk",
+  "snapshot_id": "MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 245429,
       "name": "Tu Sin Mi",
       "url": "https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "El Salsero De Ahora",
-        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Matos",
-          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Amor Perfecto",
-      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "La Industria Salsera",
         "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 228500,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "El Salsero De Ahora",
+        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Matos",
+          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
         "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 239420,
       "name": "Pregones De San Crist\u00f3bal",
       "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 215272,
-      "name": "Cu\u00eddate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Unchained Force",
         "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Mi Tumbao Social",
+        "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
+      },
+      "artists": [
+        {
+          "name": "La Excelencia",
+          "url": "https://open.spotify.com/artist/3eEA1TOVapqDPg1EEu1TsI"
+        }
+      ],
+      "duration_ms": 250009,
+      "name": "Deja de Criticar",
+      "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "Cu\u00eddate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1331,38 +1347,6 @@
       "duration_ms": 279333,
       "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
       "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 243781,
-      "name": "Rumba Rumbero",
-      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Mi Tumbao Social",
-        "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
-      },
-      "artists": [
-        {
-          "name": "La Excelencia",
-          "url": "https://open.spotify.com/artist/3eEA1TOVapqDPg1EEu1TsI"
-        }
-      ],
-      "duration_ms": 250009,
-      "name": "Deja de Criticar",
-      "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 243781,
+      "name": "Rumba Rumbero",
+      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Mambo Madness",
         "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 489000,
       "name": "Y Yo Ganga",
       "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
     },
     {
       "added_at": "2023-03-17 00:52:56",

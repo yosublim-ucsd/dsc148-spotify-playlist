@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123239,
+  "num_followers": 123246,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVlYWY4YmQ5MTdiYTJhZDc0MjRlOWNiZjY1MmQ4OGFmYTg4NTZi",
+  "snapshot_id": "MCw3YzA2MmExZDk5Njc2ODg5NDQzYmVmMzY5OGM1MDUyYmE5YzM0M2Jk",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Land III",
@@ -435,6 +419,22 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
-      "added_at": "2022-12-21 17:17:38",
-      "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
-    },
-    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Amuleto",
@@ -553,20 +537,20 @@
       "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
+      "added_at": "2022-12-21 17:17:38",
       "album": {
-        "name": "Mas Amable",
-        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
       },
       "artists": [
         {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Descanse",
-      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -587,6 +571,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mas Amable",
+        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+      },
+      "artists": [
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Descanse",
+      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mexico Trance",
         "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 415000,
       "name": "Mexico Trance",
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
+      },
+      "artists": [
+        {
+          "name": "Rodion",
+          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 311693,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -623,26 +643,6 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
-      },
-      "artists": [
-        {
-          "name": "Rodion",
-          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
-        }
-      ],
-      "duration_ms": 311693,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Opus 2",
-        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6jo",
-          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Selva, Op. 2: No. 3",
-      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nz\u00fambi",
         "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 238492,
       "name": "Platano Macho",
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Opus 2",
+        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6jo",
+          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Selva, Op. 2: No. 3",
+      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Pieles",
         "url": "https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 500869,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+      },
+      "artists": [
+        {
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+        }
+      ],
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -873,38 +873,6 @@
       "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
-      "added_at": "2022-12-21 16:52:17",
-      "album": {
-        "name": "Ensayo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
-      },
-      "artists": [
-        {
-          "name": "Panoptica",
-          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
-      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR"
-      },
-      "artists": [
-        {
-          "name": "No Boy",
-          "url": "https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sacramento",
-      "url": "https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO"
-    },
-    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Shika Shika / Botanas",
@@ -919,6 +887,38 @@
       "duration_ms": 206815,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
+    },
+    {
+      "added_at": "2022-12-21 16:52:17",
+      "album": {
+        "name": "Ensayo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
+      },
+      "artists": [
+        {
+          "name": "Panoptica",
+          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
+      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-519 songs - 1 day 7 hr 15 min
+520 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2022-12-28 |  |
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2023-02-10 |  |
 | [God Knows](https://open.spotify.com/track/0lrucYudLJu3JSdEiTlH7W) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [God Knows](https://open.spotify.com/album/2aGGPFNEdfhACrXIi5LScM) | 3:42 | 2022-03-30 | 2022-04-18 |
-| [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 | 2023-02-10 |  |
+| [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 | 2023-02-10 | 2023-07-09 |
 | [Gold Past Life](https://open.spotify.com/track/1zkBRlk5YyMmQPNJOXaiyU) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:29 | 2022-02-23 | 2022-07-29 |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-30 | 2023-03-25 |
 | [Goodbye My Love](https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:14 | 2022-11-11 |  |
@@ -306,6 +306,7 @@
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-03-30 | 2023-01-22 |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-24 | 2022-07-29 |
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 |  |
+| [My Stove's on Fire](https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO) | 2:48 | 2023-06-26 |  |
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2023-04-30 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |

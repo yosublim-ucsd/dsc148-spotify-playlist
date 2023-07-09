@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 203905,
+  "num_followers": 203990,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUwYzVkOTZjYWUyZmVkMGEzODE5YTliZjNlZGQyOWYxNDQxZWU5",
+  "snapshot_id": "MCwxOGZjNGNkYTRhMDFkOGRjYWQ2NTI3ZGNjZGZjMGNkNmNiMzJjZmE3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -175,22 +175,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 333306,
       "name": "Save a Prayer - 2009 Remaster",
       "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -319,22 +319,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "An Ending (Ascent) - Remastered 2005",
-      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 274560,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "An Ending (Ascent) - Remastered 2005",
+      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -819,6 +819,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "October (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 295093,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
     },
     {
       "added_at": "2018-12-12 11:36:39",

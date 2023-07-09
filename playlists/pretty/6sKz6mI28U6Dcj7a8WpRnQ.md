@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6sKz6mI28U6Dcj7a8WpRnQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6sKz6mI28U6Dcj7a8WpRnQ.md) - [plain]
 | 15 | [Looking For A New Love \- Radio Edit](https://open.spotify.com/track/7BeV8s7R68eqPelMmvp5tu) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [20th Century Masters: The Millennium Collection: Best Of Jody Watley](https://open.spotify.com/album/2Fa9jKPOzCGh5Yw74wuSKE) | 4:02 |
 | 16 | [Head To Toe](https://open.spotify.com/track/7vGekIpStYxbauCP2HcXPq) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | ['80s & '90s Love \- Power Ballads, Slow Jams & Love Songs](https://open.spotify.com/album/4KHTMXXAAPPpDwVzRmsiis) | 5:02 |
 | 17 | [I Think We're Alone Now](https://open.spotify.com/track/0n1NI4TnEw0SeXSS4DNhhb) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [I Love The '80s](https://open.spotify.com/album/3kUhdoIngon3As1jITSJHE) | 3:46 |
-| 18 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [The Very Best Of Billy Idol: Idolize Yourself](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
+| 18 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
 | 19 | [At This Moment](https://open.spotify.com/track/6LDRTOMCSx81hKXAk1LuHd) | [Billy Vera & The Beaters](https://open.spotify.com/artist/1QQBo7mfkehMjDfz1tj5Pq) | [The Best of Billy Vera and the Beaters](https://open.spotify.com/album/3f9rbliKGTav57Ivvb9Wzu) | 3:54 |
 | 20 | [The Lady In Red](https://open.spotify.com/track/3lXQkvrg2G22lDsrZyR8pK) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Best Of Chris de Burgh 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6ZMHlL0Q7TtVLpi95KaeZ7) | 4:17 |
 | 21 | [Didn't We Almost Have It All](https://open.spotify.com/track/2WxRXUbJJFkJJkFyn8LfVj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 4:34 |

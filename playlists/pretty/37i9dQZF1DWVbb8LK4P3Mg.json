@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 97773,
+  "num_followers": 97762,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4",
+  "snapshot_id": "MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "Merry & Happy",
+        "url": "https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Merry & Happy",
+      "url": "https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Merry & Happy",
-        "url": "https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Merry & Happy",
-      "url": "https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "YAOKI Project part.1",
-        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Happy Christmas",
-      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
+        "name": "YAOKI Project part.1",
+        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
         }
       ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
+      "duration_ms": 243000,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Everyday Christmas",
-        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Everyday Christmas",
-      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1359,6 +1343,22 @@
       "duration_ms": 187653,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Everyday Christmas",
+        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Everyday Christmas",
+      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "One Day in December",
-        "url": "https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N"
-      },
-      "artists": [
-        {
-          "name": "ON",
-          "url": "https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "One Day in December",
-      "url": "https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 269012,
       "name": "Save Our Christmas",
       "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "One Day in December",
+        "url": "https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N"
+      },
+      "artists": [
+        {
+          "name": "ON",
+          "url": "https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "One Day in December",
+      "url": "https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "It's Christmas time",
-        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 230161,
-      "name": "It's Christmas time",
-      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Together Forever!",
         "url": "https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 260276,
       "name": "Together Forever!",
       "url": "https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "It's Christmas time",
+        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 230161,
+      "name": "It's Christmas time",
+      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Christmas in July",
-        "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
-      },
-      "artists": [
-        {
-          "name": "KANGTA",
-          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Christmas in July",
-      "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Twenties = Love",
         "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 213200,
       "name": "Snow Sun",
       "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Christmas in July",
+        "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
+      },
+      "artists": [
+        {
+          "name": "KANGTA",
+          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Christmas in July",
+      "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
     },
     {
       "added_at": "2023-01-10 15:24:13",

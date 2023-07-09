@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
+    },
+    {
+      "album": {
         "name": "Dream Time",
         "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
       },
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 513840,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD"

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Jambene",
-  "num_followers": 254842,
+  "num_followers": 254871,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWNlYjExZjc0MjZkNjE2ODJmZTVkZDM3ZGNkZDA3YTkxMGRlODVm",
+  "snapshot_id": "MCxhMDEzZTM2Zjk1ZjcwZmU3NDFlYzQ5NDA5YThiMjdhNmNjYjNhNTg4",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Ay, Ay, Ay",
         "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 208347,
       "name": "Ay, Ay, Ay",
       "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Fronteo",
+        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
+      },
+      "artists": [
+        {
+          "name": "Pinto Picasso",
+          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
+        },
+        {
+          "name": "sP Polanco",
+          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Fronteo",
+      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -843,26 +863,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fronteo",
-        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
-      },
-      "artists": [
-        {
-          "name": "Pinto Picasso",
-          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
-        },
-        {
-          "name": "sP Polanco",
-          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Fronteo",
-      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "AWCH",
         "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 189756,
       "name": "AWCH",
       "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 263631,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,22 +935,6 @@
       "duration_ms": 165447,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     }
   ],
   "unique_name": "el nuevo tropical",

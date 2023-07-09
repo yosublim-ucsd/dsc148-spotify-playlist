@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Brooke McClymont & Adam Eckersley
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,342 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,498 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 69 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 70 | [Wildfires \(feat\. Ian Moss\)](https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM), [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Acres](https://open.spotify.com/album/7i5lVXY0ro1Y94G6AqlS2e) | 2:59 |
 | 71 | [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 |
-| 72 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
+| 72 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 |
 | 73 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 |
 | 74 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
 | 75 | [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 |
 | 80 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 |
 
-Snapshot ID: `MCxlYTllNjA0ZDZmN2JkYzA3ZTJjM2NiNTAwMWM0ZGRjMWU4NzVjNGZl`
+Snapshot ID: `MCxkY2UzNWQyMjQyMTFlMGVhZDcwODE3YzMxN2RkNjFmYWY4NTczZWI0`

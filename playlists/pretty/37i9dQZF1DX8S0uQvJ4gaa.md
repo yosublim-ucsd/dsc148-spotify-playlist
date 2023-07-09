@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Dylan Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,581 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,229 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [I Hate Texas](https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [I Hate Texas](https://open.spotify.com/album/5TYiF7DYOOQg63RNG4wUIT) | 3:44 |
 | 100 | [Penniless & Broke](https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Penniless & Broke](https://open.spotify.com/album/16lLoTcCLcQTGQ2jc6RSZx) | 3:39 |
 
-Snapshot ID: `MCxkMjNlMjE1NGE2OGYzOTA3NjI3NzI4YTM1MTAyNjUyMTkxYTI0ODg5`
+Snapshot ID: `MCxiZTNmYzY4YzA4MGY4OWExY2IzZjIwNTQ5ZWM5NTkyZTlhNmExNDdh`

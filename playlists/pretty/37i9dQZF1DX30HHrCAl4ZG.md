@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by Blur.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,857 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,870 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 103 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 |
 | 104 | [The Big Mess](https://open.spotify.com/track/52nyINWV0TBad1Qk2KbiFH) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [The Big Mess](https://open.spotify.com/album/5cZNONhqXmmXUEOiglJAfj) | 2:30 |
 
-Snapshot ID: `MCw0OWY0NDI2ODRjMmMyM2FlMjQyNWZkNTI3MGU1ZTczZGRiNDJhZGE5`
+Snapshot ID: `MCwyMmVlOGI4ZjlkMWZiZmFkZDEyOTZlOGIxMmM3MTFhNzQ3NWVlMDAy`

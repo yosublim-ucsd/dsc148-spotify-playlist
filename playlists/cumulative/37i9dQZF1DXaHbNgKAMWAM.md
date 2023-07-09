@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-235 songs - 14 hr 9 min
+236 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 | 2023-07-07 |  |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-01 |  |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-20 | 2022-07-29 |
+| [Lover](https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lover](https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT) | 2:49 | 2023-07-07 |  |
 | [LOVERS](https://open.spotify.com/track/4jENXV8X49X7yZzwCpDJIU) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Jewelry case](https://open.spotify.com/album/1ALi3pC1MocycJ9h4rzCBM) | 3:47 | 2022-05-11 | 2022-07-21 |
 | [Loving U](https://open.spotify.com/track/5eYEY02R2PslTPTDSQm0h2) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2qRldVbg6EoCNBfafQMOpJ) | 2:50 | 2022-05-11 | 2022-07-28 |
 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-18 | 2022-07-30 |
@@ -174,7 +175,7 @@
 | [Stay](https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d) | 2:41 | 2022-05-11 | 2022-07-25 |
 | [Stay with Me](https://open.spotify.com/track/60VIk0jMDirLYcetygYrmE) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Woo Rim Jeun](https://open.spotify.com/artist/1rJEZ3DgRS9PYsgciJPHKr) | [Stay with Me](https://open.spotify.com/album/2oo1T8nsS5wCD3tE3Ieq1L) | 2:26 | 2022-05-11 | 2022-06-01 |
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-19 | 2022-11-20 |
-| [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2023-06-13 |  |
+| [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2023-06-13 | 2023-07-09 |
 | [Sunset](https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 | 2022-05-11 | 2022-07-28 |
 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 | 2022-07-08 |  |
 | [Sunshine](https://open.spotify.com/track/6yj6fROwGlGNCMSevl3ajR) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [MY LIFE愛](https://open.spotify.com/album/0eM5LYEG3XuGFs4IKfWxCU) | 3:21 | 2022-05-11 | 2022-05-31 |

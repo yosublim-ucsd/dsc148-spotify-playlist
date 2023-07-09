@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 十明
 
-1,502 songs - 4 day 1 hr 35 min
+1,503 songs - 4 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Into the land of Mystery](https://open.spotify.com/track/0Hdp8qkgSCBTldSvIEgFLb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:01 | 2022-08-18 | 2022-08-24 |
 | [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 | 2022-10-27 | 2022-11-09 |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 | 2022-08-18 |
+| [It Might Be Painful, But I Still Love It.](https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:23 | 2023-07-06 |  |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-17 | 2023-06-24 |
 | [It might be right](https://open.spotify.com/track/63VjD0uUhIEAiYRvJwKoAT) | [Looisbos](https://open.spotify.com/artist/4vjWfRqGyeAvJ9LZQPRECH) | [It might be right](https://open.spotify.com/album/5pv3ynvQu5MSo80a2k8Cgl) | 3:05 | 2022-08-23 | 2022-08-31 |
 | [It's a Shame](https://open.spotify.com/track/3cJdbYNhTP0M1S39TE3HSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [I Want You / It's a Shame](https://open.spotify.com/album/2GXHmukXmPrIbESzJv4ZXm) | 4:26 | 2022-06-02 | 2022-06-05 |
@@ -1476,7 +1477,7 @@
 | [都会の森](https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [MEBAE](https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi) | 4:37 | 2022-06-07 | 2022-07-28 |
 | [都会ガール \- DE DE MOUSE 都会1988 Mix](https://open.spotify.com/track/6qE0R51Y2ipO1x1bNPuv4O) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [都会ガール \(DE DE MOUSE 都会1988 Mix\)](https://open.spotify.com/album/5RFfoobiLbmSDJ0uHry30a) | 3:12 | 2022-11-15 | 2022-11-23 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-05-29 | 2022-07-29 |
-| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 |  |
+| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 | 2023-07-09 |
 | [針が進む](https://open.spotify.com/track/1zFziWIZfb58Vk11aB6e0L) | [成田あより](https://open.spotify.com/artist/7MX2gMsKCZU1PcsL40wzNQ) | [針が進む](https://open.spotify.com/album/3A1ly5MHBI1i60t5XalAIN) | 3:58 | 2022-11-10 | 2022-11-16 |
 | [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
 | [阿佐ヶ谷音頭](https://open.spotify.com/track/7KwB5s3fkbGVglP4bnrzLs) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [阿佐ヶ谷音頭](https://open.spotify.com/album/7LCH6Fs2vYeSiNvoP9wRCU) | 3:26 | 2023-07-04 |  |

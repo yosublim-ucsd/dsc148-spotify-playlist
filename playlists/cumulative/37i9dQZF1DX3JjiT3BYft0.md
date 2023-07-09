@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-358 songs - 1 day 2 hr 2 min
+360 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [COMIC PANIC!!!](https://open.spotify.com/track/1eZ7UWCfNkqjyxkgDjaKiu) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!](https://open.spotify.com/album/0o3lgau6gxlnTnkauUlMoS) | 4:41 | 2022-10-25 | 2022-11-18 |
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/6bT17LxgJvBKniLcfokwti) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:46 | 2022-05-17 | 2022-07-29 |
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/626g1z5FryZH84PZ4wsWhi) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/28Yc97TtKFFu7UGsPKnZCq) | 4:47 | 2022-09-20 | 2022-10-04 |
+| [Crow Song](https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:04 | 2023-06-29 |  |
 | [Daylight](https://open.spotify.com/track/13YeYqLtmg4R2fNNVb3Jc0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 5:50 | 2022-06-23 | 2022-10-02 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/3Be9EL2AESBwcB6ZUYKwys) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/2Djt9daRmOJ1MTliK7X0Gn) | 5:50 | 2022-09-20 | 2023-03-16 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 5:50 | 2023-03-14 |  |
@@ -79,7 +80,7 @@
 | [fly with the night](https://open.spotify.com/track/1wQ3iyPGJ1TeCsHUby6ta2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv) | 4:00 | 2022-05-17 | 2022-07-29 |
 | [fly with the night](https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU) | 4:00 | 2022-06-23 | 2022-10-02 |
 | [fly with the night](https://open.spotify.com/track/12PJ1yyFK9ksMl1vlFF1du) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/6AB9VDT1C7eTy8HGp82AEI) | 4:00 | 2022-09-20 | 2023-03-18 |
-| [fly with the night](https://open.spotify.com/track/4gu8heblIOktVnXvVyg5zu) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:00 | 2023-05-30 |  |
+| [fly with the night](https://open.spotify.com/track/4gu8heblIOktVnXvVyg5zu) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:00 | 2023-05-30 | 2023-07-09 |
 | [glee glee glee!](https://open.spotify.com/track/4JGA3qbiGKjOpV2THH1vSD) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:31 | 2022-06-23 | 2022-10-02 |
 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 | 2022-05-17 | 2022-07-21 |
 | [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 | 2022-09-20 |  |
@@ -330,6 +331,7 @@
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/42hnGkRABK2E8HsgUPAMQk) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [天下卜ーイツA to Z☆](https://open.spotify.com/album/3EPw6jwPxa1xZuRABvNQTg) | 3:39 | 2022-05-17 | 2022-07-28 |
 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 | 2023-03-16 |
+| [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 | 2023-06-29 |  |
 | [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 | 2023-06-30 |
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
@@ -340,7 +342,7 @@
 | [灼熱 Bonfire!](https://open.spotify.com/track/0wKrUjs8c0CXu7fl4ScXUR) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/1aUP0huYCBSU0OPAkThfud) | 3:44 | 2022-05-17 | 2022-07-28 |
 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 | 2022-09-20 |  |
 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 | 2023-05-09 |  |
-| [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 |  |
+| [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2023-07-09 |
 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 | 2023-05-09 |  |
 | [競宴Red×Violet](https://open.spotify.com/track/6HczQuXOK6kviIaMd2joBD) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 4:24 | 2022-05-17 | 2022-07-25 |
 | [約束](https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:04 | 2023-05-30 |  |

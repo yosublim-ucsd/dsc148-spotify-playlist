@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 692112,
+  "num_followers": 692734,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmU1NWM4NmIyNDhiOTQ2OGNkZDA4NGVhMWE4YTUyOWE4NTYzMTBh",
+  "snapshot_id": "MCwxZWU3ZjBjMTAzZjA2MGZhMWIzMDQ0Yzc3ODkxOTQxMGZmMzkwZjQ2",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Wounded Rhymes (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 279635,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 155076,
       "name": "Barbie Girl - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Chasing Highs (Felix Cartal Remix)",
-        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
-      },
-      "artists": [
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "Chasing Highs - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 219200,
       "name": "I Like It - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Chasing Highs (Felix Cartal Remix)",
+        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Chasing Highs - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Promises (with Sam Smith) [Remixes]",
         "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 190416,
       "name": "Promises (with Sam Smith) - David Guetta Remix",
       "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "...Ready For It? (BloodPop\u00ae Remix)",
-        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BloodPop\u00ae",
-          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
-        }
-      ],
-      "duration_ms": 189508,
-      "name": "...Ready For It? - BloodPop\u00ae Remix",
-      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "One Kiss (with Dua Lipa) [Remixes]",
         "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 281266,
       "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "...Ready For It? (BloodPop\u00ae Remix)",
+        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "duration_ms": 189508,
+      "name": "...Ready For It? - BloodPop\u00ae Remix",
+      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1635,26 +1635,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Mama (Remixes)",
-        "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
+        "name": "September Song (Remixes)",
+        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         },
         {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        },
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Mark Ralph",
+          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
         }
       ],
-      "duration_ms": 179887,
-      "name": "Mama - Syn Cole Remix",
-      "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
+      "duration_ms": 215030,
+      "name": "September Song - Indian Summer Mix",
+      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1703,22 +1699,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "September Song (Remixes)",
-        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
+        "name": "Mama (Remixes)",
+        "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Mark Ralph",
-          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 215030,
-      "name": "September Song - Indian Summer Mix",
-      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
+      "duration_ms": 179887,
+      "name": "Mama - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "FRIENDS (R3hab Remix)",
         "url": "https://open.spotify.com/album/2KBVjOOFq54CcaHTxItDhl"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 157142,
       "name": "FRIENDS - R3hab Remix",
       "url": "https://open.spotify.com/track/18YRKiIZO4qDEc5Ik0Cry6"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-07-03 13:15:34",

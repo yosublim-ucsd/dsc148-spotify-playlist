@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 22188,
+  "num_followers": 22290,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
+  "snapshot_id": "MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "Synonymous",
         "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "The Savior",
         "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 411127,
       "name": "The Savior - Original Mix",
       "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
+      },
+      "artists": [
+        {
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
+        },
+        {
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
+        }
+      ],
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -791,26 +811,6 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "See the Light",
-        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
-      },
-      "artists": [
-        {
-          "name": "Bless_SA",
-          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
-        },
-        {
-          "name": "Kyika DeSoul",
-          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
-        }
-      ],
-      "duration_ms": 405420,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -935,22 +935,18 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "The Inglourious",
-        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
+        "name": "Electronic Deep House King",
+        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Synth-O-Ven",
-          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
         }
       ],
-      "duration_ms": 399986,
-      "name": "The Inglourious",
-      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+      "duration_ms": 336352,
+      "name": "Electronic Deep House King",
+      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
     }
   ],
   "unique_name": "Deep House Session",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,729 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,831 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 | 50 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 |
 
-Snapshot ID: `MCxjY2M0M2IzNDcyNDJkZTMwOWM5MTM3OTM1NGE1ZWE1YWRiZDYzMTcx`
+Snapshot ID: `MCw5OTljNTIyMTM5ZDQxODZkMTAzZWNmMjA3YzkzNTc2YTNlYmFhNTAz`

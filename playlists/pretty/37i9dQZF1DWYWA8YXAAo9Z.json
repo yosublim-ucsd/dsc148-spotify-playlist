@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 44427,
+  "num_followers": 44461,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj",
+  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -123,18 +123,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
       "artists": [
         {
           "name": "Kaitlyn Aurelia Smith",
           "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+      "duration_ms": 134000,
+      "name": "Moon In Your Eye",
+      "url": "https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -243,6 +247,26 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Yes I",
+        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
+      },
+      "artists": [
+        {
+          "name": "Answer Code Request",
+          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
+        },
+        {
+          "name": "Jan Wagner",
+          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Yes I",
+      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -280,33 +304,13 @@
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
           "name": "Kaitlyn Aurelia Smith",
           "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Moon In Your Eye",
-      "url": "https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko"
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -327,22 +331,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Yes I",
-        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
-          "name": "Answer Code Request",
-          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
-        },
-        {
-          "name": "Jan Wagner",
-          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Yes I",
-      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 372930,
-      "name": "Lumina",
-      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -475,34 +459,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Open Space Volume 1",
-        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 316786,
-      "name": "Deine Augen",
-      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
+      "duration_ms": 372930,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -523,6 +491,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Open Space Volume 1",
+        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 316786,
+      "name": "Deine Augen",
+      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "cells_",
-        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        }
-      ],
-      "duration_ms": 145376,
-      "name": "cells_",
-      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 281229,
       "name": "The Secret Garden",
       "url": "https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "cells_",
+        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        }
+      ],
+      "duration_ms": 145376,
+      "name": "cells_",
+      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 311783,
       "name": "Park Line",
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "My Birthday Suit",
-        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
-      },
-      "artists": [
-        {
-          "name": "Hexsystem",
-          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
-        }
-      ],
-      "duration_ms": 225054,
-      "name": "My Birthday Suit",
-      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "My Birthday Suit",
+        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
+      },
+      "artists": [
+        {
+          "name": "Hexsystem",
+          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
+        }
+      ],
+      "duration_ms": 225054,
+      "name": "My Birthday Suit",
+      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
-        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
-      },
-      "artists": [
-        {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
-        },
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 192019,
-      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
-      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Mirror Ensemble",
         "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
       },
@@ -999,6 +979,58 @@
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
+        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
+      },
+      "artists": [
+        {
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 192019,
+      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
+      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Home Stories",
+        "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 333604,
+      "name": "Home Stories",
+      "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1035,22 +1067,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Kosmic Headroom",
         "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Home Stories",
-        "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
       },
       "artists": [
         {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
         }
       ],
-      "duration_ms": 333604,
-      "name": "Home Stories",
-      "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",

@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-326 songs - 1 day 1 hr 0 min
+327 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 | 2022-07-29 |  |
 | [Swing Praxis \- Kaidi Tatham Remix](https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Swing Praxis \(Kaidi Tatham Remix\)](https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl) | 5:26 | 2021-11-26 |  |
-| [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 | 2021-06-25 |  |
+| [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 | 2021-06-25 | 2023-07-09 |
+| [Take a Breath \(Live\)](https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [O.T.S\. \(Live\)](https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1) | 5:27 | 2021-06-25 |  |
 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 | 2023-04-28 | 2023-05-20 |
 | [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2020-10-09 |  |
 | [Tell Me What To Do](https://open.spotify.com/track/4uMmOXFsZ1YJSTqTNifMhF) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/65fQ2OhECWQBzLdtEKqK0U) | 5:19 | 2020-10-09 | 2022-04-17 |

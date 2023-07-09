@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 54453,
+  "num_followers": 54539,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWZhMGYxNzhhY2FhNzEzOTQ4M2FmNDdhZmMzMGQzNWM5MjViZWRk",
+  "snapshot_id": "MCwxZDUxOTEyN2RmOGY5ZDdlZTU1ZmY0NDYwNzEzYjFjODE1YWFiZTAx",
   "tracks": [
     {
       "added_at": "2023-06-29 15:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
+        "name": "After the noise is gone",
+        "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
+      },
+      "artists": [
+        {
+          "name": "Rayons",
+          "url": "https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf"
+        }
+      ],
+      "duration_ms": 193640,
+      "name": "Love is a personal thing",
+      "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 230000,
       "name": "memory lane",
       "url": "https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "After the noise is gone",
-        "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
-      },
-      "artists": [
-        {
-          "name": "Rayons",
-          "url": "https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Love is a personal thing",
-      "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Re.sort",
-        "url": "https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9"
-      },
-      "artists": [
-        {
-          "name": "sora",
-          "url": "https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Revans",
-      "url": "https://open.spotify.com/track/2fkefVBwTkw2KaiY0M84hI"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "\u4e07\u5f15\u304d\u5bb6\u65cf\u300c\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300d",
         "url": "https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Re.sort",
+        "url": "https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9"
+      },
+      "artists": [
+        {
+          "name": "sora",
+          "url": "https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Revans",
+      "url": "https://open.spotify.com/track/2fkefVBwTkw2KaiY0M84hI"
     }
   ],
   "unique_name": "Ambient Tokyo",

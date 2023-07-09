@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 39378,
+  "num_followers": 39480,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWVhY2FkODgxZmQ5ZGExZDFkZjUxMjBhYTgwODNlODFkYmIxNWI5",
+  "snapshot_id": "MCwwZTdiNjZlZTQ5MTMwY2QyYTUyYzczMzIyMTkwNmU3YzA4YTFkNjJi",
   "tracks": [
     {
       "added_at": "2023-07-05 22:15:45",
@@ -51,26 +51,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/6f8wbdo8KU5ETWJA7lapgS"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "MUSICA <3",
         "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 197107,
-      "name": "Que Mas Puedo Pedir (Bonus Track)",
-      "url": "https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 226821,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 197107,
+      "name": "Que Mas Puedo Pedir (Bonus Track)",
+      "url": "https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -335,22 +351,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "BYE",
-      "url": "https://open.spotify.com/track/6f8wbdo8KU5ETWJA7lapgS"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 192973,
       "name": "Solo Con Verte",
       "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -423,6 +403,26 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },
@@ -439,26 +439,6 @@
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Me Haces Tan Bien",
-        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Me Haces Tan Bien",
-      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -523,6 +503,26 @@
       "duration_ms": 166666,
       "name": "Piel de Seda",
       "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Me Haces Tan Bien",
+        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Me Haces Tan Bien",
+      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "80% M\u00edo",
         "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Eres Vida",
         "url": "https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 204545,
       "name": "Un Hombre con Suerte",
       "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 175872,
       "name": "Platicame De Ti",
       "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 124826,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
         "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 124826,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Sin Sentimientos",
+        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
+      },
+      "artists": [
+        {
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
+        }
+      ],
+      "duration_ms": 178431,
+      "name": "Quiero Darte",
+      "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 188500,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Sin Sentimientos",
-        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
-      },
-      "artists": [
-        {
-          "name": "Design\u00f3",
-          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
-        }
-      ],
-      "duration_ms": 178431,
-      "name": "Quiero Darte",
-      "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
     },
     {
       "added_at": "2023-07-05 22:15:45",

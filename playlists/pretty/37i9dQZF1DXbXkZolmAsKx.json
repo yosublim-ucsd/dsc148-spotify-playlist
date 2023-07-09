@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4634,
+  "num_followers": 4658,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
+  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 210118,
-      "name": "Semena Mertvykh",
-      "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 230608,
       "name": "Huit",
       "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "Semena Mertvykh",
+      "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Book of Life",
         "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 426786,
       "name": "Spherule",
       "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 310826,
-      "name": "Calamus",
-      "url": "https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 310826,
+      "name": "Calamus",
+      "url": "https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Atomos",
         "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 214668,
       "name": "Opening",
       "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 250341,
-      "name": "We Search for the Lights",
-      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Distant and Spirals",
         "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 404210,
       "name": "Distant",
       "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Last of Our Time Together",
-        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
       "artists": [
         {
-          "name": "Hakobune",
-          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
         }
       ],
-      "duration_ms": 962000,
-      "name": "The Last of Our Time Together",
-      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
+      "duration_ms": 134382,
+      "name": "Bridgets' Theme",
+      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 134382,
-      "name": "Bridgets' Theme",
-      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 287843,
       "name": "soft rime",
       "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Last of Our Time Together",
+        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
+      },
+      "artists": [
+        {
+          "name": "Hakobune",
+          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
+        }
+      ],
+      "duration_ms": 962000,
+      "name": "The Last of Our Time Together",
+      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        }
-      ],
-      "duration_ms": 373003,
-      "name": "Imprint (Bonus Track)",
-      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Make Me Know You Sweet",
         "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
       },
@@ -1483,6 +1467,38 @@
       "duration_ms": 445241,
       "name": "AAE-KZT",
       "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "We Will Always Be",
+        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 364253,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        }
+      ],
+      "duration_ms": 373003,
+      "name": "Imprint (Bonus Track)",
+      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Breaks My Heart Each Time",
         "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
@@ -1515,22 +1547,6 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "We Will Always Be",
-        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 364253,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1563,22 +1579,6 @@
       "duration_ms": 293453,
       "name": "Constant",
       "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1635,6 +1635,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 106643,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Living With Yourself",
         "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
       },
@@ -1663,38 +1695,6 @@
       "duration_ms": 296133,
       "name": "Living Lens",
       "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 106643,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
     },
     {
       "added_at": "2023-06-07 15:21:34",

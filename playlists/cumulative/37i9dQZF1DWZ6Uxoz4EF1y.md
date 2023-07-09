@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-106 songs - 9 hr 44 min
+107 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 | 2023-04-09 |  |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2020-09-18 |  |
 | [Cristo Te Amamos](https://open.spotify.com/track/73j54D0rwXFPoCW50ZWkEb) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS), [Danilo Ruiz](https://open.spotify.com/artist/2MxgPruXBZj9F3l8FM6unN) | [Colección Acústica I](https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS) | 7:11 | 2023-04-09 |  |
-| [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 | 2023-04-09 |  |
+| [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 | 2023-04-09 | 2023-07-09 |
 | [Cristo Yo Creo en Ti](https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx) | 5:20 | 2023-04-09 |  |
 | [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 | 2020-09-18 |  |
 | [Digno Y Santo](https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 8:48 | 2023-04-09 |  |
@@ -81,6 +81,7 @@
 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 | 2023-04-09 |  |
 | [Misericordia](https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Misericordia](https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS) | 3:38 | 2023-04-09 |  |
 | [Muerte Por Vida](https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH) | [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [Muerte Por Vida](https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg) | 6:08 | 2023-04-09 |  |
+| [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 | 2023-04-09 |  |
 | [No hay Nadie Como tú](https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 5:38 | 2020-09-18 |  |
 | [No Hay Otro Dios](https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:31 | 2023-04-09 |  |
 | [No Hay Otro Nombre \- Live](https://open.spotify.com/track/5EcTHBNB5GUHh66dExVIGC) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 7:19 | 2023-04-09 |  |

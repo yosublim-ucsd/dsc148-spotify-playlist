@@ -1175,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+    },
+    {
+      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },

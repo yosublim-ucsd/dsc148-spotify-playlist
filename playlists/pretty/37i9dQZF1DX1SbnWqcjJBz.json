@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 64306,
+  "num_followers": 64414,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTZjODIzZjg3NGMyMmI4ZTIwNzU1ZmFlODBhNmEzMWEzNzVjZjk2",
+  "snapshot_id": "MCxlMjRjYTEyMjE0YzNjM2NmMDRmOWUwNzMyYjVlNDYyNmE5YjA4OGZm",
   "tracks": [
     {
       "added_at": "2023-06-16 18:51:45",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "Gourmandises",
-        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
-      },
-      "artists": [
-        {
-          "name": "Aliz\u00e9e",
-          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
-        }
-      ],
-      "duration_ms": 264282,
-      "name": "Moi... Lolita",
-      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Beauty Marks",
         "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 204150,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Gourmandises",
+        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e",
+          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+        }
+      ],
+      "duration_ms": 264282,
+      "name": "Moi... Lolita",
+      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -871,6 +855,22 @@
       "duration_ms": 223794,
       "name": "disco tits",
       "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 177816,
       "name": "Genetics (feat. Pussycat Dolls)",
       "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Not Myself Tonight",
+      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 192172,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Not Myself Tonight",
-      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 255866,
       "name": "Holler",
       "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2023-06-16 18:51:45",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-16 18:51:45",
       "album": {
-        "name": "Bubblebath",
-        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
-      },
-      "artists": [
-        {
-          "name": "That Poppy",
-          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
-    },
-    {
-      "added_at": "2023-06-16 18:51:45",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2023-06-16 18:51:45",
+      "album": {
+        "name": "Bubblebath",
+        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
+      },
+      "artists": [
+        {
+          "name": "That Poppy",
+          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
     },
     {
       "added_at": "2023-06-16 18:51:45",

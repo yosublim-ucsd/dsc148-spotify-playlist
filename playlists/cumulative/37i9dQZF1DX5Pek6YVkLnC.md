@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-294 songs - 16 hr 48 min
+296 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Piratas](https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Piratas](https://open.spotify.com/album/6stZMmfRE8VlPWDXUBTKe6) | 3:19 | 2023-06-09 |  |
 | [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-05-26 | 2023-06-10 |
 | [Por El](https://open.spotify.com/track/04sd3weNZERGDeFIYa76Tr) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Por El](https://open.spotify.com/album/0Fl82m3NegYJSyN783jFXW) | 3:15 | 2022-05-25 | 2022-07-24 |
-| [Porche Carrera](https://open.spotify.com/track/7BnUNwbu4ITOkwrS6nGoVb) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX) | 3:08 | 2023-06-09 |  |
+| [Porche Carrera](https://open.spotify.com/track/7BnUNwbu4ITOkwrS6nGoVb) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX) | 3:08 | 2023-06-09 | 2023-07-09 |
+| [Porche Carrera](https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn) | 3:08 | 2023-06-09 |  |
 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 | 2022-12-07 |  |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-05-25 | 2022-12-08 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-25 | 2022-12-08 |
@@ -226,7 +227,8 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-05-25 | 2022-12-08 |
 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 | 2023-06-09 |  |
 | [Rating](https://open.spotify.com/track/0lusLMalgd4d8g2BZI5NrT) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Rating](https://open.spotify.com/album/3J7ZDoP6VRD4bGSK1ClMLQ) | 3:22 | 2022-05-25 | 2022-07-25 |
-| [Respeto x Respeto](https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto x Respeto](https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1) | 3:02 | 2023-06-09 |  |
+| [Respeto X Respeto](https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto X Respeto](https://open.spotify.com/album/24UJw0M1giFfL1APlORrar) | 3:02 | 2023-06-09 |  |
+| [Respeto x Respeto](https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto x Respeto](https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1) | 3:02 | 2023-06-09 | 2023-07-09 |
 | [Right Thru](https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Right Thru](https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW) | 2:46 | 2023-05-26 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-02-17 | 2023-05-27 |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-12 | 2022-12-08 |

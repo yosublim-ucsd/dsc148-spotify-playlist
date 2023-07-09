@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 126807,
+  "num_followers": 126939,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTZiYmMxYzE2M2U4NmZjYjMxMTkxYjM0ZmM2NWRjZDBkMWI5NTQw",
+  "snapshot_id": "MCw3NWQzMTg1MmIwZTBmYWQ3MGFhNWI0M2Y2MmY2ZTAwYmUxNTgzYTQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 13:00:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 201240,
       "name": "Radio (NW Hesh)",
       "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+      },
+      "artists": [
+        {
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 201851,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
-      },
-      "artists": [
-        {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -979,34 +979,18 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
       "artists": [
         {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
         }
       ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
       "artists": [
         {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
         }
       ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1059,6 +1043,22 @@
       "duration_ms": 245080,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+      },
+      "artists": [
+        {
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+        }
+      ],
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
       },
       "artists": [
         {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
       "artists": [
         {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
         }
       ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1283,22 +1299,6 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
-        "name": "Honor & Glory",
-        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
-      },
-      "artists": [
-        {
-          "name": "Honor & Glory",
-          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
-        }
-      ],
-      "duration_ms": 271159,
-      "name": "Fear of Missing Out",
-      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-07-07 13:00:38",

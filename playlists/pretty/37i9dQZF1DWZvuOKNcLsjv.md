@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,771 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,788 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 |
 | 100 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 
-Snapshot ID: `MCwwMDEzYTQzNDcwMDcyMGNhNGVkYzIxZTUxOGE1MDgzNzJjNWJiYjI0`
+Snapshot ID: `MCw4NDNmNjcxZDZlOTM2NDMzNjc0ZDVlNjE5ZjlhZTY3OGVkMjE0YTQ5`

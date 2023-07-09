@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,060 songs - 2 day 6 hr 27 min
+1,061 songs - 2 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,7 +790,7 @@
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-08 | 2021-06-03 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-10-12 |
 | [Ryba Rybě](https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49) | [Janek Ledecky](https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO) | [Sliby Se Maj Plnit O Vánocích \(20 Let\)](https://open.spotify.com/album/4n0Y3AciirHfoyIEDvfvGn) | 4:09 | 2021-11-30 | 2022-12-27 |
-| [Růže](https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Svědomí](https://open.spotify.com/album/671IMix7dK4HR0b2XDZqOk) | 4:15 | 2023-04-24 |  |
+| [Růže](https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Svědomí](https://open.spotify.com/album/671IMix7dK4HR0b2XDZqOk) | 4:15 | 2023-04-24 | 2023-07-09 |
 | [S láskou, Lukáš](https://open.spotify.com/track/1ke6pjpooJymwb1AXoPwhG) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG) | [S láskou, Lukáš.](https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t) | 2:25 | 2023-02-15 | 2023-02-17 |
 | [S.P.J.D.](https://open.spotify.com/track/7wvhiIXKMCeE39WpRDnLHT) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 2:08 | 2021-08-01 | 2022-02-14 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-21 |
@@ -971,6 +971,7 @@
 | [Vata](https://open.spotify.com/track/3dJbecZfCZ8k5kV7YjvyLH) | [Sensey](https://open.spotify.com/artist/7pyX8AtCyBLC0DXNaGbQRh), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2) | [BRATAN 2.0](https://open.spotify.com/album/3iDQci9fe4CNvDgcXN9qex) | 2:36 | 2021-05-16 | 2021-05-17 |
 | [Vedle tebe usínám](https://open.spotify.com/track/1gkuJxWBlpcUFkqNsEkgQg) | [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Maneki Neko](https://open.spotify.com/album/14097cT0BJDT8GVihXbQJA) | 2:58 | 2021-11-14 | 2022-09-19 |
 | [Velkej vůz](https://open.spotify.com/track/4IqkrMV11Mx2rA9LhzmN16) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 2:41 | 2022-10-01 | 2022-10-08 |
+| [Venku se stmívá](https://open.spotify.com/track/7BioNmpbWfaXd0Upk5Gedc) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Venku se stmívá](https://open.spotify.com/album/7xYapXzd2rA8URQme2QABF) | 2:13 | 2023-07-08 |  |
 | [Veselte se, radujte se](https://open.spotify.com/track/1bcxeg3NTdtwFojVxdY1x0) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 1:21 | 2021-12-25 | 2022-12-27 |
 | [Veselé vánoční hody](https://open.spotify.com/track/4AwUg33u6NXXBsCNqNIqgd) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 1:52 | 2021-12-25 | 2022-12-27 |
 | [vic \(feat\. Separ & Adam Mišík\)](https://open.spotify.com/track/3Uyoi79Ktby1lWsLXFyRlS) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ) | [Slzy Ulic](https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5) | 3:21 | 2023-02-03 | 2023-02-05 |

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-647 songs - 1 day 3 hr 16 min
+648 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Forhåbningsfuld](https://open.spotify.com/track/1nb8v8CM6lSxX1sB56oDhb) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Forhåbningsfuld](https://open.spotify.com/album/4wzZfCtOTPmDAfPMmkVxHc) | 2:06 | 2022-05-27 | 2022-09-24 |
 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 | 2022-05-27 | 2023-01-21 |
 | [Fragrance](https://open.spotify.com/track/6hDznBNAnNaItEKfaJ2z6o) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Fragrance](https://open.spotify.com/album/4P2XA9I1j6EZn8JtaWBGDZ) | 3:18 | 2022-07-20 | 2023-01-21 |
-| [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-05-27 |  |
+| [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-05-27 | 2023-07-09 |
 | [Free Ale](https://open.spotify.com/track/3u7GlA6brJKbJx2PSuY10U) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi) | [Free Ale](https://open.spotify.com/album/6L4y9iYU1sCoUBHzHuTkyU) | 1:36 | 2022-05-27 | 2022-09-24 |
 | [Freedom](https://open.spotify.com/track/5PHIGFF2ikcf0lEGH5D9fZ) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Freedom](https://open.spotify.com/album/4ekcFTkZHjuLXCYMFxZ8Ug) | 2:16 | 2022-05-27 | 2022-09-24 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 | 2023-05-10 |
@@ -520,6 +520,7 @@
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-05-27 | 2022-08-22 |
 | [Spring Shower](https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Spring Shower](https://open.spotify.com/album/5cTl20iAy3UHlc1IIYyfWE) | 2:46 | 2022-05-27 | 2023-06-22 |
 | [Sprites Of The Moor](https://open.spotify.com/track/6uSAPAnkFuSaL4f74KtBmD) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Sprites Of The Moor](https://open.spotify.com/album/6zmbjPAkyO1RM7Iy82vjNE) | 3:00 | 2022-05-27 | 2022-09-24 |
+| [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-07-03 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-05-27 | 2023-05-04 |
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 | 2022-09-24 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-05-27 | 2023-06-20 |

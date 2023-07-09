@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 143923,
+  "num_followers": 143980,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODFlM2ZhZjNlMDlmODMzZmUzM2ViZGYzMjEwYWYzY2NjMTFmYzE2",
+  "snapshot_id": "MCxiMjAzNzlmYzI4ZTE4ZDVhY2U5ZmY0MzBiYTVjZDI5ZTgwOGE0NzFh",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "The Mantra (Heat in the Street Freestyle)",
-        "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 97714,
-      "name": "The Mantra - Heat in the Street Freestyle",
-      "url": "https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "The Mantra (Heat in the Street Freestyle)",
+        "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 97714,
+      "name": "The Mantra - Heat in the Street Freestyle",
+      "url": "https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Real Back In Style",
-        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
-      },
-      "artists": [
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        }
-      ],
-      "duration_ms": 225423,
-      "name": "White Ash",
-      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -535,18 +519,38 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Los Pollos Hermanos",
-        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         }
       ],
-      "duration_ms": 95871,
-      "name": "Los Pollos Hermanos",
-      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Los Pollos Hermanos",
+        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 95871,
+      "name": "Los Pollos Hermanos",
+      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Tekky",
         "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 118386,
       "name": "Tekky",
       "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Songs That Made Me Feel",
-        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
+        "name": "Eye for an Eye",
+        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Benny Banks",
+          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq"
+      "duration_ms": 250434,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Eye for an Eye",
-        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
       "artists": [
         {
-          "name": "Benny Banks",
-          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 250434,
-      "name": "Eye for an Eye",
-      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
+      "duration_ms": 188440,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq"
     },
     {
       "added_at": "2023-06-16 09:37:55",

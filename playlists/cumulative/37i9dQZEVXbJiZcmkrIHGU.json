@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 171769,
       "name": "Aber sie",
       "url": "https://open.spotify.com/track/3DvPDYdU1EjLooP8EYFoV2"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 150992,
       "name": "Alles nur kein Star",
       "url": "https://open.spotify.com/track/2D0sOCo1zDMmt2dgFeqBs4"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -5319,6 +5319,28 @@
     },
     {
       "album": {
+        "name": "Blue Racks",
+        "url": "https://open.spotify.com/album/0GpYt5Md6PyccfvflM3dG1"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178575,
+      "name": "Blue Racks",
+      "url": "https://open.spotify.com/track/1tgSQ9kAFV70h0IKusRofR"
+    },
+    {
+      "album": {
         "name": "HALB:VIER DELUXE",
         "url": "https://open.spotify.com/album/0PD3uJOx7UkLtCPoY5fO8o"
       },
@@ -6050,6 +6072,28 @@
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
+    },
+    {
+      "album": {
+        "name": "LIFE IS PAIN",
+        "url": "https://open.spotify.com/album/16RLZkmkbIZndcpAV7jRTF"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/5fPWjgmmn4ojOOy5iwHvN3"
     },
     {
       "album": {
@@ -8986,7 +9030,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 198158,
       "name": "Doktor",
       "url": "https://open.spotify.com/track/0Qm60nnOL9TSu2bn0UZSZt"
@@ -12762,7 +12806,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -15423,6 +15467,24 @@
     },
     {
       "album": {
+        "name": "Hol mir deine Cousine",
+        "url": "https://open.spotify.com/album/1V4B4vP2lQWUjwLTc0NeEn"
+      },
+      "artists": [
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135972,
+      "name": "Hol mir deine Cousine",
+      "url": "https://open.spotify.com/track/6cTrq3h9lrm2ppTkkPE6Yx"
+    },
+    {
+      "album": {
         "name": "Hold Me Now",
         "url": "https://open.spotify.com/album/7nf9sLobaHeT2sFgZFLJsL"
       },
@@ -16546,6 +16608,32 @@
       "duration_ms": 152146,
       "name": "Ich wei\u00df das",
       "url": "https://open.spotify.com/track/3mMWmLK5qKUk7AmYBYijva"
+    },
+    {
+      "album": {
+        "name": "Ich will",
+        "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Ich will",
+      "url": "https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY"
     },
     {
       "album": {
@@ -19361,6 +19449,24 @@
     },
     {
       "album": {
+        "name": "LA DEUTSCHE VITA",
+        "url": "https://open.spotify.com/album/3jqXYlgMHOvFl2FAmkwkMk"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269257,
+      "name": "LA DEUTSCHE VITA",
+      "url": "https://open.spotify.com/track/3cT5yuMebRLJ4dQDICENsa"
+    },
+    {
+      "album": {
         "name": "La Familia 2",
         "url": "https://open.spotify.com/album/6Xbmu2IvZ7osmBpzhOL0vn"
       },
@@ -21711,6 +21817,28 @@
     },
     {
       "album": {
+        "name": "Malli",
+        "url": "https://open.spotify.com/album/0noHxawuCc5O1AYeIsIHRS"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Malli",
+      "url": "https://open.spotify.com/track/5obtXG3NaPZykEFPWRPTPo"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -22116,7 +22244,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 114074,
       "name": "Match_3",
       "url": "https://open.spotify.com/track/63aQEOk9W5rqWdLWJoaQws"
@@ -23090,6 +23218,24 @@
       "duration_ms": 147794,
       "name": "Missing You (feat. Nael)",
       "url": "https://open.spotify.com/track/72OiqNd63K8IlVFPg007OO"
+    },
+    {
+      "album": {
+        "name": "MISTER O",
+        "url": "https://open.spotify.com/album/1hPArDdvuZEmwPk9umd2DN"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130884,
+      "name": "MISTER O",
+      "url": "https://open.spotify.com/track/7isGUU6IBnVjjwnyjldWXx"
     },
     {
       "album": {
@@ -24506,7 +24652,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -31288,7 +31434,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
@@ -31765,6 +31911,28 @@
     },
     {
       "album": {
+        "name": "sommer (feat. CRO)",
+        "url": "https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "sommer (feat. CRO)",
+      "url": "https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg"
+    },
+    {
+      "album": {
         "name": "Sommergewitter",
         "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
       },
@@ -31834,6 +32002,24 @@
       "duration_ms": 163118,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/06s5OB7ja3OLcwgqDELbTs"
+    },
+    {
+      "album": {
+        "name": "So\ud83e\udd1e",
+        "url": "https://open.spotify.com/album/1u0nZWNZsMCDHlMCOs3yBM"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157912,
+      "name": "So\ud83e\udd1e",
+      "url": "https://open.spotify.com/track/5EqZIbLptCkJARJXOdseF9"
     },
     {
       "album": {
@@ -33180,7 +33366,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
@@ -33598,7 +33784,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -35639,6 +35825,28 @@
     },
     {
       "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "album": {
         "name": "Vamos a Marte (feat. Luis Fonsi)",
         "url": "https://open.spotify.com/album/5MFLQdMRfVerGX3UUhgiDh"
       },
@@ -37376,7 +37584,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-09",
       "duration_ms": 142840,
       "name": "Wenn Du Mich Vergisst",
       "url": "https://open.spotify.com/track/17MW8YPQtJFfEUaPOoaVOm"

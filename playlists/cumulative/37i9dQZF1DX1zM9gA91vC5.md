@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-885 songs - 1 day 14 hr 31 min
+886 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2020-11-12 | 2022-04-22 |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2022-04-21 |  |
 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 | 2020-08-14\* | 2023-02-12 |
+| [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 | 2023-07-04 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2021-10-29 |  |
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2021-05-20 |  |
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2021-07-01 | 2022-09-24 |
@@ -711,7 +712,7 @@
 | [Spiritual](https://open.spotify.com/track/6mQhibY0WvzsX9K3ZR7OTC) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:12 | 2020-08-14\* | 2020-09-16 |
 | [Spring](https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Spring](https://open.spotify.com/album/4edmrPlqJ175RiZfKxnEpX) | 2:03 | 2021-06-03 | 2022-07-20 |
 | [Spójrz na mnie](https://open.spotify.com/track/6THtnsj9gBz5gF5jVw0yMD) | [Zoja Nowakowska](https://open.spotify.com/artist/3HImrGqQl2RpOVlxiGqYZJ) | [Spójrz na mnie](https://open.spotify.com/album/1fyXB6OrJbz20sZZe9357Y) | 2:32 | 2020-08-14\* | 2021-12-28 |
-| [Starling](https://open.spotify.com/track/0deHuVvihpR7Xi8CZCy23s) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:04 | 2020-08-14\* |  |
+| [Starling](https://open.spotify.com/track/0deHuVvihpR7Xi8CZCy23s) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:04 | 2020-08-14\* | 2023-07-09 |
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2020-09-16 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2021-05-06 | 2022-03-31 |
 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 | 2020-08-14\* | 2022-06-08 |

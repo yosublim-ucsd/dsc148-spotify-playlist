@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-335 songs - 20 hr 32 min
+336 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 |  |
 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 | 2020-12-18 | 2023-02-19 |
 | [DNA](https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [DNA](https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ) | 3:49 | 2020-12-18 | 2022-07-23 |
-| [Dont Let Me Go](https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Dont Let Me Go](https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO) | 2:39 | 2023-02-19 |  |
+| [Dont Let Me Go](https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Dont Let Me Go](https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO) | 2:39 | 2023-02-19 | 2023-07-09 |
 | [Down In My Heart \(Joy\)](https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Down In My Heart \(Joy\)](https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK) | 2:57 | 2023-04-21 |  |
 | [Dream](https://open.spotify.com/track/2TlXByjar2RtNj3ao3lR4b) | [Mahood](https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB) | [Dream](https://open.spotify.com/album/2QOgrUZfWupLsKixiuP7NY) | 2:59 | 2020-12-18 | 2022-07-26 |
 | [Dying Dance](https://open.spotify.com/track/6JiJFQa5bqPHLksMcanUrv) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Dying Dance](https://open.spotify.com/album/4M4SLrXtGzkhE6qoFUFMLH) | 4:33 | 2023-03-10 | 2023-04-22 |
@@ -244,6 +244,7 @@
 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 | 2020-12-18 | 2023-02-19 |
 | [Satchmo](https://open.spotify.com/track/71V7G1re50nQU2l8q87gvq) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Satchmo](https://open.spotify.com/album/1XW4YNoshbIsr0Kvz1QGQW) | 2:28 | 2023-02-24 | 2023-03-11 |
 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 | 2020-12-18 | 2023-02-19 |
+| [Scar Tissue](https://open.spotify.com/track/0Z6a9TeBUNwpWBHnqVJVXQ) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Scar Tissue](https://open.spotify.com/album/36BvXViiezXgLDyFZ9jXQo) | 2:27 | 2023-04-21 |  |
 | [Scotoma](https://open.spotify.com/track/0QXYZ9DHNY2D3jjkDveTdq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Scotoma](https://open.spotify.com/album/3D67jo28f5OAlDX3dBgSMv) | 1:57 | 2023-02-20 |  |
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2023-02-24 | 2023-04-22 |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 | 2023-03-11 |

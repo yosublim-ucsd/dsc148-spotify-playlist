@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-391 songs - 19 hr 53 min
+392 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-05-25 | 2022-09-06 |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-05-25 | 2022-08-26 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-05-25 | 2022-08-18 |
-| [KAROLINA](https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp) | [h$mza](https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [KAROLINA](https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW) | 2:25 | 2023-06-27 |  |
+| [KAROLINA](https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp) | [h$mza](https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [KAROLINA](https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW) | 2:25 | 2023-06-27 | 2023-07-09 |
 | [Karolina](https://open.spotify.com/track/1DUzZHTgtCpw3UOlaCHR9k) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/1z6nTcZk7ak4nJET7R3GAE) | 2:25 | 2023-06-19 | 2023-06-27 |
+| [Karolina](https://open.spotify.com/track/1UnvqYFWrB2SabA2jvk3JU) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0q7WkDth9XAIMyQYiTIkPt) | 2:26 | 2023-07-03 |  |
 | [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-08 | 2023-06-28 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-03 | 2023-03-11 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-30 | 2022-09-29 |

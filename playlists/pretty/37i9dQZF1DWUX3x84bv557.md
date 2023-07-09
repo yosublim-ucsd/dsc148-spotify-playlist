@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Pommelien Thijs & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,716 likes - 94 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,757 likes - 94 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 93 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 |
 | 94 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCwwM2QzMjE2NTRjMzk1ZDhhZjU1OGRlMzYxNWQ1NDA1MmI2OWRjMzY5`
+Snapshot ID: `MCwzYzU2ZmJkZTIwYWQyYTQ0MGNmZDczNDEzOGI4NTZmNTQ2NThlZTRi`
