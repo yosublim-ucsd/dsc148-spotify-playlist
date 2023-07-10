@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,567 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,596 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 57 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 |
 | 58 | [Tranquilito \- Remix](https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tranquilito \(Remix\)](https://open.spotify.com/album/5nBGRd7waHG9FKOab6nsGc) | 3:40 |
 | 59 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 |
-| 60 | [Bandolero](https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Bandolero](https://open.spotify.com/album/223VABFuHUyZNNW1OTGlmW) | 2:52 |
-| 61 | [Municiones](https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 2:55 |
+| 60 | [Municiones](https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 2:55 |
+| 61 | [Bandolero](https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Bandolero](https://open.spotify.com/album/223VABFuHUyZNNW1OTGlmW) | 2:52 |
 | 62 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 |
 | 63 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 |
 | 64 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [DEL Barrio a la Ciudad](https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [DEL Barrio a la Ciudad](https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx) | 3:37 |
 | 79 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 
-Snapshot ID: `MCw5M2I0NDgxNzEyZWViYmFlNjhjN2U3YjAwNTc0NDhjZGM0MWY3ODlh`
+Snapshot ID: `MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4`

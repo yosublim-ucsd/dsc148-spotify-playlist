@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 306588,
+  "num_followers": 306927,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjQ4MThiYWNmZjEzY2EwZTJkMzBmNjZjMGM5M2VmY2UwODk0ZjYz",
+  "snapshot_id": "MCw4YTYzNDc4YmRiYzE2YTBhYjU4ODk1MmYzZGE1MzI2MjY1ZTczZWIy",
   "tracks": [
     {
       "added_at": "2023-06-07 23:10:12",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -659,22 +663,18 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -727,6 +727,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -787,6 +803,38 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -803,38 +851,6 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
         "name": "Cabron Yo Puedo",
         "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -923,18 +907,18 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -951,6 +935,22 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
         "name": "Unas M\u00edas y Otras Prestadas, Vol. 2",
         "url": "https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
+        "name": "Ranchero",
+        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "Ranchero",
-        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
+        "name": "Tan Bella y Tan Presumida",
+        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida",
+      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
         "name": "Cosas Claras, Cosas Buenas (En Vivo)",
         "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 192130,
       "name": "Cosas Claras, Cosas Buenas (En Vivo)",
       "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "Tan Bella y Tan Presumida",
-        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida",
-      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 170093,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2023-06-07 23:10:12",
-      "album": {
         "name": "Solo Baladas",
         "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 206000,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+    },
+    {
+      "added_at": "2023-06-07 23:10:12",
+      "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
       "artists": [
         {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 155746,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
     },
     {
       "added_at": "2023-06-07 23:10:12",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2023-06-07 23:10:12",
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
         }
       ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
+      "duration_ms": 155746,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
     },
     {
       "added_at": "2023-06-07 23:10:12",

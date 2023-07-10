@@ -4,7 +4,7 @@
 
 > Feiern mit den größten aktuellen Partyhits.
 
-128 songs - 5 hr 58 min
+129 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-12-30 |  |
 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 | 2022-12-14 |  |
 | [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-17 | 2022-11-26 |
-| [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-11-26 |  |
+| [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-11-26 | 2023-07-10 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-12-22 | 2023-01-05 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-10-14 | 2023-04-27 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-10-14 |  |
@@ -78,6 +78,7 @@
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-13 |  |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-28 | 2023-01-25 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-28 |  |
+| [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Love Don't Cost A Thing](https://open.spotify.com/track/2dP9DdoQDEQu0HywlzoO2Q) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Talya](https://open.spotify.com/artist/1CBkh1iBPBMTaFfZAR8a7N) | [Love Don't Cost A Thing](https://open.spotify.com/album/2rysE1fBLardPfPbRqO7ks) | 2:18 | 2023-06-21 | 2023-07-01 |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-02-07 |  |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-12-22 | 2023-01-05 |

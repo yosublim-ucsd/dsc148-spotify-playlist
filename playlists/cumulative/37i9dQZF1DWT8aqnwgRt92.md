@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-751 songs - 1 day 23 hr 40 min
+753 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 | 2023-04-11 | 2023-05-11 |
 | [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 | 2022-10-03 |
 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / Nakayopiece](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 | 2022-10-01 | 2022-11-09 |
+| [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 | 2023-07-09 |  |
 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 | 2023-01-10 | 2023-04-09 |
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-15 | 2022-10-15 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2022-10-13 | 2022-10-26 |
@@ -276,7 +277,7 @@
 | [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-02-16 | 2023-04-09 |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-10-03 | 2023-01-11 |
 | [Never say Never](https://open.spotify.com/track/308ljVGdTUoIJZTtceMFd0) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/5Egx4Cohqf80LfIy5GpIk6) | 4:25 | 2023-04-01 | 2023-05-17 |
-| [Never say Never](https://open.spotify.com/track/61gMW4HX7FsLNDAAWBUTUg) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/4jpMiwfRwO5bs6BZkJouuI) | 4:25 | 2023-04-25 |  |
+| [Never say Never](https://open.spotify.com/track/61gMW4HX7FsLNDAAWBUTUg) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [Never say Never](https://open.spotify.com/album/4jpMiwfRwO5bs6BZkJouuI) | 4:25 | 2023-04-25 | 2023-07-10 |
 | [Never the Fever!!](https://open.spotify.com/track/1fdX3lSdgqj8qM1QDxmmOt) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Never the Fever!!](https://open.spotify.com/album/0Gfoc5PA6OxnJn8MbCSQk4) | 4:01 | 2022-10-06 | 2022-11-25 |
 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 | 2023-01-10 | 2023-02-01 |
 | [New Genesis \- From CrosSing](https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk) | [Natsuyoshi Yuko](https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq), [Matsuoka Misato](https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL) | [New Genesis \- From CrosSing](https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc) | 3:47 | 2023-06-13 | 2023-06-28 |
@@ -356,6 +357,7 @@
 | [Stand by Me](https://open.spotify.com/track/0OoQhyGwEwOGKk96J6nJ3R) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Stand by Me](https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs) | 3:28 | 2023-01-10 | 2023-03-08 |
 | [Starry Garden](https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Starry Garden](https://open.spotify.com/album/4f9OsZlfycCAYBVXY2FCog) | 4:02 | 2023-05-09 | 2023-06-14 |
 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 | 2022-07-28 | 2022-10-07 |
+| [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-09 |  |
 | [Starting Over](https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Starting Over](https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF) | 3:10 | 2023-04-25 |  |
 | [STAR☆T☆RAIN \- New Arrange Ver.](https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:52 | 2023-07-04 | 2023-07-06 |
 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 |  |

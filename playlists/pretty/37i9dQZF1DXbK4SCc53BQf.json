@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 86585,
+  "num_followers": 86629,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh",
+  "snapshot_id": "MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
-      },
-      "artists": [
-        {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
         }
       ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Dios Te Bendiga",
+        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+      },
+      "artists": [
+        {
+          "name": "Willy Rodriguez",
+          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -783,18 +783,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Dios Te Bendiga",
-        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
       "artists": [
         {
-          "name": "Willy Rodriguez",
-          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 232254,
-      "name": "Dios Te Bendiga",
-      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2020-11-24 13:23:55",

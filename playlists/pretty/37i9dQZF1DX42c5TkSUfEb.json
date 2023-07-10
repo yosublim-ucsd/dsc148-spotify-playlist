@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 738428,
+  "num_followers": 738570,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2ZiMTkzZWJhNGNmZDdkN2VlZWZmY2ExNjFmNjFhMDQ5Zjc2Njli",
+  "snapshot_id": "MCw0NTQzNjZmZTUxZGEyNmJiNjY2MmJkOGEwNjUwMzE1ZTE5MTE5YmM3",
   "tracks": [
     {
       "added_at": "2023-07-04 18:20:08",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "One More Shot",
-        "url": "https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT"
-      },
-      "artists": [
-        {
-          "name": "CIL",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
-        }
-      ],
-      "duration_ms": 141184,
-      "name": "One More Shot",
-      "url": "https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -643,22 +627,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
@@ -679,22 +647,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 216755,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "La Biographie de Luka Philipsen",
         "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
@@ -711,6 +663,22 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 216755,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
         "name": "The Flying Club Cup",
         "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
       },
@@ -723,6 +691,22 @@
       "duration_ms": 230200,
       "name": "Nantes",
       "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -967,22 +951,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -995,6 +963,22 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "character development",
-        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 55133,
-      "name": "walls",
-      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -1131,6 +1099,22 @@
       "duration_ms": 164520,
       "name": "Le coeur nous anime",
       "url": "https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
+        "name": "character development",
+        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 55133,
+      "name": "walls",
+      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-07-04 18:20:08",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -1623,6 +1591,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-07-04 18:20:08",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "I Don't Know What I Can Save You From",
+      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
+    },
+    {
+      "added_at": "2023-07-04 18:20:08",
+      "album": {
         "name": "First Loves",
         "url": "https://open.spotify.com/album/2KSGfv7hOKQz1eld08fkBb"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-07-04 18:20:08",
       "album": {
-        "name": "Quiet Is The New Loud",
-        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 277506,
-      "name": "I Don't Know What I Can Save You From",
-      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
+      "duration_ms": 213546,
+      "name": "Fortitude",
+      "url": "https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR"
     }
   ],
   "unique_name": "Au calme",

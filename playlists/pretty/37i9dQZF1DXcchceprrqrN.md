@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,255 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,374 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 10 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
 | 11 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
 | 12 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
-| 13 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
-| 14 | [Sober to Death](https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 5:04 |
+| 13 | [Sober to Death](https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 5:04 |
+| 14 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
 | 15 | [Catalina Fight Song](https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 1:05 |
 | 16 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 17 | [Blood In The Cut](https://open.spotify.com/track/4q604hQba5940BbOoaenmz) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:08 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 26 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
 | 27 | [GOOD GRIEF](https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 2:58 |
 | 28 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
-| 29 | [call and i'll answer](https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [call and i'll answer](https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32) | 2:46 |
-| 30 | [Weird Girl](https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Assholes](https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H) | 2:24 |
+| 29 | [Weird Girl](https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Assholes](https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H) | 2:24 |
+| 30 | [call and i'll answer](https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [call and i'll answer](https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32) | 2:46 |
 | 31 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
 | 32 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
 | 33 | [Selfish](https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 | 50 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 
-Snapshot ID: `MCwzNWFkYTAxNjU4MzQ1Y2ZhZWQ1YjI1NWVjNDIwN2E0NTdlNGJiODZh`
+Snapshot ID: `MCxmZWRkMWIyMWU5YzY5YTQwZWM3MWU2OTIxOWVkNzBmMzA5Yjc3OTYw`

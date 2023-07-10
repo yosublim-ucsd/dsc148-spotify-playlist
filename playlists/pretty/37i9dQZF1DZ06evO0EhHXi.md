@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,789 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,847 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 19 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
 | 20 | [Surfin' Bird \- 2017 Remaster](https://open.spotify.com/track/3GgYsEaTyCeTH3e5JyEyXf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:37 |
 | 21 | [We Want the Airwaves \- 2002 Remaster](https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:21 |
-| 22 | [Wart Hog \- 2002 Remaster](https://open.spotify.com/track/6brX5IYzdEIfm1eFQtOZai) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 1:54 |
+| 22 | [I Wanna Live](https://open.spotify.com/track/11ejh5AOn4TEY2xJlm6Ver) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Halfway to Sanity](https://open.spotify.com/album/5rxzv4JxiZcrpoIxu17n5c) | 2:37 |
 | 23 | [I Wanna Be Your Boyfriend \- 2016 Remaster](https://open.spotify.com/track/70U8S3FnHJlwPuid3D2A5d) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:24 |
 | 24 | [Cretin Hop \- 2017 Remaster](https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 1:55 |
-| 25 | [I Wanna Live](https://open.spotify.com/track/11ejh5AOn4TEY2xJlm6Ver) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Halfway to Sanity](https://open.spotify.com/album/5rxzv4JxiZcrpoIxu17n5c) | 2:37 |
+| 25 | [Wart Hog \- 2002 Remaster](https://open.spotify.com/track/6brX5IYzdEIfm1eFQtOZai) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 1:54 |
 | 26 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
 | 27 | [Now I Wanna Sniff Some Glue \- 40th Anniversary Mono Mix](https://open.spotify.com/track/6HxJ1s6LaWVzSlmFwiAeeT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:35 |
 | 28 | [Teenage Lobotomy \- 2017 Remaster](https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [Pinhead \- Live in Spain](https://open.spotify.com/track/6C5AS2l70UgvSMhl02z3Pk) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/2UtkFWfDSxyoyGBZ1FsVYC) | 2:36 |
 | 50 | [It's Gonna Be Alright](https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:19 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDAwNDg2ZDNkOGYxYjkwMWM4MzQ2OGJhOTRjM2Q1NTllZg==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDBjYzlhMzcyYzQ3ZDJhYjYxMTAyYjAyODQ3Njg2ZTdhMQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 22290,
+  "num_followers": 22388,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1",
+  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 436551,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "The Savior",
         "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 411127,
       "name": "The Savior - Original Mix",
       "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -791,26 +791,18 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Joyful Music, Vol. 1 (Compiled)",
-        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
       "artists": [
         {
-          "name": "Craving Souls",
-          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
-        },
-        {
-          "name": "Da Tee SA",
-          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 413910,
-      "name": "Nelisiwe",
-      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -831,18 +823,26 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+        "name": "Joyful Music, Vol. 1 (Compiled)",
+        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Craving Souls",
+          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
+        },
+        {
+          "name": "Da Tee SA",
+          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
         }
       ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+      "duration_ms": 413910,
+      "name": "Nelisiwe",
+      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     },
     {
       "added_at": "2023-05-12 07:57:53",

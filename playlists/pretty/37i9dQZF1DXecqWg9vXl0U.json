@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
-  "num_followers": 45264,
+  "num_followers": 45280,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTY2NDUxMDYyNjFkMmJhNTgyMDM2Y2E4MDFmOWE1ZTVlYTRkOTA1",
+  "snapshot_id": "MCxmMGZhOTM4MzFmZmRiMjRlMGNiNTBmZWYwZmVjOGRkYTEzNjM3MjJm",
   "tracks": [
     {
       "added_at": "2023-07-07 17:25:50",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 169919,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 147300,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -635,22 +619,18 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -675,18 +655,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
       "artists": [
         {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
         }
       ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
         "name": "Bola Oro",
         "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 179959,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+      },
+      "artists": [
+        {
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "me pongo un poco sad",
         "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199357,
       "name": "me pongo un poco sad",
       "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "cl\u00e1sico vol. 1",
-        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 178541,
-      "name": "tus mensajes",
-      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "cl\u00e1sico vol. 1",
+        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 178541,
+      "name": "tus mensajes",
+      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -1151,22 +1135,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "\u00c1ngel",
         "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
+        "name": "Prometimos No Hablar",
+        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 259579,
+      "name": "Prometimos No Hablar",
+      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
         "name": "Sleep Alone",
         "url": "https://open.spotify.com/album/01izvkpGOqU5WcnUgSiCpE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 210093,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/6ANq1HPXOlCxBwQGgOMwvU"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
-        "name": "Prometimos No Hablar",
-        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 259579,
-      "name": "Prometimos No Hablar",
-      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "VCR",
-        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
-      },
-      "artists": [
-        {
-          "name": "Atomic Rose",
-          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "VCR",
-      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "flores",
         "url": "https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 193414,
       "name": "flores",
       "url": "https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
+      },
+      "artists": [
+        {
+          "name": "Atomic Rose",
+          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 920812,
+  "num_followers": 921191,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjRlOGMzYTU0NjA5MzQ2NWViNWEwNDZhMGU0YzE4ZGE1MTJhMWI1",
+  "snapshot_id": "MCw3Y2ZiZTNjMDkwODYzZWViYzE2NmRmNTJjOTc5YzZiZjRmYmUxMjNi",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Control - Acoustic Version",
-      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 214413,
       "name": "Sorry - Acoustic",
       "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Control - Acoustic Version",
+      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Are You Gonna Be My Girl",
         "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
+        "name": "7 (Acoustic)",
+        "url": "https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "7 - Acoustic",
+      "url": "https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
         "name": "Walk On Water (Acoustic)",
         "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "7 (Acoustic)",
-        "url": "https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "7 - Acoustic",
-      "url": "https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l"
     },
     {
       "added_at": "2023-01-11 17:00:00",

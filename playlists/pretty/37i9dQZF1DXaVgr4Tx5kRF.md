@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,665 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,898 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 26 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 27 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
 | 28 | [You're Gorgeous](https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Ugly Beautiful](https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb) | 3:42 |
-| 29 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
+| 29 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
 | 30 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
-| 31 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
+| 31 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 | 32 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 33 | [Chasing Rainbows](https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG) | 4:25 |
 | 34 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 50 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
 | 51 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 52 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
-| 53 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
-| 54 | [Richard III \- 2021 \- Remaster](https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money \(2021 Remaster \- Deluxe Expanded Edition\)](https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G) | 3:13 |
+| 53 | [Richard III \- 2021 \- Remaster](https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money \(2021 Remaster \- Deluxe Expanded Edition\)](https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G) | 3:13 |
+| 54 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
 | 55 | [Beautiful Ones](https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 3:50 |
 | 56 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
 | 57 | [Tattva](https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56) | 3:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 | 65 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 
-Snapshot ID: `MCxmNTAzMTFlYmY3ODMwYzNjMWEyYzQ1NWJhNzllNzMwNWM5OGUxYjhl`
+Snapshot ID: `MCxkZTM0ZDJjNzdmZGRkYTljMmY4MGU1ZDBmMzVlZjQ1ZGNhYTljOWM1`

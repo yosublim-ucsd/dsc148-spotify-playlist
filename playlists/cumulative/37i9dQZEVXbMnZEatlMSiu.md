@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-675 songs - 1 day 16 hr 46 min
+677 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-25 | 2022-07-05 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 | 2022-06-18 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-19 | 2022-06-01 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-09 |  |
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2021-10-07 | 2023-01-24 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-14 | 2023-05-23 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-17 | 2023-06-08 |
@@ -308,6 +309,7 @@
 | [Somebody Else](https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#OSNRAPII\-JOURNEY](https://open.spotify.com/album/4uXBZ6B6obczO1Jf8eZFcw) | 2:49 | 2023-01-18 | 2023-03-21 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2021-04-20 |
 | [Something I Don't Need](https://open.spotify.com/track/3yWMv4KSXoh1l61cAqykl1) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:54 | 2021-03-27\* | 2021-04-10 |
+| [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-09 |  |
 | [Soufflé](https://open.spotify.com/track/4gRcYif6ToEAjERR9ogZiQ) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [Soufflé](https://open.spotify.com/album/5ymJ3Hd4Okgz5WuLQGh8jI) | 3:10 | 2021-11-13 | 2021-11-14 |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-10 | 2023-07-04 |
 | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/album/3NaSfby8UoOmwbNKFlo1zu) | 2:41 | 2021-04-26 | 2021-07-14 |
@@ -388,7 +390,7 @@
 | [一千萬次的淚水](https://open.spotify.com/track/4gQLLI4oii6Dt4IpBwIxn6) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:08 | 2022-07-05 | 2022-07-09 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2021-06-04 | 2021-06-10 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
-| [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-22 |  |
+| [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-22 | 2023-07-10 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-03-01 | 2022-03-26 |
 | [一首歌](https://open.spotify.com/track/2gy0I9WTZh4Xg0DrV6wtFG) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [一首歌](https://open.spotify.com/album/3Z9chypYz0Qqbpk3K7rBtc) | 1:58 | 2023-06-02 | 2023-06-04 |
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2022-12-29 | 2023-01-24 |
@@ -567,7 +569,7 @@
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2021-04-18 | 2021-08-24 |
 | [最遠的遠方 \(電視劇《不說再見》片尾曲\)](https://open.spotify.com/track/0lI4DWfDzFrswSu9qWoZx8) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [最遠的遠方 \(電視劇《不說再見》片尾曲\)](https://open.spotify.com/album/7nknY1bEOCM6HL51pjmrR0) | 3:28 | 2021-07-09 | 2021-07-22 |
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2021-04-06 | 2021-04-09 |
-| [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2021-07-29 |  |
+| [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2021-07-29 | 2023-07-10 |
 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/7sD5pBZNNSDMfiF2BvRem7) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2021-07-02 | 2021-07-08 |
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2021-03-27\* | 2021-06-23 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-08 | 2022-03-18 |

@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 240050,
       "name": "Cu\u00e1nto Falta",
       "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
@@ -826,6 +826,28 @@
       "duration_ms": 214989,
       "name": "D\u00edas",
       "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277942,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi"
     },
     {
       "album": {

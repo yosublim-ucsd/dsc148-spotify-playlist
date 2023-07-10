@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: YongYong\(용용\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,524 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,539 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 17 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
 | 18 | [On & On](https://open.spotify.com/track/7BIQiWbZorPJ02OXKWpyot) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Bittersweet](https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx) | 2:43 |
 | 19 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
-| 20 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 |
-| 21 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
+| 20 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
+| 21 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 |
 | 22 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 23 | [PSYCHO LOVE](https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [PSYCHO LOVE](https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc) | 3:10 |
 | 24 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
 | 25 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 |
-| 26 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
-| 27 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
+| 26 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
+| 27 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
 | 28 | [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 |
 | 29 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
 | 30 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 36 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
 | 37 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 38 | [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 |
-| 39 | [SEA SPARKLE \(feat\. HUNJIYA & Choi Junheui\)](https://open.spotify.com/track/6p1BkJW9GZpiOBOFIHb1pX) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Choi Junheui](https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:29 |
-| 40 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 39 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 40 | [SEA SPARKLE \(feat\. HUNJIYA & Choi Junheui\)](https://open.spotify.com/track/6p1BkJW9GZpiOBOFIHb1pX) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Choi Junheui](https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:29 |
 | 41 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
 | 42 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
 | 43 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 45 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
 | 46 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
 | 47 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
-| 48 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
-| 49 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
+| 48 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
+| 49 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
 | 50 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 
-Snapshot ID: `MCw1ZGZmMDEyMzgwZjUxMmZmMWEyY2ZjMWFmOTdiZjE3MmNhM2YzNDE2`
+Snapshot ID: `MCxhZWIzMDA5YTFlNDgzNGY1OWJkYTg1Mzk2ZWYwY2U1ZjM1N2U1NzBj`

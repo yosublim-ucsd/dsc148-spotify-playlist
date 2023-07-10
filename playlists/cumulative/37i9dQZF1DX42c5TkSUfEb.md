@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-166 songs - 10 hr 24 min
+167 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 | 2022-11-25 | 2023-02-22 |
 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 | 2022-11-25 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-11-25 |  |
+| [Fortitude](https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:33 | 2023-07-04 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-11-25 |  |
 | [Gaffe aux autres](https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/48ipTBEr85O48Ig0CAQc5x) | 2:57 | 2023-03-27 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-21 | 2023-03-03 |
@@ -113,7 +114,7 @@
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-16 | 2023-05-13 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-11-25 |  |
 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 | 2022-11-25 | 2023-02-22 |
-| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-14 |  |
+| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-14 | 2023-07-10 |
 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 | 2022-11-25 |  |
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2022-11-25 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2022-11-25 | 2023-01-28 |

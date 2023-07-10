@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,887,417 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,888,061 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 46 | [Bad Memories \- Felix Jaehn Remix](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Felix Jaehn Remix\)](https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl) | 2:29 |
 | 47 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 |
 | 48 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
-| 49 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 |
-| 50 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
+| 49 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
+| 50 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 |
 | 51 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 |
 | 52 | [Unholy \(feat\. Kim Petras\) \- ACRAZE Remix](https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Unholy \(feat\. Kim Petras\) \[ACRAZE Remix\]](https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg) | 2:56 |
 | 53 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 |
 | 80 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 |
 
-Snapshot ID: `MCw4YmJiOWQzOGIwZjVhMDM0ZGY1ODYzODJlOTFmYmQxNmM1YWQ3YzAw`
+Snapshot ID: `MCw4ZTY4MzM1MDA5NjRmMzVkYjVmNjA0ODBkZGE5YTgxZTczYzdkZTUw`

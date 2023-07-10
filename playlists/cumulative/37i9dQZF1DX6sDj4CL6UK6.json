@@ -2127,10 +2127,14 @@
     },
     {
       "album": {
-        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
       "artists": [
+        {
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+        },
         {
           "name": "Anoushka Maskey",
           "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
@@ -2138,10 +2142,6 @@
         {
           "name": "Cosmic Grooves",
           "url": "https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn"
-        },
-        {
-          "name": "Mismatched - Cast",
-          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
         }
       ],
       "date_added": "2022-10-20",

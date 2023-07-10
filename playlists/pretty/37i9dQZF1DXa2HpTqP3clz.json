@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Dan Tyminski",
-  "num_followers": 122894,
+  "num_followers": 122944,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjUyOTZkOTYxNmVmNWM3YzE3Mzk0YjQwNDNkOWU2NmNmYzczM2Ex",
+  "snapshot_id": "MCxiNDVkMGY2ZDIyZGUyNDMwM2NmNGZlZDdmNmRlMDI4MmVlYWMxNDlm",
   "tracks": [
     {
       "added_at": "2023-07-08 22:26:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Time We Made Time",
-      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Time We Made Time",
+      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "On Banjo",
-        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Foggy Morning Breaking",
-      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -875,6 +855,26 @@
       "duration_ms": 258217,
       "name": "Brace for Impact (Live a Little)",
       "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
+        "name": "On Banjo",
+        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Foggy Morning Breaking",
+      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "All Ashore",
-        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 425360,
-      "name": "All Ashore",
-      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
+        "name": "All Ashore",
+        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 425360,
+      "name": "All Ashore",
+      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 300676,
-      "name": "Orphan Annie",
-      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "City on a Hill",
         "url": "https://open.spotify.com/album/3sK98anKCbdIVuOaHbMmy1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 212480,
       "name": "City That Drowned",
       "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Strange Fascination",
         "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 216229,
+      "name": "Lies & Money",
+      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "All The Lilacs In Ohio",
         "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 216229,
-      "name": "Lies & Money",
-      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
+        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Running Out Of Hope, Arkansas",
+      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
-        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Running Out Of Hope, Arkansas",
-      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Gloryland",
+      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Gloryland",
-      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
-      },
-      "artists": [
-        {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
-        }
-      ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "Rise Sun",
         "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+        "name": "Open The Road",
+        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
       },
       "artists": [
         {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
         }
       ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+      "duration_ms": 178182,
+      "name": "Alive With You",
+      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
     },
     {
       "added_at": "2023-07-08 22:26:02",

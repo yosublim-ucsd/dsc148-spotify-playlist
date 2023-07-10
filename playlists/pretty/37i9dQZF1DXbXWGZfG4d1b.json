@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18446,
+  "num_followers": 18454,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGEyYzQ5M2Y5ZDM1ZDIzNGNmMTI2YjcyZWM0YTVlMTJlMTQwZDEz",
+  "snapshot_id": "MCw1NDA5YzhhMzdlMzdkNjFhMWZjY2Q3ZWUyZTlmMjM2NzY0MDAzZjFl",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
+      "duration_ms": 253520,
+      "name": "Mas o Menos Bien",
+      "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "La Dinast\u00eda Scorpio",
-        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 253520,
-      "name": "Mas o Menos Bien",
-      "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Unas Vacaciones Raras",
-        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "La Otra Ciudad",
-      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Piedra del \u00c1guila",
         "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
@@ -591,26 +575,6 @@
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Remixes II",
-        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Tom Tom",
-          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -631,6 +595,26 @@
       "duration_ms": 241078,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Remixes II",
+        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Tom Tom",
+          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -799,22 +783,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Bestia Beb\u00e9",
         "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 239026,
       "name": "Lo Quiero Mucho a Ese Muchacho",
       "url": "https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -1039,6 +1007,22 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+        "name": "Algo Para Decirte",
+        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
       },
       "artists": [
         {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+      "duration_ms": 255593,
+      "name": "Chinos Ojos Rojos",
+      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Algo Para Decirte",
-        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 255593,
-      "name": "Chinos Ojos Rojos",
-      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
         "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
       },
@@ -1555,6 +1523,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "No Es Culpa del Fr\u00edo",
         "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
       },
@@ -1567,22 +1551,6 @@
       "duration_ms": 225001,
       "name": "No Es Culpa del Fr\u00edo",
       "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "En El Palacio de Las Almas",
-        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Nudos",
-      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1607,6 +1575,38 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Egnaro",
+        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
+      },
+      "artists": [
+        {
+          "name": "Los Valses",
+          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Egnaro",
+      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "En El Palacio de Las Almas",
+        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Nudos",
+      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 314026,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Egnaro",
-        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
-      },
-      "artists": [
-        {
-          "name": "Los Valses",
-          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Egnaro",
-      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1691,18 +1675,34 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "TKM",
-        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
+        "name": "El Deseo",
+        "url": "https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W"
       },
       "artists": [
         {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+          "name": "Revistas",
+          "url": "https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp"
         }
       ],
-      "duration_ms": 154548,
-      "name": "TKM",
-      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
+      "duration_ms": 164656,
+      "name": "El Deseo",
+      "url": "https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
     }
   ],
   "unique_name": "6PM Indie",

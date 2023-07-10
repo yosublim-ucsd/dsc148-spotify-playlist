@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 203797,
+  "num_followers": 203874,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTRkOGEyNjcwNjBmNzZjMTZiMjE3MDhkYTZkNTA2ZTU2ODYyYzAy",
+  "snapshot_id": "MCw0ZjBhODM1ZDkzNjJjYWFkZDdiNDkwNWJkZjM4ZGIyODc0YTcwYmRj",
   "tracks": [
     {
       "added_at": "2023-07-03 16:19:32",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -511,22 +531,6 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "Clavaito",
-        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 162740,
-      "name": "Clavaito",
-      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "Hey Mor",
-        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "Hey Mor",
+        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -1643,62 +1643,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
-        "name": "No Se Acaba Hasta Que Acabe",
-        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186832,
-      "name": "No Se Acaba Hasta Que Acabe",
-      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -1719,6 +1663,62 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Felices Perdidos",
+      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "No Se Acaba Hasta Que Acabe",
+        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186832,
+      "name": "No Se Acaba Hasta Que Acabe",
+      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "SIN CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 137967,
+      "name": "SIN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "DESPECH\u00c1 RMX",
-        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 170827,
-      "name": "DESPECH\u00c1 RMX",
-      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "Bajo La Mesa",
         "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 157080,
       "name": "Bajo La Mesa",
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
       "added_at": "2023-07-03 16:19:32",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2023-07-03 16:19:32",
       "album": {
-        "name": "CORAZONES ROTOS",
-        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 230130,
-      "name": "CORAZONES ROTOS",
-      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
-    },
-    {
-      "added_at": "2023-07-03 16:19:32",
-      "album": {
         "name": "El Pa\u00f1uelo",
         "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 234706,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "added_at": "2023-07-03 16:19:32",
+      "album": {
+        "name": "CORAZONES ROTOS",
+        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 230130,
+      "name": "CORAZONES ROTOS",
+      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
     },
     {
       "added_at": "2023-07-03 16:19:32",

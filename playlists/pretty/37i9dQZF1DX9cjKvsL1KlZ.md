@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,642 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,754 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [6 foot 7 foot](https://open.spotify.com/track/5NmzosNjAiwHUXxi3jfOy2) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Tazzo B](https://open.spotify.com/artist/6xq21H5LtfKGLHs8LRsdkG) | [6 foot 7 foot](https://open.spotify.com/album/42WX64EFrVX9hMaguk1TqT) | 2:15 |
 | 50 | [War \(feat\. Lil Tjay\) \- Bonus](https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:41 |
 
-Snapshot ID: `MCxlZTgxNTY1NzQwMzk5MGU5YWZlNzZkMTNlZTY5NjY3MDU3YmY0M2M4`
+Snapshot ID: `MCxlODZhN2NjMTFhMjc4ODE5NzliM2Q2M2UyNzlmZTRiODliYjQyNmQ1`

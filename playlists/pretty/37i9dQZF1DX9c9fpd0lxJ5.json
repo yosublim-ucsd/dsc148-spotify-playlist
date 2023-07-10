@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453766,
+  "num_followers": 453817,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTE0NDUwODMyYmRiNDZhOTA2ZmVhZWZjMjMyNDI2MTcwMDdhMTQ1",
+  "snapshot_id": "MCxkYjE2YWZjNGQyMzBiMmM3N2ZmNGJiMjYwMTJjODAwMjEzNmY1Y2Vm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:33:32",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
-        "name": "Hold It Together",
-        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "Hold It Together",
-      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
+        "name": "Hold It Together",
+        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "Hold It Together",
+      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
     },
     {
       "added_at": "2023-07-07 15:33:32",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
-        "name": "Fugaz",
-        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
-        },
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
         "name": "Eso Que Me Das",
         "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        },
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
     },
     {
       "added_at": "2023-07-07 15:33:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 185007,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-07-07 15:33:32",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
         "name": "comoestasmiamor <3",
         "url": "https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2023-07-07 15:33:32",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-07-07 15:33:32",
       "album": {
-        "name": "Todo Pasa",
-        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 158211,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 224571,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
+    },
+    {
+      "added_at": "2023-07-07 15:33:32",
+      "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 158211,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
     },
     {
       "added_at": "2023-07-07 15:33:32",
@@ -1687,22 +1703,6 @@
       "duration_ms": 153000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
-    },
-    {
-      "added_at": "2023-07-07 15:33:32",
-      "album": {
-        "name": "Principe Azul",
-        "url": "https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Hate Being In Love",
-      "url": "https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn"
     },
     {
       "added_at": "2023-07-07 15:33:32",

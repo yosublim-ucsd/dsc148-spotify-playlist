@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,168 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,283 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 26 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
 | 27 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |
 | 28 | [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 |
-| 29 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
-| 30 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
+| 29 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
+| 30 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 31 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 32 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 33 | [Cycles](https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 74 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 |
 | 75 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
 
-Snapshot ID: `MCw5YjcyNjdmMzViYTBjY2ZkNTM1ZWU3MzAwY2NjMzkxNDZiYjViZGE5`
+Snapshot ID: `MCwzNWY1OWFlNmU4MTIyZWIzZTVhYmQ0M2M5ZTQxNDZiNTg0MWE5M2Vj`

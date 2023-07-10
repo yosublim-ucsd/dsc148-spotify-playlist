@@ -1,12 +1,12 @@
 {
   "description": "A smooth nostalgia trip through the 80s.",
-  "num_followers": 325415,
+  "num_followers": 325460,
   "original_name": "Unwind 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTliNDM4MzYxYTQzNDQ5NWY1MTg5ZjBlOTY0ZTJhZmY5YjFkMDBm",
+  "snapshot_id": "MCxhYmQyMDNiMGI4NzdlMmI1NmQ0ZjViMTYyYmI3ZGMyZGIxMzAwYjUx",
   "tracks": [
     {
       "added_at": "2022-04-18 01:25:47",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-04-18 01:25:47",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
-      "added_at": "2022-04-18 01:25:47",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2022-04-18 01:25:47",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2022-04-18 01:25:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-04-18 01:25:47",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
-      },
-      "artists": [
-        {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2022-04-18 01:25:47",
-      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2022-04-18 01:25:47",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2022-04-18 01:25:47",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-04-18 01:25:47",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-04-18 01:25:47",
-      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+    },
+    {
+      "added_at": "2022-04-18 01:25:47",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-04-18 01:25:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,693 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,941 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 60 | [High](https://open.spotify.com/track/2PmYWe7v0hJ6XJjeM2pDQp) | [Jimmie's Chicken Shack](https://open.spotify.com/artist/3jMlAtlOaQc9VDayokUmg8) | [..\. Pushing The Salmanilla Envelope](https://open.spotify.com/album/35ZPbGg3xbn3TquPkhWE5s) | 3:48 |
 
-Snapshot ID: `MCwzNzdiZTYyNGIzZjIzMWFkZjJlYjZhNzBkNTI3MzczNGExM2YwNzVm`
+Snapshot ID: `MCxlNTc5Y2Q1NGY1MzJkOTY4NTE0MThiYWNkNWZhMWUwNWYzNWZkOThh`

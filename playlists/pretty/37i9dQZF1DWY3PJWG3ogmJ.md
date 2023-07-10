@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,698 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,953 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 38 | [Underneath the Scars](https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Unconquered](https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U) | 3:46 |
 | 39 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
 | 40 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
-| 41 | [Necessary Death](https://open.spotify.com/track/7my2857xyhSzD4KsMIVCAG) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [From the Unforgiving Arms of God](https://open.spotify.com/album/6k1SjXMBPH6LYBMrmqeNwq) | 2:53 |
-| 42 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 |
+| 41 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 |
+| 42 | [Necessary Death](https://open.spotify.com/track/7my2857xyhSzD4KsMIVCAG) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [From the Unforgiving Arms of God](https://open.spotify.com/album/6k1SjXMBPH6LYBMrmqeNwq) | 2:53 |
 | 43 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 |
 | 44 | [Return to Strength](https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Keepers Of The Faith](https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W) | 2:40 |
 | 45 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 102 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
 | 103 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
 | 104 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
-| 105 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
-| 106 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
+| 105 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
+| 106 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
 | 107 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 |
 | 108 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 | 109 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 120 | [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 |
 
-Snapshot ID: `MCwzM2ViNTQ1MmFjMGJiOTljMDY3YmQ4NjQwNGQ3NzM1YmMwNmY4NDdh`
+Snapshot ID: `MCxlMDQwZjM5NDA3YTZjOGFmMGI2ODVhZTY3MDFlZDUxOWFhM2YxYjZm`

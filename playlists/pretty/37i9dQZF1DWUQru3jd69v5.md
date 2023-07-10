@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Tony Boy in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,352 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,355 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Perchè?!](https://open.spotify.com/track/11oqcjXJqFCcmsHCZxhBm0) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [Perchè?!](https://open.spotify.com/album/0zBAziAYfMXqnAeKq3zZJv) | 3:45 |
 | 50 | [MODALITÀ AEREO](https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MODALITÀ AEREO](https://open.spotify.com/album/6pdwB2lhmph33c2oeoi0Ep) | 2:14 |
 
-Snapshot ID: `MCwxZTc0MmJkYWQxYjI0Yjg0OTQwZWU3OTg1YzJlZGI5Njk0MzdhZDFh`
+Snapshot ID: `MCwxNTE0OGFlMjQxZGMwYTQwMzFhNmUzOTQ4OWRkZmE3MjFhYTMyMjg5`

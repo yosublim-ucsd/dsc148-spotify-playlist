@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11970,
+  "num_followers": 11980,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGYzODhmYWZkZDE1MDI1OTg1ZWVkNGU4OWJmY2Q4NWYzZjhmMjMy",
+  "snapshot_id": "MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:59",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "No Make Up",
+        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "No Make Up",
+      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "No Make Up",
-        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "No Make Up",
-      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
-        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Dream Catcher",
-      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Dream Catcher",
+      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -927,22 +943,6 @@
       "duration_ms": 199295,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-07-07 15:52:59",

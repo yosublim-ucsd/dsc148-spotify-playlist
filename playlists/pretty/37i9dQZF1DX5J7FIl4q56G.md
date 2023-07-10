@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Butcher Babies
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,831 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,940 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 14 | [ROC SH!T](https://open.spotify.com/track/5vHhnLEqrFXj8Agx6JmKAD) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [ROC SH!T](https://open.spotify.com/album/1tpC1yYHkOxqRtaGlc6kbJ) | 3:05 |
 | 15 | [Tears of Stone](https://open.spotify.com/track/1Z5K4EtkvjpVf0jAylhur1) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Blood Omen](https://open.spotify.com/album/7Js6ph0U2lycgwAcA8p02p) | 6:34 |
 | 16 | [Darkbeat](https://open.spotify.com/track/5UuWPlG9nkpH0xw5lwLv3M) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [Darkbeat](https://open.spotify.com/album/3IVEXblDuA0lPgBBLQfHIF) | 3:39 |
-| 17 | [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 |
+| 17 | [Bum\-Rush](https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 |
 | 18 | [Attack](https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Attack](https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ) | 3:12 |
 | 19 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 | 20 | [Sacrificial Participant](https://open.spotify.com/track/4JUFkrvuUXG9L6fmWbmlGS) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [God Made Me An Animal](https://open.spotify.com/album/5BhklHDhaR6bzbELNrNKU2) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [BRINGER OF DEATH](https://open.spotify.com/track/6nqits2U4wWDvsUKd8SMAH) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [BRINGER OF DEATH](https://open.spotify.com/album/1tBIdkgj4e1Ano0DXXAcVs) | 3:18 |
 | 50 | [Blessed By the Divine](https://open.spotify.com/track/2ELZX2Mzq3B8ExiuH9Q5VI) | [Xorsist](https://open.spotify.com/artist/4iWtf8XTtTkyIk6Bmqb1L6) | [Blessed By the Divine](https://open.spotify.com/album/3kWf8VClCWBMM653vfhE3D) | 3:46 |
 
-Snapshot ID: `MTY4ODcwMjQ2MCwwMDAwMDAwMDlkOGI2NjY1OWRmMDZjZTZhNGIwNGJhM2E2MTc2MzNh`
+Snapshot ID: `MCw2MTA2YzVlZjU0OWU3ZmJjY2FmZGZlYjJmMjU0ZGNhZTQ5NTljNWZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,556 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,594 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 21 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo el Corazón](https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn) | 4:01 |
 | 22 | [Cc \(Como Compas\)](https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Jäula](https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE) | 3:46 |
 | 23 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
-| 24 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
-| 25 | [Desamorados](https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx) | [Hey Bésala](https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh) | [Volumen 2](https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN) | 3:44 |
+| 24 | [Desamorados](https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx) | [Hey Bésala](https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh) | [Volumen 2](https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN) | 3:44 |
+| 25 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
 | 26 | [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 |
 | 27 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
 | 28 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
-| 29 | [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 |
-| 30 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
-| 31 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
-| 32 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 |
-| 33 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
-| 34 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
+| 29 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
+| 30 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
+| 31 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
+| 32 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
+| 33 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 |
+| 34 | [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 |
 | 35 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
 | 36 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 37 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Distancias](https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA) | [Diez Veces Yo](https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l) | [Historias](https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg) | 3:18 |
 | 50 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 
-Snapshot ID: `MCw3NDhiMTE5MWY1YmE0YjNiZDRjMDNlZTU1YTJiNTliZWIyN2Q4MDdl`
+Snapshot ID: `MCwxM2U4Y2JjYTg0MTZiZTkxOThiYzE5YTY2ZGZiN2IzYWM3Y2M0ZjUw`

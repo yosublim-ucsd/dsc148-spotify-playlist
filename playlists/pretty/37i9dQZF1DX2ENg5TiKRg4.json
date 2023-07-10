@@ -1,28 +1,28 @@
 {
   "description": "Happy Pop-Rock Tunes to start your day. ",
-  "num_followers": 27363,
+  "num_followers": 27418,
   "original_name": "Morning Loud!!! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmFkYWFjMzA4MDJiNzc0NDhmZmExMzc4MWIwOGRlZGUyOTU1MjIz",
+  "snapshot_id": "MCw1NGMzNjI3NmU1OGUzZmIyYzViMmQwNTA2NzcwNDI2ZjhmZGEzMWUx",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 168259,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 168259,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
     }
   ],
   "unique_name": "Morning Loud!!! ",

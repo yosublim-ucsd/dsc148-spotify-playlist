@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,371 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,468 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 51 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
 | 52 | [Como Tu Mujer \- Pop](https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:20 |
 | 53 | [Extrañándote](https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:11 |
-| 54 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
-| 55 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
-| 56 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ) | 3:51 |
+| 54 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ) | 3:51 |
+| 55 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
+| 56 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
 | 57 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 58 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 59 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 86 | [¿ A Dónde Vamos A Parar ?](https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:55 |
 | 87 | [A Donde Vayas](https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Sigo en la Jugada](https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib) | 3:44 |
 | 88 | [Sigue Sin Mi](https://open.spotify.com/track/2tYKnng75q7EsR08q557vM) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:17 |
-| 89 | [La Venia Bendita](https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:11 |
-| 90 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 |
+| 89 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 |
+| 90 | [La Venia Bendita](https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:11 |
 | 91 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 5:00 |
 | 92 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 |
 | 93 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 108 | [Tu Ingratitud](https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:31 |
 | 109 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
 | 110 | [Donde Estará Mi Primavera](https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:17 |
-| 111 | [Si Te Pudiera Mentir \- Live Version](https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Una Noche En Madrid](https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8) | 4:23 |
-| 112 | [Invéntame](https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desamor y Despecho](https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC) | 3:33 |
+| 111 | [Invéntame](https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desamor y Despecho](https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC) | 3:33 |
+| 112 | [Si Te Pudiera Mentir \- Live Version](https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Una Noche En Madrid](https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8) | 4:23 |
 | 113 | [Chiquilla Bonita](https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [A Traves De Tus Ojos](https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ) | 4:46 |
 | 114 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
 | 115 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Viéndolo Bien](https://open.spotify.com/track/4xz67gCRJvFPjYOWTwrquw) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 2:51 |
 | 125 | [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 |
 
-Snapshot ID: `MCxlNzg4NTUwM2VhMTRiZTg3MjA2MmFkMWRjOTRhN2I2NWFjMmE3M2E1`
+Snapshot ID: `MCxkNTM0ZjYxZGI5NjJkMGMyZDgwNDIxZjZlNjVmOWE1OTkzYjBiN2E4`

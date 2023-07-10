@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,634 likes - 27 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,255 likes - 27 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 26 | [Talkin' Tennessee](https://open.spotify.com/track/7szRiHu6r91o2Po9GTPN4c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:41 |
 | 27 | [Turn You Down \(HARDY feat\. Morgan Wallen, Zakk Wylde\)](https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:34 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDAxYTdmYWYxZjVhYTE2MzIzYjlkNThmNWM4ODE5ZmRmNg==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDAxZWZiODM2MTk3NDFkMDg1ZjI5ZDQwY2I0MDNkZTg4OA==`

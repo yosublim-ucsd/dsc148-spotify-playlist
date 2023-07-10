@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Leon Leiden y Paty Cantú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,343 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,404 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 40 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 41 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
 | 42 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
-| 43 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
-| 44 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 43 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 44 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
 | 45 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 46 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
 | 47 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [No Es Mi Culpa](https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [No Es Mi Culpa](https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37) | 2:07 |
 | 50 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
 
-Snapshot ID: `MCw1NzVhNjU2NThlZGY1MDdlOWZmZDZkODdiZjY2NjU5MjA5ZmUyOTJl`
+Snapshot ID: `MCwzNjYwNzliY2FmYWQxNzYxNzhhNGU2OGFjYTJjM2UyOGQ1YTYxOGNk`

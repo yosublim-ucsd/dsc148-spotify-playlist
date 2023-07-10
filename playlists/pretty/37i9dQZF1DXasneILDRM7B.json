@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
-  "num_followers": 2970896,
+  "num_followers": 2971356,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2EyNzhkMTY5NjM2MDlkNTE3ZmE4MDVkYjc5YmRhMjQyNTIyNzYz",
+  "snapshot_id": "MCxlZmIzYmMyODYxMzk2ZmEwYjdhNzUxYmUzZDI2Njk0NTYyMjdjZGJh",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Folie \u00e0 Deux",
         "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 157360,
       "name": "18",
       "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2023-01-25 14:57:38",

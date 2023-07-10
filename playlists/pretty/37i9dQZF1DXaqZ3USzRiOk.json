@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 142821,
+  "num_followers": 143003,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQxMzBjNzZmYzFmYzQ0ZmFjZjM4ZmI5MjY3Y2M1MTA5MjAxNmIw",
+  "snapshot_id": "MCxlYTY1Y2Q1ZmFkNTJjYWRhNDJmYjA4OGEzZDgwNzA4ZjhiYTc0NDM3",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -647,18 +631,34 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Palabra de Hombre",
-        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169769,
+      "name": "Una Lagrima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        "name": "Palabra de Hombre",
+        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 169769,
-      "name": "Una Lagrima y Un Recuerdo",
-      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Chalino S\u00e1nchez Con Mariachi",
         "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 196998,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
+      "duration_ms": 160720,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Un Viejo Amor",
-      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitos: Chayito Valdez",
-        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 182729,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
+      "duration_ms": 147280,
+      "name": "Esta situaci\u00f3n",
+      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "15 \u00c9xitos: Chayito Valdez",
+        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Esta situaci\u00f3n",
-      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+      "duration_ms": 182729,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 164337,
       "name": "Son las Dos de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1979,8 +1979,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Casas De Madera (Remasterizado)",
-        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
+        "name": "Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
       },
       "artists": [
         {
@@ -1988,9 +1988,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 264373,
-      "name": "Casas De Madera",
-      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
+      "duration_ms": 227706,
+      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2075,8 +2075,8 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Pu\u00f1o De Tierra",
-        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
+        "name": "Casas De Madera (Remasterizado)",
+        "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
       "artists": [
         {
@@ -2084,25 +2084,25 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 227706,
-      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
+      "duration_ms": 264373,
+      "name": "Casas De Madera",
+      "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
     },
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
       },
       "artists": [
         {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Ojitos So\u00f1adores",
-      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+      "duration_ms": 173733,
+      "name": "Ojitos So\u00f1adores",
+      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
-      },
-      "artists": [
-        {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Zenaida Ingrata",
-      "url": "https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 183906,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
+      },
+      "artists": [
+        {
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Zenaida Ingrata",
+      "url": "https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq"
     },
     {
       "added_at": "2023-06-16 16:57:29",

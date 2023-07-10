@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 372487,
+  "num_followers": 372492,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjMxNjYxODdkZjQzODA1ZWFiYTA2ZmMwMjZlNTAwMjliZjExMjA4",
+  "snapshot_id": "MCxjOTk5MGIzYTYyOWQwYmJkNjIyM2YwNjg2ZDZjMTc3NWQ5ZjVlZTQw",
   "tracks": [
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Kimochy Season",
-        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 198673,
-      "name": "Kimochy",
-      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
-        "name": "Friday Night",
-        "url": "https://open.spotify.com/album/6dNszo04S4P26VRdTUGP0K"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 211067,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 178000,
       "name": "BREAKTHROUGH",
       "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/6dNszo04S4P26VRdTUGP0K"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 211067,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Kimochy Season",
+        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 198673,
+      "name": "Kimochy",
+      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Talkin' Talkin'",
-        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Talkin' Talkin'",
-      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191826,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1427,38 +1427,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "yonaki",
-        "url": "https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR"
-      },
-      "artists": [
-        {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
-        }
-      ],
-      "duration_ms": 230144,
-      "name": "yonaki",
-      "url": "https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "Mo ai ni",
         "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
@@ -1479,6 +1447,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "yonaki",
+        "url": "https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 230144,
+      "name": "yonaki",
+      "url": "https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 244996,
-      "name": "\u661f\u55ab\u8336\u5e97",
-      "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "The Lover",
         "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 174473,
       "name": "Like A Seraph",
       "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 244996,
+      "name": "\u661f\u55ab\u8336\u5e97",
+      "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
     },
     {
       "added_at": "2023-07-06 15:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Hozue",
-        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "Hozue",
-      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
-    },
-    {
-      "added_at": "2023-07-06 15:00:00",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
@@ -1799,6 +1783,30 @@
       "duration_ms": 184285,
       "name": "\u706f\u706b (feat. miida)",
       "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
+    },
+    {
+      "added_at": "2023-07-06 15:00:00",
+      "album": {
+        "name": "Hearth",
+        "url": "https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "Hearth",
+      "url": "https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz"
     }
   ],
   "unique_name": "Tokyo Rising",

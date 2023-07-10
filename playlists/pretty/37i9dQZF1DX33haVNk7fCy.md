@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,223 likes - 67 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,480 likes - 67 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 41 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
 | 42 | [Bin Tere \- Reprise](https://open.spotify.com/track/7zG4akZAie70mOCMmtoacS) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 3:40 |
 | 43 | [Aahatein](https://open.spotify.com/track/3dQjCswDedsHNxdaOhcfiz) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:27 |
-| 44 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
-| 45 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 |
+| 44 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 |
+| 45 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 46 | [Ajnabee](https://open.spotify.com/track/0pQ1hgyLofFLNzE4hvjENi) | [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Ajnabee](https://open.spotify.com/album/1WGbCAsg44CV0JLld94m7g) | 3:01 |
 | 47 | [Chandni Raat](https://open.spotify.com/track/15aFp4GkPuHOhRBeHgU2ix) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chandni Raat](https://open.spotify.com/album/2N5srDsaz5fMLlazLTtAaY) | 3:45 |
 | 48 | [Aankhon Se Batana \(feat\. Dikshant\) \- Heartbreak Version](https://open.spotify.com/track/3TvuDDztSve7iSxnd0bvHg) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana \(feat\. Dikshant\) \[Heartbreak Version\]](https://open.spotify.com/album/2W5j6HlejBMhmiEoat8I8N) | 3:24 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 66 | [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 |
 | 67 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 
-Snapshot ID: `MCw2ODEwYmU4MmYyYzZhN2QwMDkzZjgxZGE4ZDg1YzEyZDM3NDA3MzQ0`
+Snapshot ID: `MCxmMTMxOGNkNDJmMzk1MjUyYjUzYTZlMjg5NDI1YjI5Y2U2NDBjNTZi`

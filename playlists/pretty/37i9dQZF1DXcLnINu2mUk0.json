@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 35343,
+  "num_followers": 35374,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGE5ODRhMTQ1ZjI1MDIxMTY1M2ZlMjgwMzlkNWIxN2I2MTdiY2Vk",
+  "snapshot_id": "MCw1YTQ5ZTE5N2MxNDJjODBmYTMxOTkzMjFlOTE2MjdkMGU1YjE0YTc4",
   "tracks": [
     {
       "added_at": "2023-07-06 23:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        },
-        {
-          "name": "Hernani",
-          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
-        }
-      ],
-      "duration_ms": 245258,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
         "name": "J\u00e1 Sei",
         "url": "https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 144092,
       "name": "J\u00e1 Sei",
       "url": "https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "duration_ms": 245258,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "\u00c0s Vezes",
-        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
+        "name": "Steppa",
+        "url": "https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT"
       },
       "artists": [
         {
-          "name": "Sien Flamuri",
-          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
-        },
-        {
-          "name": "mizt",
-          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
         }
       ],
-      "duration_ms": 163061,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
+      "duration_ms": 130776,
+      "name": "Steppa",
+      "url": "https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1079,50 +1075,22 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Steppa",
-        "url": "https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT"
+        "name": "\u00c0s Vezes",
+        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
       },
       "artists": [
         {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 130776,
-      "name": "Steppa",
-      "url": "https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
+          "name": "Sien Flamuri",
+          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
+        },
         {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+          "name": "mizt",
+          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
         }
       ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+      "duration_ms": 163061,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1139,6 +1107,22 @@
       "duration_ms": 185166,
       "name": "Bday",
       "url": "https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
         "name": "Foca Em Mim",
         "url": "https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb"
       },
@@ -1207,6 +1207,46 @@
       "duration_ms": 176000,
       "name": "Foca Em Mim",
       "url": "https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Sil\u00eancio",
+        "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
+      },
+      "artists": [
+        {
+          "name": "Gil Semedo",
+          "url": "https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Brio",
+        "url": "https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        },
+        {
+          "name": "Lunn",
+          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Brio",
+      "url": "https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1239,26 +1279,6 @@
       "duration_ms": 231168,
       "name": "N1",
       "url": "https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
-        "name": "Brio",
-        "url": "https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY"
-      },
-      "artists": [
-        {
-          "name": "L-ALI",
-          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
-        },
-        {
-          "name": "Lunn",
-          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Brio",
-      "url": "https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1307,26 +1327,6 @@
       "duration_ms": 180403,
       "name": "Saltamos",
       "url": "https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
-        "name": "Sil\u00eancio",
-        "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
-      },
-      "artists": [
-        {
-          "name": "Gil Semedo",
-          "url": "https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "Sil\u00eancio",
-      "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
     }
   ],
   "unique_name": "Seda",

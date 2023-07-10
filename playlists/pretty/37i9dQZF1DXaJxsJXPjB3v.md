@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,719 likes - 58 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,749 likes - 58 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 14 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
 | 15 | [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 |
 | 16 | [Ntozabantu](https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK) | 5:09 |
-| 17 | [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 |
+| 17 | [Current](https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM) | 5:45 |
 | 18 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 |
-| 19 | [Current](https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM) | 5:45 |
+| 19 | [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 |
 | 20 | [Ghetto Scandalous](https://open.spotify.com/track/1L8CvSH5HDLo0dpW8zlmUM) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Mdlwembe](https://open.spotify.com/album/6p14EmutdSfbNqBSQzRJK2) | 4:47 |
 | 21 | [Chomi Yabana](https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [24 Seven](https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU) | 5:17 |
 | 22 | [Intwenjani](https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:33 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 57 | [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 |
 | 58 | [M'du Or Die \(U Leave Once\)](https://open.spotify.com/track/3HeRoFFma480WyN7hHgm91) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:53 |
 
-Snapshot ID: `MCw0MDc5NDVkMmQxZWM5OGQ4NmExNDVkZDAwNjZiMmIyODM3N2U5YTM4`
+Snapshot ID: `MCxhNzc1N2Q5NmQ4NWY2OGM4YmE1YzU4ODY4Y2QyYzAyMGQ3YTQxMDBh`

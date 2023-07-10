@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ $uicide Gvng in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,221 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,230 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 80 | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF) | 2:22 |
 
-Snapshot ID: `MCxhN2E3MzI5NGQ5ODU2M2Q4MjRjMzM1ZDdmYzkzNWIwN2E3MmY0NDRi`
+Snapshot ID: `MCxkOGUwNDk5YmM0NTAzZjAwNjg5ZGFjYmU3NzNlNDBiYzc3MDU5MmU5`

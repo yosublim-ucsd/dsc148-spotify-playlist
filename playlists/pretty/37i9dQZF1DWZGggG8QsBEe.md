@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,011 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,039 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 14 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 |
 | 15 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 |
 | 16 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 |
-| 17 | [Waterfall Dreams](https://open.spotify.com/track/6ZZmLyTu2EfwQhY0220SKv) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Waterfall Dreams](https://open.spotify.com/album/2lTjQqSorysseG5GuBv4cB) | 3:18 |
-| 18 | [Relaxing Waterfall](https://open.spotify.com/track/4EqeYEXkNDwCmVAaSDp8Pp) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Relaxing River](https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv) | 3:23 |
+| 17 | [Relaxing Waterfall](https://open.spotify.com/track/4EqeYEXkNDwCmVAaSDp8Pp) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Relaxing River](https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv) | 3:23 |
+| 18 | [Waterfall Dreams](https://open.spotify.com/track/6ZZmLyTu2EfwQhY0220SKv) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Waterfall Dreams](https://open.spotify.com/album/2lTjQqSorysseG5GuBv4cB) | 3:18 |
 | 19 | [Take Me Down the River](https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 |
 | 20 | [Waterfall Stream](https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:24 |
 | 21 | [Plattekill River](https://open.spotify.com/track/3cyLymtvq4PI0etgqfxv5C) | [Blue Stone Sanctuary](https://open.spotify.com/artist/6FGkUJ63qsP7AEvATT5cK9) | [Wilderness Trail](https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0) | 2:42 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 26 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 |
 | 27 | [Waterfall Noise](https://open.spotify.com/track/3OUrN6pqs0odLhgROLiGKR) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 4:06 |
 | 28 | [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 |
-| 29 | [River Spirit](https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:44 |
-| 30 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
+| 29 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
+| 30 | [River Spirit](https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:44 |
 | 31 | [Stream after Rainfall](https://open.spotify.com/track/6oFpFzqMPOyVGN42WvYeBx) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:12 |
 | 32 | [Waterfall](https://open.spotify.com/track/20Ni1eLWzkaqx8d55X8Par) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep White Noise](https://open.spotify.com/album/4vPYOEzg31z0Nc6stLRLgL) | 3:47 |
 | 33 | [Waterfall for Deep Sleep](https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ) | [Waterfall in the distance](https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj) | [Waterfall in the distance](https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy) | 3:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 45 | [Soft Waterfall](https://open.spotify.com/track/06H8N0D5WW10txUrCnwGZc) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Relaxing Waterfalls](https://open.spotify.com/album/4yUvywqKl4dCSiCDf8RiOI) | 3:13 |
 | 46 | [Sleeping Waterfall](https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Meditation Waterfall](https://open.spotify.com/album/78efjczcIzHjNV12gdwgku) | 3:31 |
 | 47 | [Brown noise \- Waterfall](https://open.spotify.com/track/1F7zuMIXTEYQcXEHYMPa29) | [Leanna Woo](https://open.spotify.com/artist/55DJCZDImu8v60VnOwErmz) | [White Noise Magic](https://open.spotify.com/album/0kyZ4Hnwyv3ANtL5nPPgEe) | 2:21 |
-| 48 | [Waterfalls in the Distance \(No Fade\)](https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Water, Rain and Rivers](https://open.spotify.com/album/4eAsgCIds4uzsQuSCzLkDh) | 2:48 |
-| 49 | [Serene Waterfall \- Seamless](https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Serene Waterfall](https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T) | 2:55 |
+| 48 | [Serene Waterfall \- Seamless](https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Serene Waterfall](https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T) | 2:55 |
+| 49 | [Waterfalls in the Distance \(No Fade\)](https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Water, Rain and Rivers](https://open.spotify.com/album/4eAsgCIds4uzsQuSCzLkDh) | 2:48 |
 | 50 | [Soothing Forest Waterfall](https://open.spotify.com/track/4lWrHfVrp7PmP5bJ4CaiKo) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Relaxing Waterfalls](https://open.spotify.com/album/4yUvywqKl4dCSiCDf8RiOI) | 3:30 |
 
-Snapshot ID: `MCw5ZjM0MDY2Zjk2ZWQ3ZjU4ZGM0NWU1MzI5MDhlZDhhNjYwMWM1YjVi`
+Snapshot ID: `MCw2YTVjODJjMmExMDNlYjhkNGRiN2UwMjNiMWQzNmI5MmMzYjU5NTIz`

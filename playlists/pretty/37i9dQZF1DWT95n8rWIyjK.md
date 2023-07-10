@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,871 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,910 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 47 | [ANTES](https://open.spotify.com/track/7KJHuEzdJfvD6bI3ACWWYn) | [Dan Garcia](https://open.spotify.com/artist/4hWPyaa53cWbO2DB7SqWkn) | [ANTES](https://open.spotify.com/album/5qXRWUtHuXBXNsrXx7GXf3) | 4:27 |
 | 48 | [La Rafaga](https://open.spotify.com/track/2yiVyysMvBr9n6dRblEAii) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [La Rafaga](https://open.spotify.com/album/5Sy8Oe9seNsJ4ZSBDo9Osb) | 2:37 |
 
-Snapshot ID: `MCwxNmVhYjg5ZDkyYjUxNzY3YTJlMzQ1NDRjNzYyZmZmODdhMTBlMTg1`
+Snapshot ID: `MCwyOGM0NmY1MjU1MDk0OTRmZjM2YmQxYTgwNTUwZjI2NWI2ZmRkNGIy`

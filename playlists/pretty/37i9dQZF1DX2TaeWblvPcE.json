@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6881,
+  "num_followers": 6893,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
+  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 263779,
-      "name": "Is You - Instrumental",
-      "url": "https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 262720,
       "name": "Moonchild Ballad - Instrumental",
       "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 263779,
+      "name": "Is You - Instrumental",
+      "url": "https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Descendants Of The Sun Pt.9 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1ijtrIo5LrIB0TxJVFXNUL"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 235814,
-      "name": "Wind Beneath Your Wings - Instrumental",
-      "url": "https://open.spotify.com/track/4S9b2RkYjv9fp3D9pTE5h1"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+        "name": "Descendants Of The Sun Pt.9 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1ijtrIo5LrIB0TxJVFXNUL"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Every second - Instrumental",
-      "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
+      "duration_ms": 235814,
+      "name": "Wind Beneath Your Wings - Instrumental",
+      "url": "https://open.spotify.com/track/4S9b2RkYjv9fp3D9pTE5h1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -579,6 +563,22 @@
       "duration_ms": 251173,
       "name": "You're My End and My Beginning - Instrumental",
       "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Every second - Instrumental",
+      "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
-      },
-      "artists": [
-        {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
-        }
-      ],
-      "duration_ms": 298699,
-      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
-      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 270693,
       "name": "Shine On You - Instrumental",
       "url": "https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 298699,
+      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
+      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "DINNER MATE (Original Television Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/3wqQxZqOdOs2pNpyvBUQwD"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/0Vf8C6i7OSDzpLCzHycRkK"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 250000,
       "name": "Love Message - Instrumental",
       "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "DINNER MATE (Original Television Soundtrack) Pt.4",
-        "url": "https://open.spotify.com/album/3wqQxZqOdOs2pNpyvBUQwD"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "More Than Words - Instrumental",
-      "url": "https://open.spotify.com/track/0Vf8C6i7OSDzpLCzHycRkK"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Kkondae Intern OST Part 3",
+        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 307426,
+      "name": "Uphill (Inst.)",
+      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 181680,
       "name": "OH NONONO - Instrumental",
       "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Kkondae Intern OST Part 3",
-        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 307426,
-      "name": "Uphill (Inst.)",
-      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 229415,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The Best of BTS, Vol. 2",
         "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 250224,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Lovesick Girls",
-        "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 204648,
       "name": "Dynamite - Piano Cover",
       "url": "https://open.spotify.com/track/4numcWrrlJaISYq3s9UDQO"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Lovesick Girls",
+        "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
     },
     {
       "added_at": "2022-11-02 13:40:53",

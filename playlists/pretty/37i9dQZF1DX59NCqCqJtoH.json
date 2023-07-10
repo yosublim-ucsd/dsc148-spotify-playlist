@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1144260,
+  "num_followers": 1144228,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjk2YzZkMGJhMjI3NWEwN2M4ZWM3MjQxYWY0OTUzNDI2NGQxYmU2",
+  "snapshot_id": "MCxmNWY1YjZkYmRjMDA0MmFiZDg2ODc5MTVlMjM3ZmNhNDkwOWRmNTg0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "I'm Not Enough and I'm Sorry",
+        "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 120035,
+      "name": "I'm Not Enough and I'm Sorry",
+      "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 155271,
       "name": "Home for the Summer",
       "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "I'm Not Enough and I'm Sorry",
-        "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
-      },
-      "artists": [
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 120035,
-      "name": "I'm Not Enough and I'm Sorry",
-      "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "please never fall in love again",
-        "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
-      },
-      "artists": [
-        {
-          "name": "Feyesal",
-          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
-        },
-        {
-          "name": "Ollie MN",
-          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
-        }
-      ],
-      "duration_ms": 157642,
-      "name": "please never fall in love again",
-      "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "i'd rather be alone",
         "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "please never fall in love again",
+        "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
+      },
+      "artists": [
+        {
+          "name": "Feyesal",
+          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
+        },
+        {
+          "name": "Ollie MN",
+          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+        }
+      ],
+      "duration_ms": 157642,
+      "name": "please never fall in love again",
+      "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 165177,
-      "name": "lost a friend",
-      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Wavvy",
         "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 107369,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+      "duration_ms": 165177,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-322 songs - 18 hr 35 min
+323 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ay de Mi!](https://open.spotify.com/track/4wI84MgkVbVyP9VQ8A8xIU) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/02j0e4gNaEeGdo4qK6fgfD) | 2:49 | 2022-04-07 | 2022-07-07 |
 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 | 2021-12-09 | 2022-10-28 |
 | [Bachata Rosa](https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Bachata Rosa](https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV) | 4:15 | 2021-12-09 |  |
-| [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 | 2023-06-16 |  |
+| [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 | 2023-06-16 | 2023-07-10 |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/track/67507AwT1mSegl0VA5qSCE) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/album/7g0hzIsFEDIcTBLpcnZk1Q) | 4:24 | 2022-04-07 | 2022-04-21 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2022-04-07 |  |
 | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/track/2TFURBkXGWzxdf2OLMLtDq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:54 | 2022-05-14 |  |
@@ -282,6 +282,7 @@
 | [tbb](https://open.spotify.com/track/1pTpdcsCrVf1gFKpDFJMzh) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [tbb](https://open.spotify.com/album/2hthjfFHdByKsE59P68CXI) | 2:51 | 2022-12-30 | 2023-05-15 |
 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 | 2021-12-09 |  |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Te Alejas Más De Mí](https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9) | 3:39 | 2022-04-07 | 2022-09-22 |
+| [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 | 2023-07-07 |  |
 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 | 2022-08-05 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 | 2022-05-14 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/475RvHwQ9OvQWtl3gEl280) | 4:00 | 2021-12-09 | 2022-07-29 |

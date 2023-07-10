@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 380830,
+  "num_followers": 380897,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjJmMzk2ZTUzNTQ5NjkxNzU1MmYwZjEzMGQ3NjIwZWFiYzFiOTRl",
+  "snapshot_id": "MCxmZWIzYTcwMzc2OWZlZjlkOTYyNTJlNjZiZDlkZDhlNjBmMDM5NGEz",
   "tracks": [
     {
       "added_at": "2023-06-21 08:12:25",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 185613,
       "name": "Compromises",
       "url": "https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -703,38 +703,6 @@
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "Cloudland",
-        "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Gr\u00e9gory Privat",
-          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        },
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        },
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 274802,
-      "name": "Cloudland",
-      "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -783,6 +751,38 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
+        "name": "Cloudland",
+        "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 274802,
+      "name": "Cloudland",
+      "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
         "name": "Flotten",
         "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
         "name": "The Jazz Seekers",
         "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 287676,
       "name": "Night Creatures",
       "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+        }
+      ],
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
       },
       "artists": [
         {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
         }
       ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -987,22 +1003,6 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
-      },
-      "artists": [
-        {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
-        }
-      ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
+      },
+      "artists": [
+        {
+          "name": "Oilly Wallace",
+          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
+        },
+        {
+          "name": "Johannes Wamberg",
+          "url": "https://open.spotify.com/artist/7yExmYa8Owoe73xabfjOWY"
+        }
+      ],
+      "duration_ms": 285770,
+      "name": "Mosa\u00efque",
+      "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
-      },
-      "artists": [
-        {
-          "name": "Oilly Wallace",
-          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
-        },
-        {
-          "name": "Johannes Wamberg",
-          "url": "https://open.spotify.com/artist/7yExmYa8Owoe73xabfjOWY"
-        }
-      ],
-      "duration_ms": 285770,
-      "name": "Mosa\u00efque",
-      "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1503,46 +1503,18 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "Elisian/Inutil Paisagem",
-        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
       },
       "artists": [
         {
-          "name": "Michel Benita",
-          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
-        },
-        {
-          "name": "Matthieu Michel",
-          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
-        },
-        {
-          "name": "Jozef Dumoulin",
-          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
-        },
-        {
-          "name": "Philippe Garcia",
-          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
         }
       ],
-      "duration_ms": 296253,
-      "name": "Elisian/Inutil Paisagem",
-      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+      "duration_ms": 230337,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1575,18 +1547,46 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
         }
       ],
-      "duration_ms": 230337,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
+        "name": "Elisian/Inutil Paisagem",
+        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
+      },
+      "artists": [
+        {
+          "name": "Michel Benita",
+          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
+        },
+        {
+          "name": "Matthieu Michel",
+          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
+        },
+        {
+          "name": "Jozef Dumoulin",
+          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
+        },
+        {
+          "name": "Philippe Garcia",
+          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
+        }
+      ],
+      "duration_ms": 296253,
+      "name": "Elisian/Inutil Paisagem",
+      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
+        "name": "Love Is in the Air",
+        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225707,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
+    },
+    {
+      "added_at": "2023-06-21 08:12:25",
+      "album": {
         "name": "Los Bandidos Bogarolles",
         "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 415106,
       "name": "Los Bandidos Bogarolles",
       "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
-    },
-    {
-      "added_at": "2023-06-21 08:12:25",
-      "album": {
-        "name": "Love Is in the Air",
-        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225707,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
     },
     {
       "added_at": "2023-06-21 08:12:25",
@@ -1895,18 +1895,26 @@
     {
       "added_at": "2023-06-21 08:12:25",
       "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
       "artists": [
         {
-          "name": "Steve Kuhn",
-          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
-      "duration_ms": 298866,
-      "name": "A Change Of Face",
-      "url": "https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5"
+      "duration_ms": 301783,
+      "name": "June 2nd",
+      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     }
   ],
   "unique_name": "Good Morning Jazz",

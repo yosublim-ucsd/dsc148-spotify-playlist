@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Sena Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,260 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,257 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 35 | [Lado 13 Do Mapa](https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [dantt](https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ) | [Lado 13 Do Mapa](https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1) | 2:25 |
 | 36 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 37 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
-| 38 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
+| 38 | [Crime News](https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz) | [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [Crime News](https://open.spotify.com/album/1ck3b97uQKCHDREDE9N9oH) | 2:31 |
 | 39 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
-| 40 | [Crime News](https://open.spotify.com/track/7ablZKsNCjMgEA3IwyFwqz) | [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [Crime News](https://open.spotify.com/album/1ck3b97uQKCHDREDE9N9oH) | 2:31 |
+| 40 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 41 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 | 42 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
 | 43 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 48 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 |
 | 49 | [Runner \- Ao Vivo](https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Runner \(Ao Vivo\)](https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy) | 2:12 |
 
-Snapshot ID: `MCwyNTg5MWU4MzhjM2JlMzQ1YjQwZGI3OGMyNmMwOGUwNzBkZDE3MmQ3`
+Snapshot ID: `MCwwMGM3ODU0MGRlZTU1MGVhYjI4ZGMyYjNhNDlmZTc1ZDg3ZjVhNzk1`

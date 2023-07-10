@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18852,
+  "num_followers": 18864,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0",
+  "snapshot_id": "MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
-    },
-    {
       "added_at": "2022-06-30 01:12:56",
       "album": {
         "name": "Slopped + Chewed, Volume 1",
@@ -839,6 +823,22 @@
       "duration_ms": 259933,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2021-09-10 04:35:25",

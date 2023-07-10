@@ -4,7 +4,7 @@
 
 > Lavando e louvando a Deus com grandes hinos.
 
-176 songs - 17 hr 3 min
+177 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Tua Glória Faz](https://open.spotify.com/track/19N7xuxcIcla9KTrLnUFa7) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Gospel Collection Ao Vivo](https://open.spotify.com/album/72CkZtq2RGhouVnMGJiswi) | 4:43 | 2022-04-15 | 2022-05-30 |
 | [A Vitória Chegou](https://open.spotify.com/track/70IZzestu90y9kED9Y84xW) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz), [Luanna Dourado](https://open.spotify.com/artist/5TZcTF1bRTO4saqs5a84uz) | [A Vitória Chegou](https://open.spotify.com/album/3nFXKsVdS8kjiRmNz5QqVI) | 3:48 | 2022-04-15 | 2022-06-15 |
 | [A Vitória Chegou](https://open.spotify.com/track/0McSPomzSJmikLJaN7vmPb) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz), [Luanna Dourado](https://open.spotify.com/artist/5TZcTF1bRTO4saqs5a84uz) | [Pra Todo Mundo Ouvir](https://open.spotify.com/album/5zrda93TUp1ocxGB68NKaP) | 3:48 | 2022-04-15 | 2022-08-09 |
-| [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2021-12-03 |  |
+| [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2021-12-03 | 2023-07-10 |
 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 | 2021-12-03 |  |
 | [Acredito \(We Believe\)](https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Acredito \(We Believe\)](https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC) | 3:49 | 2022-04-15 | 2022-12-02 |
 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 | 2022-04-15 | 2022-07-14 |
@@ -33,6 +33,7 @@
 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 | 2021-12-03 | 2022-07-29 |
 | [Bom Perfume](https://open.spotify.com/track/3uQwNZP7npNIGFvE3gk47Z) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Até Que Toda Terra Cante](https://open.spotify.com/album/5Yq0JJJMjNjY7jLVjYsSkB) | 8:06 | 2022-03-04 | 2022-07-29 |
 | [Braços de Amor](https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Braços de Amor](https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig) | 5:32 | 2022-03-04 | 2022-05-12 |
+| [Caminho no Deserto](https://open.spotify.com/track/1Tf9hIsJTzi89hzu6cbrNn) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho no Deserto](https://open.spotify.com/album/3o7rUAaMzdkXPjHfD2trXN) | 5:33 | 2023-06-02 |  |
 | [Caminho No Deserto](https://open.spotify.com/track/3XzZiSfNlMbyJjbCW1QtyQ) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho No Deserto](https://open.spotify.com/album/37bI6JN6u6APDmv2Ew0wwl) | 5:33 | 2021-12-03 | 2022-07-29 |
 | [Caminho no Deserto](https://open.spotify.com/track/6T6P23pVlhZdY2apyAtL1O) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho no Deserto](https://open.spotify.com/album/54C7SYkNSCVdvih743HKDZ) | 5:33 | 2022-04-15 | 2023-05-05 |
 | [Canção do Apocalipse \- Ao Vivo](https://open.spotify.com/track/0DHpr7eLBrRZvlXa4sNwhd) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Aleluia \- Diante do Trono 13 \(Ao Vivo\)](https://open.spotify.com/album/0zjeMVBRY1Urt1TkDJ8qY8) | 7:17 | 2022-04-15 | 2022-04-18 |

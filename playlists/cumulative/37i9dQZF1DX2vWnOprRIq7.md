@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Varese.
 
-150 songs - 9 hr 2 min
+151 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Con la gata y tus mentiras](https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Con la gata y tus mentiras](https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX) | 3:45 | 2023-07-07 |  |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2023-03-17 | 2023-07-08 |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 | 2023-07-08 |
-| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 |  |
+| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 | 2023-07-10 |
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
@@ -50,6 +50,7 @@
 | [Dice que cambió](https://open.spotify.com/track/2FXgkkcXVbcof5tAaRJnHQ) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Tinitus](https://open.spotify.com/artist/79cKpnNgBDiqV1LX0VY96O), [MaisonMusic](https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9) | [Dice que cambió](https://open.spotify.com/album/43pw905y2K62roRunMGYRl) | 3:11 | 2023-06-16 |  |
 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 | 2023-03-17 | 2023-07-08 |
 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2023-04-07 |  |
+| [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 |  |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 |  |
 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 | 2023-06-17 |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 |  |

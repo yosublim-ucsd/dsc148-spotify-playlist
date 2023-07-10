@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,713 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,756 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 25 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
 | 26 | [Tea Parties With Dale Earnhardt](https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Tea Parties With Dale Earnhardt](https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl) | 1:41 |
 | 27 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 |
-| 28 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
-| 29 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 |
-| 30 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
+| 28 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 |
+| 29 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
+| 30 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
 | 31 | [antifreeze\*](https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [antifreeze\*](https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o) | 2:02 |
 | 32 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 |
 | 33 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 40 | [Pool Hopping](https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:07 |
 | 41 | [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 |
 | 42 | [Problem](https://open.spotify.com/track/687kVR9VK3VtaT3quGOe3y) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/5vq7LWqM1uG30jVJNKko2j) | 2:57 |
-| 43 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
-| 44 | [Death of Me](https://open.spotify.com/track/65WzVVqyzkRzSOmM2kovls) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:40 |
+| 43 | [Death of Me](https://open.spotify.com/track/65WzVVqyzkRzSOmM2kovls) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:40 |
+| 44 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 45 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
 | 46 | [Silly Boy](https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:18 |
 | 47 | [Telephones 4 Eyes](https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Telephones 4 Eyes](https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa) | 3:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 61 | [Bloom](https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 3:50 |
 | 62 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
 | 63 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 64 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
-| 65 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
+| 64 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
+| 65 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
 | 66 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
 | 67 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 |
 | 68 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 71 | [bored](https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:30 |
 | 72 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
 | 73 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
-| 74 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
-| 75 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
+| 74 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
+| 75 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 | 76 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
-| 77 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
-| 78 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
-| 79 | [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 |
+| 77 | [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 |
+| 78 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 79 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 80 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
 
-Snapshot ID: `MCw3ZmY4Njc0YzViNDJhNDYxNjdkN2Y3NmZhNTBhMGM4ODUxMTZmNmJm`
+Snapshot ID: `MCxmODhjM2RjNGU2MzZhOTI5ZjZjMzBjNmM1NWQ1NjM5ZGJhZmRkYTM5`

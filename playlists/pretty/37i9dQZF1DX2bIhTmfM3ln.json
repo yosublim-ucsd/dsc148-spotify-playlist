@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 11585,
+  "num_followers": 11634,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWI1NTQzOTI4Njc3NDMxMTllMjA1OTM0NzFmZTM3ZjVkMjNjODll",
+  "snapshot_id": "MCw1ODgxNzU0ODY4Y2E3NWUzMTNkNjdhZjcyNTFhNmJlZTZiNWNjMzkx",
   "tracks": [
     {
       "added_at": "2023-06-30 07:53:18",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 202186,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -467,22 +471,18 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 202186,
-      "name": "No love",
-      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
+    },
+    {
+      "added_at": "2023-06-30 07:53:18",
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-06-30 07:53:18",
-      "album": {
-        "name": "Loju (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Loju (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
-    },
-    {
-      "added_at": "2023-06-30 07:53:18",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-06-30 07:53:18",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
-    },
-    {
-      "added_at": "2023-06-30 07:53:18",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-06-30 07:53:18",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2023-06-30 07:53:18",
+      "album": {
         "name": "C'est quand qu'il s'\u00e9teint ?",
         "url": "https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 224840,
       "name": "Uwa Ni L\u00e9",
       "url": "https://open.spotify.com/track/0x6ynQ608fmoeQJGpecuh5"
-    },
-    {
-      "added_at": "2023-06-30 07:53:18",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
-    },
-    {
-      "added_at": "2023-06-30 07:53:18",
-      "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
@@ -1431,22 +1411,42 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "Currency",
-        "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 178144,
-      "name": "Currency",
-      "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
+      "duration_ms": 176603,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
+    },
+    {
+      "added_at": "2023-06-30 07:53:18",
+      "album": {
+        "name": "PARIWO",
+        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 120439,
+      "name": "PARIWO",
+      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
     },
     {
       "added_at": "2023-06-30 07:53:18",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-06-30 07:53:18",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 178144,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
     }
   ],
   "unique_name": "Lovin' Beats",

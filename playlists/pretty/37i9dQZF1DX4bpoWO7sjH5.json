@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 31886,
+  "num_followers": 31882,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl",
+  "snapshot_id": "MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy",
   "tracks": [
     {
       "added_at": "2022-12-10 23:01:18",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Sigo Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/0236Yhp0TiVIjUcJy7h5eM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 328463,
-      "name": "Ni\u00f1o de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/6SG8XoBgrR5Q9qEuIxTpbR"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidad Con V\u00e1stago, Vol. 2",
         "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 217040,
       "name": "Un Cuento De Navidad",
       "url": "https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Sigo Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/0236Yhp0TiVIjUcJy7h5eM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 328463,
+      "name": "Ni\u00f1o de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/6SG8XoBgrR5Q9qEuIxTpbR"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "A Mar\u00eda",
-        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "A Mar\u00eda",
-      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidad Con V\u00e1stago",
         "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 263133,
       "name": "Dios Con Nosotros",
       "url": "https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "A Mar\u00eda",
+        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "A Mar\u00eda",
+      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1078,11 +1078,15 @@
         {
           "name": "Banda Horizonte",
           "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 227671,
-      "name": "Venid y Adoremos",
-      "url": "https://open.spotify.com/track/1lKX9IpaC0ntowPrpX8Nk0"
+      "duration_ms": 193282,
+      "name": "Es Navidad",
+      "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1258,15 +1262,11 @@
         {
           "name": "Banda Horizonte",
           "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Es Navidad",
-      "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
+      "duration_ms": 227671,
+      "name": "Venid y Adoremos",
+      "url": "https://open.spotify.com/track/1lKX9IpaC0ntowPrpX8Nk0"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
+        "name": "Lleg\u00f3 La Navidad",
+        "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 179895,
+      "name": "Jes\u00fas Naci\u00f3",
+      "url": "https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
         "name": "La Navidad es Jes\u00fas",
         "url": "https://open.spotify.com/album/6XqJivuGFhVC9DYXdFq6JP"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Lleg\u00f3 La Navidad",
-        "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 179895,
-      "name": "Jes\u00fas Naci\u00f3",
-      "url": "https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Plena Que Se Pega",
         "url": "https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 146533,
       "name": "Medley Coritos De Navidad",
       "url": "https://open.spotify.com/track/51LEeTB85rTK2jVULTmAz4"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Rojo Navidad (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/3f0NeEKuDPV0uVCpt131Bw"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 294220,
+      "name": "Ven A Mi Coraz\u00f3n Oh Cristo (Soundtrack) [2020 Remasterizado]",
+      "url": "https://open.spotify.com/track/33Hs4PhuhfNUYlxlJxOztt"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Rojo Navidad (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/3f0NeEKuDPV0uVCpt131Bw"
+        "name": "Tiempo de Navidad",
+        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
       },
       "artists": [
         {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 294220,
-      "name": "Ven A Mi Coraz\u00f3n Oh Cristo (Soundtrack) [2020 Remasterizado]",
-      "url": "https://open.spotify.com/track/33Hs4PhuhfNUYlxlJxOztt"
+      "duration_ms": 258390,
+      "name": "Santa la Noche",
+      "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Tiempo de Navidad",
-        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
+        "name": "Nattyvidad",
+        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
         }
       ],
-      "duration_ms": 258390,
-      "name": "Santa la Noche",
-      "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
+      "duration_ms": 264661,
+      "name": "Nattyvidad",
+      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1495,22 +1511,6 @@
       "duration_ms": 173480,
       "name": "All\u00e1 en el Pesebre",
       "url": "https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Nattyvidad",
-        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "Nattyvidad",
-      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1WrFOvNRLq3A6NqpL9yfEn"
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
       },
       "artists": [
         {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr"
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Cristianos Vayamos",
-        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/1WrFOvNRLq3A6NqpL9yfEn"
       },
       "artists": [
         {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
         }
       ],
-      "duration_ms": 227705,
-      "name": "Cristianos Vayamos",
-      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
+      "duration_ms": 183533,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr"
     },
     {
       "added_at": "2022-12-10 23:01:18",

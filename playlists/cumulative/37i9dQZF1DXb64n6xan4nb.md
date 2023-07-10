@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-127 songs - 8 hr 49 min
+128 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [밤하늘의 별을.\. \(with 케이씨엠 & No Noo\)](https://open.spotify.com/track/5TabiQuYejFHNe9NjY1mYb) | [Yang Jung Seung](https://open.spotify.com/artist/0y9XSQQypiA42VucoJlVB0), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [No Noo](https://open.spotify.com/artist/5VPAk7Wk1mTVvVMJ9NiJpG) | [Generation](https://open.spotify.com/album/0Uc0sXadTVlym7WxpQo0E0) | 3:45 | 2022-06-13 | 2023-03-12 |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2022-06-13 |  |
 | [별](https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [미녀는 괴로워 Original Motion picture Soundtrack](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) | 5:02 | 2022-06-13 | 2023-06-04 |
-| [별](https://open.spotify.com/track/0NvwCoEdytEBFYc5L9rX3R) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [사랑해 Pt.1](https://open.spotify.com/album/0qhPKtOEMgFV5UsmXY7o53) | 5:02 | 2022-06-13 |  |
+| [별](https://open.spotify.com/track/0NvwCoEdytEBFYc5L9rX3R) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [사랑해 Pt.1](https://open.spotify.com/album/0qhPKtOEMgFV5UsmXY7o53) | 5:02 | 2022-06-13 | 2023-07-10 |
 | [비밀번호 486](https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 3:48 | 2022-06-13 |  |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-06-13 |  |
 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 | 2022-06-13 | 2023-04-06 |
@@ -135,5 +135,6 @@
 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 | 2022-06-13 |  |
 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 | 2022-06-13 |  |
 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 | 2022-06-13 |  |
+| [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2023-02-21. Prior content cannot be recovered.

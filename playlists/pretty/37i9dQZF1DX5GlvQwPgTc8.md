@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,843 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 29 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 |
 | 30 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 |
 | 31 | [Games Continued \(feat\. Marie Plassard\) \- Radio Edit](https://open.spotify.com/track/64dkTKKNLwbjBuU4xnS2ei) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Marie Plassard](https://open.spotify.com/artist/4410KJQAwvZ7K5LZrSo2Es) | [Games \(feat\. Marie Plassard\)](https://open.spotify.com/album/0uCoaNdQ32ZMk0XJXYGI4Y) | 3:23 |
-| 32 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
-| 33 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6) | 6:18 |
+| 32 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6) | 6:18 |
+| 33 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 34 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 35 | [Everybody Hates Me](https://open.spotify.com/track/6ufrOaf4v6Qady6GiIpQ0s) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:43 |
 | 36 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Hey Hey](https://open.spotify.com/track/0R8dsqbzcoHoqUN5MLWyOi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/3hsd4yQ7Bk7k2OpRyGTtF1) | 3:10 |
 | 50 | [Particula](https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:24 |
 
-Snapshot ID: `MCw5YzEzMTY2MzBiNTNjMDMwMzQyNzc1YWQyYzBjNTljYzZkYTc4Zjc1`
+Snapshot ID: `MCxmMzk0YTc5MWQ0ZjkxOWM3ZjVjNzRjMDk2NWY1YzNhMTE5ZmNiNmI4`

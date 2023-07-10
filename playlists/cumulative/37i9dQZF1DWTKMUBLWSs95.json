@@ -2127,6 +2127,48 @@
     },
     {
       "album": {
+        "name": "One World",
+        "url": "https://open.spotify.com/album/4Rp1dc3xxnzSsozWZpJ8GQ"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Kathryn Rudge",
+          "url": "https://open.spotify.com/artist/4L1Pean2fHkBVQcwe7pgxc"
+        },
+        {
+          "name": "Krzysztof Wisniewski",
+          "url": "https://open.spotify.com/artist/7xnL99PsU9VRt01g4oYDog"
+        },
+        {
+          "name": "Valentino Worlitzsch",
+          "url": "https://open.spotify.com/artist/2NWi9mHR8Fd8rLe1StqONJ"
+        },
+        {
+          "name": "World Orchestra For Peace",
+          "url": "https://open.spotify.com/artist/0b4AeSGTxYbEhum1ig6lEJ"
+        },
+        {
+          "name": "World Choir for Peace",
+          "url": "https://open.spotify.com/artist/2cyC1jphTBWbcf4l72v3c7"
+        },
+        {
+          "name": "Nicol Matt",
+          "url": "https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "Tikkun Olam (Repair the World)",
+      "url": "https://open.spotify.com/track/7flhZ8mwGH9FaoxvAFapna"
+    },
+    {
+      "album": {
         "name": "Tikkun Olam (Repair the World) [Instrumental]",
         "url": "https://open.spotify.com/album/6QNg4kHS1zs58ukDfbJrXE"
       },
@@ -2180,7 +2222,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 250760,
       "name": "Tikkun Olam (Repair the World) - Instrumental",
       "url": "https://open.spotify.com/track/3sRcLnWn4Wvp78Yj3t2SUB"

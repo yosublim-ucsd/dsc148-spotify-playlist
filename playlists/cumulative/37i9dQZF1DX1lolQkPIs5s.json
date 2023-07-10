@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Yasashii Kimochide (Elemental ver.)",
+        "url": "https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Yasashii Kimochide - Elemental ver.",
+      "url": "https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU"
+    },
+    {
+      "album": {
         "name": "My First Disney Original Soundtrack Best Japanese Version",
         "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
       },

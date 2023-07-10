@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,428 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,478 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 54 | [Dat Way \(Remix\) \[feat\. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K\-Trap & DoRoad\]](https://open.spotify.com/track/7rKJYIBkj1AJyGpiDwUo3H) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [DoRoad](https://open.spotify.com/artist/3E9T01xr1C6waIXZKe1vju), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Dat Way \(Remix\) \[feat\. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K\-Trap & DoRoad\]](https://open.spotify.com/album/6H7ndcY9LUys2h4MczxSNt) | 4:59 |
 | 55 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 56 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 |
-| 57 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 |
+| 57 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 | 58 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
-| 59 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
+| 59 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 |
 | 60 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 
-Snapshot ID: `MCwzZWE5OWFiOTIwNWJkZDA5ZDk4OWFjZTk0YzQxMjdmZjAzMTAxNDU2`
+Snapshot ID: `MCw1ZjI5ZjRhOGJkMzA4MTU4OTViN2ExODQ4MDg3ZWQ1MzMyODdjZDAx`

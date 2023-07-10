@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,313 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,321 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 4 | [Mantém o Pique](https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Mantém o Pique](https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z) | 2:43 |
 | 5 | [Trenzão](https://open.spotify.com/track/2TOKZLptHNxrBJAwLCSdpV) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [MAKE MONEY](https://open.spotify.com/artist/4JKCnq98BprDTXyYHSbQSO) | [Trenzão](https://open.spotify.com/album/53hPKNIj6Txy9ArWxzxkQe) | 3:20 |
 | 6 | [Onda de Assalto](https://open.spotify.com/track/1rYKiy1hWK6JemMTxoo4K6) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Onda de Assalto](https://open.spotify.com/album/4jrmHuGRsqLn5cLeegYmg1) | 2:35 |
-| 7 | [Estrela Bet Freestyle](https://open.spotify.com/track/3uqYaL4hWnUDw3EgKsAQA4) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Estrela Bet Freestyle](https://open.spotify.com/album/1N1fWrc46HceB0bNwmTitR) | 2:39 |
+| 7 | [Estrela Bet Freestyle](https://open.spotify.com/track/3uqYaL4hWnUDw3EgKsAQA4) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Estrela Bet Freestyle](https://open.spotify.com/album/1N1fWrc46HceB0bNwmTitR) | 2:20 |
 | 8 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 |
 | 9 | [Me Diz](https://open.spotify.com/track/3vyOyDDfa8ukMfOeYoVJ6Z) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Sonni](https://open.spotify.com/artist/7C0jI6kw7gxWExK4yY16VU) | [Me Diz](https://open.spotify.com/album/1JImyJOeZsGweYxYGgMjHu) | 2:52 |
 | 10 | [Chandon](https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Master Pe](https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW) | [Chandon](https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxjYzJmZDhkZDA2ODI3NDg3NjY3NWUyZDE5MGMwODUxZjIwYzY2Njg0`
+Snapshot ID: `MCxjMGYyNmU4ZWQ5N2RlZDJmYjlkZGNmMTEwM2ViZTNiN2U5MzI4NmRj`

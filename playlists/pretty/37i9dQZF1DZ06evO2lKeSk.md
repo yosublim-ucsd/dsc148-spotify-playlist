@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,987 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,154 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 15 | [No Te Hago Falta](https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 4:58 |
 | 16 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 |
 | 17 | [Ni un Roce \(Nem um Toque\)](https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:30 |
-| 18 | [Cómo Olvidar](https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:20 |
+| 18 | [Y Aquí Estoy](https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 3:44 |
 | 19 | [Eres Todo en Mí \(You're My Everything\)](https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 5:10 |
 | 20 | [A Pesar de Todo](https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:48 |
-| 21 | [Y Aquí Estoy](https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 3:44 |
+| 21 | [Cómo Olvidar](https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:20 |
 | 22 | [Soy Como Quise Ser](https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Soy Como Soy](https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV) | 3:25 |
 | 23 | [Parece Que Fue Ayer](https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:09 |
 | 24 | [Me Equivoqué Contigo](https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Solo Quiero Ser Amada](https://open.spotify.com/track/3hHZV1O1yWYzxSczYEow2d) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:29 |
 | 50 | [En la Oscuridad](https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:55 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBmZTBhYWEzYzUyNTk2NzczNjFlNDBhNmUyNDBmNjdkYQ==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDA1ODI3ZWNiNTlhNjZlMDI1NGFmMGE2MTYyZTBiZDgxMQ==`

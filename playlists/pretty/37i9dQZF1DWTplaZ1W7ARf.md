@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,032 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,044 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 |
 | 50 | [Grammy \(with Lil Poppa\)](https://open.spotify.com/track/4fzxnGw9J2e8Am2uWA5P2U) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Grammy](https://open.spotify.com/album/1wXjCeqYNwrOjGCLVU7ay1) | 2:56 |
 
-Snapshot ID: `MCwwYzNhODMyMDhmNmZmNjk1ZjFkYjhkMTYxNzkzMmRhNTUyNTZkMDdj`
+Snapshot ID: `MCw1MTM0OTExY2E4NDNlZmRlYjBmNmE4NDRiMjk1NmQ5OWRkNDNmMTI0`

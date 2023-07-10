@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,536 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,582 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 30 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
 | 31 | [With Every Act of Love](https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have the Final Word](https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr) | 3:36 |
 | 32 | [Thank God I Got Her](https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Let It Fly](https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9) | 3:15 |
-| 33 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
-| 34 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
+| 33 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
+| 34 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 35 | [God Gave Me You](https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6) | 3:48 |
 | 36 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 37 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 57 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
 | 58 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
 | 59 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
-| 60 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
-| 61 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
+| 60 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
+| 61 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
 | 62 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
 | 63 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
 | 64 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 68 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 |
 | 69 | [Pretty Beautiful](https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:07 |
 | 70 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
-| 71 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
-| 72 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
-| 73 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
-| 74 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 |
+| 71 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 |
+| 72 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
+| 73 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
+| 74 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
 | 75 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
 | 76 | [Easy](https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:31 |
 | 77 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 100 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 
-Snapshot ID: `MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw`
+Snapshot ID: `MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl`

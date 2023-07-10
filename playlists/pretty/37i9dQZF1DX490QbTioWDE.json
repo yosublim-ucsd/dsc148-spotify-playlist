@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: BM & Luck Ra.",
-  "num_followers": 609566,
+  "num_followers": 609746,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjk4ZDA2OTIzMzUzNjIyOTJjNTljYTE4MDhhNDRlNzZmMzFmMTYz",
+  "snapshot_id": "MCwwOTA1N2JiMGFhYzVjZjBlOWJhMzEwN2I0MzA0MWYzMjQwMTczMzEy",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Tu Peor Enemigo",
-        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 201109,
-      "name": "Tu Peor Enemigo",
-      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -1755,18 +1739,34 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
       },
       "artists": [
         {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "El 22",
+        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 480888,
+      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
+      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "El 22",
-        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
         }
       ],
-      "duration_ms": 480888,
-      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
-      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2023-07-07 03:00:00",

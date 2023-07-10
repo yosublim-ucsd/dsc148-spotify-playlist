@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,619 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,673 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
 | 50 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
 
-Snapshot ID: `MCxlMzA0OTQwOTA2MWY5MjYyYTVjOWQ5MGMxMGU4MTMxMGYwY2FjMTg0`
+Snapshot ID: `MCw2NjVjNTE0MmI0ZTA5YjM2ZTUzODdlYWY5ZWI5NWY1ZGZhNzJjNGFk`

@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Él Mató a un Policía Motorizado
 
-210 songs - 13 hr 0 min
+211 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Matizando](https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH) | 3:34 | 2022-07-01 |  |
 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/6V2WUdjJeJ6rBEFLLKy3Mc) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Me Dijiste Tu Nombre](https://open.spotify.com/album/4WUxXkSkjKAViAxa4aS1a9) | 3:03 | 2022-07-01 | 2023-06-10 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
-| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-07-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 | 2023-07-07 |  |
 | [Melodías Nublados](https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [Melodías Nublados](https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB) | 3:02 | 2022-03-19 |  |
 | [Men vs Men](https://open.spotify.com/track/0hYb8esbOsGwnqmfSDhGNV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Men vs Men](https://open.spotify.com/album/6Ha8T2JkW1ExteeCapbbWr) | 2:19 | 2022-02-18 |  |
 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 | 2022-04-29 |  |

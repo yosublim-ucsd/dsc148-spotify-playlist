@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,515 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,518 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 17 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 |
 | 18 | [Greeting](https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C) | 3:25 |
 | 19 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
-| 20 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
-| 21 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 |
+| 20 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 |
+| 21 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
 | 22 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 |
 | 23 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
 | 24 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 33 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 |
 | 34 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 |
 | 35 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 |
-| 36 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
-| 37 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
+| 36 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
+| 37 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
 | 38 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
 | 39 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 |
 | 40 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
 | 50 | [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 |
 
-Snapshot ID: `MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk`
+Snapshot ID: `MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm`

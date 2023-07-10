@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 92235,
+  "num_followers": 92354,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MThhOGMzY2M1ZTcyZmIwMWUxYjcxNGZhMTZmYTIyMTlmOWIzOWM4",
+  "snapshot_id": "MCxkY2Q2YjE4ZmZlMDQ4NjFhNDk1OWJhNTI1NzcyNDlkNjg2NjAxYjFi",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "La Fuerza Del Destino",
-      "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "\u00daltimas Noticias",
         "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 189013,
+      "name": "La Fuerza Del Destino",
+      "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -939,6 +939,22 @@
       "duration_ms": 186247,
       "name": "Yo Quiero Quebrarte",
       "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 315680,
       "name": "El Verde De Tus Ojos - Remix",
       "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "No Mientas Mas",
         "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 180012,
-      "name": "Cumbia Barulera",
-      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -1645,20 +1625,24 @@
       "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 201813,
-      "name": "La Coloreteada",
-      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
+      "duration_ms": 180012,
+      "name": "Cumbia Barulera",
+      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1679,6 +1663,22 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "La Coloreteada",
+      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1783,18 +1783,26 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Kumbia Kings",
+          "url": "https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Pee Wee Gonzalez",
+          "url": "https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
+      "duration_ms": 227200,
+      "name": "Sabes A Chocolate",
+      "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1831,26 +1839,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "THE BEST OF",
-        "url": "https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
-          "name": "Kumbia Kings",
-          "url": "https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir"
-        },
-        {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
-        },
-        {
-          "name": "Pee Wee Gonzalez",
-          "url": "https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Sabes A Chocolate",
-      "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2022-01-25 19:05:16",

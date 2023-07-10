@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 56 min
+57 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [La Chica De Mi Ayer](https://open.spotify.com/track/45SZZyXyZjs6aox30oGlQi) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:32 | 2022-10-26 | 2022-12-04 |
 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 | 2022-10-26 |  |
 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 | 2022-10-26 |  |
-| [La Puñalada](https://open.spotify.com/track/63ZtQzrp4WNK6uYggoza7K) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:05 | 2022-10-26 |  |
+| [La Puñalada](https://open.spotify.com/track/63ZtQzrp4WNK6uYggoza7K) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:05 | 2022-10-26 | 2023-07-10 |
 | [Me Vuelvo Loco por Vos](https://open.spotify.com/track/0HXYqKxtdHB9HLhjwPozcF) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 4:52 | 2022-10-26 |  |
 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-10-26 |  |
 | [Nada Mas](https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:30 | 2022-10-26 |  |
@@ -59,6 +59,7 @@
 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 | 2022-10-26 |  |
 | [Travestis](https://open.spotify.com/track/2OZPsTM3DylfeX7K8UWLSI) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 3:51 | 2022-10-26 |  |
 | [Un Camino Hasta Vos](https://open.spotify.com/track/5glk2ZR5FDNKWXWjb15om9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:38 | 2022-10-26 |  |
+| [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 | 2023-07-09 |  |
 | [Vamos Linda](https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:15 | 2022-10-26 |  |
 | [Verano traidor](https://open.spotify.com/track/54b9f1JmWzssvXIvBogR2u) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 6:51 | 2022-10-26 |  |
 | [Voy a Seguir Bailando](https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:23 | 2022-10-26 |  |

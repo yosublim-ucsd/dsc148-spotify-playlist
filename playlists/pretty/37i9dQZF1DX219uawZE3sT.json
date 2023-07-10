@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 120593,
+  "num_followers": 120665,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFkOTk1Y2ZjZmFjODUwYWQ3YTUyYjJmOThhNGIyZmM4ZjRlYWE1",
+  "snapshot_id": "MCxmZjk0ODQ2ZTVkNjMxMTFkNTM4ZDRiZDZlYjRiODZlODY1YzZmODVl",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Super #1's",
-        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Contra Viento Y Marea",
-      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     },
     {
       "added_at": "2022-05-06 18:32:26",

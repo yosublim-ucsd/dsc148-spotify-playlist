@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-434 songs - 1 day 2 hr 53 min
+435 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 | 2022-07-09 | 2022-11-13 |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2022-07-09 |  |
 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 | 2021-02-17 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 | 2023-04-05 |  |
 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2021-06-15 | 2023-07-02 |
 | [TEST DRIVE](https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:59 | 2022-07-09 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-02-17 |  |
@@ -382,7 +383,7 @@
 | [Tilted](https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine And The Queens](https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG) | 3:53 | 2022-01-05 | 2022-04-21 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2021-02-17 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-07-09 | 2023-03-16 |
-| [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2021-02-17 |  |
+| [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2021-02-17 | 2023-07-10 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2021-02-17 |  |
 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 | 2021-02-17 |  |
 | [True Love \(feat\. Lily Allen\)](https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 3:50 | 2021-02-17 |  |

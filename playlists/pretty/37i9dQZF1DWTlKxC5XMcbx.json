@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56870,
+  "num_followers": 56878,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTMxMmMyNTlhM2RhODYxMGMxMDk5YzMwOTFjMDEwNzZiZGIxM2Nh",
+  "snapshot_id": "MCxkYmI0MGRmZjk2ZjM5NWE1YTIxMWRiN2IxMDYxYTdiMTAyY2Q3ZTFi",
   "tracks": [
     {
       "added_at": "2023-06-26 03:30:57",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "From Gagarin's Point of View",
         "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 243333,
       "name": "From Gagarin's Point of View",
       "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
+        "name": "Tuesday Wonderland",
+        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Where We Used to Live",
+      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Tuesday Wonderland",
-        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Where We Used to Live",
-      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Stride",
         "url": "https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 396520,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
-      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Be Cool",
-        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
-      },
-      "artists": [
-        {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
-        }
-      ],
-      "duration_ms": 424243,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Everything I Play Is Funky",
         "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 431266,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
+      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Henderson",
+          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
+        }
+      ],
+      "duration_ms": 424243,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 206053,
       "name": "A Hundred Dreams from Now",
       "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-06-26 03:30:57",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-26 03:30:57",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
-    },
-    {
-      "added_at": "2023-06-26 03:30:57",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2023-06-26 03:30:57",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
     },
     {
       "added_at": "2023-06-26 03:30:57",

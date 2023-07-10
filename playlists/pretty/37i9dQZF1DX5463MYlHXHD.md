@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Cumbia pa' volar la chapa ñeri\. Foto: DobleP, Repiola & R Jota.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,924 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,037 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 86 | [El Mamado del Auto](https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk) | [Los Dragones](https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt) | [Salvaje](https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP) | 3:31 |
 | 87 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 |
 | 88 | [Rompe el Party \(Remix\)](https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Rompe el Party \(Remix\)](https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV) | 3:27 |
-| 89 | [Una Botella X Tu Amor](https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [El Pesa 9](https://open.spotify.com/artist/2u02lEnSZFFmpocK0jxZXq) | [Una Botella X Tu Amor](https://open.spotify.com/album/4d7TxPsGb8w6Ere4spc9Q2) | 2:58 |
+| 89 | [No Te Aguanto Más](https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 2:38 |
 | 90 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 |
-| 91 | [No Te Aguanto Más](https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 2:38 |
-| 92 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
-| 93 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 |
+| 91 | [Una Botella X Tu Amor](https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [El Pesa 9](https://open.spotify.com/artist/2u02lEnSZFFmpocK0jxZXq) | [Una Botella X Tu Amor](https://open.spotify.com/album/4d7TxPsGb8w6Ere4spc9Q2) | 2:58 |
+| 92 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 |
+| 93 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 94 | [ROCAMORA](https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [ROCAMORA](https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP) | 2:38 |
 | 95 | [Dale Zorrita](https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:21 |
 | 96 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 119 | [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 |
 | 120 | [Mari y Juana](https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:30 |
 
-Snapshot ID: `MCxjYWRjZWZmODFkMWU4ZGYxNzc3NTAwMzViN2Q0YmRjZTRhMTIyZTE4`
+Snapshot ID: `MCwyM2FlYmMyMGMzZTViNzRlMzI5Mjk3Njg3ZDlkNjhjYmQzYzQ4ZWJk`

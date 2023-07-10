@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,160 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,563 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 41 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 42 | [Quién Te Entiende](https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado](https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V) | 3:22 |
 | 43 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
-| 44 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 |
-| 45 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
-| 46 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
+| 44 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
+| 45 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 |
+| 46 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
 | 47 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
 | 48 | [El Último Beso](https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:52 |
 | 49 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 51 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 3:01 |
 | 52 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
 | 53 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
-| 54 | [Fantasia](https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Fantasia](https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm) | 2:35 |
-| 55 | [Una Vez Más](https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 2:39 |
+| 54 | [Una Vez Más](https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 2:39 |
+| 55 | [Fantasia](https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Fantasia](https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm) | 2:35 |
 | 56 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 57 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 |
 | 58 | [Cuándo sale la luna](https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:27 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 86 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 87 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
 | 88 | [Mi Forma De Sentir](https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Lo Mas Romantico De Pedro Fernandez](https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ) | 4:05 |
-| 89 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
+| 89 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
 | 90 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
-| 91 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
+| 91 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
 | 92 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 | 93 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
 | 94 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 124 | [Quiéreme](https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:25 |
 | 125 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 |
 
-Snapshot ID: `MCwzYjU3MTNlNDk3MWM5ZDQyNjkzMDNlZTA0OTE4YjM5NzdhZmVjODJm`
+Snapshot ID: `MCw1OGJhZjI5Yjg0MTMwNWQwZDc5MGZjYmNiMmQ3ZDZhM2E5ZWI5ZWZh`

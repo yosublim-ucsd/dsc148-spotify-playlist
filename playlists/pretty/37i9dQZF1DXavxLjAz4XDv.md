@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,213 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,223 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 59 | [Tofu on Fire](https://open.spotify.com/track/1JqGbX7D8Lh03W3WITm5VS) | [Shotaro Nakayama](https://open.spotify.com/artist/0qM6rCXSK4NRrB1Ucij1a1), [Taishuke Fujisawa](https://open.spotify.com/artist/08eE91OwwwZT0HriYw1xky) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:37 |
 | 60 | [Go Tell Aunt Rhody \-Dixiland Jazz\- \- Alternative Ver.](https://open.spotify.com/track/4WZG3vulG5PQLURWwc1uAE) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [BIOHAZARD 7 RESIDENT EVIL Special Tracks](https://open.spotify.com/album/42ZIjUQqG1MHOkZg3KHK2L) | 4:01 |
 
-Snapshot ID: `MCw3MmUzN2JlNTYzOTk3OGVhZDMyYjAxOGM4M2NlZGFmNWU0MDI4YjFl`
+Snapshot ID: `MCw3NmEyMjI0NWRkY2RlYWUxNDg2OWEwZmNlMGM5YWMzOTQyZTgyOTNm`

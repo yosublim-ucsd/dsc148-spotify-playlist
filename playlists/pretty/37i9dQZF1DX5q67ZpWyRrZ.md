@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,558 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,252 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 16 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
 | 17 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
 | 18 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 |
-| 19 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 |
+| 19 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 |
 | 20 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 21 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
 | 22 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 24 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 25 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
 | 26 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
-| 27 | [Mehmaan](https://open.spotify.com/track/3s5Rz3KFms39ZrFDw2jt4r) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Raitila Rajasthan](https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:50 |
+| 27 | [Mehmaan](https://open.spotify.com/track/3s5Rz3KFms39ZrFDw2jt4r) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Raitila Rajasthan](https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:50 |
 | 28 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 |
 | 29 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
 | 30 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 |
 | 75 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MCw5NTIyMWI1MzkxMDZiM2ZiM2I3NzhmNmRjZTZlMWVhZTBjNjZjOTY1`
+Snapshot ID: `MCxlNzY2ZjUzYWZkZDg4MDBiMDg1OTVlOGEzNzdjOTAyNDIzYzFhNTNh`

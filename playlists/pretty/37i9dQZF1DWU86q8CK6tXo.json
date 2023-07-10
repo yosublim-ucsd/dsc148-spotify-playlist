@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:1YRqgFNXqRyMDRr8ClS1NL\u201d>Kaliii</a> ",
-  "num_followers": 40534,
+  "num_followers": 40540,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2NiOWIyOGM4MDFiMDBhMzQyZmVhYTVhYTNkYjI0OTdjZWJkMzY3",
+  "snapshot_id": "MCxmYmVjNDU1NGM2YjMyYTI3NDVhMzdjN2IxZjBkZWY2ZGY3NTlmZjk2",
   "tracks": [
     {
       "added_at": "2023-07-05 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
         "name": "But Not Kiss",
         "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
-        "name": "Glory Days",
-        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
     },
     {
       "added_at": "2023-07-05 04:00:00",

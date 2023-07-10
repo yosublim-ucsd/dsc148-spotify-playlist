@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 55021,
+  "num_followers": 55092,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGVlNzA1NjA0M2YwZTM5M2FlZjUyZTFmZGU2NzIxOWZhMzgxZjBm",
+  "snapshot_id": "MCxhMmNiOWFjMzBmYzA5ZmM0MWIxZWNmZGMxMjY1ZjI5MTAwNjdkMjA0",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "C\u0153ur de pirate",
+        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 191039,
       "name": "La Liste",
       "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "C\u0153ur de pirate",
-        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Comme des enfants",
-      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "La tarentelle",
+        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Prendre un enfant",
+      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "La tarentelle",
-        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
-      },
-      "artists": [
-        {
-          "name": "Yves Duteil",
-          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Prendre un enfant",
-      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
     },
     {
       "added_at": "2023-04-04 13:10:14",

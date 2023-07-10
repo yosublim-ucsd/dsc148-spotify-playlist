@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,901 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,912 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 57 | [Money Showers](https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:21 |
 | 58 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
 | 59 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
-| 60 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
-| 61 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 |
+| 60 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 |
+| 61 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 | 62 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
 | 63 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
 | 64 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
 | 75 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 
-Snapshot ID: `MCwzOGVkZTlhZTBmNzM3YTkwODVlZjgyZTZmMGM5Y2U4ZjljNGY2ZDAy`
+Snapshot ID: `MCxhNTA5NTcwYmQyMmU2ODBjNDhjMTAxYTA4Y2E0ZmYwMGZlYTAxYzU1`

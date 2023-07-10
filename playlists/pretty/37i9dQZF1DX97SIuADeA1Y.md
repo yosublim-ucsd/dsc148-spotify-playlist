@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,757 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,913 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 45 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
 | 46 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
 | 47 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 |
-| 48 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 |
-| 49 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
-| 50 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 48 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
+| 49 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 50 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 |
 | 51 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 52 | [Under the Influence](https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [Under the Influence](https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx) | 2:45 |
 | 53 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 |
 | 60 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 
-Snapshot ID: `MCxlZWFmYjYzNTU2NGVhMTEzYzkxNDE4OTA2OGIxODZjZmY5MGZhNDJm`
+Snapshot ID: `MCw2MjhhMDM5MzkyMWU2NmYyZjMxNDE0OGVkMDQzMDI4MzEzYzhmYzYw`

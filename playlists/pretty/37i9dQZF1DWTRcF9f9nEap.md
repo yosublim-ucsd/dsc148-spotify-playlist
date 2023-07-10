@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,789 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,856 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 50 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 
-Snapshot ID: `MCwzYjBkZjhhMzM2YzQxOTMyNTIwYWRlOTg3MWJkMTkzMjNhOTY4NDI3`
+Snapshot ID: `MCwyMzI2NGU4YTk4MmUwYzAzNzIzZmI1ZTEyMmQ1Zjg3MzZhNDFmZjBk`

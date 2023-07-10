@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=bVkB1sTCRYSyOZMnP5JTiA">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,360 likes - 70 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,481 likes - 70 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 69 | [GLORY HALLELUJAH](https://open.spotify.com/track/6N5dA6NN3qjfRLfWEKQ0xO) | [Freda Amoako](https://open.spotify.com/artist/6v8vcuYA1YfVfRDpss28sE) | [GLORY HALLELUJAH](https://open.spotify.com/album/04sY42oUwBhH6xyYd2hW3w) | 5:58 |
 | 70 | [Who you are](https://open.spotify.com/track/1sGCydgPdcI8ozLjG85IgP) | [Dannie Spenxer](https://open.spotify.com/artist/1kgjn3JjwRu83asREa1PzP) | [Who you are](https://open.spotify.com/album/0FlvJdjzWiCzHNfTfELcGi) | 3:52 |
 
-Snapshot ID: `MCwzYzNjNGU4MjgxNWQyMjYxMDU0MTdiNDVkYzhhOTk4NDdkNzc2ZDM2`
+Snapshot ID: `MCw3NDgyZDk3NDI0ODFjOWIwNzMyODlhNTY2YWIzMmM4Zjc0NWM1YWEw`

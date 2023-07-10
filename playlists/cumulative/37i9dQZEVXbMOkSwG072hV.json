@@ -5069,6 +5069,32 @@
     },
     {
       "album": {
+        "name": "Calma N\u00e3o Precisa Brigar X Boquetinho Maneiro",
+        "url": "https://open.spotify.com/album/2YkfA0pzwkK18Z1llh23NL"
+      },
+      "artists": [
+        {
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        },
+        {
+          "name": "MC Digu",
+          "url": "https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Calma N\u00e3o Precisa Brigar X Boquetinho Maneiro",
+      "url": "https://open.spotify.com/track/12BihJUvHY6DFg1hsE0RpL"
+    },
+    {
+      "album": {
         "name": "Movimento Verde Amarelo",
         "url": "https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e"
       },
@@ -6840,7 +6866,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 131050,
       "name": "Cuntelectual",
       "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
@@ -15672,7 +15698,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 127058,
       "name": "Mandona (Se eu te dissesse)",
       "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
@@ -27958,7 +27984,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 105454,
       "name": "Toma Toma Pau",
       "url": "https://open.spotify.com/track/353gM5AZL8OWRoBYR2JxDs"

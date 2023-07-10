@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Taylor Swift, NewJeans, Anne\-Marie, Ayase & R\-指定 and more! cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,104 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,127 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 74 | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/4825L5vjFuzQQd9u4pKs46) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/album/1eOafv0iqFoVJI8juu0bEz) | 4:11 |
 
-Snapshot ID: `MCwzZWM2NTU0MTRhZDc3YjgxOTkzOWFiODE3ZGVlZGE2ZmM3ZDNlN2Zk`
+Snapshot ID: `MCwzMzBiZDQ5MmIxNDhkMDhiNWU3MGM3Y2I2ZTgzOTY0MGU5YzdlMDY4`

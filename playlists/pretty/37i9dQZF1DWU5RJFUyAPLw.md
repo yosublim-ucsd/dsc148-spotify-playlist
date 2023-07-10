@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,939 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 41 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 |
 | 42 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
 | 43 | [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 |
-| 44 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
-| 45 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
-| 46 | [Un Día a la Vez](https://open.spotify.com/track/1BuJDqgkqw3kWzcYA5iRMo) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 4:05 |
+| 44 | [Un Día a la Vez](https://open.spotify.com/track/1BuJDqgkqw3kWzcYA5iRMo) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 4:05 |
+| 45 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
+| 46 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
 | 47 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 |
 | 48 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
 | 49 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 |
-| 50 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
+| 50 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 |
 
-Snapshot ID: `MCxmZDcyYzU0YzhhMmRmYjA3NDdiY2Q5NTZhNjgzMmZhMGU0NzZlZDU4`
+Snapshot ID: `MCwyYTZjNjJiNjcxMjBkMjdkOTg2NmEyMzg3YWZjM2JhMzQzMDRhYmY1`

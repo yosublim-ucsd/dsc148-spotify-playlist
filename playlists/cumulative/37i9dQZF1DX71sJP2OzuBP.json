@@ -3108,10 +3108,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 197476,
       "name": "Your Wonderland",
       "url": "https://open.spotify.com/track/1bCic9TNRY5QJUTfltAeab"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/0L12VIXz90UnhFRBtPXG8z"
+      },
+      "artists": [
+        {
+          "name": "77Ke \u67ef\u68e8\u68cb",
+          "url": "https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197522,
+      "name": "Your Wonderland",
+      "url": "https://open.spotify.com/track/72pbOlpce4MCAN5FGjYqqv"
     },
     {
       "album": {

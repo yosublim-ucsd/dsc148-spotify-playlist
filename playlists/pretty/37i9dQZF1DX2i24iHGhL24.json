@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 103077,
+  "num_followers": 103154,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDE4MjhiZWRiOGNjNDkxMzI1YjdlZjc5ZjcxMGJmZGNmMzEyOTdm",
+  "snapshot_id": "MCwyMjk0MzBiNjUwMDg0NTJhMTcxYWViMzJjYmIyYjgyYmYxYmQ1Mjgz",
   "tracks": [
     {
       "added_at": "2023-06-26 18:49:12",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
         "name": "in between everything",
         "url": "https://open.spotify.com/album/2U94uUStzXa6RLGf0o46cj"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 201885,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
         "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 161130,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1160,22 +1160,6 @@
       "added_at": "2023-06-26 18:49:12",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Teenage Dirtbag \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
@@ -1187,6 +1171,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Teenage Dirtbag \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1288,22 +1288,6 @@
       "added_at": "2023-06-26 18:49:12",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -1315,6 +1299,22 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 224588,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 144570,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
       "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 224588,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
-    },
-    {
-      "added_at": "2023-06-26 18:49:12",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
       },
@@ -1939,18 +1923,18 @@
     {
       "added_at": "2023-06-26 18:49:12",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt"
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA"
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2023-06-26 18:49:12",
@@ -2703,6 +2687,22 @@
       "duration_ms": 218938,
       "name": "22 - Recorded At Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
+    },
+    {
+      "added_at": "2023-06-26 18:49:12",
+      "album": {
+        "name": "The Salcombe Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
     }
   ],
   "unique_name": "Pop Covers",

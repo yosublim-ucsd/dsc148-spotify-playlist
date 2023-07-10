@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Soolking, Gazo
 
-1,944 songs - 4 day 7 hr 57 min
+1,945 songs - 4 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -1293,7 +1294,7 @@
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2022-10-14 | 2022-10-29 |
 | [Okay Alright](https://open.spotify.com/track/2GArWv8wnjIqa4qPoklWYp) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Okay Alright](https://open.spotify.com/album/3twW1Nt9efy1w1S0ukT1lL) | 3:00 | 2022-11-25 | 2022-12-17 |
 | [OMNITRIX](https://open.spotify.com/track/5WXWI9fRppzSgWE5pApBFw) | [Remastered](https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Gotham City, Vol\. 2](https://open.spotify.com/album/36HWAmjGmZAyphAIhQ2yTg) | 3:02 | 2022-04-15 | 2022-04-23 |
-| [On & Off \- Spotify Singles](https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [QuietMike](https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:24 | 2023-06-16 |  |
+| [On & Off \- Spotify Singles](https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [QuietMike](https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:24 | 2023-06-16 | 2023-07-10 |
 | [On a l'habitude \(Ok Many\)](https://open.spotify.com/track/7tg0t16KU1WB7TOMoQ528Y) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [On a l'habitude \(Ok Many\)](https://open.spotify.com/album/2fjL0FdokMEfHwPKO9j4rC) | 2:50 | 2022-02-25 | 2022-03-09 |
 | [On aime le Whisky](https://open.spotify.com/track/5Rp5wEjVz1U7fId1K1BPsp) | [Vince Lemire](https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN) | [On aime le Whisky](https://open.spotify.com/album/46mshE2kWCjtGpeIOA8OXd) | 2:28 | 2022-08-19 | 2022-09-03 |
 | [On aime les Saints](https://open.spotify.com/track/1yHwq3JnFJ8ZEB6XlwBrJK) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [On aime les Saints](https://open.spotify.com/album/0sFluBLkJLJghzH0vBBLRI) | 3:40 | 2023-03-17 | 2023-04-01 |

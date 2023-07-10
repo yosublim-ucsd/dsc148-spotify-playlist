@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,740 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,775 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 25 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
 | 26 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 27 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
-| 28 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
-| 29 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
+| 28 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
+| 29 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
 | 30 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
 | 31 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
 | 32 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 41 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 |
 | 42 | [Disrupt](https://open.spotify.com/track/2axUQ5XVoEImeCqbZOW3dQ) | [Delac](https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM) | [Disrupt](https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn) | 4:14 |
 | 43 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
-| 44 | [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 |
-| 45 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 |
+| 44 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 |
+| 45 | [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 |
 | 46 | [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 |
 | 47 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 |
 | 48 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
 | 49 | [Untethered](https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Untethered](https://open.spotify.com/album/66j4okq2ZqszWa2e76yrdc) | 4:14 |
 | 50 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
 
-Snapshot ID: `MCxlZGQ1MzljNjhmOTRhNTFmMzE5YWZlM2I0M2U3YTMwNTAxN2Q0NDZm`
+Snapshot ID: `MCxlNDk4OTY1OWEyM2ZiNGI0OTkzM2RmNzUzMDk1OWZkNzQ4ZWNiNzg3`

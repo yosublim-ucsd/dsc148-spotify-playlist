@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 236451,
       "name": "Dolor en el Sur",
       "url": "https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr"
@@ -758,6 +758,28 @@
       "duration_ms": 187945,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/0Dy729ORbIQqwozoVLw4KX"
+    },
+    {
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "album": {

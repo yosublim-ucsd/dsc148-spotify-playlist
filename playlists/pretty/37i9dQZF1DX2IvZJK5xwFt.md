@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,794 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,919 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 13 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 14 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 15 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 |
-| 16 | [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 |
+| 16 | [Bum\-Rush](https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 |
 | 17 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 18 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
 | 19 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 | 75 | [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 |
 
-Snapshot ID: `MCw2YTU3MTdjNTQyY2Y1MDA4ZGIxNWExOGY0OTFjMjFkNjE0MWJmNjQ5`
+Snapshot ID: `MCxjZjVhYjNlODkyN2MxYzhhZWM5ZWYxODI5ZjRlODQ0NDY5YzI0NmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,655 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,649 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Cold December](https://open.spotify.com/track/7MhkmIAz4WiJKRxWbjuy7b) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:25 |
 | 37 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
 
-Snapshot ID: `MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi`
+Snapshot ID: `MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw`

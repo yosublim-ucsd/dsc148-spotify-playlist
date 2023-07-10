@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 893076,
+  "num_followers": 893293,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjNmOWQ2ZDU2NDY4NmE5MjNlNTMyOTFmOTdhZTIyOTQ0YzhkNDNm",
+  "snapshot_id": "MCxiNzU5YzBhZTgyM2JhOGZkYTE2NGE4ZDVmMjJmZjBkMTIwMGUwMjcy",
   "tracks": [
     {
       "added_at": "2023-03-07 12:31:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Cheshire Cat",
         "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 194960,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2023-03-07 12:31:09",

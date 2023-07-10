@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 173708,
+  "num_followers": 173777,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi",
+  "snapshot_id": "MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Aerolineas Makiza",
-        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
-      },
-      "artists": [
-        {
-          "name": "Makiza",
-          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "En Paro",
-      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Historia Del Folklore (2da Parte)",
         "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
+        "name": "Aerolineas Makiza",
+        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
       "artists": [
         {
-          "name": "Fiskales Ad-Hok",
-          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+          "name": "Makiza",
+          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
         }
       ],
-      "duration_ms": 128573,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
+      "duration_ms": 272800,
+      "name": "En Paro",
+      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1179,6 +1163,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2022-07-15 04:43:21",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "El Pa\u00eds de No Pasa Nada",
+      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
+    },
+    {
       "added_at": "2022-09-26 22:09:52",
       "album": {
         "name": "Abrazo",
@@ -1639,22 +1655,6 @@
       "duration_ms": 210746,
       "name": "El Club de la Resistencia",
       "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "El Pa\u00eds de No Pasa Nada",
-      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1723,6 +1723,22 @@
       "duration_ms": 183640,
       "name": "La Maldici\u00f3n de Mi Pa\u00eds",
       "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Formas para Perderse o I.D.E.A.S",
+        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 299319,
+      "name": "Polyrics",
+      "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
     },
     {
       "added_at": "2022-01-13 03:30:36",
@@ -1799,22 +1815,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Formas para Perderse o I.D.E.A.S",
-        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 299319,
-      "name": "Polyrics",
-      "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Octubre",
         "url": "https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or"
       },
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

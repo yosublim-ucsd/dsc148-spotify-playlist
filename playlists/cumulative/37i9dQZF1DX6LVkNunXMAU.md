@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Cítrico
 
-220 songs - 12 hr 8 min
+222 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Instante Eterno de Felicidad](https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Instante Eterno de Felicidad](https://open.spotify.com/album/5yhABD33uH530lInv5JqFB) | 3:10 | 2023-06-23 |  |
 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 | 2023-05-26 | 2023-06-24 |
 | [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 | 2023-05-14 |
-| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 | 2023-05-12 |  |
+| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 | 2023-05-12 | 2023-07-10 |
+| [Insurgentes](https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 | 2023-07-07 |  |
 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 | 2022-07-15 |  |
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
@@ -194,7 +195,8 @@
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
 | [Technicolor](https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Technicolor](https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1) | 3:14 | 2022-05-20 | 2023-05-20 |
 | [Terapia](https://open.spotify.com/track/11dJmpR21O80TucauhNsVN) | [martuli](https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc) | [Terapia](https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C) | 3:06 | 2023-06-16 |  |
-| [Terca](https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Terca](https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS) | 2:12 | 2023-04-14 |  |
+| [Terca](https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Terca](https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS) | 2:12 | 2023-04-14 | 2023-07-10 |
+| [Terca](https://open.spotify.com/track/1wMHbi6IMNMECnSCjEXWzm) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 | 2023-07-07 |  |
 | [Tiempo](https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr) | [Julian Esion Kaplan](https://open.spotify.com/artist/6hIgj3eWhgPTbd86rFhOZD), [Jo Delapé](https://open.spotify.com/artist/6oVxclsRmo2TcjNB1adYP7), [patin mac](https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Tiempo](https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI) | 3:27 | 2022-05-20 | 2023-04-09 |
 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 | 2022-05-20 | 2023-04-15 |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-05-20 | 2022-07-16 |

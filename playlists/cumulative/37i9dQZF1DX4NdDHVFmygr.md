@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-278 songs - 15 hr 5 min
+279 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 | 2023-03-18 | 2023-03-31 |
 | [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-13 | 2022-12-21 |
 | [Rah Ditou](https://open.spotify.com/track/2DSbRIizPDDoexJgSbxQzo) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 2:52 | 2023-04-28 | 2023-06-09 |
-| [Reg Deg](https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 3:01 | 2023-06-08 |  |
+| [Reg Deg](https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 3:01 | 2023-06-08 | 2023-07-10 |
+| [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-09 |  |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2023-02-22 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |

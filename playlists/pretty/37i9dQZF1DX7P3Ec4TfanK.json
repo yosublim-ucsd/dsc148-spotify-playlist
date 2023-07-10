@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 308337,
+  "num_followers": 308355,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjRjNjEzNDdmNzAyNTE5NWQyZjY3OTczNjc2Y2JmMDg4ZTY1ZGU0",
+  "snapshot_id": "MCxkNzA4NjkwYWVkZTUzNjUwMzU4MDIyM2M4NGE1Y2E1ZjU5OGUwYzk4",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Fragole",
+        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Fragole",
+      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Fragole",
-        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Fragole",
-      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
     },
     {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Girl From Rio",
-        "url": "https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 194421,
-      "name": "Girl From Rio",
-      "url": "https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ"
-    },
-    {
       "added_at": "2023-06-30 22:07:10",
       "album": {
         "name": "Delilah",
@@ -1251,6 +1235,22 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Girl From Rio",
+        "url": "https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 194421,
+      "name": "Girl From Rio",
+      "url": "https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "High",
-      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
     },
     {
       "added_at": "2023-06-29 22:00:00",

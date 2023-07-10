@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,627 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,899 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 28 | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:49 |
 | 29 | [Outra Vez](https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Canção do Amor Demais](https://open.spotify.com/album/416m16l0FUDAkyckFQRJqn) | 1:53 |
 | 30 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 |
-| 31 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
-| 32 | [Gente Humilde](https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 2:27 |
+| 31 | [Gente Humilde](https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 2:27 |
+| 32 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
 | 33 | [Bim Bom](https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:17 |
 | 34 | [Corcovado \- Live](https://open.spotify.com/track/4OID5ZgFFWJzAH5jdetEAn) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:08 |
 | 35 | [Bluchanga](https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Bluchanga](https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo) | 4:26 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 64 | [Dindi \- Live](https://open.spotify.com/track/48RHQgGgCGI0q2Wyyl4cJu) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 5:20 |
 | 65 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 66 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
-| 67 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
-| 68 | [Tereza My Love](https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 4:21 |
+| 67 | [Tereza My Love](https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 4:21 |
+| 68 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
 | 69 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 |
 | 70 | [The Red Blouse](https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 5:09 |
 | 71 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 74 | [Ela E´ Carioca](https://open.spotify.com/track/1A0AtACaHgZhiqirEEowlL) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Brasil..\. Como Te Estranho!](https://open.spotify.com/album/5ZL1AVtiM3Xk1jR3dCAwQj) | 3:08 |
 | 75 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
 
-Snapshot ID: `MCxhNThiNWFjMmVlZDJkN2ZiNGFiYzc3YWU0MTk4ZDJjNmE5MzQzMDg5`
+Snapshot ID: `MCwwNGVlODdjOGNmZjk0NTY1Y2Y3N2EwZTA5MGVkYTVmYjQ5MmRhODNm`

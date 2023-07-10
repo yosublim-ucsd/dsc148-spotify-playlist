@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 350177,
+  "num_followers": 350260,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzRjYTg0NjBlMjM1ODcwMzViZjUxZTYzYjE0MTEwNTk0ZjJjYjc3",
+  "snapshot_id": "MCwxNDY4MjJhZDY5OWFkNDJjN2EzNzVhYTU5NjJmNzA4ZjY2NTdkODMx",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
-      },
-      "artists": [
-        {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 271200,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+      },
+      "artists": [
+        {
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
     },
     {
       "added_at": "2023-02-13 21:09:56",

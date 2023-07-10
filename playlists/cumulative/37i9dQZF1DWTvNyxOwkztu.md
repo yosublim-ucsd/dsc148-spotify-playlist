@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-269 songs - 15 hr 1 min
+270 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Control](https://open.spotify.com/track/4FLaWi1Gr34f9SGaBtOa5P) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/1RSaZHGO5Zz08MGXKJtlNn) | 2:49 | 2021-12-09 | 2022-07-29 |
 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 | 2023-04-14 | 2023-05-27 |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
-| [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-14 |  |
+| [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-14 | 2023-07-10 |
 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-02-17 |  |
 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 | 2021-12-09 | 2023-03-15 |
 | [Daylight](https://open.spotify.com/track/7GmDdBXzfYeAVyJYLY6jIj) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/1IhOWa7QWhUGCX3Okplir7) | 2:32 | 2023-02-17 |  |
@@ -230,6 +230,7 @@
 | [Sunrise](https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o) | 3:49 | 2023-02-17 |  |
 | [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2021-12-09 | 2023-03-06 |
 | [Sunset Memories](https://open.spotify.com/track/23B9GzNM75qjKY60qLEA0P) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sunset Memories](https://open.spotify.com/album/5KBL6nZZewDKWvZqcHRpsa) | 2:32 | 2023-02-17 | 2023-06-18 |
+| [Sunset Memories](https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sunset Memories](https://open.spotify.com/album/7f9xgp3t9fb1N6X6hXdkJh) | 2:32 | 2023-06-30 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 | 2023-06-05 |
 | [Sunsets & Birds](https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/5QG6HT610I43dQBQIIE82v) | 2:28 | 2021-12-09 | 2022-07-29 |
 | [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 | 2023-05-15 |

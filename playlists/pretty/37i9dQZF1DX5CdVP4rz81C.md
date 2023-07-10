@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Oliva Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,966 likes - 77 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,100 likes - 77 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 17 | [i'm sorry](https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i'm sorry](https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG) | 3:13 |
 | 18 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 19 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 |
-| 20 | [Boy from Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
+| 20 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
 | 21 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
 | 22 | [stars](https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [stars](https://open.spotify.com/album/0NmQRqXaqB2ZMycDkWQYUk) | 2:31 |
 | 23 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 76 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 77 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 
-Snapshot ID: `MTY4ODcwMjQ2MCwwMDAwMDAwMDgzYzZkZWRlNTZlZDNjZDdkNjA2ZTE4OGRkMjY4MjY0`
+Snapshot ID: `MCwwNjQzMTZiYTNiYTM4MGI0NDE2ZDM4NTIyZmNiYjlmMjBmMTExODFh`

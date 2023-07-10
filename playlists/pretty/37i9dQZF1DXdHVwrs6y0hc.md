@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,818 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,878 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 36 | [Unicorns](https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Music & Ballads from Ireland](https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl) | 3:36 |
 | 37 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
 | 38 | [The Black Velvet Band](https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:48 |
-| 39 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
-| 40 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
+| 39 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
+| 40 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
 | 41 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
 | 42 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 | 43 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Old Dungarvan Oak](https://open.spotify.com/track/0I16G9QzUo5AmEsIKsAAhI) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 2:42 |
 | 50 | [The Boys of Killibegs](https://open.spotify.com/track/6D16cmDXBDSvs7V9IXkdYD) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 3:13 |
 
-Snapshot ID: `MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw`
+Snapshot ID: `MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0`

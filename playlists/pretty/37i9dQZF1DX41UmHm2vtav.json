@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 423370,
+  "num_followers": 423573,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4",
+  "snapshot_id": "MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0",
   "tracks": [
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 188995,
       "name": "Colours & Lights",
       "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2023-06-30 03:03:00",

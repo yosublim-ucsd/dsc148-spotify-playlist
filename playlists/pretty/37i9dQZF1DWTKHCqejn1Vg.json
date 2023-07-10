@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 23677,
+  "num_followers": 23714,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY2YTBmNTMzMjMzMjE4ZDJkMmE1MTA3YWJkM2FjM2I5YzdjMmEy",
+  "snapshot_id": "MCw5ZDhhMzliNGZhZDczODkxMzEzZDU5NzBlZDBiODMxYmU3ODc4OWJk",
   "tracks": [
     {
       "added_at": "2023-07-07 15:53:22",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
       "artists": [
         {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
     },
     {
       "added_at": "2023-07-07 15:53:22",

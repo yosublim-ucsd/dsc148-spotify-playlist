@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
-  "num_followers": 1192771,
+  "num_followers": 1193085,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTgxMzYxY2UyY2YzOTA3YThhOGNhMjM1YTM2NzBmZjg2ODc2MWIz",
+  "snapshot_id": "MCxmMzQ0MWY5MjVlYzUwNmE1NTg0ZmI1OTI3Zjc3ZTYxNWJmMTZjM2Jj",
   "tracks": [
     {
       "added_at": "2023-01-10 13:44:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 247200,
       "name": "Missing - 2013 Remaster",
       "url": "https://open.spotify.com/track/79dD64QT2l64W12VkPGjvZ"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD"
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
       },
       "artists": [
         {
-          "name": "They Might Be Giants",
-          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 198920,
-      "name": "Birdhouse in Your Soul",
-      "url": "https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz"
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
     }
   ],
   "unique_name": "Alternative 90s",

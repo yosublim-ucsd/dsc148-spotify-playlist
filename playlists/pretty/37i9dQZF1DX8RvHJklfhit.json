@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 161268,
+  "num_followers": 161348,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDAwZWQ5ODUxMGJkNDYyYzI3OGZjYmY2ZTExYTdhY2E4ZjUxMWZi",
+  "snapshot_id": "MCxlMjc0OWI2OGYwYzBkOGJjYmM5M2FmZDk3YTM4Y2M2OTY5M2JmODdl",
   "tracks": [
     {
       "added_at": "2023-04-06 20:01:50",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "Un Mill\u00f3n",
         "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 167386,
       "name": "Un Mill\u00f3n",
       "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
+      "duration_ms": 242760,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+      "duration_ms": 202360,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-04-06 20:01:50",

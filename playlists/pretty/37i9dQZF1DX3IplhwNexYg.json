@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: The Last Dinner Party",
-  "num_followers": 111547,
+  "num_followers": 111548,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2ZmODAxZTYyYjEyZmJjOWJjMmE5YmMyNjgxMTRjYWFmZTUwMDA0",
+  "snapshot_id": "MCw5NTdjYTMwNGIxYjc1MjQzODNhYjQyZTAyZjdmNjFkNzI4OWZmNjNi",
   "tracks": [
     {
       "added_at": "2023-06-30 12:17:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
+        "name": "Voice Of The Voiceless",
+        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "Voice Of The Voiceless",
+      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
         "name": "Cowboy Nudes",
         "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
-        "name": "Voice Of The Voiceless",
-        "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 193612,
-      "name": "Voice Of The Voiceless",
-      "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 143322,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 143322,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
-      },
-      "artists": [
-        {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Give It Up To Love",
-      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 248243,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Give It Up To Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "Say It Now",
-        "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "Say It Now",
-      "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
-    },
-    {
-      "added_at": "2023-06-30 12:17:33",
-      "album": {
         "name": "Carolina Reaper",
         "url": "https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 218334,
       "name": "Carolina Reaper",
       "url": "https://open.spotify.com/track/4O717610RkQp7cpTdVfmko"
+    },
+    {
+      "added_at": "2023-06-30 12:17:33",
+      "album": {
+        "name": "Say It Now",
+        "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "Say It Now",
+      "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
     },
     {
       "added_at": "2023-06-30 12:17:33",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-06-30 12:17:33",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+        "name": "666",
+        "url": "https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+      "duration_ms": 175449,
+      "name": "666",
+      "url": "https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn"
     }
   ],
   "unique_name": "pulp",

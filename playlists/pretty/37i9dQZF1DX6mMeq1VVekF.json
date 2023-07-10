@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 143980,
+  "num_followers": 144057,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAzNzlmYzI4ZTE4ZDVhY2U5ZmY0MzBiYTVjZDI5ZTgwOGE0NzFh",
+  "snapshot_id": "MCxlODFlM2ZhZjNlMDlmODMzZmUzM2ViZGYzMjEwYWYzY2NjMTFmYzE2",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Need Me",
-        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "The Mantra (Heat in the Street Freestyle)",
         "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 97714,
       "name": "The Mantra - Heat in the Street Freestyle",
       "url": "https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Los Pollos Hermanos",
+        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 95871,
+      "name": "Los Pollos Hermanos",
+      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "KANEKI",
         "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 166027,
       "name": "24's",
       "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Los Pollos Hermanos",
-        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 95871,
-      "name": "Los Pollos Hermanos",
-      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1059,38 +1059,42 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Slangn KK",
-        "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
+        "name": "Ke Star (Remix)",
+        "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
       "artists": [
         {
-          "name": "Hardo",
-          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Virgo Deep",
+          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
         }
       ],
-      "duration_ms": 193295,
-      "name": "Slangn KK",
-      "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
+      "duration_ms": 328766,
+      "name": "Ke Star - Remix",
+      "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
     }
   ],
   "unique_name": "Free Form",

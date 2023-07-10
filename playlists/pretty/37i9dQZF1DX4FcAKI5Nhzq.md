@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,089 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,216 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 |
 | 50 | [Blank Effect](https://open.spotify.com/track/5iwxfw0F3TeHxzGVlkzUN9) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [Blank or Black](https://open.spotify.com/album/7gRC2DS4dKoLLm3ZwCHtKx) | 2:50 |
 
-Snapshot ID: `MCxjMGQ4ZDFiYmFjZDFhZTA2YTYxZWQyZjk1NTUzZGFjY2Y0NzdhYzg4`
+Snapshot ID: `MCwwMjIyZWY5YWZmNGVkNDA2NDc3ZDdkNzA1NzYwZGFiMGY2NDdhY2Qx`

@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 15435,
+  "num_followers": 15457,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
+  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -391,6 +391,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Fen",
         "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 392107,
       "name": "Cabara\u00fa",
       "url": "https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2021-11-25 22:14:03",
@@ -487,6 +487,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
-      "added_at": "2022-03-16 01:06:51",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Comme Un Seul Narcisse",
@@ -659,6 +643,22 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+    },
+    {
+      "added_at": "2022-03-16 01:06:51",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
-      },
-      "artists": [
-        {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
-        }
-      ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
-    },
-    {
       "added_at": "2022-02-12 01:31:39",
       "album": {
         "name": "Sequences",
@@ -827,6 +811,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-11-12 02:58:17",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
       "added_at": "2023-04-15 01:26:09",
       "album": {
         "name": "entropy & kindness",
@@ -1083,22 +1099,6 @@
       "duration_ms": 261346,
       "name": "entropy & kindness",
       "url": "https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2022-03-17 01:20:50",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "SUNDAYS",
+        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "I've Got What I Need",
+      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
-      },
-      "artists": [
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
-        },
-        {
-          "name": "N KRAMER",
-          "url": "https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t"
-        }
-      ],
-      "duration_ms": 295544,
-      "name": "Air Flows",
-      "url": "https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu"
     }
   ],
   "unique_name": "Planetary Soul",

@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
@@ -5558,6 +5558,24 @@
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR"
+    },
+    {
+      "album": {
+        "name": "Auto-Pain",
+        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+      },
+      "artists": [
+        {
+          "name": "Deeper",
+          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "This Heat",
+      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
     },
     {
       "album": {

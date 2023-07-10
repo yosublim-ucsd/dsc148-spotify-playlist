@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1809466,
+  "num_followers": 1809490,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjBlNTIzNmY3YzlmOTEwNzNmYjkyOTNlMzk5NDAzZDBhMjVjYWE0",
+  "snapshot_id": "MCwyMTY5NjUzOWQ4YmRjYjc1MjJhYTM4ZjU5MzQ0ZGYxNWU5ZTFmMWZj",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -199,6 +183,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
       "artists": [
         {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
         }
       ],
-      "duration_ms": 263253,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Cazadera",
-      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 178236,
       "name": "Pretty Pictures",
       "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Cazadera",
+      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 408279,
+  "num_followers": 408353,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTExZWQwYTllMzgyNDQyMWNkMDU5YjIzNTNjODM5ZWMyYTZmYjY1",
+  "snapshot_id": "MCxmODNlMmI5NDJlZjM2MmI3OTY4NzE2NDhhM2QxZTFlZjA1OWQ0YTFh",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Kingdoms In Colour",
-        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Feel Good (feat. Khruangbin)",
-      "url": "https://open.spotify.com/track/3PURbsY67tLMyausOABtit"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 190276,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "Kingdoms In Colour",
+        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Feel Good (feat. Khruangbin)",
+      "url": "https://open.spotify.com/track/3PURbsY67tLMyausOABtit"
     },
     {
       "added_at": "2023-05-22 16:14:56",

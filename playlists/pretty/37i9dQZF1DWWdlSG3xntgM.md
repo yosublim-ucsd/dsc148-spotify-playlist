@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,867 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,880 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 46 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1) | [Thien Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Đường Tím Ngày Xưa](https://open.spotify.com/album/0su8JLaHcq9OM5TgIusVXO) | 4:53 |
 | 47 | [Chút Kỉ Niệm Buồn](https://open.spotify.com/track/6kRCFicTfpHrOm8lcuKqQY) | [Khả Tú](https://open.spotify.com/artist/4icTNm7NAspqaHEg3sOQ92) | [Chút Kỉ Niệm Buồn](https://open.spotify.com/album/2x2YbZlQGxPoDzZ89nNdM0) | 4:59 |
 | 48 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
-| 49 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 |
-| 50 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 |
+| 49 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 |
+| 50 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 |
 
-Snapshot ID: `MCwzY2ZhNDc2MjY5OGNmODlmNzhmNmVjYTBlMGIyZWY2NTllYzU1OGY3`
+Snapshot ID: `MCw1YWRjZjhmMDhlMTdhMGU1ZGQwMjg3NmU1MTk5YzBlNmQwNTk4Y2Zm`

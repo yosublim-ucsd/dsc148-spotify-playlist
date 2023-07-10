@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,183 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,348 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 46 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 47 | [Love Me](https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 1:40 |
 | 48 | [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 |
-| 49 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 |
-| 50 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 49 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 50 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 |
 | 51 | [All We Have Is Now](https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:33 |
 | 52 | [How Does It Feel?](https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 3:53 |
 | 53 | [Missing Limbs](https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 79 | [All I Have Left To Give](https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:33 |
 | 80 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 
-Snapshot ID: `MCwzZTRlNmVlZDE2OTU0M2U4ZmY5MGVlYjQyYjNmODg0YzMwNWY3NWQw`
+Snapshot ID: `MCxjZGY2NGI1NGU1MWQ1MWUxNTgwMDkzMWE3MDkyOGFjZjNhMjA5Yzkz`

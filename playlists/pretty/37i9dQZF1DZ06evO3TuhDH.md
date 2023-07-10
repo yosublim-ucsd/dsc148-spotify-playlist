@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,278 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,300 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 9 | [Save The Day \(feat\. Coi Leray & LouGotCash\)](https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:58 |
 | 10 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
 | 11 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
-| 12 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
-| 13 | [Run It Up](https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay) | 2:48 |
+| 12 | [Run It Up](https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay) | 2:48 |
+| 13 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
 | 14 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
 | 15 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
 | 16 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Heart In A Coffin](https://open.spotify.com/track/3eW97X88caKutrSFklw4ae) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:31 |
 | 50 | [Rich Bitch \(feat\. Lakeyah & Coi Leray\)](https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:41 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBkYTBlMTAyZTlkNmM3Zjc0ZTFhZTlhNDg4MmE5MmY1OQ==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDAzOTJkZDgxMGIyN2Y4MjNmMTk2NGY5NWI1Y2U3OTBlOQ==`

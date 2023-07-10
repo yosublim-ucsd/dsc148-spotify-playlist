@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Kip Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,181 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,293 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 80 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 |
 | 81 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 |
 | 82 | [Get The Girl](https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Get The Girl](https://open.spotify.com/album/2inyimCr6ymziueiISBpzE) | 2:52 |
-| 83 | [I Hate This](https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:08 |
-| 84 | [Can't Help Myself](https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Boys](https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C) | 2:38 |
+| 83 | [Can't Help Myself](https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Boys](https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C) | 2:38 |
+| 84 | [I Hate This](https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:08 |
 | 85 | [Outta Yours](https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Outta Yours](https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI) | 2:58 |
 | 86 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 87 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 89 | [SAME SONGS](https://open.spotify.com/track/0nEWAK1WHWThcDJJOxwwWb) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [SAME SONGS](https://open.spotify.com/album/0ZSrpmlrCc6n8MHRpTlx1r) | 2:47 |
 | 90 | [Got Your Name On It](https://open.spotify.com/track/5hRyy1AIJMc5wyizJcSIEa) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Jade Eagleson](https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w) | 3:09 |
 | 91 | [Good Beer](https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:54 |
-| 92 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 |
-| 93 | [She's with Me](https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:00 |
+| 92 | [She's with Me](https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:00 |
+| 93 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 |
 | 94 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 |
 | 95 | [What The Truck](https://open.spotify.com/track/2W49YPwZNSwtbTzIqO5dMt) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [What The Truck](https://open.spotify.com/album/41lFKChrp5p5NKxsW6exdG) | 2:24 |
 | 96 | [Hey Pretty Girl](https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Somebody's Daughter](https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:46 |
 | 100 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 |
 
-Snapshot ID: `MCwyZmI0NjI5ZTZlMTNmMzRiOTVlOTBhNzkxYTM3NzJhMTgwNWZmYzc0`
+Snapshot ID: `MCwzZjQ0NDg5YmQyNjhkZTY3NThkZmE2MjZmM2Y1NDU2MzYwNmZiOWZi`

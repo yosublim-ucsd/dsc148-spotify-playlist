@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-93 songs - 5 hr 39 min
+95 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 | 2022-10-06 |  |
 | [diago 45 degrees tango](https://open.spotify.com/track/3l9FlLDSjF5MvIeszmuLnh) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 1:46 | 2022-10-06 | 2022-12-14 |
 | [echoes](https://open.spotify.com/track/2eRzjgRa9dGkFyYmqTyTgl) | [Universe](https://open.spotify.com/artist/28MPfGglMQ0nWMjkhXZYQf) | [echoes](https://open.spotify.com/album/4SsZYhWBSudsmIRrO95n8a) | 4:42 | 2022-10-06 |  |
+| [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 | 2023-07-09 |  |
 | [Fade To Black\_BLM\_01a](https://open.spotify.com/track/6ZRodzNjjDKcijIl3q49xE) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 1:31 | 2022-10-06 | 2022-12-14 |
 | [going home](https://open.spotify.com/track/2ND8SkQ3Rav1x4zpmTwA3E) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:33 | 2022-10-06 |  |
 | [HANABI](https://open.spotify.com/track/42NuI6ghNzx6dctpMIuptn) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [HANABI](https://open.spotify.com/album/3ylqm2z6GrWFhPIqQIIPbk) | 4:27 | 2022-10-06 |  |
@@ -65,6 +66,7 @@
 | [Song for...](https://open.spotify.com/track/1ZdjRumIPWUHrCFvloHh7o) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [Song for...](https://open.spotify.com/album/27LH8WxWxmpURPhQzieMIT) | 5:00 | 2022-10-06 |  |
 | [soundscape to ardor](https://open.spotify.com/track/6UdgxspGnRdQ1t6nxCNAFG) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:48 | 2022-10-06 |  |
 | [Stand Up Be Strong \(Pt\. I\)](https://open.spotify.com/track/72ipPCGWlVXLbh7rZNwh26) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 2:24 | 2022-10-06 |  |
+| [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-09 |  |
 | [STAY BEAUTIFUL](https://open.spotify.com/track/26uQJZlQ0fcDgq2fJrYBZk) | [Diggy\-MO'](https://open.spotify.com/artist/5GIMsbiSrVJB8dtSeCKY78) | [STAY BEAUTIFUL](https://open.spotify.com/album/2TvUpABENYOk4pcJHwqU34) | 4:46 | 2022-10-06 |  |
 | [storm center](https://open.spotify.com/track/7Ir9GcqSFOia9kDi0VA0DM) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:39 | 2022-10-06 |  |
 | [Suite "Going Home" 1st Mouvement: Cello&Orchestra](https://open.spotify.com/track/2OfHtuzjLA2hYqOwM3K8YG) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 1:50 | 2022-10-06 | 2022-12-14 |

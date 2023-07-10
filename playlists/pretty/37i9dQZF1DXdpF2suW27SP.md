@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Bispo e Ivandro entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,628 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,701 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 |
 | 75 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
 
-Snapshot ID: `MCw1NGUxMThiMDg4ZjNiMzU4NzM0YjE5Y2I1YmZhZDAwZTZhYTkxMGYz`
+Snapshot ID: `MCwzMjk2OGZjOGZhY2MxZTEyMzNmZGM0NGU2ZGE0MWZhZWMyMGJkNTY5`

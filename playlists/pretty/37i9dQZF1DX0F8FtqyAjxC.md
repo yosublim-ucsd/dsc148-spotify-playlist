@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,222 likes - 75 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,262 likes - 75 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 10 | [So in Love](https://open.spotify.com/track/7gmB6hVMsv0XbjfiTgpATI) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [There's No Place Like America Today](https://open.spotify.com/album/3Jm5rknuSOa0tTFDLpJbCg) | 5:14 |
 | 11 | [Impilo yaseSandton](https://open.spotify.com/track/2Q7chNue0LxoNT4iKSyfbo) | [Kweyama Brothers](https://open.spotify.com/artist/2tTyqKgMwCvQL0qJUf4l3K), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [Mpumalanga](https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc) | 6:48 |
 | 12 | [Sizzlin' Hot](https://open.spotify.com/track/0Ogw5liDubTHEUgvScD9J2) | [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzlin' Hot](https://open.spotify.com/album/2pHW0fPmXbix5FoRPAkFFE) | 6:36 |
-| 13 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 |
+| 13 | [Mine O Mine](https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:13 |
 | 14 | [Tappan Zee](https://open.spotify.com/track/2ajcFWw6aoXfVRSGw3SpF7) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [BJ4](https://open.spotify.com/album/5wK9re0Nwblt0pAJxuvQ8W) | 6:49 |
 | 15 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
 | 16 | [Keep On Lovin' Me](https://open.spotify.com/track/3SiUv5vf79EuP0VjIZJ9A2) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Love for Love](https://open.spotify.com/album/1o1QIPcHjUEqzAtVWubyZN) | 5:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 74 | [Everybody Get Dancin'](https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG) | [Bombers](https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP) | [Bombers 2](https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks) | 9:28 |
 | 75 | [No Enemy](https://open.spotify.com/track/7qgUf0BDgA9QilFOX1JbBA) | [Animai](https://open.spotify.com/artist/3rUghwDRUFMbgo2AOwvh2f) | [No Enemy](https://open.spotify.com/album/5U5AZuUR3s4iHAKSaErCKH) | 3:58 |
 
-Snapshot ID: `MCwxMmU3NDQyMjA3NjVhNGVlNmE5NTlkNWRjNTMwZjVkMmRkM2YzZDNi`
+Snapshot ID: `MCw2NWVlYzkzNzk2OTEwMjU2ZjE0ZDIzMjNkOWJmNjM5ZjMwNDExZjNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,766 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,770 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 47 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
 | 48 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
 | 49 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
-| 50 | [Justify](https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Justify](https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ) | 3:04 |
+| 50 | [Calm Down \- Dennis Bovell dUb Remix](https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Calm Down \(Dennis Bovell dUb Remix\)](https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL) | 3:15 |
 
-Snapshot ID: `MCxjYTJjMjk0YWQ0MDk0YzJlZDhmZWM5YjhjNDg4YWIyMzk5NDJiYzdk`
+Snapshot ID: `MCw0NjE1ODNlN2VmOGQ1ZWE3YzI4OWY1MGRjOGQyOGQ0ZTlhMGFhZWYy`

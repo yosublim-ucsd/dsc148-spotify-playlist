@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,658 likes - 87 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,008 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 86 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 |
 | 87 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 |
 
-Snapshot ID: `MCxjODIyNmM0ZWZhMGJmNDNhMDA0NGJiYzc2ZjA0OGM5ZTZiNjU2MjEy`
+Snapshot ID: `MCwwYzQyNTgwMjhlM2YyZGUwODZkMTkxMTY0ZTA5NjM3Y2MxMmEzN2E1`

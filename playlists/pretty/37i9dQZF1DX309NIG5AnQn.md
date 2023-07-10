@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Nina Suárez
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,101 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,116 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 4 | [Sierra de los Padres](https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [Split](https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc) | 3:36 |
 | 5 | [Oro y Barro](https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Oro y Barro](https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc) | 3:29 |
 | 6 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 |
-| 7 | [Y No Me Digan Nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y No Me Digan Nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 |
+| 7 | [Y No Me Digan Nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y no me digan nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 |
 | 8 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 |
 | 9 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 |
 | 10 | [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 64 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 |
 | 65 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 
-Snapshot ID: `MCwxODVmNmI3ZmNhZWQ3NWFmNTEwOTE3YTg1ZWY0MzIzYjMyNWVjYjEx`
+Snapshot ID: `MCw3YThmODc2OTkwNjQyOTAyNWVmNTRlMGFjN2Q5MDczYWM1MjhjMTE5`

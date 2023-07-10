@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,733 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,741 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,25 +33,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 23 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
 | 24 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
 | 25 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 |
-| 26 | [I just need U.](https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [I just need U.](https://open.spotify.com/album/6sDHpv9JR4rcp4qjxPybak) | 3:46 |
-| 27 | [Faith](https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 3:42 |
+| 26 | [Faith](https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 3:42 |
+| 27 | [I just need U.](https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [I just need U.](https://open.spotify.com/album/6sDHpv9JR4rcp4qjxPybak) | 3:46 |
 | 28 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 29 | [I’ll Give Thanks](https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [I’ll Give Thanks](https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo) | 3:52 |
 | 30 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
-| 31 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
-| 32 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
-| 33 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
-| 34 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 35 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
-| 36 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
-| 37 | [Glorify](https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
-| 38 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
+| 31 | [Glorify](https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
+| 32 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
+| 33 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
+| 34 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
+| 35 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 36 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
+| 37 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
+| 38 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 39 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 |
 | 40 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 |
 | 41 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 42 | [He Still Does \(Miracles\)](https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Miracles](https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU) | 3:34 |
-| 43 | [Wherever I Go](https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
-| 44 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
+| 43 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
+| 44 | [Wherever I Go](https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
 | 45 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
 | 46 | [i don't know if we can be friends](https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [bye, sad girl.](https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ) | 3:01 |
 | 47 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [Stand Firm](https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 3:28 |
 
-Snapshot ID: `MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5`
+Snapshot ID: `MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1`

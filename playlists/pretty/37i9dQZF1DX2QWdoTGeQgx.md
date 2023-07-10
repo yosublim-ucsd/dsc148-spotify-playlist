@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,215 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,236 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 46 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
 | 47 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 48 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
-| 49 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 50 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
+| 49 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
+| 50 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 51 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
 | 52 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
 | 53 | [Pulang](https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh), [Aj](https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37) | [Pulang](https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3) | 4:20 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 63 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 |
 | 64 | [Serendipity](https://open.spotify.com/track/1NikdFvytzN4sS2XTDleOp) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [Serendipity](https://open.spotify.com/album/4gXr2hrrKhdD4X4oBsvlgr) | 2:46 |
 | 65 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
-| 66 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 |
-| 67 | [Daylight](https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Daylight](https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4) | 3:59 |
+| 66 | [Daylight](https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Daylight](https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4) | 3:59 |
+| 67 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 |
 | 68 | [Guess We're Good](https://open.spotify.com/track/3Nws6vS8MB5qMM171ZqcER) | [CIRCO](https://open.spotify.com/artist/5FGWGXau8CRHFD5DUUJCGt) | [Guess We're Good](https://open.spotify.com/album/0kOBqvusIRhk2pfYzE8OYv) | 2:34 |
 | 69 | [Castaway](https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:29 |
 | 70 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
 
-Snapshot ID: `MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx`
+Snapshot ID: `MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj`

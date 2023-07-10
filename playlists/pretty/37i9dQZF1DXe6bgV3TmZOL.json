@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2251607,
+  "num_followers": 2252087,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmIxMTdiZmIzOTFkNDViMDMxNGZlYWFhNWVjODQ4NmRhYTA3ZjM1",
+  "snapshot_id": "MCw3ZWRmMzI5NGQyNGM3MGFhNWQ5Yjk3NDBiZDU0Yzk1YTg4YzA4ZGZi",
   "tracks": [
     {
       "added_at": "2023-06-28 15:22:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 220537,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 235600,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 231963,
-      "name": "Waking Lions",
-      "url": "https://open.spotify.com/track/1VMSib83ZkffP22T64hxot"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Pop Evil",
+        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 231963,
+      "name": "Waking Lions",
+      "url": "https://open.spotify.com/track/1VMSib83ZkffP22T64hxot"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Violent Allies",
-        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "The Shift",
-      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 234774,
       "name": "California Dreaming",
       "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Violent Allies",
+        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "The Shift",
+      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Set Fazers",
-        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Set Fazers",
-      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 183437,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Set Fazers",
+        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Set Fazers",
+      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2339,6 +2339,26 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
+        "name": "Idol (feat. Tech N9ne)",
+        "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 247154,
+      "name": "Idol (feat. Tech N9ne)",
+      "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
       },
@@ -2367,26 +2387,6 @@
       "duration_ms": 176695,
       "name": "SYSTEMATIC",
       "url": "https://open.spotify.com/track/3Hl5rvgzMgPGSx91MLWPOX"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
-        "name": "Idol (feat. Tech N9ne)",
-        "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 247154,
-      "name": "Idol (feat. Tech N9ne)",
-      "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
     },
     {
       "added_at": "2023-06-28 15:22:11",

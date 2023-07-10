@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 39607,
+  "num_followers": 39614,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTQ1NTZiYTU3NzcxOTU5MWU0ZmQ3ZDcwZGFlNDE4OWIxNGE2OWNh",
+  "snapshot_id": "MCw4Y2E3MjIyMmI4YzFiZGY0MjYxYzA1NGJhY2RiZDM0M2NkYTRhNDAz",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -43,22 +43,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "A Generation Ago Today",
-        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Soul Sauce",
         "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 147266,
       "name": "Soul Sauce",
       "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Brian's Bounce",
-      "url": "https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Brian's Bounce",
+      "url": "https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Flip Wails: The Best Of The Verve Years",
-        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
-      },
-      "artists": [
-        {
-          "name": "Flip Phillips",
-          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Singin' In The Rain",
-      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Gettin' To It",
         "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 330760,
       "name": "Gettin' To It",
       "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 312133,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Lester Swings",
@@ -1531,6 +1515,22 @@
       "duration_ms": 353026,
       "name": "Ad Lib Blues",
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 312133,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/7eqSzIGV9rWdheW84WUuiy"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Goodies",
@@ -1631,6 +1615,22 @@
       "duration_ms": 254533,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
     },
     {
       "added_at": "2019-10-04 16:01:14",

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 585274,
+  "num_followers": 585575,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQ0YmY4MGU3MDliYTk4MzUzNzgxOTgyYjcwOWQ2NTg5ZDhhZDVm",
+  "snapshot_id": "MCxhNTU3OThjY2M4MTFmOWU3NTZmNzU1ZGRkMGVlNzY5ZTRlODU5MzQ4",
   "tracks": [
     {
       "added_at": "2023-07-03 13:54:51",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-03 13:54:51",
       "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+    },
+    {
+      "added_at": "2023-07-03 13:54:51",
+      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
-    },
-    {
-      "added_at": "2023-07-03 13:54:51",
-      "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2023-07-03 13:54:51",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-07-03 13:54:51",
       "album": {
+        "name": "Permitame",
+        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
+    },
+    {
+      "added_at": "2023-07-03 13:54:51",
+      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
-    },
-    {
-      "added_at": "2023-07-03 13:54:51",
-      "album": {
-        "name": "Permitame",
-        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Permitame",
-      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
     },
     {
       "added_at": "2023-07-03 13:54:51",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-03 13:54:51",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
-    },
-    {
-      "added_at": "2023-07-03 13:54:51",
-      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2023-07-03 13:54:51",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-07-03 13:54:51",
@@ -1879,6 +1879,30 @@
     {
       "added_at": "2023-07-03 13:54:51",
       "album": {
+        "name": "El Motorcito (Remix)",
+        "url": "https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "El Motorcito - Remix",
+      "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
+    },
+    {
+      "added_at": "2023-07-03 13:54:51",
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -1915,30 +1939,6 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2023-07-03 13:54:51",
-      "album": {
-        "name": "El Motorcito (Remix)",
-        "url": "https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "El Motorcito - Remix",
-      "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
     },
     {
       "added_at": "2023-07-03 13:54:51",
@@ -2059,6 +2059,30 @@
     {
       "added_at": "2023-07-03 13:54:51",
       "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2023-07-03 13:54:51",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -2107,30 +2131,6 @@
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
-    },
-    {
-      "added_at": "2023-07-03 13:54:51",
-      "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
       "added_at": "2023-07-03 13:54:51",

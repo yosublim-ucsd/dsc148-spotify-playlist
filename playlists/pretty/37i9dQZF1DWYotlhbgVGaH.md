@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,782 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,818 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 43 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 | 44 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
 | 45 | [Pink Elephant](https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:44 |
-| 46 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
+| 46 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
 | 47 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
-| 48 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
+| 48 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 | 49 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 50 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 
-Snapshot ID: `MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm`
+Snapshot ID: `MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi`

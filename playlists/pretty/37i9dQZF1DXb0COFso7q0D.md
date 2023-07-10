@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,109,466 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,110,502 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 60 | [Todo Se Va](https://open.spotify.com/track/4iMlvDqxNPvWMMwr1x8bcz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Todo Se Va](https://open.spotify.com/album/7I1ssRibbgp1hIwdpMLJra) | 2:55 |
 | 61 | [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 |
 
-Snapshot ID: `MCxkZDQ5MzRiOTMxOTViY2Q2ZWJmNTRiYmJjNzkyZGZjYThjMTUwN2Nk`
+Snapshot ID: `MCxmM2Y5MWJmMTJiNzIwYjFiMzc5ODA3MGE3MDJmZjc4NzNkOWMwZDA1`

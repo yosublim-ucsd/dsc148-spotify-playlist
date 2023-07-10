@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,812 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,038 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 84 | [Misty](https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:18 |
 | 85 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 86 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
-| 87 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
-| 88 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:39 |
+| 87 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:39 |
+| 88 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
 | 89 | [Yester\-Me, Yester\-You, Yesterday](https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 3:05 |
 | 90 | [Cathy's Clown \- 2007 Remaster](https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:25 |
 | 91 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 | 125 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 
-Snapshot ID: `MCwxOTI1MjRmODQxYjJmODI1MWUxYmUxNTVjZmM0MjA4ZjViMTAwYjcw`
+Snapshot ID: `MCxiMDBjNDE5ZDg5MWIyNzE3ODc5NjMxY2UyOGU5MmJhMjIzMDMzOGNm`

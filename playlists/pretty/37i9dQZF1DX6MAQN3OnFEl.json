@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 366202,
+  "num_followers": 366433,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDVkMmFkYzY3ODgyM2Q5MzgyN2YyZWRkYTAyMzFmNDYyZmU3NGIw",
+  "snapshot_id": "MCwxNWIxYTBiZTQzMTJjZjNhZWQ3ZmIzZGQ3Mzc4NTllNzU0ZWYzZmVm",
   "tracks": [
     {
       "added_at": "2023-06-09 18:32:45",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
-      },
-      "artists": [
-        {
-          "name": "t.A.T.u.",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Beautiful Soul",
-        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
-      },
-      "artists": [
-        {
-          "name": "Jesse McCartney",
-          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 240866,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Beautiful Soul",
+        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
+      },
+      "artists": [
+        {
+          "name": "Jesse McCartney",
+          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
         "name": "Lip Gloss",
         "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 249293,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 264920,
-      "name": "Luxurious",
-      "url": "https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 264920,
+      "name": "Luxurious",
+      "url": "https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Come Clean",
-      "url": "https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Greetings From Imrie House (U.S. Version)",
         "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 234146,
       "name": "Just the Girl",
       "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Come Clean",
+      "url": "https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT"
     },
     {
       "added_at": "2023-06-09 18:32:45",

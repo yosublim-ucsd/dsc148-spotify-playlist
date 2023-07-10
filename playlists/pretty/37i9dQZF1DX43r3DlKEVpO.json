@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63468,
+  "num_followers": 63488,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzQ4NDdhYmU5N2NkMzYzYTYwMzhlMGQ4NWJkZWFiYzQ1ODBkYjFj",
+  "snapshot_id": "MCxiYzA2MmFmMTAzMjU5MjNhYzVlYjQ4ZjI4ZWUyOGI1YmVjOTAwNTVh",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -435,8 +435,8 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -531,8 +531,8 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 224906,
       "name": "Tempos Modernos",
       "url": "https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Ao vivo",
@@ -1043,6 +1027,22 @@
       "duration_ms": 323373,
       "name": "Do fundo do nosso quintal - Ao vivo",
       "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-08-18 22:14:03",

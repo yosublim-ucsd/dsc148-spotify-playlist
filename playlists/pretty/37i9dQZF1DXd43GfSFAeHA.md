@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Tagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,929 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,985 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 32 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
 | 33 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
 | 34 | [Toyota](https://open.spotify.com/track/2GtvTSPzrWKE4R2WFZpKYY) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Toyota](https://open.spotify.com/album/1E3RzUHEM0xLPqIxNAEMRl) | 2:45 |
-| 35 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
-| 36 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 |
+| 35 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 |
+| 36 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
 | 37 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
 | 38 | [Fi Rohak](https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Fi Rohak](https://open.spotify.com/album/761lWXYS5YD8crXQzOWBvU) | 5:27 |
 | 39 | [MI AMORI](https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Karta](https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn) | 2:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 50 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 |
 | 51 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
 
-Snapshot ID: `MCxhYjkzZjlmZGQ4M2JlZWU2MjhjNjlhNWRkYWI1ZjhiZmJhYjQyYjE4`
+Snapshot ID: `MCxhNDQ5Yzc2OWEyMTMyOTFhMzljMmE2Mjg1ZmYyMjhhMmU4MGJlNmI3`

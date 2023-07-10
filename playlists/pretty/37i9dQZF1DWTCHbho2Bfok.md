@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,556 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,535 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
-| 2 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
+| 2 | [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 |
 | 3 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 |
 | 4 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
 | 5 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 52 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
 | 53 | [Silent Night](https://open.spotify.com/track/43EtTBgd5UPVkqPWiQCAnm) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR), [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 4:05 |
 
-Snapshot ID: `MCw3YzUzMzA0ZmI2NzQ4ZDc0NDg4ZmU5YTZmYWNiZjU2MjM2ZmQ4ZTgz`
+Snapshot ID: `MCw0YWYxYmRlMzhhY2FiMDQ3NmJiYjNlMmUwOWIyMzY4ZGM4ZmI1ODFh`

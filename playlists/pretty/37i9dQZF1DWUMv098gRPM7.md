@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: PARTYNEXTDOOR – celebrating 10 years of PND1 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,005 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,039 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 31 | [Summers Over Interlude](https://open.spotify.com/track/3ppVO2tyWRRznNmONvt7Se) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 1:46 |
 | 32 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 |
 | 33 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
-| 34 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
-| 35 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
+| 34 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
+| 35 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
 | 36 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
 | 37 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 |
 | 38 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
 | 39 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 |
 | 40 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 |
 | 41 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
-| 42 | [Open \(feat\. Majid Jordan\)](https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:47 |
-| 43 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
+| 42 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
+| 43 | [Open \(feat\. Majid Jordan\)](https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:47 |
 | 44 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 |
 | 45 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 46 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 | 75 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 |
 
-Snapshot ID: `MCw3YjcwODNkOWE4YmQ3ZDM0MDNmYWM2MjVlNjI3OGJhN2Q1YzFhODhj`
+Snapshot ID: `MCwyOThkOWIxOGIxMzMzYjhlNjU0ZGQ0ZmMyODQ3YmI1YTVhZGJhNWFl`

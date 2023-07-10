@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,677 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,036 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 11 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
 | 12 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 13 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 |
-| 14 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
-| 15 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
+| 14 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
+| 15 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 16 | [My Feeling \- Daddy's Prime Time Edit](https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5) | 3:48 |
 | 17 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
 | 18 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 | 60 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 
-Snapshot ID: `MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw`
+Snapshot ID: `MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0`

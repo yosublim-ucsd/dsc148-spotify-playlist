@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  <a href="https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=IhEOvc51SFWgEJXxlaMT3g">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,541 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,665 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 55 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 |
 | 56 | [All the Time \(Thinking Bout Me\)](https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Marcus Hodge](https://open.spotify.com/artist/4zp9HZh3LJ2K6qN5y4tkqi), [B SLADE](https://open.spotify.com/artist/1vXFOrqCxtBKdLaJqjLqOy), [1kphew](https://open.spotify.com/artist/3MQ4t2qrxZwxZbcp76jXAt) | [The Fallen Movie Soundtrack](https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO) | 2:58 |
 | 57 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
-| 58 | [Won't Be Long Now](https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Won't Be Long Now](https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc) | 3:15 |
-| 59 | [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 |
+| 58 | [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 |
+| 59 | [Won't Be Long Now](https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Won't Be Long Now](https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc) | 3:15 |
 | 60 | [Holding On](https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Blues and Roses](https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY) | 2:25 |
 | 61 | [All Of My Help \- Live](https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Breakthrough: The Exodus \(Live\)](https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ) | 8:38 |
 | 62 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 | 80 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
 
-Snapshot ID: `MCw0MWJiY2EzY2QzYjk3Y2MxNmQyNzMwMWJmZDQzZmJhMWVkZjBjYmVi`
+Snapshot ID: `MCw3MDc4MGVjYWQyZmY3YWU4YTcyYzZiMGQyMWRmNzYyMzkyYjZlN2I2`

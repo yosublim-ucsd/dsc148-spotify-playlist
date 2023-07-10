@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,654 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,686 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 62 | [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 |
 | 63 | [All the Best](https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 4:11 |
 | 64 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 |
-| 65 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
-| 66 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 |
+| 65 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 |
+| 66 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
 | 67 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 |
 | 68 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 69 | [Jolene \- Live](https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Pine Hollow \(Live\)](https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j) | 4:13 |
-| 70 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 |
-| 71 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 |
-| 72 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
-| 73 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 70 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 |
+| 71 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 |
+| 72 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 73 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 | 74 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 75 | [Free Fallin'](https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Free Fallin'](https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX) | 4:51 |
 | 76 | [I Think We’re Alone Now](https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Covers](https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb) | 2:32 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 93 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 |
 | 94 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 |
 | 95 | [Cotton Eye Joe](https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:39 |
-| 96 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
-| 97 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 96 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 97 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
 | 98 | [If You Could Read My Mind](https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [If You Could Read My Mind](https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4) | 3:17 |
 | 99 | [You Can Call Me Al](https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Surrounded by the Sound: Ten Covers by Eddie Berman](https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe) | 4:13 |
 | 100 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 |
 | 115 | [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 |
 
-Snapshot ID: `MCwyYTUxNDYxNTU2ZGEwNWRiMjUzODExOTQ3MDBiYTk4YjlmYjYzN2Ix`
+Snapshot ID: `MCw2ZTdhM2M2MDU1ZGE2YTM2ZDIxMGIxZWM0MTdkYjA1ZjRkMTYyMWYy`

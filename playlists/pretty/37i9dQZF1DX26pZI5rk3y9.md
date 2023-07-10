@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,806 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,818 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 13 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 |
 | 14 | [Bring Me Back Home Again](https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Bring Me Back Home Again](https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe) | 3:43 |
 | 15 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
-| 16 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 |
-| 17 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 |
+| 16 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 |
+| 17 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 |
 | 18 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
 | 19 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 |
 | 20 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 |
 | 21 | [Counting Colors](https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 6:08 |
-| 22 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
-| 23 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 |
-| 24 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 |
-| 25 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
+| 22 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 |
+| 23 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
+| 24 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
+| 25 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 |
 | 26 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
-| 27 | [Done Cryin'](https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Exorcist](https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL) | 4:38 |
-| 28 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
+| 27 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
+| 28 | [Done Cryin'](https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Exorcist](https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL) | 4:38 |
 | 29 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
 | 30 | [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 |
 | 31 | [Can Opener](https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:08 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 41 | [A Good Thing](https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8) | [Handsome Jack](https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr) | [A Good Thing](https://open.spotify.com/album/57syR4Vje7gemU7560rhtl) | 3:34 |
 | 42 | [Gimme Your Love](https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:37 |
 | 43 | [Walk The Wire](https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp) | [Brent Lindsay](https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO) | [Walk The Wire](https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X) | 2:04 |
-| 44 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
-| 45 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
+| 44 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
+| 45 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
 | 46 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 |
 | 47 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
 | 48 | [Keep On Rocking](https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl) | [Max Poolman](https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys) | [Roads Go On Forever](https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o) | 3:57 |
 | 49 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
 | 50 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 |
 
-Snapshot ID: `MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0`
+Snapshot ID: `MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4`

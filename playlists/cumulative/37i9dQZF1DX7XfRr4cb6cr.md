@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-222 songs - 19 hr 18 min
+223 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ghostlore](https://open.spotify.com/track/4fYhvLW1p5inttamdBxDUC) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 6:49 | 2023-02-17 |  |
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2022-12-30 | 2023-02-02 |
 | [Ghosts And All](https://open.spotify.com/track/3NoWosBv396ElBNTIuDT4u) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2MfGjYqGBrXFFPqr2Cduv6) | 8:32 | 2022-01-28 | 2022-07-26 |
-| [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 |  |
+| [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 | 2023-07-10 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 |  |
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
@@ -122,7 +122,7 @@
 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 | 2023-04-21 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
 | [Moments In Love](https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 10:17 | 2022-01-21 |  |
-| [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 | 2023-06-24 |
+| [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 |  |
 | [My Darkest Hour](https://open.spotify.com/track/4xo58k1mlaohC1gcLW1F60) | [Jimmy Svensson](https://open.spotify.com/artist/5THKjrwaxUhrzy5Bzvorri) | [Dark Blood](https://open.spotify.com/album/1wks1CncRvFznFtAS1bjYU) | 3:16 | 2022-03-25 |  |
 | [My God](https://open.spotify.com/track/2P1YnmUrhf2b7RkljESSRH) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Hc8o20mvQgkj0yxkC7WrS) | 2:10 | 2022-03-25 |  |
 | [Mälardynen](https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX) | [Linus Hillborg](https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS) | [Magelungsverket](https://open.spotify.com/album/5nup9Yq25vKalN4aMOA2Bs) | 4:39 | 2022-01-21 | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [Passed over Trail](https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg) | 4:30 | 2022-07-22 | 2022-10-19 |
 | [Path of Devotion](https://open.spotify.com/track/6GfYaRGWjzvvakXv9okhjB) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 3:24 | 2022-01-21 | 2022-07-26 |
 | [Piano II](https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits](https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0) | 3:08 | 2022-01-21 | 2022-10-16 |
+| [Piece Of You](https://open.spotify.com/track/1nW7bU77OhuRxill7v1OQt) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Piece Of You](https://open.spotify.com/album/4cMkmej19OcSJzKLPytYqA) | 2:27 | 2023-07-07 |  |
 | [Pipopapipo](https://open.spotify.com/track/44yYxVlcLb3lp9EokUElUn) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e) | 3:36 | 2022-01-21 | 2023-06-16 |
 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 | 2023-04-21 |  |
 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 | 2022-01-28 | 2023-06-14 |
@@ -205,7 +206,7 @@
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 |  |
 | [Toimetonna](https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq) | [För Alltid](https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu) | [Toimetonna](https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI) | 3:08 | 2022-01-28 | 2023-04-12 |
 | [Torrek](https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:19 | 2022-03-25 |  |
-| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 |  |
+| [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 | 2023-07-10 |
 | [Transience](https://open.spotify.com/track/54gc7VvU6js8KUWaSOYzFR) | [David Granström](https://open.spotify.com/artist/3XzW3dOgb3xTbi1GlstjWV) | [Empty Room](https://open.spotify.com/album/3mxilQQIyEb5YU8HVmATcH) | 4:45 | 2022-01-21 |  |
 | [Trees](https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Reflection Of Light](https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO) | 2:33 | 2022-01-21 |  |
 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 | 2022-01-21 |  |

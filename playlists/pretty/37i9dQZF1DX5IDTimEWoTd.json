@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2488424,
+  "num_followers": 2488927,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzE2OGU0NTZmYzhiZjIyODkxYmNjMTlkMTRjNzQzODM3M2YzOTA4",
+  "snapshot_id": "MCw3NWJhYzliOWQwYTljODNkMTVlNDU0M2UyYTY0Njg2NmJmZjUwNTZm",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Lights Are On",
-      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Lights Are On",
+      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "duration_ms": 185176,
-      "name": "I Hear a Symphony",
-      "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Atlas: I",
         "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180086,
       "name": "You Are Enough",
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "duration_ms": 185176,
+      "name": "I Hear a Symphony",
+      "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
     },
     {
       "added_at": "2023-07-07 04:00:00",

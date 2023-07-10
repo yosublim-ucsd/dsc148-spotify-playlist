@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Cam'Ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,949 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,143 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 40 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
 | 41 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
 | 42 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
-| 43 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
-| 44 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
-| 45 | [Party and Bullshit](https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Party & Bullshit](https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl) | 3:37 |
+| 43 | [Party and Bullshit](https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Party & Bullshit](https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl) | 3:37 |
+| 44 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
+| 45 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
 | 46 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 47 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 48 | [Beware](https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:15 |
 | 49 | [Liquid Swords](https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 4:30 |
 | 50 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 
-Snapshot ID: `MCw0MTg1OTIzN2I4NmIyNGM1NDU3MDMzMTVlYWNiNDFhZmI4NDk3MmI2`
+Snapshot ID: `MCxlM2M3NDZjM2YxOTRlMzIyYTYxZjAwMWU1NmY1YmZjNGRlNDE3NTI2`

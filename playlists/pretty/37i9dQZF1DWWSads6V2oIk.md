@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,067 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,169 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 57 | [Early Morning Rain](https://open.spotify.com/track/50cVjrNMWV8ZZ8DWlNImQB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:02 |
 | 58 | [Thunder, Rain, and the Crickets](https://open.spotify.com/track/3lbTY5yyOsPf7396n3D0Um) | [Sun Songs](https://open.spotify.com/artist/4LTukblVBGn2Yf2SLv3bVq) | [Thunder, Rain, and the Crickets](https://open.spotify.com/album/4U6Gvm5e7VJBFblCfd3GNS) | 2:55 |
 | 59 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 |
-| 60 | [Moonlit Tropics \(Jungle\)](https://open.spotify.com/track/2IP5Zk9blC6qFzjoq1svyS) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 5:11 |
-| 61 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
+| 60 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
+| 61 | [Moonlit Tropics \(Jungle\)](https://open.spotify.com/track/2IP5Zk9blC6qFzjoq1svyS) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 5:11 |
 | 62 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
 | 63 | [Crickets and Birds in the Rain](https://open.spotify.com/track/43xs3xCdJFZX1EcmtSD9JK) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:08 |
 | 64 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 89 | [Tranquility of the Forest](https://open.spotify.com/track/0vW1cA9wBvOfTtSx9L6IAw) | [FX Makers](https://open.spotify.com/artist/5fWAylv9KVBScCAscV4Ibb) | [Peaceful Forest Sounds](https://open.spotify.com/album/4w8JQeeZH7J4ZJucQ5auM2) | 3:17 |
 | 90 | [Moving Stream](https://open.spotify.com/track/0Ud2z5rGh4kO82npWO2QS2) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Moving Stream](https://open.spotify.com/album/7L7oy17ZYgFOnauAewCUL1) | 2:15 |
 
-Snapshot ID: `MCw1NzA4YzZjYThlNmIzZDQ0YzI5MTZhZGZhNTQ2OGE3OWI3NzZlZmIx`
+Snapshot ID: `MCwwMzA4ZjNmYWM5MDU1MTZkNWM0MDgzYjcwMmIwZTdmNGFiNTViZjY3`

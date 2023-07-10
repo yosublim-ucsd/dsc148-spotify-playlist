@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,115 likes - 101 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,154 likes - 101 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 8 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 9 | [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 |
 | 10 | [las calles de mi ciudad](https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [las calles de mi ciudad](https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S) | 3:09 |
-| 11 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 |
+| 11 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 |
 | 12 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
 | 13 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
 | 14 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 100 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 |
 | 101 | [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 |
 
-Snapshot ID: `MCxlMzJjNGRlZjgyZTY4MzQ5OWEzNjFhZjJjYmFmMzEyYTdkOWMwODgx`
+Snapshot ID: `MCw3ZmFhZDFiMTNlNWMwZTY0MWFiZjI0YTg5NDdhOGNmMGM1NDFiNTgz`

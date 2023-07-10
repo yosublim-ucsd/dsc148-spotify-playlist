@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,685 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,715 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 | 50 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
 
-Snapshot ID: `MCw2NDhmOTk1MDU0NTI3MmI1MTA1ODAwZmFmYjBhYjQwOGY3NGQ5MjZk`
+Snapshot ID: `MCxlMzkxNzA4YjZmMjZiYTI2NjY4ZjU2MDYyNmJkOGI4YjI3YWFjZDk1`

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 171577,
+  "num_followers": 171744,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzM2YjViYjI5OTQ2ZDZlY2I0NDY3MjRhZmI2N2JjM2FhMWRiYmM0",
+  "snapshot_id": "MCwwZTAyNzQzNzFhZDJiNmJlZDZmNDNhMzdjNmRiNjVmZTI0YmE2Yjhk",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Night Visions (Deluxe)",
         "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189840,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "Say Amen (Saturday Night)",
+      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 208205,
       "name": "Brother (feat. Gavin DeGraw)",
       "url": "https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "Say Amen (Saturday Night)",
-      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 197680,
-      "name": "Never Going Back",
-      "url": "https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k"
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Fourth Of July",
-      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
+      "duration_ms": 197680,
+      "name": "Never Going Back",
+      "url": "https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 210360,
-      "name": "HOLD ME TIGHT OR DON\u2019T",
-      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+      "duration_ms": 210360,
+      "name": "HOLD ME TIGHT OR DON\u2019T",
+      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "What We Live For",
-      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "ATLAS (Deluxe)",
         "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 185466,
       "name": "Money Run Low",
       "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "What We Live For",
+      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1219,6 +1219,22 @@
       "duration_ms": 244823,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1283,22 +1299,6 @@
       "duration_ms": 220693,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2atYprr9JsQaLynGhrWhld"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
-        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "This Ain't a Love Song",
-      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "R.E.V.O.",
         "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 180880,
       "name": "Red Hands",
       "url": "https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
+        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "This Ain't a Love Song",
+      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
     },
     {
       "added_at": "2022-11-17 15:48:46",

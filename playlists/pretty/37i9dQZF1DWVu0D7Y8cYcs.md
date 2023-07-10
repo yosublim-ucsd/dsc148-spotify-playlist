@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,598 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,719 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 31 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 32 | [Hey Now Now](https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Yell Fire!](https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF) | 5:36 |
 | 33 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
-| 34 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
+| 34 | [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 |
 | 35 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
-| 36 | [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 |
+| 36 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
 | 37 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 |
 | 38 | [Feeling Irie](https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw) | [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [Feeling Irie](https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH) | 3:11 |
 | 39 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 44 | [Sunday Morning](https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX) | 3:56 |
 | 45 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 46 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
-| 47 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
-| 48 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
+| 47 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
+| 48 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
 | 49 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
 | 50 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
 
-Snapshot ID: `MCwwNzFjYWZhM2EyMDBhZmVhNjBhZmE0YzUzODc4N2Q5YmNkNGFmNGQ4`
+Snapshot ID: `MCwxMWUyODA1ZWMyMGM4NDBhYmMxM2EwM2I3YjAzNTRmY2IyNGEyMzA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 98 | [Cómo, Dónde Y Cuándo](https://open.spotify.com/track/1OYc07UMpiMWCj9mHR7P5v) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [Lo Dice El Corazón](https://open.spotify.com/album/6ph2dLGEKh4XvWRx6kCVB7) | 2:38 |
 | 99 | [Pa' Las Cocas](https://open.spotify.com/track/7ctVoo6U1CWtUIT12e1BUi) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [Lo Dice El Corazón](https://open.spotify.com/album/6ph2dLGEKh4XvWRx6kCVB7) | 2:43 |
 
-Snapshot ID: `MCxiNDczODE5OWNiZjJkZGIzODUyNmFmYjg1Y2ZmZDA5NDg0NmY2ZmNk`
+Snapshot ID: `MCxkODY1ZDkxYzJiNTRmYjIyZDllNzNiOWFkMmZiNDI5MmM1NzljMjAx`

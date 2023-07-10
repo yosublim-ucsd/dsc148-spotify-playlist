@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,320 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,369 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 2 | [are you still here](https://open.spotify.com/track/2dCbvnhcqye0gZtB5rSwM1) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [are you still here](https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8) | 2:49 |
 | 3 | [Joni](https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Joni](https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr) | 3:50 |
 | 4 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 |
-| 5 | [Boy from Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
+| 5 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
 | 6 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 |
 | 7 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 |
 | 8 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 79 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 |
 | 80 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 
-Snapshot ID: `MCxmY2JjNWZjN2IwNmU0MTc4MGQ5M2RmZGNjMTJiNjA4NGFmYWUzY2Rm`
+Snapshot ID: `MCwxZDJlMWFkNzZmYWNmM2EyMmM5NThlYzkxNmRmODk5NjA3MjIyODBh`

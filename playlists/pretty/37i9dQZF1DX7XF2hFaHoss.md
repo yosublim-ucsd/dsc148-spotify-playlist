@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,480 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,511 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 |
 | 90 | [Cost of the Cold](https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Cost of the Cold b/w Here and Whole](https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs) | 3:50 |
 
-Snapshot ID: `MCxhMzhhOWI4OWM4YjRlYzI3ZGMwZTg2Y2YxYzgyZjY4YjVhZjIwMmNi`
+Snapshot ID: `MCw2ZjVlNWU2YmQ5OWM0MzY4M2UzOWRmZjRhY2RhNDI5ZTUyZWYxNTdl`

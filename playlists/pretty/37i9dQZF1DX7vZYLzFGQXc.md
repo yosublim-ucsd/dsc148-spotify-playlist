@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: ID:Earth \(아이디얼스\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,545 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,566 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 100 | [UFO \(Feat\. VINXEN\)](https://open.spotify.com/track/0qaYnA64LRlBgbg7mmkQkB) | [BANGJA](https://open.spotify.com/artist/1xCuApr0FBbGZ9UzKpNrNv), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [IN THE GREEN](https://open.spotify.com/album/0ToiLbwfQN4Vo8iGMiGRxR) | 2:22 |
 | 101 | [Even if you leave,](https://open.spotify.com/track/6GIzYEAEW3qnHETNyjKksV) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/5C6iIiRDUNZrhu12yXmtLO) | 4:32 |
 
-Snapshot ID: `MCxiMGVlYjA3MzcyOTEwMGVhZmU4YjZmYjI3YzBlZDQxMDJkM2I0OTRm`
+Snapshot ID: `MCxhZmE3NmQyODg3ZGQwNzRhYzZiYjdkNGU0MDgzMzkxZWE0M2FiMTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bulutlar  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,383 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,387 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 66 | [Çoktan Alev Almıştım](https://open.spotify.com/track/1zJjfbo4o8qRqkgA2M5Git) | [Radyasyon Bulutları](https://open.spotify.com/artist/5tzuC4sXK9SYFFMEMXxwIE) | [Çoktan Alev Almıştım](https://open.spotify.com/album/29mArhBve4cqnyDrpFzf4B) | 4:02 |
 | 67 | [Seninleyim Aslında](https://open.spotify.com/track/4Nl1lmMye40zLFORAq1aUF) | [Ege Çakır](https://open.spotify.com/artist/2zAK9cWUN8CDLvrK4Ca9oG) | [Seninleyim Aslında](https://open.spotify.com/album/6L4O3iT2VMUqXQRWjdmiTa) | 3:07 |
 | 68 | [Uyandım Rüyalara](https://open.spotify.com/track/1vWE0GPuVSFu5yRGhPNqIk) | [Mustafa Uzun](https://open.spotify.com/artist/7mceZzVE0wNqj31rayA5Ab) | [Uyandım Rüyalara](https://open.spotify.com/album/3GK21UEJMlYVPpGGQVczzj) | 2:10 |
-| 69 | [Gerçeğin En Sert Tonu](https://open.spotify.com/track/7bVPRuW29YGFrzLm5drgE4) | [Batuhan Ayduğan](https://open.spotify.com/artist/5Wnv2TFD2dXGKESlyjvZlB) | [Gerçeğin En Sert Tonu](https://open.spotify.com/album/4BUzpmFQ9PucgLGat3a19K) | 4:10 |
+| 69 | [Gerçeğin En Sert Tonu](https://open.spotify.com/track/7bVPRuW29YGFrzLm5drgE4) | [Batuhan Ayduğan](https://open.spotify.com/artist/0JxhevTKcpweFUKuwJo8x1) | [Gerçeğin En Sert Tonu](https://open.spotify.com/album/4BUzpmFQ9PucgLGat3a19K) | 4:10 |
 | 70 | [Robo X1](https://open.spotify.com/track/3QG0D5YCQyPlTaWuRBjqoo) | [Bi Android](https://open.spotify.com/artist/0BgsrRUkYK2zLFRiDagUgG) | [Robo X1](https://open.spotify.com/album/2apXyfw91cXoGoHcuaK1sp) | 6:38 |
 | 71 | [Döngülerimde Kaybolurum](https://open.spotify.com/track/5IT6SWOfUudc6iN6553u57) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Döngülerimde Kaybolurum](https://open.spotify.com/album/2E4yTxk2K3vJMwV7FXCCxk) | 3:59 |
 | 72 | [Mevsimlere Hapsoldum](https://open.spotify.com/track/3EvV2rENLgTRnUUBry1ERO) | [Sam Oray](https://open.spotify.com/artist/1B3svgVIyi5022afNa8roV) | [Mevsimlere Hapsoldum](https://open.spotify.com/album/0qrKT5QzsLSn5gFNRQtZY8) | 3:36 |
 | 73 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 
-Snapshot ID: `MCw2Yzc0N2ZhYTlmNDljMjg4YmI3MTg2OGY4ZDc2YzBkNDQ3YzIwODMx`
+Snapshot ID: `MCxmMzNjYTU4MWRhMjhhZjU0MWIyOTFjM2FlZmNmMzkzNDExMDFjNzkx`

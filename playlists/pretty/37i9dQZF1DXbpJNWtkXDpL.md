@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > De Culiacán, Sinaloa, para el mundo..\. La Receta en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,784 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,808 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 9 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
 | 10 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 11 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
-| 12 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
-| 13 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
+| 12 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
+| 13 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 14 | [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 |
 | 15 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 |
 | 16 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 20 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 | 21 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 |
 | 22 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 |
-| 23 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
-| 24 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
+| 23 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
+| 24 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 25 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 26 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
 | 27 | [El Dos Sierras \( En Vivo\)](https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [En Vivo De Culiacan](https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
 | 50 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 
-Snapshot ID: `MCxmMjBmNmYzYTg4ZGE2NzVjOTUxMDljZWNlNjhmZmRkNTVkYWI3Yzk1`
+Snapshot ID: `MCw0NTFmYThiYTI5NWZhZmJmMGY5YTY3N2I0MDM2NjA3MmZjNzI0NDdj`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 58495,
+  "num_followers": 58666,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTkzMmEyZjhiMzMyZDRmOGZlNjAzOWMyZGE5NWEwNmQzM2YwZmU3",
+  "snapshot_id": "MCwyOTFkYmVjYTg2YmFlZmZiZTM2NjU2YjYzMWJkYTYzNjg2YjJkNTA0",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Be Alone",
+      "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Be Alone",
-      "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
     },
     {
       "added_at": "2022-10-03 04:00:00",

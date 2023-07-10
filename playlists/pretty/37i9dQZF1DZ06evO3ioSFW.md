@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,039 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,171 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 48 | [Llévame \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:31 |
 | 49 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
 
-Snapshot ID: `MjgxNDcwNDQsMDAwMDAwMDBmMTQ4ODNkMzMyZGQ4YTY1YmNhZjVhY2NhYmE1MWQ5OQ==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDBkODg5YWI3OTYzM2I3Y2U4MjdjNWUyOGZjNWMwYzNjZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 212947,
+  "num_followers": 213265,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk1OTFjNjBmZGExYzE3NDVjYmZmNWE2ZGIyYmFkM2JmNDY5Yzli",
+  "snapshot_id": "MCwxZmFhNTI2OWVhZmRmODBkODNmNzg1ZDkwMTE2YzM2MzcwNDdiODNl",
   "tracks": [
     {
       "added_at": "2023-06-20 12:51:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "This Is Always",
-      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "This Is Always",
+      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 166066,
       "name": "All I Do Is Dream Of You - Remastered",
       "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+      "duration_ms": 161173,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "Some Nice Things I've Missed",
         "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 241733,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -831,8 +831,8 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 182120,
       "name": "Until The Real Thing Comes Along - Remastered/1998",
       "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2023-06-20 12:51:53",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-06-20 12:51:53",
       "album": {
+        "name": "Unforgettable Songs",
+        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 133680,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
+    },
+    {
+      "added_at": "2023-06-20 12:51:53",
+      "album": {
         "name": "The Man I Love",
         "url": "https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 167723,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
-    },
-    {
-      "added_at": "2023-06-20 12:51:53",
-      "album": {
-        "name": "Unforgettable Songs",
-        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 133680,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
     },
     {
       "added_at": "2023-06-20 12:51:53",

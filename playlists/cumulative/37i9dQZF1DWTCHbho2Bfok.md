@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-110 songs - 5 hr 59 min
+111 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/2RcutOQKCLvwPe1fxF1DZ0) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Santa's Happy Hour](https://open.spotify.com/album/60OpZt3Hw8MMxcHW8e5QTL) | 2:06 | 2021-12-23 | 2022-11-13 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-12-23 |  |
 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 | 2021-12-23 |  |
-| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-23 |  |
+| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-23 | 2023-07-10 |
 | [Last Christmas](https://open.spotify.com/track/1lEYtsGR1CGXgGFZDj3IQI) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Holiday Pop Hits](https://open.spotify.com/album/1JbsSgnLKF8QvOWexxBQHt) | 4:24 | 2021-12-23 | 2022-11-14 |
 | [Last Christmas](https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:26 | 2021-12-23 | 2022-07-29 |
+| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2022-12-06 |  |
 | [Let It Snow](https://open.spotify.com/track/3KlE3KONZwdK4rXxzlCD7i) | [Coro e solisti di Offegna](https://open.spotify.com/artist/6F4jR8Izn97hzu2Vk8su88) | [Christmas Hits \(Le più belle melodie di Natale\)](https://open.spotify.com/album/2nqEvAeRRLZo8GZHG6M0Ta) | 2:36 | 2021-12-23 | 2022-11-13 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-23 |  |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/7inXu0Eaeg02VsM8kHNvzM) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs By Sinatra](https://open.spotify.com/album/2QRrrjJcbfHSx79HbXLpdl) | 2:35 | 2021-12-23 | 2022-07-29 |

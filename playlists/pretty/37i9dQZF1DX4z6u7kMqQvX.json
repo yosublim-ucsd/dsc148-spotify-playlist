@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 101696,
+  "num_followers": 101711,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmFlNzA3ZWYzN2UzNzUyMzFmYjIyODU4MGFlYjk2ZTViYmJiZDBl",
+  "snapshot_id": "MCw4ZGJhNzZjZTJjMWE1MzQ4NWU0Yjg1NzYwMDM0ZDhhYTM0NmYyMGE4",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Las Voces",
-        "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 210911,
-      "name": "Las Voces",
-      "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 158121,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Las Voces",
+        "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 210911,
+      "name": "Las Voces",
+      "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -583,26 +599,6 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "El Paradise",
-        "url": "https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Elastic Bond",
-          "url": "https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq"
-        }
-      ],
-      "duration_ms": 255240,
-      "name": "Esp\u00e9rame (feat. Elastic Bond)",
-      "url": "https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+        "name": "El Paradise",
+        "url": "https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Elastic Bond",
+          "url": "https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq"
         }
       ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+      "duration_ms": 255240,
+      "name": "Esp\u00e9rame (feat. Elastic Bond)",
+      "url": "https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Un Vaso de Agua",
         "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 88957,
       "name": "Si No Es As\u00ed",
       "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "TKM",
-        "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 230687,
-      "name": "TKM",
-      "url": "https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 230687,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Puedo Con Esto",
+        "url": "https://open.spotify.com/album/2svKHFpTBEyAkDJmL2lUDu"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "duration_ms": 226379,
+      "name": "Puedo Con Esto",
+      "url": "https://open.spotify.com/track/65Kp0ECXOXVcDD8kjj2HyT"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Puedo Con Esto",
-        "url": "https://open.spotify.com/album/2svKHFpTBEyAkDJmL2lUDu"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 226379,
-      "name": "Puedo Con Esto",
-      "url": "https://open.spotify.com/track/65Kp0ECXOXVcDD8kjj2HyT"
     },
     {
       "added_at": "2023-06-23 03:00:00",

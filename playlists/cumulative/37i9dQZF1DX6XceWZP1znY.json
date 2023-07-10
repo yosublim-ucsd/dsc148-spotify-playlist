@@ -11644,7 +11644,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 191417,
       "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
       "url": "https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x"
@@ -14196,6 +14196,28 @@
       "duration_ms": 230480,
       "name": "\u98db\u3076\u9ce5\u306f",
       "url": "https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd"
+    },
+    {
+      "album": {
+        "name": "\u98db\u5929",
+        "url": "https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "\u98db\u5929",
+      "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
     },
     {
       "album": {

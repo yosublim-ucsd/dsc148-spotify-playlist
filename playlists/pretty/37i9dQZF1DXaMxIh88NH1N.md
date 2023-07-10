@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,845 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,923 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 26 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 27 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 28 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4) | 3:10 |
-| 29 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 |
-| 30 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
+| 29 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
+| 30 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 |
 | 31 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 |
 | 32 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 33 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 95 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 |
 | 96 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
 | 97 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 |
-| 98 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
-| 99 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 |
+| 98 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 |
+| 99 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
 | 100 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
 
-Snapshot ID: `MCwyYTQ3YWUwZDdmZTBlYmM3MDU0NDcyMGFkMmI5MmRkZmUyNmZjMzU0`
+Snapshot ID: `MCwxZDAxYmFkMTRkMTI0YzIzYTFhNTQ3YzFmYzk4MzgyYWM2YjZlZjQy`

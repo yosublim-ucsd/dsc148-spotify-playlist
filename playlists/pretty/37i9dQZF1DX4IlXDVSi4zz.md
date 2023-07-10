@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,401 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,698 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 23 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 24 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
 | 25 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 |
-| 26 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 |
-| 27 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
+| 26 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
+| 27 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 |
 | 28 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 | 29 | [Heartbeat](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Charmer](https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG) | 5:29 |
 | 30 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
 | 31 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 |
-| 32 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
-| 33 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
+| 32 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
+| 33 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
 | 34 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 35 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
 | 36 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
 | 50 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 |
 
-Snapshot ID: `MCwwYWI1MTQzZmNiYTI1NmJmMmUwNTdiY2FmZGI3MzBjOTllYWZhMWFj`
+Snapshot ID: `MCw3MDQ3Mjk0NGE3MWQ2YWQ2OGQzYjlhZmM5NzkxODViYjdiMjg5ZmFh`

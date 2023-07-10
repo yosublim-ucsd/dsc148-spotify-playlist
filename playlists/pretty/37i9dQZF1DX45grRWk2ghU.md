@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Life in plastic is fantastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,223 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,175 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 49 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 |
 | 50 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
 
-Snapshot ID: `MCwxZDQyMjAwZTZiY2VlOGE0ZDEwOTQxZjE1MjU1MDljZWI1OGU0ZTM1`
+Snapshot ID: `MCwyYzgwMjg5YWYwMTkwOTM1N2M4OTlkYjU4ODBhMDc0YTljMzA0Yjlh`

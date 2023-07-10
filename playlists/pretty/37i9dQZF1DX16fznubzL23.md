@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,215 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 32 | [Olufunmi](https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB) | 5:20 |
 | 33 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |
 | 34 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 |
-| 35 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
-| 36 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
+| 35 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
+| 36 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
 | 37 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 38 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
 | 39 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 |
 | 40 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
-| 41 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 |
-| 42 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 |
+| 41 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 |
+| 42 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 |
 | 43 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 |
 | 44 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 45 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [Whateva](https://open.spotify.com/track/71dF8V3CxGANvLOTWxThF7) | [Marz BGX](https://open.spotify.com/artist/1la0AGaLZ4v7WSjS99nAps) | [Whateva](https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt) | 2:49 |
 | 50 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
 
-Snapshot ID: `MCxhMjk1NWM3YTEyMWVmNmQ2ZGE2ZWI1NjJkZjRhMzUwOGJmMzVlYTBi`
+Snapshot ID: `MCwzNTExMDU3MmYxYWFlODVmNGM3ZDM1NzAzZDE3MGJhYjAwYzQzMTBk`

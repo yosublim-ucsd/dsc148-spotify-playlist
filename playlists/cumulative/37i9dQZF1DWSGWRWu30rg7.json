@@ -27020,7 +27020,7 @@
     {
       "album": {
         "name": "Pergi",
-        "url": "https://open.spotify.com/album/3H70p917geUXBdf5rNow3h"
+        "url": "https://open.spotify.com/album/7uvEIrPOWi4KYVW9HKVvvT"
       },
       "artists": [
         {
@@ -27031,6 +27031,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179415,
+      "name": "Pergi",
+      "url": "https://open.spotify.com/track/0Dnf6nLdliUDqJLFXbNX2u"
+    },
+    {
+      "album": {
+        "name": "Pergi",
+        "url": "https://open.spotify.com/album/3H70p917geUXBdf5rNow3h"
+      },
+      "artists": [
+        {
+          "name": "andryo",
+          "url": "https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
       "duration_ms": 179415,
       "name": "Pergi",
       "url": "https://open.spotify.com/track/6V1tb6kBLJG22l96UMUiRs"

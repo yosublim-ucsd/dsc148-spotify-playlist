@@ -1,12 +1,12 @@
 {
   "description": "These hits were made to stay! Revive los \u00e9xitos de los \u00faltimos meses aqu\u00ed.",
-  "num_followers": 541844,
+  "num_followers": 541984,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzRmY2VhMzAwMjU4ODA3Nzk3YjI5NzFlMDUzNWZhODVkZDFjYmU0",
+  "snapshot_id": "MCw4MWExYzk4NDdhZDEyMzQ3ZWU1NmNkNGUyZTQ1MGMxMmU5ZmIyMzE0",
   "tracks": [
     {
       "added_at": "2023-07-03 22:35:37",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1043,22 +1043,22 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 198666,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
+        "name": "VISTA AL MAR",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 180672,
+      "name": "VISTA AL MAR",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
-        "name": "VISTA AL MAR",
-        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 180672,
-      "name": "VISTA AL MAR",
-      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "TUS GAFITAS",
-      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -1611,22 +1595,6 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "Una Noche Sin Pensar",
-        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Una Noche Sin Pensar",
-      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
@@ -1647,6 +1615,38 @@
       "duration_ms": 230653,
       "name": "En La De Ella",
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "TUS GAFITAS",
+      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
+        "name": "Una Noche Sin Pensar",
+        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Una Noche Sin Pensar",
+      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -1755,26 +1775,6 @@
     {
       "added_at": "2023-07-03 22:35:37",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "added_at": "2023-07-03 22:35:37",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "added_at": "2023-07-03 22:35:37",
@@ -1831,22 +1847,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2023-07-03 22:35:37",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "added_at": "2023-07-03 22:35:37",

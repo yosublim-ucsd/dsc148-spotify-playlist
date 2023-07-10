@@ -4,7 +4,7 @@
 
 > 150%
 
-235 songs - 10 hr 23 min
+236 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,9 +95,10 @@
 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 | 2022-12-13 |  |
 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 | 2023-04-25 |  |
 | [I Know \- sped up](https://open.spotify.com/track/6PjklVE4C9aBZkqTR3ATob) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:16 | 2023-03-20 | 2023-06-10 |
-| [I WANNA BE SAVED](https://open.spotify.com/track/4Ng8aOl1yYI0uqKKAOdDPd) | [LofiClub](https://open.spotify.com/artist/1iTPP9IvIq7CDNiSfjaSoh), [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [GymFreak09](https://open.spotify.com/artist/5IkQAloXkxxflx4wAzddIX) | [I WANNA BE SAVED](https://open.spotify.com/album/50zkk4woM9wHWx7BWbYBhi) | 4:02 | 2023-05-22 |  |
+| [I WANNA BE SAVED](https://open.spotify.com/track/4Ng8aOl1yYI0uqKKAOdDPd) | [LofiClub](https://open.spotify.com/artist/1iTPP9IvIq7CDNiSfjaSoh), [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [GymFreak09](https://open.spotify.com/artist/5IkQAloXkxxflx4wAzddIX) | [I WANNA BE SAVED](https://open.spotify.com/album/50zkk4woM9wHWx7BWbYBhi) | 4:02 | 2023-05-22 | 2023-07-10 |
 | [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 | 2023-06-11 |
 | [I WANNA BE SAVED](https://open.spotify.com/track/25e9mKeQsZRQQKPpAYqNzB) | [spiritgale](https://open.spotify.com/artist/23yxKeK9f5I4wtdqBPzdaD) | [I WANNA BE SAVED](https://open.spotify.com/album/74i8crDlp1U2weT6NmOoJP) | 4:02 | 2023-05-22 | 2023-07-07 |
+| [I Wanna Be Saved](https://open.spotify.com/track/3jumUqZ4oznBBAUDECNlN1) | [spiritgale](https://open.spotify.com/artist/23yxKeK9f5I4wtdqBPzdaD) | [I Wanna Be Saved](https://open.spotify.com/album/30IARdBiw3OFZN4JnP0J3v) | 4:02 | 2023-05-22 |  |
 | [I WANNA BE SAVED](https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc) | [Tkasi](https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY) | [I WANNA BE SAVED](https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6) | 4:02 | 2023-01-18 | 2023-01-25 |
 | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/track/7oGbiBAh5LiAoHVZZLyweS) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/6Zu5FIic4qYK8bqZ1Kdq64) | 4:02 | 2023-01-18 | 2023-05-06 |
 | [I Wanna Be Saved \- Remix](https://open.spotify.com/track/7cTWKLGU20JeK01dTHJKTk) | [DJ Davion](https://open.spotify.com/artist/3hqsR0iIPaT2kcGKRATaMl) | [I Wanna Be Saved \(Remix\)](https://open.spotify.com/album/4jNCfTsT4tWB1bbrKLwI7V) | 4:02 | 2023-04-11 | 2023-04-17 |

@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
         "name": "Diamond In The Rough",
         "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
       },
@@ -5765,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "REALIEZ",
+        "url": "https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"
+    },
+    {
+      "album": {
         "name": "Souffl\u00e9",
         "url": "https://open.spotify.com/album/5ymJ3Hd4Okgz5WuLQGh8jI"
       },
@@ -7324,7 +7360,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 287634,
       "name": "\u4e00\u5ff5\u4e4b\u9593",
       "url": "https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d"
@@ -10646,7 +10682,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"

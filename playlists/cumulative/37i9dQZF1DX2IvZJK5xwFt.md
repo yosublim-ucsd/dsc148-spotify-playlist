@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-406 songs - 1 day 1 hr 37 min
+407 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 | 2022-06-08 | 2022-07-08 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-08-23 | 2023-06-23 |
 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 | 2022-05-19 | 2022-06-10 |
-| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2023-07-07 |  |
+| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2023-07-07 | 2023-07-10 |
+| [Bum\-Rush](https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 | 2023-07-07 |  |
 | [Busted](https://open.spotify.com/track/1Kx10134Xi9QGqrCoLZ6wM) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Busted](https://open.spotify.com/album/33P1z1j2GkaLEKLgTFzwpN) | 3:05 | 2022-12-15 | 2023-03-25 |
 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 | 2023-06-15 |  |
 | [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 | 2022-08-18 | 2023-02-10 |

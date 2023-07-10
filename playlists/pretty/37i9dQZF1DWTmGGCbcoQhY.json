@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1253188,
+  "num_followers": 1253628,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGU0ZGIyYzA0MWI2ZDQ5MGY0ZGM0ZjBkMDM2ZTkwNjA5NzVkYWQ1",
+  "snapshot_id": "MCwyNmJmYWE2Njk1NzA3NDdjMzE4YWZiNWQ2NzNmNzc0ODU3MTgzYWNi",
   "tracks": [
     {
       "added_at": "2023-06-16 17:56:50",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 232546,
-      "name": "Me Enamor\u00e9 de una Sonidera",
-      "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1047,6 +1031,22 @@
       "duration_ms": 199653,
       "name": "Enbrujo De Cumbia",
       "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Me Enamor\u00e9 de una Sonidera",
+      "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Dile, Cuentale",
         "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250541,
       "name": "Dile, Cuentale",
       "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+        "name": "De Reventon",
+        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
       "artists": [
         {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
         }
       ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+      "duration_ms": 254640,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1211,22 +1227,6 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "De Reventon",
-        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+        "name": "Si Te Hubieras Quedado",
+        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
       "artists": [
         {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+          "name": "Grupo la Ley Siete de Enrike Fortunato",
+          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+      "duration_ms": 278931,
+      "name": "Si Te Hubieras Quedado",
+      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "La Cumbia Se\u00f1al",
         "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 375849,
       "name": "La Cumbia Se\u00f1al",
       "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Si Te Hubieras Quedado",
-        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Ley Siete de Enrike Fortunato",
-          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
-        }
-      ],
-      "duration_ms": 278931,
-      "name": "Si Te Hubieras Quedado",
-      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "No Mientas Mas",
         "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
+        "name": "Ya No Est\u00e0s Aqu\u00ec",
+        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
         }
       ],
-      "duration_ms": 272471,
-      "name": "Te Vas Con El o Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
+      "duration_ms": 262861,
+      "name": "Ya No Est\u00e0s Aqu\u00ec",
+      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Ya No Est\u00e0s Aqu\u00ec",
-        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
       },
       "artists": [
         {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 262861,
-      "name": "Ya No Est\u00e0s Aqu\u00ec",
-      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+      "duration_ms": 272471,
+      "name": "Te Vas Con El o Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Pobre Corazon",
-      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "La Pobreza (Rebajada)",
         "url": "https://open.spotify.com/album/1d71zPm5q6MfRtKFRzhZm5"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/3So0GAT6AmSS4gK4GM53pz"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Pobre Corazon",
+      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
       "added_at": "2023-06-16 17:56:50",

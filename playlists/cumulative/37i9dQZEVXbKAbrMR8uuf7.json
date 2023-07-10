@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 242819,
       "name": "AL CALLAO'",
       "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
@@ -2379,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "Boy Boy",
+        "url": "https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134565,
+      "name": "Boy Boy",
+      "url": "https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF"
+    },
+    {
+      "album": {
         "name": "Barter79",
         "url": "https://open.spotify.com/album/3ZqDSUbJqiajkZ4zthUZZi"
       },
@@ -3534,7 +3556,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 166739,
       "name": "CUANDO BAJE EL SOL",
       "url": "https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79"
@@ -3660,7 +3682,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 165714,
       "name": "CUKI",
       "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
@@ -10072,7 +10094,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
@@ -11864,7 +11886,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -12374,7 +12396,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 221607,
       "name": "NO ME LA MOLESTE",
       "url": "https://open.spotify.com/track/2BuCjLttbLSiPx8sJKBt9b"
@@ -13744,7 +13766,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
@@ -14004,7 +14026,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 75415,
       "name": "PLAYA SATURNO INTRO",
       "url": "https://open.spotify.com/track/2M3GwgWQ2Z0swHkap5gWCm"
@@ -14976,7 +14998,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -18294,7 +18316,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 150391,
       "name": "Tomala",
       "url": "https://open.spotify.com/track/5iV1BZYErbIek3Q3dq20al"

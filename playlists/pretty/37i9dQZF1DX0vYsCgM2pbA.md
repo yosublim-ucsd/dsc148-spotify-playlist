@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,115 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,164 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 13 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 |
 | 14 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 |
 | 15 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
-| 16 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 16 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 17 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
 | 18 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 |
 | 19 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 |
 | 20 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 |
 | 21 | [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 |
 | 22 | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS) | 3:04 |
-| 23 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
+| 23 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 | 24 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
 | 25 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 |
 | 26 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
 | 60 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
 
-Snapshot ID: `MCwwMTEyODNkOGM2NzVhOTYyNDAyZDM5NDNiYjVmYjQwODRlNjQ3MDZk`
+Snapshot ID: `MCxlNzhkZmJhNjAyMDkwZWY0NTI0OTljNzFmNTE0NWVmZGQxY2Q4MDM4`

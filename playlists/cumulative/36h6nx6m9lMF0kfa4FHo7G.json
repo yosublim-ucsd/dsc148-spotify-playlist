@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ"
+    },
+    {
+      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },

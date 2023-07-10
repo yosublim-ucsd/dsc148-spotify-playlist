@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,342 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,386 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 |
 | 80 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 
-Snapshot ID: `MCw5MzhiM2ZmMTBkNGE0MTQ1OTBiOWYwZTBmNGY1MmNjYWFmYzhlZThj`
+Snapshot ID: `MCw0MGM1M2MzZDc0MWVkMmM2MDM1MGU0MzZiYjU2ODZjZjRlOGUwNzZm`

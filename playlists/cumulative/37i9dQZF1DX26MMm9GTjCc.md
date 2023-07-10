@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-121 songs - 7 hr 3 min
+122 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@
 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 | 2021-10-28 |  |
 | [Last Christmas](https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ) | 3:32 | 2021-10-28 | 2022-07-29 |
 | [Last Christmas](https://open.spotify.com/track/64D0upB6qvXDZs6b8X1XRE) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Chilled Christmas](https://open.spotify.com/album/68fVTZVjYOIzZIsHB4pJ7N) | 3:32 | 2021-10-28 | 2022-11-13 |
-| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-10-28 |  |
+| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-10-28 | 2023-07-10 |
 | [Last Christmas](https://open.spotify.com/track/1lEYtsGR1CGXgGFZDj3IQI) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Holiday Pop Hits](https://open.spotify.com/album/1JbsSgnLKF8QvOWexxBQHt) | 4:24 | 2021-10-28 | 2022-11-14 |
 | [Last Christmas](https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:26 | 2021-10-28 | 2022-07-29 |
+| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2022-12-06 |  |
 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 | 2021-10-28 |  |
 | [Love Me Like You \- Christmas Mix](https://open.spotify.com/track/6TVuIRiq2N5ANVumf1qdkn) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Weihnachten Road Trip](https://open.spotify.com/album/2qsk7BpgOK0B3om6iU4za4) | 3:29 | 2021-10-28 | 2022-11-13 |
 | [Love Me Like You \- Christmas Mix](https://open.spotify.com/track/5wTRIbgSw1WKNUufanQSab) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \- Rarities & Remixes](https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ) | 3:29 | 2021-10-28 |  |

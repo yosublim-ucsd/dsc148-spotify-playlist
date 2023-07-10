@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,980 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,982 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 11 | [i don't like it, you're not the same](https://open.spotify.com/track/6OXJL2HaygePLxP2ICvVh0) | [meynus](https://open.spotify.com/artist/2h36lqLlhIyJt4UpCJrLG5) | [i don't like it, you're not the same](https://open.spotify.com/album/5vlCaAYiVdrp7RvDoEjBW6) | 1:37 |
 | 12 | [Frozen Gold](https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3) | 2:18 |
 | 13 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
-| 14 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 |
-| 15 | [Die Young](https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Die Young](https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N) | 3:12 |
+| 14 | [Die Young](https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Die Young](https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N) | 3:12 |
+| 15 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 |
 | 16 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
 | 17 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
 | 18 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 67 | [She Comes & Goes](https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:19 |
 | 68 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
 | 69 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
-| 70 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
-| 71 | [Novacane](https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA) | 3:12 |
-| 72 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
-| 73 | [Trust Issues](https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/7bTOrz5idAaSbqXbFxRs3E) | [Trust Issues](https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo) | 2:00 |
+| 70 | [Trust Issues](https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/7bTOrz5idAaSbqXbFxRs3E) | [Trust Issues](https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo) | 2:00 |
+| 71 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
+| 72 | [Novacane](https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA) | 3:12 |
+| 73 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 74 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
 | 75 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 76 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 87 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 88 | [One Mic](https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [One Mic](https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw) | 2:01 |
 | 89 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
-| 90 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
-| 91 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
+| 90 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
+| 91 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
 | 92 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 |
 | 93 | [Too Much](https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8) | [KS](https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU) | [Better Than Me](https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp) | 2:26 |
 | 94 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [I Wanna Start My Life Again](https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk) | 2:30 |
 | 100 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 
-Snapshot ID: `MCw4NmNlZmQxZjZiNDJiOWIwNmNmMTQ1NTIzZDFjMjYxOGRkNTkwMTNk`
+Snapshot ID: `MCwyMzMxZGY0YjdkMzdiNzgzYTE2YWRmZjRkMDQ5OTYyYTg5YTJiMGY4`

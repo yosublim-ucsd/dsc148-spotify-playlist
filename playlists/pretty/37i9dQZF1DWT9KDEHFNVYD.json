@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10148,
+  "num_followers": 10154,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0",
+  "snapshot_id": "MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -299,18 +299,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Future Days (Remastered Version)",
-        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
       "artists": [
         {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
+      "duration_ms": 202260,
+      "name": "You Look Certain (I\u2019m Not So Sure)",
+      "url": "https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C"
     },
     {
       "added_at": "2023-03-16 22:06:48",
@@ -331,22 +335,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+        "name": "Future Days (Remastered Version)",
+        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Andrea Balency",
-          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
         }
       ],
-      "duration_ms": 202260,
-      "name": "You Look Certain (I\u2019m Not So Sure)",
-      "url": "https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C"
+      "duration_ms": 182186,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "A Ghost Is Born (Deluxe Version)",
         "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 642200,
       "name": "Spiders (Kidsmoke)",
       "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
+      },
+      "artists": [
+        {
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
+        }
+      ],
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Primary Colours",
         "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 478493,
       "name": "Sea Within a Sea",
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+    },
+    {
       "added_at": "2022-03-04 01:55:34",
       "album": {
         "name": "Mandatory Enjoyment",
@@ -917,36 +933,20 @@
       "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -1013,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Chinese Restaurant",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lodger (2017 Remaster)",
-        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Red Sails - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "With Dim Light",
         "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 346883,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lodger (2017 Remaster)",
+        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Red Sails - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Love Comes In Waves",
-        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
-      },
-      "artists": [
-        {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
-        }
-      ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "NEU! 75",
         "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 431800,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Love Comes In Waves",
+        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
-        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 646960,
-      "name": "Pass The Hatchet, I Think I'm Goodkind",
-      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Emperor Tomato Ketchup",
         "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 245093,
       "name": "Les Yper-Sound",
       "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
+        "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 646960,
+      "name": "Pass The Hatchet, I Think I'm Goodkind",
+      "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 247900,
-      "name": "I'm Not Living in the Past Anymore",
-      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 136426,
       "name": "State of Clear",
       "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
+      },
+      "artists": [
+        {
+          "name": "Holy Wave",
+          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
+        }
+      ],
+      "duration_ms": 247900,
+      "name": "I'm Not Living in the Past Anymore",
+      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
       "added_at": "2021-12-07 05:18:52",
       "album": {
         "name": "Ookii Gekkou",
@@ -1635,18 +1619,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 587333,
-      "name": "Negativland",
-      "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     }
   ],
   "unique_name": "Krautrock Highway",

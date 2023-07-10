@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
+        "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
+    },
+    {
+      "album": {
         "name": "How the Mighty Fall",
         "url": "https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w"
       },

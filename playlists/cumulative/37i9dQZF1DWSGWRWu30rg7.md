@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Naykilla
 
-2,165 songs - 5 day 12 hr 39 min
+2,166 songs - 5 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1447,7 +1447,8 @@
 | [Percayalah](https://open.spotify.com/track/4NlSoqgCyRYSORQz51jCT4) | [AyiCOUSTIC](https://open.spotify.com/artist/60ydUHQ42qIuMc2E34HwzX), [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Percayalah](https://open.spotify.com/album/1T7KYsfOvPmpKztcmQRoZX) | 4:20 | 2023-02-23 | 2023-03-10 |
 | [Percayalah](https://open.spotify.com/track/4ixIfr5NkzV2dS1jkVtXA1) | [FLAVI](https://open.spotify.com/artist/5r8TrEZRutYWF8BKrZFVRL) | [Percayalah](https://open.spotify.com/album/4jPuSTqw0ct0R40jyxzoND) | 4:58 | 2022-07-07 | 2022-08-06 |
 | [Percik / Sisa](https://open.spotify.com/track/55njNFlOd2Mtm9Ts9eX6Hm) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Percik / Sisa](https://open.spotify.com/album/1qtINH88KImKZezbnPJDb9) | 3:11 | 2022-07-14 | 2022-08-12 |
-| [Pergi](https://open.spotify.com/track/6V1tb6kBLJG22l96UMUiRs) | [andryo](https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM) | [Pergi](https://open.spotify.com/album/3H70p917geUXBdf5rNow3h) | 2:59 | 2023-07-06 |  |
+| [Pergi](https://open.spotify.com/track/0Dnf6nLdliUDqJLFXbNX2u) | [andryo](https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM) | [Pergi](https://open.spotify.com/album/7uvEIrPOWi4KYVW9HKVvvT) | 2:59 | 2023-07-06 |  |
+| [Pergi](https://open.spotify.com/track/6V1tb6kBLJG22l96UMUiRs) | [andryo](https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM) | [Pergi](https://open.spotify.com/album/3H70p917geUXBdf5rNow3h) | 2:59 | 2023-07-06 | 2023-07-10 |
 | [Pergi dan Tak Kembali \- Form "And The Journey Begins"](https://open.spotify.com/track/09OLrUvNJPtLjUtHx72zdu) | [Symatereo](https://open.spotify.com/artist/7q15enLUSbFXCARfeUBI7u) | [Pergi dan Tak Kembali \(Form "And The Journey Begins"\)](https://open.spotify.com/album/1CE4vasELReCj1rx68y0z0) | 4:28 | 2022-03-31 | 2022-04-15 |
 | [PERHAPS](https://open.spotify.com/track/01y3OabHdhWuIftpTRnBop) | [Jordie Yose](https://open.spotify.com/artist/6VywJDkajUQLLBojKT4C4L) | [PERHAPS](https://open.spotify.com/album/4Bpo3M80eDEaeMZcpIJCKu) | 3:11 | 2022-10-13 | 2022-11-12 |
 | [Perih](https://open.spotify.com/track/2TaBAWtzmGzBxfgiEyHfoO) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Perih](https://open.spotify.com/album/0eHWyZD3PKXVZsIix3TrO5) | 4:21 | 2022-11-30 | 2023-01-13 |

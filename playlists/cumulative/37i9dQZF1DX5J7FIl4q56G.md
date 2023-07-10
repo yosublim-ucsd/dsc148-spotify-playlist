@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Butcher Babies
 
-3,915 songs - 11 day 0 hr 0 min
+3,916 songs - 11 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,8 @@
 | [Brute Force](https://open.spotify.com/track/0Ggtvjfhi7d13Q89bSzhaC) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Infernal Carnage](https://open.spotify.com/album/24gSq1F9WiETnFEUgy2Hlp) | 3:49 | 2022-11-18 | 2022-11-26 |
 | [Bullet In Your Brain](https://open.spotify.com/track/4TDdlKWf59N0wqBTipYzcJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bullet In Your Brain](https://open.spotify.com/album/3yn75PrdYZssPvj8kwKpN4) | 3:17 | 2022-12-02 | 2023-03-04 |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-01-21 | 2022-02-18 |
-| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2023-07-07 |  |
+| [Bum\-Rush](https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:23 | 2023-07-07 | 2023-07-10 |
+| [Bum\-Rush](https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 | 2023-07-07 |  |
 | [Buried](https://open.spotify.com/track/0nc8Rhvv7ZkXyytjL2FpzA) | [The Anchoret](https://open.spotify.com/artist/2CWzy7rhieFqpsLq0mTV58) | [It All Began With Loneliness](https://open.spotify.com/album/4Wbzq8JDJIY6g1CQI3cDrC) | 4:28 | 2023-06-23 | 2023-07-01 |
 | [Burn](https://open.spotify.com/track/0AdOKYpnQUIIx894BAIb87) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [Burn](https://open.spotify.com/album/2xNUwxZEdjwl25kYqVMb8A) | 3:34 | 2022-10-14 | 2022-10-22 |
 | [Burn \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6eBuQV5H7LmNZ8p4MTtwWL) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Burn \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/50t5G3NK6wAGjNpNAidclr) | 3:20 | 2022-10-21 | 2022-10-29 |

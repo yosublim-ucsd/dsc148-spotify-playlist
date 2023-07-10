@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,275 likes - 87 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,324 likes - 87 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 14 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
 | 15 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 |
 | 16 | [I'd Better](https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [I'd Better](https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw) | 3:10 |
-| 17 | [Made to Suffer](https://open.spotify.com/track/6TcJHV7ling7h610MGQbfD) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Made to Suffer](https://open.spotify.com/album/4rsStNbnZHEUe1D1hiGWgI) | 4:11 |
+| 17 | [Made to Suffer](https://open.spotify.com/track/3C4MGD2dVIhzbwLh5vQmi3) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Soul Glow](https://open.spotify.com/album/17lIm26ljC86dEhcBDf0Rs) | 4:11 |
 | 18 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
 | 19 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 20 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 86 | [Si No Eres Tú? \- Remix](https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2) | [Rk Sensation](https://open.spotify.com/artist/2jEgUhp8qDy6EH5yZ3nadk), [Montserrat Alay](https://open.spotify.com/artist/105u1BUf8wMzV48Ju6Ixae), [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [RIKII 2](https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c) | 4:24 |
 | 87 | [LQRA Session \#11](https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [LQRA Session \#11](https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC) | 4:06 |
 
-Snapshot ID: `MCw2NWM2MzNjMDQ2ZjBlY2EyMDhkNDU1ZGFkZTcyNjkzZjU3NDMwZjYz`
+Snapshot ID: `MCw3MjY1MjEzOGUzOWFiMGUwYTQ5MTk1NDExYWI2MzhhNjMxODA0OTRh`

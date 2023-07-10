@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,135 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,181 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 36 | [Quiero Morir en Tu Piel \- En Vivo](https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:04 |
 | 37 | [Conciencia \- En Vivo desde Puerto Rico](https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 3:16 |
 | 38 | [Tu Amor Me Hace Bien \- Live Version](https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:21 |
-| 39 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
-| 40 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
+| 39 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
+| 40 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 41 | [Pedro Navaja \- Live](https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq) | 8:09 |
 | 42 | [Estrellas de Fania \- Live At The Cheetah Club / New York, NY / August 26, 1971](https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live At The Cheetah, Vol\. 2](https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ) | 7:24 |
 | 43 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 | 50 | [La Murga \- Live](https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 7:02 |
 
-Snapshot ID: `MCw4NGFiYmExYTkzMmY2ZGU4Zjk4ZGNkZWE0YjE4NjkyMDQxODRhMzIz`
+Snapshot ID: `MCxmMWRjZTgxZjU2MDBjZDZhYWYwOTA1MmRjNzNjNzUxYmZlZTRmMGQ3`

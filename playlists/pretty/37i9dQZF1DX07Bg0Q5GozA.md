@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Metric
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,624 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,660 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 |
 | 75 | [Summer & Smoke \- Trikk Selva Furia Remix](https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Summer & Smoke \(The Remixes\)](https://open.spotify.com/album/6qNbDRjMcjbzkHqJVYjLga) | 3:44 |
 
-Snapshot ID: `MCw1MGMxOTE5M2YwNjJhYmU0MDIwNDAyNzYwOWY4YTEwOTRkNjcwYTA4`
+Snapshot ID: `MCxmOTFlZmRlNzA0ODFhNjhlZmVlMmEyZTZmMjNhOTdmOTQ4YWNhMWVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,916 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,004 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 49 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
 | 50 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 51 | [Erase Me \(feat\. 10K.Caash\)](https://open.spotify.com/track/6MKlUSv0Magp6Cg901vZMH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
-| 52 | [Everywhere](https://open.spotify.com/track/6CoviEJTThZGD6YjbA3q4c) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everywhere](https://open.spotify.com/album/5xMneXss8T6BWf9ppkZc3P) | 3:15 |
-| 53 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
+| 52 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
+| 53 | [Everywhere](https://open.spotify.com/track/6CoviEJTThZGD6YjbA3q4c) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everywhere](https://open.spotify.com/album/5xMneXss8T6BWf9ppkZc3P) | 3:15 |
 | 54 | [Closer](https://open.spotify.com/track/2Mfg9VKNW2txe2gNjIi1Az) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 4:12 |
 | 55 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
 | 56 | [All Too Well](https://open.spotify.com/track/0N1vWuNWIbUsPp9gK9kwhv) | [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [All Too Well](https://open.spotify.com/album/1v1IprTRlmXdlb2B79A2ch) | 4:55 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 92 | [Two Tickets To Paradise \(2006\)](https://open.spotify.com/track/4m9sbj1CNZw5ANg1YTflH4) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:15 |
 | 93 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
 | 94 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
-| 95 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
-| 96 | [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 |
+| 95 | [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 |
+| 96 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
 | 97 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 98 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
-| 99 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
-| 100 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
+| 99 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
+| 100 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
 
-Snapshot ID: `MCw1OTUxYzIyNDBlOTczOTllNmFjNmU3NzYyZDdlOTY3MzQxMThjMDYw`
+Snapshot ID: `MCwzNjU5NTc2ODZjNDQwYzgzMjQ1M2RlMWZjMTU2OWU4M2M5YTY5MmNj`

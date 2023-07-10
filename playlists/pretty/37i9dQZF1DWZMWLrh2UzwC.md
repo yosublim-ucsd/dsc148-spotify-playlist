@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,438 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,441 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
 | 91 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 
-Snapshot ID: `MCxmZDMyNWVlMzNlNWQ4NGM0ZGE1YmE0NjMzNGM3NTQ0NzVkOGJlNTc2`
+Snapshot ID: `MCw5YmIxM2QxODA3MTk4Y2IyMmE5ODFmYjYwY2Y3ZTE5ZDdkYzMwZjRm`

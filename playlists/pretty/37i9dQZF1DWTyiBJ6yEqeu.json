@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 5189828,
+  "num_followers": 5190708,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODY0MTZjZGE5MjE0NGY2YjQwYzhmYmM1MzU3MTEwZWM2OGZiNWFm",
+  "snapshot_id": "MCxjMjIxOGU4N2QzZTE1YWVhOTlkOWQ4MjQxYTRhNTdhYzRiNzdlZDhi",
   "tracks": [
     {
       "added_at": "2023-07-07 16:31:17",
@@ -319,18 +319,22 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2023-07-07 16:31:17",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2023-07-07 16:31:17",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Favorite Song",
-        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 208630,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
-    },
-    {
-      "added_at": "2023-07-07 16:31:17",
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
+    },
+    {
+      "added_at": "2023-07-07 16:31:17",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-07-07 16:31:17",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1483,18 +1499,22 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2023-07-07 16:31:17",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2023-07-07 16:31:17",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
-    },
-    {
-      "added_at": "2023-07-07 16:31:17",
-      "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-07-07 16:31:17",
@@ -1603,6 +1583,26 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2023-07-07 16:31:17",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": "2023-07-07 16:31:17",

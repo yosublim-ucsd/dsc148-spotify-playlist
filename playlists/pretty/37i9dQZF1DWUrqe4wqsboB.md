@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 31 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
 | 32 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 33 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
-| 34 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
-| 35 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
+| 34 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
+| 35 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
 | 36 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 |
 | 37 | [Exclusive](https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Exclusive](https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m) | 2:29 |
-| 38 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
-| 39 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
+| 38 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
+| 39 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
 | 40 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 41 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
 | 42 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
 | 50 | [Igual](https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx) | [Los Berets](https://open.spotify.com/artist/7seVD4zALd4VgPn2G7VWRM) | [Igual](https://open.spotify.com/album/41zIUQ0zbNnO3uoRJzxm9S) | 2:09 |
 
-Snapshot ID: `MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk`
+Snapshot ID: `MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj`

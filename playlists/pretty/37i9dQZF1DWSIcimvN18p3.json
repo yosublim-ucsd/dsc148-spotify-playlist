@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 276815,
+  "num_followers": 276844,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzk1N2YyYjJhMjUzNTI4ZTc1YWFkYmY2ZThiY2Q4ODBjODFhMjZh",
+  "snapshot_id": "MCxlYzI3MGYwZDc2ZTBlYWVkNzhkMTNmZjhkYzNmZmZkNWQyNmRjOWE3",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -159,6 +159,38 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Back, Baby",
+      "url": "https://open.spotify.com/track/6qPr2b9A2aw4n0rbDoUFUg"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -183,38 +215,6 @@
       "duration_ms": 215689,
       "name": "Ketchum, ID",
       "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Back, Baby",
-      "url": "https://open.spotify.com/track/6qPr2b9A2aw4n0rbDoUFUg"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Love Letter From The Sea to The Shore",
-        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Love Letter From The Sea to The Shore",
-      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Just Like Leaving",
         "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 206960,
       "name": "Just Like Leaving",
       "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -679,22 +695,6 @@
       "duration_ms": 191093,
       "name": "Let Him Fly",
       "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Made the Harbor",
-        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Animal Tracks",
-      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Made the Harbor",
+        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Animal Tracks",
+      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
       "artists": [
         {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "no fun/party",
-        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 356474,
-      "name": "no fun/party",
-      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "no fun/party",
+        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Capable",
-      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 210160,
       "name": "How Can You Sing",
       "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Capable",
+      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 110693,
       "name": "Julie Ann Johnson",
       "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Sorry Now",
-        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Wax & Wane",
-        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
-      },
-      "artists": [
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Wax & Wane",
-      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 247320,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Wax & Wane",
+        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
+      },
+      "artists": [
+        {
+          "name": "Alana Henderson",
+          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Wax & Wane",
+      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
-      },
-      "artists": [
-        {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Swing and Turn Jubilee",
-      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
+      },
+      "artists": [
+        {
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Swing and Turn Jubilee",
+      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
     },
     {
       "added_at": "2023-03-08 05:00:00",

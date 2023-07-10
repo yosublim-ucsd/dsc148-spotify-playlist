@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-335 songs - 16 hr 25 min
+336 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 |  |
 | [Alone](https://open.spotify.com/track/05u2bMqTUNgD5CnxM7pEcU) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Alone](https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL) | 2:29 | 2021-10-29 | 2022-07-29 |
 | [Alright](https://open.spotify.com/track/2001Dk1uUT2AtwV9GuvuAe) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Alright](https://open.spotify.com/album/3uhacxjARwJvQZ5iyehrX3) | 2:38 | 2021-10-29 | 2022-03-22 |
-| [AM:PM \- NOTD VIP Mix](https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM \(NOTD VIP Mix\)](https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC) | 2:21 | 2023-05-26 |  |
+| [AM:PM \- NOTD VIP Mix](https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM \(NOTD VIP Mix\)](https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC) | 2:21 | 2023-05-26 | 2023-07-10 |
 | [Amado](https://open.spotify.com/track/6umBB4ktNSSrxhFQQfRSv9) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Amado](https://open.spotify.com/album/2ZlP83uVoIMuF9hqwOSA87) | 3:14 | 2022-04-01 | 2022-07-15 |
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2021-10-29 |  |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-08-06 |
@@ -54,6 +54,7 @@
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 | 2022-12-17 |
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 | 2023-05-19 |
+| [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 |  |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 |  |
 | [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 |  |

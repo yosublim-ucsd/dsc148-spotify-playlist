@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Él Mató a un Policía Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,380 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,416 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 5 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 6 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 7 | [Luces](https://open.spotify.com/track/6bX7kiZsHjERDyiQReVxtT) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/3GNwfsYXxTJgz5hKlpR6Hn) | 3:08 |
-| 8 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 8 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 |
 | 9 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 |
 | 10 | [Perdón\-amé](https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Perdón\-amé](https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn) | 2:53 |
 | 11 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 |
 | 80 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 |
 
-Snapshot ID: `MCxkYWQyZTNiOGFkNzAyNjRlNjQyYTFiZTZmMDI5YzQ5YTcwZmUwZjlj`
+Snapshot ID: `MCwxYjY2M2ExMWNmMjRhMjUzNzljNzU2Y2YyZDY5MmFiZjUzMjc5MjAx`

@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 165971,
+  "num_followers": 166072,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2YyOGY0YWIyZjFkYzk1ZjliZWI0NWM0OTMwYWMzYTdhNjY3NDVh",
+  "snapshot_id": "MCwxYWJmOWU4ZTRkZDU0Mzk0MjJmNTkzMDcxNGYzMmY1MTNhZDliN2Vi",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -191,26 +191,18 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -231,18 +223,26 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Enchule",
-        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185718,
-      "name": "Enchule",
-      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "HASTA ABAJO",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 229946,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "Enchule",
+        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185718,
+      "name": "Enchule",
+      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "VAQUERITA",
-        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 152970,
-      "name": "VAQUERITA",
-      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "VAQUERITA",
+        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 152970,
+      "name": "VAQUERITA",
+      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1899,22 +1899,18 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
     }
   ],
   "unique_name": "Tranqui",

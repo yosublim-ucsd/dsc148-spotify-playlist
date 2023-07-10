@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 94434,
+  "num_followers": 94557,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTkwYTlhOGM1YjMxODllMmRlNWViZDk1NGJjYmU0ZmUyZjEwZDhm",
+  "snapshot_id": "MCxkNzY2ZWNhZTA5NGExNDQxYmZhMzAwNDk5MjkyMTEyMjdmMmJiMmZl",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1231,42 +1231,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Nu Beginning",
-        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
-        }
-      ],
-      "duration_ms": 234943,
-      "name": "Nu Beginning",
-      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Juslisen (Special Edition)",
-        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Previouscats",
-      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
       },
@@ -1287,18 +1251,54 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Inside Out \u2013 A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh"
+        "name": "Juslisen (Special Edition)",
+        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 232570,
-      "name": "Inside Out \u2013 A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
+      "duration_ms": 237240,
+      "name": "Previouscats",
+      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Nu Beginning",
+        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
+        }
+      ],
+      "duration_ms": 234943,
+      "name": "Nu Beginning",
+      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Exposure",
+        "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 224543,
+      "name": "Exposure",
+      "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Exposure",
-        "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
+        "name": "Inside Out \u2013 A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh"
       },
       "artists": [
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 224543,
-      "name": "Exposure",
-      "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+      "duration_ms": 232570,
+      "name": "Inside Out \u2013 A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
     },
     {
       "added_at": "2023-06-30 03:01:00",

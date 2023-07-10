@@ -9710,10 +9710,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 203560,
       "name": "Bum-Rush",
       "url": "https://open.spotify.com/track/3bMIA09NJM3UZAhxS7bWqA"
+    },
+    {
+      "album": {
+        "name": "Bum-Rush (Instrumental)",
+        "url": "https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Bum-Rush",
+      "url": "https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,906 likes - 182 songs - 11 hr 56 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,926 likes - 183 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,6 +189,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 179 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 | 180 | [Liberator](https://open.spotify.com/track/4HdzJLko7FIZdnrUKkqCn3) | [Spear Of Destiny](https://open.spotify.com/artist/4vJgvzfdA3q1KFsNl3GFvc) | [One Eyed Jacks \(Expanded Edition\)](https://open.spotify.com/album/0u8aUhsoeDWAYXM4uxmHPV) | 3:39 |
 | 181 | [Blue Danube Waltz](https://open.spotify.com/track/0PdPirK6TlgnZ8jhmMlCCc) | [The Vienna Opera Orchestra](https://open.spotify.com/artist/5IbHqE3sbrMD1ZVnEfisKj), [Johhann Strauss](https://open.spotify.com/artist/62XXghhL0IERgKWs24YM85), [Peter Falk](https://open.spotify.com/artist/3bdnhiGxupHmiKyZX73MmL) | [The Very Best Of Johann Strauss](https://open.spotify.com/album/0I68MdYNLn3rqoqosCfcuy) | 10:07 |
-| 182 | [Space Oddity](https://open.spotify.com/track/3CDd3KJKMdkN13BCzsj9ch) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [De Tijdloze](https://open.spotify.com/album/7LMZEJRugbATrTWJyrzVOL) | 3:50 |
+| 182 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 |
+| 183 | [Space Oddity](https://open.spotify.com/track/3CDd3KJKMdkN13BCzsj9ch) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [De Tijdloze](https://open.spotify.com/album/7LMZEJRugbATrTWJyrzVOL) | 3:50 |
 
-Snapshot ID: `NDcxLDBiMjI2ZWJkN2JhMjhkYTkzMjFhN2YzNGE0YjZkNWY5YjEyODE1NGI=`
+Snapshot ID: `NDczLGQwMzBhZWJmZTg0NjE0ODkwMWM3N2NlNzZiZDI5MjZkYjVhOGI3Yjg=`

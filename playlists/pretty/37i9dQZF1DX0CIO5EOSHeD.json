@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 439529,
+  "num_followers": 439661,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3",
+  "snapshot_id": "MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji",
   "tracks": [
     {
       "added_at": "2023-05-18 14:29:48",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Huli Ka",
         "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 95000,
       "name": "Death of the Phone Call",
       "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Bedside Kites",
-        "url": "https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi"
-      },
-      "artists": [
-        {
-          "name": "Bedside Kites",
-          "url": "https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL"
-        }
-      ],
-      "duration_ms": 328421,
-      "name": "A Sad Song About a Girl I No Longer Know",
-      "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Bedside Kites",
+        "url": "https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi"
+      },
+      "artists": [
+        {
+          "name": "Bedside Kites",
+          "url": "https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL"
+        }
+      ],
+      "duration_ms": 328421,
+      "name": "A Sad Song About a Girl I No Longer Know",
+      "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Escape From The Killer",
-        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Escape From The Killer 2008",
-      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "i run like this",
         "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 182250,
       "name": "buzzkill bummer",
       "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2023-05-18 14:29:48",

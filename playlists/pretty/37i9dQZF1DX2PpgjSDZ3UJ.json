@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20823,
+  "num_followers": 20833,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
+  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Depresi\u00f3n Sonora",
+        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Ya No Hay Verano",
+      "url": "https://open.spotify.com/track/2VyMyqR2ona9yAFk7WsJNW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "MEMORIA FUTURO",
         "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Depresi\u00f3n Sonora",
-        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Ya No Hay Verano",
-      "url": "https://open.spotify.com/track/2VyMyqR2ona9yAFk7WsJNW"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Subcampe\u00f3n",
-        "url": "https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 280513,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/3cDs4QvgqiEX0fms6Pfg7A"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Lavandina",
         "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 299192,
       "name": "Precipicio",
       "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Subcampe\u00f3n",
+        "url": "https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 280513,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/3cDs4QvgqiEX0fms6Pfg7A"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Petr\u00f3leo",
         "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 195652,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "The Prettiest Curse",
         "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2020-12-01 05:03:00",

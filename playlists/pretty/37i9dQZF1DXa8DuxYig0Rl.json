@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 19238,
+  "num_followers": 19267,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj",
+  "snapshot_id": "MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Norma la de Guadalajara",
-      "url": "https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "De Quen Chon",
         "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 149185,
       "name": "Macorina Pon Pon",
       "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 154066,
+      "name": "Norma la de Guadalajara",
+      "url": "https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mis 50 Favoritas",
-        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Cabaret Manana",
         "url": "https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 138133,
       "name": "Mucha Muchacha",
       "url": "https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mis 50 Favoritas",
+        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Espuma De Mar",
-        "url": "https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "Pasito Tun Tun",
-      "url": "https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "El Pasado",
         "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 170319,
       "name": "El Restaurantito",
       "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Espuma De Mar",
+        "url": "https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "Pasito Tun Tun",
+      "url": "https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Las Bicicletas",
-      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Nostalgia de Cuba",
         "url": "https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 175804,
       "name": "Las Maracas de Cuba",
       "url": "https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Las Bicicletas",
+      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 152093,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
     },
     {
       "added_at": "2023-01-23 22:42:50",

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net VAAIBS\. Cover: <a href="https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A">Georic Lomas</a> & <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO\_YMlIxDV7wQ">Jemma Catherine</a>
+> Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A">Georic Lomas</a> & <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO\_YMlIxDV7wQ">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,032 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOS \(feat\. Georic Lomas\)](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS \(feat\. Georic Lomas\)](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 |
+| 1 | [SOS](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 |
 | 2 | [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 |
 | 3 | [Teenoorgestelde Balans](https://open.spotify.com/track/3FRdBBlXcQMK2ewBPa4nXi) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:05 |
 | 4 | [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Vergeet My Hier](https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds), [Henri Alant](https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4) | [Vergeet My Hier](https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN) | 3:17 |
 | 50 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 
-Snapshot ID: `MCw5ZGEwZjQzZGVkZjlkM2M4MTA0NjM5N2Y1YWY2OTYzODI0OWEzNGNh`
+Snapshot ID: `MCw3M2JlYTU1M2QxN2MwMzEwYjJiYzFkY2YzOGQxZjcxMTM0MGVmYjZi`

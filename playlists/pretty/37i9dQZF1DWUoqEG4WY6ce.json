@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1035715,
+  "num_followers": 1036030,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWVhNTc0YjQxZWE2OGM1NTA5ZTJjMDkyZDA3ZTQ2NzEwOTkxNzkx",
+  "snapshot_id": "MCxjZDE2MjFlYWI4MzhkYjIyMWU1MjkyMTM5ZTM0YzNlNTJjZTI1NDMy",
   "tracks": [
     {
       "added_at": "2023-06-01 19:14:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 239881,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
       "artists": [
         {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
         }
       ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 183894,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "So Long, See You Tomorrow",
-        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 193277,
       "name": "Wild",
       "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "So Long, See You Tomorrow",
+        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
     },
     {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "circle the drain",
-      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
-    },
-    {
       "added_at": "2023-06-22 14:31:53",
       "album": {
         "name": "Oceanside",
@@ -1511,6 +1495,22 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "circle the drain",
+      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Crooked Teeth",
-      "url": "https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Con Law",
         "url": "https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 200213,
       "name": "When They Fight, They Fight",
       "url": "https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq"
     },
     {
       "added_at": "2023-06-01 19:14:40",

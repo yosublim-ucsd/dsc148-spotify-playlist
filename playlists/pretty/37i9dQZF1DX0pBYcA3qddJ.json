@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48329,
+  "num_followers": 48349,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDcwODU1ZjM4OTdjMDVjMWZkNmYxNjhjNjBhNWNjMjBkMzg0YTVh",
+  "snapshot_id": "MCxiNWY4MDYxNjQ3YjE3ZTZlMGM2NTNlM2UwNDExYjBkNzliY2YxYmU0",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Live at Bush Hall",
-        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 586506,
-      "name": "Turbines/Pigs - Live at Bush Hall",
-      "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Defeat",
-        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+        "name": "Live at Bush Hall",
+        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
         }
       ],
-      "duration_ms": 1318174,
-      "name": "Defeat",
-      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+      "duration_ms": 586506,
+      "name": "Turbines/Pigs - Live at Bush Hall",
+      "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
     },
     {
       "added_at": "2023-07-04 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,897 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,951 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 24 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
 | 25 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 26 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
-| 27 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
-| 28 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 27 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 28 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 29 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
 | 30 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
 | 31 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
 | 50 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
 
-Snapshot ID: `MCwyMzdmMGNmMzg2YjY1MjgyOGY5MDE4OWY4NGY1Zjk3ZjkzZjE3NWQ1`
+Snapshot ID: `MCwxNjU4ZjJlNGMzYjE5NWQ4ODQ2MmNiYjIxYTQxNmQ1YjIxYmQwZTg3`

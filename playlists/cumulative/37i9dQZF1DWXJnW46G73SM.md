@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q"> حسين الجسمي </a>
 
-499 songs - 1 day 4 hr 37 min
+500 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 | 2022-09-29 |
 | [Enty Helwa](https://open.spotify.com/track/5V6SbJmwZowWofLMZYzMjI) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Enty Helwa](https://open.spotify.com/album/5MPMR67fgV8BzuIHD5UO88) | 2:27 | 2022-10-13 | 2023-01-03 |
 | [Ergaa Ya Zaman](https://open.spotify.com/track/0RxA6Trjdx4AtMZW9nU8NG) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Ergaa Ya Zaman](https://open.spotify.com/album/3U0MrzRqRyEaNmBjFforHB) | 2:21 | 2023-05-18 | 2023-06-07 |
-| [Ergaa Ya Zaman](https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 2:21 | 2023-06-06 |  |
+| [Ergaa Ya Zaman](https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 2:21 | 2023-06-06 | 2023-07-10 |
 | [Eshra W Meshwar](https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Eshra W Meshwar](https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg) | 1:51 | 2023-05-04 | 2023-06-07 |
 | [Eshra W Meshwar](https://open.spotify.com/track/7BprZsIo7b6bnEuWWCjTIm) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 1:51 | 2023-06-06 | 2023-06-15 |
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
@@ -418,6 +418,7 @@
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-02-03 |
 | [بيتنا \- تتر مسلسل العيلة دي](https://open.spotify.com/track/5MJvSm6EoCbuYTkRYESMrT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [بيتنا \(تتر مسلسل العيلة دي\)](https://open.spotify.com/album/4BLn54YmROpPMjUBhNSMOO) | 3:20 | 2023-04-03 | 2023-05-12 |
 | [بيني و بينك](https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بيني و بينك](https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg) | 3:03 | 2021-12-30 | 2022-03-18 |
+| [تاج](https://open.spotify.com/track/2SWPhgW7TDMixjpLILjKp7) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [تاج](https://open.spotify.com/album/3Tt1uaGmNQSdPQbFCxWxQM) | 3:07 | 2023-07-09 |  |
 | [تتر مسلسل إيجار قديم](https://open.spotify.com/track/78UmbZ12RIuxdH0DJPi79B) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [تتر مسلسل إيجار قديم](https://open.spotify.com/album/5PverpMPdObPEdRQ5AM41K) | 2:17 | 2022-11-17 | 2023-01-27 |
 | [تجاوز](https://open.spotify.com/track/6dGF8eFaRmMMQ72EJd8c7W) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [تجاوز](https://open.spotify.com/album/2bsAJySmgxtPwwtHQ13SQE) | 2:53 | 2023-01-19 | 2023-02-24 |
 | [تجري ورايا \- من فيلم هارلي](https://open.spotify.com/track/77poO713J8VlBYcLXAhQUx) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [تجري ورايا \(من فيلم هارلي\)](https://open.spotify.com/album/732sy0H8AYAH1fNnwN6Lgi) | 2:34 | 2023-05-10 | 2023-06-28 |
@@ -475,7 +476,7 @@
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [مسولي وصبحوا](https://open.spotify.com/track/1R9jVRREumTrJus79J5F5R) | [بوسي](https://open.spotify.com/artist/7a0K56MtFI8OmIuA9H7bl8) | [مسولي وصبحوا](https://open.spotify.com/album/6vXr6k59sVFvyuP23CxJmo) | 2:57 | 2023-06-25 |  |
 | [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-02 | 2023-03-15 |
-| [مش تمام](https://open.spotify.com/track/2xP4vYERTZ6og3AGzWwlTm) | [Papa Guede](https://open.spotify.com/artist/4wwTMtuuuhkPxvKKQKArSW) | [مش تمام](https://open.spotify.com/album/2JgdGwxxg97Zq95d6TSJOx) | 3:26 | 2023-05-18 |  |
+| [مش تمام](https://open.spotify.com/track/2xP4vYERTZ6og3AGzWwlTm) | [Papa Guede](https://open.spotify.com/artist/4wwTMtuuuhkPxvKKQKArSW) | [مش تمام](https://open.spotify.com/album/2JgdGwxxg97Zq95d6TSJOx) | 3:26 | 2023-05-18 | 2023-07-10 |
 | [مش مهم](https://open.spotify.com/track/6E28o3lYVr0MkkxV6pYJtU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مش مهم](https://open.spotify.com/album/3bWf1DzJ9xSiZuCh5oJQSx) | 3:46 | 2023-06-15 | 2023-06-24 |
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 6042,
+  "num_followers": 6147,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDZkMWExYmQ1NGUxN2E0ZjE4MzU5MDJlOGYwNjJlNDgxOTNlOTkw",
+  "snapshot_id": "MCwyNWU1YmJlZDkyYzk5NzNiNTFlMjI4MTVjMDVkYmQ1ZTQyYTRlYmVl",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 198760,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2023-04-11 13:31:58",

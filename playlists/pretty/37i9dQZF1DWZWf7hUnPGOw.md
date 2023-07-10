@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,370 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,425 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCw5YjZhMTBiODM5ZWI5ZGJmNTc0ZmY1NTVkYWYzNGZjNmJlOTkxNTc3`
+Snapshot ID: `MCxiMWQxMTU4ZDZjNWZlN2Y3NzNjZWU4NTA0MmE3ZWFmZmIyNDVmNmNm`

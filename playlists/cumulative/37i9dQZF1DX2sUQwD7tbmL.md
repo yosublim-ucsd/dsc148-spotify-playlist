@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-568 songs - 1 day 8 hr 9 min
+569 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2021-05-01 | 2022-04-14 |
 | [Bush TV](https://open.spotify.com/track/4jthDkiSNO5oVWlA2KhXJ1) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bush TV](https://open.spotify.com/album/4Wb5AodoKd88GNICvZntAR) | 2:50 | 2021-05-01 | 2022-04-14 |
 | [Buttons](https://open.spotify.com/track/1TBpRrzF1dhn99zX2pXYXn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Buttons](https://open.spotify.com/album/4Vxnl8R9moFhMp2GHDb65a) | 3:36 | 2021-05-01 | 2022-07-29 |
+| [Buttons](https://open.spotify.com/track/76ARcI2WtTwLKC3zz9Duug) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/1tdlHv6L6EvEV3ZbLeZMlL) | 3:36 | 2023-05-26 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2021-05-01 | 2022-04-14 |
 | [Calm Down](https://open.spotify.com/track/1MXb1CAZF9Rrvpp6pGcwsJ) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Caretakers](https://open.spotify.com/album/6lnJQzI8DHzZ30IPRdBhcY) | 2:55 | 2021-05-01 | 2022-02-06 |
@@ -337,7 +338,7 @@
 | [Montana](https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:20 | 2021-05-01 | 2022-04-13 |
 | [Moon Child](https://open.spotify.com/track/4TcrTb8W4lKkoi62nwU5GO) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Triggerpunkte](https://open.spotify.com/album/3SIIwOekuRXsqtgJOmOqlN) | 4:39 | 2021-05-01 | 2022-04-14 |
 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 | 2021-05-01 | 2022-07-12 |
-| [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 | 2023-04-14 |  |
+| [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 | 2023-04-14 | 2023-07-10 |
 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 | 2022-04-13 | 2022-06-03 |
 | [Move](https://open.spotify.com/track/1Yr3ult5AjLxwYQ0bFxlQr) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Move](https://open.spotify.com/album/53Gw66ZyMyoIfO6oOI11m9) | 3:14 | 2022-04-13 | 2022-04-20 |
 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 | 2021-05-01 | 2022-07-29 |

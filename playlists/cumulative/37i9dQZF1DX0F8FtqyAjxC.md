@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-111 songs - 10 hr 12 min
+112 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Lovin' Is Really My Game](https://open.spotify.com/track/3Ua5tojEvJ2YzibMzlrs6t) | [Brainstorm](https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp) | [Stormin'](https://open.spotify.com/album/72kfJfNjTjoghbTJ0WoHPs) | 4:59 | 2022-07-07 |  |
 | [Message In Our Music](https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:20 | 2023-04-11 |  |
 | [Midnight Lovers](https://open.spotify.com/track/70E9bkPTTmpvmR8miM7kUo) | [Passion](https://open.spotify.com/artist/5YgczGESVzCXzvQN5E6n84) | [Don't Stop My Love](https://open.spotify.com/album/5JbkjdDWYlwxa2HV8N77Hp) | 4:10 | 2022-07-07 |  |
-| [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-07-07 |  |
+| [Mine O Mine](https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:13 | 2023-04-11 |  |
+| [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-07-07 | 2023-07-10 |
 | [Montara](https://open.spotify.com/track/46qrqcOlSXd70Sa0tuSYtv) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Montara](https://open.spotify.com/album/01GsxvwlAXZineSgxQXWR1) | 4:58 | 2023-04-11 |  |
 | [Music Madness \(Extended Charles Maurice Version\) \- Mixed](https://open.spotify.com/track/7GuoEurZGmNmI60aZY4beR) | [Beckie Bell](https://open.spotify.com/artist/26L76wiVbAg5n2INycFaiZ), [Charles Maurice](https://open.spotify.com/artist/6utbhphqqvFDEDsH5NYE9C) | [DJ\-Kicks \(Kerri Chandler\) \[Mixed Tracks\]](https://open.spotify.com/album/49icjQSG89VxWFjwp9UERk) | 4:55 | 2022-07-07 |  |
 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 | 2022-07-07 |  |

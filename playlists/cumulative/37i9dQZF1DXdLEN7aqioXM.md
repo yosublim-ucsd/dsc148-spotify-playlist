@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-412 songs - 1 day 5 hr 26 min
+413 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Feeling It](https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp) | 3:20 | 2022-12-01 | 2023-07-01 |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
-| [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 |  |
+| [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 | 2023-07-10 |
 | [Firebird](https://open.spotify.com/track/4HeTO68jodyeWHHIgdytwr) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Jukebox 80s](https://open.spotify.com/artist/2O6IhsrW35MUzqmq5UVVKl) | [Firebird](https://open.spotify.com/album/72ophLrmWPbHAt8j56YHdF) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Firefall](https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Firefall](https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L) | 2:48 | 2022-07-22 | 2023-01-14 |
 | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Dora Pereli](https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC), [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT) | 3:52 | 2022-09-23 |  |
@@ -265,6 +265,7 @@
 | [Nomad City](https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8) | [Phaserland](https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715) | [Cosmic Boundaries](https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw) | 4:53 | 2022-04-01 |  |
 | [Northern Sky \- Dusky Remix](https://open.spotify.com/track/0xrxfza8oO7xCHvkVgVMPP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Northern Sky \(Dusky Remix\)](https://open.spotify.com/album/5YPbhMGxBR5Abd3gOujpMY) | 5:25 | 2021-10-15 | 2022-01-26 |
 | [Nostalgia](https://open.spotify.com/track/6yeIdMq9nowvqdhWZoor9i) | [Section303](https://open.spotify.com/artist/6xLf7EVilWyWRunM3VQQWh) | [Nostalgia](https://open.spotify.com/album/7zLBSYwoQk1UerLgwVzaDY) | 7:28 | 2021-10-15 | 2022-03-18 |
+| [Nostalgie](https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Nostalgie](https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO) | 4:15 | 2023-06-30 |  |
 | [Nothing to Lose](https://open.spotify.com/track/0oglz5q06CXysGBhL299OP) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ) | [Nothing to Lose](https://open.spotify.com/album/0SmKAgMoOhXKs5YWjkDiK2) | 3:17 | 2022-07-22 | 2022-07-24 |
 | [Oasis](https://open.spotify.com/track/1UxbCY5cw2q3SM7N889OHs) | [Brand X Music](https://open.spotify.com/artist/1jee9hr0fXhz1aoGnwOSiL) | [Synthtopia](https://open.spotify.com/album/69Iu2ZoWLdduBcOFmzi5Dc) | 2:40 | 2022-07-22 | 2022-07-25 |
 | [Obie](https://open.spotify.com/track/5ZsXVVpUxrxUMt5KUp7Izm) | [The Blizzard](https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP) | [Obie](https://open.spotify.com/album/3e2wU9LHYtL1gCkqmTxcRa) | 3:43 | 2022-04-01 | 2022-04-21 |

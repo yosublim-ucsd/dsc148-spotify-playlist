@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 837655,
+  "num_followers": 837724,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjM3Y2IxMWU1YzBlNGVlNGM1YTcwNjI2NTA0MzJlZjQ5ZGNmZDU4",
+  "snapshot_id": "MCxlNmQ5Yzk3ZmE1ZDZlZjQ3NDhiZDdiYjkwZTViZTFlZGEyMTM0Yjdm",
   "tracks": [
     {
       "added_at": "2023-06-27 15:53:07",
@@ -287,22 +287,22 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -327,22 +327,22 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         },
         {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 193226,
-      "name": "T\u00fa Foto",
-      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+    },
+    {
+      "added_at": "2023-06-27 15:53:07",
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2023-06-27 15:53:07",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2023-06-27 15:53:07",
-      "album": {
         "name": "LQMGDT",
         "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2023-06-27 15:53:07",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Devuelveme",
+      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
+    },
+    {
+      "added_at": "2023-06-27 15:53:07",
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1439,50 +1455,6 @@
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
-    },
-    {
-      "added_at": "2023-06-27 15:53:07",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Devuelveme",
-      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
-    },
-    {
-      "added_at": "2023-06-27 15:53:07",
-      "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 240365,
-      "name": "Miss Lonely - Dimelo Flow Remix",
-      "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -1519,6 +1491,50 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 240365,
+      "name": "Miss Lonely - Dimelo Flow Remix",
+      "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
+    },
+    {
+      "added_at": "2023-06-27 15:53:07",
+      "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2023-06-27 15:53:07",
+      "album": {
         "name": "Desnudarte",
         "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
       },
@@ -1539,18 +1555,22 @@
     {
       "added_at": "2023-06-27 15:53:07",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2023-06-27 15:53:07",
@@ -1623,26 +1643,6 @@
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
-    },
-    {
-      "added_at": "2023-06-27 15:53:07",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2023-06-27 15:53:07",

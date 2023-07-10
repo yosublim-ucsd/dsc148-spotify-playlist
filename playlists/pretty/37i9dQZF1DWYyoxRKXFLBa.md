@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Herbolaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,534 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,546 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 43 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 |
 | 44 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 4:44 |
 | 45 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
-| 46 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 47 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 |
+| 46 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 |
+| 47 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 48 | [Niños furbito y niñas lo que sea](https://open.spotify.com/track/7JM2NCmPwdBldEWCJlzpUZ) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Niños furbito y niñas lo que sea](https://open.spotify.com/album/5O7QhTmi2g5f7Y91KmfO4L) | 2:24 |
 | 49 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 50 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 58 | [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 |
 | 59 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
 | 60 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
-| 61 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
-| 62 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
-| 63 | [Om Ganesh](https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [La Era De Acuario](https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb) | 5:53 |
+| 61 | [Om Ganesh](https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [La Era De Acuario](https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb) | 5:53 |
+| 62 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
+| 63 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
 | 64 | [Kill V\. Maim](https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Kill V\. Maim](https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6) | 4:14 |
 | 65 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 |
 | 66 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 74 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 |
 | 75 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 
-Snapshot ID: `MCwxZjI4NTEyZDYwNDliNWE1NTJiNTYxOGFkMmFmYmUyZTk2MDRkZTgz`
+Snapshot ID: `MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1`

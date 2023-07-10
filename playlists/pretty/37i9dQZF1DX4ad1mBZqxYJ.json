@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 79431,
+  "num_followers": 79499,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGVhMTgxM2E4MzU3OGRlMmNkNDU3ZWFmNTI2MmQwNjIzNjE2YjE4",
+  "snapshot_id": "MCwzMTYxMTkyNjc3YmVkYTNhMzJiMWM4Y2JhZGFlN2EyMTdhNGUzYWU4",
   "tracks": [
     {
       "added_at": "2022-10-04 15:35:20",
@@ -423,26 +423,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -467,18 +459,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1095,26 +1095,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "ULTRA SOLO",
-        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "ULTRA SOLO",
-      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1163,6 +1143,26 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "ULTRA SOLO",
+        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 227220,
+      "name": "ULTRA SOLO",
+      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Quiere Beber",
-      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Burbujas de Cristal",
         "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 224624,
       "name": "Burbujas de Cristal",
       "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1495,22 +1511,6 @@
       "duration_ms": 238419,
       "name": "Debo Entender",
       "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1583,46 +1603,6 @@
       "duration_ms": 142910,
       "name": "El Drip",
       "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 213943,
-      "name": "Porte Exuberante",
-      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1779,6 +1759,26 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 213943,
+      "name": "Porte Exuberante",
+      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Los Ni\u00f1os Grandes No Juegan",
+        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Nunca Te Pude Alcanzar",
+      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Los Ni\u00f1os Grandes No Juegan",
-        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Nunca Te Pude Alcanzar",
-      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2239,6 +2239,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Se Me Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 220300,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
       },
@@ -2259,26 +2279,6 @@
       "duration_ms": 281760,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Se Me Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 220300,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 213480,
       "name": "Los Mensajes del Whatsapp",
       "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+      "duration_ms": 250253,
+      "name": "La Durango",
+      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 250253,
-      "name": "La Durango",
-      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-10-04 15:35:20",

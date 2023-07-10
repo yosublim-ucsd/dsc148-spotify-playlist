@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825,725 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825,782 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 35 | [Glitter](https://open.spotify.com/track/7qHUTc6sORfhSK2lgSEVTH) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Glitter](https://open.spotify.com/album/7ztq8vEeluHADGSofQAI05) | 2:57 |
 | 36 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 |
 | 37 | [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 |
-| 38 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 |
+| 38 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
 | 39 | [Waiting for this Love to Die](https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [The Things We Talk About](https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb) | 3:37 |
 | 40 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 |
 | 41 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 100 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 | 101 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 |
 
-Snapshot ID: `MCw2MDk3MWMyOGJmM2UwMjM5MDE3MThkZjRkODE1ZmNlN2Q2MzQ1OTNh`
+Snapshot ID: `MCxjZTZlMGE0MjA3OTEzNjIyMzA2ODE4ZTJkMTA3MTZiZTcxMWM0NjM4`

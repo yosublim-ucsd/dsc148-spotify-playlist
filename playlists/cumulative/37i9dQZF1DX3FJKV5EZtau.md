@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-372 songs - 21 hr 26 min
+373 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Good Enough](https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Good Enough / For Me \(BCee Remix\)](https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I) | 4:20 | 2022-01-07 |  |
 | [GRANEW](https://open.spotify.com/track/2c0pZXVTxTHJVagqDQdFoG) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [OYOGUMANE](https://open.spotify.com/album/4pNyP4fAlZihVZ3uAY1UOB) | 2:02 | 2022-07-14 | 2022-08-06 |
 | [grayscale](https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [やぎぬまかな](https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI) | [grayscale](https://open.spotify.com/album/6cdgPkXMC2CcgkNjEQ1VfN) | 5:26 | 2022-01-07 | 2023-05-16 |
-| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 |  |
+| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 | 2023-07-10 |
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 | 2023-02-17 |
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |
@@ -306,6 +306,7 @@
 | [Sky Blue](https://open.spotify.com/track/0YBra1QGuIhdTWlEwnEkQY) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Sky Blue](https://open.spotify.com/album/4ZSrFB51VBeLnT1guceWnm) | 3:07 | 2022-01-07 | 2022-07-13 |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 | 2022-10-27 |
 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-04-21 | 2023-05-13 |
+| [skyscraper](https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:25 | 2023-07-07 |  |
 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 | 2023-03-24 | 2023-05-06 |
 | [Sleeping On My Own Again](https://open.spotify.com/track/0ADSxxXg91rM3jN6pd00h3) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Sleeping On My Own Again](https://open.spotify.com/album/39wx8VIgVvxyUsmoNCZpQr) | 3:15 | 2022-01-07 |  |
 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 | 2022-08-05 | 2022-08-30 |

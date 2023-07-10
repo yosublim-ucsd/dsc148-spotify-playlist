@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,542 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,617 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 43 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
 | 44 | [El Borde De Su Manto](https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Vivo Para Cristo](https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn) | 8:47 |
 | 45 | [Vengo A Adorarte](https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:19 |
-| 46 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
-| 47 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
-| 48 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
-| 49 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
+| 46 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
+| 47 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
+| 48 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
+| 49 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
 | 50 | [Él Nos Ama](https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:18 |
 | 51 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
 | 52 | [Me rindo ante ti](https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:14 |
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 63 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 64 | [En paz](https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [En paz](https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq) | 4:14 |
 | 65 | [Donde Tú estás](https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Gloria sea a ti](https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg) | 8:54 |
-| 66 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 |
-| 67 | [Ponle Nombre a Tu Milagro](https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Vive Tu Día](https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2) | 4:15 |
+| 66 | [Ponle Nombre a Tu Milagro](https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Vive Tu Día](https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2) | 4:15 |
+| 67 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 |
 | 68 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
-| 69 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
-| 70 | [Te Vi Llegar](https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:26 |
+| 69 | [Te Vi Llegar](https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:26 |
+| 70 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
 | 71 | [Siempre Más](https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 5:52 |
 | 72 | [Eres Fiel](https://open.spotify.com/track/2b7YBLRv13r2iS31yXBz7a) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cosas Poderosas](https://open.spotify.com/album/1TZZhO7YWjOX1WyoGD6gEQ) | 5:05 |
 | 73 | [¿De Quién Temeré? \(Dios De Ejércitos\)](https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:19 |
 | 74 | [Se Mueven las Aguas](https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Vida](https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr) | 3:57 |
 | 75 | [Nadie Me Dijo](https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Amor Favor Gracia](https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS) | 4:18 |
-| 76 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
-| 77 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
-| 78 | [Llegaste Tú](https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:12 |
-| 79 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
+| 76 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
+| 77 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
+| 78 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
+| 79 | [Llegaste Tú](https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:12 |
 | 80 | [Faltan 5 para las Doce Llego Jesús](https://open.spotify.com/track/05gbMX505TQR6U1SGwMYku) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Faltan 5 para las 12 Llegó Jesús](https://open.spotify.com/album/5MLX6HrfCE83H3uZQLhnT5) | 5:05 |
 | 81 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
 | 82 | [El es mi amigo fiel](https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Hijo Pródigo](https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 4:47 |
 | 100 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
 
-Snapshot ID: `MCwwZTdiYmQ4YTU5MzI5NmJmODFiOGIwODEwNWNkNTg2YTQ4NTM5M2Fk`
+Snapshot ID: `MCwwYzJiYmQxMDU3NjAwZGM2MDY2ZWU2MjIwNzI3OGIzNTQ0OWRhOWY5`

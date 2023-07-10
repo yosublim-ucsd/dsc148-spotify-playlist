@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 113782,
+  "num_followers": 113818,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm",
+  "snapshot_id": "MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "prozac nation",
-        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
       },
       "artists": [
         {
-          "name": "Bellevue Cadillac",
-          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+          "name": "Big Sandy",
+          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
         }
       ],
-      "duration_ms": 285173,
-      "name": "prozac",
-      "url": "https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6"
+      "duration_ms": 162733,
+      "name": "Yama Yama Pretty Mama",
+      "url": "https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
       },
       "artists": [
         {
-          "name": "Big Sandy",
-          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
         }
       ],
-      "duration_ms": 162733,
-      "name": "Yama Yama Pretty Mama",
-      "url": "https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM"
+      "duration_ms": 285173,
+      "name": "prozac",
+      "url": "https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6"
     },
     {
       "added_at": "2022-03-28 19:13:18",

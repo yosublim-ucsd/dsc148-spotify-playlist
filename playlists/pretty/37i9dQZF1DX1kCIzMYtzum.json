@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 166641,
+  "num_followers": 166844,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjdiYzJmZjJiMDlhZWY5ZTI4MmJhMTU2YzA0OGQ5YjNkNDI0NDFm",
+  "snapshot_id": "MCw4YzljMDMwYWJjZjdhMTAwYzYwNDlhN2Q1YmY1NTA4OWE5ZmVjNDM3",
   "tracks": [
     {
       "added_at": "2023-07-07 13:17:52",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Barbie Girl (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Barbie Girl - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
         "name": "A Milli (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
-        "name": "Lucid Dream",
-        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
       },
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1191,6 +1175,22 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1239,42 +1239,6 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
-        "name": "Beyond the Fire",
-        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Beyond the Fire",
-      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
       },
@@ -1291,26 +1255,22 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Coconut",
-        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
       "artists": [
         {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "GRY",
-          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 157173,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1339,22 +1299,42 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5DgYnW9yRnHEtY7LabHPys"
+        "name": "Beyond the Fire",
+        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
       },
       "artists": [
         {
-          "name": "Julian Cross",
-          "url": "https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 171562,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
+      "duration_ms": 228620,
+      "name": "Beyond the Fire",
+      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
+        "name": "Coconut",
+        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1379,6 +1359,26 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5DgYnW9yRnHEtY7LabHPys"
+      },
+      "artists": [
+        {
+          "name": "Julian Cross",
+          "url": "https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
-        "name": "Esta Vida (Deorro Remix)",
-        "url": "https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 239896,
-      "name": "Esta Vida - Deorro Remix",
-      "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
         "name": "Human Error",
         "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
       },
@@ -1671,6 +1647,30 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
+        "name": "Esta Vida (Deorro Remix)",
+        "url": "https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 239896,
+      "name": "Esta Vida - Deorro Remix",
+      "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 216796,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -1795,22 +1811,6 @@
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 216796,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
     },
     {
       "added_at": "2023-07-07 13:17:52",
@@ -2071,6 +2071,30 @@
     {
       "added_at": "2023-07-07 13:17:52",
       "album": {
+        "name": "All For Love (Mike Williams Remix)",
+        "url": "https://open.spotify.com/album/629VB6j3x2BKp7rCxyiHeK"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "All For Love - Mike Williams Remix",
+      "url": "https://open.spotify.com/track/4VnILLgQo6C7URj3ataewW"
+    },
+    {
+      "added_at": "2023-07-07 13:17:52",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
       },
@@ -2111,30 +2135,6 @@
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
-    },
-    {
-      "added_at": "2023-07-07 13:17:52",
-      "album": {
-        "name": "All For Love (Mike Williams Remix)",
-        "url": "https://open.spotify.com/album/629VB6j3x2BKp7rCxyiHeK"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "All For Love - Mike Williams Remix",
-      "url": "https://open.spotify.com/track/4VnILLgQo6C7URj3ataewW"
     }
   ],
   "unique_name": "EDM 2023",

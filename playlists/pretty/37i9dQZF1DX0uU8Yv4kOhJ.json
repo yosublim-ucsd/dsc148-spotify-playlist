@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 123895,
+  "num_followers": 123918,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY5OTcwZDAxNjI5MGQ2MjJjM2M1MWZmZTJjMDg1YTE5YzY3Zjk3",
+  "snapshot_id": "MCxiNDA2ZTE5MjcyYmExMWQ0OGZmZGNlZDA2YTAzZTBhN2YyM2NjZWE5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Quena De Los Andes",
-        "url": "https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1"
-      },
-      "artists": [
-        {
-          "name": "Raul Olarte",
-          "url": "https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Flutes Indiennes",
         "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 125346,
       "name": "Recuerdos de Calahuayo (Peru)",
       "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Quena De Los Andes",
+        "url": "https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1"
+      },
+      "artists": [
+        {
+          "name": "Raul Olarte",
+          "url": "https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Ch'usay",
         "url": "https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 226780,
       "name": "Herejia",
       "url": "https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-02-17 05:58:00",

@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 19946,
+  "num_followers": 19960,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYThlNzBmMDdmMWFiMzM5NjUxMzljMWM3NGQ0MWE3NmIzZjE0MjMx",
+  "snapshot_id": "MCw3ZTE0OThmMjZjNzNlYzNmNWUzM2YyMjA5OWY5NzYxZTVjMmNiNmVi",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -787,30 +787,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 1065373,
       "name": "Don Juan, Op. 20, TrV 156",
       "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -859,6 +859,58 @@
       "duration_ms": 596640,
       "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
       "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Heimliche Aufforderung",
+        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Christiane Karg",
+          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        },
+        {
+          "name": "Felix Klieser",
+          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Alphorn, o. Op.",
+      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 327266,
+      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
+      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -931,58 +983,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Heimliche Aufforderung",
-        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Christiane Karg",
-          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
-        },
-        {
-          "name": "Malcolm Martineau",
-          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
-        },
-        {
-          "name": "Felix Klieser",
-          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Alphorn, o. Op.",
-      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 327266,
-      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
-      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
     },
     {
       "added_at": "2022-06-20 09:55:21",

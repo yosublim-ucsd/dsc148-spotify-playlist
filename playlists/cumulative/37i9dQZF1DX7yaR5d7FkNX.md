@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-186 songs - 11 hr 31 min
+187 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [El Sonido De Tu Voz](https://open.spotify.com/track/76JCWoDhnbdd4gA36NqxLN) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Lindas Mañanas](https://open.spotify.com/album/23ibdDZsfvGujFlsvB8wnV) | 2:50 | 2022-01-28 | 2022-11-13 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/0TsY0pTgHSMeMPKrtf2San) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil\. \(Edición Especial\)](https://open.spotify.com/album/18FX4Wep4MvwaCFDwPU25q) | 2:50 | 2022-01-28 | 2022-07-29 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/6RtZYoM4rNdoDVgbwfOK2V) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 2:50 | 2022-01-28 | 2023-07-01 |
-| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 |  |
+| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
+| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-06-30 |  |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2022-01-28 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 |  |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 |  |

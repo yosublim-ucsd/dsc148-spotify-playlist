@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > La carica giusta per i tuoi allenamenti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,626 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,698 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 61 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
 | 62 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
 | 63 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
-| 64 | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\)](https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]](https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU) | 3:19 |
-| 65 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
+| 64 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
+| 65 | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\)](https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]](https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU) | 3:19 |
 | 66 | [Yamamay](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Yamamay](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
 | 67 | [Morto Mai](https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:25 |
 | 68 | [If I Can't](https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:16 |
 | 69 | [Ali Bomaye](https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 6:12 |
 | 70 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 
-Snapshot ID: `MCw0MDY3NjA3ZGRiYjU1ZmYzN2NlYmFhZGMxNTgwZmE5Y2RmMjdiZmEy`
+Snapshot ID: `MCwzZDNkODBlZTRjMTE5OTdjM2JhNWZmNmM2ZmViNzM5NGZmZTI2NTBj`

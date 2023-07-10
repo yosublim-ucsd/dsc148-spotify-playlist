@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Enrique Bunbury en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,163 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,223 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 25 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 26 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 |
 | 27 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 |
-| 28 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 |
+| 28 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 |
 | 29 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 |
 | 30 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 |
 | 31 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 79 | [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 |
 | 80 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
 | 81 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 82 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 |
+| 82 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 |
 | 83 | [Su Majestad La Eternidad](https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:50 |
 | 84 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 | 85 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 90 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
 | 91 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
 | 92 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 |
-| 93 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 93 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 |
 | 94 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 95 | [Sicario](https://open.spotify.com/track/7BzuY3JvxY3CW5yRmHXGYB) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Sicario](https://open.spotify.com/album/2WwerTFeLcncB0hVvx63t3) | 4:30 |
 | 96 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 100 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 101 | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ) | 3:52 |
 
-Snapshot ID: `MCw4MjVjNDBjOTQ1YzQ5Y2MyYTg0YmI4YTA4NDI2MGU3ZDM0YTZiNzA2`
+Snapshot ID: `MCxlNzAzZjIzYjEwZmFhNDM2MWY1YjYyYTgzNWM2M2MyYzNlYzcwYjEx`

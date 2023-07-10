@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Sinego
 
-464 songs - 1 day 1 hr 6 min
+465 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 | 2023-03-29 | 2023-04-29 |
 | [If I Should Die](https://open.spotify.com/track/7brlxQj9clMkwWtnd5gguZ) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [If I Should Die](https://open.spotify.com/album/18skYNVRD8nPleVe3hu1nA) | 4:04 | 2021-12-02 | 2022-03-22 |
 | [In the Essence](https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In the Essence](https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R) | 3:33 | 2023-01-10 | 2023-02-17 |
-| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 | 2023-05-12 |  |
+| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 | 2023-05-12 | 2023-07-10 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-11 | 2022-04-01 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-05-25 | 2023-02-17 |
 | [Jacuzzi](https://open.spotify.com/track/0ttKUQzxqOHHcdywn8rAFm) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Jacuzzi](https://open.spotify.com/album/1pkHGiBAZYMLpwq9k6jsm9) | 3:19 | 2021-12-02 | 2022-01-25 |
@@ -402,6 +402,7 @@
 | [Supersad](https://open.spotify.com/track/3wXHiSxEOqxhPHB9sa2Ylk) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Oscuro](https://open.spotify.com/album/2M2py5NnsTLVQhmkQfIrft) | 3:35 | 2023-02-17 | 2023-03-09 |
 | [SUPPLY & DEMAND](https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D) | [Miranda Del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [SUPPLY & DEMAND](https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p) | 2:26 | 2021-12-02 | 2022-01-25 |
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-12-02 | 2022-01-29 |
+| [Sí o No?](https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Sí o No?](https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf) | 3:01 | 2023-07-07 |  |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-01-24 | 2022-04-20 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-31 | 2022-04-20 |
 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 | 2023-06-02 |  |

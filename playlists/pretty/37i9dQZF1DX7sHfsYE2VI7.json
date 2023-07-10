@@ -1,12 +1,12 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 41873,
+  "num_followers": 41918,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFkMTAyOGIwMzQ0OGIzOTk4NTdhODk0NTA3NGIzNDQ3OTIxMTEx",
+  "snapshot_id": "MCw2YWU5Y2EyMzI1ZWE1YTZjMjI3YTA5ZDMxMTgyYzhhMzdhYjgyMjBh",
   "tracks": [
     {
       "added_at": "2022-02-28 02:05:58",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
-      },
-      "artists": [
-        {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Mani Hoffman",
-          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Starlight - Radio Edit",
-      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+      },
+      "artists": [
+        {
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Starlight - Radio Edit",
+      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
         "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
+        "name": "Jubel",
+        "url": "https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT"
+      },
+      "artists": [
+        {
+          "name": "raphy",
+          "url": "https://open.spotify.com/artist/5irOBYegrzJAoGK3HPWUyH"
+        },
+        {
+          "name": "3ario",
+          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
+        },
+        {
+          "name": "Reaxys",
+          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
+        }
+      ],
+      "duration_ms": 200109,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/5CqgPrK3V7GpSSaXDLc0qa"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 538080,
       "name": "8 Ball",
       "url": "https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
-        "name": "Jubel",
-        "url": "https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT"
-      },
-      "artists": [
-        {
-          "name": "raphy",
-          "url": "https://open.spotify.com/artist/5irOBYegrzJAoGK3HPWUyH"
-        },
-        {
-          "name": "3ario",
-          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
-        },
-        {
-          "name": "Reaxys",
-          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
-        }
-      ],
-      "duration_ms": 200109,
-      "name": "Jubel",
-      "url": "https://open.spotify.com/track/5CqgPrK3V7GpSSaXDLc0qa"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
+        "name": "Come Away with ESG",
+        "url": "https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
         }
       ],
-      "duration_ms": 273840,
-      "name": "The Wilhelm Scream",
-      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
+      "duration_ms": 274160,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6"
     }
   ],
   "unique_name": "Chill Dance Classics",

@@ -2,7 +2,7 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net VAAIBS\. Cover: <a href="https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A">Georic Lomas</a> & <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO\_YMlIxDV7wQ">Jemma Catherine</a>
+> Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A">Georic Lomas</a> & <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO\_YMlIxDV7wQ">Jemma Catherine</a>
 
 409 songs - 23 hr 9 min
 
@@ -333,7 +333,7 @@
 | [Sonskyn](https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Sonskyn](https://open.spotify.com/album/11xQmc2iXHJMcJ9pL8CPVL) | 2:56 | 2022-10-20 | 2022-12-09 |
 | [Sonvanger](https://open.spotify.com/track/7LJR6hBvecUaoC0nzDk1WK) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE), [Margot](https://open.spotify.com/artist/30vK25jqn6NVBrXaju9tPo) | [Sonvanger](https://open.spotify.com/album/1RS22lQ9GoL8xsZH47LkWM) | 3:54 | 2023-06-08 | 2023-06-23 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
-| [SOS \(feat\. Georic Lomas\)](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS \(feat\. Georic Lomas\)](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 | 2023-07-06 |  |
+| [SOS](https://open.spotify.com/track/3PzdqaxouPup0BFKeU545G) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [SOS](https://open.spotify.com/album/4FOundWeVlsABamwqGAeDy) | 2:37 | 2023-07-06 |  |
 | [Spicy](https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Spicy](https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf) | 2:49 | 2022-10-13 | 2022-10-28 |
 | [Spieël](https://open.spotify.com/track/4GflVdoiBXowjLvi0Yx92y) | [Reets](https://open.spotify.com/artist/23l2yZyJ9WJ84VLZMshWvk) | [Spieël](https://open.spotify.com/album/7xYbXgNXXVkWclXADHn1xi) | 4:13 | 2023-02-23 | 2023-03-18 |
 | [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 | 2023-02-04 |

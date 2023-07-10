@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. The Japanese House drops an album. ",
-  "num_followers": 2223613,
+  "num_followers": 2223592,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmU4MmJlYjJkNzAwNDJhMDFkNDBkZTlmYWZmZWQ4ODE3ZmNiYjA4",
+  "snapshot_id": "MCwwMTg1MWIxZDQ5NjNiNGM3Yzc2YjhjMjkzYWVmYjdkYWNiMDdiNzY2",
   "tracks": [
     {
       "added_at": "2023-07-07 00:52:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "One Wayne G",
-        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "20191009 I Like Her",
-      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Minari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 98560,
       "name": "Jacob and the Stone",
       "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "One Wayne G",
+        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "20191009 I Like Her",
+      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Midwest",
-        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 248135,
-      "name": "Midwest",
-      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "To Love",
-        "url": "https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 236838,
-      "name": "To Love",
-      "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "To Love",
+        "url": "https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 236838,
+      "name": "To Love",
+      "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+      "duration_ms": 236000,
+      "name": "I'll Be Faithful",
+      "url": "https://open.spotify.com/track/0sPWsklhyrr5ZdrSWWEff6"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1023,18 +1023,34 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
       },
       "artists": [
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 236000,
-      "name": "I'll Be Faithful",
-      "url": "https://open.spotify.com/track/0sPWsklhyrr5ZdrSWWEff6"
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1055,22 +1071,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1103,6 +1103,22 @@
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Spitting Off the Edge of the World (Lush Version)",
-        "url": "https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 263571,
-      "name": "Spitting Off the Edge of the World - Lush Version",
-      "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -1255,38 +1235,6 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "\u00c1TTA",
-        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 313040,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1311,18 +1259,54 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "heavun",
-        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
+        "name": "Spitting Off the Edge of the World (Lush Version)",
+        "url": "https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 191632,
-      "name": "heavun",
-      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
+      "duration_ms": 263571,
+      "name": "Spitting Off the Edge of the World - Lush Version",
+      "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "\u00c1TTA",
+        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 313040,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1339,6 +1323,42 @@
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "heavun",
+        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 191632,
+      "name": "heavun",
+      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Every Day's A Lesson In Humility",
+        "url": "https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        },
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 216189,
+      "name": "Every Day's A Lesson In Humility",
+      "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Every Day's A Lesson In Humility",
-        "url": "https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        },
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Every Day's A Lesson In Humility",
-      "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "BAGELS",
         "url": "https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 285586,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+      "duration_ms": 285586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1523,34 +1523,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1603,6 +1587,22 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "True love (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 347713,
+      "name": "True love (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "hazelton b/w liner",
         "url": "https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks"
       },
@@ -1703,22 +1723,6 @@
       "duration_ms": 189280,
       "name": "Driving",
       "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     }
   ],
   "unique_name": "Front Page Indie",

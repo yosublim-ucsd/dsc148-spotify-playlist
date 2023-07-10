@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del norte\u00f1o en vivo. Remmy Valenzuela en portada.",
-  "num_followers": 31714,
+  "num_followers": 31785,
   "original_name": "Norte\u00f1o en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWU5NTVhN2ZlN2YwMWRmMjFjZDgyN2E1ZjJkNGE4YTZmMmY2Zjlm",
+  "snapshot_id": "MCw2MjE3M2VmMjc5OGNkNzBiMzliNTBiY2QyOTE1NjA4YmQ1MjVkNThj",
   "tracks": [
     {
       "added_at": "2023-06-09 19:49:25",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+        }
+      ],
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "Desde Las Vegas",
         "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
       },
@@ -763,6 +779,22 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 229099,
+      "name": "Con Olor A Hierba - Live",
+      "url": "https://open.spotify.com/track/1JEKSgB0Z0mRUuSVzOimu8"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 229133,
       "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
       "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 229099,
-      "name": "Con Olor A Hierba - Live",
-      "url": "https://open.spotify.com/track/1JEKSgB0Z0mRUuSVzOimu8"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Locamente Enamorado",
-        "url": "https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
-        }
-      ],
-      "duration_ms": 217495,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
         "name": "H\u00edbrido (En Vivo)",
         "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
       },
@@ -883,6 +867,38 @@
       "duration_ms": 180537,
       "name": "Celos del Viento - En Vivo",
       "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+        }
+      ],
+      "duration_ms": 204078,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo: Desde Los Cabos",
-        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 176650,
-      "name": "La M\u00e1s Bonita de Todas - En Vivo",
-      "url": "https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
         "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
         "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 255133,
       "name": "Loco - En Vivo",
       "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 153562,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -991,34 +975,18 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 204078,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "En Vivo, Vol. 3",
-        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 162050,
-      "name": "Por Las Calles De Chihuahua",
-      "url": "https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx"
+      "duration_ms": 176650,
+      "name": "La M\u00e1s Bonita de Todas - En Vivo",
+      "url": "https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1039,38 +1007,18 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo: Desde Los Cabos",
-        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 151579,
-      "name": "Alma Enamorada - En Vivo",
-      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
-        "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Catarino Leos",
-          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
-      "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+      "duration_ms": 153562,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1107,6 +1055,42 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Catarino Leos",
+          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
+      "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo, Vol. 3",
+        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 162050,
+      "name": "Por Las Calles De Chihuahua",
+      "url": "https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "En Vivo Desde las Ca\u00f1as",
         "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Alma Enamorada - En Vivo",
+      "url": "https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas (En Vivo)",
         "url": "https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 128638,
       "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas",
       "url": "https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "En Vivo, Vol. 3",
-        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "Margarita, Margarita",
-      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo... El Hombre Y Su Musica",
-        "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
         }
       ],
-      "duration_ms": 267426,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY"
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 208842,
+      "name": "Prenda Querida - En Vivo",
+      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1215,6 +1215,38 @@
       "duration_ms": 192738,
       "name": "La Celda De Un Loco - En Vivo",
       "url": "https://open.spotify.com/track/3llMXLV7hFkXxf3qXvqmdg"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo, Vol. 3",
+        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 156501,
+      "name": "Margarita, Margarita",
+      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo... El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1247,38 +1279,6 @@
       "duration_ms": 200568,
       "name": "Un Desenga\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 208842,
-      "name": "Prenda Querida - En Vivo",
-      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
     },
     {
       "added_at": "2023-06-09 19:49:25",

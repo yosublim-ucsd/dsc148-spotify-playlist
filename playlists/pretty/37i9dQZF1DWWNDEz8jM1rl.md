@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,886 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,925 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 12 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 |
 | 13 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
 | 14 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 |
-| 15 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
-| 16 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
+| 15 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
+| 16 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 17 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 |
 | 18 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
 | 19 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 28 | [Dependo de Ti](https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG) | 3:15 |
 | 29 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 |
 | 30 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
-| 31 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
-| 32 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
+| 31 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
+| 32 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
 | 33 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
 | 34 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 |
 | 35 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Poniendo el Estilo](https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5) | [Spiritual Bless](https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv) | [Poniendo el Estilo](https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI) | 4:18 |
 | 50 | [Caminamos En La Luz](https://open.spotify.com/track/6ARRtBKk1fwEZpfAfsAbD0) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:00 |
 
-Snapshot ID: `MCxkNmZlMWYwMTdiNTg4MTVmNzhkMmU3MzRiMmY4ZjBjZTQ0MGMzMTFl`
+Snapshot ID: `MCw0MmM4Njc1OGZmNTdiMzc0OWFlYzJiZGIyYjQzMTQ2YTk3ODNmMjQy`

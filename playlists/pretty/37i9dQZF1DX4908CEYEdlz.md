@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,609 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,610 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 | 75 | [Amém](https://open.spotify.com/track/0l0p7zovHDgANfJv7PNaE1) | [Escombro](https://open.spotify.com/artist/11PXwcpndk1zz25pgz8uDY) | [Amém](https://open.spotify.com/album/6GQrirmsj6sdQVCrNMQevx) | 3:35 |
 
-Snapshot ID: `MCwwNTc1ZGQ3YmQzNWQ0OTU1OWU1NTU5M2IwODlkZGNmZDIwZDZmZTg0`
+Snapshot ID: `MCxjNDg1NzIyYzc5YmU5YmM3OGRmMTE0ZDM1ZDQzMzc3OTcxMDYyMWI0`

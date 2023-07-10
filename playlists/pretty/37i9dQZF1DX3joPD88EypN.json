@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 28144,
+  "num_followers": 28180,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODhhM2JhMmY2ZGNlOTlhOGIwY2M3Y2Y3ZDJkZmNmNmE5OTNhYjY5",
+  "snapshot_id": "MCxiN2MwYTQ0MDFlNzBjNWM0NWI2NjIzNjIzYmU5NmRmOTUxNzE0M2Y5",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "\u00d8yne",
         "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 210000,
       "name": "\u00d8yne",
       "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Fisherman's Wharf",
+        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Fisherman's Wharf",
+      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 183210,
       "name": "Before the Wedding",
       "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Fisherman's Wharf",
-        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Fisherman's Wharf",
-      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
       "artists": [
         {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Meles Meles Revisited",
         "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 275474,
       "name": "Meles Meles Revisited",
       "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "A Fine Line",
         "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
       },
@@ -1219,70 +1219,6 @@
       "duration_ms": 171093,
       "name": "Leilani",
       "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Sun Blowing",
-        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 538387,
-      "name": "Salme",
-      "url": "https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "And Then Comes The Night",
-        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
-      },
-      "artists": [
-        {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        },
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
-        }
-      ],
-      "duration_ms": 392653,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1311,6 +1247,66 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 538387,
+      "name": "Salme",
+      "url": "https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Krystall Revisited",
         "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
       },
@@ -1323,6 +1319,30 @@
       "duration_ms": 387626,
       "name": "Krystall Revisited",
       "url": "https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "And Then Comes The Night",
+        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
+      },
+      "artists": [
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        },
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        }
+      ],
+      "duration_ms": 392653,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Perfectly Unhappy",
-        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Naked Trees",
-      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Salmesykkel",
         "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
       },
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+        "name": "Perfectly Unhappy",
+        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
       "artists": [
         {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
         },
         {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
         }
       ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+      "duration_ms": 336533,
+      "name": "Naked Trees",
+      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "The Soundtrack of My Home",
         "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
     },
     {
       "added_at": "2023-06-22 22:00:00",

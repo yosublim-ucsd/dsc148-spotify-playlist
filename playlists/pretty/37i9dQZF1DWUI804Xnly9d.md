@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,017 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,089 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 |
 | 75 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 
-Snapshot ID: `MCxkNTAzYzBhODMwMzhkODcyMGMwN2JlZjNiNzM1ZWU0NTdjZDU0ZjE4`
+Snapshot ID: `MCw3MzQzMGI3ZWZlZDQ2YmEwYzRhY2EwZjU1ZGNmZTI5MjcyOGUxNDIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,413 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,496 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 44 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 | 45 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 |
 | 46 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
-| 47 | [우주를 건너 Across the universe](https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 4:07 |
-| 48 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
-| 49 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
+| 47 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
+| 48 | [우주를 건너 Across the universe](https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 4:07 |
+| 49 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 50 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 
-Snapshot ID: `MCxjNTI4YjYyNWFlNjI3ZmMzOTJjYWU1ODMyODg3YzcyODY0MjA3OTVk`
+Snapshot ID: `MCxmZTJkZTcwOWNmZTUyNGQ4MjFhZjYyYzQ2NWE2MzI3M2E0ZmM3YjZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,166 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,170 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 71 | [Let Me Tell You](https://open.spotify.com/track/2jTrgeZe6B8Fbx52ECTc7x) | [NEOSO](https://open.spotify.com/artist/7zAyW4IBReORwCaBXxQfNd) | [Let Me Tell You](https://open.spotify.com/album/7E2CZqo3O0RVeKK1gm7Lld) | 3:24 |
 | 72 | [春雨](https://open.spotify.com/track/3JBDi7NK5LIcK51hXW0gas) | [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [春雨](https://open.spotify.com/album/1ZwHIELvZvKIC1EujpuoOI) | 4:06 |
 | 73 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 |
-| 74 | [Your Wonderland](https://open.spotify.com/track/1bCic9TNRY5QJUTfltAeab) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Your Wonderland](https://open.spotify.com/album/2CUaWKZyOGvwI3JCJzU3Ok) | 3:17 |
+| 74 | [Your Wonderland](https://open.spotify.com/track/72pbOlpce4MCAN5FGjYqqv) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Wonderland](https://open.spotify.com/album/0L12VIXz90UnhFRBtPXG8z) | 3:17 |
 | 75 | [Song About Life](https://open.spotify.com/track/5bqpnucqaEEP4dPiWNobB1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Song About Life](https://open.spotify.com/album/2mtvO38V7IvCZiRsokojqz) | 2:52 |
 | 76 | [一輩子](https://open.spotify.com/track/7zsrHeWwGO9jYTCxvbqeLD) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [一輩子](https://open.spotify.com/album/5aVUn9xupWjSnqhDEw0CHg) | 4:59 |
 | 77 | [日常、遠方及其他](https://open.spotify.com/track/16RqSiRn7nj76pkbaucCRt) | [郭真榕](https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH) | [時間之流](https://open.spotify.com/album/2WfZiYWH472LiwWVYG1iUC) | 6:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [你的愛比我重要 \(W劇場《因為你如此耀眼》片尾曲\)](https://open.spotify.com/track/3SQliXBU61AQOg5ZM8WMyR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [你的愛比我重要](https://open.spotify.com/album/3dKTJoKUyGq0yLfRoNnHKg) | 4:00 |
 | 100 | [唯一 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [唯一](https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v) | 4:41 |
 
-Snapshot ID: `MCxkMDZkZDk0NDk1ZmJiYWViYTY0N2VkM2VmMGQ4NzExNjc0MWU5ZmYw`
+Snapshot ID: `MCwwMTc5NmEyYTRjNTMzMzA1NjQ0OTUyYTI3MGI4Nzg1MzEyZGRiZjdj`

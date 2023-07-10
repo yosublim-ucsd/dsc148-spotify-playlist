@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 38494,
+  "num_followers": 38554,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODgxZDgzNjQ4MTc3YmY5MWVmMzFiOWVmMTc2NGM1YWQ0ZjI0NWY3",
+  "snapshot_id": "MCw0NjdkYThkNjU1YWQ0MjZiZTYxM2QyZWRmYjVlYTdhZjg0NmZhYTc1",
   "tracks": [
     {
       "added_at": "2023-07-07 00:01:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
-        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
           "name": "Sunmisola Agbebi",
           "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 812625,
-      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
-      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
+        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
       "artists": [
         {
           "name": "Sunmisola Agbebi",
           "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 812625,
+      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
+      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -749,6 +749,30 @@
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
       "added_at": "2023-06-16 07:12:46",
       "album": {
         "name": "HEAVEN HAS COME",
@@ -795,30 +819,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
       },
@@ -935,6 +951,26 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -951,38 +987,6 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1079,22 +1083,38 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Yhwh",
-        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
           "name": "Dunsin Oyekan",
           "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 583858,
-      "name": "Yhwh",
-      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1135,6 +1155,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -1151,22 +1187,6 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 281627,
-      "name": "God All by Yourself",
-      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Watching All over Me",
         "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
       },
@@ -1239,6 +1243,22 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 281627,
+      "name": "God All by Yourself",
+      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1425,24 +1445,20 @@
       "url": "https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA"
     },
     {
-      "added_at": "2023-07-07 00:01:00",
+      "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1471,18 +1487,26 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         }
       ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1499,22 +1523,6 @@
       "duration_ms": 308120,
       "name": "I will soar",
       "url": "https://open.spotify.com/track/1Eag9P72ROslztON6d2z15"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     }
   ],
   "unique_name": "Be Lifted ",

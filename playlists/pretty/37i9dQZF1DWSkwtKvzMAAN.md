@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,548 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,551 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Times \(I Can’t Stand It\)](https://open.spotify.com/track/0QBsvWt6ETINvdIOXk8r8y) | [Captain Rapp](https://open.spotify.com/artist/2vFDldd30bospeUYKowjrA) | [Magic Disc Records\- West Coast Rap\-thology](https://open.spotify.com/album/4Sc3xG1esf2GPawfbacqTX) | 5:35 |
 | 2 | [I Can't Wait](https://open.spotify.com/track/647q0KZHceDZTyLExHU0ue) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [I Can't Wait: Collected](https://open.spotify.com/album/3V2uj3rLi0Y6McyB4Tw84n) | 3:38 |
 | 3 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 |
-| 4 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
-| 5 | [When I Hear Music](https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E) | [Debbie Deb](https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL) | [She’s Back](https://open.spotify.com/album/76Qt48poTVoLKFQXt0LzNI) | 7:05 |
+| 4 | [When I Hear Music](https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E) | [Debbie Deb](https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL) | [She’s Back](https://open.spotify.com/album/76Qt48poTVoLKFQXt0LzNI) | 7:05 |
+| 5 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
 | 6 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
 | 7 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
 | 8 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 37 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
 | 38 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
 | 39 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
-| 40 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
-| 41 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
+| 40 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
+| 41 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
 | 42 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
 | 43 | [Love So Deep](https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR) | [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Star\-Funk, Vol\. 17](https://open.spotify.com/album/3FwORjUHzBX0kWcBgzsw7Z) | 7:01 |
 | 44 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw1M2YzYTBkYTcwZTgxMmQ4NzJiZGNlY2ExNzVlYjMyMjM1NTZkNGE5`
+Snapshot ID: `MCw3YTc5ZTZjNjBlZTMxNjA4MTMzZGNmYWFmMDZmZjhmZGU1NTFlMWM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,661 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,862 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 74 | [Bix](https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:15 |
 | 75 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 
-Snapshot ID: `MCxiYjNmOWQ5M2ViYTIwY2U4MmY2NzczZjc3NzEyZjQ3MjdhYjNjYTEw`
+Snapshot ID: `MCw3ODY1NGFhODUwOWUyNzE3ZjdkM2Y4OTFlM2Y1ZTc0YTg5MjY3ZTM5`

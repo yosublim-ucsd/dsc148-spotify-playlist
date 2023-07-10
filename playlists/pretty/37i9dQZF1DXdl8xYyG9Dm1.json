@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 122434,
+  "num_followers": 122499,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmMwM2VkMzY5ZjQ3MDMzMmZhYTIwN2RkZDAzYzE0MzcxNGZlNzQ0",
+  "snapshot_id": "MCw5M2FmM2E5NDg1ZDA1ZjhlZWIyNTAwNmE2M2Q0ZDlmOGM3M2NiNDJk",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1175,54 +1175,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Khuphuka",
-        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Khuphuka",
-      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "SUN / BABY BLUE 4\u2019s",
-        "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
-      },
-      "artists": [
-        {
-          "name": "Shane Eagle",
-          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "SUN",
-      "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1243,6 +1195,54 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "SUN / BABY BLUE 4\u2019s",
+        "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "As Above, So Below (Deluxe)",
-        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+        "name": "Something to Live For",
+        "url": "https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW"
       },
       "artists": [
         {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Natasha Chansa",
-          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 187858,
-      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
-      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
+      "duration_ms": 192153,
+      "name": "All the smoke",
+      "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
     },
     {
       "added_at": "2023-06-29 23:00:00",

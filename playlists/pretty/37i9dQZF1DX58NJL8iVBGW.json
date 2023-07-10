@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 566144,
+  "num_followers": 566311,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2E5YmM3MjY1MzI5Y2ViZGU1MGM1MGE1ZDQxNmRhMDg5ZjU0OWM4",
+  "snapshot_id": "MCw0NmIwZTRkNWQyYjQ3OGFjMzRmZmZhODRkNGMzYThhYmE4ZGJiZTVi",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Out Of Hands We Go",
         "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
         }
       ],
-      "duration_ms": 279733,
-      "name": "Too Dry To Cry",
-      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -975,6 +959,22 @@
       "duration_ms": 177306,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Nobody knows.",
+        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
+      },
+      "artists": [
+        {
+          "name": "Willis Earl Beal",
+          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Too Dry To Cry",
+      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "The Longest Day",
         "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Tin Type",
         "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 194493,
       "name": "Cadillac Dust",
       "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     }
   ],
   "unique_name": "Southern Gothic",

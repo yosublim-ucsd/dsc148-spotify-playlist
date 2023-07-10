@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -16856,7 +16856,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
@@ -21720,6 +21720,24 @@
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/2hFZyysKFwrc3hEe6Zt1xn"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/4gjQZrcDAMy9eexWabP0PY"
     },
     {
       "album": {
@@ -31394,7 +31412,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"

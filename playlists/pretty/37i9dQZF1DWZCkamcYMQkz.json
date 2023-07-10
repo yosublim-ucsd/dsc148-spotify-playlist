@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 122923,
+  "num_followers": 123238,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2YwOTc3MWZmNDk1ZGJkMjI4MjljNGY5YmU0YzA4MzVhNDc0Yjk4",
+  "snapshot_id": "MCwyMjA5NDcxNWU3ZjA4MGVkMmZlZDM3NDMzMjJlZjJjZTVhYmVlZWI4",
   "tracks": [
     {
       "added_at": "2023-06-20 14:42:27",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 184933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+      "duration_ms": 184933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 315586,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -759,42 +759,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Ella & Oscar",
-        "url": "https://open.spotify.com/album/7h1Q8EVuk6FKkufo3TLgpl"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "I Hear Music",
-      "url": "https://open.spotify.com/track/3CoBpiBcaqi1qq58mzaJNi"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -811,6 +775,26 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "Cheek To Cheek: The Complete Duet Recordings",
+        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Oops!",
+      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -907,8 +907,8 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+        "name": "Ella & Oscar",
+        "url": "https://open.spotify.com/album/7h1Q8EVuk6FKkufo3TLgpl"
       },
       "artists": [
         {
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         },
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+      "duration_ms": 308666,
+      "name": "I Hear Music",
+      "url": "https://open.spotify.com/track/3CoBpiBcaqi1qq58mzaJNi"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
       },
       "artists": [
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1071,6 +1055,22 @@
       "duration_ms": 256160,
       "name": "Hay Burner",
       "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Light-Foot",
         "url": "https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 319666,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Singin' a Melody",
         "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
       },
@@ -1199,22 +1183,6 @@
       "duration_ms": 224786,
       "name": "Singin' a Melody",
       "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1235,42 +1203,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Taking A Chance On Love",
-        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
       "artists": [
         {
-          "name": "V. Duke",
-          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
-        },
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 358760,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+      "duration_ms": 182760,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1295,22 +1239,58 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 358760,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Taking A Chance On Love",
+        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
+      },
+      "artists": [
+        {
+          "name": "V. Duke",
+          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1331,6 +1311,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Sunday Mornin'",
+      "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "The Feeling is Mutual",
         "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
       },
@@ -1347,6 +1343,26 @@
       "duration_ms": 254880,
       "name": "The Feeling is Mutual",
       "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
+        "name": "Bing With A Beat",
+        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 390173,
-      "name": "Sunday Mornin'",
-      "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+      "duration_ms": 161546,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1447,22 +1463,6 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Bing With A Beat",
-        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "What a Little Moonlight Can Do",
-      "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 179200,
       "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
       "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "What a Little Moonlight Can Do",
+      "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "I'm Putting All My Eggs In One Basket",
-      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Delightfulee",
         "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
       },
@@ -1667,22 +1651,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Easy come easy go (Edit)",
         "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
       },
@@ -1699,18 +1667,34 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Peggy Lee - The Great American Songbook",
-        "url": "https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 193720,
-      "name": "On the Sunny Side of the Street",
-      "url": "https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z"
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "I'm Putting All My Eggs In One Basket",
+      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1727,6 +1711,22 @@
       "duration_ms": 233600,
       "name": "Little Lucy",
       "url": "https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Peggy Lee - The Great American Songbook",
+        "url": "https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "On the Sunny Side of the Street",
+      "url": "https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z"
     }
   ],
   "unique_name": "Feel Good Jazz",

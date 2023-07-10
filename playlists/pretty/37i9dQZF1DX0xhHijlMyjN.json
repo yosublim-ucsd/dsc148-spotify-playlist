@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 349698,
+  "num_followers": 349798,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWQwNWFhZTMzZmUzMmI4NWQ0M2VlOTQyNzJhOWFkMGExZTIxMDEx",
+  "snapshot_id": "MCxjYTFmNDE2YTYwYWNlZjI0NDhhY2QyNjNlNDY0YTcxODhjNmVhMzRm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 172558,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 230000,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 194800,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Amor De Mi Tierra",
-        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Fruta Fresca",
-      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/1bjdztw8DuoTEZqL9XHz9n"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 264674,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/35tzxthMBglBMjmZ7Fn1hj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Amor De Mi Tierra",
+        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Fruta Fresca",
+      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-        "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -1939,26 +1919,6 @@
       "duration_ms": 249506,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        },
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1991,6 +1951,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+        "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!70\u5e74\u4ee3 DISCO",
         "url": "https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 234800,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
         }
       ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+      "duration_ms": 265520,
+      "name": "Levantando las Manos",
+      "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
       "artists": [
         {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 265520,
-      "name": "Levantando las Manos",
-      "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Buler\u00eda",
-        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Buleria",
-      "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "The Refrescos",
         "url": "https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 217626,
       "name": "Aqu\u00ed No Hay Playa",
       "url": "https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Buler\u00eda",
+        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Buleria",
+      "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "I Was so Unpopular in School and Now They're Giving Me This Beautyful Bicycle",
         "url": "https://open.spotify.com/album/59jGJxb4vXRCMbjqVgUI41"
       },
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Los Moles",
+          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+      "duration_ms": 303680,
+      "name": "El Legia",
+      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2507,22 +2523,6 @@
       "duration_ms": 232680,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/0T5MzYymxrAHLn5DngipCV"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Cartas de Amor",
-        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
-      },
-      "artists": [
-        {
-          "name": "Los Moles",
-          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "El Legia",
-      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
     },
     {
       "added_at": "2023-06-09 09:38:51",

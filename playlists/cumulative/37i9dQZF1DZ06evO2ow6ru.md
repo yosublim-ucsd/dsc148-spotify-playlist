@@ -68,7 +68,7 @@
 | [Time\-Bomb](https://open.spotify.com/track/0ydyPs14G4gAp2L1fWIhpV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/4LShkr6gPRWh5v0VUVNW0q) | 3:29 | 2023-03-19 | 2023-06-09 |
 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 | 2023-06-08 |  |
 | [Toxic Valentine](https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Toxic Valentine](https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ) | 2:52 | 2023-03-19 |  |
-| [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 | 2023-03-19 |  |
+| [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 | 2023-03-19 | 2023-07-10 |
 | [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:18 | 2023-03-19 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 144503,
+  "num_followers": 144612,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGEyNThiYWY0ZjI1M2I4YjU0OTIyMzAwN2RmMTZiMDQ3ZWRmMzY1",
+  "snapshot_id": "MCxkNGRjYzdiNTg3MWFjODhjODVkNTUxZTE4ZTIwNzQyNjM4OTExMDU3",
   "tracks": [
     {
       "added_at": "2023-07-06 16:12:44",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-07-06 16:12:44",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-07-06 16:12:44",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-07-06 16:12:44",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2023-07-06 16:12:44",
@@ -999,26 +999,18 @@
     {
       "added_at": "2023-07-06 16:12:44",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
       "artists": [
         {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 186967,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2023-07-06 16:12:44",
@@ -1039,18 +1031,26 @@
     {
       "added_at": "2023-07-06 16:12:44",
       "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+      "duration_ms": 186967,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
     },
     {
       "added_at": "2023-07-06 16:12:44",

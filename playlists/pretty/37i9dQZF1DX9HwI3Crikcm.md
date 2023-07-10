@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,399 likes - 87 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,479 likes - 87 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 86 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 87 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MCw0MTBhYTg2Mzk1MDAxYzZmNTkyMTEzYzA5MzQ4NGFiOTM2NGZkMjQ2`
+Snapshot ID: `MCw1NjE1YzVkMzU1YjIzNTZjMTc0OTFlNGE1MDZiNDNhMWMxZmE3MWEy`

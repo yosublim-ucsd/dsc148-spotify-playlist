@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,245 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,311 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 14 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 15 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 |
 | 16 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
-| 17 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
-| 18 | [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 |
+| 17 | [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 |
+| 18 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
 | 19 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 |
 | 20 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 2:35 |
 | 21 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 45 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 |
 | 46 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 | 47 | [Dope Boy Magic](https://open.spotify.com/track/2pfVxwR1CfiQuqx6fMsXYs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:17 |
-| 48 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 |
-| 49 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
+| 48 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
+| 49 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 |
 | 50 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 |
-| 51 | [Tryna Figure Why](https://open.spotify.com/track/3BfNIW0GIh5V56rhaMUSpe) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:28 |
+| 51 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
 
-Snapshot ID: `MjgxNDcwNDQsMDAwMDAwMDA1ZTZiOTQ4YWU2NzIwMzQ1M2U1YmU4OTUzN2IyYTg3Mg==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDAwMTZhYWZjMDkxYTQwMzdkM2E2YzU4NTRjMTg3Mzc1YQ==`

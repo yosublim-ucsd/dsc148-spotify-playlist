@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Tkay Maidza
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,379 likes - 98 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,385 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 97 | [Heartbreak Hotel](https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Heartbreak Hotel](https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb) | 3:23 |
 | 98 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 
-Snapshot ID: `MCw4ODc5OTNmMTAzYmMzYTE3ODUwMjRiZWI0MmQ3MTA3ZmVjNWE5NTdi`
+Snapshot ID: `MCxiMDE4MjBlNjFlNjdkYmFmZDhhMTI5OWM0ZDA0NWJkZWQzNWVkOTMx`

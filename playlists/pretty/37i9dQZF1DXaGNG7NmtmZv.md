@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,239 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,300 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 24 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
 | 25 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
 | 26 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
-| 27 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
-| 28 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
-| 29 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 27 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
+| 28 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 29 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
 | 30 | [I Know Why](https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:50 |
 | 31 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 32 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Here to Stay](https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH) | 2:24 |
 | 50 | [Family Tree](https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:55 |
 
-Snapshot ID: `MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0`
+Snapshot ID: `MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1`

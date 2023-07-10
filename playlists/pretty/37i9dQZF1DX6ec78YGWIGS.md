@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,149 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,490 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [+ SINCERO](https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [+ SINCERO](https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ) | 2:17 |
 | 100 | [Cura' de Espanto](https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Cura' de Espanto](https://open.spotify.com/album/5yrDNsjle7n0sRrZpdfIp9) | 1:58 |
 
-Snapshot ID: `MCwwZDBhY2UzODkzZTlmMWFiYzkyNzdlMjA5ZDhjOWRkYzczOTA4OGNh`
+Snapshot ID: `MCw5YmZiOTBiMGE0MTUwMmJiNzlkODZjMTMwZmFkMDk3NDljYzk2YjVm`

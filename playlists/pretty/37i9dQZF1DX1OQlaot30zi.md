@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Icy Subzero, Medy, Tony Boy e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,700 likes - 91 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,725 likes - 91 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 90 | [Madame](https://open.spotify.com/track/6rkJ56RN3LT0441vc2MC1P) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V) | [Madame](https://open.spotify.com/album/2UIcUj1Bw2YJKdawrMzLEV) | 2:30 |
 | 91 | [RODMAN](https://open.spotify.com/track/7rxLIKBzVP7Oyv1gqY53AY) | [Mastarais](https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma) | [RODMAN](https://open.spotify.com/album/1CEP6yaezuC7uhDIVFxvto) | 2:42 |
 
-Snapshot ID: `MCwzMDE4ZmEwYzg5NWRiN2MzODg4ZWU5Njg1OGQ1NDQxY2RjZGJjNTIx`
+Snapshot ID: `MCxjYjgzMGQzZWEzODEwZDI0N2MzMWFkNTlhNzQwY2Q0MGUwMDlhNTBk`

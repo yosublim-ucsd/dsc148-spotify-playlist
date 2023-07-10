@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 82139,
+  "num_followers": 82177,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5",
+  "snapshot_id": "MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+        "name": "Feel It / Circus Act",
+        "url": "https://open.spotify.com/album/7yNN51CSOWeiUayY1fsAK4"
       },
       "artists": [
         {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+          "name": "Stacey Pullen",
+          "url": "https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y"
         }
       ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+      "duration_ms": 458302,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2HfzYTnucpAPodJgPBpSm3"
     }
   ],
   "unique_name": "Detroit Techno",

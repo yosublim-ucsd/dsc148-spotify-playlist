@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: رابح صقر
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,423 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,544 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 |
-| 2 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 |
-| 3 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |
-| 4 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
-| 5 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
-| 6 | [بعيش لنفسي](https://open.spotify.com/track/6rCSn6Wjg2tW3MngrL5cPg) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 5:38 |
-| 7 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
-| 8 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 |
-| 9 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 |
-| 10 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
+| 1 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
+| 2 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |
+| 3 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
+| 4 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 |
+| 5 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 |
+| 6 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
+| 7 | [بعيش لنفسي](https://open.spotify.com/track/6rCSn6Wjg2tW3MngrL5cPg) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 5:38 |
+| 8 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 |
+| 9 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
+| 10 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 |
 | 11 | [تتنفسك دنياي](https://open.spotify.com/track/5RLyQK3o0mVIjmjbFM0sT2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [تتنفسك دنياي](https://open.spotify.com/album/3H6bW7rzjkoyHbYSE5Jyz6) | 4:42 |
 | 12 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 |
 | 13 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 |
 | 40 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 |
 
-Snapshot ID: `MCwxM2ZhMmJlNTdlZmM0NjQ3YjcyOTcyYTFhODg1ZmU1NTFmNDJhMGMw`
+Snapshot ID: `MCwyYjRlMDY2MWM4NjFiOWRhNDJmNzAwM2U3OTE2YzYxM2RlNzRlY2I0`

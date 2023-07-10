@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,563 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,620 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 31 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 |
 | 32 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 33 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
-| 34 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
-| 35 | [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 |
+| 34 | [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 |
+| 35 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
 | 36 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 |
 | 37 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 |
 | 38 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 68 | [Guinnevere](https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1) | 10:53 |
 | 69 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 |
 | 70 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
-| 71 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 |
-| 72 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 |
+| 71 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 |
+| 72 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 |
 | 73 | [Prophecy Extended](https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [Cousin Vinnie](https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV) | 6:18 |
 | 74 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 |
 | 75 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 |
 | 80 | [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 |
 
-Snapshot ID: `MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk`
+Snapshot ID: `MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz`

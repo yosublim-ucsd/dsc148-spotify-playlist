@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,966 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,015 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Heaven Knows](https://open.spotify.com/track/1rGtiJ6NtmHiEij4bf6hOh) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Heaven Knows](https://open.spotify.com/album/21rC1AhLo8aFP4zDbKVWSr) | 2:50 |
 | 80 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
 
-Snapshot ID: `MCxmZjNhZDczODFlODg5ODVkZTliMTg4ODY2MmIwZTgyZDM0NmY1N2Fm`
+Snapshot ID: `MCw4ODRmMmM4NWEyY2I1YjEzODVhOGI2Y2UzM2VmNGQyYTJmODk5MGVh`

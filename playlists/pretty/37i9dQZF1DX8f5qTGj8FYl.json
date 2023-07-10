@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 343649,
+  "num_followers": 343756,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGRlYTA1ZTQ1NmI5YjgzYTQ4OGY4MzAxMmMyMDdlNzJmNGE0ODAy",
+  "snapshot_id": "MCw5YThiZDVkNTFiNTQ4ZWE3MTc3YjVmZjM0OWM5ZmQxMzVjYjg5MzM1",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -319,18 +319,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+        "name": "Laid Black",
+        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
       "artists": [
         {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
+      "duration_ms": 355986,
+      "name": "7-T's",
+      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -355,22 +359,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Laid Black",
-        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
         }
       ],
-      "duration_ms": 355986,
-      "name": "7-T's",
-      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+      "duration_ms": 217053,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
+      "duration_ms": 164173,
+      "name": "Head for Backstage Pass",
+      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -457,20 +457,20 @@
       "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-06-25 04:02:00",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 164173,
-      "name": "Head for Backstage Pass",
-      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Strawberry Mansion",
-        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Pets",
-          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
-        }
-      ],
-      "duration_ms": 319687,
-      "name": "Strawberry Mansion",
-      "url": "https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg"
-    },
-    {
       "added_at": "2021-12-24 05:01:00",
       "album": {
         "name": "1am Funk Dance Party",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+        "name": "Strawberry Mansion",
+        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
       },
       "artists": [
         {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+          "name": "The Heavy Pets",
+          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+      "duration_ms": 319687,
+      "name": "Strawberry Mansion",
+      "url": "https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Bunny Hop!",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Just Funkin' Around",
-      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2020-11-13 05:02:00",

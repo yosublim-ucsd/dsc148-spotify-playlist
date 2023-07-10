@@ -240,10 +240,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 403920,
       "name": "Dear John",
       "url": "https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405906,
+      "name": "Dear John (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp"
     },
     {
       "album": {
@@ -262,6 +280,24 @@
       "duration_ms": 198533,
       "name": "Death By A Thousand Cuts",
       "url": "https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D"
+    },
+    {
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "dorothea",
+      "url": "https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA"
     },
     {
       "album": {
@@ -406,10 +442,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 242080,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/28M2gifMU282QBM3fKajIS"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Haunted (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces"
     },
     {
       "album": {
@@ -691,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369120,
+      "name": "Last Kiss (Taylor's Version)",
+      "url": "https://open.spotify.com/track/59KOoHFcw5XfICnO57holu"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -738,10 +810,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 237733,
       "name": "Mean",
       "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "Mean (Taylor's Version)",
+      "url": "https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j"
     },
     {
       "album": {
@@ -756,10 +846,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 230706,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Mine (Taylor's Version)",
+      "url": "https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG"
     },
     {
       "album": {
@@ -799,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292920,
+      "name": "Never Grow Up (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9"
+    },
+    {
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -828,10 +954,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 237920,
       "name": "Ours",
       "url": "https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235803,
+      "name": "Ours (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq"
     },
     {
       "album": {
@@ -994,10 +1138,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 260933,
       "name": "Sparks Fly",
       "url": "https://open.spotify.com/track/6d9IiDcFxtFVIvt9pCqyGH"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261230,
+      "name": "Sparks Fly (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp"
     },
     {
       "album": {
@@ -1012,10 +1174,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 240760,
       "name": "Speak Now",
       "url": "https://open.spotify.com/track/24DefNCFiWTP8OjYWiXuYe"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242473,
+      "name": "Speak Now (Taylor's Version)",
+      "url": "https://open.spotify.com/track/5xXqyjLicvEpch72qEryFT"
     },
     {
       "album": {
@@ -1196,10 +1376,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 265666,
       "name": "The Story Of Us",
       "url": "https://open.spotify.com/track/3RBluWmSoG2pGA1OePzGJI"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267653,
+      "name": "The Story Of Us (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3"
     },
     {
       "album": {
@@ -1308,6 +1506,24 @@
       "duration_ms": 212600,
       "name": "Welcome To New York",
       "url": "https://open.spotify.com/track/33Kq0AT5rvwyE4azisG08x"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252385,
+      "name": "When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg"
     },
     {
       "album": {

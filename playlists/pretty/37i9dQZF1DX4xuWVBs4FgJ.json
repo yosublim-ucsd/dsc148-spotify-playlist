@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1583468,
+  "num_followers": 1583810,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTZlYzE4ZWZiYTIyYWRlMjMzNjI1OGQzNzIzNGE3YzdmODBmMmQ5",
+  "snapshot_id": "MCxjZTc4MmM0N2Q2NjI0ZDE4ZmMyZDUzZjUzMGM5YTdjNWJmZTViYTdl",
   "tracks": [
     {
       "added_at": "2023-06-30 13:43:12",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 222926,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -847,22 +831,6 @@
       "duration_ms": 201413,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -883,6 +851,22 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 223043,
-      "name": "Too Much To Ask",
-      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 240439,
       "name": "Water Under the Bridge",
       "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 223120,
       "name": "Jackie and Wilson",
       "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2023-06-30 13:43:12",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-30 13:43:12",
       "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
-    },
-    {
-      "added_at": "2023-06-30 13:43:12",
-      "album": {
         "name": "Baby, It's Okay",
         "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 219013,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
+    },
+    {
+      "added_at": "2023-06-30 13:43:12",
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
     },
     {
       "added_at": "2023-06-30 13:43:12",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,414 songs - 3 day 0 hr 59 min
+1,415 songs - 3 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [5AM](https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:48 | 2021-10-17 | 2021-10-31 |
 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 | 2021-03-27\* | 2021-04-14 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-17 |
+| [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-07-09 |  |
 | [A.D.A.M](https://open.spotify.com/track/5fB85aNDsQIMLeoGgWHhEp) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [A.D.A.M](https://open.spotify.com/album/4p2G02jHNwbcyp6ctWVtzB) | 2:26 | 2021-07-13 | 2021-10-03 |
 | [A.P.T.A](https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [A.P.T.A](https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3) | 1:50 | 2022-07-16 | 2022-07-31 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-20 | 2022-05-04 |
@@ -773,7 +774,7 @@
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2021-08-15 | 2021-09-21 |
 | [Love N Affection](https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Love N Affection](https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH) | 2:59 | 2022-05-03 | 2022-05-15 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-20 | 2021-11-21 |
-| [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-05 |  |
+| [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-05 | 2023-07-10 |
 | [Loyal](https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:08 | 2022-09-03 | 2022-11-27 |
 | [Lucia \(Så mörk är natten\)](https://open.spotify.com/track/4fXpKspFnY2bbjZDiUgOZS) | [Adolf Fredriks Musikklasser](https://open.spotify.com/artist/60BNhPmsrBop6PQv3QnZH0) | [Jul & Lucia med Adolf Fredriks Musikklasser](https://open.spotify.com/album/5qCzXQysDZ8bQbqknkZQfx) | 1:20 | 2022-12-14 | 2022-12-20 |
 | [LUFT FÖR MIG](https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [LUFT FÖR MIG](https://open.spotify.com/album/7ecRWkPFYZZeSnyKZdbifH) | 2:28 | 2023-02-25 | 2023-02-27 |
@@ -945,7 +946,7 @@
 | [PAIN BABY](https://open.spotify.com/track/2VneLFgPiLNPVlFZMqiY5Z) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:58 | 2022-05-07 | 2022-05-08 |
 | [PAKET](https://open.spotify.com/track/7LtgVT3e9MfQo5AWnakby2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:58 | 2022-06-11 | 2022-06-24 |
 | [PANG! BOOM!](https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [PANG! BOOM!](https://open.spotify.com/album/6DorMD9NgkADVFd4yHGos8) | 2:31 | 2022-10-15 | 2022-10-21 |
-| [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-07-08 |  |
+| [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-07-08 | 2023-07-10 |
 | [Pantamaskineriet \(Pantamera\)](https://open.spotify.com/track/19VnrrqFOI7WFcyzmaUI5G) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Pantamaskineriet \(Pantamera\)](https://open.spotify.com/album/0vEMkJK3ltseyxFkUapLUB) | 2:13 | 2023-04-03 | 2023-04-07 |
 | [Paparazzi](https://open.spotify.com/track/5HfICLgQFsCltw5f9nWFtd) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Paparazzi](https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea) | 2:11 | 2021-11-21 | 2022-01-01 |
 | [Papi](https://open.spotify.com/track/7Ey5RUzLbRqndxNFZGxBSQ) | [Elvis](https://open.spotify.com/artist/3A0bILim1KH4gOhxr7O51k) | [Papi](https://open.spotify.com/album/5c694uCD3COYuOqwM0rGAb) | 2:37 | 2022-02-26 | 2022-03-05 |
@@ -1404,7 +1405,7 @@
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-20 | 2023-06-27 |
 | [Xatar](https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:04 | 2022-08-20 | 2022-09-18 |
 | [XXX \(Bow Wow Wow\)](https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [XXX \(Bow Wow Wow\)](https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl) | 2:05 | 2022-11-26 | 2022-12-03 |
-| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-26 | 2022-08-28 |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-26 |  |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-18 | 2021-04-19 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-07-01 | 2021-07-04 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-30 |

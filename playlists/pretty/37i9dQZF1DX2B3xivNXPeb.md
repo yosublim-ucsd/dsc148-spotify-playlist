@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,858 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,873 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 10 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 | 11 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
 | 12 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
-| 13 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
-| 14 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
+| 13 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
+| 14 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 15 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:01 |
 | 16 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
 | 17 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 76 | [Katata](https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Katata](https://open.spotify.com/album/6NArqG0EGzKBknB2x88YlL) | 3:36 |
 | 77 | [Blueberry Hill](https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 3:20 |
 | 78 | [Mrs Blue](https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Mrs Blue](https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP) | 4:27 |
-| 79 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 |
-| 80 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
+| 79 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
+| 80 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 |
 | 81 | [Watch Me Dance](https://open.spotify.com/track/6nD7oFYIKMjGBFRhVX7vYz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Watch Me Dance](https://open.spotify.com/album/5Hbogrukylm91E91osFIoE) | 5:03 |
 | 82 | [Kitchen Sunset](https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge) | [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe), [David Nuri](https://open.spotify.com/artist/18PiyiMZ2GmEdIJW0l2rqm) | [Kitchen Sunset](https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs) | 3:36 |
 | 83 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 85 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 |
 | 86 | [BBQ Energy](https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv) | 3:06 |
 | 87 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
-| 88 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
-| 89 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 88 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 89 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 90 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 |
 | 91 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
 | 92 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 | 100 | [Dance With You Again](https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dance With You Again](https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v) | 3:07 |
 
-Snapshot ID: `MCwwZDk3NmM3ZTBmMjdmZDRmMmJiZmFmNjhjODMxOTg1MWZiZjFiZmVm`
+Snapshot ID: `MCw2ZTg5YmE0MTAzM2JjNDFmY2Q4NzEzY2I3NWJiY2IzN2JjYzBlZTVi`

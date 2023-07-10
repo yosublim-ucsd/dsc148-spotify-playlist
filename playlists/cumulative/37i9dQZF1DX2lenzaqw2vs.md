@@ -4,7 +4,7 @@
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Esteman
 
-292 songs - 16 hr 9 min
+293 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,10 +240,11 @@
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-01-24 |  |
 | [Rubberhand](https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf), [Chenta Tsai](https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p), [Tami T](https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ) | [JÁJÁ ÉQÚÍSDÉ \(Distopía Aburrida\)](https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj) | 3:53 | 2022-06-01 | 2023-01-25 |
 | [Ruido](https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8) | [La Prohibida](https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl) | [Ruido](https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf) | 4:57 | 2021-12-09 | 2023-01-25 |
+| [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 | 2023-07-07 |  |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-06-01 | 2023-01-25 |
 | [salvatore](https://open.spotify.com/track/2j1rf8gz82mPSUFYtZL4VK) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [salvatore](https://open.spotify.com/album/7kVT3L8cRYduktHOINNYgm) | 2:53 | 2023-01-24 | 2023-04-01 |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-06-01 | 2023-01-25 |
-| [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 | 2023-01-24 |  |
+| [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 | 2023-01-24 | 2023-07-10 |
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-03 | 2023-07-08 |
 | [Shake Me](https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Shake Me](https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd) | 3:31 | 2021-12-09 | 2023-01-25 |
 | [Shutup](https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2) | [LoMaasBello](https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK) | [Shutup](https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4) | 3:12 | 2022-06-01 | 2023-01-25 |

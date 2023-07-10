@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,237 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,307 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 59 | [Parey](https://open.spotify.com/track/5QvGIGxLUuqziDY1vjMFB2) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Urooj](https://open.spotify.com/album/6AQcoEJ3NH4ugF5DVagnGD) | 6:45 |
 | 60 | [Ja Tujhko](https://open.spotify.com/track/2XLjGMZHV31QJGwbALFj95) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/0ua1PXspnCoxFYjdpgxjJy) | 6:05 |
 
-Snapshot ID: `MCxlNTlhMWFmMmI2N2EwYjY2OGU5MWM4MGE1MjEwNmZmN2IxMjIxNmVh`
+Snapshot ID: `MCwwOGZlZTk4MmNjMTcxNTYyYjk2MDBlMGM3MGJhMTM2OGM2ZmQ4OGIy`

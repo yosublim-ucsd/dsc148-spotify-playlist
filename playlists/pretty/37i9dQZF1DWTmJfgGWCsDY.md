@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 8 | [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW) | 5:20 |
 | 9 | [Umbea](https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Hits of Aslay](https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC) | 3:22 |
 | 10 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 |
-| 11 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
-| 12 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
+| 11 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
+| 12 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
 | 13 | [Demu Wangu](https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Demu Wangu \(Remix\)](https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ) | 4:07 |
 | 14 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
 | 15 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 41 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 |
 | 42 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 |
 | 43 | [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 |
-| 44 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
-| 45 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 |
-| 46 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
-| 47 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 |
+| 44 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
+| 45 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
+| 46 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 |
+| 47 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 |
 | 48 | [Happy birthday](https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Kidakizo mc](https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N) | [Happy birthday](https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp) | 3:31 |
 | 49 | [Simu Yangu \- Remix](https://open.spotify.com/track/0a7roGzPErbKY6NLCZPSq4) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbrasil](https://open.spotify.com/artist/2y4fe1JlBfqMTvScV2lYu6) | [Simu Yangu \(Remix\)](https://open.spotify.com/album/1lQ6mMdnmZ44RFxY3y6EgH) | 3:44 |
 | 50 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
 
-Snapshot ID: `MCwyNzUyOGMwNmIzYjdiZmFkMDVmNjUzNjUwZjQzOTJjZjAzYWVlYjZm`
+Snapshot ID: `MCxlM2Q3ZDhjZTY1ZjZhNDJjYTFmODlkODM2NWYwMjc2ODY1NzVjMWEz`

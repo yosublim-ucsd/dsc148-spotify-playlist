@@ -1,12 +1,12 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 388945,
+  "num_followers": 389050,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWNhMDVhMzg0ODJlY2NlOTBmMjM4ZmIwYzM5NGRhNTE2MDdmMWY3",
+  "snapshot_id": "MCwyODlhMGI2YTZjZmZiYTA2NGQ3MDE1OTBiMmYwN2E1OTgyMjg3ZDVj",
   "tracks": [
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2023-07-07 05:01:00",
-      "album": {
         "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
         "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 143291,
       "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
       "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+    },
+    {
+      "added_at": "2023-07-07 05:01:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Felices Perdidos",
+      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
     },
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
-    },
-    {
-      "added_at": "2023-07-07 05:01:00",
-      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2023-07-07 05:01:00",
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Detente",
+      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1747,8 +1747,8 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
+        "name": "Palabras Sobran",
+        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
       },
       "artists": [
         {
@@ -1756,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
+      "duration_ms": 216250,
+      "name": "Palabras Sobran",
+      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
     },
     {
       "added_at": "2023-07-07 05:01:00",
@@ -1879,8 +1879,8 @@
     {
       "added_at": "2023-07-07 05:01:00",
       "album": {
-        "name": "Palabras Sobran",
-        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },
       "artists": [
         {
@@ -1888,9 +1888,9 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 216250,
-      "name": "Palabras Sobran",
-      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2023-07-07 05:01:00",

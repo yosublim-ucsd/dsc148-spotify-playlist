@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 144615,
+  "num_followers": 144685,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhmZjQ5Y2M2ZWU3M2JkZDYxZDQ1MmY1YzBhMTMwY2RjMzhkZDE1",
+  "snapshot_id": "MCw1NjA5N2FkMmQ1OTEzNTZhMGE5ZGNmYjhjMDRkODJkMTc4ZDgzNDQ4",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "TICKETS",
-        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "YOU+ME=",
-      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
         "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 235325,
       "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "TICKETS",
+        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "YOU+ME=",
+      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
         }
       ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1331,26 +1335,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "RA MU - Night Tempo presents The Showa Groove",
         "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1383,38 +1383,6 @@
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "Inherit The Life II",
-        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1435,6 +1403,38 @@
       "duration_ms": 242143,
       "name": "FANCITY",
       "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Inherit The Life II",
+        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Smile in your face",
-        "url": "https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u672c\u5343\u590f",
-          "url": "https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS"
-        },
-        {
-          "name": "LITTLE",
-          "url": "https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "Smile in your face",
-      "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "It's all about you",
         "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Smile in your face",
+        "url": "https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u672c\u5343\u590f",
+          "url": "https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS"
+        },
+        {
+          "name": "LITTLE",
+          "url": "https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "Smile in your face",
+      "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE"
-      },
-      "artists": [
-        {
-          "name": "Dally Work\u2019s",
-          "url": "https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE"
+      },
+      "artists": [
+        {
+          "name": "Dally Work\u2019s",
+          "url": "https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
@@ -1639,26 +1639,6 @@
       "duration_ms": 230813,
       "name": "friends",
       "url": "https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
-        "url": "https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3089\u304b\u306a\u3053",
-          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
-        },
-        {
-          "name": "Hitomi Shimatani",
-          "url": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
-      "url": "https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1683,6 +1663,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "Danceless Island",
         "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
       },
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+        "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
+        "url": "https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB"
       },
       "artists": [
         {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+          "name": "\u306f\u3089\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
+        },
+        {
+          "name": "Hitomi Shimatani",
+          "url": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18"
         }
       ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+      "duration_ms": 326746,
+      "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
+      "url": "https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk"
     },
     {
       "added_at": "2023-07-04 15:00:00",

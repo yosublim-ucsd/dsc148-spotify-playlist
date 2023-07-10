@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWM4OGZlY2RiZmRlNDgxZGQyYWEwMDNhYWZhYzhhNjJmNjhkNzZj",
+  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Chaleur Humaine",
-        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 262263,
-      "name": "Nuit 17 \u00e0 52",
-      "url": "https://open.spotify.com/track/1yNjs2dMriAHdL5zNU7OXl"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/2BqvfvkRMxwKB6wRlUO26R"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 251226,
       "name": "Place de la R\u00e9publique",
       "url": "https://open.spotify.com/track/2RSjgW4arutr9Q5Va9ur8U"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Chaleur Humaine",
+        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 262263,
+      "name": "Nuit 17 \u00e0 52",
+      "url": "https://open.spotify.com/track/1yNjs2dMriAHdL5zNU7OXl"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212488,
       "name": "Je pourrai plus jamais",
       "url": "https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
-      },
-      "artists": [
-        {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La grande nuit vid\u00e9o",
         "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Pink Lady",
-        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Je ne viendrai pas demain",
-      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Je ne viendrai pas demain",
+      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Marie-Pierre Arthur",
-        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
+        "name": "LUNES",
+        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
       },
       "artists": [
         {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+          "name": "Chlo\u00e9 Lacasse",
+          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
         }
       ],
-      "duration_ms": 253145,
-      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
-      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+      "duration_ms": 291720,
+      "name": "Rester l\u00e0",
+      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "LUNES",
-        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
+        "name": "Marie-Pierre Arthur",
+        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Lacasse",
-          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
         }
       ],
-      "duration_ms": 291720,
-      "name": "Rester l\u00e0",
-      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
+      "duration_ms": 253145,
+      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
+      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 186215,
-      "name": "Rien ne se perd, rien ne se cr\u00e9e",
-      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "EP de malade",
         "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 206693,
       "name": "Madame (Version douce)",
       "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 186215,
+      "name": "Rien ne se perd, rien ne se cr\u00e9e",
+      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
-      },
-      "artists": [
-        {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 273473,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
-        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
-      },
-      "artists": [
-        {
-          "name": "Samuele",
-          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
-        }
-      ],
-      "duration_ms": 256361,
-      "name": "Dactylo",
-      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 278653,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
+        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
+      },
+      "artists": [
+        {
+          "name": "Samuele",
+          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
+        }
+      ],
+      "duration_ms": 256361,
+      "name": "Dactylo",
+      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
     },
     {
       "added_at": "2021-02-06 03:12:40",

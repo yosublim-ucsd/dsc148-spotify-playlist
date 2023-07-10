@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,993 likes - 73 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,997 likes - 73 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Runaway](https://open.spotify.com/track/0L1uNB1Ywiv4PBsfVWLCp9) | [KYRA 22](https://open.spotify.com/artist/3EWyJNfiAkXORey9DmGRWb) | [Runaway](https://open.spotify.com/album/4cJiThTyWHQwBqujFUrqcQ) | 3:30 |
 | 20 | [Night & Then](https://open.spotify.com/track/4nsKWu7gpbYosdJGGCRxLH) | [Humminbirds](https://open.spotify.com/artist/6xgzj6CwPxfeV8canmzv36) | [Night & Then](https://open.spotify.com/album/5KlbH6F34D2VFuibjIoqP6) | 4:31 |
 | 21 | [Drowning](https://open.spotify.com/track/4iRZFynpZijHe7olA5lh4t) | [MoissIsYours](https://open.spotify.com/artist/2Am7cxLqM4r5RTHkGUvfgH) | [Drowning](https://open.spotify.com/album/3jgwnN7sq3ONS4eh4HhH1U) | 2:14 |
-| 22 | [Pergi](https://open.spotify.com/track/6V1tb6kBLJG22l96UMUiRs) | [andryo](https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM) | [Pergi](https://open.spotify.com/album/3H70p917geUXBdf5rNow3h) | 2:59 |
+| 22 | [Pergi](https://open.spotify.com/track/0Dnf6nLdliUDqJLFXbNX2u) | [andryo](https://open.spotify.com/artist/0FtYnx2Hlfs6OMT8TlDcVM) | [Pergi](https://open.spotify.com/album/7uvEIrPOWi4KYVW9HKVvvT) | 2:59 |
 | 23 | [Fault](https://open.spotify.com/track/5AIxaONRb2psOExCkj17YK) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fault](https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS) | 3:11 |
 | 24 | [Jalan Sepi](https://open.spotify.com/track/2GK0qo82gET3u9PvmNOjAx) | [Denny Indrajaya](https://open.spotify.com/artist/1FJsMaXbB2RrxmfBE7ExHD) | [Jalan Sepi](https://open.spotify.com/album/56s1Awv0tVxc0SaCxGpR9z) | 3:03 |
 | 25 | [Please](https://open.spotify.com/track/332Xs5qgP7YjohodnomQFT) | [GUDENSWAY](https://open.spotify.com/artist/7EFh8broZwyTtcUsfuMEmf) | [Poem.](https://open.spotify.com/album/1xEKbu60OyUgm4Iayx6ixg) | 3:33 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 72 | [Euphoria](https://open.spotify.com/track/52MjfmXjO9qwQuUwGHqSeX) | [Boysyaka](https://open.spotify.com/artist/20hML6oHWY66gYeTyDFr8R), [HellaOccupied](https://open.spotify.com/artist/1DL3xd3NqTDjOU7Me5QQ75) | [Euphoria](https://open.spotify.com/album/16woIodv0wspNiQo82yPL0) | 3:30 |
 | 73 | [Won't Last](https://open.spotify.com/track/7qTbNmxivYCjz7vQDdeAmH) | [Aknostra](https://open.spotify.com/artist/1wNK9u0V8X7sqDr3P9rlbs), [Bigtrutha](https://open.spotify.com/artist/0YKcz5ea5ITbe8BoY1Vanp) | [Won't Last](https://open.spotify.com/album/2F6hZKFMru2AFJA3RWdmtu) | 2:38 |
 
-Snapshot ID: `MCxkODQ4ZTBhMmVhMmU0ZDljMDVlZDJjMjg3OGZmNWY4MTcwNDBiODZi`
+Snapshot ID: `MCw4NTk1NGZlZDNmODA2M2M5MzZkNTVlOWYzMzZkMDRiZDU4ZmI2MjE1`

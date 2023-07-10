@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,256 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,262 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 21 | [Lie to Me](https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lie to Me](https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5) | 2:51 |
 | 22 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
 | 23 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
-| 24 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
-| 25 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
+| 24 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
+| 25 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
 | 26 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 27 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 28 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 31 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 32 | [Golden Boy](https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [Nadav Guedj](https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE) | 3:00 |
 | 33 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
-| 34 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
-| 35 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
+| 34 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
+| 35 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 36 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
 | 37 | [Ne partez pas sans moi \(Grand prix de L'Eurovision 1988\)](https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:06 |
 | 38 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 64 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
 | 65 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
 | 66 | [Occidentali's Karma \- Eurovision Version](https://open.spotify.com/track/4dd6dCTW5epqioOWCAwd3W) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/album/6427uJOkrOWP7pTF1PmkEr) | 3:03 |
-| 67 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
-| 68 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
-| 69 | [My Star \- Original](https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [My Star](https://open.spotify.com/album/7jsIyIJQJAQNwjPS01ERcK) | 3:04 |
+| 67 | [My Star \- Original](https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [My Star](https://open.spotify.com/album/7jsIyIJQJAQNwjPS01ERcK) | 3:04 |
+| 68 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
+| 69 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
 | 70 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
-| 71 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
-| 72 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
-| 73 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
+| 71 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
+| 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 73 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
 | 74 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 | 75 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
 
-Snapshot ID: `MCwxNzEwMmExYTQ4Y2NjN2MxY2MwNzQ5ZWY5NzhlMTYyMGE0MjM5Yzlm`
+Snapshot ID: `MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2`

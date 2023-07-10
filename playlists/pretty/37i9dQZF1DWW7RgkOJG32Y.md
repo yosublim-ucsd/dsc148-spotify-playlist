@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Dylan Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,852 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,079 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 50 | [Note To Self](https://open.spotify.com/track/7ETfVO4Njvmf3oNPJy33zF) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Note to Self](https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN) | 3:15 |
 
-Snapshot ID: `MCwxZGFkYTVlNGNkNDJhM2I4ZDYwMzFmNzk3MTI1YTc0N2VlNjI4M2Uw`
+Snapshot ID: `MCxmODMzMjc1OTY0NWU5MGVlYjYzMTExODNkZjkyNTE5OGFjZjkyNjRj`

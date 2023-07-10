@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : LEO
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,985 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,176 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 5 | [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 |
 | 6 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 |
 | 7 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 |
-| 8 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 |
-| 9 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
+| 8 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
+| 9 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 |
 | 10 | [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 |
 | 11 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 |
 | 12 | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/2vkNA9I029dTwX0y6d59Sc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2ONwgvLKEYR7wn8dfoX9yE) | 3:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 50 | [Chellamma](https://open.spotify.com/track/7fdsoKCtpx2hYXDRMoActW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Doctor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY) | 3:56 |
 | 51 | [Adheeraa](https://open.spotify.com/track/5SXwKl2nWY1No4wZ0FJDHN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 4:19 |
 
-Snapshot ID: `MCxmNGEyYmNhNTBmMmYyNzQxZThjZWFkNjc3Y2NkNjUwYWFhZjg2ZmQx`
+Snapshot ID: `MCxhNjFlYTc5MTc0MzI2ZjNmZjcwY2UzNzRlZWMxMDhjZjdlMjBhMTA4`

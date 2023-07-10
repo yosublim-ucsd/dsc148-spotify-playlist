@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 102548,
+  "num_followers": 102571,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmM0Y2FjMTA3NTg4MDFmODc0YTU4ZWZiZTdjYjBhNGUwZjNhMDVl",
+  "snapshot_id": "MCw4MWQ4ZmIzMjEwZWIyZWM0MzQ4MmZkYzY2NWNiMmZhYzJlMThmOWJj",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -108,22 +108,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
       "artists": [
@@ -135,6 +119,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Cornflake Girl - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "hey! - Spotify Singles",
         "url": "https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 133762,
       "name": "hey! - Spotify Singles",
       "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Cornflake Girl - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -912,22 +912,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 332163,
-      "name": "Scott Street - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
@@ -955,6 +939,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 332163,
+      "name": "Scott Street - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1136,22 +1136,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 176958,
-      "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
       },
       "artists": [
@@ -1163,6 +1147,22 @@
       "duration_ms": 170342,
       "name": "00000 Million - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 176958,
+      "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1248,22 +1248,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 220098,
-      "name": "Glory - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
@@ -1275,6 +1259,22 @@
       "duration_ms": 201851,
       "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 220098,
+      "name": "Glory - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1312,22 +1312,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "Hunger - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
@@ -1339,6 +1323,22 @@
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Hunger - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 220060,
-      "name": "More Than You Know - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 230145,
       "name": "The View From Halfway Down - Spotify Singles",
       "url": "https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 220060,
+      "name": "More Than You Know - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 221115,
-      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Cartoon Earthquake - Spotify Singles",
-        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 205429,
-      "name": "Cartoon Earthquake - Spotify Singles",
-      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
+      "duration_ms": 221115,
+      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1607,6 +1591,22 @@
       "duration_ms": 151680,
       "name": "Panic - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Fq3PEdN2zuw2SsDD732eg"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Cartoon Earthquake - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 205429,
+      "name": "Cartoon Earthquake - Spotify Singles",
+      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1644,22 +1644,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207642,
-      "name": "Turn - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1671,6 +1655,22 @@
       "duration_ms": 337837,
       "name": "Everything Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Turn - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1772,22 +1772,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 320156,
-      "name": "Mind Games - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
@@ -1815,6 +1799,22 @@
       "duration_ms": 145280,
       "name": "Wasting Time - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 320156,
+      "name": "Mind Games - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Nothing Scares Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Nothing Scares Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 251803,
       "name": "Lovesong - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Nothing Scares Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Nothing Scares Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 212449,
-      "name": "Softly - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "RBF: Part 1 - Spotify Singles",
         "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
       },
@@ -1947,6 +1931,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 212449,
+      "name": "Softly - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Lost - Spotify Singles",
         "url": "https://open.spotify.com/album/50BXVC6HAFoAunZzwsvLsR"
       },
@@ -1959,6 +1959,26 @@
       "duration_ms": 240052,
       "name": "Lost - Spotify Singles",
       "url": "https://open.spotify.com/track/4cMDos0OPu2XKWDXivzN0q"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Hypnotic Brass Ensemble",
+          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1991,26 +2011,6 @@
       "duration_ms": 277563,
       "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
       "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Black Pumas (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Hypnotic Brass Ensemble",
-          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
     },
     {
       "added_at": "2023-01-11 22:54:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,102 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,112 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 23 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 |
 | 24 | [The Book of You & I](https://open.spotify.com/track/2CSrG5fnBpcdfPXg7sJUBi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:27 |
 | 25 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
-| 26 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
-| 27 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
+| 26 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
+| 27 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 28 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 |
 | 29 | [I Ain't Perfect](https://open.spotify.com/track/7lD4bwbBCqukPke3Xt1Ncs) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:22 |
 | 30 | [The Simple Things](https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Love Adolescent](https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52) | 4:23 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 36 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 37 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
 | 38 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
-| 39 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 |
-| 40 | [Mariposa \- Acoustic](https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa \(Acoustic\)](https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L) | 3:36 |
-| 41 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
-| 42 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
+| 39 | [Mariposa \- Acoustic](https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa \(Acoustic\)](https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L) | 3:36 |
+| 40 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
+| 41 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 |
+| 42 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 43 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 |
 | 44 | [the broken hearts club](https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [we](https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v) | 3:04 |
 | 45 | [3 Rounds and a Sound](https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [3 Rounds and a Sound](https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1) | 4:26 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 64 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 65 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
 | 66 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
-| 67 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
-| 68 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 |
-| 69 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
-| 70 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
+| 67 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
+| 68 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
+| 69 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 |
+| 70 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
 | 71 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 |
-| 72 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
-| 73 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
-| 74 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
-| 75 | [Here With Me \- Acoustic](https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Here With Me \- Acoustic](https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt) | 2:44 |
+| 72 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
+| 73 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
+| 74 | [Here With Me \- Acoustic](https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Here With Me \- Acoustic](https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt) | 2:44 |
+| 75 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 
-Snapshot ID: `MCxkOTc3NmVlZWY3NWUyMmVkYmU0MDUwNDRmNzU4MTY2M2I2MzA3OWIy`
+Snapshot ID: `MCw5ZTVjZjAyODJkYzY0NjE4OWVmMjgxMjA0NDhmN2UxOTRiM2Q0ZWVi`

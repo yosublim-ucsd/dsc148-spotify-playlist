@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Sain
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,201 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,260 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 | 75 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 
-Snapshot ID: `MCxjZWY0MWZhNmJiZDE0NWViN2IzMzk4NmNlMGVjZjEyY2Y1MWE2MDNm`
+Snapshot ID: `MCw3YjlkYjQ2ZWJmYTQ5MDQwODRkOTkxN2M2NDczMDNlYWFjMmYxNzI5`

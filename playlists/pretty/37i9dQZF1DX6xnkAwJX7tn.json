@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 511441,
+  "num_followers": 512512,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGYxZDI0NGI3MmMxOGNiOTFjMTcyYzQyYjNlOWU5MDYyNjZiOGYx",
+  "snapshot_id": "MCwwNGI1ZGEwNDY3MzRjY2JhMGNjNzA4YjQ2Zjk2Yjg1ODZlOTBlMDdj",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Voices",
@@ -467,6 +451,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-03-22 14:12:29",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 258399,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
-    },
-    {
       "added_at": "2021-03-22 14:12:29",
       "album": {
         "name": "Welcome To The Pleasuredome",
@@ -947,6 +931,22 @@
       "duration_ms": 236800,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Living In The Background",
         "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 176440,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "The George Benson Collection",
@@ -1555,22 +1571,6 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1661,20 +1661,20 @@
       "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "No Jacket Required (2016 Remaster)",
@@ -1707,22 +1723,6 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me",
-      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Points On The Curve",
         "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1811,22 +1827,6 @@
       "duration_ms": 194618,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -1891,22 +1907,6 @@
       "duration_ms": 268533,
       "name": "Papa Don't Preach",
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Around The World In A Day",
-        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2009,6 +2009,22 @@
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Freedom of Choice",
@@ -2039,22 +2055,6 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2121,6 +2121,22 @@
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "The Raw & The Cooked",
@@ -2169,22 +2185,6 @@
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Love Songs (A Compilation Old and New)",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Empty Glass",
-        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
-      },
-      "artists": [
-        {
-          "name": "Pete Townshend",
-          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Let My Love Open The Door",
-      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Get Close (Expanded & Remastered)",
@@ -2231,6 +2215,22 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Empty Glass",
+        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
+      },
+      "artists": [
+        {
+          "name": "Pete Townshend",
+          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Let My Love Open The Door",
+      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2281,22 +2281,6 @@
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Very Best Of Kool & The Gang (Reissue)",
@@ -2311,6 +2295,22 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2021-09-08 13:09:25",

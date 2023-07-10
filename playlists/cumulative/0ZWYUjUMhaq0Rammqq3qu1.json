@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 184285,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/0XB3UigycQE75lWN6noCLm"
@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "album": {
         "name": "Jumpin Out The Face",
         "url": "https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj"
       },
@@ -2375,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165961,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
+    },
+    {
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW"
       },
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 156788,
       "name": "Love 2 U",
       "url": "https://open.spotify.com/track/5IdjonofmOR2iPNjAeQ0PW"
@@ -4108,7 +4148,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 192545,
       "name": "Summer Simmer",
       "url": "https://open.spotify.com/track/7LyHF0jzJ7CloonHBO8xTB"

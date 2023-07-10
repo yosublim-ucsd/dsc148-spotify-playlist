@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Jotta A
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,642 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,668 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 36 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
 | 37 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
 | 38 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
-| 39 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
-| 40 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
+| 39 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
+| 40 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
 | 41 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 |
 | 42 | [PODE DALE](https://open.spotify.com/track/0M7NT1s4Ne6wRjPzSfPxsC) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [PODE DALE](https://open.spotify.com/album/1hvyiV92xrJUiJHiJmmqTf) | 2:47 |
 | 43 | [boca](https://open.spotify.com/track/0whBldSuTpdP1UrjhdngQl) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [boca](https://open.spotify.com/album/4NFrmdrkTIuY3FNZJts5UE) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCxhYWFkNDhlYTkwYzdkOGM0ODBiOGNkNzYzNmM3MjM3MTBhYzBjMzQx`
+Snapshot ID: `MCw5MTBlMjZkNDU1YmQ5YWNiNWVlY2Q4NTdjNmRkNDFhMGUyZmZkOTE5`

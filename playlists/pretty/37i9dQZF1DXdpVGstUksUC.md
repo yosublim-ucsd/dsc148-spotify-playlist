@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,172 likes - 100 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,350 likes - 100 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 36 | [Deconstruction](https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp) | 5:09 |
 | 37 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 38 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 |
-| 39 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 40 | [Stray Bullit Woman](https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z) | 3:05 |
+| 39 | [Stray Bullit Woman](https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z) | 3:05 |
+| 40 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 41 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
 | 42 | [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 |
 | 43 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 |
 | 44 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 |
-| 45 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
-| 46 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
+| 45 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
+| 46 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 47 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 48 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
 | 49 | [Dead Rock Commandos](https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK) | 3:16 |
@@ -81,23 +81,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 71 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 72 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
 | 73 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
-| 74 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
-| 75 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
+| 74 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
+| 75 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
 | 76 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
 | 77 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 78 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 |
-| 79 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
-| 80 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 |
-| 81 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
-| 82 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
-| 83 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
-| 84 | [Heavy Low](https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5) | 4:50 |
+| 79 | [Heavy Low](https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5) | 4:50 |
+| 80 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
+| 81 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 |
+| 82 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
+| 83 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
+| 84 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
 | 85 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 |
 | 86 | [Lust Queen](https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:12 |
 | 87 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 | 88 | [Jim's Whiskers](https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e) | [John Garcia](https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8) | [John Garcia and the Band of Gold](https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF) | 3:42 |
-| 89 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
-| 90 | [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 |
+| 89 | [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 |
+| 90 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
 | 91 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
 | 92 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |
 | 93 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
 | 100 | [Rattle](https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx) | 5:32 |
 
-Snapshot ID: `MCw5YWY5ZjdhZDM3YWU4ODJlNjc5MTAyZTAxOTVjZjU1MGMyZDUwNDU2`
+Snapshot ID: `MCw2ZWVhNTUyYzU1MmIxM2UyOTg1ZTM5MWE0MTZjMzljMGQ2NDZlNzJh`

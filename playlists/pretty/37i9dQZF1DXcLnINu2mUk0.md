@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,343 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,374 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
 | 54 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
 | 55 | [Depois da Chuva](https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:39 |
-| 56 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
-| 57 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 56 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 57 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
 | 58 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 59 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
+| 59 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 |
 | 60 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
-| 61 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 |
-| 62 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
+| 61 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
+| 62 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
 | 63 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
-| 64 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
-| 65 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
-| 66 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 |
-| 67 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
+| 64 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
+| 65 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 |
+| 66 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
+| 67 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 68 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 |
-| 69 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 70 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 |
-| 71 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 |
-| 72 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 |
-| 73 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
-| 74 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 |
-| 75 | [Silêncio](https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8) | 2:16 |
+| 69 | [Silêncio](https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8) | 2:16 |
+| 70 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 |
+| 71 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
+| 72 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 |
+| 73 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 |
+| 74 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
+| 75 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 |
 
-Snapshot ID: `MCxlZGE5ODRhMTQ1ZjI1MDIxMTY1M2ZlMjgwMzlkNWIxN2I2MTdiY2Vk`
+Snapshot ID: `MCw1YTQ5ZTE5N2MxNDJjODBmYTMxOTkzMjFlOTE2MjdkMGU1YjE0YTc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,997 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,039 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 38 | [Riskyな彼女](https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:11 |
 | 39 | [願いはShine On The Sea](https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 3:38 |
 | 40 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
-| 41 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
+| 41 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 42 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
-| 43 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
+| 43 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 44 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
 | 45 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
 | 46 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 70 | [激情](https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 4:23 |
 
-Snapshot ID: `MCw5MWM1MzA2NzEyN2MzNTVjNzhjMDIwMzA0NjI4M2NjMGJhYjA2ZTZj`
+Snapshot ID: `MCwyMGUwNmMwYzdhNWM0NzZiODk0MWZhNzQxMTBmNTQ2YWRkNzM2MDM2`

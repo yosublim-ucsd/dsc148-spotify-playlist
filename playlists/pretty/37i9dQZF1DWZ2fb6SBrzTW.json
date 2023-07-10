@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 16283,
+  "num_followers": 16317,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTNlNzgyNTRmZTg0MWRiNmIwYWVmZTY5ZGQxZGNkNjI4MjI3Nzlm",
+  "snapshot_id": "MCxiMWUyNmFkNGZjOTdmMTQ3NTA4NWMzNTExNzM5NGIwZWUyNjgyYjU1",
   "tracks": [
     {
       "added_at": "2023-06-30 07:47:42",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2023-06-30 07:47:42",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 139377,
       "name": "Shu-Peru",
       "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-06-30 07:47:42",
-      "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2023-06-30 07:47:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 173859,
-      "name": "joanna",
-      "url": "https://open.spotify.com/track/226U9Hz3kvctmGEAYuTXDX"
-    },
-    {
-      "added_at": "2023-06-30 07:47:42",
-      "album": {
         "name": "FIREGUN",
         "url": "https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 194400,
       "name": "FIREGUN",
       "url": "https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De"
+    },
+    {
+      "added_at": "2023-06-30 07:47:42",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 173859,
+      "name": "joanna",
+      "url": "https://open.spotify.com/track/226U9Hz3kvctmGEAYuTXDX"
     },
     {
       "added_at": "2023-06-30 07:47:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 238911,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
-    },
-    {
-      "added_at": "2023-06-30 07:47:42",
-      "album": {
         "name": "All Over You / Mon B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "added_at": "2023-06-30 07:47:42",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 238911,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
       "added_at": "2023-06-30 07:47:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
-      "added_at": "2023-06-30 07:47:42",
-      "album": {
         "name": "Concussion",
         "url": "https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 157561,
       "name": "Concussion",
       "url": "https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp"
+    },
+    {
+      "added_at": "2023-06-30 07:47:42",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2023-06-30 07:47:42",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2023-06-30 07:47:42",
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -1087,42 +1103,22 @@
     {
       "added_at": "2023-06-30 07:47:42",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "SOKOTO",
+        "url": "https://open.spotify.com/album/6cZhzvKBRup7VnIfV0roR1"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
-    },
-    {
-      "added_at": "2023-06-30 07:47:42",
-      "album": {
-        "name": "Majo",
-        "url": "https://open.spotify.com/album/62I8Iq14u5T618srVJm3pd"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 209464,
-      "name": "Majo",
-      "url": "https://open.spotify.com/track/3b3bC9PL21scD8cyqEgHuK"
+      "duration_ms": 175714,
+      "name": "SOKOTO",
+      "url": "https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8"
     }
   ],
   "unique_name": "Keep Fit Club ",

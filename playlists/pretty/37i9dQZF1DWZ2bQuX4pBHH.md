@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,722 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,812 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 39 | [Radha](https://open.spotify.com/track/5yYgGkyYJmmSwRp3caFplJ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 5:01 |
 | 40 | [Suniye To](https://open.spotify.com/track/5VOnTAe9SMM6RBtq0C9wmf) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 5:14 |
 | 41 | [Baazigar O Baazigar](https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:39 |
-| 42 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
-| 43 | [Phir Bhi Dil Hai Hindustani](https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Phir Bhi Dil Hai Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV) | 4:00 |
+| 42 | [Phir Bhi Dil Hai Hindustani](https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Phir Bhi Dil Hai Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV) | 4:00 |
+| 43 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
 | 44 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 45 | [Koi Na Koi Chahiye](https://open.spotify.com/track/3VKlfDnmnTVQUliUCIy6rP) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Deewana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL) | 6:23 |
 | 46 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 49 | [Yeh Hum Aa Gaye Hain Kahaan](https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:43 |
 | 50 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 
-Snapshot ID: `MCw3ZDZkODYzNjFkYjNlYTY0ZjZkNDBmMjcwNTk2NzM2NzI0NTNmNjZh`
+Snapshot ID: `MCxlNzVmOTliMDg3NzU4NzZiN2FiNGNkZTJkMjM1MDBlNTNhN2M5YWMx`

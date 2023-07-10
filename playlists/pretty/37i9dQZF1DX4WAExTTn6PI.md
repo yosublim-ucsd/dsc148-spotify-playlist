@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,105 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,127 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 100 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 |
 
-Snapshot ID: `MCw5MWVkMTI0N2ZlNTUyMDAyYTRlZGFjMGIzYTQ0OGE1YjgxNGU1ZjE0`
+Snapshot ID: `MCxlODJjYTcwZTcwODBjMDllMjkwMmU5M2VkMzZlZTg2ZTM1YjVhNWRm`

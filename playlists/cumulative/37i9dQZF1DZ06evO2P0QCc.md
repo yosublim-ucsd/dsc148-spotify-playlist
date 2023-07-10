@@ -4,7 +4,7 @@
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 15 min
+54 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 | 2023-01-14 |  |
 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 | 2023-01-14 | 2023-04-02 |
 | [Deja Ya de Mentir](https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lollypop Lorry](https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX) | [A2í 5uena!, Vol 1](https://open.spotify.com/album/32IXwoxYqeTDQSZd2H9PIS) | 3:13 | 2023-04-01 |  |
-| [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 | 2023-01-14 |  |
+| [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 | 2023-01-14 | 2023-07-10 |
 | [El Dejado](https://open.spotify.com/track/0O9DNo4Mj9hvxuPFnlZhss) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [El Dejado](https://open.spotify.com/album/3mCVfLCdPULRjC1bAdbatI) | 4:56 | 2023-01-14 |  |
 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 | 2023-01-14 |  |
 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 | 2023-01-14 |  |
@@ -48,6 +48,7 @@
 | [Qué Fue Lo Que Pasó](https://open.spotify.com/track/2h1ogFO6iO5ulR0gtbvYAC) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Bien Intenso](https://open.spotify.com/album/6UhtrUzlpNVrUXw5KA07fy) | 4:11 | 2023-01-14 |  |
 | [Realidad](https://open.spotify.com/track/6URADJcjFjOWdDTKcxlknR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:16 | 2023-01-14 |  |
 | [Ruby Soho](https://open.spotify.com/track/0Dy729ORbIQqwozoVLw4KX) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 3:07 | 2023-01-14 |  |
+| [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 | 2023-07-09 |  |
 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 | 2023-01-14 |  |
 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 | 2023-01-14 |  |
 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 | 2023-01-14 |  |

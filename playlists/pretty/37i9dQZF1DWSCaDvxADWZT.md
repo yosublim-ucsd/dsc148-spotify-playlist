@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,876 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,884 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 42 | [Dolan's 6AM](https://open.spotify.com/track/2gHH4oSsdrli2lo0aeSkMW) | [Beoga](https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO) | [How to Tune a Fish](https://open.spotify.com/album/434qaX0gq8wBHp1PaQiJJf) | 3:35 |
 | 43 | [She Moved Through the Fair](https://open.spotify.com/track/6LknCnmUllTQKHRplS0Lky) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [The Slender Promise\. Inspirational Music on the Flute & Uilleann Pipes](https://open.spotify.com/album/46qI8lO5HVJaP65JVxX2qx) | 2:06 |
 | 44 | [The Parting Glass \(with Tommy Makem\)](https://open.spotify.com/track/5BdasEKX5aW3BKSgVK54EH) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Irish Drinking Songs](https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13) | 2:11 |
-| 45 | [The Night Pat Murphy Died](https://open.spotify.com/track/416vQFnszeKUwKsXHcq4JF) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/5QuBHgoCMFaH1Jlp3HcTe2) | 3:04 |
+| 45 | [The Night Pat Murphy Died](https://open.spotify.com/track/41gyi3lBZzLRiHwfAAoI1G) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk) | 3:01 |
 | 46 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
 | 47 | [The Dublin Pub Crawl](https://open.spotify.com/track/78nceFqT22hjM0pLjQh1Lg) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 4:28 |
 | 48 | [Rat Trap](https://open.spotify.com/track/4R8P78kaHXgaEKabSaioLv) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Classic Album Selection: Six Albums 1977\-1984](https://open.spotify.com/album/1M0U3K2D8pQp4dHQLZOaoV) | 5:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 79 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
 | 80 | [Nothing Compares 2 U \- Live](https://open.spotify.com/track/0s4iYgAV4SZF1Xli9PmE74) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [¡Released! The Human Rights Concerts \- An Embrace Of Hope](https://open.spotify.com/album/19JdXPQrKwjmL2rH2AfFs7) | 5:30 |
 
-Snapshot ID: `MCxlMjJkODQ4YTU4NTFjNjg2YWZiYTY3M2UyN2Y5NjM4YTkwY2JiZjNj`
+Snapshot ID: `MCxkNjJjZGJjZjdjNzgyZmFlM2IyMzc5M2EwODMwZjkwYWRiM2RkNzUz`

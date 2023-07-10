@@ -4,12 +4,12 @@
 
 > Los temas legendarios de la escena de rap nacional: Kinto Sol en portada.
 
-51 songs - 3 hr 30 min
+52 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anda Y Ve](https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF) | 4:52 | 2022-03-07 |  |
-| [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 | 2022-03-07 |  |
+| [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 | 2022-03-07 | 2023-07-10 |
 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 | 2022-03-07 |  |
 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 | 2022-03-07 |  |
 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 | 2022-03-07 |  |
@@ -51,6 +51,7 @@
 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 | 2022-03-07 |  |
 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 | 2022-03-07 |  |
 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 | 2022-03-07 |  |
+| [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 | 2022-03-07 |  |
 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 | 2022-03-07 |  |
 | [Todas Mueren por Mí](https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:43 | 2022-03-07 |  |
 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 | 2022-03-07 |  |

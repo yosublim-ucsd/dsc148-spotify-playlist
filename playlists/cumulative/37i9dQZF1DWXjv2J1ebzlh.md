@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,102 songs - 5 day 21 hr 46 min
+2,103 songs - 5 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1961,8 +1961,9 @@
 | [Up From The South](https://open.spotify.com/track/7HI3pEr5Eo0a0P9GYVnSdU) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/2hGtWaPtyDu3xxofiwDHNC) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [Uptown Top Ranking](https://open.spotify.com/track/5Z5o8fRlFKwUPlC17B83dV) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Love is All I Bring](https://open.spotify.com/album/2jAxcrtHoGo7SNS0r27TKk) | 3:53 | 2023-05-17 |  |
 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 | 2022-06-09 |  |
-| [Use My Body](https://open.spotify.com/track/4cvTdZKBSoOTve7vTe60ve) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Give Me the Funk! \(The Best Funky\-Flavored Music\) Vol\. 2](https://open.spotify.com/album/6NQHlqSolcYwfu029dCHi6) | 4:25 | 2023-06-20 |  |
+| [Use My Body](https://open.spotify.com/track/4cvTdZKBSoOTve7vTe60ve) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Give Me the Funk! \(The Best Funky\-Flavored Music\) Vol\. 2](https://open.spotify.com/album/6NQHlqSolcYwfu029dCHi6) | 4:25 | 2023-06-20 | 2023-07-10 |
 | [Use My Body](https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 4:27 | 2022-07-27 | 2023-07-01 |
+| [Use My Body](https://open.spotify.com/track/7icSPAv1VMEjh7jHP4rqt0) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 4:27 | 2023-06-20 |  |
 | [Use My Body](https://open.spotify.com/track/5gLnP39loLs3rCku2SQAqB) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/6ZTmHQNK4qBaQkdJy15j6w) | 4:28 | 2022-06-09 | 2022-07-29 |
 | [Utan Utan](https://open.spotify.com/track/4MvFT9byfFztbXU6dlUCcE) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn) | [Türkülerimiz 3 \- Vurulduk Ey Halkım Unutma Bizi](https://open.spotify.com/album/3dWxbM1u4CF9dBF63hcnjw) | 2:59 | 2022-07-12 | 2022-07-29 |
 | [Utan Utan](https://open.spotify.com/track/5jmWnKZtO8gH19s18kBdoz) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn) | [Türkülerimiz 3 \- Vurulduk Ey Halkım Unutma Bizi](https://open.spotify.com/album/2sw3I8vknNotk1jQy3QGAP) | 2:59 | 2022-07-27 |  |

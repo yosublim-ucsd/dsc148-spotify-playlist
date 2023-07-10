@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 292177,
+  "num_followers": 292414,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI1MGQ4MzYxZGU0NjE1MjUyYTIxYjVhYzRhOTExMDc1NTFjNTk3",
+  "snapshot_id": "MCxmNmQxNzM2MTM5ZTU0YzM3NWFlYTNkY2MzMjhkYTc1ZTAxODg4Nzc5",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 222488,
+      "name": "There's A Reason Why (I Never Returned Your Calls)",
+      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 222488,
-      "name": "There's A Reason Why (I Never Returned Your Calls)",
-      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -1135,22 +1151,6 @@
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Cutie",
-        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
       },
       "artists": [
         {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 184315,
-      "name": "Cutie",
-      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
+      "duration_ms": 243253,
+      "name": "The Ghosts of Beverly Drive",
+      "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 243253,
-      "name": "The Ghosts of Beverly Drive",
-      "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Dawn Of The Freak",
         "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 285000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
     },
     {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "This Head I Hold",
+      "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
+    },
+    {
       "added_at": "2023-05-16 12:08:08",
       "album": {
         "name": "Sofa Kings",
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
       },
       "artists": [
         {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
         }
       ],
-      "duration_ms": 175773,
-      "name": "This Head I Hold",
-      "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
+      "duration_ms": 291773,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 260346,
       "name": "One Thing Left to Try",
       "url": "https://open.spotify.com/track/52pWggDlN5mVeX111i06PP"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 291773,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 219973,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ"
     },
     {
       "added_at": "2023-01-20 11:00:00",

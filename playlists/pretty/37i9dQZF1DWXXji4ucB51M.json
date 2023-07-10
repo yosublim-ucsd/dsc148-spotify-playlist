@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104855,
+  "num_followers": 104853,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFkMjAyZjZmMDJkZGY5NWVlNjYwMmRkZWQ2ZGY0MTFhZTNkZWRm",
+  "snapshot_id": "MCw2ODQyYWExNWNkM2ZmOTU2NzA0MDkzYjBlNGY0ZGIzNzQ4OGQzOWE1",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 202192,
-      "name": "Doin' Time",
-      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 202192,
+      "name": "Doin' Time",
+      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -363,18 +363,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Finale",
-        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -395,18 +395,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "\u2018The ReVe Festival\u2019 Finale",
+        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+      "duration_ms": 210560,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "CALM",
-        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 186785,
-      "name": "Old Me",
-      "url": "https://open.spotify.com/track/58qO4dGa5SgNdtvqvpewyz"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 238321,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 186785,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/58qO4dGa5SgNdtvqvpewyz"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "CALM",
-        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 220536,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "ALL ABOUT LUV",
         "url": "https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 239876,
       "name": "If You\u2019re Too Shy (Let Me Know) - Edit",
       "url": "https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220536,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
     },
     {
       "added_at": "2020-08-24 22:19:29",

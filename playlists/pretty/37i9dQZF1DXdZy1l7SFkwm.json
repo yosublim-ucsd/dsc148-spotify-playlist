@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 35153,
+  "num_followers": 35173,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy",
+  "snapshot_id": "MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Martinho da Vila",
         "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 153440,
       "name": "Canta Canta, Minha Gente",
       "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
+        "url": "https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "Quiz\u00e1s, Quiz\u00e1s - Live",
+      "url": "https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
-        "url": "https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59"
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 227760,
-      "name": "Quiz\u00e1s, Quiz\u00e1s - Live",
-      "url": "https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb"
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "The Tide Is High - Stereo Version",
+      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 153663,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Toda una vida",
-      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Toda una vida",
+      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Beach Samba",
-        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Canoeiro",
-      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -1503,22 +1487,6 @@
       "duration_ms": 224360,
       "name": "Our Day Will Come",
       "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "The New Sound of Brazil",
-        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1539,6 +1507,38 @@
       "duration_ms": 112466,
       "name": "Remelexo",
       "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Beach Samba",
+        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Canoeiro",
+      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Sound of Brazil",
+        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "La negra Tomasa",
-      "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Bossa Nova Carlos Lyra",
         "url": "https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 80800,
       "name": "Lobo Bobo (Foolish Wolf)",
       "url": "https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "La negra Tomasa",
+      "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Astrud Gilberto W/ Stanley Turrentine",
         "url": "https://open.spotify.com/album/1pBySyoanBiqZr7h4eYERr"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2021-03-15 16:04:53",

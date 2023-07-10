@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,079 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,089 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 14 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
 | 15 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 16 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
-| 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
-| 18 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 17 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 18 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 19 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 |
 | 20 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
 | 21 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
 | 22 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 23 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
 | 24 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
-| 25 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
-| 26 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
+| 25 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
+| 26 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
 | 27 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
 | 28 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 29 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 |
 | 50 | [3010](https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [Doorways](https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE) | 3:48 |
 
-Snapshot ID: `MCw3MDViODBiYTMxMzQzZWQ0NGYzMDkwZmFkNjU3MDBjZDI5ZDBkZWMw`
+Snapshot ID: `MCwzNGMxNGE5OWQ0MjAyMGFlMmI0Y2U2YjZkZmJhYjMwNDlhZTZkOGQ5`

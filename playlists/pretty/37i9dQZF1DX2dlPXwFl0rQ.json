@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Jenni Rivera, Chiquis, Jacquie Rivera & Jenicka Rivera en portada.",
-  "num_followers": 90431,
+  "num_followers": 90493,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmRjYjkwNDhjZTU4NzgzYmM2OWIzZjhlOGYzZGM1MTBmMGQzNzA5",
+  "snapshot_id": "MCxkOTI4NzRmMjkyNzUyN2U5YTg0ZGFmOWZiNzI2OGQ2Y2I4MDkxNjdl",
   "tracks": [
     {
       "added_at": "2023-06-30 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "31 * 3 Trans",
+        "url": "https://open.spotify.com/album/5ckpp4saY5irXfYmtGB2Jh"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "31 * 3 Trans",
+      "url": "https://open.spotify.com/track/62vILKPgcp4OoycbzBLcde"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/1neZPFLQjF5TMNjGHSrONi"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 147069,
-      "name": "333",
-      "url": "https://open.spotify.com/track/3AoFP3Ko3VaXxksoEmMJGc"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 217626,
       "name": "Sola Con Mi Soledad",
       "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/1neZPFLQjF5TMNjGHSrONi"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 147069,
+      "name": "333",
+      "url": "https://open.spotify.com/track/3AoFP3Ko3VaXxksoEmMJGc"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "31 * 3 Trans",
-        "url": "https://open.spotify.com/album/5ckpp4saY5irXfYmtGB2Jh"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "31 * 3 Trans",
-      "url": "https://open.spotify.com/track/62vILKPgcp4OoycbzBLcde"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Cerrada Al Amor",
         "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 204761,
       "name": "Cerrada Al Amor",
       "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y"
       },
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
@@ -1239,38 +1255,6 @@
       "duration_ms": 191028,
       "name": "As\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Quiero Abrazarte Tanto",
-        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1327,18 +1311,34 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2023-06-30 06:00:00",

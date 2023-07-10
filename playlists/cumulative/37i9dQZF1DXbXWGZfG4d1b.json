@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "El Deseo",
+        "url": "https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W"
+      },
+      "artists": [
+        {
+          "name": "Revistas",
+          "url": "https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164656,
+      "name": "El Deseo",
+      "url": "https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8"
+    },
+    {
+      "album": {
         "name": "El Disparo",
         "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
       },
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 198920,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
@@ -7736,7 +7754,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"

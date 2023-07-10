@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Little Dragon
 
-1,025 songs - 2 day 13 hr 44 min
+1,026 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,7 +992,8 @@
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-03-31 | 2022-04-15 |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-10 | 2022-04-08 |
 | [Why](https://open.spotify.com/track/0wOUNGOHvZZfwg7EodzJUc) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:19 | 2022-04-07 | 2022-05-13 |
-| [Why Am I Alive Now?](https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Why Am I Alive Now?](https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o) | 5:59 | 2023-07-08 |  |
+| [Why Am I Alive Now?](https://open.spotify.com/track/0qAFlAyvkr9iZHLg1c8xJb) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 5:59 | 2023-07-08 |  |
+| [Why Am I Alive Now?](https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Why Am I Alive Now?](https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o) | 5:59 | 2023-07-08 | 2023-07-10 |
 | [Why Can't I Help Me?](https://open.spotify.com/track/0eA1W3UokYHGN9Vv7pbAOH) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Why Can't I Help Me?](https://open.spotify.com/album/1iWwrZkWIdZjtCwg8tBpDJ) | 2:26 | 2023-03-31 | 2023-04-22 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-08-26 | 2022-10-29 |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-10 | 2022-08-12 |

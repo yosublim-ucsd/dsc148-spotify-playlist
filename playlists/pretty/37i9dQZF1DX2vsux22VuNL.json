@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 281251,
+  "num_followers": 281374,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmMwN2Y4Y2I3M2RlN2QxZmQ1MmEyYzcxN2RlMDFmODlkNTkyMDZh",
+  "snapshot_id": "MCw3YTA4ODFhY2Y0NzgyNjRkODQyNDk4OWNhZjZhZmVhMzhiMTRmYzNh",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Luz da Lua",
+        "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Luz da Lua",
-        "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Jeito Doce",
-        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Jeito Doce",
-      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Jeito Doce",
+        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Jeito Doce",
+      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Existe Vida Sem Voc\u00ea",
-        "url": "https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9"
-      },
-      "artists": [
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        },
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Catt\u00ea",
-          "url": "https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W"
-        }
-      ],
-      "duration_ms": 237712,
-      "name": "Existe Vida Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1619,6 +1595,30 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Existe Vida Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9"
+      },
+      "artists": [
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Catt\u00ea",
+          "url": "https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W"
+        }
+      ],
+      "duration_ms": 237712,
+      "name": "Existe Vida Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2023-07-07 03:00:00",

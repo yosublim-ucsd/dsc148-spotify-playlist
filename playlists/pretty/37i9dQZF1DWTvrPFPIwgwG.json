@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al",
-  "num_followers": 81954,
+  "num_followers": 82202,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDM0N2MxZTVkYTQ3OTYwNjg3MjIyOTc5OGFhNWViOTVmODFhZGMy",
+  "snapshot_id": "MCwyMjA5YTJkMjQ3ZWRlOGFmZGJiMjM2NjIwMGE5YTFhNGJiZGE5NmVm",
   "tracks": [
     {
       "added_at": "2023-07-07 04:53:54",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Aguente, Guerreiro",
-        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "Aguente, Guerreiro",
-      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
         "name": "Vou Marcar Tua Hist\u00f3ria",
         "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 249983,
       "name": "Vou Marcar Tua Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
+        "name": "Aguente, Guerreiro",
+        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307750,
+      "name": "Aguente, Guerreiro",
+      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
       },
       "artists": [
         {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
         }
       ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+      "duration_ms": 485055,
+      "name": "N\u00e3o Desista de Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
       "artists": [
         {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
         }
       ],
-      "duration_ms": 485055,
-      "name": "N\u00e3o Desista de Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "Vai Se Cumprir",
         "url": "https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 263040,
       "name": "Tempo de Espera",
       "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
+        "name": "Prepare o Culto",
+        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 360909,
+      "name": "Prepare o Culto",
+      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
+    },
+    {
+      "added_at": "2023-07-07 04:53:54",
+      "album": {
         "name": "O Deus Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 246915,
       "name": "O Deus Incompar\u00e1vel",
       "url": "https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS"
-    },
-    {
-      "added_at": "2023-07-07 04:53:54",
-      "album": {
-        "name": "Prepare o Culto",
-        "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
-      },
-      "artists": [
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        }
-      ],
-      "duration_ms": 360909,
-      "name": "Prepare o Culto",
-      "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Foi Livramento",
-        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
+        "name": "Sobre o Mar",
+        "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
       },
       "artists": [
         {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Foi Livramento",
-      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
+      "duration_ms": 377884,
+      "name": "Sobre o Mar",
+      "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
     },
     {
       "added_at": "2023-07-07 04:53:54",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-07-07 04:53:54",
       "album": {
-        "name": "Sobre o Mar",
-        "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
+        "name": "Foi Livramento",
+        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
       },
       "artists": [
         {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
         }
       ],
-      "duration_ms": 377884,
-      "name": "Sobre o Mar",
-      "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
+      "duration_ms": 219000,
+      "name": "Foi Livramento",
+      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
     },
     {
       "added_at": "2023-07-07 04:53:54",

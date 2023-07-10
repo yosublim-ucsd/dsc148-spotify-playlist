@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Sampha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,975 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,973 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 100 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 |
 
-Snapshot ID: `MCxlOTMzMzc3MGU3NmIzNTVjODgwNGYxMjBlNGRiZmY2OWE5MGE2Zjdh`
+Snapshot ID: `MCw4YTE5ODUyMzNmOWMzMDM2OTI3MzA1ZTZiMjM4ZmEyMjZlZDU5NWQ4`

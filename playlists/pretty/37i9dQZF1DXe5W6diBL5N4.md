@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SWAN\(수안\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,185 likes - 770 songs - 1 day 19 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,385 likes - 770 songs - 1 day 19 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -779,4 +779,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 769 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 |
 | 770 | [Hug Me](https://open.spotify.com/track/7wWGayXaXNhJoqGXKpZx8B) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Hug Me](https://open.spotify.com/album/6oCJH0FVr840WLbNeWgpaO) | 2:17 |
 
-Snapshot ID: `MCxiNjdmYmZkYTYzOWExZGFiZjE5MGNiZmM0MDljNWU0NTRjMTgwN2E1`
+Snapshot ID: `MCw1NTY4NzhkODMxZWJjYWIzZTA1YTdhMGVjYWEzMzc0NTdiNDJjZmM1`

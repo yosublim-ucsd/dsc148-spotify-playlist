@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Kmy Kmo",
-  "num_followers": 12338,
+  "num_followers": 12365,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjcyMDE4ODdhOTU4YWRjODFkNzhlYWMwYWE2NDZiYWEwMGFhMzFi",
+  "snapshot_id": "MCxkYjBkMTU1ZGNhNjYyYTJlZDU5OWY2MDdlYTIyNTg4Zjc5ODEwZTEw",
   "tracks": [
     {
       "added_at": "2023-07-06 17:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-06 17:00:00",
       "album": {
-        "name": "Agterplaas",
-        "url": "https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3"
-      },
-      "artists": [
-        {
-          "name": "The Adams",
-          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Timur",
-      "url": "https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu"
-    },
-    {
-      "added_at": "2023-07-06 17:00:00",
-      "album": {
         "name": "no more you and i",
         "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 200360,
       "name": "no more you and i",
       "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
+    },
+    {
+      "added_at": "2023-07-06 17:00:00",
+      "album": {
+        "name": "Agterplaas",
+        "url": "https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3"
+      },
+      "artists": [
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Timur",
+      "url": "https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu"
     },
     {
       "added_at": "2023-07-06 17:00:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-07-06 17:00:00",
       "album": {
-        "name": "Rossa",
-        "url": "https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU"
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Takkan Berpaling DariMu",
-      "url": "https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3"
+      "duration_ms": 241947,
+      "name": "P.S. I LOVE YOU (feat. Yuna)",
+      "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
     }
   ],
   "unique_name": "OTW ",

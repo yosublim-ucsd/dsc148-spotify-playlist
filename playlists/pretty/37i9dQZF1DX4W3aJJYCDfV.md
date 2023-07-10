@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from D\-Block Europe \(pictured\), Taylor Swift, Declan McKenna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,510 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,535 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 113 | [Broke](https://open.spotify.com/track/7xRu6tG7amIcv7znsuDGgz) | [Calper](https://open.spotify.com/artist/7AWqSYIArMX7XVqDIKW7Nw), [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Broke](https://open.spotify.com/album/1wnCUmsPZAnuctfIjKetYr) | 2:44 |
 | 114 | [Beehive](https://open.spotify.com/track/1bEiUxVyv9mVqZGXDj3EQ4) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Beehive](https://open.spotify.com/album/37gkwbGYPnIkMhGokeeJCu) | 5:24 |
 
-Snapshot ID: `MCwwMWZkNmJlNDcwYTAwYjkwNjIyZDRlOWU5MzAyOGUwYWM3ODM5Y2M0`
+Snapshot ID: `MCwzZmVjYzhhNWU3ZWIzY2JkY2I5NjBmYWViMjY2NDNiYWNiZTQ1ZGJk`

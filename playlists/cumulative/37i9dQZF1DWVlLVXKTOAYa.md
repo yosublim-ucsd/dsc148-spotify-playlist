@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-739 songs - 1 day 14 hr 0 min
+740 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2022-03-24 | 2022-04-20 |
 | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3) | 2:39 | 2022-03-24 | 2022-04-16 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-02 |  |
+| [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 | 2021-12-16 | 2022-07-29 |
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-03-24 | 2022-04-21 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-03-24 | 2022-04-20 |
@@ -582,7 +583,7 @@
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-15 |  |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-03-24 | 2022-04-17 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-10-06 | 2023-02-10 |
-| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 |  |
+| [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 | 2023-07-10 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-24 | 2022-08-12 |
 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 | 2022-09-30 | 2022-10-09 |
 | [Skinny Dipping](https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping](https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49) | 2:57 | 2021-12-16 | 2022-06-29 |

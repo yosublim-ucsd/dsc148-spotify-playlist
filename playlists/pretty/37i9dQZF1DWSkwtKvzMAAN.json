@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 4548,
+  "num_followers": 4551,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2YzYTBkYTcwZTgxMmQ4NzJiZGNlY2ExNzVlYjMyMjM1NTZkNGE5",
+  "snapshot_id": "MCw3YTc5ZTZjNjBlZTMxNjA4MTMzZGNmYWFmMDZmZjhmZGU1NTFlMWM5",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -59,6 +59,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "She\u2019s Back",
+        "url": "https://open.spotify.com/album/76Qt48poTVoLKFQXt0LzNI"
+      },
+      "artists": [
+        {
+          "name": "Debbie Deb",
+          "url": "https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL"
+        }
+      ],
+      "duration_ms": 425560,
+      "name": "When I Hear Music",
+      "url": "https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
         "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 404213,
       "name": "I Wonder If I Take You Home",
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "She\u2019s Back",
-        "url": "https://open.spotify.com/album/76Qt48poTVoLKFQXt0LzNI"
-      },
-      "artists": [
-        {
-          "name": "Debbie Deb",
-          "url": "https://open.spotify.com/artist/2fpDcOSlkE5VVZdL6BEczL"
-        }
-      ],
-      "duration_ms": 425560,
-      "name": "When I Hear Music",
-      "url": "https://open.spotify.com/track/6bFGodepI4y7w4AJBcCB1E"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Drop the Bomb",
-        "url": "https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU"
-      },
-      "artists": [
-        {
-          "name": "Trouble Funk",
-          "url": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
-        }
-      ],
-      "duration_ms": 415746,
-      "name": "Search and Destroy - Arcade Funk A",
-      "url": "https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Rare Preludes, Vol. 4",
         "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 402760,
       "name": "The Key",
       "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Drop the Bomb",
+        "url": "https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU"
+      },
+      "artists": [
+        {
+          "name": "Trouble Funk",
+          "url": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
+        }
+      ],
+      "duration_ms": 415746,
+      "name": "Search and Destroy - Arcade Funk A",
+      "url": "https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7"
     },
     {
       "added_at": "2020-08-28 18:46:05",

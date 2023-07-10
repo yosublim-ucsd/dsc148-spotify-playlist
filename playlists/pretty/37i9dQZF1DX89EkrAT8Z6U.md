@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,891 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,604 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 20 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 |
 | 21 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 |
 | 22 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 |
-| 23 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 |
-| 24 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
+| 23 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
+| 24 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 |
 | 25 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 26 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
 | 27 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 31 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
 | 32 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 |
 | 33 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 |
-| 34 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
-| 35 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
-| 36 | [月を見ていた](https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [月を見ていた](https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor) | 4:12 |
+| 34 | [月を見ていた](https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [月を見ていた](https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor) | 4:12 |
+| 35 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
+| 36 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 | 37 | [af1](https://open.spotify.com/track/0LFND8l5zo8LLzlqkdAcza) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(slowed and reverbed\)](https://open.spotify.com/album/4jyLKqplCTfHKOvuVGF671) | 2:21 |
 | 38 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
 | 39 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 54 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
 | 55 | [I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/1imBqh217L161tQk9OUeWK) | 2:26 |
 | 56 | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg) | 2:04 |
-| 57 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
+| 57 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
 | 58 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
-| 59 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
+| 59 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 60 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
 | 61 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 62 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 64 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 65 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
 | 66 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
-| 67 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
-| 68 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 69 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 |
+| 67 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 |
+| 68 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
+| 69 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 70 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 71 | [Vito / Bad Boy](https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito / Bad Boy](https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy) | 2:32 |
 | 72 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 | 75 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
 
-Snapshot ID: `MCxjNmYxN2ZkNTAzNTJmNzRkMWFiMDIzYmRlZmIyNDY1YWRjZWE0Mzhj`
+Snapshot ID: `MCw0ZTZhNjBiYzhhYzkwYzI3ODIzMzI0NzA1ODc0MmVhZGUxMTA2ZGJh`

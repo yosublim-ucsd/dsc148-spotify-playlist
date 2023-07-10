@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1722333,
+  "num_followers": 1723113,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjBiNTlmMGUyMWViOTcxMTk5OWJiODhmYWY3NGY1MGIzODllYzgy",
+  "snapshot_id": "MCw4MGQzNDNkZDc3ZWQyYzE3MzEyMzBmZGFkNTc5MmI3ZTBmNjM0NWI1",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 175880,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Die MF Die",
-      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Devil Without a Cause",
         "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 265840,
       "name": "Bawitdaba",
       "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Die MF Die",
+      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
       "added_at": "2023-05-16 09:14:45",

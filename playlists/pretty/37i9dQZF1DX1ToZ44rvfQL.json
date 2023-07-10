@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 416769,
+  "num_followers": 417128,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTQzZWE5NDZlYWE2YWJlYTA2OGZhMDJhNTJlZTU3YjM5MjNiZDlh",
+  "snapshot_id": "MCwwODVmNjYzOTE2MWJjMGFjNDRiZGYzN2RjZDk1ZTA4OGFlMmZmZWUz",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Chac Tu Chac",
-        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 240013,
-      "name": "Tan Solo",
-      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "El Pibe de los Astilleros",
+      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Detonador de Sue\u00f1os",
         "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "M\u00e1quina de Sangre",
         "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 221080,
       "name": "Oncemil",
       "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 259146,
       "name": "Sapo de Otro Pozo",
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2023-07-07 03:00:00",

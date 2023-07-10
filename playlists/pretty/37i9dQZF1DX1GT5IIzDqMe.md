@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,139 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,177 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 47 | [The Bearer feat\. Karina Mia \- Brother’s Burden PT1](https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [The Bearer feat\. Karina Mia](https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl) | 6:00 |
 | 48 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 | 49 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
-| 50 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
+| 50 | [Feel It](https://open.spotify.com/track/2HfzYTnucpAPodJgPBpSm3) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/7yNN51CSOWeiUayY1fsAK4) | 7:38 |
 
-Snapshot ID: `MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5`
+Snapshot ID: `MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0`

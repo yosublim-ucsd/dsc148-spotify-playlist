@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Lauran Hibberd
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,914 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,068 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 48 | [Monsters](https://open.spotify.com/track/12sh7voB9W5VSfLQOJ25rO) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Monsters](https://open.spotify.com/album/2lt23Jml3vjyvnmprbMHYo) | 3:06 |
 | 49 | [All Bark, No Bite](https://open.spotify.com/track/0ApZ4n9ZWUDqJarN4EfTum) | [The Blamers](https://open.spotify.com/artist/0Vn8d65WWn2J6xAvyoMAux) | [All Bark, No Bite](https://open.spotify.com/album/5T0WuYoXNd3xisYHQlYmc1) | 2:56 |
 
-Snapshot ID: `MCwyNWY4ZTJmNzNmOWRhZjJkMmIzZmYxZDI5MDQ4MmRkMmI3YmZlMGJh`
+Snapshot ID: `MCxjODFhMjQxMzRjNTE4NTViZmFhN2NjN2FmOWE2MTM4OTBmODQ5NmIw`

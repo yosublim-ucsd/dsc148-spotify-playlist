@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Conquer Divide
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,233 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,371 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 39 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
 | 40 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
 | 41 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
-| 42 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
-| 43 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
+| 42 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
+| 43 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 44 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
 | 45 | [The Game Is Over](https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:22 |
 | 46 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 80 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
 
-Snapshot ID: `MCwyMDMzZmM1MTY0YjFiYzNhMmI4MDVmMzZhYzE2ZGJjNjdlZWI3NDI1`
+Snapshot ID: `MCwyZTAyNTZmYjY2MDllMmQxYjJhNzIyMzUzNjhhMDAxZTNmZGY1Yzc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,554 likes - 60 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,683 likes - 60 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 24 | [Praise on the Inside](https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 3:43 |
 | 25 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 26 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 |
-| 27 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
-| 28 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 27 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 28 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 29 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 30 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
 | 31 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 51 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 | 52 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
 | 53 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
-| 54 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
-| 55 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 |
+| 54 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 |
+| 55 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
 | 56 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
 | 57 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
-| 58 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
-| 59 | [All of My Help](https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE) | [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p) | [Kingdom...LIVE!](https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a) | 5:06 |
+| 58 | [All of My Help](https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE) | [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p) | [Kingdom...LIVE!](https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a) | 5:06 |
+| 59 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
 | 60 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
 
-Snapshot ID: `MCwxY2FlYWNmNWIyOTczNzlhODIxNjY3NDJlMTQ5YjI0MjAzMGVlOTU4`
+Snapshot ID: `MCxhYWRhODU5NjlhZWFmZGJlYjZlZWUzODRjMDNmZDgwMWYzOWYyMjM3`

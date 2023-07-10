@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 123812,
+  "num_followers": 123897,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFiMDAyMWE2NWEzYjM3MTY5MDk4Y2MyYTUzNTZiYjdhMWJhYjgx",
+  "snapshot_id": "MCw0ZWM3ZGIxYjc2YWM1NzZhZWMzMGJjMWViYjQ5YmFkY2MwNWMzZDFi",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -445,26 +445,6 @@
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "Gone (with Bryson Tiller)",
-      "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
-    },
-    {
       "added_at": "2022-09-23 04:08:19",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
@@ -483,6 +463,26 @@
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "Gone (with Bryson Tiller)",
+      "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -945,24 +945,24 @@
       "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2023-04-28 04:00:51",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     }
   ],
   "unique_name": "Choice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Dean Lewis & Julia Michaels deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,683 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,694 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
 | 99 | [What You Got \(Ayo\)](https://open.spotify.com/track/1mkwn1slwEWLC7mGyNKAyz) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [What You Got \(Ayo\)](https://open.spotify.com/album/5entj4s3IaDcQsdZ3X5sdh) | 3:11 |
 
-Snapshot ID: `MCw3Y2FhMWM4YmQ5NGZmMDFjZjQ1YTgxYjkyZGY1MWY4YjM1OGZhYjZk`
+Snapshot ID: `MCxjN2VhZDYyMTYyMGM2MjBlZGY3MTRiM2VlZWQ1NDUwZDQ2YjY3YTVl`

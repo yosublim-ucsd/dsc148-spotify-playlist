@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior Zamora",
-  "num_followers": 108646,
+  "num_followers": 108669,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTY0MjEyOGI2MDE2ZDAzMzk3MTQ4ZjgwNmJiZGMzNTE5NDQ3Y2Nm",
+  "snapshot_id": "MCwyZDBiZGM2NzI4ZjFjODJlNDE2NDlhYWE0MmMyMzljMDg2MGQ5M2Rk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "No Sabe Igual",
         "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 136062,
       "name": "No Sabe Igual",
       "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Emociones 1.5",
-        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Emociones 1.5",
+        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Greatest Hit\u00b4s - Remastered",
+        "url": "https://open.spotify.com/album/4dZiG1CRokkyFo55515xvq"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Romeo & Julieta",
+      "url": "https://open.spotify.com/track/2AR6v4kAmHL5tgKE4XGdTf"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "como te va?",
         "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Greatest Hit\u00b4s - Remastered",
-        "url": "https://open.spotify.com/album/4dZiG1CRokkyFo55515xvq"
-      },
-      "artists": [
-        {
-          "name": "Chris Jonex",
-          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Romeo & Julieta",
-      "url": "https://open.spotify.com/track/2AR6v4kAmHL5tgKE4XGdTf"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 161305,
       "name": "Pleasure (feat. RINI)",
       "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 233743,
-      "name": "Horas y Horas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
       },
@@ -1543,22 +1527,34 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "EST\u00c1 CABR\u00d3N",
-        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
       },
       "artists": [
         {
-          "name": "Juan Fe Pulido",
-          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
-        },
-        {
-          "name": "Belmar",
-          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 184585,
-      "name": "EST\u00c1 CABR\u00d3N",
-      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/1wOar9mXxzn1vF8vuNNRaB"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1591,6 +1587,26 @@
       "duration_ms": 200240,
       "name": "Cortada en la Frente",
       "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "EST\u00c1 CABR\u00d3N",
+        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
+      },
+      "artists": [
+        {
+          "name": "Juan Fe Pulido",
+          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
+        },
+        {
+          "name": "Belmar",
+          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "EST\u00c1 CABR\u00d3N",
+      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Caliope",
         "url": "https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa"
       },
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 168804,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
     }
   ],
   "unique_name": "Latin R&B",

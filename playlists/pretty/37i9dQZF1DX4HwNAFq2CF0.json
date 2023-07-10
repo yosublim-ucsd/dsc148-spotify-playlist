@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: blink-182",
-  "num_followers": 58450,
+  "num_followers": 58503,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTg1MjI1OTMyNGRjOWMzYzkzMjNiMmJlYmU5N2ZhY2Y5Y2Q1NTA4",
+  "snapshot_id": "MCw0YjljNDcyZGZhOWE3ZDc0ZGQwNTMzMjQ1YWEyNDJlODg3Y2VkMmRk",
   "tracks": [
     {
       "added_at": "2023-04-21 13:55:20",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 215040,
       "name": "Hayloft II",
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169397,
       "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 171880,
       "name": "parents",
       "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 713191,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "What If Nothing",
-        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 261372,
-      "name": "One Foot",
-      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 180302,
       "name": "You Make Me Feel Like It\u2019s Halloween",
       "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "What If Nothing",
+        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 261372,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
     },
     {
       "added_at": "2023-04-21 13:55:20",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,197 songs - 2 day 17 hr 18 min
+1,198 songs - 2 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-01-15 | 2023-02-13 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-04 |  |
 | [Asi Me Encula](https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Sandro Malandro Por Amor Al Mic](https://open.spotify.com/album/7fWRP3KUkm4PdTL5OPCqzv) | 3:18 | 2022-10-26 | 2022-12-27 |
-| [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 |  |
+| [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 | 2023-07-10 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-06-07 | 2022-07-23 |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-12 | 2023-03-15 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-23 | 2022-10-06 |
@@ -210,6 +210,7 @@
 | [Confieso](https://open.spotify.com/track/44kI7aJvJAYJkREVk0Rmei) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:44 | 2022-10-09 | 2022-10-17 |
 | [Conflicto de quererte \- Banda](https://open.spotify.com/track/5qwV4ONmc2UlO1GNTMzpcl) | [Emilio Garra](https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Régulo Caro vs\. Emilio Garra](https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY) | 3:06 | 2022-02-22 | 2022-03-02 |
 | [Contigo](https://open.spotify.com/track/35Al5qqEh6ocP9wN8tZiZM) | [Elefante](https://open.spotify.com/artist/0TUSaw9zt3qaFwQr4Z9e2j) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 3:32 | 2023-01-04 | 2023-01-13 |
+| [Contigo](https://open.spotify.com/track/3XrPM65ihtm4ZkZNGt30Ff) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Nosotros](https://open.spotify.com/album/6fIT2cZQfyeobsMKhvIHJW) | 2:59 | 2023-07-09 |  |
 | [Contigo No Fue](https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [La Cotorrisa](https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ), [Strecci](https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:49 | 2022-03-29 | 2022-04-17 |
 | [Contigo Quiero](https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/6fn5SRnldgMCPtTztHlOok) | 4:19 | 2022-02-08 | 2022-02-11 |
 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 | 2023-01-31 | 2023-02-08 |

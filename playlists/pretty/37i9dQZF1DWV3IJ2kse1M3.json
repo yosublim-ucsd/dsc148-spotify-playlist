@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u751f\u547d\u592a\u77ed\u4fc3 \u75db\u592a\u6e05\u695a \u624d\u8b93\u4f60\u8b93\u6211 \u611b\u5230\u7121\u9000\u8def\u3002",
-  "num_followers": 192447,
+  "num_followers": 192459,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA2ODg2ZTJmNGFjMjAzMjVkZjVkMWY0YzBiZDI4MTQwMWE5ZDI0",
+  "snapshot_id": "MCxhMjQ3MjRmNzVlZjJmY2NmMzllNjdhZmE4YTYxYjlkZTJiYjAwNGJm",
   "tracks": [
     {
       "added_at": "2023-03-31 13:22:19",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u7368\u5bb6\u8a18\u61b6",
-        "url": "https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J"
+        "name": "\u6211\u8981\u5feb\u6a02 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM"
       },
       "artists": [
         {
-          "name": "Jordan Chan",
-          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
         }
       ],
-      "duration_ms": 307093,
-      "name": "\u7368\u5bb6\u8a18\u61b6",
-      "url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
+      "duration_ms": 232853,
+      "name": "\u4eba\u8cea",
+      "url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u6211\u8981\u5feb\u6a02 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM"
+        "name": "\u7368\u5bb6\u8a18\u61b6",
+        "url": "https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J"
       },
       "artists": [
         {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+          "name": "Jordan Chan",
+          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
         }
       ],
-      "duration_ms": 232853,
-      "name": "\u4eba\u8cea",
-      "url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
+      "duration_ms": 307093,
+      "name": "\u7368\u5bb6\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "\u597d\u4e45\u4e0d\u898b",
-      "url": "https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "\u5077\u6545\u4e8b\u7684\u4eba",
         "url": "https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 333549,
       "name": "\u9023\u540d\u5e36\u59d3",
       "url": "https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "\u597d\u4e45\u4e0d\u898b",
+      "url": "https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
+        "name": "\u672a\u5b8c\u6210",
+        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "\u6211\u4e0d\u96e3\u904e",
+      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
         "name": "\u964c\u751f\u4eba",
         "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 287013,
       "name": "\u5982\u679c\u6c92\u6709\u4f60",
       "url": "https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
-        "name": "\u672a\u5b8c\u6210",
-        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "\u6211\u4e0d\u96e3\u904e",
-      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+        "name": "\u611b\u5230\u7121\u53ef\u6551\u85e5",
+        "url": "https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m"
       },
       "artists": [
         {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+          "name": "Victor Wong",
+          "url": "https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW"
         }
       ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+      "duration_ms": 298426,
+      "name": "\u6211\u4ee5\u70ba",
+      "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

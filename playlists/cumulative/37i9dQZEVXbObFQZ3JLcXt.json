@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 262753,
       "name": "Bohongi Hati",
       "url": "https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Hati-Hati di Jalan",
       "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
@@ -3478,6 +3478,24 @@
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "album": {
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-09",
+      "date_removed": null,
       "duration_ms": 290466,
       "name": "Resah Jadi Luka",
       "url": "https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb"
@@ -5896,7 +5914,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 290751,
       "name": "Saat Kau Telah Mengerti",
       "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
@@ -6146,7 +6164,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 263466,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/1VMtsqCaMNErFRmmvt4exv"

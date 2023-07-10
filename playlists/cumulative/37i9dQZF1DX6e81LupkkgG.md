@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-226 songs - 13 hr 11 min
+227 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Problems \(feat\. Grady\)](https://open.spotify.com/track/4GbZ9vQSgE3lmQ5dcxpKSl) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Problems \(feat\. Grady\)](https://open.spotify.com/album/78R8twPAoAHiix5OspTCPp) | 3:23 | 2022-02-18 | 2022-07-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2022-02-18 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2022-02-18 |  |
+| [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 |  |
 | [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 | 2022-10-28 |  |
 | [Ready to Go](https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:07 | 2022-10-21 | 2022-11-02 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-02-18 | 2022-04-09 |
@@ -183,7 +184,7 @@
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2023-02-10 | 2023-07-09 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2022-02-18 |  |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-12-25 |
-| [Still Have Me](https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Have Me](https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc) | 3:23 | 2022-02-18 |  |
+| [Still Have Me](https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Have Me](https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc) | 3:23 | 2022-02-18 | 2023-07-10 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2022-02-18 |  |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2022-02-18 |  |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-07 |  |

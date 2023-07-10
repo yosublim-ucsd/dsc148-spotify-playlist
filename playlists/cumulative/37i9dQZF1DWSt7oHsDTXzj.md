@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-213 songs - 11 hr 44 min
+214 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 | 2021-11-12 | 2023-03-14 |
 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-11-12 |  |
 | [Christmas](https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S) | 2:29 | 2021-11-12 | 2022-09-06 |
-| [Christmas](https://open.spotify.com/track/64a8MVFQa55k07yBAcjsam) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/0eYhnCjTZA7dv0pfnOSAKq) | 2:29 | 2022-12-23 |  |
+| [Christmas](https://open.spotify.com/track/64a8MVFQa55k07yBAcjsam) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/0eYhnCjTZA7dv0pfnOSAKq) | 2:29 | 2022-12-23 | 2023-07-10 |
 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 | 2021-11-12 | 2022-07-25 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6Sm0Og9VDRjDWPQnERgPtd) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [A Christmas Gift For You From Moshi Moshi](https://open.spotify.com/album/1U4GkkVM8gk4WzBLxdNfR6) | 2:49 | 2021-11-12 | 2022-07-18 |
 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 |  |
@@ -181,6 +181,7 @@
 | [The New Year](https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 4:06 | 2022-12-23 | 2023-04-29 |
 | [The New Year](https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 4:06 | 2022-12-23 |  |
 | [The White Season](https://open.spotify.com/track/27KvxFbpLDLeKajJSxHBFE) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/2KTTWvdCwPakrp3AVcsUQC) | 2:51 | 2021-11-12 | 2022-07-24 |
+| [The White Season](https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y) | 2:51 | 2022-12-23 |  |
 | [The White Season](https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 2:53 | 2021-11-12 | 2023-06-23 |
 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 | 2021-12-09 |  |
 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 | 2021-12-03 | 2022-12-06 |

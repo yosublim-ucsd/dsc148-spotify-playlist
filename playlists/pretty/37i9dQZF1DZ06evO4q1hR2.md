@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,945 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,970 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 14 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 |
 | 15 | [Gabino Barrera](https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:25 |
 | 16 | [El Federal De Caminos](https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:26 |
-| 17 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
-| 18 | [¿Y Si Te Robo](https://open.spotify.com/track/1CGD276EY6Yp75Wrpd5JSc) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/0ryJ2CU8cnEbQJ0dOUdQPu) | 2:48 |
+| 17 | [¿Y Si Te Robo](https://open.spotify.com/track/1CGD276EY6Yp75Wrpd5JSc) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/0ryJ2CU8cnEbQJ0dOUdQPu) | 2:48 |
+| 18 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
 | 19 | [Te Vas Amor](https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia](https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU) | 2:23 |
 | 20 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 |
 | 21 | [No Puedo Olvidar Tu Voz](https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Las Morenas](https://open.spotify.com/track/5JmEjPobY0W4JN8F20yeeh) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:30 |
 | 50 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
 
-Snapshot ID: `MjgxNDcwNDQsMDAwMDAwMDAwMzA2NDU5YjJhMTlmNTBhNzM5OGI4Y2EyODRlM2Y4Nw==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDAzN2FmZTY0MzRjOWU5YjI3MmFmN2I3ZGZiYjA5MjBjZA==`

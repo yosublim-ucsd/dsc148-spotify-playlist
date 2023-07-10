@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-192 songs - 10 hr 47 min
+193 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 | 2021-12-29 | 2023-04-09 |
 | [Hasta Que](https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/5CfItgvcqP5EQkbDnzeZ6s) | 3:13 | 2023-04-21 |  |
 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Hasta Que Tú Me Quieras](https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs) | 3:55 | 2021-12-29 |  |
-| [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 | 2022-12-02 |  |
+| [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 | 2022-12-02 | 2023-07-10 |
 | [Highlight](https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:33 | 2022-12-02 | 2023-01-13 |
 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 | 2021-12-29 |  |
 | [Honeydew](https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 4:12 | 2022-06-15 | 2023-04-05 |
@@ -138,6 +138,7 @@
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2022-12-02 |  |
 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 | 2021-12-29 | 2023-03-18 |
 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 | 2022-01-26 | 2023-04-22 |
+| [Pelo Negro](https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Pelo Negro](https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD) | 3:12 | 2023-07-07 |  |
 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 | 2023-03-03 |  |
 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 | 2023-03-03 | 2023-03-11 |
 | [Persona Favorita](https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:01 | 2023-03-03 |  |

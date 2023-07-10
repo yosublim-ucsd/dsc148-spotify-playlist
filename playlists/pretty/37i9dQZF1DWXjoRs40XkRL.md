@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,589 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,649 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 |
 | 75 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCw4NjI1YTFiYWE0MGYzNzM0NzMxNWQ4OTMwYTE2MzZmZDQzM2VmZGE2`
+Snapshot ID: `MCw3YzAyMTA5ZjQyNTIxMDg2MmNiMmFmZDUxZTUxNzhlMmM4NjZiNGQ2`

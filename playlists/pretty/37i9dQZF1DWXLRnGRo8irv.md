@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: Rothy\(로시\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,049 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,047 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [That's Me](https://open.spotify.com/track/014FgfYGkdhgJQ8IibpYrU) | [SUNYE](https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX) | [That's Me](https://open.spotify.com/album/69VYq84mfPjfeqHp7RQAyu) | 4:32 |
 | 50 | [Greetings](https://open.spotify.com/track/1n3oDhLFalFwzYvVI1QHXU) | [SUNYE](https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX), [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [Greetings](https://open.spotify.com/album/4HLX6nk68GqrAnnCQ5fao5) | 3:44 |
 
-Snapshot ID: `MCw2NGJiZDUxYWJlOWY3Y2FjYWY3MzJkNDU0MDg2YzU2MmIzOTg1YWE3`
+Snapshot ID: `MCw2MWIxYzZiYjY2MDg3NjAxM2ZlMzJkZTI2M2JjYTlhN2RmNTA3MGY5`

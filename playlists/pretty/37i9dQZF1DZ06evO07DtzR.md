@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,736 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,751 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 17 | [Tonight Tonight](https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz) | 3:31 |
 | 18 | [リローデッド](https://open.spotify.com/track/3FdM4BNjTV1g7e98dNDtUB) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:08 |
 | 19 | [雨、キミを連れて](https://open.spotify.com/track/3S4iNos3MGzmixgZIuQVYr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:15 |
-| 20 | [Welcome to the \*fam](https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Welcome to the \*fam](https://open.spotify.com/album/46PkELmjCUUhWBXW2a3vuz) | 3:50 |
-| 21 | [永遠](https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:14 |
+| 20 | [永遠](https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:14 |
+| 21 | [Welcome to the \*fam](https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Welcome to the \*fam](https://open.spotify.com/album/46PkELmjCUUhWBXW2a3vuz) | 3:50 |
 | 22 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
 | 23 | [原罪の灯](https://open.spotify.com/track/7Ls2Zk4Q3yl3norW825KZF) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 2:14 |
 | 24 | [1.4.2](https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 48 | [Departures 〜あなたにおくるアイの歌〜\(TV Edit\)\-Instrumental\-](https://open.spotify.com/track/7q33niXJmV1uA3hseWllXK) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures 〜あなたにおくるアイの歌〜](https://open.spotify.com/album/556gesPRB8qVOYsyo9iPuQ) | 1:35 |
 | 49 | [名前のない怪物 \-Instrumetal\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBjNzkwZmU0ZTUyMWFlYjM3ZDk5YWNhMTA1YzNkOGExNg==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDA5M2Q2NWQwMWNhZmVkOWFiNTZkYTczMDcwNjI0ZWY3Ng==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: FendiDa Rappa & Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,870,414 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,871,139 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
 | 50 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 
-Snapshot ID: `MCw0MTYzNzZjYzdjOTNhNDdmYjg5OWIxMGU1MjE2ODI5MjE5YjVlNDMw`
+Snapshot ID: `MCxlNzVkMjUwMTk0YTA1Zjg3ZmE5ZjVhMGM3ZWE4YTEzNzlmZWQ4N2U4`

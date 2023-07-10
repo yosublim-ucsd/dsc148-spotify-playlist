@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-288 songs - 15 hr 18 min
+289 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2022-11-21 | 2022-11-29 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-27 |  |
 | [Holding On To You](https://open.spotify.com/track/367Qr3tFVMl2hpxAWDje6u) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Holding On To You](https://open.spotify.com/album/6hqqoFfpyJdMlbwNbQmKws) | 3:06 | 2022-07-04 | 2022-07-11 |
+| [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-10 |  |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-04 | 2022-07-12 |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-10-31 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-06-20 | 2023-04-28 |
@@ -266,7 +267,7 @@
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-10 | 2022-11-13 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-19 | 2022-11-13 |
 | [To Be Alive](https://open.spotify.com/track/54Jt3wJT3xIx8F0SThPcUQ) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [To Be Alive](https://open.spotify.com/album/44jHVWYDclz1x6lyFDrDXB) | 3:32 | 2023-01-09 | 2023-01-17 |
-| [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-07-03 |  |
+| [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-07-03 | 2023-07-10 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-17 | 2023-04-25 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-12 | 2023-06-20 |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-08 | 2022-08-16 |

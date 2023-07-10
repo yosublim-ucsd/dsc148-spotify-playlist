@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
 
-127 songs - 6 hr 47 min
+128 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [When You Wish Upon a Star](https://open.spotify.com/track/1lWiRlGQXRnl7vteFcelh7) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Connected to Disney](https://open.spotify.com/album/7hASA0RLTlSJkWJSsECtMw) | 2:31 | 2022-12-28 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/03sKaMN0mq5p3ok6z2xYVQ) | [Shin Fujishima](https://open.spotify.com/artist/1HNEsdQ7hbcIQpTTF47Go1), [Tokyo Philharmonic Chorus](https://open.spotify.com/artist/51jSfzDJjZXOwfPaVc35Gi), [Natural Notes](https://open.spotify.com/artist/0IKotvQocRLaLRkxROzX9U) | [My First Disney Original Soundtrack Best Japanese Version](https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx) | 2:31 | 2022-12-28 |  |
 | [Where Did I Put That Thing / Bibbidi\-Bobbidi\-Boo \(The Magic Song\)](https://open.spotify.com/track/5pUjRbA8aSPKNjv53OGyfz) | [Verna Felton](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 4:47 | 2022-12-28 |  |
+| [Yasashii Kimochide \- Elemental ver.](https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Yasashii Kimochide \(Elemental ver.\)](https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC) | 3:54 | 2023-07-10 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/4y4VNLL6EuZp1fEy5S8t7O) | [Marsa Sakamoto](https://open.spotify.com/artist/4T481uMcsXEnEqvNS5CzG6), [Toshiko Fujita](https://open.spotify.com/artist/5y8t6BevHZCuKXVwnqAbYa) | [My First Disney Original Soundtrack Best Japanese Version](https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx) | 1:38 | 2022-12-28 |  |
 | [You're Welcome \- Japanese Version](https://open.spotify.com/track/2BAk6LyBHe77Ic2wfauniJ) | [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Moana/Vaiana/Oceania Multi\-Language Songs, Vol\. 2](https://open.spotify.com/album/5bNUCxcIfJrHeuPnBHoApQ) | 2:43 | 2022-12-28 |  |
 | [You've Got a Friend in Me \- Japanese Version](https://open.spotify.com/track/1tpTMUY3JtRUhAwK3h4I2O) | [Diamond Yukai](https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL) | [Toy Story \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/6Ow9UAuMC3nNdftY4JsZX4) | 2:04 | 2022-12-28 |  |

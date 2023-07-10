@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 133786,
+  "num_followers": 133777,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk",
+  "snapshot_id": "MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 191401,
-      "name": "Happy Xmas",
-      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 176788,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 191401,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "A very chilly christmas",
         "url": "https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 249708,
       "name": "The Banister Bough",
       "url": "https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Steal Your Heart",
         "url": "https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 207619,
       "name": "Steal Your Heart",
       "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
-      },
-      "artists": [
-        {
-          "name": "Guy Lombardo & His Royal Canadians",
-          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Rudolph the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Takin' Care Of Christmas",
         "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 213626,
       "name": "Takin' Care Of Christmas",
       "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
+      },
+      "artists": [
+        {
+          "name": "Guy Lombardo & His Royal Canadians",
+          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+      },
+      "artists": [
+        {
+          "name": "Suzie McNeil",
+          "url": "https://open.spotify.com/artist/5YE5o5iV0OC0fSqBQmctF8"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "This is Christmas",
+      "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Christmas at Home",
         "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
-      },
-      "artists": [
-        {
-          "name": "Suzie McNeil",
-          "url": "https://open.spotify.com/artist/5YE5o5iV0OC0fSqBQmctF8"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "This is Christmas",
-      "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "They Don\u2019t Make Them Like That Anymore",
         "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 216320,
       "name": "It Came Upon a Midnight Clear",
       "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Feeling the Christmas Night",
+        "url": "https://open.spotify.com/album/5xAif77nEOGdndx27jhJdz"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Feeling the Christmas Night",
+      "url": "https://open.spotify.com/track/5zkBUklFcnVFkzC0u1GScD"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "River City Christmas",
-        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Spirit Of Christmas",
         "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "River City Christmas",
+        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
+      },
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Feeling the Christmas Night",
-        "url": "https://open.spotify.com/album/5xAif77nEOGdndx27jhJdz"
-      },
-      "artists": [
-        {
-          "name": "Andye",
-          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Feeling the Christmas Night",
-      "url": "https://open.spotify.com/track/5zkBUklFcnVFkzC0u1GScD"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "It's Me & You (This Christmas)",
-        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
+        "name": "Rockin\u2019 Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
       },
       "artists": [
         {
-          "name": "Elijah Woods x Jamie Fine",
-          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 148202,
-      "name": "It\u2019s Me & You (This Christmas)",
-      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
+      "duration_ms": 120934,
+      "name": "Rockin\u2019 Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Rockin\u2019 Around the Christmas Tree",
-        "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 120934,
-      "name": "Rockin\u2019 Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Slide On Christmas",
         "url": "https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236690,
       "name": "Slide On Christmas",
       "url": "https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "It's Me & You (This Christmas)",
+        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
+      },
+      "artists": [
+        {
+          "name": "Elijah Woods x Jamie Fine",
+          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
+        }
+      ],
+      "duration_ms": 148202,
+      "name": "It\u2019s Me & You (This Christmas)",
+      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 162749,
-      "name": "One More Day of Christmas",
-      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Moonshine & Mistletoe",
         "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 160807,
       "name": "Season's Greetings",
       "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
     }
   ],
   "unique_name": "Christmas in Canada",

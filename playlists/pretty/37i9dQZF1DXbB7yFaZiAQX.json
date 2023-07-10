@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 956383,
+  "num_followers": 956766,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTczOTI0YjQ3ZjE1ZDVhMmM0M2ZiNTNhZjQxMGE1MGE4NDc4MmEx",
+  "snapshot_id": "MCw1MzY4OTA2NTcxMTM3MTUxNGI5YzE5ODA1NWZiYWQxZTEyNjJjMzg3",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 209573,
       "name": "Lovesong - 2010 Remaster",
       "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 266160,
       "name": "Ashes to Ashes - 2017 Remaster",
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
-      },
-      "artists": [
-        {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Head on the Door",
         "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
         "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 238106,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Fehler im System (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 303903,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
+      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "A Secret Wish (Analogue Sequence)",
         "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 259106,
       "name": "Road to Nowhere",
       "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Fehler im System (2023 Remaster)",
-        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 303903,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
-      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+        "name": "Our Favourite Shop",
+        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
         }
       ],
-      "duration_ms": 252053,
-      "name": "True Faith - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
+      "duration_ms": 204333,
+      "name": "Walls Come Tumbling Down",
+      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
       "artists": [
         {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+      "duration_ms": 252053,
+      "name": "True Faith - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Isolation - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Eisb\u00e4r",
         "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Isolation - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Stars We Are",
-        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+        "name": "Dig That Groove Baby",
+        "url": "https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP"
       },
       "artists": [
         {
-          "name": "Marc Almond",
-          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+          "name": "The Toy Dolls",
+          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
         }
       ],
-      "duration_ms": 261687,
-      "name": "Tears Run Rings",
-      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+      "duration_ms": 207480,
+      "name": "Nellie the Elephant",
+      "url": "https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "The Stars We Are",
+        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+      },
+      "artists": [
+        {
+          "name": "Marc Almond",
+          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+        }
+      ],
+      "duration_ms": 261687,
+      "name": "Tears Run Rings",
+      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Dig That Groove Baby",
-        "url": "https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP"
-      },
-      "artists": [
-        {
-          "name": "The Toy Dolls",
-          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Nellie the Elephant",
-      "url": "https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid"
     },
     {
       "added_at": "2023-05-03 07:47:14",

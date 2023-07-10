@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 275750,
+  "num_followers": 275762,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm",
+  "snapshot_id": "MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 165653,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sun Comes Up (Acoustic)",
-        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 255582,
-      "name": "Sun Comes Up - Acoustic",
-      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sun Comes Up (Acoustic)",
+        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Sun Comes Up - Acoustic",
+      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Paradise (The Acoustics)",
         "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 158830,
       "name": "Paradise - Piano Version",
       "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+      "duration_ms": 243573,
+      "name": "King - Acoustic",
+      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1367,6 +1347,26 @@
       "duration_ms": 171101,
       "name": "How You Love Me - Acoustic Version",
       "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1515,30 +1539,6 @@
       "duration_ms": 193432,
       "name": "There Will Be Angels - Acoustic Version",
       "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2023-03-20 20:19:53",

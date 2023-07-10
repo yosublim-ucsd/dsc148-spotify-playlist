@@ -1,12 +1,12 @@
 {
   "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA?si=b865adea41ab4b5d\">July 7</a>",
-  "num_followers": 90811,
+  "num_followers": 90817,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjIwOWJmYmNlOTEwOGE2MGM3YjZlZDQ3ZTAyODlhNTk5ZWNhNmE0",
+  "snapshot_id": "MCxjMjY1MmM2YTA3OTEzMzUyNmU1MTJlYjVlZWY4MDFlM2FmOGIzNjgy",
   "tracks": [
     {
       "added_at": "2023-07-07 09:53:56",
@@ -771,7 +771,7 @@
     {
       "added_at": "2023-07-07 09:53:56",
       "album": {
-        "name": "Hallelujah",
+        "name": "hallelujah",
         "url": "https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00"
       },
       "artists": [
@@ -781,7 +781,7 @@
         }
       ],
       "duration_ms": 140094,
-      "name": "Hallelujah",
+      "name": "hallelujah",
       "url": "https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7"
     },
     {

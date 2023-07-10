@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 202686,
+  "num_followers": 202930,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTlkY2RhODA3NTBiNzEzYWIyZDk2YzU5MjY5YjYzYzAwOTU0YWQx",
+  "snapshot_id": "MCxmNWNiYjFiZjM5YmIzZGUxNTI1NTg0NjgwYWM1ZGJlNWVhOTljNDMx",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Love So Sweet",
         "url": "https://open.spotify.com/album/5KdES3GFxqvSh46467PyoM"
       },
@@ -499,18 +483,34 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "The Divide",
+        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
+      },
+      "artists": [
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 193385,
+      "name": "The Divide",
+      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "The Divide",
-        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
       "artists": [
         {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 193385,
-      "name": "The Divide",
-      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 223639,
-      "name": "Hands - Radio Version",
-      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2"
       },
@@ -619,6 +603,42 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 223639,
+      "name": "Hands - Radio Version",
+      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -655,22 +675,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+        "name": "Home Called Heaven",
+        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 415745,
-      "name": "Walk By Faith",
-      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+      "duration_ms": 227719,
+      "name": "Home Called Heaven",
+      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -691,42 +707,6 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Home Called Heaven",
-        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 227719,
-      "name": "Home Called Heaven",
-      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -767,6 +747,26 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 101214,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
@@ -939,6 +923,46 @@
       "duration_ms": 168236,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 101214,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Another In the Fire",
+        "url": "https://open.spotify.com/album/1S6BSiiHUFEQb2D0ZSqH0a"
+      },
+      "artists": [
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        },
+        {
+          "name": "Sara Damon",
+          "url": "https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75"
+        },
+        {
+          "name": "Joseph Whettam",
+          "url": "https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa"
+        }
+      ],
+      "duration_ms": 165405,
+      "name": "Another In the Fire",
+      "url": "https://open.spotify.com/track/4FFfvln3hGIqnenEQPn9Kk"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1051,26 +1075,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Another In the Fire",
-        "url": "https://open.spotify.com/album/1S6BSiiHUFEQb2D0ZSqH0a"
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
       },
       "artists": [
         {
-          "name": "sxxnt.",
-          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
-        },
-        {
-          "name": "Sara Damon",
-          "url": "https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75"
-        },
-        {
-          "name": "Joseph Whettam",
-          "url": "https://open.spotify.com/artist/0PvoBChDz5ctl4mDKGxMqa"
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
         }
       ],
-      "duration_ms": 165405,
-      "name": "Another In the Fire",
-      "url": "https://open.spotify.com/track/4FFfvln3hGIqnenEQPn9Kk"
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1099,18 +1115,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+        "name": "Kingdom Business: Season 1",
+        "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
       "artists": [
         {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+      "duration_ms": 248926,
+      "name": "Crazy Kinda Love",
+      "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1139,30 +1163,6 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Kingdom Business: Season 1",
-        "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
-      },
-      "artists": [
-        {
-          "name": "Serayah",
-          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-        },
-        {
-          "name": "Ahjah Walls",
-          "url": "https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 248926,
-      "name": "Crazy Kinda Love",
-      "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "GOOD TO ME",
-        "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
-      },
-      "artists": [
-        {
-          "name": "nathan huang",
-          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
-        },
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "GOOD TO ME",
-      "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "GOOD TO ME",
+        "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
+      },
+      "artists": [
+        {
+          "name": "nathan huang",
+          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "GOOD TO ME",
+      "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
       "artists": [
         {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
         }
       ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1731,22 +1715,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
         }
       ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1795,6 +1775,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Not Ready",
+        "url": "https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 236850,
+      "name": "Not Ready",
+      "url": "https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 184973,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Not Ready",
-        "url": "https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 236850,
-      "name": "Not Ready",
-      "url": "https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S"
     },
     {
       "added_at": "2023-01-20 09:20:39",

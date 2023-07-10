@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,986 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,167 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 24 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 25 | [Fuera](https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP) | 3:22 |
 | 26 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
-| 27 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
-| 28 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 |
+| 27 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 |
+| 28 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 29 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 30 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 31 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 44 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 45 | [Si fuera facil](https://open.spotify.com/track/7sQ8I72tbcO6fkEnM1Mu3D) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [A partir de hoy](https://open.spotify.com/album/3COzpskhC6ZoWYzNiW5oBI) | 3:40 |
 | 46 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
-| 47 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
+| 47 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
 | 48 | [El Chancho Come Caviar](https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:35 |
-| 49 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 49 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
 | 50 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
 | 51 | [Loco](https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [Loco](https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L) | 3:42 |
 | 52 | [El Hospicio](https://open.spotify.com/track/4I17shszGarI3lEcneeEEK) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 56 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
 | 57 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
 | 58 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 |
-| 59 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
-| 60 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
+| 59 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
+| 60 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
 | 61 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
 | 62 | [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 |
 | 63 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 75 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 76 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 |
 | 77 | [Dile](https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Dile](https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9) | 2:55 |
-| 78 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
-| 79 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 78 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 79 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
 | 80 | [Insaciable](https://open.spotify.com/track/62MwZTT02y2hPelIia0HlX) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/1AjvJTxq6SiZzvomF0GZ3P) | 3:26 |
 
-Snapshot ID: `MCwxZmE5NzU5N2VkMzUzZDFhNTA5ZWEwNDkzOGI5NWM4ZTZiMDI3NGFl`
+Snapshot ID: `MCw4ZjI2OWNmMjMzNjJmN2JjOTE1ZGJhMmNkMmNmYTkzZThmYzc0MzA4`

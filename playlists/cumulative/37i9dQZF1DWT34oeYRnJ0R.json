@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 164494,
       "name": "Down",
       "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 188573,
       "name": "No Me Llames",
       "url": "https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj"
@@ -5716,7 +5734,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 194000,
       "name": "XLEY",
       "url": "https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH"

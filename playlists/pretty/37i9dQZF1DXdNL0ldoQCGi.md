@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,937 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,347 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 89 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 90 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCwzNjlhZmU4NDFjMDk4ZjhlYjU3MDg4ZmIxZjc1NjlmZTcyZWRiM2Jl`
+Snapshot ID: `MCxjM2Q5ZDBmM2RiMjRhOGRhOGRiZjNkODA4MTRiN2QwNWY4Y2Q2Yzcz`

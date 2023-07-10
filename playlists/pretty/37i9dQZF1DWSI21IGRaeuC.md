@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,875 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,924 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 28 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 |
 | 29 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
 | 30 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
-| 31 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 |
-| 32 | [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 |
-| 33 | [Bring It Back](https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bring It Back](https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k) | 5:41 |
+| 31 | [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 |
+| 32 | [Bring It Back](https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bring It Back](https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k) | 5:41 |
+| 33 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 |
 | 34 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
 | 35 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 |
 | 36 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 37 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
 | 38 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
 | 39 | [Gozar](https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Gozar](https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW) | 3:24 |
-| 40 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
-| 41 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 40 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 41 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
 | 42 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
 | 43 | [This Energy](https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:18 |
 | 44 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 56 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 57 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
 | 58 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
-| 59 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 |
-| 60 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 |
-| 61 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 |
-| 62 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
-| 63 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
-| 64 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
+| 59 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 |
+| 60 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 |
+| 61 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
+| 62 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 |
+| 63 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
+| 64 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
 | 65 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 |
 | 66 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 |
 | 67 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 71 | [You & Me](https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [You & Me](https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS) | 3:41 |
 | 72 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 |
 | 73 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
-| 74 | [Diri](https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [Diri](https://open.spotify.com/album/77DE5zgJssda21fouB6LYD) | 5:42 |
-| 75 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
+| 74 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
+| 75 | [Diri](https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [Diri](https://open.spotify.com/album/77DE5zgJssda21fouB6LYD) | 5:42 |
 
-Snapshot ID: `MCxmMTU1NjU1MTEwMzZiZWNlNTY1NDY5ZGI2YzcwODgyODZjYmRmZTQz`
+Snapshot ID: `MCxjMmE5MjUxNjk2MWViM2FjODU2YWM1OGZiOTNhMDcxMjIxNGVlOTZm`

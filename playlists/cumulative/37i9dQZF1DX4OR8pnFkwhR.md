@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Skaai
 
-941 songs - 2 day 10 hr 1 min
+942 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,7 @@
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-01 | 2023-03-08 |
 | [ネコも食べない](https://open.spotify.com/track/3IQ2RZzh0shp6PUTbvlu8B) | [極東飯店](https://open.spotify.com/artist/6BgCQ4n2mZfN3eLPrTd9Kl) | [九種九牌](https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z) | 3:04 | 2022-04-27 | 2022-05-18 |
 | [ハグルマ](https://open.spotify.com/track/3TlqFcttsxEoQavRkkvJFQ) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [ハグルマ](https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4) | 2:55 | 2022-12-13 | 2022-12-15 |
-| [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 | 2023-05-30 |  |
+| [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 | 2023-05-30 | 2023-07-10 |
 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 | 2022-12-22 | 2023-02-24 |
 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 | 2022-10-25 | 2023-03-29 |
 | [ハルのテーマ](https://open.spotify.com/track/2MWF1yLKSBRFfX7py96tko) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ハルのテーマ](https://open.spotify.com/album/68m6h0QU4b8VEAKHapRUCw) | 4:28 | 2023-04-04 | 2023-04-28 |
@@ -813,6 +813,7 @@
 | [悲しいラブソング](https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [極夜において月は語らず](https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah) | 4:20 | 2022-03-22 | 2022-04-13 |
 | [悲しみの街、君の涙で滲む](https://open.spotify.com/track/5tdtWyQbPf52cLNgzUsnQX) | [salmon pinknows](https://open.spotify.com/artist/4XoOARduoDp06cIa39cAdh) | [悲しみの街、君の涙で滲む](https://open.spotify.com/album/63igyl4oKgn0GqqhV9FLWk) | 4:32 | 2022-11-15 | 2022-12-07 |
 | [悲しみばかりで時代は進むから..\. \-Open Up The Door\-](https://open.spotify.com/track/1iPk59m1YkhApWqtX9m1PB) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [悲しみばかりで時代は進むから..\. \-Open Up The Door\-](https://open.spotify.com/album/0tFO4D1ylnMVDGt8Vwse1P) | 3:52 | 2022-03-01 | 2022-03-30 |
+| [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 | 2023-07-09 |  |
 | [意識は14時に](https://open.spotify.com/track/56yGOjOj3s5tcmd3dzf2bl) | [C子あまね](https://open.spotify.com/artist/24RyH9qOgbwEeKOypceYYO) | [Japan](https://open.spotify.com/album/0FCo0ihblkw2VBC5YVUxQN) | 3:53 | 2022-06-28 | 2022-07-27 |
 | [愛ある世界](https://open.spotify.com/track/2LHR0pUDiYc4NiFhnp7YCt) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [愛ある世界](https://open.spotify.com/album/1WUEaIFtxxrkK1PNVhWy7O) | 3:16 | 2022-09-05 | 2022-09-09 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-07-27 |

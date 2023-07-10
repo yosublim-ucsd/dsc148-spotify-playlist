@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,928 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,493 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 30 | [I Like To Move It \(feat\. The Mad Stuntman\) \- Erick "More" Album Mix](https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5), [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb) | [Move It!](https://open.spotify.com/album/4lXuOVx1V9uhjr0v6MWDRI) | 3:50 |
 | 31 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
 | 32 | [The Riddle](https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:45 |
-| 33 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 |
-| 34 | [We're Going To Ibiza!](https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:37 |
+| 33 | [We're Going To Ibiza!](https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:37 |
+| 34 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 |
 | 35 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 36 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
-| 37 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
-| 38 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
+| 37 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
+| 38 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 | 39 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 |
 | 40 | [Let the Dream Come True](https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [There Is a Party](https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii) | 4:01 |
 | 41 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 46 | [Back in My Life](https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:29 |
 | 47 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 48 | [Missing \- Todd Terry Club Mix](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
-| 49 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
-| 50 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
+| 49 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
+| 50 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
 | 51 | [Roses Are Red \- Original Version](https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:45 |
 | 52 | [Sexy](https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [Belle Epoque](https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr) | 3:51 |
 | 53 | [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 |
 | 54 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
-| 55 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
-| 56 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
+| 55 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
+| 56 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 57 | [Love Is All Around](https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [There Is a Party](https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii) | 4:29 |
 | 58 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
 | 59 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 69 | [Freedom](https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Freedom](https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM) | 3:56 |
 | 70 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 
-Snapshot ID: `MCw1MjVhNjA5MTQzZTgxMzQ3NDg0Y2M0YzM2YzcwNmYzNDhiMDA4Zjk3`
+Snapshot ID: `MCw1MTYwNTg1MjYxMDVlMWRmYmYyYWRmOWUxZTAwMWI2YjMwZGViMjUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,296 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,457 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 45 | [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 |
 | 46 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 |
 | 47 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
-| 48 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
-| 49 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
-| 50 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 |
+| 48 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
+| 49 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
+| 50 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
 | 51 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
-| 52 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
+| 52 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 |
 | 53 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
 | 54 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
 | 55 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 78 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
 | 79 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 80 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
-| 81 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
+| 81 | [Romance de Plumas Verdes](https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag) | [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Aqui Cosquin](https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q) | 3:01 |
 | 82 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
-| 83 | [Romance de Plumas Verdes](https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag) | [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Aqui Cosquin](https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q) | 3:01 |
+| 83 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 84 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
 | 85 | [Angelitos Negros](https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 4:16 |
 | 86 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 | 90 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
 
-Snapshot ID: `MCw3MjQ3Y2Q2Y2E5MTBiMjMwODIzZDJjNDlhZjdiOTZjZmU3M2NlNDE2`
+Snapshot ID: `MCxkMWU2Y2M0YWRiMGJiM2Q2OGJmZDk0NzFkM2EwZmY3YzE2MmI5ZTU1`

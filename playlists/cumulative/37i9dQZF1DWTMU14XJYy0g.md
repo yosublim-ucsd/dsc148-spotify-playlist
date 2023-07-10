@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Él Mató a un Policía Motorizado.
 
-192 songs - 12 hr 4 min
+194 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 | 2023-01-21 |
 | [Diamante](https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El mundo no se hizo en dos días](https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP) | 4:05 | 2022-12-16 | 2023-03-04 |
 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 | 2022-06-24 | 2022-09-03 |
-| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 |  |
+| [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-07-07 |  |
+| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-07-10 |
 | [Dos Días en la Vida \- EADDA9223 \(feat\. Lali & Nicki Nicole\)](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-05-31 |  |
 | [Dulce](https://open.spotify.com/track/00qJ7UYGzz0STfuBaJzaP5) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Dulce](https://open.spotify.com/album/4rSqRY2mGS0kUETwHMh6Oj) | 4:20 | 2022-09-23 | 2023-06-17 |
 | [Día Mil](https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Día Mil](https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1) | 3:38 | 2022-06-24 | 2023-05-06 |
@@ -60,7 +61,8 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-24 | 2022-07-29 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-08-05 | 2022-11-12 |
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 | 2022-10-15 |
-| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 |  |
+| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
+| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 |  |
 | [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 | 2023-04-28 | 2023-07-08 |
 | [En este barco](https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4) | [Arbolito](https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ) | [En este barco](https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu) | 4:02 | 2023-06-02 | 2023-06-17 |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : Lartiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,194 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,825 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 |
 | 50 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 |
 
-Snapshot ID: `MCw1OTc5MWM4YjM5ZDc4ZmE4ZTc4MzM0MGYwNmYxMTBmZTgxNzNlMmY5`
+Snapshot ID: `MCxlNjE5ZWNkMmVhNmVlMjBkY2NiYmM3NjE4Y2VhNWU3ODUxNDM4OTQw`

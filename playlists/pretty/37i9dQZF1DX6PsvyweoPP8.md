@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,237 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,321 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 2 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 3 | [Território](https://open.spotify.com/track/5PdXjjxtXFph228HxlHHV1) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Território](https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7) | 3:03 |
 | 4 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
-| 5 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 |
+| 5 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 |
 | 6 | [Topless](https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klauss](https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY), [Lucas Chief](https://open.spotify.com/artist/2Z5T5UanKvhyUyKuUv3hFe) | [Intenção](https://open.spotify.com/album/7wdJveXfB0dVqbbPdR5zUD) | 2:49 |
 | 7 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
 | 8 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MCxiNGM3ZGU5ZWQ4NGM0NjYzYjBjMDlhMGMyODFlNDA0OTgyN2Q0M2Zl`
+Snapshot ID: `MCxjMmQxZDkzN2MyMmZlNjMyOGY1MmE5NjJiY2I2MjYwZjc2ZDU1ODQw`

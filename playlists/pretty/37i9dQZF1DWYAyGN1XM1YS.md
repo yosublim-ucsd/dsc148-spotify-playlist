@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,583 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,709 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 32 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
 | 33 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
 | 34 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
-| 35 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
-| 36 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
+| 35 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
+| 36 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
 | 37 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
 | 38 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
 | 39 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 |
 | 50 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
 
-Snapshot ID: `MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj`
+Snapshot ID: `MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi`

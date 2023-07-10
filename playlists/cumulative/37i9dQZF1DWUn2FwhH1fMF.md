@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-237 songs - 12 hr 45 min
+239 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-12-01 | 2022-12-01 |
 | [Just Feels Tight](https://open.spotify.com/track/7wT85929YTgiyb2cQDe2fb) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/0hETamGnqdcM4TuUDqV378) | 3:17 | 2021-12-01 | 2022-07-29 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-11-30 |  |
-| [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 | 2022-11-30 |  |
+| [Kiss It Better](https://open.spotify.com/track/1Ue5gYvT2MUkBl6mpbwAF5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:17 | 2022-11-30 |  |
+| [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 | 2022-11-30 | 2023-07-10 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-11-30 |  |
 | [Leave A Little Love](https://open.spotify.com/track/3OvhYVkuf0EmDKbupaAuFe) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7p6CTG4VUlDgRGxdZjPzyi) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [Leave A Little Love](https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS) | 3:07 | 2021-12-01 | 2022-11-13 |
@@ -133,7 +134,8 @@
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-11-30 |  |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-12-01 | 2022-12-01 |
 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 | 2021-12-01 | 2022-12-01 |
-| [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-11-30 |  |
+| [Mine O Mine](https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:13 | 2022-11-30 |  |
+| [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-11-30 | 2023-07-10 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-11-30 |  |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-30 |  |
 | [Moth To A Flame](https://open.spotify.com/track/5skCXaRnin2BIR8U5V2Z10) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dance electro mood](https://open.spotify.com/album/1z9nNuYJuBwgOVI9efNg7B) | 3:54 | 2021-12-01 | 2022-11-13 |

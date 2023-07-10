@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,841 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,211 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
 | 2 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 3 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
-| 4 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 5 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 4 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 5 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 6 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
 | 7 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 8 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 33 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 34 | [Fake Starfield](https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp) | [a\\wshhine](https://open.spotify.com/artist/7hVjrS9PyralpN34AsqlGR), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [Fake Starfield](https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK) | 2:40 |
 | 35 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
-| 36 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
-| 37 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
+| 36 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
+| 37 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
 | 38 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
 | 39 | [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 |
 | 40 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 50 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 
-Snapshot ID: `MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk`
+Snapshot ID: `MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1`

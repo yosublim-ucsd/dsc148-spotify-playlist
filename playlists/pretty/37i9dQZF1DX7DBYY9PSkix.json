@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 13827,
+  "num_followers": 13849,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTI1MjVjMmM1NDZhOWJlNjMzNWI0NjY5Y2YxYjc0NjI2NDFjMTAz",
+  "snapshot_id": "MCxiZjFkODA3ZWQzZGMyNDU2YTgyY2QyMDdlZmVjNTk0NmFkYzIwNmI0",
   "tracks": [
     {
       "added_at": "2023-03-03 17:51:47",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Heartless (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -95,18 +91,22 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+      "duration_ms": 169226,
+      "name": "Heartless (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
-    },
-    {
-      "added_at": "2023-03-03 17:51:47",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 212066,
       "name": "Blue Tacoma",
       "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
+    },
+    {
+      "added_at": "2023-03-03 17:51:47",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Hard To Forget",
-      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
-    },
-    {
-      "added_at": "2023-03-03 17:51:47",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 191906,
       "name": "Ain't Worth the Whiskey",
       "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
+    },
+    {
+      "added_at": "2023-03-03 17:51:47",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Hard To Forget",
+      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
-    },
-    {
-      "added_at": "2023-03-03 17:51:47",
-      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+      "duration_ms": 174193,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "added_at": "2023-03-03 17:51:47",
+      "album": {
         "name": "Almost Maybes",
         "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-03-03 17:51:47",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Breaking Up Was Easy In The 90's",
-      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
+      "duration_ms": 204186,
+      "name": "Where It's At",
+      "url": "https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -1127,22 +1127,6 @@
       "duration_ms": 231265,
       "name": "Long Haul",
       "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
-    },
-    {
-      "added_at": "2023-03-03 17:51:47",
-      "album": {
-        "name": "Where It's At",
-        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "Where It's At",
-      "url": "https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q"
     },
     {
       "added_at": "2023-03-03 17:51:47",
@@ -1175,6 +1159,22 @@
       "duration_ms": 271813,
       "name": "Beer In Mexico",
       "url": "https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS"
+    },
+    {
+      "added_at": "2023-03-03 17:51:47",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Breaking Up Was Easy In The 90's",
+      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
     },
     {
       "added_at": "2023-03-03 17:51:47",

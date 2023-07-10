@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Birds On A Rainy Day",
+        "url": "https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177110,
+      "name": "Rainy Bird Symphony",
+      "url": "https://open.spotify.com/track/3gdbxvSg7CrOcxZ4y12tqG"
+    },
+    {
+      "album": {
         "name": "Birds and animals in the rain",
         "url": "https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn"
       },
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 183530,
       "name": "Red Iory Rain",
       "url": "https://open.spotify.com/track/6qIeToUmh9jQunxiF2Vbyh"

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 194904,
+  "num_followers": 194920,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGZjZjRhNmE4ZGRhM2ZlMDk1MTM2ZWE5Yjk4Njk0OWRlZTJmYjQ0",
+  "snapshot_id": "MCwyZjE2N2EyNGNiNjNmMjdiMDNlZDc4ZDhiOGUwZmY2NTVkM2YzNDhk",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
-      },
-      "artists": [
-        {
-          "name": "Bianca Ingrosso",
-          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
-        }
-      ],
-      "duration_ms": 190904,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
+      },
+      "artists": [
+        {
+          "name": "Bianca Ingrosso",
+          "url": "https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa"
+        }
+      ],
+      "duration_ms": 190904,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Genom eld (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Genom eld - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "BRAND NEW BITCH",
-        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+        "name": "Genom eld (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
       },
       "artists": [
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
         }
       ],
-      "duration_ms": 196000,
-      "name": "BRAND NEW BITCH",
-      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+      "duration_ms": 166875,
+      "name": "Genom eld - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -331,6 +315,22 @@
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "BRAND NEW BITCH",
+        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "BRAND NEW BITCH",
+      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "V\u00e4lkommen \u00c5ter",
+        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        },
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "V\u00e4lkommen \u00c5ter",
+      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -491,26 +511,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen \u00c5ter",
-        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        },
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "V\u00e4lkommen \u00c5ter",
-      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
         "url": "https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 178013,
       "name": "Fram\u00e5t",
       "url": "https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -599,18 +583,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -627,6 +611,22 @@
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Call Me By Your Name",
-        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        },
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Call Me By Your Name",
-      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Sommaren",
         "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
       },
@@ -723,6 +703,22 @@
       "duration_ms": 173030,
       "name": "Sommaren",
       "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
       },
       "artists": [
         {
           "name": "Omar Rudberg",
           "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+      "duration_ms": 170500,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Sun In Her Eyes",
-        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
+        "name": "V\u00e4ntar p\u00e5 en solig dag",
+        "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
       "artists": [
         {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 200016,
-      "name": "Sun In Her Eyes",
-      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
+      "duration_ms": 323186,
+      "name": "V\u00e4ntar p\u00e5 en solig dag",
+      "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "V\u00e4ntar p\u00e5 en solig dag",
-        "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 323186,
-      "name": "V\u00e4ntar p\u00e5 en solig dag",
-      "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 176426,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Sun In Her Eyes",
+        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200016,
+      "name": "Sun In Her Eyes",
+      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Easy Go!",
-        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
-      },
-      "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Easy Go!",
-      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "I Feel It In The Wind",
         "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 213717,
       "name": "I Feel It In The Wind",
       "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Easy Go!",
+        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Easy Go!",
+      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "June/July",
-        "url": "https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl"
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
       },
       "artists": [
         {
-          "name": "Lou Elliotte",
-          "url": "https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 205000,
-      "name": "June/July",
-      "url": "https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY"
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
+        "name": "June/July",
+        "url": "https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Lou Elliotte",
+          "url": "https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6"
         }
       ],
-      "duration_ms": 247471,
-      "name": "Slugs of Love",
-      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+      "duration_ms": 205000,
+      "name": "June/July",
+      "url": "https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "White Ferrari",
         "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 256449,
       "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
       "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1599,38 +1599,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Looking For Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Fluent Stutter",
         "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
       },
@@ -1647,6 +1615,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "S\u00e4g N\u00e5t",
         "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 166773,
       "name": "S\u00e4g N\u00e5t",
       "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Looking For Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
     },
     {
       "added_at": "2023-07-06 22:00:00",

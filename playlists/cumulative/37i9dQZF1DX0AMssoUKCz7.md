@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-617 songs - 1 day 7 hr 37 min
+618 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Hollow](https://open.spotify.com/track/6yp7ooyd0KPQXgzJ554sNs) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Hollow](https://open.spotify.com/album/0fKCOsCD9l9iCrEqkGJLuD) | 1:52 | 2022-11-18 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/2PSuPIS5db6eBesTbRuikh) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Kerin Maguire](https://open.spotify.com/artist/3sKkXqemxQk1VktbNyiyxF) | [Hollow](https://open.spotify.com/album/3uzNox4LBHyKCyN65VQdcX) | 2:46 | 2022-05-06 |  |
 | [Hollywood](https://open.spotify.com/track/3NdGXW1CUaFZ6QldSNEu2k) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/2Z4CTN7XOXD68CcNfXLAxd) | 2:30 | 2022-11-18 | 2023-03-26 |
-| [Hollywood](https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/4N5yjyIlqPNmX2Ik6L7xqE) | 2:30 | 2023-06-16 |  |
+| [Hollywood](https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/4N5yjyIlqPNmX2Ik6L7xqE) | 2:30 | 2023-06-16 | 2023-07-10 |
 | [Home](https://open.spotify.com/track/3zE7oYotxr3EUTSSje7Ube) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/5nNwjyGbAdUzY9QKiEciBH) | 3:16 | 2022-01-14 | 2023-05-13 |
 | [Home](https://open.spotify.com/track/0T26riswexwPY9w3UCMwYE) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Home](https://open.spotify.com/album/4R8nylnqxlRvNO564YLyHx) | 3:10 | 2022-10-07 |  |
 | [Home \(feat\. Nico Santos\) \- Marcapasos Radio Remix](https://open.spotify.com/track/2NsWGd3UslepVF25pKw1sp) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Marcapasos](https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB) | [Home \(feat\. Nico Santos\) \[The Remixes\]](https://open.spotify.com/album/3iCS2u4nW6aQ0eycQXTuFk) | 3:34 | 2022-01-14 | 2022-05-21 |
@@ -280,6 +280,7 @@
 | [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 | 2023-02-10 |  |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
+| [Kids](https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Kids](https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T) | 2:21 | 2023-07-07 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |
 | [Kiss Me](https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Kiss Me](https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr) | 2:27 | 2023-01-20 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |

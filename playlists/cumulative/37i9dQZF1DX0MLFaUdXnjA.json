@@ -16069,6 +16069,24 @@
     },
     {
       "album": {
+        "name": "One More Shot (One Take Version)",
+        "url": "https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141184,
+      "name": "One More Shot",
+      "url": "https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN"
+    },
+    {
+      "album": {
         "name": "One More Shot",
         "url": "https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT"
       },
@@ -16080,7 +16098,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 141184,
       "name": "One More Shot",
       "url": "https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa"

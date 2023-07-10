@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 35259,
+  "num_followers": 35288,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWNmZWYzZmJiMGRlYWIzNjVlM2IxMzQyNGM4N2JkZTIxNmRjYjRi",
+  "snapshot_id": "MCxmNWExMjhmOWRmYzNjNzQ0NTQ3OTkxM2RkNTk2YzczZTk0ZTEzN2Fi",
   "tracks": [
     {
       "added_at": "2023-06-05 08:59:12",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
         "name": "Kill Bill (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 129543,
       "name": "moment",
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Bubble Gum",
-      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
     },
     {
       "added_at": "2023-06-05 08:59:12",

@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-312 songs - 16 hr 30 min
+313 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-05-20 | 2022-08-06 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-12-07 |
 | [papacito](https://open.spotify.com/track/1nV5gbrDdxfua6ICkCVTgY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/0pZWmEVf32O4FD96hUwnGb) | 3:05 | 2022-05-20 | 2022-08-06 |
+| [PAPI](https://open.spotify.com/track/1wOar9mXxzn1vF8vuNNRaB) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [PAPI](https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s) | 2:26 | 2023-07-07 |  |
 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 | 2023-05-12 |  |
 | [Para Ti No](https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB) | 3:19 | 2023-01-20 | 2023-05-13 |
 | [Para Ti No](https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9) | 3:19 | 2022-09-23 | 2023-02-17 |
@@ -248,7 +249,7 @@
 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2023-05-12 | 2023-05-23 |
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-09-06 | 2023-05-13 |
 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 | 2022-12-06 | 2023-05-13 |
-| [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2022-02-11 |  |
+| [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2022-02-11 | 2023-07-10 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2023-05-12 |  |
 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 | 2023-05-05 |  |
 | [Reina](https://open.spotify.com/track/4YrQP57RuG6lGCRyQBunCQ) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Reina](https://open.spotify.com/album/1JmyE0cMRfAOrSfgdiTz4G) | 2:04 | 2022-02-11 | 2022-07-28 |

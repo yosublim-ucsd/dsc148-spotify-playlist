@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,370 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,573 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 59 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 60 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
 | 61 | [Falling Like The Stars \- Madism Remix](https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Falling Like The Stars \(Madism Remix\)](https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz) | 3:01 |
-| 62 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
-| 63 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
+| 62 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
+| 63 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 64 | [Dentro de um Abraço \- Pic Schmitz e Breno Rocha Remix](https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl), [Breno Rocha](https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut) | [Dentro de um Abraço \(Pic Schmitz e Breno Rocha Remix\)](https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M) | 2:38 |
 | 65 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 | 66 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
 | 70 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
 
-Snapshot ID: `MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4`
+Snapshot ID: `MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 38097,
+  "num_followers": 38202,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyMTgzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyMjY5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Zarzour",
         "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Tek Tek (feat. MHD)",
+      "url": "https://open.spotify.com/track/0UawmEzDkE7zISZkhOB678"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Abala Ya Bali",
         "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Chouwafat",
         "url": "https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp"
@@ -65,27 +85,7 @@
       "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "LAYALI",
-        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Tek Tek (feat. MHD)",
-      "url": "https://open.spotify.com/track/0UawmEzDkE7zISZkhOB678"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "DARBA 9ADIYA",
         "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Talet Lghiba",
-        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
-      },
-      "artists": [
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        }
-      ],
-      "duration_ms": 211230,
-      "name": "Talet Lghiba",
-      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "AFROBOY",
         "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
@@ -181,7 +165,51 @@
       "url": "https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Talet Lghiba",
+        "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "duration_ms": 211230,
+      "name": "Talet Lghiba",
+      "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Drouba",
+        "url": "https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Drouba",
+      "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
@@ -201,7 +229,7 @@
       "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -217,7 +245,7 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Jini",
         "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
@@ -237,7 +265,7 @@
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Galbi Khasah Molah",
         "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
@@ -253,7 +281,7 @@
       "url": "https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
@@ -269,7 +297,23 @@
       "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Mriyech",
+        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Fadili",
+          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "Mriyech",
+      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -285,7 +329,7 @@
       "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
@@ -301,7 +345,23 @@
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "WILI",
+        "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "WILI",
+      "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP"
@@ -321,43 +381,7 @@
       "url": "https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "WILI",
-        "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "WILI",
-      "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Int\u00e9gral 2 #POV",
         "url": "https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D"
@@ -377,7 +401,27 @@
       "url": "https://open.spotify.com/track/1gOnmylQfRosw6DLJff6af"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
@@ -397,43 +441,7 @@
       "url": "https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "HOWLS",
-        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
-      },
-      "artists": [
-        {
-          "name": "Shobee",
-          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
-        },
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Work (feat. Madd)",
-      "url": "https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "1.6",
-        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 175304,
-      "name": "HINATA",
-      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Nari",
         "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
@@ -449,59 +457,23 @@
       "url": "https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
-        "name": "Mriyech",
-        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
       "artists": [
         {
-          "name": "Mehdi Fadili",
-          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 208436,
-      "name": "Mriyech",
-      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
+      "duration_ms": 175304,
+      "name": "HINATA",
+      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "M3a L3echrane",
-        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "M3a L3echrane",
-      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
@@ -521,7 +493,179 @@
       "url": "https://open.spotify.com/track/7165ZM318rbGB8bHOn5z1q"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "HOWLS",
+        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Work (feat. Madd)",
+      "url": "https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Ajini",
+        "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Ajini",
+      "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Gueule tap\u00e9e",
+        "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gueule tap\u00e9e",
+      "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
@@ -545,107 +689,7 @@
       "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Gueule tap\u00e9e",
-        "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gueule tap\u00e9e",
-      "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 259627,
-      "name": "Se Grita",
-      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Ajini",
-        "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
-      },
-      "artists": [
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Ajini",
-      "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "\u0664in",
-        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "Arahmini",
-      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Ya Nari",
         "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
@@ -665,39 +709,7 @@
       "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "HOWLS",
-        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
-      },
-      "artists": [
-        {
-          "name": "Shobee",
-          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -713,7 +725,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Rmadi",
         "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
@@ -729,7 +741,7 @@
       "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
@@ -749,23 +761,7 @@
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Ind\u00e9pendance",
         "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
@@ -785,7 +781,23 @@
       "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
@@ -801,7 +813,23 @@
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "HOWLS",
+        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
@@ -817,63 +845,67 @@
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
-        "name": "HOWLS",
-        "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
+        "name": "MORAK",
+        "url": "https://open.spotify.com/album/0hdrQYCR5YuUmXELMqLyyg"
       },
       "artists": [
         {
-          "name": "Shobee",
-          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "MORAK",
+      "url": "https://open.spotify.com/track/28zAI7MMJSlo7WUZWQtoSv"
+    },
+    {
+      "added_at": "2023-07-09 09:37:10",
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
         }
       ],
-      "duration_ms": 165640,
-      "name": "Train De Vie (feat. Laylow)",
-      "url": "https://open.spotify.com/track/0UEAg8uWitS0LZDsv37im8"
+      "duration_ms": 132123,
+      "name": "Gana (feat. Hatim Ammor)",
+      "url": "https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
-        "name": "Voltaire (Deluxe)",
-        "url": "https://open.spotify.com/album/03pi9QuYKXaynm4jETYAtf"
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
       "artists": [
         {
-          "name": "Fresh La Douille",
-          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Qualit\u00e9",
-      "url": "https://open.spotify.com/track/2keq6Q46nWdILpktuPhLOQ"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
-      },
-      "artists": [
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 265806,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
+      "duration_ms": 274250,
+      "name": "Casablanca (feat. Morad)",
+      "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
     },
     {
-      "added_at": "2023-07-08 11:40:29",
+      "added_at": "2023-07-09 09:37:10",
       "album": {
         "name": "Khssara",
         "url": "https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj"
@@ -887,34 +919,6 @@
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
-    },
-    {
-      "added_at": "2023-07-08 11:40:29",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     }
   ],
   "unique_name": "Top 50 - Morocco",

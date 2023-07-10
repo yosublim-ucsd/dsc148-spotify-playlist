@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428,871 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429,777 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 53 | [Never Gonna Let You Go](https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Sergio Mendes](https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU) | 4:15 |
 | 54 | [I Just Wanna Stop](https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [Brother To Brother](https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc) | 3:38 |
 | 55 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 |
-| 56 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
-| 57 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
+| 56 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
+| 57 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
 | 58 | [This Is It](https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Keep The Fire](https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B) | 3:56 |
 | 59 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 3:29 |
 | 60 | [Turn Your Love Around](https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [I Gotta Try](https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:55 |
 | 75 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 
-Snapshot ID: `MCxkMjBhYzYxNTBjM2E0NjY0M2NmMWYzYWYwMDg1MTI4MDgyMmRmYzcz`
+Snapshot ID: `MCw1NWMxZWMxOWFiYjMwMGU3ZGI4Y2IzMWIwNzU2Yjc5MTJlN2JlMDg5`

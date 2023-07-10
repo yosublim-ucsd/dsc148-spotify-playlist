@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 60406,
       "name": "Alice's Wonderland Bakery Main Title Theme",
       "url": "https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 61002,
       "name": "Eureka! Main Title Theme - From \"Disney Junior Music: Eureka!\"",
       "url": "https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ"
@@ -510,6 +510,24 @@
       "duration_ms": 143204,
       "name": "fake love don't last (feat. iann dior)",
       "url": "https://open.spotify.com/track/4UHyrGQCHu0Orh2utUxbNY"
+    },
+    {
+      "album": {
+        "name": "Big Nate (Music From Season 1)",
+        "url": "https://open.spotify.com/album/2MFxV6zsf8v4ewW1PUkzqm"
+      },
+      "artists": [
+        {
+          "name": "Big Nate TV",
+          "url": "https://open.spotify.com/artist/203SUP9dcYyVOn3VnpoCPi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78412,
+      "name": "Faults and All",
+      "url": "https://open.spotify.com/track/3mVRGaCHqJwtKzpSUB3amF"
     },
     {
       "album": {
@@ -1676,6 +1694,24 @@
       "duration_ms": 117156,
       "name": "Second Time Around",
       "url": "https://open.spotify.com/track/1dSQU6IM6rOWc68kZa8Q7V"
+    },
+    {
+      "album": {
+        "name": "The Really Loud House",
+        "url": "https://open.spotify.com/album/2R5S0SC8YJI5z2Ml5MvUfP"
+      },
+      "artists": [
+        {
+          "name": "The Really Loud House",
+          "url": "https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76706,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/7rFt04VwtHIJYsMtZIvzR0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > make the whole place shimmer ✨
 
-153 songs - 8 hr 47 min
+154 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 | 2022-09-23 | 2022-12-08 |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2022-02-11 |  |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-03-24 |  |
+| [Better Dig Two](https://open.spotify.com/track/3q6RsLhyoWzB7w5EYbo746) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp) | 3:14 | 2023-03-24 |  |
 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 | 2022-02-11 | 2023-07-08 |
 | [Blame It on Your Heart](https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 3:33 | 2022-02-11 |  |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2022-02-11 |  |
@@ -132,7 +133,7 @@
 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 | 2022-02-11 |  |
 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 | 2022-09-23 |  |
 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 | 2022-02-11 |  |
-| [These Boots Are Made For Walkin'](https://open.spotify.com/track/79Yqtz2KtwaxpZyKj2AkNR) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [You Ain't Woman Enough](https://open.spotify.com/album/1bUKhQcYBhJqEUEHRqOgmj) | 2:22 | 2022-02-11 |  |
+| [These Boots Are Made For Walkin'](https://open.spotify.com/track/79Yqtz2KtwaxpZyKj2AkNR) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [You Ain't Woman Enough](https://open.spotify.com/album/1bUKhQcYBhJqEUEHRqOgmj) | 2:22 | 2022-02-11 | 2023-07-10 |
 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 | 2022-03-22 | 2022-04-21 |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 | 2022-06-22 |  |
 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 | 2022-02-11 |  |

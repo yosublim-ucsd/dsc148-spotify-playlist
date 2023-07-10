@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 92751,
+  "num_followers": 92885,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyMTgzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyMjY5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
@@ -61,55 +77,7 @@
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Like Crazy (English Version)",
-      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Set Me Free Pt.2",
-        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "Set Me Free Pt.2",
-      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
@@ -197,55 +197,7 @@
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Still With You",
-        "url": "https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 239905,
-      "name": "Still With You",
-      "url": "https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
@@ -261,7 +213,103 @@
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Still With You",
+        "url": "https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 239905,
+      "name": "Still With You",
+      "url": "https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -285,71 +333,7 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Queencard",
-      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -365,7 +349,23 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -397,7 +397,75 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Grain of Sand",
+        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 220309,
+      "name": "Grain of Sand",
+      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "My You",
+        "url": "https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 165070,
+      "name": "My You",
+      "url": "https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "London Boy",
+      "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/2H5nzViLpbX8JzY1cQMVza"
@@ -429,127 +497,7 @@
       "url": "https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 182148,
-      "name": "UNFORGIVEN (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "My You",
-        "url": "https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 165070,
-      "name": "My You",
-      "url": "https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Grain of Sand",
-        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 220309,
-      "name": "Grain of Sand",
-      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Polaroid",
-        "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "London Boy",
-      "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Travel Again (Feat. Cautious Clay)",
-      "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "REALIEZ",
-        "url": "https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -565,7 +513,23 @@
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -581,7 +545,23 @@
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "REALIEZ",
+        "url": "https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
@@ -601,55 +581,27 @@
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
-      },
-      "artists": [
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+      "duration_ms": 257066,
+      "name": "Travel Again (Feat. Cautious Clay)",
+      "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -665,27 +617,23 @@
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -701,55 +649,7 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "D-DAY",
-        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
-      },
-      "artists": [
-        {
-          "name": "Agust D",
-          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
-        }
-      ],
-      "duration_ms": 168926,
-      "name": "Haegeum",
-      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "Monet",
-      "url": "https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "SEVENTEEN 10th Mini Album 'FML'",
         "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
@@ -765,75 +665,55 @@
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
         }
       ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
-        "name": "Like Crazy (Remixes)",
-        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 180719,
-      "name": "Like Crazy (Deep House Remix)",
-      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Kim Ximya",
-          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "990 (Feat. Kim Ximya)",
-      "url": "https://open.spotify.com/track/6BteP1uOVCsGfA58E3L8Fu"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
         "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
@@ -853,27 +733,7 @@
       "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
     },
     {
-      "added_at": "2023-07-08 11:40:34",
-      "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "oygli",
-          "url": "https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "Coca Cola Red (Feat. oygli)",
-      "url": "https://open.spotify.com/track/0Tc5rJmMphUeuOp1mTUPAu"
-    },
-    {
-      "added_at": "2023-07-08 11:40:34",
+      "added_at": "2023-07-09 09:37:15",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -887,6 +747,142 @@
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Our Blues, Our Life",
+      "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "Monet",
+      "url": "https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "added_at": "2023-07-09 09:37:15",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     }
   ],
   "unique_name": "Top 50 - South Korea",

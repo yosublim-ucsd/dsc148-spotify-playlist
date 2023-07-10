@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,069 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,113 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 45 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
 | 46 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 |
 | 47 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 |
-| 48 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
+| 48 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
 | 49 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
-| 50 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
+| 50 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
 | 51 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
 | 52 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
 | 53 | [Suerte](https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 5:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 79 | [Amando A Mi Guitarra](https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Fiesta Sudaka \(Parte 1\)](https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu) | 5:35 |
 | 80 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
 
-Snapshot ID: `MCw2ZmU0N2ZhNjA0MWMyMTMzOWRkYjZhZWFmMGI5NDM3MGVlOTk3YzU5`
+Snapshot ID: `MCxhM2RkZTA2MjRmMmRhMjBiZmExZTkzMmZlN2VmMjI5ODQ0ZjJhMGZi`

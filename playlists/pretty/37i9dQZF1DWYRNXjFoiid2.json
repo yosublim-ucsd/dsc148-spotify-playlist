@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 280792,
+  "num_followers": 281392,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmI5NDUwNGFjZGNkYjUyNzg3ODkzOTgyZWEzMWIzZDExMmVmYTk0",
+  "snapshot_id": "MCxlY2ZiN2ZlYmFiNThmZmRiMGY2ZWNhMjdkZWQ0ZWYxYmRiZjkzOTNm",
   "tracks": [
     {
       "added_at": "2023-06-30 13:10:03",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-06-30 13:10:03",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "added_at": "2023-06-30 13:10:03",
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2023-06-30 13:10:03",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2023-06-30 13:10:03",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-06-30 13:10:03",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
         }
       ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+      "duration_ms": 141505,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
     },
     {
       "added_at": "2023-06-30 13:10:03",
@@ -1255,18 +1255,34 @@
     {
       "added_at": "2023-06-30 13:10:03",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 141505,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "added_at": "2023-06-30 13:10:03",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2023-06-30 13:10:03",
@@ -1323,18 +1339,22 @@
     {
       "added_at": "2023-06-30 13:10:03",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-06-30 13:10:03",
@@ -1399,26 +1419,6 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2023-06-30 13:10:03",
-      "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-06-30 13:10:03",

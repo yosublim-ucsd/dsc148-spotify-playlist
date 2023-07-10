@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,689 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,735 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 |
-| 2 | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/track/1YbrWGgFMzIoO6FP1vN975) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U) | 3:54 |
+| 2 | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/track/1YbrWGgFMzIoO6FP1vN975) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U) | 3:54 |
 | 3 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 4 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
 | 5 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 |
 | 50 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
 
-Snapshot ID: `MCw4ODJkZjY4MjMyYmU2MDE5MjFhOWRjODRjOWU4Njc1Y2RjNWJmNTA0`
+Snapshot ID: `MCxkZjQzMDk4ZjkyZWMyYjlhYzFlMGU1ZjhkNTE0ODRlYTFjODhhMWEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,243 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,293 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 12 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa) | 4:03 |
 | 13 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8) | 4:38 |
 | 14 | [Yeezy](https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:21 |
-| 15 | [Loca](https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Loca](https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ) | 4:06 |
-| 16 | [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 |
+| 15 | [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 |
+| 16 | [Loca](https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Loca](https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ) | 4:06 |
 | 17 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 18 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
 | 19 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1`
+Snapshot ID: `MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0`

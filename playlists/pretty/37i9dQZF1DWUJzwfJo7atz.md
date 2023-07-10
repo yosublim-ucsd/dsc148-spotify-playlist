@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,288 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,434 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 31 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 |
 | 32 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 33 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/4HStxm6wtRzoAyOacAlHUG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 3:21 |
-| 34 | [Arms](https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Arms](https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ) | 4:04 |
-| 35 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 |
+| 34 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 |
+| 35 | [Arms](https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Arms](https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ) | 4:04 |
 | 36 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
 | 37 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
 | 38 | [Alright](https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Alright](https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 49 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 |
 | 50 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
 
-Snapshot ID: `MCwwNzg5MzFhMjhjMTUxZmMwMzI0MTE5ZjAxMTNjN2EyOTU2ZjFiNjBk`
+Snapshot ID: `MCwwN2JjNzMwNzU1MjRiNzc2OTJlN2JhOTExMWZiMTUwMzE0NjdjYThi`

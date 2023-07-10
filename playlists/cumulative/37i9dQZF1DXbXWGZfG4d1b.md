@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-464 songs - 1 day 3 hr 32 min
+465 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [El Brujo](https://open.spotify.com/track/3L0H1NGrOtUrlefj79oHCu) | [ZOOT](https://open.spotify.com/artist/114UqdsMJzbvURm08SJUwo) | [El Brujo](https://open.spotify.com/album/24dTCOWL6bOFNE8YGnyMaV) | 4:01 | 2022-07-15 | 2022-07-26 |
 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 | 2022-07-01 | 2022-07-27 |
 | [El Canto de los Pumas](https://open.spotify.com/track/2hISA6NTHJWby9sJcbylcd) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Canto de los Pumas](https://open.spotify.com/album/1HxNmgBdJrhOifXvVyG4bk) | 2:35 | 2022-07-01 | 2022-07-17 |
+| [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 | 2023-07-07 |  |
 | [El Disparo](https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Disparo](https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi) | 3:29 | 2022-06-03 |  |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2023-06-10 |
 | [El Heladero](https://open.spotify.com/track/1y6MQ82qLW8AIXpXmLHtGh) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [El Heladero](https://open.spotify.com/album/5u8PajcQdVpjFns2nUWzET) | 2:45 | 2022-07-01 | 2022-07-28 |
@@ -259,7 +260,7 @@
 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2022-07-15 |  |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-06-24 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
-| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-07-10 |
 | [Medalla de Oro](https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU) | 5:40 | 2023-03-03 | 2023-03-04 |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 | 2023-05-13 |
 | [Melodia de extrañar](https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El bosque del recuerdo](https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q) | 2:46 | 2022-07-15 | 2023-06-10 |
@@ -388,7 +389,7 @@
 | [San Camilo](https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Recordar / Volver a pasar](https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR) | 4:22 | 2023-07-07 |  |
 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 | 2022-06-03 | 2023-01-24 |
 | [Semillas de Luz](https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8) | 4:11 | 2023-01-20 |  |
-| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 | 2023-07-08 |
+| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 |  |
 | [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 | 2023-04-21 |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 | 2023-06-10 |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 |  |
@@ -418,7 +419,7 @@
 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 | 2023-07-01 |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 | 2022-07-29 |
 | [tití](https://open.spotify.com/track/7KTjV2dfbwLzl9u9O9lf1q) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [tití koi](https://open.spotify.com/album/59XcZGcub84oYnnnsN2Xsq) | 3:44 | 2022-07-01 | 2022-07-24 |
-| [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 |  |
+| [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 | 2023-07-10 |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-07-01 | 2022-07-28 |
 | [Todo Es de Fuego](https://open.spotify.com/track/3kcDHFPMWvrkFJZH2gGF1n) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Fernando Kabusacki](https://open.spotify.com/artist/2v1rArXOJ4lTA43Ibwt1OC) | [Todo Es de Fuego](https://open.spotify.com/album/6nr8ke7oIdF7Utbu9goeki) | 4:54 | 2022-07-01 | 2022-07-19 |
 | [Todo Lo Que No Decimos](https://open.spotify.com/track/7w86CwDkliaR1gPbxZHKQl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [Todo Lo Que No Decimos](https://open.spotify.com/album/0BLiaD2KVRE14aX40i79fx) | 3:27 | 2022-06-03 | 2022-07-25 |

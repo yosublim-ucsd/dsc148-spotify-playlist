@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,336 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,338 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 28 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 | 29 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDA4MjEzOTk4Mzc1MTQ0OTRmODI4YTA3NGE0Nzk4YzE0Yg==`
+Snapshot ID: `MjgxNDg0MDIsMDAwMDAwMDBkMzQ1NzRkNTMxOWM1ZWJiOGQ5ZGUxZTY2YWYwYjIzYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,357 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,120 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 26 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 27 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
 | 28 | [BORDERLINE](https://open.spotify.com/track/168uMiy76C6sXmNIpGWPlZ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [BORDERLINE](https://open.spotify.com/album/4ZqY8ln8OecGqY6AefRKmF) | 4:01 |
-| 29 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
-| 30 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 |
+| 29 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 |
+| 30 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 | 31 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 |
 | 32 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 33 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 44 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 |
 | 45 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 |
 | 46 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 |
-| 47 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
-| 48 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
-| 49 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
+| 47 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
+| 48 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
+| 49 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 50 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
 
-Snapshot ID: `MCxlYmRjNDFhMzkwZmNmYjcwYmNkNzFmMTQzMzJiMDBiNzdjM2QzYWM0`
+Snapshot ID: `MCw4M2QzNDBhZGZmYzZmYTg3MzVmNjE2ZjdhN2U3YTZjOWJkYmQ0ZGQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,071 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,097 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 51 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 |
 | 52 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 |
 | 53 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 54 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 |
-| 55 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 |
+| 54 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 |
+| 55 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 |
 | 56 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 |
 | 57 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 |
 | 58 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 |
 | 120 | [RUN \[Feat\. Young Thug\] \- Single Version](https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RUN](https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU) | 3:53 |
 
-Snapshot ID: `MCw5ODBkNDE0ZThhZGE2MjRmZGViZTUzMTU3MjUwODg3ZTcxOWQ5YTY1`
+Snapshot ID: `MCw3OWExNzFmNmQwYjUwYmEyYzNiYTYyMmUyNGYxOTZjYjE4MDE1YTRl`

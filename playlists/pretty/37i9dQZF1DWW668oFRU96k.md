@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: JAX JONES x Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,621 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,627 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 68 | [Keeping Love \- Sola Fae Remix](https://open.spotify.com/track/5WS8LisAqu0oe1BYSEdv0u) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love \(Sola Fae Remix\)](https://open.spotify.com/album/6IpYlw9sPjon156HVs76kQ) | 2:50 |
 | 69 | [The World In My Head](https://open.spotify.com/track/1IY3lGtLsdgEaxod2MdvOJ) | [Zedx](https://open.spotify.com/artist/66E29rNaIWerJcsIBf2uMd), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [The World In My Head](https://open.spotify.com/album/4viBQpuOzuGFnAWlvz4mll) | 2:21 |
 
-Snapshot ID: `MCxmNTUxY2NiNjY4ZjM0Mjk1YWQyMGEyNWQ1MWE2ZWZiNGYwNWNlMjMy`
+Snapshot ID: `MCwyNjIwZTE4ZGE5MTJiYTE5YTNkYTY4M2RkYjAxM2FhOTg1ZTBmN2U5`

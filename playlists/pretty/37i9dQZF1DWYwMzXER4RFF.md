@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,601 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,678 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 51 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
 | 52 | [Pure Mode](https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:07 |
 | 53 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
-| 54 | [Look Like That](https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 3:17 |
-| 55 | [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 |
+| 54 | [This Heat](https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:24 |
+| 55 | [Look Like That](https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 3:17 |
 
-Snapshot ID: `MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz`
+Snapshot ID: `MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh`

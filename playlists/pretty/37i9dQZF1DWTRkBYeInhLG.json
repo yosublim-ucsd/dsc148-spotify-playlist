@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 430000,
+  "num_followers": 430306,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjk2ZGQxOWJmYTBlYWM1YzI1OWY2NjdhZGI2OGE4OWYzZGMxNmFi",
+  "snapshot_id": "MCxmNDc4Y2U4MDIyOGM0MzgyN2E2Y2QwM2NiMjA0ZjQzMGQ4ZDZkN2Rh",
   "tracks": [
     {
       "added_at": "2023-07-06 04:42:19",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
+      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+    },
+    {
+      "added_at": "2023-07-06 04:42:19",
+      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 250122,
       "name": "Aku Yang Salah",
       "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
-    },
-    {
-      "added_at": "2023-07-06 04:42:19",
-      "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
-      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
     },
     {
       "added_at": "2023-07-06 04:42:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Dia Milikku",
-      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
-    },
-    {
-      "added_at": "2023-07-06 04:42:19",
-      "album": {
         "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
         "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 393072,
       "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
       "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
+    },
+    {
+      "added_at": "2023-07-06 04:42:19",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Dia Milikku",
+      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
     },
     {
       "added_at": "2023-07-06 04:42:19",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+        "name": "Selaras",
+        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+      "duration_ms": 273491,
+      "name": "Selaras",
+      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
     },
     {
       "added_at": "2023-07-06 04:42:19",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
-        "name": "Selaras",
-        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
       "artists": [
         {
-          "name": "Kunto Aji",
-          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
-        },
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 273491,
-      "name": "Selaras",
-      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     }
   ],
   "unique_name": "Santai Sejenak",

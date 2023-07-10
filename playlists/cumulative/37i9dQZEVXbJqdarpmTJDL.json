@@ -1139,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "ZERO2HERO",
+        "url": "https://open.spotify.com/album/53yOrOSttz6j2pd9a8QDCE"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/7udmENxIsfr4Ni0mhpZQU3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Alios",
+      "url": "https://open.spotify.com/track/1NbNd5S1u0RZe1BJeK4psy"
+    },
+    {
+      "album": {
         "name": "Bad Boy (Summer Hits)",
         "url": "https://open.spotify.com/album/21rySo430y5dVWknVK0JAB"
       },
@@ -7218,7 +7240,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 244215,
       "name": "Elpida",
       "url": "https://open.spotify.com/track/6y9u6j2wCh0Iq5Y128F6Oj"
@@ -10076,7 +10098,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 235384,
       "name": "High Class",
       "url": "https://open.spotify.com/track/6v2gIAboWrPhk78CyHwa6L"
@@ -23394,7 +23416,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 215797,
       "name": "Tik Tak - Mad VMA Version",
       "url": "https://open.spotify.com/track/3kT7DwQt6A9xr6jXpHL4O8"

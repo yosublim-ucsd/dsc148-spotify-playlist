@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Él Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,166 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,260 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 31 | [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 |
 | 32 | [A Rodar Mi Vida \- EADDA9223 \(feat\. David Lebón & Leiva\)](https://open.spotify.com/track/4RpN9YUbJTdkG6dcNwHI71) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:36 |
 | 33 | [Canibales](https://open.spotify.com/track/4yGyV9C9RleOjWQdDWtUxW) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Canibales](https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf) | 2:51 |
-| 34 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 |
+| 34 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 |
 | 35 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 |
 | 36 | [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 |
 | 37 | [La Noche Sin Tí](https://open.spotify.com/track/01Nl8C2RuzukJWbOfYxsU6) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [Filosopunk](https://open.spotify.com/album/0RXMKMiInn9AezTxtb9I5U) | 5:41 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 39 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 |
 | 40 | [No Aguanto Más](https://open.spotify.com/track/2cqFQ9mcQCRpW2kdvAxUPM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:46 |
 | 41 | [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 |
-| 42 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 |
+| 42 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 |
 | 43 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 |
 | 44 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 |
 | 45 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 |
 | 100 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 |
 
-Snapshot ID: `MCw4OWI2OWFjYmIyNmZkNGQ2Y2Y0OGVjZjI5YmU4NDRiMTRiNWJhZTA3`
+Snapshot ID: `MCwxNjZjNTljODljZjRiMmNlNmU5NmRjYzUwOGVmYzhlZTNmNmFmY2Y2`

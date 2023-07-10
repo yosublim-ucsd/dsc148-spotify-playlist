@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,568 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,888 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 26 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:27 |
 | 27 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 28 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
-| 29 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [3 Batidas \(Ao Vivo\)](https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4) | 2:37 |
-| 30 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
+| 29 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
+| 30 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [3 Batidas \(Ao Vivo\)](https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4) | 2:37 |
 | 31 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 32 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
 | 33 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 37 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 |
 | 38 | [Eu, Você, O Mar e Ela](https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 3:07 |
 | 39 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
-| 40 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
-| 41 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |
+| 40 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |
+| 41 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
 | 42 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
 | 43 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 44 | [Nessas Horas \- Ao Vivo](https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 50 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 |
 
-Snapshot ID: `MCwzYjZjMDUwM2MwOGU5YTM1MGRiZTM2NTk1MTI1OWI2OWVlYWE5MTYw`
+Snapshot ID: `MCxhYTQ5ODlkN2ZhODhlNjJhMGIzYzM1Y2U5MGMyZGNiN2IzNTgyZGI0`

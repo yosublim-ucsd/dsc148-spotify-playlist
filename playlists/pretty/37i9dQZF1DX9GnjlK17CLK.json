@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 103654,
+  "num_followers": 103796,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFlYmFhYTFkNzIwMzYwMjg4OTNjN2JkODQyODVlMTAxYTNmMTY3",
+  "snapshot_id": "MCxhNjQ2ZGM4NThhMzcyNmE5NjgzYmM2M2I3OWVkOGVlZTZiY2E4Mzll",
   "tracks": [
     {
       "added_at": "2023-06-16 14:13:18",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Shake Your Moneymaker",
-      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
+      "duration_ms": 207000,
+      "name": "Nine Below Zero",
+      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Nine Below Zero",
-      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
+      "duration_ms": 193626,
+      "name": "Shake Your Moneymaker",
+      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     }
   ],
   "unique_name": "Electric Blues Classics",

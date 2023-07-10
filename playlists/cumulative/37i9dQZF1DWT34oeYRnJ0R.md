@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Beéle & Farruko
 
-294 songs - 15 hr 13 min
+295 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-07-26 | 2022-09-07 |
 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-09-06 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-25 | 2022-06-01 |
+| [Bubbaloo](https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Bubbaloo](https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4) | 3:12 | 2023-07-07 |  |
 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 | 2022-09-06 | 2023-05-02 |
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-24 |  |
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2022-03-31 | 2022-06-01 |
@@ -81,7 +82,7 @@
 | [do you come here often?](https://open.spotify.com/track/0ShHM5WuJOUCexBXVi52My) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/4glGICjO9phzJWlRMZAw9r) | 2:34 | 2022-09-06 | 2022-10-14 |
 | [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 | 2022-10-09 | 2023-06-03 |
 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 | 2022-05-20 | 2022-08-12 |
-| [Down](https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:44 | 2023-06-30 | 2023-07-08 |
+| [Down](https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:44 | 2023-06-30 |  |
 | [Down](https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Down](https://open.spotify.com/album/4d2O4fr026apliDVapi0j0) | 2:44 | 2023-04-09 | 2023-07-07 |
 | [Easy](https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Easy](https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws) | 3:11 | 2023-02-03 |  |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-03-21 | 2022-09-07 |
@@ -197,7 +198,7 @@
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-03-21 | 2022-09-07 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-06 |  |
 | [NO MAN](https://open.spotify.com/track/5pZhTh1X9lQQQoknYuM3Ds) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Mike Snell](https://open.spotify.com/artist/2fxKX3blmv0SZfVvuwopd8) | [NO MAN](https://open.spotify.com/album/2QqkPOYsFBdvpFq6RFfAnz) | 3:28 | 2022-09-06 |  |
-| [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 | 2022-09-06 |  |
+| [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 | 2022-09-06 | 2023-07-10 |
 | [No Pero Sí](https://open.spotify.com/track/4S2ZWFS0PbSMbXGXkjqhEB) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí](https://open.spotify.com/album/4m5mdLW6aCgCXuo4yeq1p3) | 2:40 | 2022-03-21 | 2022-07-28 |
 | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/track/2KU8HMDJ1efeuADnnIF2fc) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/album/6ablYVrbrL5FfO04HAotjF) | 2:40 | 2022-07-26 | 2022-09-07 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-09-06 |  |
@@ -292,7 +293,7 @@
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2022-03-25 | 2022-09-07 |
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-03-21 | 2022-09-07 |
 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 | 2022-06-27 | 2022-09-07 |
-| [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 | 2022-09-06 |  |
+| [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 | 2022-09-06 | 2023-07-10 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-07-26 | 2022-09-07 |
 | [YA](https://open.spotify.com/track/5Zv97esRRGjScO2Vj6lhGt) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/0bcY8OcSd9eGMpTyl3DUj6) | 2:55 | 2022-03-21 | 2022-07-29 |
 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 | 2023-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 128435,
+  "num_followers": 128471,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjFhNGVjYThkODljYjAxMjIxMDc5N2FkMjk1YTNmZjI0MDVhNWRm",
+  "snapshot_id": "MCxjMWNhZjFhNWIwYzlmZWI5OWRjMmI4N2ZkMGNmYWM1Y2YwYTc4OTcy",
   "tracks": [
     {
       "added_at": "2023-05-03 06:47:29",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "CDIII",
-        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        }
-      ],
-      "duration_ms": 493705,
-      "name": "Love in the Night",
-      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "CDIII",
+        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        }
+      ],
+      "duration_ms": 493705,
+      "name": "Love in the Night",
+      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -571,22 +571,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+        "name": "Baby Can't Stop",
+        "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
       },
       "artists": [
         {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
         },
         {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+          "name": "Christabelle",
+          "url": "https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re"
         }
       ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+      "duration_ms": 371333,
+      "name": "Baby Can't Stop",
+      "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -603,6 +603,26 @@
       "duration_ms": 401066,
       "name": "Flott Flyt",
       "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+        }
+      ],
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -655,26 +675,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Baby Can't Stop",
-        "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Christabelle",
-          "url": "https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re"
-        }
-      ],
-      "duration_ms": 371333,
-      "name": "Baby Can't Stop",
-      "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "Tidl\u00f8s (Remixes)",
         "url": "https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Kuk Av Stal / November",
-        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
-      },
-      "artists": [
-        {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        }
-      ],
-      "duration_ms": 742331,
-      "name": "Kuk Av Stal",
-      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "Maskindans",
         "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214404,
       "name": "Maskindans - Radio Edit",
       "url": "https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Kuk Av Stal / November",
+        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
+      },
+      "artists": [
+        {
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+        }
+      ],
+      "duration_ms": 742331,
+      "name": "Kuk Av Stal",
+      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
     },
     {
       "added_at": "2023-05-03 06:47:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
-    },
-    {
-      "added_at": "2023-05-03 06:47:29",
-      "album": {
         "name": "The Point At The End Of Infinity",
         "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
+    },
+    {
+      "added_at": "2023-05-03 06:47:29",
+      "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-05-03 06:47:29",

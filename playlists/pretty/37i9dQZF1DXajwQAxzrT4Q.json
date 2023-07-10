@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 58401,
+  "num_followers": 58496,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2FjOTMxMWRhMjE2YTFkN2M3NjAyNzVjMzYzNTU0NmU0YmYwNThl",
+  "snapshot_id": "MCxjODdiYzQzYTJiZTUxNjY3NzRhNGQ0ZDlkMTExNzYzNTgwOGMzYzg4",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -643,6 +643,30 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Trenchezzz (with Nemzzz)",
+        "url": "https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Space and Time",
         "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
       },
@@ -723,30 +747,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Trenchezzz (with Nemzzz)",
-        "url": "https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ"
-      },
-      "artists": [
-        {
-          "name": "KitschKrieg",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "SFR",
-          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Trenchezzz (with Nemzzz)",
-      "url": "https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Cupid, Pt. 2",
         "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
       },
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Club Godfather",
         "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 229629,
       "name": "Level Up - Remix",
       "url": "https://open.spotify.com/track/3RzVr9cwWJUcSuPKE6Zo8N"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "POZZ",
-        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
       },
       "artists": [
         {
-          "name": "Liva\u00ef",
-          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
-        },
-        {
-          "name": "COSMO ENVOIE DES TRACKS",
-          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
         }
       ],
-      "duration_ms": 128776,
-      "name": "POZZ",
-      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+        "name": "My Back (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
       },
       "artists": [
         {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+      "duration_ms": 127503,
+      "name": "My Back (Jersey Club)",
+      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "My Back (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
+        "name": "POZZ",
+        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
       },
       "artists": [
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
         },
         {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+          "name": "COSMO ENVOIE DES TRACKS",
+          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
         }
       ],
-      "duration_ms": 127503,
-      "name": "My Back (Jersey Club)",
-      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
+      "duration_ms": 128776,
+      "name": "POZZ",
+      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
     },
     {
       "added_at": "2023-07-07 04:00:00",

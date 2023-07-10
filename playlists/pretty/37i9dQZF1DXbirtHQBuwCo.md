@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: JUNNY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,970 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,037 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 33 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
 | 34 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 35 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
-| 36 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
-| 37 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
+| 36 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
+| 37 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 38 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 |
 | 39 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 40 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 63 | [Winter blossom \(feat\. Ashley Alisha & nobody likes you pat\)](https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9) | 2:48 |
 | 64 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 |
 | 65 | [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 |
-| 66 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
-| 67 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 |
+| 66 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 |
+| 67 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
 | 68 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 69 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 |
 | 70 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 |
 
-Snapshot ID: `MCxjOTBjYjMzMTEyNzNhYzcwZGI3Mjk3MjhkYmRjNGMwOTRjNTEzN2Q3`
+Snapshot ID: `MCxmYzBlMzljY2JmODVmY2U3NDZlMzg2YTJkOGIxZjZlOGU0MDk2NTFm`

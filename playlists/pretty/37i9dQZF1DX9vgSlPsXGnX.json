@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 58939,
+  "num_followers": 59018,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2ZjZDc4NTZmMjBlODM3Mjc3ZmEzZTIyOTE2NGQ4NDUxZjJmYWZj",
+  "snapshot_id": "MCw0NjJjYjNhMWNiZTk5NmE3OWIxZDk4NGI5ZjU2M2M0NGE0ZTBlM2M0",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
-        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Santos",
         "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 176889,
       "name": "Jacarand\u00e1",
       "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
+        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Esta Noche...Billo",
         "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 147017,
       "name": "Cuando Estemos Viejo",
       "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Como un Lunar",
-      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -851,6 +851,22 @@
       "duration_ms": 205740,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Como un Lunar",
+      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -875,22 +891,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+      "duration_ms": 231493,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Tres Super Trios",
         "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 197773,
       "name": "Odiame",
       "url": "https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Trovador Solitario",
-        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jara",
-          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Trovador Solitario",
+        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
+      },
+      "artists": [
+        {
+          "name": "Pepe Jara",
+          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Mi Manera De Amar",
-      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "The Golden Record Vol. 2",
         "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 188773,
       "name": "En Mi Viejo San Juan",
       "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Mi Manera De Amar",
+      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Maria Bonita",
-      "url": "https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Exitos de Alvaro Carrillo",
         "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 280773,
       "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
       "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Maria Bonita",
+      "url": "https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh"
     },
     {
       "added_at": "2021-12-26 12:28:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,770 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,940 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 15 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
 | 16 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 17 | [I Love You, That's the Problem](https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6) | [Kochetkovv](https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d) | [I Love You, That's the Problem](https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u) | 2:22 |
-| 18 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
-| 19 | [Think About U \(feat\. Joji\)](https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Elsewhere](https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS) | 2:48 |
+| 18 | [Think About U \(feat\. Joji\)](https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Elsewhere](https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS) | 2:48 |
+| 19 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
 | 20 | [In My Eyes](https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [In My Eyes](https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di) | 1:41 |
 | 21 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
 | 22 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 25 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
 | 26 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
 | 27 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
-| 28 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
-| 29 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
-| 30 | [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 |
+| 28 | [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 |
+| 29 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
+| 30 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
 | 31 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
 | 32 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
 | 33 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 50 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 
-Snapshot ID: `MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm`
+Snapshot ID: `MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz`

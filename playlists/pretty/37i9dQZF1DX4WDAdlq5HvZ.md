@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,115 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,142 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 13 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 |
 | 14 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
 | 15 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
-| 16 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
-| 17 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
+| 16 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
+| 17 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 18 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 |
 | 19 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
 | 20 | [Breathe](https://open.spotify.com/track/3hN8RetXNOyDVhxGdkFlqA) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/5MlpCzqsff1YEgoELbodZT) | 3:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 45 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
 | 46 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
 | 47 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
-| 48 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
-| 49 | [Fearless](https://open.spotify.com/track/23rnAadbz4rxHZNEZoW1Ao) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:03 |
+| 48 | [Fearless](https://open.spotify.com/track/23rnAadbz4rxHZNEZoW1Ao) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:03 |
+| 49 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
 | 50 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
 | 51 | [Spend a Life](https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:28 |
 | 52 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 69 | [Pave](https://open.spotify.com/track/1495RSGXl41AGVT4dMwzgQ) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:30 |
 | 70 | [A Letter To My Mama](https://open.spotify.com/track/1LOqoF97FLdAPWVu9IRYy1) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Okie](https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw) | 3:36 |
 | 71 | [I'm Standing With You \- From "Breakthrough" Soundtrack](https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [I'm Standing With You \(From "Breakthrough" Soundtrack\)](https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx) | 4:05 |
-| 72 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
-| 73 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
+| 72 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
+| 73 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
 | 74 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
 | 75 | [A Mother's Prayer](https://open.spotify.com/track/1F5PuzqMF7joAGLoO86Hcf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Hymns For The Christian Life \(Deluxe\)](https://open.spotify.com/album/0ErgJiXJ7wucA4jmacB3wB) | 5:19 |
 | 76 | [Mama](https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Mama](https://open.spotify.com/album/4UIzTVq2CaK61HXnoccPj5) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 | 85 | [mama's boy](https://open.spotify.com/track/76BMsbr1S4tX3pagMY6zpr) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [mama's boy](https://open.spotify.com/album/5wBfGji20yfRgVMRe9LBHV) | 3:53 |
 
-Snapshot ID: `MCw3YmM4ODAwN2U5Njg4ZWQzMTdkNzI3ZmExYzZhMWZmZjcwZTI2ZGE0`
+Snapshot ID: `MCw2YmRhOWFkOTkxNzc2ZDdhNzFiMjc1ODA4M2NmMTY4YTdkYWM2ZTBj`

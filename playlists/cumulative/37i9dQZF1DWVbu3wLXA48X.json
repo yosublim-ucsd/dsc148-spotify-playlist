@@ -18529,6 +18529,28 @@
     },
     {
       "album": {
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359693,
+      "name": "Why Am I Alive Now?",
+      "url": "https://open.spotify.com/track/0qAFlAyvkr9iZHLg1c8xJb"
+    },
+    {
+      "album": {
         "name": "Why Am I Alive Now?",
         "url": "https://open.spotify.com/album/0ws5iXGci7npNlNR9la25o"
       },
@@ -18544,7 +18566,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 359693,
       "name": "Why Am I Alive Now?",
       "url": "https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN"

@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist
 
-155 songs - 8 hr 1 min
+156 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Fancy \(Certified\)](https://open.spotify.com/track/3xprrkNbBQCFEiTkyb8HSE) | [Myko Truth](https://open.spotify.com/artist/5laGyrSWJnEz06EFsz6AqC) | [Fancy \(Certified\)](https://open.spotify.com/album/1tO3MYFUu0srbXZisGj3Y5) | 2:47 | 2022-07-29 | 2022-08-20 |
 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 | 2023-04-14 |  |
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
+| [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 |  |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 |  |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
@@ -101,7 +102,7 @@
 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2023-04-27 | 2023-05-27 |
 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-01-20 | 2023-05-01 |
 | [NANA \(feat\. Joeboy, King Promise & BIEN\) \- Remix](https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [NANA \(feat\. Joeboy, King Promise & BIEN\) \[Remix\]](https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0) | 3:19 | 2023-05-26 |  |
-| [Never Let Me Go](https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8) | [Longitude 20](https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K) | 3:42 | 2023-04-27 |  |
+| [Never Let Me Go](https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8) | [Longitude 20](https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K) | 3:42 | 2023-04-27 | 2023-07-10 |
 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 | 2023-03-20 |  |
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nkuwe](https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Kin Bella](https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2) | [Nkuwe](https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C) | 3:41 | 2023-03-24 | 2023-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,077 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,089 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 39 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\)](https://open.spotify.com/album/70r5AZjJ8e1dw4TxqcHae5) | 3:09 |
 | 40 | [So Tell Me…](https://open.spotify.com/track/38ACDBuAIyiezIvGRE6qyB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:47 |
 | 41 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 42 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
-| 43 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
-| 44 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
+| 42 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
+| 43 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
+| 44 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
 | 45 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 46 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 |
 | 47 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 74 | [Fall Into Place](https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Fall Into Place](https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9) | 3:32 |
 | 75 | [Stuck In Love](https://open.spotify.com/track/6Hw597MDyZYBm9sLP8BTCN) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Stuck In Love](https://open.spotify.com/album/565EdGwHonCa2Gg0s1BZye) | 3:17 |
 | 76 | [Forever](https://open.spotify.com/track/0FqcLYLjgbb2VUPClORTPr) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Forever](https://open.spotify.com/album/18E1JR8Wfx1L2aALN2ekFj) | 3:42 |
-| 77 | [You Can't Stop Me \- Edit](https://open.spotify.com/track/7KneCBQD257aXmL5iinbOZ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [You Can't Stop Me](https://open.spotify.com/album/3Le3GzbvkqUzlrIwAjaMDa) | 4:05 |
-| 78 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
+| 77 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
+| 78 | [You Can't Stop Me \- Edit](https://open.spotify.com/track/7KneCBQD257aXmL5iinbOZ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [You Can't Stop Me](https://open.spotify.com/album/3Le3GzbvkqUzlrIwAjaMDa) | 4:05 |
 | 79 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCwyN2Q3YWZhZGJiMTdmZGZjYzE4YzIzMjc2ODdkZDhjNTc2ZmQwMTlk`
+Snapshot ID: `MCw4M2MxYmZlYTg5YmExMzQ5NjE5NTRhNzA4YWExYTEyZjU1OGEwYWNi`

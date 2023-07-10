@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-333 songs - 20 hr 57 min
+334 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Ownership](https://open.spotify.com/track/1ZrLIERdiwRtLpNB2egOHj) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [Ownership](https://open.spotify.com/album/2utZjk2T8s2p2T2jLd3a3L) | 3:29 | 2021-12-06 | 2022-07-24 |
 | [Paddling](https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Paddling](https://open.spotify.com/album/12cKLUnzTxo6ToFGjSEv5v) | 6:15 | 2021-12-06 | 2022-07-26 |
 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 | 2022-06-16 | 2022-12-17 |
-| [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 | 2023-02-24 |  |
+| [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 | 2023-02-24 | 2023-07-10 |
 | [Pain Killer](https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Beyondless](https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9) | 3:39 | 2021-12-06 | 2022-07-29 |
 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 | 2021-12-06 | 2022-07-28 |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 |  |
@@ -314,6 +314,7 @@
 | [These Are Not Your Memories](https://open.spotify.com/track/3IibriQcR33GG9ZDkBdLiT) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [These Are Not Your Memories](https://open.spotify.com/album/50ghcLExc0stAzU2ieijfv) | 3:20 | 2021-12-06 | 2022-07-08 |
 | [This Blue Mob](https://open.spotify.com/track/7wvtVjlEWjGy6Vyt7FQCbb) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [This Blue Mob](https://open.spotify.com/album/2a4Tl0WBJGUfVSXdp3VSPU) | 2:59 | 2021-12-06 | 2022-07-27 |
 | [This Heat](https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [This Heat](https://open.spotify.com/album/3UAosGbmzDTVQ8PksPNTIC) | 3:24 | 2021-12-06 | 2022-07-23 |
+| [This Heat](https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:24 | 2023-02-24 |  |
 | [Through Men's Eyes](https://open.spotify.com/track/48tuVRZQHhqo7CgwUCF7ub) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Through Men's Eyes](https://open.spotify.com/album/7g9UajJECtZFBez9JFW7fi) | 4:37 | 2021-12-06 | 2022-07-24 |
 | [Thrown](https://open.spotify.com/track/3ZOCZDNMUtW3iYgcDnmy8f) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Thrown](https://open.spotify.com/album/2mbIu20oNcZ7XltpzpnOwL) | 2:47 | 2022-03-03 | 2022-07-26 |
 | [To the Door](https://open.spotify.com/track/7g2lJm34prT5NF7FeQIfRQ) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [To the Door](https://open.spotify.com/album/6x8pC5Vjq0CFXijYQXdFgS) | 3:17 | 2021-12-06 | 2022-07-29 |

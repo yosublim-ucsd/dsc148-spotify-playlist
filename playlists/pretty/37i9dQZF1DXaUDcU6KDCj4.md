@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Julie Byrne
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,358 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,465 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 |
 | 150 | [Beautiful View](https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Beautiful View](https://open.spotify.com/album/3dVN0luiXkpytUScfzB1q8) | 3:27 |
 
-Snapshot ID: `MCxiYTFjNTU3N2NjNDFkZmRlNjU2MTI2NmQ2M2U5Y2VkYTkxZDlhYjUw`
+Snapshot ID: `MCxmYmUwYzllZWQ5Njk5MTMzNjUyZDA3ZTUyYWY4MjZjOGYwNjlkODQ3`

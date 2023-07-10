@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 89653,
+  "num_followers": 89704,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYyM2U4YzVmMzcyZjU2YjU1YzZkZjBlODQ0ODZiMTgyMmVjZTNi",
+  "snapshot_id": "MCwxZjcwZWMyNjRmMjI5NmMyNzU4YTU5MTQ1MjkyNGZhYWI1NWRkMWYw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:36:44",
@@ -587,22 +587,18 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 221533,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q"
+      "duration_ms": 178013,
+      "name": "23 Pt.2",
+      "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
     },
     {
       "added_at": "2023-07-07 15:36:44",
@@ -623,34 +619,22 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
-        "name": "[ Rorschach ] Part 2",
-        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "23 Pt.2",
-      "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
-    },
-    {
-      "added_at": "2023-07-07 15:36:44",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
         {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+      "duration_ms": 221533,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q"
     },
     {
       "added_at": "2023-07-07 15:36:44",
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-07-07 15:36:44",
+      "album": {
         "name": "SINK",
         "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
+    },
+    {
+      "added_at": "2023-07-07 15:36:44",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -703,6 +719,26 @@
       "duration_ms": 208746,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
+    },
+    {
+      "added_at": "2023-07-07 15:36:44",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-07-07 15:36:44",
@@ -743,26 +779,6 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-07-07 15:36:44",
-      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2023-07-07 15:36:44",
-      "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2023-07-07 15:36:44",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
-        "name": "Yearbook 2022",
-        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Dawon",
-          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
         }
       ],
-      "duration_ms": 195187,
-      "name": "Not Bad (feat. Dawon)",
-      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

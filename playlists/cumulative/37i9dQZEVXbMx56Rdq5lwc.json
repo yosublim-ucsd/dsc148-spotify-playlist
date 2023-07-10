@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 195758,
       "name": "Ap\u017eavai",
       "url": "https://open.spotify.com/track/12X9GMNhoP6tSj5ai0Kujw"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 144960,
       "name": "Bateliai",
       "url": "https://open.spotify.com/track/49Li0GSpdrMoZQYzDfOUFv"
@@ -6706,7 +6706,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 182500,
       "name": "Galima",
       "url": "https://open.spotify.com/track/3cxe7JG2c6rUTN5UKxzD4Z"
@@ -10044,7 +10044,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -16848,7 +16848,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Rast Atsakym\u0105",
       "url": "https://open.spotify.com/track/4RnLdvbfw7Uy90pc6DaXyJ"
@@ -18984,7 +18984,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 154710,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
@@ -21537,6 +21537,24 @@
     },
     {
       "album": {
+        "name": "Tu Man",
+        "url": "https://open.spotify.com/album/0oQ8njINW5FbwXGNDrCC7y"
+      },
+      "artists": [
+        {
+          "name": "Rokas",
+          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Tu Man",
+      "url": "https://open.spotify.com/track/3ZhrKFhOvoygsYIUkdxSHN"
+    },
+    {
+      "album": {
         "name": "Tu Ne\u017einai",
         "url": "https://open.spotify.com/album/0ooaVXYMj3e953S2V1G07e"
       },
@@ -21672,7 +21690,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 238551,
       "name": "T\u016b\u017eis",
       "url": "https://open.spotify.com/track/6ZeWuD9a5xLICHOsaPAZ5x"

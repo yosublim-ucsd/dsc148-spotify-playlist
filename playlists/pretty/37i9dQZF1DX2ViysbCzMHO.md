@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,670 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,760 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 81 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
 | 82 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 83 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
-| 84 | [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 |
-| 85 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
+| 84 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
+| 85 | [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 |
 | 86 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 | 87 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 |
 | 88 | [Long Live Cowgirls \- Me and a Fiddle](https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Live Cowgirls \(Me and a Fiddle\)](https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY) | 3:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 96 | [She Had Me at Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 |
 | 97 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
 | 98 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 |
-| 99 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
-| 100 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
+| 99 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
+| 100 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 
-Snapshot ID: `MCxjZWQ5ZTk5MDE0NjU3ZGQ5MDViOGE3ZTg5NGU2NzE3NDcwZDUxMWRl`
+Snapshot ID: `MCwxNGZkNjhlMTNlYWRlMzQyMmJhZDBiY2RhOGU1ZjQyZDBkZDAyZmVi`

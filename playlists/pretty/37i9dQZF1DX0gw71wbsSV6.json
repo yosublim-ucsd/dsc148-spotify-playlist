@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43766,
+  "num_followers": 43770,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTJjMjk0YWQ0MDk0YzJlZDhmZWM5YjhjNDg4YWIyMzk5NDJiYzdk",
+  "snapshot_id": "MCw0NjE1ODNlN2VmOGQ1ZWE3YzI4OWY1MGRjOGQyOGQ0ZTlhMGFhZWYy",
   "tracks": [
     {
       "added_at": "2023-07-06 15:00:00",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-07-06 15:00:00",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
+        "name": "Calm Down (Dennis Bovell dUb Remix)",
+        "url": "https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Dennis Bovell",
+          "url": "https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
+      "duration_ms": 195848,
+      "name": "Calm Down - Dennis Bovell dUb Remix",
+      "url": "https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

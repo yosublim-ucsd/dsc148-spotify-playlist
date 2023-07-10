@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-158 songs - 9 hr 33 min
+159 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [If Not for the Rain](https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [If Not for the Rain](https://open.spotify.com/album/5vuJo51lWThirFEhqYQpVm) | 5:30 | 2023-06-30 |  |
 | [If You Want It That Much](https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz) | [Cody Canada & The Departed](https://open.spotify.com/artist/0sNgjo2IC4YgJr6MF1bFS0) | [If You Want It That Much](https://open.spotify.com/album/5t1em5qrINtpfYgX9y7Qc8) | 3:34 | 2023-02-24 | 2023-05-06 |
 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2023-02-24 |  |
+| [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 | 2023-07-09 |  |
 | [Jesse](https://open.spotify.com/track/5loHd8KKK93wxEOkgGU12Q) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 3:51 | 2023-02-24 | 2023-05-11 |
 | [Jesse](https://open.spotify.com/track/7qb6DlOmbPOllTfCvmmkH6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 3:51 | 2023-05-05 |  |
 | [Kentucky Sky](https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Kentucky Sky](https://open.spotify.com/album/5CMjTjCvOAMzNDGP9tL4gF) | 3:49 | 2023-03-03 |  |

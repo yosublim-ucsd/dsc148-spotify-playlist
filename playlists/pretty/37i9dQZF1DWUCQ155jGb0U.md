@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,239 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,079 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 99 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
 | 100 | [curious/furious](https://open.spotify.com/track/2OdRGWLkvSccWOrYFlbIFF) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 3:01 |
 
-Snapshot ID: `MCw1ZGVkY2NhMjRmYjNhMmJmMWRhNjZiMzc1NmZjZTljNGYwYWU3OGM1`
+Snapshot ID: `MCwxYWNhYzYwNjM0MDVjZmQ3NDJlNzAyNWFmNjY3ZDBlYzQ5YWZiMjk1`

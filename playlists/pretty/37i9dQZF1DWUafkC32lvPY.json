@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 1648,
+  "num_followers": 1698,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDBjZDM0M2Q5NDVhZmU5YzcyZmRiY2FhZGZlMDFhMjQwNjBjZWJj",
+  "snapshot_id": "MCwwZTA1NDk0NzNhY2JhNTRlZjFlYzc4MGUyZTEzZDU4ZTdmZGNlZDMy",
   "tracks": [
     {
       "added_at": "2023-06-26 21:00:39",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
+        "name": "Like Coconut From The Tree",
+        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        }
+      ],
+      "duration_ms": 122709,
+      "name": "Like Coconut From The Tree",
+      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 138461,
       "name": "Confete e serpentina",
       "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
-        "name": "Like Coconut From The Tree",
-        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
-      },
-      "artists": [
-        {
-          "name": "Burrito Eats",
-          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
-        }
-      ],
-      "duration_ms": 122709,
-      "name": "Like Coconut From The Tree",
-      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -587,18 +583,22 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
         }
       ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
         "name": "Ascendentes",
         "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
       "artists": [
         {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     }
   ],
   "unique_name": "lofi latino",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,780 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,791 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 |
 | 50 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDAwNTRlZjI4ZDY5OTg1NjE4MWEyNTdhMTFhNDIyNjY1MA==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDA2MzM0ODg0M2YyMzFhYjRiYWU3ZDBlMTJkMzQwZjdhOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,381 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,385 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Get Together](https://open.spotify.com/track/6dpDfgEUGTNUZ3jeG2l95o) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq), [Gustav Anders](https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy) | [Get Together](https://open.spotify.com/album/3MDiWgfCJo9V7Hwdg7dY8K) | 4:00 |
 | 108 | [Frostbite](https://open.spotify.com/track/3ZDqzinpbshPYwDtue0HGD) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Frostbite](https://open.spotify.com/album/7FFkP31KXzh24bg1lB40y9) | 2:17 |
 
-Snapshot ID: `MCwxNmI0YmM4NGRjODI4NGRhYTkwMzMwOGI2YWEyNDU2NGVmY2VlNmY3`
+Snapshot ID: `MCxkMjNkMmQ1ZTQ0MTI5ODQ2Mjc4ZDQzOGE2ODEwMGVlMDAwYTE1NmI5`

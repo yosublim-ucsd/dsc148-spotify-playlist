@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,896 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,982 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 36 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 37 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 38 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 |
-| 39 | [Magdalene](https://open.spotify.com/track/7MNsTjkgyA32BetybYx742) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:31 |
-| 40 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
+| 39 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
+| 40 | [Magdalene](https://open.spotify.com/track/7MNsTjkgyA32BetybYx742) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:31 |
 | 41 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 |
 | 42 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
 | 43 | [Stop Sign](https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/39IWUYaXBd6p1DaBRq4UDO) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 |
 | 50 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
 
-Snapshot ID: `MCwxZmFmZGM0NjU2NDU2NmNjNzNmMTczNDM3ZDQzZGI3ZDIyMjJjZGI0`
+Snapshot ID: `MCw0MTkwYmI1OTQxMTBlY2I0NjViNzhjYmM2MzllZjkzMmViNWYzMjg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,465 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,635 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 27 | [10:15 Saturday Night](https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:42 |
 | 28 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 |
 | 29 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 |
-| 30 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
+| 30 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
 | 31 | [Grinding Halt](https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:49 |
-| 32 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
+| 32 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
 | 33 | [Charlotte Sometimes \- Single Version](https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith \(Deluxe Edition\)](https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T) | 4:13 |
 | 34 | [Killing An Arab](https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Staring At The Sea \- The Singles](https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB) | 2:21 |
-| 35 | [The Walk](https://open.spotify.com/track/3Q7LdGxZZ5bao5mMu0wcqX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Mark Saunders](https://open.spotify.com/artist/3QoHE4hN2waHD2jELo0x9N) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:29 |
-| 36 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 |
+| 35 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 |
+| 36 | [The Walk](https://open.spotify.com/track/3Q7LdGxZZ5bao5mMu0wcqX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Mark Saunders](https://open.spotify.com/artist/3QoHE4hN2waHD2jELo0x9N) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:29 |
 | 37 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 |
 | 38 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 |
 | 39 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [To Wish Impossible Things](https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:39 |
 | 50 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBkMTlhNDg4OGJmMTg0NTk5ZTEyMWY3MjUxN2I1ODI3Mg==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDAyNjIyOTMyNTFiMDFjYTJjYzUxNjNkNGFhMGVhN2ZmZQ==`

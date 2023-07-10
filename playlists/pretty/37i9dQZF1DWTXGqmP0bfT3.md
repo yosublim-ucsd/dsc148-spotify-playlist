@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,117 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,374 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 19 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
 | 20 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 21 | [Self\-Destruction](https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:26 |
-| 22 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 |
-| 23 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 22 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 23 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 |
 | 24 | [Vore](https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:39 |
 | 25 | [Tornado Of Souls \- 2004 Remix](https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:19 |
 | 26 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 92 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
 | 93 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
 | 94 | [Angus Mcfife](https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Tales from the Kingdom of Fife](https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE) | 3:28 |
-| 95 | [Hollowed Heart](https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e) | 3:51 |
-| 96 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
+| 95 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
+| 96 | [Hollowed Heart](https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e) | 3:51 |
 | 97 | [The Mirror And The Ripper](https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 3:59 |
 | 98 | [Over It](https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:47 |
 | 99 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 |
 | 100 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 
-Snapshot ID: `MCw3MjgxZTg3ZWQzZjhiMGY1MTNjY2FlMTA1NWY2NzVmN2JlYTgxNzI2`
+Snapshot ID: `MCxlMTcxNjY5NjUwYmRjNWZjNmYzYjUyYTNjODZhMjk1MWJjZTVkODVi`

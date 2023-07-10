@@ -1,53 +1,13 @@
 {
   "description": "M\u00fasica nueva de toda la regi\u00f3n. Foto: Rauw Alejandro",
-  "num_followers": 935958,
+  "num_followers": 936011,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJiOTcxYjk0NWIzODhmOGIyNjliYzQ3NjZlOWQ0OWUxYTQzN2Qw",
+  "snapshot_id": "MCxlYzkwNzI5ZjgwMWJhNjExYjk1NGY4Mzc5NTg1ODdkM2U2Y2RiNWZl",
   "tracks": [
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "SI TE PEGAS",
-      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "No Es Normal (con Jay Wheeler)",
-        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "No Es Normal (con Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
-    },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
@@ -87,6 +47,98 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "No Es Normal (con Jay Wheeler)",
+        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "No Es Normal (con Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Mi Lova",
+        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Mi Lova",
+      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "SI TE PEGAS",
+      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "YELIANA-Cap.3-ZHA",
         "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
       },
@@ -103,6 +155,50 @@
       "duration_ms": 140906,
       "name": "YELIANA - Cap. 3 - ZHA",
       "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "BEACHY (Play-N-Skillz House Remix)",
+        "url": "https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "duration_ms": 205163,
+      "name": "BEACHY (Play-N-Skillz House Remix)",
+      "url": "https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fiesta Loca",
+        "url": "https://open.spotify.com/album/4nofEwomkQ5V2SO7enHqgI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Fiesta Loca",
+      "url": "https://open.spotify.com/track/0cs3YvJsZNpEfzNrCl4Pl4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -143,38 +239,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Mi Lova",
-        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
+        "name": "La Parranda (RMX)",
+        "url": "https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Mi Lova",
-      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Bubbaloo",
-        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
-      },
-      "artists": [
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
         {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/2Z5mnZwec14UKyifnS4Dhd"
         }
       ],
-      "duration_ms": 192669,
-      "name": "Bubbaloo",
-      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
+      "duration_ms": 180859,
+      "name": "La Parranda - RMX",
+      "url": "https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -199,66 +283,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fiesta Loca",
-        "url": "https://open.spotify.com/album/4nofEwomkQ5V2SO7enHqgI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Fiesta Loca",
-      "url": "https://open.spotify.com/track/0cs3YvJsZNpEfzNrCl4Pl4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "BEACHY (Play-N-Skillz House Remix)",
-        "url": "https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        }
-      ],
-      "duration_ms": 205163,
-      "name": "BEACHY (Play-N-Skillz House Remix)",
-      "url": "https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "DEKKOLETERA 3",
-        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 132788,
-      "name": "La Que Yo Amo",
-      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -275,6 +299,22 @@
       "duration_ms": 177728,
       "name": "CHIQUITA",
       "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bohemian Rhapsody",
+        "url": "https://open.spotify.com/album/1Zxzxb6Bd6UBwixhklnYta"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 148723,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/57CCvAyUPTleAj9X07xP2t"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -307,22 +347,6 @@
       "duration_ms": 255000,
       "name": "B\u00c9LICO Y CHOLO (feat. Polo Gonzalez) - The Remix",
       "url": "https://open.spotify.com/track/660K6X6QHRWaErpxmBkiFN"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Bohemian Rhapsody",
-        "url": "https://open.spotify.com/album/1Zxzxb6Bd6UBwixhklnYta"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 148723,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/57CCvAyUPTleAj9X07xP2t"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -379,6 +403,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "KARINA | DJ TAO Turreo Sessions #18",
+        "url": "https://open.spotify.com/album/5XoexbXXlmolgFgXszagNE"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "KARINA | DJ TAO Turreo Sessions #18",
+      "url": "https://open.spotify.com/track/36f2jJDymsYeNmcP0VLrGV"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Hablame Claro",
         "url": "https://open.spotify.com/album/5M19NLirx8jL9YXXLPAmtQ"
       },
@@ -395,30 +439,6 @@
       "duration_ms": 144790,
       "name": "Hablame Claro",
       "url": "https://open.spotify.com/track/7G7HJ1mJK4PbxpeXLVrzn4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "La Parranda (RMX)",
-        "url": "https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/2Z5mnZwec14UKyifnS4Dhd"
-        }
-      ],
-      "duration_ms": 180859,
-      "name": "La Parranda - RMX",
-      "url": "https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -531,26 +551,6 @@
       "duration_ms": 228979,
       "name": "B\u00c9LICO",
       "url": "https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "KARINA | DJ TAO Turreo Sessions #18",
-        "url": "https://open.spotify.com/album/5XoexbXXlmolgFgXszagNE"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "KARINA | DJ TAO Turreo Sessions #18",
-      "url": "https://open.spotify.com/track/36f2jJDymsYeNmcP0VLrGV"
     },
     {
       "added_at": "2023-07-07 04:00:00",

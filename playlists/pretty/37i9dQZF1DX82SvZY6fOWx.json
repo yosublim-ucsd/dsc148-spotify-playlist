@@ -1,12 +1,12 @@
 {
   "description": "Walk on sunshine or dance on the ceiling with some feel good 80s Pop!",
-  "num_followers": 231436,
+  "num_followers": 231459,
   "original_name": "80s Popped!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTFiZWFlN2NiMDYyNWJiMzFlMzJkNjY5YTUyODA5Yzc0Njg2NjA1",
+  "snapshot_id": "MCw4MmQ1OTVkY2UyNWJhMzUwMmVhYTEyYWM0YzYwYzExYjdmY2M4Mjhh",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:37",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2022-06-08 06:25:37",

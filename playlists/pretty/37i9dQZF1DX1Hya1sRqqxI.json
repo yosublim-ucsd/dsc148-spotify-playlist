@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 279715,
+  "num_followers": 280315,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1ZDU5NGY2YjlmZTJkZWU2NzRjNTUwY2Q3M2VjN2U0ZjcwN2Qy",
+  "snapshot_id": "MCxkYjk4NWU3OTY3ZmJhZTg3MDUyM2UzNTljYjhkM2ZiMzc4NGQ2MDk4",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -939,18 +939,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
       "artists": [
         {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
         }
       ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 203866,
-      "name": "Sing a Song",
-      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2039,6 +2023,22 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Sing a Song",
+      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2073,6 +2073,22 @@
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
@@ -2091,22 +2107,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -2119,22 +2119,6 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2151,6 +2135,22 @@
       "duration_ms": 296026,
       "name": "And the Beat Goes On",
       "url": "https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2249,6 +2249,22 @@
       "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Signature Box",
@@ -2271,18 +2287,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2299,22 +2315,6 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2349,22 +2349,6 @@
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Oliver's Army",
-      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "It Only Takes a Minute: A Lifetime with Tavares",
@@ -2379,6 +2363,22 @@
       "duration_ms": 389760,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Armed Forces (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Oliver's Army",
+      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2429,20 +2429,20 @@
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     }
   ],
   "unique_name": "70s Party",

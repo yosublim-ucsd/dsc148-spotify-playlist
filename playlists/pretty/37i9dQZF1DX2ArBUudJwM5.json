@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5",
+  "snapshot_id": "MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy",
   "tracks": [
     {
       "added_at": "2023-07-05 14:25:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Marioneta",
-        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
-      },
-      "artists": [
-        {
-          "name": "Noelia Moncada",
-          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Marioneta",
-      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 303555,
       "name": "Run Run Se Fue Pa'l Norte - En Vivo",
       "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Marioneta",
+        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
+      },
+      "artists": [
+        {
+          "name": "Noelia Moncada",
+          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Marioneta",
+      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Sinergia Tanguera",
-        "url": "https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG"
-      },
-      "artists": [
-        {
-          "name": "Eliana Sosa",
-          "url": "https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Lo Han Visto Con Otra",
-      "url": "https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "Elementales",
         "url": "https://open.spotify.com/album/46JHg0NY14tkMsyhcUxqgH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 193026,
       "name": "La Caja de Viento",
       "url": "https://open.spotify.com/track/4YBFdOIi4M9zkiY2KYeIs4"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Sinergia Tanguera",
+        "url": "https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG"
+      },
+      "artists": [
+        {
+          "name": "Eliana Sosa",
+          "url": "https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Lo Han Visto Con Otra",
+      "url": "https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6"
     },
     {
       "added_at": "2023-07-05 14:25:33",

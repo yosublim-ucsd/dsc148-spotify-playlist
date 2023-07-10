@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,867 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,920 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 53 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
 | 54 | [I Imagine](https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:34 |
 | 55 | [Meissa](https://open.spotify.com/track/6qMI1FiR3eRnwmVrPmWqY3) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 8:08 |
-| 56 | [Sol](https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:02 |
+| 56 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
 | 57 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
 | 58 | [Piano Abg](https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 4:33 |
 | 59 | [Under the Water It Glowed](https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 5:09 |
-| 60 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
+| 60 | [Sol](https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:02 |
 | 61 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 |
-| 62 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
-| 63 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5) | 5:14 |
+| 62 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5) | 5:14 |
+| 63 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 64 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 65 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
 | 66 | [I'm Too Sleepy...Shall We Swim?](https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 |
 | 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCxkNjc4ZjlkMGRhNDFkNmU1Y2VkMGRlM2I4NGM4ZTFjMmZlMWMyNjQw`
+Snapshot ID: `MCwyOWY3MTMxZTkzNmU1YmEzMDNjN2ZmMTFiNjY1Y2E5MmI1YWE1ODYw`

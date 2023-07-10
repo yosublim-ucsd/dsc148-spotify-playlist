@@ -4,7 +4,7 @@
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-82 songs - 3 hr 49 min
+83 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 | 2022-11-15 |  |
 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 | 2022-11-15 |  |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-11-15 |  |
-| [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2022-11-15 |  |
+| [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2022-11-15 | 2023-07-10 |
 | [Skinnydipped](https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 | 2022-11-15 |  |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-15 |  |
 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 | 2022-11-15 |  |
@@ -78,6 +78,7 @@
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-11-15 |  |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-11-15 |  |
 | [Trust Issues](https://open.spotify.com/track/0IH3SHrsRJtmi2QTCrd1nU) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/1uEZKBOIS31DVpOb0pSBWa) | 2:20 | 2022-11-15 | 2023-07-07 |
+| [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 | 2022-11-15 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-11-15 |  |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-11-15 |  |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-15 |  |

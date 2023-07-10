@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,084 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,263 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 41 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 42 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 43 | [Alright \- Remastered](https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:23 |
-| 44 | [Romanticist](https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 1:46 |
-| 45 | [Big Subwoofer \(feat\. Snoop Dogg, Ice Cube, E\-40 & Too $hort \) \- Single Version](https://open.spotify.com/track/5GPm7PsMQwceQvfYlGXcCt) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Big Subwoofer](https://open.spotify.com/album/4eY1kgFWuWZ1DOhkqF9IHt) | 4:01 |
+| 44 | [Big Subwoofer \(feat\. Snoop Dogg, Ice Cube, E\-40 & Too $hort \) \- Single Version](https://open.spotify.com/track/5GPm7PsMQwceQvfYlGXcCt) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Big Subwoofer](https://open.spotify.com/album/4eY1kgFWuWZ1DOhkqF9IHt) | 4:01 |
+| 45 | [Romanticist](https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 1:46 |
 | 46 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 |
 | 47 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 48 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 64 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 65 | [michelin man](https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/6EtOYouH2hBGGqlo8hrP02) | 3:59 |
 | 66 | [Sad B!tch](https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Sad B!tch](https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB) | 2:15 |
-| 67 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
-| 68 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
+| 67 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
+| 68 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 | 69 | [FLOOR](https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [FLOOR](https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc) | 2:05 |
 | 70 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 | 71 | [Big Flirt](https://open.spotify.com/track/355eZ7ojdzc0ZHc7LeiwE8) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/7MzgnfEIBNiLkOVU8kHhHw) | 2:09 |
 | 72 | [Dancing Elephants](https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 5:18 |
 | 73 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
-| 74 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
-| 75 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
+| 74 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
+| 75 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 76 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 77 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 78 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [INTERTWINE](https://open.spotify.com/track/35tlXmLyuczxvxdLiQfpNu) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [VF VOL II](https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1) | 3:32 |
 | 100 | [BULLET PUT DOWN](https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [BULLET PUT DOWN](https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH) | 2:34 |
 
-Snapshot ID: `MCxlMGZlYTFjMmMxNGU5ZTFlYTY0MjI4OTYyZDdhZjE0MDk4NTQ5ZjE2`
+Snapshot ID: `MCw2YzhhNjJkNzM3NzVlMjgxNmVhMTc5MGNhNzFjMTY2YzI4NzM4ZmVi`

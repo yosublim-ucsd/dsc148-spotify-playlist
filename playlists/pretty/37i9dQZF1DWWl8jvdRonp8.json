@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 168371,
+  "num_followers": 168468,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzg4NTUwM2VhMTRiZTg3MjA2MmFkMWRjOTRhN2I2NWFjMmE3M2E1",
+  "snapshot_id": "MCxkNTM0ZjYxZGI5NjJkMGMyZDgwNDIxZjZlNjVmOWE1OTkzYjBiN2E4",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Meme del Real",
-          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 189280,
       "name": "Mi Najayita",
       "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Una Noche En Madrid",
-        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Si Te Pudiera Mentir - Live Version",
-      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Desamor y Despecho",
         "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 213080,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Una Noche En Madrid",
+        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Si Te Pudiera Mentir - Live Version",
+      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
     },
     {
       "added_at": "2023-02-24 16:30:36",

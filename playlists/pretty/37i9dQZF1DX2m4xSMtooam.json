@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 156537,
+  "num_followers": 156750,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGRkZjNjYWI3MzVhNzgyZGQ1ZTAxZjY2Yjk5NzU1YzM5YjIyNTFj",
+  "snapshot_id": "MCxlODJmNTY1MDk0MGFhMzA2MmYyYTNhNTY5MmFlODczYTZlMjliMzc5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:39:46",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 156502,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "O Melhor da Parceria",
         "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 160080,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "A Little Brighter Every Day",
         "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 265492,
       "name": "Gentileza",
       "url": "https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Meets Gustav Lundgren",
-        "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "Fotografia",
-      "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "Amalgama",
         "url": "https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 384320,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Meets Gustav Lundgren",
+        "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 230624,
+      "name": "Fotografia",
+      "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Vivendo",
-        "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
       "artists": [
         {
-          "name": "Moreno Jazz Band",
-          "url": "https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 199299,
-      "name": "Vivendo",
-      "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "River of Dreams",
-        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+        "name": "Vivendo",
+        "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Moreno Jazz Band",
+          "url": "https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr"
         }
       ],
-      "duration_ms": 183082,
-      "name": "River of Dreams",
-      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+      "duration_ms": 199299,
+      "name": "Vivendo",
+      "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
+        "name": "\u00c1guas Do Passado",
+        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "duration_ms": 142623,
+      "name": "\u00c1guas Do Passado",
+      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
-        "name": "\u00c1guas Do Passado",
-        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
-      },
-      "artists": [
-        {
-          "name": "Sara Santos",
-          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
-        }
-      ],
-      "duration_ms": 142623,
-      "name": "\u00c1guas Do Passado",
-      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
+        "name": "Cheek to cheek",
+        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Cheek to cheek",
+      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
         "name": "Praia \u00e0 noite",
         "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Cheek to cheek",
-        "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
       },
       "artists": [
         {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Cheek to cheek",
-      "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1507,22 +1523,6 @@
       "duration_ms": 218000,
       "name": "Time Passing Slowly",
       "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
-        "name": "Every Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
-      },
-      "artists": [
-        {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
-        }
-      ],
-      "duration_ms": 213931,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
-      },
-      "artists": [
-        {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 181951,
       "name": "\u00c1guas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "Brisa do Mar",
         "url": "https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1707,6 +1691,22 @@
       "duration_ms": 264584,
       "name": "Valle, M / Valle, P: So nice",
       "url": "https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Liljeholmsviken",
-        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 262408,
-      "name": "Liljeholmsviken",
-      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2023-06-20 14:39:46",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 133193,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
+    },
+    {
+      "added_at": "2023-06-20 14:39:46",
+      "album": {
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1891,22 +1891,22 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Greatest Hits Series--Paul Desmond",
-        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         },
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
         }
       ],
-      "duration_ms": 266480,
-      "name": "O Gato",
-      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
       "added_at": "2023-06-20 14:39:46",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2023-06-20 14:39:46",
       "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+        "name": "Greatest Hits Series--Paul Desmond",
+        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         },
         {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+      "duration_ms": 266480,
+      "name": "O Gato",
+      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
     },
     {
       "added_at": "2023-06-20 14:39:46",

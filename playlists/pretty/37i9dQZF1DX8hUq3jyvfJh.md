@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,017 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,010 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 12 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 13 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
 | 14 | [Não Quero \- A COLORS SHOW](https://open.spotify.com/track/09I1Tnz4lEGYHuLwXdUCu0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Não Quero \- A COLORS SHOW](https://open.spotify.com/album/7IPWbcFbB6bHNo43xYBa48) | 2:26 |
-| 15 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
-| 16 | [As feras, essas queridas](https://open.spotify.com/track/1o3XikmVtisQMUe1ASIdRx) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux como Mulher Girafa](https://open.spotify.com/album/5GT6PsXU6NutW6d197R0vU) | 4:32 |
+| 15 | [As feras, essas queridas](https://open.spotify.com/track/1o3XikmVtisQMUe1ASIdRx) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux como Mulher Girafa](https://open.spotify.com/album/5GT6PsXU6NutW6d197R0vU) | 4:32 |
+| 16 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
 | 17 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
 | 18 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 19 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
 | 24 | [Arrepiada](https://open.spotify.com/track/5lxf7rlWtF1ervIHlG6GFF) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:35 |
 | 25 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
-| 26 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
-| 27 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
+| 26 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
+| 27 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
 | 28 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD) | 3:15 |
 | 29 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
 | 30 | [eu posso ser quem eu quiser](https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [eu posso ser quem eu quiser](https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ) | 3:47 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Las Brujas](https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Las Brujas](https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs) | 3:26 |
 | 33 | [Agolonã](https://open.spotify.com/track/4Yj2m1IuKy85gEk40t89LB) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 4:21 |
 | 34 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
-| 35 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
-| 36 | [Deusa Inebriante](https://open.spotify.com/track/5jokszjIdX0MXseaJrpAWJ) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:18 |
+| 35 | [Deusa Inebriante](https://open.spotify.com/track/5jokszjIdX0MXseaJrpAWJ) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:18 |
+| 36 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 37 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
 | 38 | [Por Aqui Tá Tudo Bem](https://open.spotify.com/track/7G52l43cuNJxyVu5ciMKy1) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Por Aqui Tá Tudo Bem](https://open.spotify.com/album/4I7A1KErUent5Uk1jg7uaj) | 3:00 |
 | 39 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
 | 50 | [Insegurança](https://open.spotify.com/track/1a3RCKohK84mXO8GmlcfXb) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Insegurança](https://open.spotify.com/album/1IbDGV9gKwVftBV6JXCA6t) | 3:12 |
 
-Snapshot ID: `MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli`
+Snapshot ID: `MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk`

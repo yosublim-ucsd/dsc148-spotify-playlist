@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,549 likes - 54 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,561 likes - 54 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 53 | [PER AVERTI \(feat\. Rkomi\)](https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [PER AVERTI \(feat\. Rkomi\)](https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp) | 3:27 |
 | 54 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 
-Snapshot ID: `MCxmNDU5NjYzOTNiYjZkZmI0ZmI3NjEyNThkMzI3ZWU2YTZlNmUwMTJh`
+Snapshot ID: `MCwyYzEzZGE4YjJiNmZmZjA5OTFjZDNjMzhiNGIxZWJmYjM1MTUxZTYy`

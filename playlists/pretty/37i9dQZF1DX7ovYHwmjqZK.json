@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 186018,
+  "num_followers": 186157,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzljNzAzNTQ3YzIwNjhlNWY0YzMwM2UzMzEwMGNjZGViNDg1YTQ1",
+  "snapshot_id": "MCxmZTY3Y2IyZDllMWU3NjhhZTg4ODY4ZTMzODlmZWI0OGU0NTRhMWY0",
   "tracks": [
     {
       "added_at": "2023-07-07 06:05:01",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 247837,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "Edu & Tom, Tom & Edu",
         "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 257533,
       "name": "\u00c9 Preciso Dizer Adeus",
       "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 247837,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "As Cores das Flores",
+        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcio Moreira",
+          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "As Cores das Flores",
+      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Depressa a Vida Passa",
         "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 322202,
       "name": "Veja Bem Meu Bem",
       "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "As Cores das Flores",
-        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "M\u00e1rcio Moreira",
-          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "As Cores das Flores",
-      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -967,34 +967,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Borges",
-          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
-        },
-        {
-          "name": "Mauricio Tizumba",
-          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
-        },
-        {
-          "name": "Josi Lopes",
-          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
-        },
-        {
-          "name": "Play",
-          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "Terra Papagali Coffee Shop",
         "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
@@ -1019,6 +991,34 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Borges",
+          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
+        },
+        {
+          "name": "Mauricio Tizumba",
+          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
+        },
+        {
+          "name": "Josi Lopes",
+          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
+        },
+        {
+          "name": "Play",
+          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
     },
     {
       "added_at": "2023-07-07 06:05:01",

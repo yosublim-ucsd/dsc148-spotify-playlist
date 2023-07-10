@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Jake Owen",
-  "num_followers": 506352,
+  "num_followers": 506446,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDNkZDE3ZDE5OWRmMjY0YzFmMzBmY2I4NmExMGIyY2ZmM2NjYzZl",
+  "snapshot_id": "MCxlZWI5NjEyMTBjMjY4YWY0MDdiZTFlZWMyYzRiODAzYWVhMzIxYzYw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
+        "name": "You, Me, And Whiskey",
+        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 187226,
-      "name": "God Gave Me A Girl",
-      "url": "https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S"
+      "duration_ms": 187941,
+      "name": "You, Me, And Whiskey",
+      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "You, Me, And Whiskey",
-        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
       },
       "artists": [
         {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 187941,
-      "name": "You, Me, And Whiskey",
-      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
+      "duration_ms": 187226,
+      "name": "God Gave Me A Girl",
+      "url": "https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Drinkaby",
-        "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 182893,
-      "name": "Drinkaby",
-      "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
+      "duration_ms": 167680,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+        "name": "Drinkaby",
+        "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 167680,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+      "duration_ms": 182893,
+      "name": "Drinkaby",
+      "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Over Now",
-      "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Standing Room Only",
         "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 226090,
       "name": "Standing Room Only",
       "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Same Truck",
-        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "It Matters To Her",
-      "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Same Truck",
+        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "It Matters To Her",
+      "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Everything She Ain\u2019t",
         "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Damn Love",
-        "url": "https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai"
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Damn Love",
-      "url": "https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI"
+      "duration_ms": 212746,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Wreckage",
-        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+        "name": "Damn Love",
+        "url": "https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+      "duration_ms": 190666,
+      "name": "Damn Love",
+      "url": "https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1535,6 +1515,26 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 213718,
       "name": "One Mississippi",
       "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Last Night Lonely",
-        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+        "name": "Doing Life With Me",
+        "url": "https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 181990,
-      "name": "Last Night Lonely",
-      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+      "duration_ms": 195586,
+      "name": "Doing Life With Me",
+      "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 196026,
       "name": "Trouble With A Heartbreak",
       "url": "https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Doing Life With Me",
-        "url": "https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Doing Life With Me",
-      "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
     }
   ],
   "unique_name": "Big Country",

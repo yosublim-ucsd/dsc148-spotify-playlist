@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,041 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,094 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 68 | [Didn't They Know](https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI) | [A7 Celeb](https://open.spotify.com/artist/7nJcO36kKeP8wjrpJLLBd7), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Didn't They Know](https://open.spotify.com/album/1y9FfvkOU2YHOJ5TdVMNsT) | 3:56 |
 | 69 | [Demon Time](https://open.spotify.com/track/6pPV2SvJs34SUgDB03m1hM) | [Lil Tretre](https://open.spotify.com/artist/5MhgeUkrNBjPVhdqd2I0mp), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Demon Time](https://open.spotify.com/album/252NdEKdd1ttsOlOKWqYyY) | 2:13 |
 | 70 | [Know Me](https://open.spotify.com/track/4NFED5LmGWoE2s8DLLJdfC) | [Lucas Home](https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa) | [Know Me](https://open.spotify.com/album/1Biwvw8IsdXoNxNmu8mVZ0) | 3:14 |
-| 71 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
+| 71 | [hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
 | 72 | [Likka Sto](https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH) | [Likka Sto](https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72) | 2:10 |
 | 73 | [Games](https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Games](https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9) | 2:36 |
 | 74 | [RedRover!](https://open.spotify.com/track/5UibifuTrbIS6ctRM9GDyT) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 2:18 |
 | 75 | [Rider Music \(feat\. Heem\)](https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy) | [Jamal Gasol](https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h), [VH$](https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D) | [Tales From the Trenches](https://open.spotify.com/album/4JmLCYsKl5f07duetar98p) | 3:14 |
 
-Snapshot ID: `MCw3YzZmNzdmMTIxNjIzY2MyOGI2MWMwNjJkYmZlM2Y0OWNiZDU2Y2Y1`
+Snapshot ID: `MCxmODliYjBlOTRhODEwMjlkYzhjNGIwMDk4ODI5NWZmNjQ3NWQ1MDlh`

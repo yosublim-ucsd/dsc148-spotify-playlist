@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 183422,
+  "num_followers": 183583,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2",
+  "snapshot_id": "MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Gone To Earth (Remastered 2003)",
         "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 141120,
       "name": "Silver Moon Over Sleeping Steeples",
       "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Tiny Reminders",
         "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 90133,
       "name": "Constant Reminder",
       "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
+      },
+      "artists": [
+        {
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "L.O.S.S.",
-        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "Nobody New Around You",
-      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Lost My Body (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
         }
       ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1571,6 +1555,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,287 likes - 106 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,309 likes - 106 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 105 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 106 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MCxhMzMxNmYyNzljMjdhZTA5NDNkZjcxYzA3MzY3YmY0OGU0ODc0ZWZm`
+Snapshot ID: `MCxjZjc1OTMwY2ZmZmFhNjExZjFlZjkxZWZjYTg4ZDYyODA3YjMwZWI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,542 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 12 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 |
 | 13 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 |
 | 14 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 |
-| 15 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
-| 16 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
+| 15 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
+| 16 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 17 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 18 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 |
 | 19 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 47 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 |
 | 48 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 49 | [Gozá Gozá](https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 3:53 |
-| 50 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 |
-| 51 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
-| 52 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 |
+| 50 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 |
+| 51 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 |
+| 52 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
 | 53 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 54 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
 | 55 | [Azul](https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb) | 3:22 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 58 | [Loco Playa](https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:37 |
 | 59 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
 | 60 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
-| 61 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
-| 62 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
+| 61 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
+| 62 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 63 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
 | 64 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 | 65 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 
-Snapshot ID: `MCxjY2M2NjU0NjM3ZjE3N2NjZWU3Y2YwYWNlNGIwNjBiNmY1MDJhZjQy`
+Snapshot ID: `MCw2YTUyZDgwN2I1MGNjZTc4YWMzOWY2MzhmZjlhNmM4YzVmMWVjNTA3`

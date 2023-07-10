@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Sumbuck",
-  "num_followers": 797621,
+  "num_followers": 797716,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDMxNjllZDcyNTk5MjZlMGViYjIyZDE1Y2JmNTU4NjMxZmUxNjBi",
+  "snapshot_id": "MCwxNjRmZDZjNjdhZjg2NzlhYzczZmNiOTBmNjNhZDc1NTljMGZhNmY3",
   "tracks": [
     {
       "added_at": "2023-07-04 15:49:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Finch",
         "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168712,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 137060,
-      "name": "To Learn",
-      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Misnomer",
         "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1967,6 +1951,22 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
         "name": "Henry St.",
         "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
@@ -1979,22 +1979,6 @@
       "duration_ms": 215280,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
-        "name": "Even When I Don't",
-        "url": "https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Even When I Don't",
-      "url": "https://open.spotify.com/track/19IAe1UyxcjV3HzCt1dohV"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2035,6 +2019,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Even When I Don't",
+        "url": "https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Even When I Don't",
+      "url": "https://open.spotify.com/track/19IAe1UyxcjV3HzCt1dohV"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Somewhere in Chicago",
-        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Somewhere in Chicago",
-      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Somewhere in Chicago",
+        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Somewhere in Chicago",
+      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -2479,18 +2463,18 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
         }
       ],
-      "duration_ms": 240954,
-      "name": "Masterpiece - solo",
-      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2507,6 +2491,22 @@
       "duration_ms": 169216,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 240954,
+      "name": "Masterpiece - solo",
+      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
     },
     {
       "added_at": "2023-07-04 15:49:07",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2023-07-04 15:49:07",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
-    },
-    {
-      "added_at": "2023-07-04 15:49:07",
-      "album": {
         "name": "Juniors",
         "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+    },
+    {
+      "added_at": "2023-07-04 15:49:07",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2023-07-04 15:49:07",

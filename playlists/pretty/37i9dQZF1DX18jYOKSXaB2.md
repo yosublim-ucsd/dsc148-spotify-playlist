@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,155 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,158 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 49 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 | 50 | [Open Gate](https://open.spotify.com/track/4tKpMrJrClcxp6EAc1PeLu) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Open Gate](https://open.spotify.com/album/1KzYxd51HBeLtJ3ZW2w3TY) | 2:59 |
 
-Snapshot ID: `MCw4ZDAyY2I1ODAzMmY5NjNhZjdhNGU0MGVhOTNjMmQ1YjJhMGJmYTky`
+Snapshot ID: `MCxmNDYzMTY4OTAzNjdiNjRlNmMyMjU1NzM3YzM2NjMxODY2MmJlOTUw`

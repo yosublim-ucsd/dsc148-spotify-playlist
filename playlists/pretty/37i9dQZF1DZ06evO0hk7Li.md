@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,414 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,539 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 36 | [Coffee \(feat\. Jacob Banks\)](https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Postcards](https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p) | 2:22 |
 | 37 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
 | 38 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
-| 39 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
-| 40 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
-| 41 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
+| 39 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
+| 40 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
+| 41 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
 | 42 | [Remember](https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [I Owe You Nothing / Remember](https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr) | 4:12 |
 | 43 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
 | 44 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 | 50 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 
-Snapshot ID: `MjgxNDcwNDQsMDAwMDAwMDAxYjZhM2ZmNGEyMmY1OTg3Mjk2NTJhYWJiNDkzM2Q0MA==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDA0YjU4ZGQ2NmQyNjYzNGQ2MTA0OWYyZjJiZTMwZWVmOA==`

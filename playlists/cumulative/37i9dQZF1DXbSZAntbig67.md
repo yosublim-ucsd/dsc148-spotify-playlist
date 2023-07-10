@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-108 songs - 5 hr 21 min
+109 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [La Virgen Lleva una Rosa](https://open.spotify.com/track/28AWxwY7q1dfxacFYC7CRK) | [Coro infantil "La Alegria" y Papote y su grupo](https://open.spotify.com/artist/6Xlkdmse4pYDWT5EA7ReoC) | [Navidad para Niños](https://open.spotify.com/album/3iyk293JGoNz6oj4UYdJiL) | 2:59 | 2021-09-30 |  |
 | [Las Ardillas En Navidad](https://open.spotify.com/track/43LjCKWpwHKdfLGgCPb3aT) | [Las Ardillitas De Lalo Guerrero](https://open.spotify.com/artist/3GOlkpNORG58DAXrR7qJIa) | [20 Grandes Exitos De Navidad](https://open.spotify.com/album/0DO09SDrTVlt9bUUa0bW86) | 3:22 | 2021-09-30 |  |
 | [Last Christmas](https://open.spotify.com/track/7EwU9d3kRIthI865GqxFue) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:37 | 2021-09-30 |  |
-| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-09-30 |  |
+| [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-09-30 | 2023-07-10 |
+| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2021-09-30 |  |
 | [Lechon, Lechon, Lechon](https://open.spotify.com/track/65FCTxPblQN5fJ8ucYWRGw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 4:14 | 2021-09-30 |  |
 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 | 2021-09-30 |  |
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/7u6Na5Zer1w9PBmra42tlh) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 2:26 | 2021-09-30 |  |

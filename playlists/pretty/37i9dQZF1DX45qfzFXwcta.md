@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,579 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,673 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 89 | [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 |
 | 90 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
 
-Snapshot ID: `MCw0N2M2MTk3ZDc3MDZiNjZiMTc0MDRkOTllMmNkOTU3MjFmNTM0ZTQ1`
+Snapshot ID: `MCwyZTRkNTYxZjkzOTMyNjNjMTQ4ZWI5MjBiYjJhMmIzZjgzZmYwNGRl`

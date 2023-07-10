@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 213895,
+  "num_followers": 213940,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj",
+  "snapshot_id": "MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Infinite Love",
         "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 257367,
       "name": "Infinite Love",
       "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Tender (Remix)",
@@ -719,6 +703,42 @@
       "duration_ms": 303046,
       "name": "Tender - Remix",
       "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "And Coffee",
+        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
+      },
+      "artists": [
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        },
+        {
+          "name": "Darnell Showcase Taylor",
+          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
+        }
+      ],
+      "duration_ms": 212325,
+      "name": "Espresso Shot",
+      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -751,26 +771,6 @@
       "duration_ms": 264148,
       "name": "Lean Into It",
       "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "And Coffee",
-        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
-      },
-      "artists": [
-        {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
-        },
-        {
-          "name": "Darnell Showcase Taylor",
-          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
-        }
-      ],
-      "duration_ms": 212325,
-      "name": "Espresso Shot",
-      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -931,18 +931,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -963,18 +963,34 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1039,22 +1055,6 @@
       "duration_ms": 252946,
       "name": "Hard Work (feat. Michael O'Hara)",
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
-      },
-      "artists": [
-        {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
-        }
-      ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Church Boy",
-        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -1295,6 +1279,22 @@
       "duration_ms": 250093,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Church Boy",
+        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
@@ -1447,6 +1431,22 @@
       "duration_ms": 229640,
       "name": "Barack's Groove",
       "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1499,26 +1499,6 @@
       "duration_ms": 280106,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 294346,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1607,6 +1587,26 @@
       "duration_ms": 264151,
       "name": "Heat",
       "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2021-07-12 18:09:21",

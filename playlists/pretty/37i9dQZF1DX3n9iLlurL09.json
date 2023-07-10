@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 73378,
+  "num_followers": 73438,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh",
+  "snapshot_id": "MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-05-19 08:11:23",

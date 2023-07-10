@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU?si=86888a297c8548ab">Cory Asbury</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,870 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,012 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [Kontrol](https://open.spotify.com/track/2aQKftwToo1kNFTUczDYLz) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Kontrol](https://open.spotify.com/album/72rurKK7u8p1igB6of13RS) | 4:00 |
 | 32 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 |
 | 33 | [Life With You](https://open.spotify.com/track/1bNCQXUm3PldHEsM6Aiu3p) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Life With You](https://open.spotify.com/album/40N9JGqPnf5QziBqLETT2z) | 2:46 |
-| 34 | [Jealousy](https://open.spotify.com/track/4RYPYaq2gR7OT3pUGaoahS) | [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Scriptures Riddim](https://open.spotify.com/album/0SAoaL88b4b8hpUtjm5FJo) | 2:56 |
+| 34 | [Jealousy](https://open.spotify.com/track/4RYPYaq2gR7OT3pUGaoahS) | [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Scriptures Riddim \(Original Edition\)](https://open.spotify.com/album/0SAoaL88b4b8hpUtjm5FJo) | 2:56 |
 | 35 | [I am Loved](https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [I am Loved](https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL) | 2:48 |
 | 36 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |
 | 37 | [Burn It Away](https://open.spotify.com/track/32LZoWfLpIfffpKI0BkqUZ) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Burn It Away](https://open.spotify.com/album/2qSJxSUyGFDAvRHmr3MxCR) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 |
 | 100 | [Johnny](https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Johnny](https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY) | 1:56 |
 
-Snapshot ID: `MCxmZWI3MDYyYjMyZWQ2ZWQxNjY0OTYwMWNlYzgxNWYzNzYyNzcxNjVl`
+Snapshot ID: `MCxkYzQ1NjUxZWFhOTJmYjNiZmI2YTA5M2VkM2M1YTQzODA0NTI2NDg4`

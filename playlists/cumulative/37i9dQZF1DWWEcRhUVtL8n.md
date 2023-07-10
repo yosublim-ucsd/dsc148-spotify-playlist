@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,613 songs - 3 day 13 hr 5 min
+1,614 songs - 3 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Alone](https://open.spotify.com/track/6171vS9Jl6Onj87LjkpXiV) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Alone](https://open.spotify.com/album/62CmFD4qQ21lUSiNIjz9By) | 3:00 | 2021-10-22 | 2022-04-11 |
 | [Alone](https://open.spotify.com/track/5xTeAUdHImWMC0NwfUUVjN) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 3:39 | 2021-01-15 | 2021-01-28 |
 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 | 2022-03-04 | 2022-04-16 |
+| [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-07 |  |
 | [Already Know](https://open.spotify.com/track/5wcXX7b0aGkvrF86BuzSV2) | [ELPENTHE](https://open.spotify.com/artist/5neRLK08a8gW8GHTiev0hY), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Already Know](https://open.spotify.com/album/1TtD0tM0553ENDdBjrvFmN) | 2:53 | 2022-04-25 | 2022-07-19 |
 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 | 2022-04-08 | 2022-04-21 |
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2020-10-16 | 2022-04-20 |
@@ -801,7 +802,7 @@
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
-| [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2023-03-31 |  |
+| [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2023-03-31 | 2023-07-10 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-24 | 2023-04-04 |
 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 | 2023-01-15 |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,962 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,000 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 18 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |
 | 19 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 |
 | 20 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
-| 21 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
-| 22 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
+| 21 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
+| 22 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
 | 23 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
 | 24 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
 | 25 | [Bochinchosa](https://open.spotify.com/track/7L4eODuSL77fkoVioQD0Mo) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Estamos Haciendo Algo Bien!](https://open.spotify.com/album/6qbLn5WNxrKGzzYQENyUmX) | 3:23 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 30 | [Mambo](https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Cuba Salsa Sabrosa Vol\. 2](https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT) | 3:12 |
 | 31 | [Que Rico](https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 2:56 |
 | 32 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
-| 33 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
-| 34 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
+| 33 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
+| 34 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
 | 35 | [Baile Mi Mambo](https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Besame Mucho and More Golden Hits](https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig) | 3:07 |
 | 36 | [Buchipluma Na' Ma'](https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 5:26 |
 | 37 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Blen, Blen, Blen](https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito No\. 1](https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn) | 3:17 |
 | 50 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
 
-Snapshot ID: `MCwwZDc1OTg1ODc0MzQyMDQ1ZGJiNGI5NjYwNDQ2MjljYmI1OGNjYTIz`
+Snapshot ID: `MCw5NDYxYjhmNzQ2ZGU4ZWM3NTNmMjQ0ZmUxOWM4YTI1Zjg0ZjA2ZThh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,866 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,845 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Papi De Azucar \(feat\. Ilmato\)](https://open.spotify.com/track/4kDuyk86lSyaFI934do4rU) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2), [Ilmato](https://open.spotify.com/artist/1HhwVZkxG8aou7IY3CbBLz) | [Papi De Azucar \(feat\. Ilmato\)](https://open.spotify.com/album/2cDQ3AsftUmiuJklofF2Vd) | 3:20 |
 | 50 | [TU MIRADA](https://open.spotify.com/track/5eo0RRedwSBqOqZjZxZNZy) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [LYON808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc), [Noah Kickback](https://open.spotify.com/artist/67pMmFgxUhP6W7ro3mX15c) | [CNTRL](https://open.spotify.com/album/6StSmIVCCvWMiV4EHkTcdD) | 2:45 |
 
-Snapshot ID: `MCw5Y2YzZTM5ZWRhYzBkMzZkZTg3ZmU2M2Y5OThjMDA4ZmY5ZDIwMzFh`
+Snapshot ID: `MCxhOTM2NmZmM2ZmZDk3MjFkMDFlNWQ1NDFjMzA2ZTY2OTQyYzZmOWY0`

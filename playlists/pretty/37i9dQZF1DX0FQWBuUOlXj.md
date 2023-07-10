@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,540 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 49 | [Mandolin Wind](https://open.spotify.com/track/4sWZwY8RQfK6Fc2pYC7tN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:36 |
 | 50 | [From Both Sides Now](https://open.spotify.com/track/4e6Y85KHKWhn9EdguhfB6l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [David Jaggs](https://open.spotify.com/artist/2M6D03CV5HO5J5lqOnNQRJ) | [Solo](https://open.spotify.com/album/6TKewkXqDeg8q2lqzNXTmZ) | 3:09 |
 
-Snapshot ID: `MCwyMjNiZjNmOTQyYWI1OGUwN2FiMzQ0OWRjZjdjNjJlMjE5YmVlNWUz`
+Snapshot ID: `MCwwY2IzOTY3MDM5OGY2MTZiNzY1MDU4ZDk5YzA2MDUxNDFlYTZhMzZl`

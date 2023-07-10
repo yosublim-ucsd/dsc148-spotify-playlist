@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,185 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,194 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 37 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 |
 | 38 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 | 39 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
-| 40 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 |
+| 40 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 |
 | 41 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 |
 | 42 | [722](https://open.spotify.com/track/2ib0FnnI0zXtaEl97Ne4KL) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [722](https://open.spotify.com/album/5yjY5yfVnICnlK7xc5m0MF) | 3:39 |
 | 43 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 |
 | 50 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 |
 
-Snapshot ID: `MCxhZGJjMzQ5NGNlMDA4Y2E3MGUxNGQzYWRmNDZiNzg4YmI1YjQ3NWJm`
+Snapshot ID: `MCxjNzk4MmZmMGU0NDE2YzlhM2FiODAwZmMwZGIwYzk3MmEwOGE5MjA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,693 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,825 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 21 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
 | 22 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
 | 23 | [I Waited For You \- Remastered 1998](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
-| 24 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
-| 25 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
+| 24 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
+| 25 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
 | 26 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 |
 | 27 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 |
 | 28 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 56 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 |
 | 57 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 |
 | 58 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
-| 59 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 |
-| 60 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
-| 61 | [It's Easy To Remember](https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5) | 2:45 |
+| 59 | [It's Easy To Remember](https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5) | 2:45 |
+| 60 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 |
+| 61 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
 | 62 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
 | 63 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
 | 64 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 70 | [I Had The Craziest Dream](https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Blues In Trinity](https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy) | 3:05 |
 | 71 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 5:16 |
 | 72 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 |
-| 73 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
-| 74 | [Night Hawk](https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Night Hawk](https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t) | 10:29 |
+| 73 | [Night Hawk](https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Night Hawk](https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t) | 10:29 |
+| 74 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
 | 75 | [Autumn Breeze](https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 3:09 |
 | 76 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 7:22 |
 | 77 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 |
 | 100 | [You Leave Me Breathless](https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Turning Point](https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96) | 7:25 |
 
-Snapshot ID: `MCxlZWM1ZTk4ODhlNDMxZDU0YWQwMGVjYjE5YTA0MGFmYTQ3NDFkYTcx`
+Snapshot ID: `MCxmNTdmZTYzNGMwOTZmMjk0MDI4MmY1MjBjZGVmYmU3NWU4ZjY4YTI1`

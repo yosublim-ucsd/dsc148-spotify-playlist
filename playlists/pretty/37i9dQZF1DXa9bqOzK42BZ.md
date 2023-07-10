@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,218 likes - 60 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,229 likes - 60 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
 | 60 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 |
 
-Snapshot ID: `MCxhNDRmNzk5YTgyMTFkZmEwNTQ4MzkwZjU0YjdhYzA2OTQ3YjJjMjA2`
+Snapshot ID: `MCxlNmRhYzgzNWM0MDE1ZDJiZmY3NGNhMjllNGRhZDkyOTUyNGNiNTUz`

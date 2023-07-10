@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,773 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,779 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 25 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
 | 26 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 |
 | 27 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
-| 28 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
-| 29 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 |
+| 28 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 |
+| 29 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 30 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 |
 | 31 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 | 32 | [Liar Liar](https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA) | [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [Where I Belong](https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF) | 3:33 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 35 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 36 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 |
 | 37 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
-| 38 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
-| 39 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
+| 38 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
+| 39 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 40 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 | 41 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
 | 42 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 46 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 |
 | 47 | [Kite in a Hurricane](https://open.spotify.com/track/07zuDFfCjjxjr6xve7rKDI) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/0Hq69eXXaoGvrVUSOLJrPb) | 3:19 |
 | 48 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
-| 49 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
-| 50 | [30](https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14), [m\. demian](https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo) | [30](https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn) | 4:03 |
+| 49 | [30](https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14), [m\. demian](https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo) | [30](https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn) | 4:03 |
+| 50 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
 | 51 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
 | 52 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
 | 53 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [Beach \- Acoustic](https://open.spotify.com/track/5omA7G0GjJB25avB53akJi) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Beach \(Acoustic\)](https://open.spotify.com/album/4lLeaaWEwl7C3Ykjltf8do) | 3:21 |
 | 70 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 |
 
-Snapshot ID: `MCxmMDE4NGNiOWZjOGE4OWI1ODBjMTJmMDRmYWE4ZDYzMDExODgxYzFh`
+Snapshot ID: `MCw2YTJiMGRkOTI0N2ViZDM0MWI4ZmFiMjJiYmZhYmY3ZmI3ZGU5YWU3`

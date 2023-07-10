@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,878 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,664 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 39 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 40 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 |
 | 41 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
-| 42 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
-| 43 | [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 |
+| 42 | [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 |
+| 43 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
 | 44 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 |
 | 45 | [Bichiyal](https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:16 |
 | 46 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 |
 | 47 | [Las Bratz \(Remix\)](https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [Las Bratz \(Remix\)](https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge) | 7:24 |
 | 48 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
 | 49 | [BELLAKITA](https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BELLAKITA](https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju) | 2:12 |
-| 50 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 |
+| 50 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 
-Snapshot ID: `MCwwZTQzMGY4NTJmYTU2MzYyOGQ5ZWZjNmY4YmZhNmY4ZDFjZDdjNjUz`
+Snapshot ID: `MCw4YTk2MTg2OTNlOTM5MGUzN2E4YTZlZWNhOTlmZDAzODU5NmQzMTk1`

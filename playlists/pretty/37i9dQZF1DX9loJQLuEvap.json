@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: Tina Turner",
-  "num_followers": 1691545,
+  "num_followers": 1692010,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzFmNjI0ZTQ3YjZhOTZjODUzZWZmZGJhMjZhNWJjNzJlNzcwYWJm",
+  "snapshot_id": "MCxkNTlkNzdkOTAzYTM0ODA2NzBjN2E5ZTZhYmVhYTNlNTZkMzgxMWJk",
   "tracks": [
     {
       "added_at": "2023-07-03 14:02:35",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-03 14:02:35",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 326533,
-      "name": "Ex-Factor",
-      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2023-07-03 14:02:35",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2023-07-03 14:02:35",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
       "added_at": "2023-07-03 14:02:35",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-03 14:02:35",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2023-07-03 14:02:35",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "added_at": "2023-07-03 14:02:35",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2023-07-03 14:02:35",

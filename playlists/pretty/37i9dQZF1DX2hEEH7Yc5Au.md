@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 楊乃文 \(Naiwen Yang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,920 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [很愛很愛你](https://open.spotify.com/track/3QGCfNhrkC1H55inex8red) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [很愛很愛你](https://open.spotify.com/album/0PzGTds00YDYDzdkQKBwtJ) | 4:43 |
 | 50 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 
-Snapshot ID: `MCxhM2FmZmMwZWRiYjFlYzNmMzgxNmRkYzYxNTMyZTVjZmE4MTEwZDY3`
+Snapshot ID: `MCw1YTNmNTE0YmJiMTY2NDVlZTczYjZmYTZmNjU1YThjOTcwZWU1NzQz`

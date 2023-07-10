@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,023 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,039 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 29 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 30 | [Clap Your Hands](https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:09 |
 | 31 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
-| 32 | [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 |
+| 32 | [Kiss It Better](https://open.spotify.com/track/1Ue5gYvT2MUkBl6mpbwAF5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:17 |
 | 33 | [Sinner](https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT) | 3:58 |
 | 34 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 |
 | 35 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 70 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 71 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 72 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 |
-| 73 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 |
+| 73 | [Mine O Mine](https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:13 |
 | 74 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 75 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 |
 
-Snapshot ID: `MCwwZDBkODQxOTI4M2ZmMWY1ZjRjMDRiZjQ5MDhmYjA5YzcyZjZjNDdm`
+Snapshot ID: `MCxjNGNmOWQzMjU5MjVmZjEyNmIxMjE5ZDcyNzg0YjllMmE5ZGYwMjlm`

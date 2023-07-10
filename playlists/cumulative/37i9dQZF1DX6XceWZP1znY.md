@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-769 songs - 2 day 2 hr 43 min
+770 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 | 2022-06-07 |  |
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 |  |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 | 2023-02-01 |
-| [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-05-01 |  |
+| [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-05-01 | 2023-07-10 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 |  |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2022-06-07 | 2022-07-29 |
 | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/track/3trDDFEgtDSKB0jKP1h4TA) | [LUPIN THE THIRD JAM CREW](https://open.spotify.com/artist/456hbu6d4Jcfdo1xWH5iJc), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/album/61F5JVKzCzupihtfq51T3k) | 3:57 | 2022-06-07 | 2022-07-23 |
@@ -773,6 +773,7 @@
 | [風に吹かれて](https://open.spotify.com/track/4BQgbUodnb7th8UhjX8nuZ) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/0APY6iqv5wrIhRvBPBzx5C) | 4:31 | 2022-06-07 | 2022-07-29 |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-11 | 2022-09-29 |
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-06-07 | 2022-07-27 |
+| [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-07 |  |
 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 | 2022-06-07 | 2022-11-17 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-06-07 | 2022-07-13 |
 | [麻痺](https://open.spotify.com/track/1LwSnnsoKcAUv9TPFEZ7iQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV) | 3:18 | 2022-06-07 |  |

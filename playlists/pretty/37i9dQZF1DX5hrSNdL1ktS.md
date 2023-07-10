@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,444 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,468 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 14 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 |
 | 15 | [MUAY THAI](https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [MUAY THAI](https://open.spotify.com/album/4Fb83Vq6urEz8svWD7bCmQ) | 2:47 |
 | 16 | [Sex a Otro Nivel](https://open.spotify.com/track/5OfTSNKWRhM9WvNL2443Of) | [Efe Baby](https://open.spotify.com/artist/1ezrMxapdeMeP6a7brwkWq), [Jay Rivas](https://open.spotify.com/artist/4JsvlA9mnTHiJm1U1GpEtb) | [Sex a Otro Nivel](https://open.spotify.com/album/7qgFES63jELIQmX1QcgUFC) | 2:57 |
-| 17 | [BOXXITA](https://open.spotify.com/track/1lLbuH3Iw2wBea0rFpNSHq) | [Barbie beat](https://open.spotify.com/artist/3XPACYhBGd2y2wX5yq4JiR), [Big G](https://open.spotify.com/artist/3QSUlv6DHtHvPeWlJ4CzVU) | [BOXXITA](https://open.spotify.com/album/0xYxayVSJKSlVO1fJjph5f) | 3:36 |
+| 17 | [BOXXITA](https://open.spotify.com/track/1lLbuH3Iw2wBea0rFpNSHq) | [Barbie beat](https://open.spotify.com/artist/3XPACYhBGd2y2wX5yq4JiR), [Big G](https://open.spotify.com/artist/4MHDEUphdVReOumcPudUxF) | [BOXXITA](https://open.spotify.com/album/0xYxayVSJKSlVO1fJjph5f) | 3:36 |
 | 18 | [Coca](https://open.spotify.com/track/2hLAVhXhe5O6rPyHfUfH3C) | [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Coca](https://open.spotify.com/album/2nUNuWgE7XdFNocY3KG9N4) | 1:39 |
 | 19 | [Dosis](https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [KarloH](https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk) | [Dosis](https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM) | 2:47 |
 | 20 | [Morrita](https://open.spotify.com/track/5Pzzu7TwNaML451aIPrBAJ) | [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm) | [Morrita](https://open.spotify.com/album/5sKePlosokIdWtO99vYKLA) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 99 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 100 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 
-Snapshot ID: `MCw4OTRiMTI2NzZhMTRlNzNmNzA2OTg0NDYyNThmY2RmMTYxOTQ2YWQ1`
+Snapshot ID: `MCxjMmZjMThhOGQzMGYyOTkzZDJhNGEzNzkwZTEwN2I2ZjgxOGE3OTli`

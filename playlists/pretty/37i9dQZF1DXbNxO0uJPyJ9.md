@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,244 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,461 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 52 | [Always on My Mind / In My House \- 2018 Remaster](https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 9:04 |
 | 53 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 54 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
-| 55 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
-| 56 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
-| 57 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
-| 58 | [Dolce Vita \(Extended Version\)](https://open.spotify.com/track/2eQomd6Smp8EGRjvvkIs56) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Dolce Vita](https://open.spotify.com/album/5fqLQ6AOBdz8CaHswljPSe) | 7:32 |
+| 55 | [Dolce Vita \(Extended Version\)](https://open.spotify.com/track/2eQomd6Smp8EGRjvvkIs56) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Dolce Vita](https://open.spotify.com/album/5fqLQ6AOBdz8CaHswljPSe) | 7:32 |
+| 56 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
+| 57 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
+| 58 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
 | 59 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 60 | [Relax \- New York Mix](https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Bang! \(Here Comes A Supernova\)](https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm) | 7:23 |
 | 61 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
 | 62 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
-| 63 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
-| 64 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
+| 63 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
+| 64 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
 | 65 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
 | 66 | [Pale Shelter \- Long Version](https://open.spotify.com/track/1UfMmncg5kMuPBRlAx8Jtd) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 7:06 |
 | 67 | [Welcome To The Pleasuredome \- Escape Act Video Mix](https://open.spotify.com/track/7uax3VSQHWtYXX19JQGDJT) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Twelve Inches](https://open.spotify.com/album/0GJLjFeSsctGR8YeDnchOr) | 5:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |
 | 80 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 |
 
-Snapshot ID: `MCwyMWVlYzE5YzA0NmYzNGI1MWIwZWY1MTU4NTQ3YTQwNzZjZWY4NGQ2`
+Snapshot ID: `MCxjY2U1ZDRlNzY5NWEyN2JiMmZlZGE1ZjhlNGYzMzUzY2QxOGMwZjg0`

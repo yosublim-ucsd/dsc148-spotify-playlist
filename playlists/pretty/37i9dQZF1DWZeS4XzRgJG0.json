@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 23168,
+  "num_followers": 23167,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmNkZDJjZWJjYWM0NGY3NzQ2MDQxMTU0YWVhZWI0ZjcyMWEyYTk3",
+  "snapshot_id": "MCxlYTMwYTU0M2Q0NTQ0YWZiYzgxYzZhMTFkYTQ3MzhkZmE0YzE1ZDA4",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
-      },
-      "artists": [
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 251033,
-      "name": "i hate u, i love u (feat. olivia o'brien)",
-      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "us",
+        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 251033,
+      "name": "i hate u, i love u (feat. olivia o'brien)",
+      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Feel Something (Deluxe)",
-        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Feel Something (Deluxe)",
+        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "First Love (The Original & the Very First Recording)",
-        "url": "https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "River Flows In You",
-      "url": "https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "First Love (The Original & the Very First Recording)",
+        "url": "https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "River Flows In You",
+      "url": "https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "...As Heard In",
         "url": "https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 226986,
       "name": "So Cold (The Good Wife Trailer)",
       "url": "https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 189000,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 224743,
-      "name": "You Said You'd Grow Old With Me",
-      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 196133,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 207106,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/1Ob94QesoxHSBrypyBbdfd"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
     },
     {
       "added_at": "2023-05-12 08:21:15",

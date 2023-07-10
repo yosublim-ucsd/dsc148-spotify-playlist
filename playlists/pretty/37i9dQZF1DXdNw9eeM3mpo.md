@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,117 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,209 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 62 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 63 | [Rudi Not Dead](https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 4:26 |
 | 64 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
-| 65 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
-| 66 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
+| 65 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
+| 66 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
 | 67 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
 | 68 | [Fuera de Ritmo](https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7) | [Fuerza Dread](https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Fuera de Ritmo](https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av) | 4:24 |
 | 69 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 77 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
 | 78 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
 | 79 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
-| 80 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 81 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |
+| 80 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |
+| 81 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
 | 82 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 83 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
 | 84 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 86 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
 | 87 | [Liguei Sem Querer](https://open.spotify.com/track/3RjaZCXV3P7L13gtqY3jQO) | [Canela'](https://open.spotify.com/artist/1TvwwBBcYKbg3AXy6Vfc3a) | [Liguei Sem Querer](https://open.spotify.com/album/06C61f2nBOvhu5xzpDO97e) | 2:45 |
 | 88 | [Mezcal](https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Mezcal](https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL) | 3:15 |
-| 89 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
-| 90 | [Recuerdos](https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Mugre](https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835) | 3:42 |
+| 89 | [Recuerdos](https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Mugre](https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835) | 3:42 |
+| 90 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
 | 91 | [Crimen en el Paraíso](https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Crimen en el Paraíso](https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3) | 3:32 |
 | 92 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 |
 | 93 | [El Rey](https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV) | [Eskina Opuesta](https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq) | [El Rey](https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Osito Dormilón \(feat\. Tony Hernandez El Gran Silencio\)](https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Tony Hernández El Gran Silencio](https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:06 |
 | 100 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
 
-Snapshot ID: `MCwyNjg2MDFlNzQxODU5YTAwMTdiYmUzZjNjZDAxMTI4MzVhMTBiODgz`
+Snapshot ID: `MCxlZTUyOGQ3MGNmNWRiMmQ2ZDE3NjJjMTQwOGIxNzQ5NDMzYzYwMjhi`

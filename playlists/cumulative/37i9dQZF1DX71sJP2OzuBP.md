@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-831 songs - 2 day 6 hr 13 min
+832 songs - 2 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [X \(feat\. KIRE\)](https://open.spotify.com/track/2ftvVKHtXgV1PjD46eQDjr) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [180: Athena](https://open.spotify.com/album/3gfBM8tB7QXoWqU2MATvyy) | 2:47 | 2023-05-22 | 2023-06-06 |
 | [You are my magic](https://open.spotify.com/track/1fnEaGJPQoedHBuCjU3hlm) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [Rose Says](https://open.spotify.com/album/5iKqTkwEkWS6a8ZUdodUJY) | 4:18 | 2022-07-04 | 2022-07-19 |
 | [You were.](https://open.spotify.com/track/6dnIcqUXm5e0QlDltZy9Z7) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [You were.](https://open.spotify.com/album/5fvl9jkqhwu5yypETpmOq2) | 4:18 | 2022-08-29 | 2022-11-15 |
-| [Your Wonderland](https://open.spotify.com/track/1bCic9TNRY5QJUTfltAeab) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Your Wonderland](https://open.spotify.com/album/2CUaWKZyOGvwI3JCJzU3Ok) | 3:17 | 2023-06-19 |  |
+| [Your Wonderland](https://open.spotify.com/track/1bCic9TNRY5QJUTfltAeab) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Your Wonderland](https://open.spotify.com/album/2CUaWKZyOGvwI3JCJzU3Ok) | 3:17 | 2023-06-19 | 2023-07-10 |
+| [Your Wonderland](https://open.spotify.com/track/72pbOlpce4MCAN5FGjYqqv) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Wonderland](https://open.spotify.com/album/0L12VIXz90UnhFRBtPXG8z) | 3:17 | 2023-07-03 |  |
 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 | 2022-11-21 | 2022-12-06 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-10-18 |
 | [《聊聊》\(喜马拉雅十周年特别企划主题曲\)](https://open.spotify.com/track/6hVklMOQVvNnPFBWb9CeC7) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [《聊聊》\(喜马拉雅十周年特别企划主题曲\)](https://open.spotify.com/album/05QDS5reeFEcGNxrMHL3X6) | 4:00 | 2022-08-15 | 2022-09-06 |

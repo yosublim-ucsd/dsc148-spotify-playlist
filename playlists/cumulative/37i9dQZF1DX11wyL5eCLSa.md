@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Enrique Bunbury en Portada.
 
-318 songs - 19 hr 15 min
+321 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-04-14 | 2023-06-24 |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-12 | 2023-07-08 |
 | [Despiértame](https://open.spotify.com/track/5mLWU71Qwb0QTNdbgTlMJr) | [O Tortuga](https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK) | [Despiértame](https://open.spotify.com/album/20GQd8n1lRT9GEOvPVwuIo) | 3:45 | 2022-10-28 | 2022-11-26 |
-| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 |  |
+| [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-07-07 |  |
+| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-07-10 |
 | [Diosito](https://open.spotify.com/track/17BSIxhmwh5He7UzguwJPs) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Diosito](https://open.spotify.com/album/4ell8Y3YqPm4xtFKBAzSwV) | 2:42 | 2022-08-09 | 2022-08-19 |
 | [Documentales](https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Giallo](https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo) | 3:43 | 2022-05-27 | 2023-02-18 |
 | [Domingo](https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv) | 3:32 | 2022-07-22 | 2023-03-04 |
@@ -100,7 +101,8 @@
 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 | 2021-12-17 |  |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 |  |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-20 | 2022-07-02 |
-| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 |  |
+| [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
+| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 |  |
 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 | 2021-12-17 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 | 2022-07-21 |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 |  |
@@ -187,7 +189,8 @@
 | [Me la Pelas](https://open.spotify.com/track/3lSqRMbUmnQqxbLbxj0t5x) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Me la Pelas](https://open.spotify.com/album/6pB4owcjhJldY4FzYcsm7O) | 2:36 | 2023-02-10 | 2023-02-22 |
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
-| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-07-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 | 2023-07-07 |  |
 | [Mejor Que Antes](https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Mejor Que Antes](https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL) | 4:20 | 2023-05-26 | 2023-06-24 |
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 |  |
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 |  |

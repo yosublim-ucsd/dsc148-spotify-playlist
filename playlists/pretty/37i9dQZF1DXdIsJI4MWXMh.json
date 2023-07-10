@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 56063,
+  "num_followers": 56112,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk",
+  "snapshot_id": "MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Fue Dif\u00edcil",
+        "url": "https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 224931,
+      "name": "Fu\u00e9 Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Fue Dif\u00edcil",
-        "url": "https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 224931,
-      "name": "Fu\u00e9 Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Cumpliendo Sue\u00f1os",
         "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
       },
       "artists": [
         {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -395,34 +395,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "De Fiesta Con los Braos",
+        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 267335,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "En 3d y a Todo Color",
         "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223085,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
-      },
-      "artists": [
-        {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Aliado del Tiempo",
         "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 186768,
       "name": "El R 15",
       "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        }
+      ],
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
-      },
-      "artists": [
-        {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        }
-      ],
-      "duration_ms": 337535,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        }
+      ],
+      "duration_ms": 337535,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "\u00c9xitos de Antolog\u00eda",
-        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Las Flores de Tu Florero",
-      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174033,
       "name": "La Puntada",
       "url": "https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "\u00c9xitos de Antolog\u00eda",
+        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
+      },
+      "artists": [
+        {
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Ella, La Que No Quiso",
         "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 275676,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2023-05-29 14:34:48",

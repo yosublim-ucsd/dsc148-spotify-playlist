@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 670079,
+  "num_followers": 670185,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODU0NTc1ZTRkNzgwOTU4NWNlOTdiNDBlYzg2YjVmMWUzNTNiNzc1",
+  "snapshot_id": "MCwyNzk2N2M0NmIyYTQ0YjI2MGZmOWNlYTJjNTRmM2U3OTQ5NDBjODM0",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Citrona",
         "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 261734,
       "name": "August",
       "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1407,38 +1423,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "I Wish I Was the Moon",
-      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 191280,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
       "added_at": "2023-07-07 04:00:00",

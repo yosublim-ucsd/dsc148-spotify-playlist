@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,314 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,417 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 13 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
 | 14 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
 | 15 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 |
-| 16 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
-| 17 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
+| 16 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
+| 17 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
 | 18 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 19 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
 | 20 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 28 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
 | 29 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
 | 30 | [Um Corpo no Mundo](https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 6:25 |
-| 31 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
-| 32 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
-| 33 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
-| 34 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
+| 31 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
+| 32 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
+| 33 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
+| 34 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 35 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 |
 | 36 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 | 37 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 | 60 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
 
-Snapshot ID: `MCwwY2E5ODg4NWRiOGJlZmU5MjZhYzdkMGE3ODFiMzU5MTg3MGJlOTc2`
+Snapshot ID: `MCxmODg3NWRkN2YzODA1YjBkMWMzZjcyYTA0OTgwNGNiNzRjNjVkMmM1`

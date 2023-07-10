@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 88771,
+  "num_followers": 88805,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWMzNWU5MGM4MDdlYmRlNDg5MWQ5NzY5ZjgzZGRjODZlOWJlYjZk",
+  "snapshot_id": "MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "How Far",
-      "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Same God (Radio Version)",
         "url": "https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 264269,
       "name": "Same God - Radio Version",
       "url": "https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 187205,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/6BgmTvXhhGIYXW7EbPdtUV"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/4S5n7jpEICqOQupHEB43g6"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Facing A Task Unfinished",
         "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 229252,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/6BgmTvXhhGIYXW7EbPdtUV"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat",
-      "url": "https://open.spotify.com/track/4S5n7jpEICqOQupHEB43g6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Only You Can Do It",
         "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 140347,
       "name": "Only You Can Do It",
       "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
+        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
+      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 215800,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "God Is On The Throne",
         "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1603,6 +1587,38 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Free at Last",
+        "url": "https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Free at Last",
+      "url": "https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1635,22 +1651,6 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Free at Last",
-        "url": "https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Free at Last",
-      "url": "https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 926241,
+  "num_followers": 926392,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODJmZjFkNjRjMDM4NzNhMjNiZGJjNDMxYmFmNjkwYjZiYjUzMDZk",
+  "snapshot_id": "MCxkYTM3YTIzM2UwNjAwYjgwY2I3N2YzMjViOGNhMmQyNGYzYjAwOGJk",
   "tracks": [
     {
       "added_at": "2023-07-07 16:21:44",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-07-07 16:21:44",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2023-07-07 16:21:44",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 158769,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
-    },
-    {
-      "added_at": "2023-07-07 16:21:44",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2023-07-07 16:21:44",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-07-07 16:21:44",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2023-07-07 16:21:44",
+      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
-    },
-    {
-      "added_at": "2023-07-07 16:21:44",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2023-07-07 16:21:44",
@@ -1699,6 +1699,38 @@
     {
       "added_at": "2023-07-07 16:21:44",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-07-07 16:21:44",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2023-07-07 16:21:44",
+      "album": {
         "name": "MIRRORS",
         "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
       },
@@ -1715,22 +1747,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-07-07 16:21:44",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-07-07 16:21:44",
@@ -1863,26 +1879,6 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
-    },
-    {
-      "added_at": "2023-07-07 16:21:44",
-      "album": {
-        "name": "AM:PM (NOTD VIP Mix)",
-        "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "AM:PM - NOTD VIP Mix",
-      "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
     },
     {
       "added_at": "2023-07-07 16:21:44",

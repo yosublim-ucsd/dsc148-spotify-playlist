@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 411839,
+  "num_followers": 412079,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM0ZGFiZWUwMDVkODhjNTYxMGEyMWNjZjNkZDQ3YzM1ODQ5YmVj",
+  "snapshot_id": "MCw3YWQyZGNjYzBjNjkzNzA1OTI2MDFhZjg0YWZjOTM0NTJlNjdiOGQx",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
-        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 149640,
       "name": "False Pretense",
       "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
+        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 233762,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Illusion of Safety",
-        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Deadbolt",
-      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Emptiness",
         "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "The Illusion of Safety",
+        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 253440,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Try This With Your Eyes Closed",
-        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
     },
     {
       "added_at": "2023-03-28 16:00:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,236 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,249 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 47 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
 | 48 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 | 49 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
-| 50 | [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 |
+| 50 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
 
-Snapshot ID: `MCw1ZTExOTI4YWUzZjAxZWYwYmJiYWJkNGVmNGNkZDMxN2NkMDk2ZmU3`
+Snapshot ID: `MCxlZjBhZDFhMzZlNWRjMTdmMTMwZDQ1YWQxODUxNmZlMGUwMGYyZTg3`

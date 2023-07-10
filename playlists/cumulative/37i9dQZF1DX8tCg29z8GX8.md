@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-279 songs - 14 hr 39 min
+280 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2022-06-09 | 2022-08-16 |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-11 | 2023-02-17 |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
+| [Elon Musk \- Remix](https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV) | 3:24 | 2023-06-30 |  |
 | [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 | 2022-12-25 |
 | [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 | 2022-11-25 | 2023-01-28 |
 | [Everyday](https://open.spotify.com/track/53ntPKI0vPoR2i8mLc5Twp) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:29 | 2023-03-30 | 2023-04-28 |
@@ -245,7 +246,7 @@
 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 | 2023-04-28 |  |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-06-09 | 2022-09-15 |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-03-17 |  |
-| [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 | 2023-05-11 |  |
+| [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 | 2023-05-11 | 2023-07-10 |
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 | 2023-04-23 |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-09 |  |
 | [Sugarcane](https://open.spotify.com/track/7rfguZ7DWKbdB59gwP5V4i) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Sugarcane](https://open.spotify.com/album/2y8kLNrsi23YWGA7uHDXpp) | 2:36 | 2022-06-09 | 2023-06-05 |

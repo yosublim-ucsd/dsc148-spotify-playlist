@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin\n",
-  "num_followers": 427536,
+  "num_followers": 427638,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmVjYzA1NjhiODUyNGE2NTYwN2E1YjhjOTA1YTU0NTAwMzBmYmJh",
+  "snapshot_id": "MCwwZjkxNzIzMjJiNzcyMzkwMWUwYzUyYTkxYjQwN2NjNjNmNjc2NWUx",
   "tracks": [
     {
       "added_at": "2023-07-07 13:10:59",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
+        "name": "perfeita",
+        "url": "https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 195436,
+      "name": "perfeita",
+      "url": "https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
         "name": "Zangadinha",
         "url": "https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "perfeita",
-        "url": "https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 195436,
-      "name": "perfeita",
-      "url": "https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Resolvi Seguir",
-        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 161144,
-      "name": "Resolvi Seguir",
-      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Amor Compartilhado",
         "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 146231,
       "name": "Amor Compartilhado",
       "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Resolvi Seguir",
+        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 161144,
+      "name": "Resolvi Seguir",
+      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Coisas De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Tudo Certo",
         "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 181209,
       "name": "Tudo Certo",
       "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Cultivar",
-        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 133222,
-      "name": "Mundo de Papel",
-      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+        "name": "Cultivar",
+        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+      "duration_ms": 133222,
+      "name": "Mundo de Papel",
+      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -847,38 +847,6 @@
       "duration_ms": 159408,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/42gnV9JE50pObR1USs9v4b"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "Paix\u00e3o Nacional",
-        "url": "https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Boate Qualquer",
-      "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "n\u00f3s",
-        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "n\u00f3s",
-      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -903,34 +871,34 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "foi no s\u00e3o jo\u00e3o",
-        "url": "https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl"
+        "name": "n\u00f3s",
+        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
       },
       "artists": [
         {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 190444,
-      "name": "foi no s\u00e3o jo\u00e3o",
-      "url": "https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy"
+      "duration_ms": 166874,
+      "name": "n\u00f3s",
+      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+        "name": "Paix\u00e3o Nacional",
+        "url": "https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz"
       },
       "artists": [
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
         }
       ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+      "duration_ms": 187133,
+      "name": "Boate Qualquer",
+      "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -951,6 +919,38 @@
       "duration_ms": 166542,
       "name": "Por Que Voc\u00ea N\u00e3o Vem?",
       "url": "https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "foi no s\u00e3o jo\u00e3o",
+        "url": "https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 190444,
+      "name": "foi no s\u00e3o jo\u00e3o",
+      "url": "https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
         "name": "Atalaia",
         "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
       },
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Se S\u00easse",
         "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Sanidade Mental",
         "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "De Onde Eu Venho",
-        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 143400,
-      "name": "De Onde Eu Venho",
-      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -1139,6 +1123,22 @@
       "duration_ms": 164000,
       "name": "Como c\u00ea t\u00e1?",
       "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "De Onde Eu Venho",
+        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "De Onde Eu Venho",
+      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
     },
     {
       "added_at": "2023-07-07 13:10:59",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 197356,
+  "num_followers": 197411,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTI2ZGM0ZjJlYTNlOGJmZmM3ZDEyYWMxMjM2MzAzMGUzNmJlNzAw",
+  "snapshot_id": "MCxkZWIyNzFlNTNjMDFiNDQ2YjI0YjZhMjU5MDcwNDkwNjFkZDAwYzNi",
   "tracks": [
     {
       "added_at": "2023-05-12 07:31:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-05-12 07:31:44",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-05-12 07:31:44",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "One Hundred Ways",
-      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-05-12 07:31:44",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2023-05-12 07:31:44",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "One Hundred Ways",
+      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
     },
     {
       "added_at": "2023-05-12 07:31:44",

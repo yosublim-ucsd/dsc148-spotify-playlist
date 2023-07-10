@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,417 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,519 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 9 | [San Andreas' Fault](https://open.spotify.com/track/2jVIOVCin4pVYNSfPzaG4Z) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [San Andreas' Fault](https://open.spotify.com/album/1cBv7tS0NsZAlTxd6qLelN) | 3:44 |
 | 10 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 |
 | 11 | [Desire \[Feat Lucius\]](https://open.spotify.com/track/0AwEQyt4fcZNTIggXmkIRq) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Daylight](https://open.spotify.com/album/1ZUZuW2fR7J5JscL8FHpSC) | 3:00 |
-| 12 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
-| 13 | [Bravado](https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:41 |
+| 12 | [Bravado](https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:41 |
+| 13 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
 | 14 | [Fortune](https://open.spotify.com/track/33Fb2Ug5wGMXmMvaV2jrXC) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:50 |
 | 15 | [Kill Of The Night](https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Gravel & Wine](https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2) | 3:25 |
 | 16 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 59 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 60 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 61 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
-| 62 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 63 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
+| 62 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
+| 63 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
 | 64 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 65 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 66 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
 | 70 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 
-Snapshot ID: `MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk`
+Snapshot ID: `MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0`

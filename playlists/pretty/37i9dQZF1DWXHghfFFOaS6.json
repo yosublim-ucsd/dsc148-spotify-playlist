@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 294479,
+  "num_followers": 294645,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
+  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Blackbyrd",
         "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 277333,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 222000,
       "name": "I'll Be With You",
       "url": "https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Totally Together",
-      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "To The Sky (Remastered)",
         "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 196682,
       "name": "Ocean Beach",
       "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Totally Together",
+      "url": "https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1263,30 +1263,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afrodesia",
-        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
       "artists": [
         {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 372733,
-      "name": "It's Changed",
-      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1311,22 +1299,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pizza Pie",
         "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
@@ -1339,22 +1311,6 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1375,6 +1331,50 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afrodesia",
+        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
+      },
+      "artists": [
+        {
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "It's Changed",
+      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Pushin' On",
+        "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Alice Russell",
+          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "Pushin' On",
+      "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Brass Construction",
         "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 286600,
       "name": "Nothing Has Changed",
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pushin' On",
-        "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Pushin' On",
-      "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
     },
     {
       "added_at": "2022-07-14 19:24:43",

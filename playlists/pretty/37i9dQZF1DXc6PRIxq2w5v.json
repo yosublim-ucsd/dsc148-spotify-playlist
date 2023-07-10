@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Kant",
-  "num_followers": 130107,
+  "num_followers": 130297,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzc5Nzc3YzliZTBhOWE4YTI4NWRhZjM2NDFkZGMwNDI4OWJhZDI1",
+  "snapshot_id": "MCw3YmU3OGY0NWJkNDQ5ZjY4YzlmOWM3ZjlmMTc3MWNiNDlkMGJkMWU2",
   "tracks": [
     {
       "added_at": "2023-07-07 05:02:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 184102,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
-    },
-    {
-      "added_at": "2023-07-07 05:02:14",
-      "album": {
         "name": "Fatos & Fatos",
         "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 184324,
       "name": "Fatos & Fatos",
       "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
+    },
+    {
+      "added_at": "2023-07-07 05:02:14",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 184102,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2023-07-07 05:02:14",
-      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "added_at": "2023-07-07 05:02:14",
+      "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1163,22 +1159,6 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
-    },
-    {
-      "added_at": "2023-07-07 05:02:14",
-      "album": {
         "name": "Filho Pr\u00f3digo",
         "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
       },
@@ -1195,18 +1175,22 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1223,6 +1207,22 @@
       "duration_ms": 223134,
       "name": "Morada de Deus",
       "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
+    },
+    {
+      "added_at": "2023-07-07 05:02:14",
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
+        "name": "Guerra na Mente",
+        "url": "https://open.spotify.com/album/4uezGxULAtnIzGAT1C6d7K"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 217169,
+      "name": "Guerra na Mente",
+      "url": "https://open.spotify.com/track/3ntHNRbHfFWulYtQ6evnCz"
+    },
+    {
+      "added_at": "2023-07-07 05:02:14",
+      "album": {
         "name": "Fluindo no Esp\u00edrito",
         "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
       },
@@ -1323,30 +1343,6 @@
       "duration_ms": 196750,
       "name": "Fluindo no Esp\u00edrito",
       "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
-    },
-    {
-      "added_at": "2023-07-07 05:02:14",
-      "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1371,22 +1367,26 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
-        "name": "Guerra na Mente",
-        "url": "https://open.spotify.com/album/4uezGxULAtnIzGAT1C6d7K"
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 217169,
-      "name": "Guerra na Mente",
-      "url": "https://open.spotify.com/track/3ntHNRbHfFWulYtQ6evnCz"
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2023-07-07 05:02:14",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-07-07 05:02:14",
       "album": {
+        "name": "S\u00f3 H\u00e1 Um Caminho",
+        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+        }
+      ],
+      "duration_ms": 162468,
+      "name": "S\u00f3 H\u00e1 Um Caminho",
+      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
+    },
+    {
+      "added_at": "2023-07-07 05:02:14",
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/6melLoALpSc9Yu2ilrn1FE"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 209538,
       "name": "Chama",
       "url": "https://open.spotify.com/track/2E2IF0AdO9YpbXcshjuz5l"
-    },
-    {
-      "added_at": "2023-07-07 05:02:14",
-      "album": {
-        "name": "S\u00f3 H\u00e1 Um Caminho",
-        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
-      },
-      "artists": [
-        {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
-        }
-      ],
-      "duration_ms": 162468,
-      "name": "S\u00f3 H\u00e1 Um Caminho",
-      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
     },
     {
       "added_at": "2023-07-07 05:02:14",

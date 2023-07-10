@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 8479,
+  "num_followers": 8566,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDg0MGVjMzE4NDVhZGRlZDY5MzdmNGZkZjZjOWExYjE1NmMyOGY1",
+  "snapshot_id": "MCw0YWVjNjZhOTBiOGVkNThiYmZjOWVmNTBlNjFmMDFhY2IyMmE3YzQz",
   "tracks": [
     {
       "added_at": "2023-06-21 13:04:36",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Boogie Stop Shuffle",
-      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 446893,
       "name": "Without a Song - Remastered",
       "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 323773,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Now He Sings, Now He Sobs",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 388160,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 323773,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -475,18 +475,22 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Horace - Scope",
-        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+        "name": "Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        },
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 408346,
-      "name": "Nica's Dream - Remastered 2005",
-      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
+      "duration_ms": 437360,
+      "name": "Rhythm-A-Ning",
+      "url": "https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe"
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        },
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Rhythm-A-Ning",
-      "url": "https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz"
+      "duration_ms": 408346,
+      "name": "Nica's Dream - Remastered 2005",
+      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
-        }
-      ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 196373,
       "name": "Now's the Time - Remastered Version",
       "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+        }
+      ],
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Nippon Soul",
         "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226933,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 830000,
+      "name": "Steps-What Was - Digitally Remastered",
+      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 175040,
       "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 615426,
-      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263853,
       "name": "Airegin - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3gjQNAmT3MUd4Q0nf5p6hu"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 615426,
+      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
+        "name": "Mode For Joe (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "A Shade Of Jade - Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
         "name": "Red Clay",
         "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 436733,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
-        "name": "Mode For Joe (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "A Shade Of Jade - Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
+        "name": "In 'N Out (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 623706,
+      "name": "In 'N Out - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0oAYPIX493opcBi2NsqTKb"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
         "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
         "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 208030,
       "name": "Slippers",
       "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 347240,
-      "name": "On the Que-Tee",
-      "url": "https://open.spotify.com/track/2S4zpjfSKapsaSbDKTx9vK"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "In 'N Out (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 623706,
-      "name": "In 'N Out - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0oAYPIX493opcBi2NsqTKb"
+      "duration_ms": 347240,
+      "name": "On the Que-Tee",
+      "url": "https://open.spotify.com/track/2S4zpjfSKapsaSbDKTx9vK"
     },
     {
       "added_at": "2023-06-21 13:04:36",

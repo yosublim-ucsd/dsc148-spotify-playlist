@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,644 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,720 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 50 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
 | 51 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 |
 | 52 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
-| 53 | [Probleminha](https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Apoteose](https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ) | 2:56 |
-| 54 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
+| 53 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
+| 54 | [Probleminha](https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Apoteose](https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ) | 2:56 |
 | 55 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 |
 | 56 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 57 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Nintendo Switch](https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO) | [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Nintendo Switch](https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s) | 4:19 |
 | 60 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 |
 
-Snapshot ID: `MCwxMWM4Y2I4MTkyODljMDU3MmNhZjE4MjdiMmRmYTlmMGQ1OGZmNWIy`
+Snapshot ID: `MCw0ZTllZmM3ZWIyNWQwNTdlNmMwNWVlMTA2NzRlY2Y1NzJiYmZkMjlh`

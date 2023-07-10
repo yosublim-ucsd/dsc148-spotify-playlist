@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
@@ -1250,6 +1250,24 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "album": {

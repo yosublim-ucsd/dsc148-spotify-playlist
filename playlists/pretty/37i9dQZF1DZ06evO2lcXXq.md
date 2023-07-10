@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,201 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,290 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 17 | [First](https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:48 |
 | 18 | [Remember](https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:58 |
 | 19 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
-| 20 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 |
-| 21 | [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 |
+| 20 | [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 |
+| 21 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 |
 | 22 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 |
 | 23 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 |
 | 24 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 39 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 |
 | 40 | [Almost Human \- from the Original Motion Picture Soundtrack Blade Runner 2049](https://open.spotify.com/track/1dVWjFxNtwdWf3IftD4fCH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Almost Human \(from the Original Motion Picture Soundtrack Blade Runner 2049\)](https://open.spotify.com/album/1X5V3BzjJZ2tge9pWwNe5z) | 3:22 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBhZjViMDIxZTBjZGVlMzEwMGMyNmQ3M2U3MTg3ZDA4ZA==`
+Snapshot ID: `MjgxNDg0MDMsMDAwMDAwMDBmYTFmYjEyMTVlYWRlYWMzMjg2ZTQyNTlkNmExODY1OA==`

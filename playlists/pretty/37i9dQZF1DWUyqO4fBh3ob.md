@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,973 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,992 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 13 | [Azmit Si'a](https://open.spotify.com/track/5v0WY4zIqSfu2LVwUDu5Rs) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:41 |
 | 14 | [Kalam Ennas](https://open.spotify.com/track/5AXhE2O0TQqQmQzarCPqYJ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
 | 15 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
-| 16 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
-| 17 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
+| 16 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
+| 17 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
 | 18 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 |
 | 19 | [Sallemi](https://open.spotify.com/track/2RTIyzG5nwK06Qwyg75gtW) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:12 |
 | 20 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 | 50 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
 
-Snapshot ID: `MCw2NTgzNDhlOGMwYjU4NWI1ZmZkNTZhMzc4NTJhZWE1MWQ1NzM0Mzli`
+Snapshot ID: `MCwyMmExY2IwNjUyZWM5ZWNjNTIyZjVmNjMxZGRmZWRkYmM0ZmQzMDdk`

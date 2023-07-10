@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: TOMORROW X TOGETHER & Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,948 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,410 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 42 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 |
 | 43 | [L.A\. \(‭+1 .818.643.6885‬\)](https://open.spotify.com/track/4JwFYQF1sT86zKTVDlVKaI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [L.A\. \(‭+1.818.643.6885‬\)](https://open.spotify.com/album/5SIAZ7pplBFvm2OTQheI1H) | 2:44 |
 | 44 | [start over](https://open.spotify.com/track/19B5pFYADCRVgMSInD1n7h) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [start over](https://open.spotify.com/album/45gX56k9JSR5QeTZiN3p9i) | 1:59 |
-| 45 | [Boy from Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
+| 45 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 |
 | 46 | [Hate You The Least](https://open.spotify.com/track/6vFbWYHAs0Wg37tr1nSPRI) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Hate You The Least](https://open.spotify.com/album/4AhR1HMCepAcnlEW1KORQY) | 1:50 |
 | 47 | [Gia Would](https://open.spotify.com/track/3PPmsVvOSocKTJkVljuNmg) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Gia Would](https://open.spotify.com/album/67zMivxNJdM2Vp13F2KZTA) | 2:10 |
 | 48 | [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [I Choose You](https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Choose You](https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR) | 3:00 |
 | 100 | [Do Si Do](https://open.spotify.com/track/0lXjag7QhbY2UQdbKKLpQR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Do Si Do](https://open.spotify.com/album/2X1iXLehHwCZsP2BXEiEGg) | 2:38 |
 
-Snapshot ID: `MCwyZTBmMDAzOTBjMzRjNDBhMDI0MjU3M2EwMTBhNTcwNGNiZjk4NmIw`
+Snapshot ID: `MCxkNDg5YWNiNzNhN2MxODdjM2NiNWFkM2Q4MzQyYzdkMmVkYWVkMzYw`

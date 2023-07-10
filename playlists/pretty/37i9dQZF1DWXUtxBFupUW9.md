@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,737 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,856 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 30 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
 | 31 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 |
 | 32 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 33 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
-| 34 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 |
+| 33 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 |
+| 34 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
 | 35 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
 | 36 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 37 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 |
 | 50 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
 
-Snapshot ID: `MCwwZWVjZGRmMWY0M2M3MDI0ZWUyOGQzMGYyMWUzM2I4OTJiZjE4Mjc5`
+Snapshot ID: `MCw0MmFmNTM5ZGQ3N2Y2OTFlMTU5ZDA4NGQwMjFjZmNmODc3NmY5Mzdi`

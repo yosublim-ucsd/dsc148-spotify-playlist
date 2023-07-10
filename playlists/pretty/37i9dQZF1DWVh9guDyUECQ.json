@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 169564,
+  "num_followers": 169635,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm",
+  "snapshot_id": "MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Pura Alegr\u00eda",
         "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 186367,
       "name": "Pura Alegr\u00eda",
       "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Futuro Contigo",
         "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 213033,
       "name": "Futuro Contigo",
       "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Por un Momento",
         "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 212621,
       "name": "Lo Tengo",
       "url": "https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Mi Entrenador (Remix)",
         "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "added_at": "2022-08-27 05:04:45",

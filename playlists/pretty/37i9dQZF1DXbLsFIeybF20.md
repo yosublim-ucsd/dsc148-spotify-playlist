@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,534 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,542 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 17 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
 | 18 | [Hot Lips](https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [New New Orleans Jazz](https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K) | 4:54 |
 | 19 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
-| 20 | [Once In A While](https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c) | [Norbert Susemihl](https://open.spotify.com/artist/1UkYB1n44YzBCtMaKde48Y), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Erika Lewis](https://open.spotify.com/artist/58WQdrfsIZV2HwaGkN1Pfr), [Shaye Cohn](https://open.spotify.com/artist/7HhwosbJ4EqUV4AzQXVUxB) | [Night on Frenchmen Street](https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M) | 4:31 |
-| 21 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
+| 20 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
+| 21 | [Once In A While](https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c) | [Norbert Susemihl](https://open.spotify.com/artist/1UkYB1n44YzBCtMaKde48Y), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Erika Lewis](https://open.spotify.com/artist/58WQdrfsIZV2HwaGkN1Pfr), [Shaye Cohn](https://open.spotify.com/artist/7HhwosbJ4EqUV4AzQXVUxB) | [Night on Frenchmen Street](https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M) | 4:31 |
 | 22 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
 | 23 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
 | 24 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Saratoga Drag](https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv) | [Luis Russell](https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP), [Albert Nicholas](https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY), [Henry](https://open.spotify.com/artist/2JXBvjlBB0Qu7MJ1XblhSM), [J\. C\. Higginbotham](https://open.spotify.com/artist/5Qp4GPKEa8t2iM6ZDkg86Y), [Charlie Holmes](https://open.spotify.com/artist/5dhfT2nL6RlvrQ1E7E9QE9), [George](https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA) | [The Luis Russell Story](https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ) | 3:07 |
 | 50 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 
-Snapshot ID: `MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3`
+Snapshot ID: `MCw5NmU4NWE5NTAzMzk0ZmUzM2RmOTIxNTY0NTVkOGU3YzEwY2U5YzIx`

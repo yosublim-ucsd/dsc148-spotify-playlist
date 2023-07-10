@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,516 likes - 47 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,887 likes - 47 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 35 | [Weisses Fleisch](https://open.spotify.com/track/3c02RAbOojbCSXQebk6Sf1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 3:35 |
 | 36 | [Reise, Reise](https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:11 |
 | 37 | [Pussy](https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:59 |
-| 38 | [Mann gegen Mann](https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:50 |
+| 38 | [Bestrafe mich](https://open.spotify.com/track/5QueZSIpWUbH4nLZlkjjkP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:36 |
 | 39 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
-| 40 | [Bestrafe mich](https://open.spotify.com/track/5QueZSIpWUbH4nLZlkjjkP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:36 |
+| 40 | [Mann gegen Mann](https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:50 |
 | 41 | [Moskau](https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:16 |
-| 42 | [Benzin](https://open.spotify.com/track/1XanLfYUUBB6bLbnSh1KyU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:46 |
+| 42 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
 | 43 | [Wollt ihr das Bett in Flammen sehen](https://open.spotify.com/track/2MC5MLUdhrVUWGHUFHvaLF) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 5:15 |
-| 44 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
+| 44 | [Benzin](https://open.spotify.com/track/1XanLfYUUBB6bLbnSh1KyU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:46 |
 | 45 | [Spiel mit mir \- 2023 Mix](https://open.spotify.com/track/01jvnYLwnEwdnwGjsZq02E) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Du hast / Spiel mit mir \(2023 Mix\)](https://open.spotify.com/album/2rK1E8ZYaYkKjSMkrbM690) | 4:46 |
-| 46 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
-| 47 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
+| 46 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
+| 47 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDA5OTA3ZjA2MTIxYzBmMTIxNjA0ZGQ3ZWE4ODhiNWUwZA==`
+Snapshot ID: `MjgxNDg0MDIsMDAwMDAwMDAxN2MwZGNhOWE5YTQxMGNiOGY5MzAzODZiNzJkYWVlNw==`

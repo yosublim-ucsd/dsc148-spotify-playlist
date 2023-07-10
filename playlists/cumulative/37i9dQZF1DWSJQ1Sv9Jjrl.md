@@ -4,7 +4,7 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-48 songs - 2 hr 40 min
+49 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 |  |
 | [Frankie](https://open.spotify.com/track/6nZAmCkn0cB5wG2uvQWSBi) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Quarry](https://open.spotify.com/album/2Z48McZfltPdZbp4dASRdp) | 4:17 | 2022-02-11 | 2022-07-29 |
 | [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:17 | 2022-02-11 |  |
-| [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 | 2022-02-11 |  |
+| [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 | 2022-02-11 | 2023-07-10 |
+| [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 | 2022-02-11 |  |
 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2022-02-11 |  |
 | [Get What I Want](https://open.spotify.com/track/5KftZDwTyNCntMiu53J6f4) | [Foxxi](https://open.spotify.com/artist/4Cojmi9XHgWlt7wuaY7YNA), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Get What I Want](https://open.spotify.com/album/6lNdsQD8Wkkpd8V2f3Smc0) | 2:54 | 2022-02-11 |  |
 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 | 2022-02-11 |  |

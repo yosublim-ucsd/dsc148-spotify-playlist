@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,949 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,094 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 21 | [Show Love](https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:12 |
 | 22 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 23 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
-| 24 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
-| 25 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
+| 24 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
+| 25 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 26 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
 | 27 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 28 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 36 | [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 |
 | 37 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
 | 38 | [The real thing](https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2) | [Movin' On](https://open.spotify.com/album/015atHfkTckCacqwdccLZn) | 3:58 |
-| 39 | [The Kalling](https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ) | 3:33 |
-| 40 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
+| 39 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
+| 40 | [The Kalling](https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ) | 3:33 |
 | 41 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 42 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
 | 43 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/track/36VvwmbsehGcneBMNgd2N1) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/album/3ZQBxCfUR9vLLT2sTV5Q1w) | 3:51 |
 | 50 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 
-Snapshot ID: `MCw0Mjk0ZWNkNTQwMDJiNDE5NTQ1MWI5YjNlMDNhZmVlZWFmODhlYTIx`
+Snapshot ID: `MCxmYjc5ODIwNDNkNTFiZjM3MTI4ODc2MzgzZWZiZjEyMzYzNzZiMTU3`

@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 676419,
+  "num_followers": 676605,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM3YjllMTY1NjU1MjY1NTI2OTM5NTU0MGE3MDkyNWUzZjY2YWYw",
+  "snapshot_id": "MCw4YjE3NzAyNDg1MWUwMTJiMzgxMjRhZTM2Njg1Yjc2ZTQ4ZjQyNGVj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Lifeless Stars",
-        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Lifeless Stars",
-      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 199213,
       "name": "Mary Go Round",
       "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Lifeless Stars",
+        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Lifeless Stars",
+      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
     }
   ],
   "unique_name": "Rock Ballads",

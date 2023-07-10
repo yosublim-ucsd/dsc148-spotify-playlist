@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-98 songs - 5 hr 32 min
+99 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [De Vos](https://open.spotify.com/track/10umep0TNyuFyhKfx0z1Ew) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [De Vos](https://open.spotify.com/album/2dSepJ6uUSD9yE2LHUBAxy) | 4:57 | 2023-03-27 | 2023-06-24 |
 | [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-25 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-05-11 |  |
-| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-17 |  |
+| [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-06-25 |  |
+| [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-17 | 2023-07-10 |
 | [Dime](https://open.spotify.com/track/0AeLV7eiqBHMaTeq5R8SAS) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Dime](https://open.spotify.com/album/4Pp7QfJOdByWRnYaCBSquf) | 3:32 | 2023-04-28 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-06-23 |  |
 | [Díganselo](https://open.spotify.com/track/4CZnsSrphc4CJ5cQT4NWEB) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díganselo](https://open.spotify.com/album/3DoBSpmUSKCrk8F5wrMkTL) | 3:59 | 2023-05-22 |  |

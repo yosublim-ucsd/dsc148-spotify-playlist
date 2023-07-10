@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,843 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,877 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 31 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
 | 32 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
 | 33 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
-| 34 | [To Me](https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 3:57 |
-| 35 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
+| 34 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
+| 35 | [To Me](https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 3:57 |
 | 36 | [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 |
 | 37 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 |
 | 38 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 49 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 |
 | 50 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 |
 | 51 | [untitled](https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT) | 3:45 |
-| 52 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 |
-| 53 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
+| 52 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
+| 53 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 |
 | 54 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
 | 55 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 56 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 58 | [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 |
 | 59 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
 | 60 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
-| 61 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
-| 62 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 61 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 62 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
 | 63 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
 | 64 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 65 | [Friends with Feelings](https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m) | [Alice Skye](https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR) | [Friends With Feelings](https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo) | 4:15 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 84 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 |
 | 85 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
 | 86 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
-| 87 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
-| 88 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
+| 87 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
+| 88 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
 | 89 | [Cold Caller](https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD) | 3:57 |
 | 90 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
 | 91 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
 | 92 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 | 93 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
 | 94 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
-| 95 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
-| 96 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 95 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 96 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 97 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 98 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
-| 99 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 100 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
+| 99 | [Lincoln, Nebraska](https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/7i0yanefGAo38sxISoem4B) | 2:23 |
+| 100 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 
-Snapshot ID: `MCw2MTYyM2FkZjY0NmRjMmUyNGYxNWQ2ZmMyNGUzM2RlNDk0MzkwYjMw`
+Snapshot ID: `MCw4MWEzNDAwMDE1YmJmN2U0NDcyNmMzMWJiNmJiZjcxMTBiMTZkOWY2`

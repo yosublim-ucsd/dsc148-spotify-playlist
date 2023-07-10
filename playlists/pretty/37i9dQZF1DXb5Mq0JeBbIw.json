@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 153235,
+  "num_followers": 153259,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmI4NWI3YWNkNTZhNjU1OGRjNDM0Y2ZiYmRkNWEwMDQ2YzA0Zjc2",
+  "snapshot_id": "MCxhMzI5OWY3NGFlNDU1NDQ2OTBjZTJmNWY2ZDM4NzU1ODgzOGJlMDJk",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Sometimes I Feel",
-        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 147354,
-      "name": "Sometimes I Feel",
-      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "~how i'm feeling~ (the extras)",
@@ -1239,6 +1223,22 @@
       "duration_ms": 252681,
       "name": "Modern Loneliness - acoustic",
       "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Sometimes I Feel",
+        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 147354,
+      "name": "Sometimes I Feel",
+      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "God Save The Dream",
-        "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 222473,
-      "name": "Fine On Your Own",
-      "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa"
       },
@@ -1659,18 +1643,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Tofino",
-        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+        "name": "God Save The Dream",
+        "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
       },
       "artists": [
         {
-          "name": "Julianna Laine",
-          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Tofino",
-      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
+      "duration_ms": 222473,
+      "name": "Fine On Your Own",
+      "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Live from the Village (Acoustic)",
+        "url": "https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 227296,
+      "name": "Pink - Live & Acoustic",
+      "url": "https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe"
     }
   ],
   "unique_name": "Soft Morning",

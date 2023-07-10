@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,435 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,546 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 75 | [Too Much Fun](https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [Daryle Singletary](https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0) | 2:45 |
 | 76 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 77 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/33AQv3sfvHmtGfYNIJpi96) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Greatest Hits](https://open.spotify.com/album/6nnI4w6ogIVZLeNJgLmu94) | 3:07 |
-| 78 | [Salt, Lime & Tequila](https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/1c8S8L1b49DhYZSYP7pK55) | 2:55 |
-| 79 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 |
+| 78 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 |
+| 79 | [Salt, Lime & Tequila](https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/1c8S8L1b49DhYZSYP7pK55) | 2:55 |
 | 80 | [When the Sun Goes Down](https://open.spotify.com/track/6KbpvmsV6L8JsON1C3JHAV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:49 |
 | 81 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
 | 82 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Drank Like Hank](https://open.spotify.com/track/0R3vFnJYuPSrUHypRexQzn) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:09 |
 | 95 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 
-Snapshot ID: `MCxhMWU4ZmRjMzgwZGVlYWEwODBhYTc4OTkyNzllM2IyOTY5YjhiYWFh`
+Snapshot ID: `MCw4YzgxZDBmZGE4ZWI3Mzc0MzJjZjBjZThlOTNjYzc1ZTY3YzA4OTBk`

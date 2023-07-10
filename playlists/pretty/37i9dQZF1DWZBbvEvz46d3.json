@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 58323,
+  "num_followers": 58361,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTg5ZDdkNzhlN2YzMGYwYjBiYTU5ZWNkODNmODhjOGY2OWMxZjQ2",
+  "snapshot_id": "MCxjYzZlN2UzNjAwYzJkYzYzYjQzNjZjNjk1OTljZmMyZDVmMWFiMGM4",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
         }
       ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
       },
       "artists": [
         {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 184514,
       "name": "Ksi\u0119\u017cniczka",
       "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
-        "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
-      },
-      "artists": [
-        {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Syreny",
-      "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Zakryj (Deluxe)",
         "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 215266,
       "name": "T\u0119skno Mi",
       "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
+        "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
+      },
+      "artists": [
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Syreny",
+      "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Miales Byc",
-      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Ludzie prosci",
-        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
+        "name": "Album",
+        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
       "artists": [
         {
-          "name": "Mesajah",
-          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
         }
       ],
-      "duration_ms": 230504,
-      "name": "Kazdego dnia",
-      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+      "duration_ms": 209213,
+      "name": "Miales Byc",
+      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -919,6 +903,22 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Ludzie prosci",
+        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
+      },
+      "artists": [
+        {
+          "name": "Mesajah",
+          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Kazdego dnia",
+      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Bu\u0142garskie centrum",
+        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
+      },
+      "artists": [
+        {
+          "name": "Pid\u017cama Porno",
+          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Bu\u0142garskie centrum",
-        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
-      },
-      "artists": [
-        {
-          "name": "Pid\u017cama Porno",
-          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
     },
     {
       "added_at": "2023-04-03 09:53:55",

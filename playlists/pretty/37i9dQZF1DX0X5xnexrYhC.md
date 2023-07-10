@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,049 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,060 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 51 | [counting crimes](https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [counting crimes](https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW) | 3:02 |
 | 52 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 53 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 |
-| 54 | [Whispers](https://open.spotify.com/track/50wqN28Ca3fJGddi95GaSc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:11 |
-| 55 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 |
+| 54 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 |
+| 55 | [Whispers](https://open.spotify.com/track/50wqN28Ca3fJGddi95GaSc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:11 |
 | 56 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
 | 57 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 58 | [Middle Fingers](https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Aston](https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V) | 3:38 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 75 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
 | 76 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
 | 77 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
-| 78 | [Close](https://open.spotify.com/track/6BjW5OmG3t8KoibCQGxW5J) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Close](https://open.spotify.com/album/0qnu5fodeC4uxonNF1G22f) | 3:17 |
-| 79 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
-| 80 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
+| 78 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
+| 79 | [Close](https://open.spotify.com/track/6BjW5OmG3t8KoibCQGxW5J) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Close](https://open.spotify.com/album/0qnu5fodeC4uxonNF1G22f) | 3:17 |
+| 80 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 
-Snapshot ID: `MCw3OTY2ZGQ3NzNkOWZkMzMyY2U3ZGU5NDA3Njk2MzE3MmQ2ZjM1NTQ2`
+Snapshot ID: `MCxkMTE4NTdhMzYxZTk4MTE0Yzk4NWQ2Y2RiZTM2MDhhOGNmMWI5ZDQ5`

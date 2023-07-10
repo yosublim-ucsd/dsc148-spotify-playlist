@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,653 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,788 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 15 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 16 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
 | 17 | [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 |
-| 18 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
-| 19 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
+| 18 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
+| 19 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 20 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 21 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
 | 22 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1`
+Snapshot ID: `MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw`

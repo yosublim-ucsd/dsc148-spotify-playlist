@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 481423,
+  "num_followers": 481914,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjZhMjRmOTIxOGM5MzgyMWY1MzEzM2M2Mzg0MjM4MjI2ZTA0ODg4",
+  "snapshot_id": "MCw4M2FhYTc1MDNkN2EzMTE5ODBiOTQyYjRjZDIzYzhiZWZhNTI5MjBk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "No Eyes",
+        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "No Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "No Eyes",
-        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "JAW",
-          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
-        }
-      ],
-      "duration_ms": 204992,
-      "name": "No Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1019,26 +1019,6 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1063,6 +1043,26 @@
       "duration_ms": 174001,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "THE NIGHTDAY",
-        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
       },
@@ -1331,22 +1299,34 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+        "name": "THE NIGHTDAY",
+        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+      "duration_ms": 223480,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1363,6 +1343,26 @@
       "duration_ms": 138013,
       "name": "Are You With Me - Radio Edit",
       "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "DJ Central Groove Vol, 15",
+        "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
+      },
+      "artists": [
+        {
+          "name": "Ben Pearce",
+          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "What I Might Do",
+      "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Cool Again (Prince Fox Remix)",
         "url": "https://open.spotify.com/album/0Igw3OQuE2WRXKO7aTyq36"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 197928,
       "name": "Cool Again - Prince Fox Remix",
       "url": "https://open.spotify.com/track/0T8JiTts2wK0gztMcK2pRx"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "DJ Central Groove Vol, 15",
-        "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
-      },
-      "artists": [
-        {
-          "name": "Ben Pearce",
-          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "What I Might Do",
-      "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
     },
     {
       "added_at": "2023-07-07 04:00:00",

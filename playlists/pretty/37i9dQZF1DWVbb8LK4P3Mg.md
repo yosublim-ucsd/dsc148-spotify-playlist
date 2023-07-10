@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,762 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,760 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 34 | [What I Want For Christmas](https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life](https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM) | 3:22 |
 | 35 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
 | 36 | [Mr\. Snowman](https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Peppermint Tea](https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ) | 3:31 |
-| 37 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
-| 38 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 |
+| 37 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 |
+| 38 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
 | 39 | [A miracle 3days ago](https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 4:00 |
 | 40 | [겨울나무 I’m all ears](https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:35 |
 | 41 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 81 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 |
 | 82 | [One Day in December](https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G) | [ON](https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3) | [One Day in December](https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N) | 2:37 |
 | 83 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
-| 84 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
-| 85 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 |
+| 84 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 |
+| 85 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
 | 86 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 |
 | 87 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 |
-| 88 | [Mr\. Santa](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Mr\. Santa](https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5) | 3:19 |
-| 89 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 |
+| 88 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 |
+| 89 | [Mr\. Santa](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Mr\. Santa](https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5) | 3:19 |
 | 90 | [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 |
 | 91 | [welove Christmas](https://open.spotify.com/track/4lw7EB0UFAeK0FJHndNOeM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/2ENjIrBqMnvvcuyb8yIEKS) | 2:45 |
 | 92 | [Snowman \(Special Ver.\)](https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 3rd Mini Album 'Prelude'](https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh) | 3:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 95 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 | 96 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
 | 97 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 |
-| 98 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
-| 99 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
+| 98 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
+| 99 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
 | 100 | [Special Christmas](https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ), [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw), [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [2016 United Cube Project Part 1](https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla) | 3:48 |
 
-Snapshot ID: `MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5`
+Snapshot ID: `MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4`

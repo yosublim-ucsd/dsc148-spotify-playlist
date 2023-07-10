@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-295 songs - 20 hr 46 min
+296 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 | 2023-02-02 |  |
 | [Savanne](https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Savanne](https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF) | 5:16 | 2022-08-03 | 2023-04-09 |
 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 | 2022-08-03 |  |
-| [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 | 2022-04-17 |  |
+| [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 | 2022-04-17 | 2023-07-10 |
 | [Sentir](https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z) | 3:48 | 2022-01-04 |  |
 | [Señor](https://open.spotify.com/track/00Ab7huoVjqKfhtzzu8vYE) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/58NsuYYnNzRJUhAMFB7pQK) | 2:30 | 2022-06-15 |  |
 | [Señor](https://open.spotify.com/track/7JDJFIsPs8ir43qeH1WsrQ) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/0MNEoUApUNkyOPAsxaCAni) | 2:30 | 2022-01-04 | 2022-07-29 |
@@ -255,6 +255,7 @@
 | [Sirena](https://open.spotify.com/track/5BkfQ5o9XfCqvdkWqG6Dya) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:51 | 2022-04-17 | 2022-06-17 |
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-22 | 2023-07-07 |
 | [Sol](https://open.spotify.com/track/5IGeqVfb7d2qCd4PYDuMfg) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Visums](https://open.spotify.com/album/4svMVJAISadSiQaFJUTt3I) | 3:22 | 2022-05-06 | 2022-07-23 |
+| [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2022-06-15 |  |
 | [Sono Come Sono](https://open.spotify.com/track/1F3tfdSF72hS1X3PSrwC5X) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Sono Come Sono](https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq) | 3:46 | 2022-10-01 | 2022-10-18 |
 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 | 2023-03-16 | 2023-05-23 |
 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 | 2022-02-18 | 2022-07-29 |

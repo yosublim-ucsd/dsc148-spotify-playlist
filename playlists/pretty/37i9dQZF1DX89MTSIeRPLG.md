@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,545 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,573 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 |
 | 2 | [Molly](https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 2:44 |
 | 3 | [Richer \(feat\. Polo G\)](https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:10 |
-| 4 | [Handsome](https://open.spotify.com/track/6ioJIbTdQEpbvkTdPuwhF5) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 2:53 |
-| 5 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
+| 4 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
+| 5 | [Handsome](https://open.spotify.com/track/6ioJIbTdQEpbvkTdPuwhF5) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Karma 3](https://open.spotify.com/album/5Z9H6gen4nUySpLZzKy2y0) | 2:53 |
 | 6 | [Ok Cool](https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Ok Cool](https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom) | 2:57 |
 | 7 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
 | 8 | [I Ain't Perfect \(feat\. Blxst\)](https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 44 | [Out The Mud \(feat\. Lil Mosey\)](https://open.spotify.com/track/68s7g9a9pshjRoCddmqiTi) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Double O Baby](https://open.spotify.com/album/2amCTXV3JjDObBU5Q2x6VK) | 3:19 |
 | 45 | [Freak Block Tales](https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z) | 2:35 |
 | 46 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
-| 47 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
-| 48 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
+| 47 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
+| 48 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
 | 49 | [Basement](https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Basement](https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI) | 2:26 |
 | 50 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 
-Snapshot ID: `MCwyNmE2NGI3NjgwZWI5Y2E1ZDZjZWYyMmU4ZmUxNDM3ZDRmYzRhZmJl`
+Snapshot ID: `MCw0MmY1ZDJiMzk1ZGY3ZDQwM2U2YWNlM2NiZWZiZWM4ODNiMTdmMzFk`

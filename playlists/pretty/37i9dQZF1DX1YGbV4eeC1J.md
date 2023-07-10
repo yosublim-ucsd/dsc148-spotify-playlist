@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,635 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,661 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
 | 50 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 |
 
-Snapshot ID: `MCwwYjU0Y2M2ODA3NGQzMzY4ODc1NDJmOWY2MTg2NWEwOWVmOWZlMGFi`
+Snapshot ID: `MCxiYjMyZmU0MjdlYTliNmI0MzVkYWFjM2NhYTFiMWExYzI0Nzk1N2Q0`

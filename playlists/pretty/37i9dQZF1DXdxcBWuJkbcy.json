@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6887417,
+  "num_followers": 6888061,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmJiOWQzOGIwZjVhMDM0ZGY1ODYzODJlOTFmYmQxNmM1YWQ3YzAw",
+  "snapshot_id": "MCw4ZTY4MzM1MDA5NjRmMzVkYjVmNjA0ODBkZGE5YTgxZTczYzdkZTUw",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
     },
     {
       "added_at": "2023-06-29 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3426,
+  "num_followers": 3427,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
+  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
   "tracks": [
     {
       "added_at": "2023-06-13 07:36:25",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Look What I Did (Feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Look What I Did (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 222014,
       "name": "Supernova (Feat. Dut2)",
       "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1451,26 +1451,6 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
-      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1495,6 +1475,26 @@
       "duration_ms": 214000,
       "name": "Press F5 (Feat. GRAY)",
       "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
+      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "24:26 (5th Anniversary Remaster Edition)",
+        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 254014,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 180733,
       "name": "Smile Now Cry Later",
       "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "24:26 (5th Anniversary Remaster Edition)",
-        "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 254014,
-      "name": "I'll Be Back",
-      "url": "https://open.spotify.com/track/50Ype1T4rqWGPf7K49yvjn"
     },
     {
       "added_at": "2023-06-13 07:36:25",

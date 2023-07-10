@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A"> Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,434 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,499 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 55 | [Is'pantsula \(feat\. Papta Mancane\)](https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D) | [Speak N Vrostaan](https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1) | 4:42 |
 | 56 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
 | 57 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
-| 58 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
+| 58 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
 | 59 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
-| 60 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 |
-| 61 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
+| 60 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
+| 61 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 |
 | 62 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 |
 | 63 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 |
 | 64 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 66 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
 | 67 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 68 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
-| 69 | [Mask On \[Feat\. Natasha Chansa\] \- Live From Lusaka](https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Natasha Chansa](https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw) | [As Above, So Below \(Deluxe\)](https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm) | 3:07 |
+| 69 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 | 70 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
 
-Snapshot ID: `MCw4MmMwM2VkMzY5ZjQ3MDMzMmZhYTIwN2RkZDAzYzE0MzcxNGZlNzQ0`
+Snapshot ID: `MCw5M2FmM2E5NDg1ZDA1ZjhlZWIyNTAwNmE2M2Q0ZDlmOGM3M2NiNDJk`

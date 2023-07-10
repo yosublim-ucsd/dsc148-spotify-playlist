@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,103 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,402 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 22 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
 | 23 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
 | 24 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 25 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
-| 26 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 25 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 26 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 27 | [Redeemed](https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:36 |
 | 28 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
 | 29 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 40 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 |
 | 41 | [Who I Am Hates Who I've Been](https://open.spotify.com/track/36EXQbkUL5PpT0zS9Tr7UT) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 3:52 |
 | 42 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
-| 43 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
-| 44 | [Awake My Soul](https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:24 |
+| 43 | [Awake My Soul](https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:24 |
+| 44 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
 | 45 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
 | 46 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
 | 47 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 52 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
 | 53 | [Ready Set Go \(feat\. Capital Kings\) \(feat\. Capital Kings\)](https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl) | [Royal Tailor](https://open.spotify.com/artist/1CmWVjnzTRTqZqdVIlZSSY), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Royal Tailor](https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa) | 3:29 |
 | 54 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
-| 55 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
-| 56 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
+| 55 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
+| 56 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
 | 57 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
 | 58 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
 | 59 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 75 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 
-Snapshot ID: `MCxjYjEyZjNjMzA4NmYwMmUzOWIwMDAxMzQ2M2NhY2VhZGZjMDg0ZmMy`
+Snapshot ID: `MCw5MmJjYjA4MWE1YjlmMGY3ZjViODBkMGEzYzhlMTY2YWU4OGUzNzg0`

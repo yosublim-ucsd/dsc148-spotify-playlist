@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Alchemist",
-  "num_followers": 1621048,
+  "num_followers": 1621149,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmY1MmZjY2RlMzdiNjc2NGIwN2MxNWI5MDY5MjE5ZWYwZDQ4NDgy",
+  "snapshot_id": "MCxjN2ZmNTY5N2I3M2IxZTkzNjE4ZmI1YjQ4NGMzMGY1MzIwMzYyNmIw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 200775,
-      "name": "Super Rare (feat. Hello O'Shay)",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "PENSION",
-        "url": "https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro"
+        "name": "Top G",
+        "url": "https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
         }
       ],
-      "duration_ms": 197460,
-      "name": "PENSION",
-      "url": "https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT"
+      "duration_ms": 213750,
+      "name": "Top G",
+      "url": "https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Top G",
-        "url": "https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK"
+        "name": "PENSION",
+        "url": "https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro"
       },
       "artists": [
         {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Top G",
-      "url": "https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm"
+      "duration_ms": 197460,
+      "name": "PENSION",
+      "url": "https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Prisoner of Circumstance",
-        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "ChanHays",
-          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Dangerous Daringer",
         "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
       },
@@ -895,22 +875,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Get A Ticket",
-        "url": "https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw"
+        "name": "Prisoner of Circumstance",
+        "url": "https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO"
       },
       "artists": [
         {
-          "name": "Chase Fetti",
-          "url": "https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "ChanHays",
+          "url": "https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Get A Ticket",
-      "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
+      "duration_ms": 127007,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -935,6 +915,26 @@
       "duration_ms": 180049,
       "name": "Brick By Brick (feat. Blu)",
       "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Get A Ticket",
+        "url": "https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw"
+      },
+      "artists": [
+        {
+          "name": "Chase Fetti",
+          "url": "https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Get A Ticket",
+      "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
     },
     {
       "added_at": "2023-07-07 04:00:00",

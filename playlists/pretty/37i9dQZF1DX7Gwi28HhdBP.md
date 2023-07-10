@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=Ncl82xqKTzucexrYZ\-aeyQ"> رضا البحراوي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,466 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,596 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 15 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 |
 | 16 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 |
 | 17 | [Sam3t Kalamkom Any](https://open.spotify.com/track/6hn5h9eNL9e3duK8GvhZc1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Abdelsalam](https://open.spotify.com/artist/52bZNntY7uZF12QFyLb6lW) | [Sam3t Kalamkom Any](https://open.spotify.com/album/1T6PrKiCpf2OJMihEHqemY) | 4:57 |
-| 18 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 |
-| 19 | [El Gaw Hady](https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Salefny Dehketak](https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY) | 4:16 |
+| 18 | [El Gaw Hady](https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Salefny Dehketak](https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY) | 4:16 |
+| 19 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 |
 | 20 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 |
 | 21 | [الدنيا زى المرجيحة](https://open.spotify.com/track/3hpTzud70Ev2P0DRrwq5ei) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/0fjBBiAujhUV5XN0ufBxeP) | 4:56 |
 | 22 | [سيبوني](https://open.spotify.com/track/1RXbcP0PhN3AbnsDTj7uyA) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [سيبوني](https://open.spotify.com/album/3KJteSxCh4k5cbeJwATGcd) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Ana El Donia](https://open.spotify.com/track/4kuvuv1J57AcF8H8yZIAl1) | [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb) | [Ana El Donia](https://open.spotify.com/album/6Hm8ASZAiQae1R3WsMCofc) | 4:24 |
 | 50 | [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Sagher](https://open.spotify.com/artist/4KOKaMBblRBFSvw367yNDo) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 |
 
-Snapshot ID: `MCw1MjI2YTQzZDQ0MmE0MjYzMjMwNDk5YzQ0OTVlNWNkZDRlZWQxMmIy`
+Snapshot ID: `MCxlOTA5Njk4Nzk2NmIwZmM2MjIyMzAzZTBkZTlhMDIyMTU4YjFkMDVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: BM & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,566 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,746 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 92 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
 | 93 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 94 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
-| 95 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
-| 96 | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm) | 3:12 |
-| 97 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
+| 95 | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm) | 3:12 |
+| 96 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
+| 97 | [Todo Me Recuerda a Ti / Después de Ti / Dale Mami](https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [El 22](https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF) | 8:00 |
 | 98 | [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 |
-| 99 | [Todo Me Recuerda a Ti / Después de Ti / Dale Mami](https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [El 22](https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF) | 8:00 |
+| 99 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 | 100 | [Vuela \(En Vivo\)](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es de Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 |
 
-Snapshot ID: `MCw0Zjk4ZDA2OTIzMzUzNjIyOTJjNTljYTE4MDhhNDRlNzZmMzFmMTYz`
+Snapshot ID: `MCwwOTA1N2JiMGFhYzVjZjBlOWJhMzEwN2I0MzA0MWYzMjQwMTczMzEy`

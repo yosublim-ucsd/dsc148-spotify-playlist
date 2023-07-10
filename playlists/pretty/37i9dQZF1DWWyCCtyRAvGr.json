@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 154017,
+  "num_followers": 154092,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzkxMDQzOGVkZjEwNDI2Zjg1NTkxNjNhMWU1MjM2NDM1YjVkMjQ3",
+  "snapshot_id": "MCxmNWM2ZTE0N2Y0ODA3MzQxODM3Yzc2OGZlMWRkMzA2Mzg1MjU4ODAw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Savoy",
-        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Colin James And The Little Big Band",
         "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 368466,
       "name": "Three Hours Past Midnight",
       "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Savoy",
+        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "How Blue Can You Get",
-        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 436213,
-      "name": "How Blue Can You Get",
-      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Smoke From The Chimney",
         "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "How Blue Can You Get",
+        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 436213,
+      "name": "How Blue Can You Get",
+      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-04-28 16:37:16",

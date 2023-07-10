@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 173594,
+  "num_followers": 173739,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzU0MDI3YmI2YWIxMjNjZWI0ZGNjZGNkZGZkYmY2ZGQwNzAzYzQz",
+  "snapshot_id": "MCwzMDdkMTFkNGMyOWUzZDZkNWEwYWNiMWRiY2RhYTRlZjQ0N2E1NmUz",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Levronka",
-        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Better On My Own",
-      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Levronka",
+        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1143,38 +1143,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "do u really?",
-        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
+        "name": "Everlasting Dance",
+        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
         }
       ],
-      "duration_ms": 161123,
-      "name": "do u really? (with Ruth B.)",
-      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+      "duration_ms": 203231,
+      "name": "Everlasting Dance",
+      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "do u really?",
+        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "do u really? (with Ruth B.)",
+      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "HEAL",
         "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Everlasting Dance",
-        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 203231,
-      "name": "Everlasting Dance",
-      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Shortcut To Heaven",
         "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "When We Were Younger",
-        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+        "name": "no more you and i",
+        "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
         }
       ],
-      "duration_ms": 159477,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+      "duration_ms": 200360,
+      "name": "no more you and i",
+      "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "no more you and i",
-        "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 200360,
-      "name": "no more you and i",
-      "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 186432,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Summer Is Like a Dream",
-        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "to love in the 21st century",
         "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 183693,
       "name": "the alternative",
       "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Summer Is Like a Dream",
+        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
     },
     {
       "added_at": "2023-07-07 04:01:00",

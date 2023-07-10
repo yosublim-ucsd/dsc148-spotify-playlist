@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,534 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,549 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 25 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
 | 26 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
 | 27 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
-| 28 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
-| 29 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
-| 30 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
+| 28 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
+| 29 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
+| 30 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
 | 31 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
 | 32 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
 | 33 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Love Is Death](https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:33 |
 | 52 | [JOYFUL](https://open.spotify.com/track/3mau755ebHNf9B0qXAQXF9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [JOYFUL](https://open.spotify.com/album/0x5Vn7tPWyACi4e02ahWEs) | 3:52 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBlYzdiMDk2NzliYmU5MGRhZWIwYjJiNDAxOTUzNTI0MQ==`
+Snapshot ID: `MjgxNDg0MDIsMDAwMDAwMDBkY2NkOGQzYzAxM2VkM2Y3MDAwZDgyMjU0NGQ1MjVkYQ==`

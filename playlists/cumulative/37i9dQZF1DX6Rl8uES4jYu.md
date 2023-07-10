@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-387 songs - 21 hr 51 min
+388 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,8 +356,9 @@
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |
 | [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 |  |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2021-09-21 | 2023-02-18 |
-| [Twilight](https://open.spotify.com/track/16i7TSAlPdCCsKbfs8ljIF) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/36iL4tjGVh54D5jv86C0Ug) | 2:36 | 2022-04-22 |  |
+| [Twilight](https://open.spotify.com/track/16i7TSAlPdCCsKbfs8ljIF) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/36iL4tjGVh54D5jv86C0Ug) | 2:36 | 2022-04-22 | 2023-07-10 |
 | [Twilight](https://open.spotify.com/track/1QBe7OkwPGC2dWNj60fyST) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/3RlWPF3loAxfW3kyqB10MX) | 2:36 | 2022-04-15 | 2022-07-29 |
+| [Twilight](https://open.spotify.com/track/2POIx2rF49N3tea41FlqtL) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 2:36 | 2022-04-22 |  |
 | [Undone](https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:25 | 2021-09-21 | 2023-02-18 |
 | [Undone](https://open.spotify.com/track/49ZvaIake70xuytUSh51j2) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Undone](https://open.spotify.com/album/4VClYASZUUBcNVDZQbFIkB) | 3:25 | 2021-09-21 | 2022-07-29 |
 | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/track/5PiqAqrgS1XPvtFHjs5DGJ) | [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [MOZIAH](https://open.spotify.com/artist/1e8LCE63Bot5qj6D4g1keE) | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/album/1N6wF1rv6gsTldexycR3Ip) | 4:20 | 2022-01-28 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 53530,
+  "num_followers": 53607,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGUzZjc3ZjkwYTdjMzBhNzhmZjBhMDE1NDk5MmI3YTc2OWY1MDc3",
+  "snapshot_id": "MCwyZGNiMzU1MDc1ZTEyYTZkYjAyZGZiNDY5YzZhZTE0M2I0YjRlOTdj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1291,26 +1291,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "give me hell",
-        "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
       "artists": [
         {
-          "name": "Sam Nelson",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         },
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         },
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 184666,
-      "name": "give me hell",
-      "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1347,26 +1347,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+        "name": "give me hell",
+        "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
         },
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         },
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 270426,
-      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+      "duration_ms": 184666,
+      "name": "give me hell",
+      "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Mary Jane & Chardonnay",
-      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Colour Your World",
         "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
         }
       ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ"
+      "duration_ms": 201120,
+      "name": "Mary Jane & Chardonnay",
+      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ"
     },
     {
       "added_at": "2023-07-07 04:00:00",

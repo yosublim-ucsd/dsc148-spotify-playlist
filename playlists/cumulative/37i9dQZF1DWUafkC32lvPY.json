@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+    },
+    {
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
       },
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"

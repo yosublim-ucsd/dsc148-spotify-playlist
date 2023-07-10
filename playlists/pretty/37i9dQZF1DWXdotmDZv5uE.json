@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 127317,
+  "num_followers": 127339,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzUyNzk0OTZkOTMwNWJkOTM5NDZjOGY4NmZmYWU0NzBiZWNhZTZk",
+  "snapshot_id": "MCw3OTQ5YzMzYjViY2I2ZWVlMzI3NDY3MWZlMzQ1N2MwMTEyNDQwNjBj",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "El Tilingo Lingo",
-        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jarocho Lindo Veracruz",
-          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
-        }
-      ],
-      "duration_ms": 175972,
-      "name": "El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Gr\u00edtenme Piedras Del Campo (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 208706,
       "name": "Gr\u00edtenme Piedras Del Campo - En Vivo Desde La Ciudad De M\u00e9xico, 2017",
       "url": "https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "El Tilingo Lingo",
+        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jarocho Lindo Veracruz",
+          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
+        }
+      ],
+      "duration_ms": 175972,
+      "name": "El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 397133,
-      "name": "La Gallina",
-      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "M\u00e9xico",
         "url": "https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 213573,
       "name": "El Trompo (Son Jarocho) [Veracruz]",
       "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "La Gallina",
+      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1367,26 +1367,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
-        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
+        "name": "Los Primeros A\u00f1os",
+        "url": "https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6"
       },
       "artists": [
         {
-          "name": "Velino Miguel Preza",
-          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
-        },
-        {
-          "name": "Anabel Medrano",
-          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
-        },
-        {
-          "name": "Ensamble Centenario",
-          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Lindas Mexicanas",
-      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
+      "duration_ms": 131691,
+      "name": "Jesusita en Chihuahua",
+      "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1407,18 +1399,26 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Los Primeros A\u00f1os",
-        "url": "https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6"
+        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
+        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Velino Miguel Preza",
+          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
+        },
+        {
+          "name": "Anabel Medrano",
+          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
+        },
+        {
+          "name": "Ensamble Centenario",
+          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
         }
       ],
-      "duration_ms": 131691,
-      "name": "Jesusita en Chihuahua",
-      "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
+      "duration_ms": 267720,
+      "name": "Lindas Mexicanas",
+      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "La Virgen de la Macarena",
+      "url": "https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 159348,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/5iWQnAQMgQMhnsO2d1FK4b"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "La Virgen de la Macarena",
-      "url": "https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL"
     },
     {
       "added_at": "2023-05-09 18:01:28",

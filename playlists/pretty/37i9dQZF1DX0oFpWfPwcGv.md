@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,646 likes - 75 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,694 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 45 | [MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise](https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 17:47 |
 | 46 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
 | 47 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
-| 48 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 |
-| 49 | [Ain't No Mountain High Enough](https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B) | 7:59 |
+| 48 | [Ain't No Mountain High Enough](https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B) | 7:59 |
+| 49 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 |
 | 50 | [Wear It Out](https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | [The Changing Of The Gard](https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto) | 5:17 |
 | 51 | [Bad Girls \- 12" Version](https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 4:55 |
 | 52 | [I Need A Man](https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 75 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 
-Snapshot ID: `MCxlYmZiN2I2OWM5YjIzMGZhZDI4MGIzMGVlZWRkZjNkZjUyN2RlZjY3`
+Snapshot ID: `MCw0NGFlMDNiMDgzNGVjYjFkNTZhOThiOTA5MjkyZGUyYmQ1OGQ0OTNl`

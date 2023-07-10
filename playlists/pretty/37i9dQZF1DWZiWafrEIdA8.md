@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,511 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,522 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 28 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
 | 29 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 30 | [FLOWER \(Prod\. by AVIN\)](https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [FLOWER](https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ) | 4:07 |
-| 31 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
-| 32 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 31 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 |
+| 32 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
 | 33 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
 | 34 | [X \(Butterfly\)](https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [X \(Butterfly\)](https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O) | 3:13 |
 | 35 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
 | 50 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 
-Snapshot ID: `MCw4ZjdlMGIxOTFjYjc2OGEyNGU2ODQyYmZiYzc5YTQ2Y2VjODhlNjVm`
+Snapshot ID: `MCwzM2E2NzUwNTM2OTBhYTNmZDg1Y2JjMWI4YTFmZTI2MTllZjZhOGNi`

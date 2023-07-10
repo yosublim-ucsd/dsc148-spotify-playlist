@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "artifact 22",
+        "url": "https://open.spotify.com/album/2PFM9dsU68zeAWCA1dbAHb"
+      },
+      "artists": [
+        {
+          "name": "fearofmakingout",
+          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104761,
+      "name": "artifact 22",
+      "url": "https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 214131,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/5DZQx7Dty5uqJQV9L05rOg"
@@ -952,7 +970,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242872,
-      "name": "Boy from Carolina",
+      "name": "Boy From Carolina",
       "url": "https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca"
     },
     {
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 214720,
       "name": "Cue",
       "url": "https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb"
@@ -2331,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "NOMAD - EP",
+        "url": "https://open.spotify.com/album/1QFTJyV7Hqu3RzDAcnIiDF"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143428,
+      "name": "FAIRWEATHER FRIENDS",
+      "url": "https://open.spotify.com/track/2DJKddEKlheoF8fdfnGT0E"
+    },
+    {
+      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
@@ -2480,6 +2516,24 @@
       "duration_ms": 224295,
       "name": "Footnote",
       "url": "https://open.spotify.com/track/7jrYMBC1bS1SCwxE2bt3AP"
+    },
+    {
+      "album": {
+        "name": "For Oli",
+        "url": "https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI"
+      },
+      "artists": [
+        {
+          "name": "Eliott",
+          "url": "https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "For Oli",
+      "url": "https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG"
     },
     {
       "album": {
@@ -5283,6 +5337,28 @@
     },
     {
       "album": {
+        "name": "nice 2 me (acoustic)",
+        "url": "https://open.spotify.com/album/3Rm5j6ZnxM2xTlkJqmstdg"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150348,
+      "name": "nice 2 me - acoustic",
+      "url": "https://open.spotify.com/track/5ygX6eMmxTrjG7I8zgNe86"
+    },
+    {
+      "album": {
         "name": "No Time To Die",
         "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
       },
@@ -5500,7 +5576,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 271693,
       "name": "On God",
       "url": "https://open.spotify.com/track/7Imv7ToM8XZoumqkNSQ6tQ"
@@ -7770,7 +7846,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 201219,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/5YpVkRlJKvqb6cFgML4tF2"

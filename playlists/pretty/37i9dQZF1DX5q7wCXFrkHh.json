@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 67347,
+  "num_followers": 67428,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU4MDYyZTg4NTUzNzU3ZDZkN2U4ZDdlMTdkZjVkNTVlOWYwN2Yz",
+  "snapshot_id": "MCw5Zjg2YTEwMzJhNjJhOWU0NDYxYzNmMmQyMDVlMzExOWIwYWM0YTRh",
   "tracks": [
     {
       "added_at": "2023-06-21 12:02:17",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "The Amazing Bud Powell",
-        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 196353,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "From Gagarin's Point of View",
         "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 243333,
       "name": "From Gagarin's Point of View",
       "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "The Amazing Bud Powell",
+        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 196353,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Largo",
-        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 396626,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 227323,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+      "duration_ms": 396626,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "Kenny Drew And His Progressive Piano",
+        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "52nd Street Theme",
+      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Kenny Drew And His Progressive Piano",
-        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
       "artists": [
         {
-          "name": "Kenny Drew",
-          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 204506,
-      "name": "52nd Street Theme",
-      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+      "duration_ms": 227323,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+        "name": "Duke's Dream",
+        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Rosario Giuliani",
+          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+      "duration_ms": 440133,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Duke's Dream",
-        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
       "artists": [
         {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Rosario Giuliani",
-          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 440133,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1083,34 +1083,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "The Best Of Art Tatum",
-        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        },
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "John Simmons",
-          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
-        },
-        {
-          "name": "Alvin Stoller",
-          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
-        }
-      ],
-      "duration_ms": 367600,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "This Here Is Bobby Timmons",
         "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
@@ -1171,6 +1143,34 @@
       "duration_ms": 317439,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "The Best Of Art Tatum",
+        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "John Simmons",
+          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
+        },
+        {
+          "name": "Alvin Stoller",
+          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
+        }
+      ],
+      "duration_ms": 367600,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 186136,
       "name": "Someday My Prince Will Come",
       "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1315,6 +1315,22 @@
       "duration_ms": 209560,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/4JswQ5RPx2SBuU3kxxeazr"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Someday My Prince Will Come - Take 5",
+      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Someday My Prince Will Come - Take 5",
-      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
+      "duration_ms": 374093,
+      "name": "A Blue Time",
+      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1443,22 +1459,6 @@
       "duration_ms": 306967,
       "name": "Wild Music",
       "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "A Blue Time",
-      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2023-06-21 12:02:17",

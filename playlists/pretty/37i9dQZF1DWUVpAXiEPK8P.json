@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4232452,
+  "num_followers": 4232870,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWUxZDA1MGJhYTliYmM1MjgzYWMyMzg0YTdmMDE5NTBjMWQ5MGU1",
+  "snapshot_id": "MCw5Nzk3MzcyYTllMzQxNDU4YjcyMzJlOGMxN2NiMzdhYTNlNTExNWJj",
   "tracks": [
     {
       "added_at": "2023-06-05 10:16:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-05 10:16:17",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
-    },
-    {
-      "added_at": "2023-06-05 10:16:17",
-      "album": {
         "name": "MUDBOY",
         "url": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
+    },
+    {
+      "added_at": "2023-06-05 10:16:17",
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
       "added_at": "2023-06-05 10:16:17",

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 682234,
+  "num_followers": 682339,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGE3YTJhMzA2OWU2OGJjNjA1MTQwNTQzMGQ2NjhhNDE1NjhiOTY1",
+  "snapshot_id": "MCw1YThmY2I4NmMxZjA1ODVkZDk3OGU5MWE4MDNjYTA4ZmUwYzU3ZDI0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 217873,
-      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
-      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
+      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus)",
       "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
       "artists": [
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 154869,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
-        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
-      },
-      "artists": [
-        {
-          "name": "Dillon James",
-          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Times They Are A-Changin\u2019 - Performance Version",
-      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 190885,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
+        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Times They Are A-Changin\u2019 - Performance Version",
+      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
     },
     {
       "added_at": "2023-06-02 04:01:00",

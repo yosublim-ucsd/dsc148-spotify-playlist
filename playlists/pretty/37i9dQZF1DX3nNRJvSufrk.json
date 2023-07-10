@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 30219,
+  "num_followers": 30226,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGJkNjE5MjQ4MjU3NDk5ZWY5M2VkNjcxZDZjMmExYTliOTc2MDcz",
+  "snapshot_id": "MCw1ZGExYzI0YTA0OTU5ZGU1MGI0MzMxNmU0OGNhMGZkZDNmNDExODg0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Fire Man",
-      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/7AnMZI0aVrL78woSutj73B"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195023,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2YsJMtlbBz0IkpFSnpWCzr"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "Fire Man",
+      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "VIP VAULTS",
-        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
-      },
-      "artists": [
-        {
-          "name": "Slick Shoota",
-          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
-        }
-      ],
-      "duration_ms": 271083,
-      "name": "147",
-      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Crack Capone",
         "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167973,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "VIP VAULTS",
+        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoota",
+          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
+        }
+      ],
+      "duration_ms": 271083,
+      "name": "147",
+      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE, Vol. 2",
-        "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
       "artists": [
         {
@@ -952,13 +952,17 @@
           "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
         },
         {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+          "name": "DJ Big Hank",
+          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
+        },
+        {
+          "name": "Sirr TMO",
+          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
         }
       ],
-      "duration_ms": 162750,
-      "name": "fucK iT uP",
-      "url": "https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16"
+      "duration_ms": 206853,
+      "name": "DON'T JUST STAND THERE",
+      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -979,22 +983,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Heavy on DA Footwork",
-        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 246308,
-      "name": "Nycfw",
-      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue"
       },
@@ -1007,6 +995,22 @@
       "duration_ms": 277348,
       "name": "8 Bit Shit",
       "url": "https://open.spotify.com/track/47kYzDNmceCNSzWdw2InRC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Heavy on DA Footwork",
+        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 246308,
+      "name": "Nycfw",
+      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1027,22 +1031,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Curt",
-          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
-        }
-      ],
-      "duration_ms": 303308,
-      "name": "Next Subject",
-      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "All I See Is Red",
         "url": "https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z"
       },
@@ -1055,6 +1043,22 @@
       "duration_ms": 317660,
       "name": "All I See Is Red",
       "url": "https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
+      },
+      "artists": [
+        {
+          "name": "DJ Curt",
+          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
+        }
+      ],
+      "duration_ms": 303308,
+      "name": "Next Subject",
+      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1091,8 +1095,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
+        "name": "ON LIFE, Vol. 2",
+        "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
       },
       "artists": [
         {
@@ -1100,17 +1104,13 @@
           "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
         },
         {
-          "name": "DJ Big Hank",
-          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
-        },
-        {
-          "name": "Sirr TMO",
-          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
         }
       ],
-      "duration_ms": 206853,
-      "name": "DON'T JUST STAND THERE",
-      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
+      "duration_ms": 162750,
+      "name": "fucK iT uP",
+      "url": "https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
-        "url": "https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj"
+        "name": "Slanted",
+        "url": "https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB"
       },
       "artists": [
         {
-          "name": "EQ Why",
-          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
+          "name": "Tim Parker",
+          "url": "https://open.spotify.com/artist/2SzHSUFj8BUrUplhzpbW5T"
+        },
+        {
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
         }
       ],
-      "duration_ms": 157786,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0mw6UU3tr1g7cn8sd744JH"
+      "duration_ms": 226000,
+      "name": "Slanted (BSN Posse Remix)",
+      "url": "https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Slanted",
-        "url": "https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB"
+        "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
+        "url": "https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj"
       },
       "artists": [
         {
-          "name": "Tim Parker",
-          "url": "https://open.spotify.com/artist/2SzHSUFj8BUrUplhzpbW5T"
-        },
-        {
-          "name": "BSN Posse",
-          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Slanted (BSN Posse Remix)",
-      "url": "https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG"
+      "duration_ms": 157786,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0mw6UU3tr1g7cn8sd744JH"
     },
     {
       "added_at": "2023-06-30 04:00:00",

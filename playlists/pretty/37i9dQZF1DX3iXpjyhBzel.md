@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Isaias Saad, Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,174 likes - 100 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,561 likes - 100 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 59 | [Minha Essência](https://open.spotify.com/track/78LeIXA2DNk2FsgXko16kE) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Minha Essência](https://open.spotify.com/album/3UgzGMBPgRGe7GY2mdQKOQ) | 4:33 |
 | 60 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
 | 61 | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue](https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO) | 7:25 |
-| 62 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
+| 62 | [Existe Uma Força](https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Existe Uma Força](https://open.spotify.com/album/0GxF0Y9XuVBKiAYCNtcAEG) | 5:56 |
 | 63 | [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 |
-| 64 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
-| 65 | [Existe Uma Força](https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Existe Uma Força](https://open.spotify.com/album/0GxF0Y9XuVBKiAYCNtcAEG) | 5:56 |
+| 64 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
+| 65 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
 | 66 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
 | 67 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 |
 | 68 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Eu Amo a Tua Glória \- Ao Vivo](https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Eu Amo a Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca) | 8:58 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw1YTc3ZGFmNWFjMGNiZDUzNzRmODkzMWUyMGJmOGE3MTI3YmM3Njk2`
+Snapshot ID: `MCxiNjI1YjU0OWZlYmNiZTQ0MTczYzI5Y2Q1NzEyODUxYjM0NGVjZTM5`

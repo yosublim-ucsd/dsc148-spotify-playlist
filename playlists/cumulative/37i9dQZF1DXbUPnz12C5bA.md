@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-115 songs - 8 hr 37 min
+116 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [Mi Primer Amor](https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Colombia Y Su Folclor Vol I](https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa) | 4:30 | 2022-01-24 | 2023-02-14 |
 | [Muere una Flor](https://open.spotify.com/track/0jnKOvTW1XTC6Na2VPJyXL) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 3:36 | 2023-02-13 |  |
 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2023-02-13 |  |
+| [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 | 2023-02-13 |  |
 | [No Te Da Dolor](https://open.spotify.com/track/2QZsiRImJ129TzBkk43rDv) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Beto Rada](https://open.spotify.com/artist/5urvrwvm3mQzKGUwQUAoTl), [Cheche Rada](https://open.spotify.com/artist/6EoykLq9drbjzLU2yFq8G5) | [100 Años de Vallenato \(Vol.3\)](https://open.spotify.com/album/0B8gsuwmyqtT5usO6aYrZa) | 3:47 | 2022-01-24 | 2023-02-14 |
-| [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 | 2023-02-13 |  |
+| [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 | 2023-02-13 | 2023-07-10 |
 | [No Voy A Llorar](https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI) | 4:43 | 2023-02-13 |  |
 | [No Voy A Llorar](https://open.spotify.com/track/5MWJ8J0jyXtJQcnsB9iykS) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/4G3uYZwUvhvi8IByx7CUgU) | 4:43 | 2023-02-14 | 2023-04-02 |
 | [Nostalgia](https://open.spotify.com/track/35oUEXOfzoNUFtKDdHdQxl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Fiesta Con El Binomio De Oro](https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy) | 4:57 | 2022-01-24 | 2023-02-14 |

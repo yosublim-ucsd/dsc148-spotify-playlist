@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: CHEEZE\(치즈\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,776 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,896 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 52 | [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 |
 
-Snapshot ID: `MCw1NjkyMDkxMDMwOWRmZDk1YjgzZmJjZWJmYmE1NWFjYjJjMWY1ZDNm`
+Snapshot ID: `MCxhZmU4MzU5MzhmMzY0NGFiMTU0NGQxYWIxNzkyYWI0YjU1ZmVhOGYy`

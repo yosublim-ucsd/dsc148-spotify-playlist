@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 171077,
+  "num_followers": 171142,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2FkM2MyNmIzZjA1MDlkNGVmOWQwZGYyYmJkOGQ2YWFmYmNiYWQ4",
+  "snapshot_id": "MCw0ZWFlNGM1MzU5ZTZlNmMyNTdmM2ZkNzRkMDFlNDgwMzNlNTM3MjIz",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
         "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 209373,
       "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
       "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 136400,
       "name": "Le Carnaval des Animaux, R.125: 4. Tortues",
       "url": "https://open.spotify.com/track/5Un9h6xPqnHSvguexXnbEg"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "The Flemish Piano Sonatina in the 20th Century",
-        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
-      },
-      "artists": [
-        {
-          "name": "Georges Lonque",
-          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
-        },
-        {
-          "name": "Daniel Blumenthal",
-          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
         "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 172000,
       "name": "Can\u00e7oneta for Violin and Orchestra",
       "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "The Flemish Piano Sonatina in the 20th Century",
+        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
+      },
+      "artists": [
+        {
+          "name": "Georges Lonque",
+          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
+        },
+        {
+          "name": "Daniel Blumenthal",
+          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1139,54 +1139,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bruch, Brahms & Schubert: Chamber Works",
-        "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Natalia Lomeiko",
-          "url": "https://open.spotify.com/artist/0VRKTtCSFNvoGRjwt2Q7oG"
-        },
-        {
-          "name": "Yuri Zhislin",
-          "url": "https://open.spotify.com/artist/73nyE5x0JnuIdIFckF1kNu"
-        },
-        {
-          "name": "Ivan Martin",
-          "url": "https://open.spotify.com/artist/6yZfmnuE5QB8HfxbQlYJNE"
-        }
-      ],
-      "duration_ms": 159010,
-      "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
-      "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "French Festival",
         "url": "https://open.spotify.com/album/0T9YCy8TruLD6Z4qiCGSn6"
       },
@@ -1211,6 +1163,54 @@
       "duration_ms": 221000,
       "name": "3 Gymnopedies (orch. Debussy): Gymnopedie No. 2",
       "url": "https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Bruch, Brahms & Schubert: Chamber Works",
+        "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Natalia Lomeiko",
+          "url": "https://open.spotify.com/artist/0VRKTtCSFNvoGRjwt2Q7oG"
+        },
+        {
+          "name": "Yuri Zhislin",
+          "url": "https://open.spotify.com/artist/73nyE5x0JnuIdIFckF1kNu"
+        },
+        {
+          "name": "Ivan Martin",
+          "url": "https://open.spotify.com/artist/6yZfmnuE5QB8HfxbQlYJNE"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
+      "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
     },
     {
       "added_at": "2023-02-09 09:05:31",

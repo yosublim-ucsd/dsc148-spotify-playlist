@@ -1,12 +1,12 @@
 {
   "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Nicki Minaj, Ice Spice\n",
-  "num_followers": 117406,
+  "num_followers": 117421,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGI2NDNkNzVhY2I5MzQ3ZWJmNzgxYmNkMWUyNWQ5N2I0MWUxMTRm",
+  "snapshot_id": "MCw4YmJmZWRiMTc1OTkyNGM2OGZjOWYyNTFkYzg4ZjUzMmQzMWZlYjFj",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -347,6 +347,30 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "TUYA",
         "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
@@ -383,26 +407,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -423,22 +439,6 @@
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Don't Say Love",
-        "url": "https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Don't Say Love",
-      "url": "https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Feed The Beast",
         "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Don't Say Love",
+        "url": "https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Don't Say Love",
+      "url": "https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
       },
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "The Idol Episode 2 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 183884,
-      "name": "Family (with Suzanna Son)",
-      "url": "https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 189918,
       "name": "D\u00e9jalo En Visto",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "The Idol Episode 2 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 183884,
+      "name": "Family (with Suzanna Son)",
+      "url": "https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "A Beautiful Game",
-        "url": "https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "A Beautiful Game",
-      "url": "https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "You (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/3FVIQNWifqm975Tulc729C"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 184206,
       "name": "You (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Vt0NNEPzWCVwEkNYF2HQn"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "A Beautiful Game",
+        "url": "https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "A Beautiful Game",
+      "url": "https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1219,26 +1219,34 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 171233,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
+      "duration_ms": 239817,
+      "name": "Feel Good Too",
+      "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "HER MIND",
+        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 131050,
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1263,34 +1271,26 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "HER MIND",
-        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
       },
       "artists": [
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 131050,
-      "name": "Cuntelectual",
-      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Mystical Magical Rhythmical Radical Ride",
-        "url": "https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP"
-      },
-      "artists": [
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 239817,
-      "name": "Feel Good Too",
-      "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
     },
     {
       "added_at": "2023-07-07 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 693275,
+  "num_followers": 693612,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTdiZGQ4MzkyZTI2ZmY1NjQwNWQ0OTk1YzRlNGY5MjdhYmE2NGE5",
+  "snapshot_id": "MCwyY2U5MjU1MDcwMTdmNjM3NzdmNWY4MjYyZTQzOTAzYzZiYTI0NGUx",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "BLENDER",
-      "url": "https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "BLENDER",
+      "url": "https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i"
     },
     {
       "added_at": "2023-07-07 03:00:00",

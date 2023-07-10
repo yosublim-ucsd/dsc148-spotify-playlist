@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera ",
-  "num_followers": 10997,
+  "num_followers": 11035,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTdmZjhjZTBmZmIzMjFmOWJiYmI1NDc3N2U3MjYwNzg4NTgyYmZj",
+  "snapshot_id": "MCw4YjJjMzlkZWViYjJmYmI0OTQyZWEwZTUyMDA1OGFkYjBlMWQ3ZjQ2",
   "tracks": [
     {
       "added_at": "2023-05-26 08:27:44",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "De Lunes A Viernes",
         "url": "https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
       },
       "artists": [
         {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2023-05-26 08:27:44",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 194677,
+  "num_followers": 194802,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODA4OTFhMmMzM2ZkNTJmOGU2ZjNhNGFmMmUzOWQ0NDI5NTUzMTMy",
+  "snapshot_id": "MCw5NWRhNTViZWFhYjQ0MDlkMTE1M2Q3ZWY4Njg3YWZkZGU2OWFiOGJi",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "The Best Of Bill Medley",
+        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time Of My Life",
+      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Violator | The 12\" Singles",
         "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 257630,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "The Best Of Bill Medley",
-        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
-      },
-      "artists": [
-        {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "(I've Had) The Time Of My Life",
-      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 271440,
       "name": "Eduardo E M\u00f4nica",
       "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Maniac - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Heaven On Earth (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 233666,
       "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
       "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Save a Prayer - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 333306,
+      "name": "Save a Prayer - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 223733,
       "name": "Big Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 HITS",
-        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Maniac - From \"Flashdance\"",
-      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
     },
     {
       "added_at": "2020-06-24 14:37:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,991 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,346 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 76 | [That's the Way Love Goes](https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:01 |
 | 77 | [You're The Reason God Made Oklahoma](https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q), [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [The Very Best Of David Frizzell & Shelly West](https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI) | 3:24 |
 | 78 | [Love Is Alive](https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:58 |
-| 79 | [All My Rowdy Friends \(Have Settled Down\)](https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits](https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ) | 4:00 |
-| 80 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
+| 79 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
+| 80 | [All My Rowdy Friends \(Have Settled Down\)](https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits](https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ) | 4:00 |
 | 81 | [I Wish That I Could Fall In Love Today](https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [I'll Be Your Jukebox Tonight](https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4) | 2:52 |
 | 82 | [Don't Close Your Eyes](https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 4:11 |
 | 83 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 | 150 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
 
-Snapshot ID: `MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy`
+Snapshot ID: `MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm`

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1452,
+  "num_followers": 1472,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjRmZjM0NzNiZmE2NmRjYjVmMDUzODc5NzJkZDJlYWViMjNkMmZk",
+  "snapshot_id": "MCxiYjg1OWM2YjczNTc2NzgyODJhZThiNmY3NjNlZTk4YzRhYTM4MDU3",
   "tracks": [
     {
       "added_at": "2023-07-07 00:01:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
       },
       "artists": [
         {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -595,38 +595,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
       "artists": [
         {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
-        },
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
         }
       ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
-      },
-      "artists": [
-        {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
-        }
-      ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -643,6 +623,26 @@
       "duration_ms": 206500,
       "name": "Na Gode - Swahili",
       "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+      },
+      "artists": [
+        {
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+        },
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+        }
+      ],
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Siteketei",
-        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
+        "name": "KELELE ZA USHINDI",
+        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
       },
       "artists": [
         {
-          "name": "Angel Benard",
-          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "ZORAVO",
+          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
         }
       ],
-      "duration_ms": 210076,
-      "name": "Siteketei",
-      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
+      "duration_ms": 221936,
+      "name": "KELELE ZA USHINDI",
+      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
     }
   ],
   "unique_name": "Sunday Service",

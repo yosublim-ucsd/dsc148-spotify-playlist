@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-105 songs - 6 hr 21 min
+106 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2022-04-18 |  |
 | [LQRA Session \#11](https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [LQRA Session \#11](https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC) | 4:06 | 2023-02-24 |  |
 | [Mabiland Hotline: Cobuz & Bustta](https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Mabiland Hotline: Cobuz & Bustta](https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz) | 2:49 | 2023-05-12 |  |
-| [Made to Suffer](https://open.spotify.com/track/6TcJHV7ling7h610MGQbfD) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Made to Suffer](https://open.spotify.com/album/4rsStNbnZHEUe1D1hiGWgI) | 4:11 | 2023-06-09 |  |
+| [Made to Suffer](https://open.spotify.com/track/3C4MGD2dVIhzbwLh5vQmi3) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Soul Glow](https://open.spotify.com/album/17lIm26ljC86dEhcBDf0Rs) | 4:11 | 2023-07-07 |  |
+| [Made to Suffer](https://open.spotify.com/track/6TcJHV7ling7h610MGQbfD) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Made to Suffer](https://open.spotify.com/album/4rsStNbnZHEUe1D1hiGWgI) | 4:11 | 2023-06-09 | 2023-07-10 |
 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 | 2023-04-07 |  |
 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 | 2023-06-16 |  |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-03-24 |  |

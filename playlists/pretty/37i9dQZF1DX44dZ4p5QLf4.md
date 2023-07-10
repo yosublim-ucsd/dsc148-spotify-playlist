@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,179 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,264 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 |
 | 100 | [Promises](https://open.spotify.com/track/30e2kRNthNcvB9l9isDMLD) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:08 |
 
-Snapshot ID: `MCxkODdmNTMwNzM4MDE4YjIxMWQ5N2IxYjY1NTM1YjM5NDYyMTcyMjNh`
+Snapshot ID: `MCw3Y2I5MWQzNzZkN2EyNjhkZTIzNDA1YWUxMzJlNGVlODY2N2E1Y2My`

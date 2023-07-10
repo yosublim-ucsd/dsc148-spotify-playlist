@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,481 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,563 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 65 | [Mujer Paseada](https://open.spotify.com/track/4HxcEHl9hIvVIdUAsuIoUi) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB) | 2:42 |
 | 66 | [Fue Tu Culpa](https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 3:35 |
 | 67 | [Los Barandales Del Puente](https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL) | 3:21 |
-| 68 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 2:10 |
-| 69 | [El Amor No Se Vende](https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 3:27 |
+| 68 | [El Amor No Se Vende](https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 3:27 |
+| 69 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 2:10 |
 | 70 | [Ni Dada La Quiero](https://open.spotify.com/track/0Co8QuZSebAcqdGNiytgWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Desamor y Despecho](https://open.spotify.com/album/36UumirVgAYAdu5hlrQWr9) | 2:48 |
 | 71 | [Tus Verdades](https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 2:43 |
 | 72 | [La Botella](https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 3:26 |
 | 73 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
 | 74 | [El Primer Tonto](https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:58 |
-| 75 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
-| 76 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
-| 77 | [La Chuparrosa](https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un Golpe Mas](https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu) | 2:31 |
+| 75 | [La Chuparrosa](https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un Golpe Mas](https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu) | 2:31 |
+| 76 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
+| 77 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
 | 78 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 79 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |
 | 80 | [Que Casualidad](https://open.spotify.com/track/3UemX5xi5Qlr5TDx94fgoO) | [Los Sierreños De Sinaloa](https://open.spotify.com/artist/591DfPGLZ9Q9fWLrRIbSJn) | [Se Solicita Personal](https://open.spotify.com/album/3bX1uCqj9h06cSCQ9PE8Ap) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Mi Virgencita](https://open.spotify.com/track/2kLYRxamXLrWk11CRRtlp2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Carnita Asada Sierreña](https://open.spotify.com/album/3wv1ZejKf5Gbk32GYfKPZR) | 2:24 |
 | 100 | [Panfilita](https://open.spotify.com/track/6gaKSvGKBdvHhVL82k9w0E) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [El gavilan de acero](https://open.spotify.com/album/08kWZ6q2C80r8OdhCJcq2R) | 3:09 |
 
-Snapshot ID: `MCxjZTk4MDIwMTI4MzU3MDUyNjA1M2RhY2Y3M2FiMDYwNTJhZTc4Nzkz`
+Snapshot ID: `MCwwNWNiNjE0MDkwNzE0OGE2YWQ2ZTY2ZGM1NjllYzZlNDQyY2ZkNWQ0`

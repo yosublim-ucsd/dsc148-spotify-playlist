@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,465 likes - 51 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,516 likes - 51 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 36 | [Lay Down, Stay Down \- Remastered 2004](https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:20 |
 | 37 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
 | 38 | [Lady Luck \- 2010 Digital Remaster](https://open.spotify.com/track/0GTZdFCyqZ0gTItkBaiE3i) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 2:47 |
-| 39 | [Bad Attitude](https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:46 |
-| 40 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
+| 39 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
+| 40 | [Bad Attitude](https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:46 |
 | 41 | [Bloodsucker \- 1995 Remaster](https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 4:13 |
 | 42 | [You Fool No One \- Remastered 2004](https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:47 |
 | 43 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Oh Well](https://open.spotify.com/track/1EcrjxVZRILxaa4pCkoZvy) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:31 |
 | 51 | [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDBkYmNhZjQ5ZDU3NjNkZTVhOTQ2NzY2NDM1OTY1OTMwYw==`
+Snapshot ID: `MjgxNDg0MDIsMDAwMDAwMDBiYzA2MmM4NWY4NWI5ODI4NDBmNmRmZTkyOTk0YzlhOQ==`

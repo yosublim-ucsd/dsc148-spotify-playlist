@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 16057,
+  "num_followers": 16073,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTlhYjZhMGNiYWE3ZWI4ZTg4Mjc4ODNhYWJhMDc5OTczYTg1YmJm",
+  "snapshot_id": "MCxkMTc1ZjUwZTY5NDY4ZjIyZjhjZTE4MDk0MmYyZDBhYTNiZGZkMDJl",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2020-05-03 08:57:28",

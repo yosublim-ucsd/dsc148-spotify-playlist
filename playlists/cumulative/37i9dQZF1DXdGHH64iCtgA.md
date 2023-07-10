@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-184 songs - 14 hr 39 min
+185 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-06-14 |  |
 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 | 2022-05-06 | 2022-07-29 |
 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 | 2022-06-14 |  |
+| [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Sita Abellan](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 | 2023-07-07 |  |
 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 | 2023-07-07 |  |
 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2022-06-14 |  |
@@ -153,7 +154,7 @@
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 | 2022-05-06 |  |
 | [Small Talk \(Okay\) \- Short Edit](https://open.spotify.com/track/6myz65R8kdkWg1ZWzDFgLK) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Small Talk \(Okay\)](https://open.spotify.com/album/1ZCOm2DINc1mPNYqk6qQyc) | 4:20 | 2022-05-06 | 2022-07-29 |
-| [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 | 2022-05-06 |  |
+| [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 | 2022-05-06 | 2023-07-10 |
 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 | 2022-05-06 | 2023-06-07 |
 | [Sol](https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV) | 3:07 | 2023-05-29 |  |
 | [Solid Ground \- Virgil Abloh Remix](https://open.spotify.com/track/1ErZRORpwdSiWOqmehP4LU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Solid Ground \(Virgil Abloh Remix\)](https://open.spotify.com/album/1oHkZUFpxxYNYjLYMLClTk) | 6:21 | 2022-05-06 |  |

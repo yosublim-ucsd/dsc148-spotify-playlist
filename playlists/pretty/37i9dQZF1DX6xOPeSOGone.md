@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,589,211 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,589,272 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 65 | [Let Me Love You Tonight](https://open.spotify.com/track/6vOMU2u38Z9Wru3CqPxcKs) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Firin' Up](https://open.spotify.com/album/6Norh72qPrDRebO1656Xo1) | 2:47 |
 | 66 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 | 67 | [Whatever Happened to Benny Santini?](https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:19 |
-| 68 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
-| 69 | [Indian Summer](https://open.spotify.com/track/44yC6xqdIvE4G60mGc81ng) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 3:03 |
+| 68 | [Indian Summer](https://open.spotify.com/track/44yC6xqdIvE4G60mGc81ng) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 3:03 |
+| 69 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 70 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
 | 71 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
-| 72 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
-| 73 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
+| 72 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
+| 73 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
 | 74 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
 | 75 | [Never Let Her Go](https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 3:07 |
 
-Snapshot ID: `MCwzNWI5NDdiNzQzYzM1MzEyNDRmZmZiNDc5YThlZmU4MzEwZDNmOWU1`
+Snapshot ID: `MCwxZDJhNDMzYWUxNTJjZDA1Y2M4YmYwNWRiMmI1ZWFlNzMwZTE4MTUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,941 likes - 118 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,966 likes - 118 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 117 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
 | 118 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 
-Snapshot ID: `MCw3M2IxYzliNDJlNTczNzAyYmE2YTU0YTgxOWY3MDg3MmZlMDNjMTQy`
+Snapshot ID: `MCxjZWNkYTI0ZTk1NDFmMzM4NzUwZWJmMzI5NjI2Y2UyN2IzMmFlMTYz`

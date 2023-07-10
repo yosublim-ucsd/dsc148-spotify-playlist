@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-115 songs - 10 hr 55 min
+116 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Je ne bois pas beaucoup](https://open.spotify.com/track/72nCkeEDv7znNYkz9jUrh4) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Je ne bois pas beaucoup](https://open.spotify.com/album/18AF4OmCJ4cNCejKGA7wO3) | 4:58 | 2022-12-20 |  |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2022-12-20 |  |
 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Pi Pi \(Turbotito & Ragz Rework Radio Edit\)](https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq) | 5:41 | 2022-12-20 |  |
-| [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-06-23 |  |
+| [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-06-23 | 2023-07-10 |
+| [Killing Me](https://open.spotify.com/track/6IB77Wc9qKk4eoIMaHTPik) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:14 | 2023-07-06 |  |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 |  |
 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 | 2022-12-20 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-12-20 |  |

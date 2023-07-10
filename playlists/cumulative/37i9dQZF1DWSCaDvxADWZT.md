@@ -4,7 +4,7 @@
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-184 songs - 11 hr 37 min
+185 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,8 +162,9 @@
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-03-11 | 2022-11-28 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 | 2021-03-17 | 2023-03-11 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3IiMX7XqF9aLNnRlkHt4me) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Chill sur la plage : Beach ambiance](https://open.spotify.com/album/4EaOJiNzRb6tKStrOzvW7P) | 4:01 | 2022-03-11 | 2022-11-14 |
+| [The Night Pat Murphy Died](https://open.spotify.com/track/41gyi3lBZzLRiHwfAAoI1G) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk) | 3:01 | 2023-03-10 |  |
 | [The Night Pat Murphy Died](https://open.spotify.com/track/3gPgHc1d2PhLlZXDD362SA) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy) | 3:04 | 2022-03-11 | 2023-04-29 |
-| [The Night Pat Murphy Died](https://open.spotify.com/track/416vQFnszeKUwKsXHcq4JF) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/5QuBHgoCMFaH1Jlp3HcTe2) | 3:04 | 2023-03-10 |  |
+| [The Night Pat Murphy Died](https://open.spotify.com/track/416vQFnszeKUwKsXHcq4JF) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/5QuBHgoCMFaH1Jlp3HcTe2) | 3:04 | 2023-03-10 | 2023-07-10 |
 | [The Parting Glass \(with Tommy Makem\)](https://open.spotify.com/track/5BdasEKX5aW3BKSgVK54EH) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Irish Drinking Songs](https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13) | 2:11 | 2021-03-17 |  |
 | [The Rare Auld Times](https://open.spotify.com/track/3qUAGcInwQbX3zGnVnSDEf) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [La Collection des Inoubliables Chansons de Pubs Irlandais, Vol\. 1](https://open.spotify.com/album/6iU8XhpeMbVSn0oZb836yE) | 4:59 | 2023-03-10 |  |
 | [The Rare Auld Times](https://open.spotify.com/track/6lJFItC3HH0erllyOq4WN2) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 5:30 | 2021-03-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 110380,
+  "num_followers": 110653,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWE4MjQ3ZGRkMGI4YWQ0YzJiM2ZmNDgxZjc0NzhmN2NkY2QzMmNj",
+  "snapshot_id": "MCw1Mjc2ZTRiOWMwMTFjMTk0YzgzNzcwZDg2YjhlOWIxMDEyODMyZjBl",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1203,18 +1187,34 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Big Girls Don't Cry and 12 Other Hits",
-        "url": "https://open.spotify.com/album/21nYbsqCxRcKE1gOB9f98a"
+        "name": "The Fabulous Miracles",
+        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
         }
       ],
-      "duration_ms": 137933,
-      "name": "Walk Like a Man",
-      "url": "https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz"
+      "duration_ms": 177706,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Beat Goes On: Best Of",
+        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
     }
   ],
   "unique_name": "Summer Hits of the 60s",

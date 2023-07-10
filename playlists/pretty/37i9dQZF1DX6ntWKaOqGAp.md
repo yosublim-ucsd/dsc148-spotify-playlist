@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: RADWIMPS
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,791 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,872 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 |
 | 100 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 |
 
-Snapshot ID: `MCxmM2VhZWNkMzJiMDJhNmUyOGNkMmQ0YmE0ZGM4YzAyMjY5MzVlZTgz`
+Snapshot ID: `MCxhYjFmNGY3OTdlZmMyMzk2ZjUyOTMyMjE0OTkxNzkxYWEwMjEyMjhj`

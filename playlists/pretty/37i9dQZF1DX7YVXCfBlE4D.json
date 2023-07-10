@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 515810,
+  "num_followers": 515993,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVmZWQ3NWNkZDM2ODBiMWEyMGFiMzJkMGQ0MTMzYWY1YTI0MDli",
+  "snapshot_id": "MCwxMjhlMTg5OTMzN2ZkNzc4YTlmY2Y2ZDcyZWViY2I3MTk0MTg1ZDU2",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -887,6 +887,38 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Amor de Cabaret",
+      "url": "https://open.spotify.com/track/5f78L5buph5GtBFcCYI0cx"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -911,38 +943,6 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Amor de Cabaret",
-      "url": "https://open.spotify.com/track/5f78L5buph5GtBFcCYI0cx"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "From Tito With Love",
-        "url": "https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Cuando Ya No Me Quieras",
-      "url": "https://open.spotify.com/track/4aWWhnZ3izYAfmmCSOkqlM"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "From Tito With Love",
+        "url": "https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/4aWWhnZ3izYAfmmCSOkqlM"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Recordando a Cuba",
-        "url": "https://open.spotify.com/album/2IMSUUjqYGNIJof85LrARc"
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
       "artists": [
         {
-          "name": "Orlando Contreras",
-          "url": "https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3"
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
         }
       ],
-      "duration_ms": 149028,
-      "name": "En un Beso la Vida",
-      "url": "https://open.spotify.com/track/3BkrbliOL5Z5ElOjz0XXTV"
+      "duration_ms": 186500,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1507,6 +1491,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Recordando a Cuba",
+        "url": "https://open.spotify.com/album/2IMSUUjqYGNIJof85LrARc"
+      },
+      "artists": [
+        {
+          "name": "Orlando Contreras",
+          "url": "https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "En un Beso la Vida",
+      "url": "https://open.spotify.com/track/3BkrbliOL5Z5ElOjz0XXTV"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
       },
       "artists": [
         {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
         }
       ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+      "duration_ms": 170400,
+      "name": "Voy Gritando por la Calle",
+      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1583,42 +1583,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
-      },
-      "artists": [
-        {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Voy Gritando por la Calle",
-      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
-        "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Plazos Traicioneros",
-      "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1639,6 +1603,42 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
+        "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1991,22 +1991,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Presentimiento",
-        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+        "name": "La Consentida",
+        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Presentimiento",
-      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+      "duration_ms": 125000,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2027,22 +2023,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "La Consentida",
-        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 141428,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Son Inolvidables: Cheo Feliciano y la R. Venezolana",
-        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 188520,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Son Inolvidables: Cheo Feliciano y la R. Venezolana",
+        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
     },
     {
       "added_at": "2022-12-30 18:28:06",

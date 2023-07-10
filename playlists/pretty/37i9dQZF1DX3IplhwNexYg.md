@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,547 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,548 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 18 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 |
 | 19 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 20 | [Punk Rock Loser](https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:57 |
-| 21 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
-| 22 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 21 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 22 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
 | 23 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
 | 24 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 25 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 32 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
 | 33 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 34 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
-| 35 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 |
-| 36 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
-| 37 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
+| 35 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
+| 36 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 |
+| 37 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
 | 38 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 39 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 |
 | 40 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 |
 | 41 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
-| 42 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
-| 43 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
+| 42 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
+| 43 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 44 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 45 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
 | 46 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 59 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 |
 | 60 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 |
 | 61 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 |
-| 62 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
-| 63 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
+| 62 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
+| 63 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
 | 64 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 | 65 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 |
 | 66 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 68 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 |
 | 69 | [Can't Get In](https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB) | 2:41 |
 | 70 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
-| 71 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
-| 72 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
+| 71 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
+| 72 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
 | 73 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 |
 | 74 | [STFU](https://open.spotify.com/track/2joicPcq4DNcgO5NedEsNW) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [STFU](https://open.spotify.com/album/1m5Z5dFhNwYf48o2V6toqg) | 4:08 |
-| 75 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
-| 76 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 |
+| 75 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 |
+| 76 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 77 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 |
 | 78 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 |
 | 79 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 |
-| 80 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
+| 80 | [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 |
 
-Snapshot ID: `MCwzM2ZmODAxZTYyYjEyZmJjOWJjMmE5YmMyNjgxMTRjYWFmZTUwMDA0`
+Snapshot ID: `MCw5NTdjYTMwNGIxYjc1MjQzODNhYjQyZTAyZjdmNjFkNzI4OWZmNjNi`

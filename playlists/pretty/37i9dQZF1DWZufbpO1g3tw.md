@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Picositos y con mucho sabor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,504 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,556 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 53 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 54 | [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 |
 | 55 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
-| 56 | [Las Mulas De Moreno](https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:40 |
-| 57 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
+| 56 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
+| 57 | [Las Mulas De Moreno](https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:40 |
 | 58 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
 | 59 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 60 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 |
 | 61 | [La Manzanita](https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 2:21 |
 | 62 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 63 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
-| 64 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
-| 65 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 64 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 65 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 66 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 |
 | 67 | [Loca](https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 3:07 |
 | 68 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 99 | [Molienda](https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 3:05 |
 | 100 | [Mótame en la tormenta](https://open.spotify.com/track/1xrGp1o6vGDMBV3PHmLNA7) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 5:37 |
 
-Snapshot ID: `MCw1N2YzODBkMzUxNjFmZDM2OTg0N2ViZGU2MDE0ZDdjZWI2ODZkNmVl`
+Snapshot ID: `MCxiMmY0NWU5MTgxZWI4OTNiMDA5N2NmYjIxM2M1MTdkNjk4NGRlZTQw`

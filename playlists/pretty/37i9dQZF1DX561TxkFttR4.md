@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,467 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,503 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 32 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 | 33 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 | 34 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
-| 35 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 |
-| 36 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
+| 35 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
+| 36 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 |
 | 37 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
 | 38 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 |
 | 39 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
 | 40 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 41 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
 | 42 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
-| 43 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
-| 44 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
-| 45 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
+| 43 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
+| 44 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
+| 45 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
 | 46 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 47 | [Daybreak](https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Arash Sanee](https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa) | [Daybreak](https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl) | 1:42 |
 | 48 | [A brotherly bond](https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A brotherly bond](https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3) | 2:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 60 | [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 |
 | 61 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 |
 | 62 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
-| 63 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
-| 64 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 |
+| 63 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 |
+| 64 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
 | 65 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
 | 66 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
 | 67 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 72 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
 | 73 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
 | 74 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
-| 75 | [Silent Dusk](https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [River Path](https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9) | 3:29 |
-| 76 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
+| 75 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
+| 76 | [Silent Dusk](https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [River Path](https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9) | 3:29 |
 | 77 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 78 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
 | 79 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 80 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
 
-Snapshot ID: `MCxiOTZiNzQ1OGIwOGViY2MwYzhkZWZkNmUwNjBlMDcxZjVmN2MxNmY3`
+Snapshot ID: `MCxkNDg4NjkxZDA1YmQyOTkwMTZlZWViMWEwY2VmOWIyYWZlZWRjNzYz`

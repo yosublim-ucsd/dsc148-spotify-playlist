@@ -4676,7 +4676,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-10",
       "duration_ms": 150508,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS"
@@ -5898,6 +5898,24 @@
       "duration_ms": 210065,
       "name": "Karibu - Radio Edit",
       "url": "https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141371,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
     },
     {
       "album": {

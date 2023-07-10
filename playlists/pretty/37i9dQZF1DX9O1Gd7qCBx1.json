@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 187286,
+  "num_followers": 187314,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh",
+  "snapshot_id": "MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -447,6 +447,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+      "duration_ms": 164333,
+      "name": "El Ultimo Beso",
+      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -495,22 +511,6 @@
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "El Ultimo Beso",
-      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Muerto en Vida",
-      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174800,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Muerto en Vida",
+      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Sus Ojos Se Cerraron",
-      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Sus Ojos Se Cerraron",
+      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
         "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Las Canciones Inolvidables de Pedro Infante",
-        "url": "https://open.spotify.com/album/3IpDxK3aXi9c1t0B37Jti6"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 131133,
-      "name": "Angelitos negros",
-      "url": "https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 156306,
       "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
       "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Las Canciones Inolvidables de Pedro Infante",
+        "url": "https://open.spotify.com/album/3IpDxK3aXi9c1t0B37Jti6"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 131133,
+      "name": "Angelitos negros",
+      "url": "https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ"
     },
     {
       "added_at": "2021-11-01 17:39:36",

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 66460,
+  "num_followers": 66572,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjgzODI4ODhhZjgyZTMwMWI1Y2NjMmFhYmNjOGJlYmIzYzBiY2Fi",
+  "snapshot_id": "MCwzYmZkYTg3ODExMjM3OWRmZTYzZjczNWY2YWQ3ZTI3ZGI4YjQ5MTA5",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -303,8 +303,8 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+        "name": "Canto Por Ti",
+        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+      "duration_ms": 239995,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -463,8 +463,8 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Canto Por Ti",
-        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 239995,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-12-25 17:56:56",

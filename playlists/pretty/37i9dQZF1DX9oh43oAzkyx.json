@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2403209,
+  "num_followers": 2403515,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU5NjA5NTljYjk1ZmU5Zjk2ZWE5ZGJlY2Q1YTczNGM3ZTRmNDUy",
+  "snapshot_id": "MCw1MjI0Nzc3MjlhZTczMjM0NGU3MGMxZTQxMjIzMWI1MjQ1MmYwOTNk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Ramen & OJ",
-        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218447,
-      "name": "Ramen & OJ",
-      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Cut U Off",
+        "url": "https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "Cut U Off",
+      "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -575,24 +575,8 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136899,
-      "name": "Time Today",
-      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Cut U Off",
-        "url": "https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4"
+        "name": "Ramen & OJ",
+        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
       "artists": [
         {
@@ -600,13 +584,13 @@
           "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 204387,
-      "name": "Cut U Off",
-      "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
+      "duration_ms": 218447,
+      "name": "Ramen & OJ",
+      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 152961,
       "name": "BackOutsideBoyz",
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -783,22 +783,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 196569,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -819,22 +819,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Buy or Bye 2",
-        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
       },
       "artists": [
         {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+      "duration_ms": 196569,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Lick Or Sum",
         "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 141604,
       "name": "Lick Or Sum",
       "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 132986,
       "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
       "added_at": "2023-07-07 04:00:00",

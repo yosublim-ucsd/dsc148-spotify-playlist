@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Inspector en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,330 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,331 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 58 | [Las Chicas Como Tú](https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec) | [Radio Catoche](https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm) | [Monstruo de Bares](https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ) | 2:22 |
 | 59 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
 | 60 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
-| 61 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
+| 61 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
 | 62 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 |
-| 63 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
+| 63 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
 | 64 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 |
 | 65 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
 | 66 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 71 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 |
 | 72 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
 | 73 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
-| 74 | [Almas](https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Almas](https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39) | 3:29 |
-| 75 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
+| 74 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
+| 75 | [Almas](https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Almas](https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39) | 3:29 |
 | 76 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
 | 77 | [Freska \- Skuela de Baile](https://open.spotify.com/track/3VvSqcarbQm0xqyLBqtAIA) | [TARZAN CONGO](https://open.spotify.com/artist/4Vzt7o3E7nTZAfbqgDzg0M) | [VITALOGIA](https://open.spotify.com/album/6dEvxLCwofgIjOjhurJAj7) | 3:39 |
 | 78 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 |
 | 100 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 |
 
-Snapshot ID: `MCxiNTZhMWMxZDk1N2MyZGUwMThhOTJmNjM2MDI4NGE4Mzk0NzExMzc5`
+Snapshot ID: `MCw4YzZkZDJkYzc2NzdhOTUwOTQ5YTZlMTI0NWFjZDFhYmMyNzZlYWZh`

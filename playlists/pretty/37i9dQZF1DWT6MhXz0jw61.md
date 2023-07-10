@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,792 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,113 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Goner!](https://open.spotify.com/track/7cmR3b3IPNVgUoqivTJmtj) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [Deniro Farrar](https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p), [Emani](https://open.spotify.com/artist/4V45KUnlhpjQQjsGuh0dVd), [Breanna Burks](https://open.spotify.com/artist/65RKpATWQlBu3TY2G9z9XF) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 4:37 |
 | 100 | [Ma Boy](https://open.spotify.com/track/1kn9JsBWIw6qREhDWw0lKb) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Ma Boy](https://open.spotify.com/album/0UqZZstwaKzBuNLXPZANxa) | 2:46 |
 
-Snapshot ID: `MCwxOGU2M2EzNjZjODNkMDNmYzZkNWM3ODQxNzY5MjcwODQwNDFhMzM1`
+Snapshot ID: `MCwzZTE1ZmU1ODNhMDFjYjUxZDZjMjQwYThlZGMyMmJjNWFmNmNjM2Mw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,703 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,744 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 26 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
 | 27 | [Me Llamas \- En Vivo](https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 4:42 |
 | 28 | [Amarga Derrota](https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amarga Derrota](https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb) | 3:27 |
-| 29 | [Relatos De Juan Jose \- En Vivo](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
-| 30 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
+| 29 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
+| 30 | [Relatos De Juan Jose \- En Vivo](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
 | 31 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
 | 32 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 33 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 |
 | 50 | [Bola de Cristal](https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Bola de Cristal](https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg) | 3:10 |
 
-Snapshot ID: `MjgxNDcwNDMsMDAwMDAwMDA2MzAwODkyNWQ0MTAwYjQ3N2IzZmMwYjhhNWNlNzdmYw==`
+Snapshot ID: `MjgxNDg0MDIsMDAwMDAwMDA3YTk5NTRjMjdjZjg0OTA2OTYxNDQ5NjM0N2I4OTM2OQ==`

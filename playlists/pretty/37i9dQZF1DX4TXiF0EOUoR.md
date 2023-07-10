@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,531 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,639 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 50 | [El Sinaloense](https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:33 |
 | 51 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 |
 | 52 | [El Tecolotito](https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:36 |
-| 53 | [El Toro Viejo](https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 2:46 |
-| 54 | [Los Enanitos](https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:47 |
+| 53 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
+| 54 | [El Toro Viejo](https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 2:46 |
 | 55 | [El Son Del Tlacololero](https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [El Son Del Tlacololero](https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B) | 3:39 |
-| 56 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
+| 56 | [Los Enanitos](https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:47 |
 | 57 | [Rumbo A La Canada](https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD) | [Tamborazo Caliente](https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi) | [Pal Rancho 100% Chicoteadas](https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik) | 3:31 |
 | 58 | [Chilito Piquín](https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:31 |
 | 59 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 85 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
 | 86 | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9) | 2:46 |
 | 87 | [Arriba Pichantaro \(En Vivo\)](https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl) | [Banda Imperio De Colima](https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s) | [En Vivo Desde Colima, Vol\. 2](https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n) | 3:27 |
-| 88 | [Por el Puro Gusto \- Puro Añuuu Weiii](https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Por el Puro Gusto \(Puro Añuuu Weiii\)](https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT) | 2:08 |
-| 89 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
+| 88 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
+| 89 | [Por el Puro Gusto \- Puro Añuuu Weiii](https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Por el Puro Gusto \(Puro Añuuu Weiii\)](https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT) | 2:08 |
 | 90 | [Juan Colorado](https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:53 |
 | 91 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
 | 92 | [Arriba la Joyita](https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Por el Puro Gusto](https://open.spotify.com/album/0wshoBjCjJYhneJ7rkMjxZ) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCxlNzI5ZGMzNWE0Y2EwZWU4MzFhOTg0ODI2MTY1NGM4NWY2MzJmMzM1`
+Snapshot ID: `MCwxYWQxNjVhZjljNmI4YjAzZTRhODM5NzgzNDM1MTMzYjAzNWI5Nzhi`

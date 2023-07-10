@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,737 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,753 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
 | 80 | [Bulletproof](https://open.spotify.com/track/0p44iWv9aQIxAhozDpfBW6) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [Bulletproof](https://open.spotify.com/album/0SSTsFoQpghdqy6RlhTGZF) | 3:10 |
 
-Snapshot ID: `MCxkM2Y5NmU2ZTcxMTg3MjUzNGY2Y2FlNjUzMjVkZGI1ZThjOTdhMjBm`
+Snapshot ID: `MCw5OWM5ZjgyOWY2YzA2MDQ3YTc4NjcwYTNkNTJmNmIyMzAzOGRhODNi`

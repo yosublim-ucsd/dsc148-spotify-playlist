@@ -1,12 +1,12 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 233627,
+  "num_followers": 233817,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDhhMzU3NjVlNDdiZDIyZmUwYWYzMWUxMjk5MzM4NzRjNzRhN2Iw",
+  "snapshot_id": "MCwyMDFjYmVhMjE5MzMwNGU5YmE2MGU4MDA2ZGE3NWZhOTEyYzQwZGU3",
   "tracks": [
     {
       "added_at": "2022-08-04 20:14:51",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Y Hubo Alguien",
-      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+      "duration_ms": 326478,
+      "name": "Si Me Ves Llorar",
+      "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 326478,
-      "name": "Si Me Ves Llorar",
-      "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
+      "duration_ms": 388360,
+      "name": "Y Hubo Alguien",
+      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -771,18 +771,26 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -819,26 +827,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
         "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 264312,
       "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
       "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+        "name": "Siempre Charanga",
+        "url": "https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+      "duration_ms": 287626,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Siempre Charanga",
-        "url": "https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
       "artists": [
         {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 287626,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4"
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
     },
     {
       "added_at": "2022-08-04 20:14:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,072 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,133 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 41 | [City of Black & White](https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [City of Black & White Revisited](https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM) | 3:45 |
 | 42 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 43 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
-| 44 | [Constellate](https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Portals](https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I) | 3:18 |
-| 45 | [Unshackled](https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [Kareen Vargas](https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8) | [Unshackled](https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm) | 4:04 |
+| 44 | [Unshackled](https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [Kareen Vargas](https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8) | [Unshackled](https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm) | 4:04 |
+| 45 | [Constellate](https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Portals](https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I) | 3:18 |
 | 46 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
 | 47 | [Compromise](https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Compromise](https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh) | 2:59 |
 | 48 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 52 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
 | 53 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 54 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
-| 55 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
-| 56 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
-| 57 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 55 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
+| 56 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 57 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
 | 58 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
 | 59 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
 | 60 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 |
 | 65 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 |
 
-Snapshot ID: `MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi`
+Snapshot ID: `MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi`

@@ -1,12 +1,12 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 62007,
+  "num_followers": 62071,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM1NjZhZWVjNzhhNTYzOGMxMTNlYzcyMjJjZTdhZTNjNmQxNjM4",
+  "snapshot_id": "MCwxYTA4NjBmZDEwYjUxN2VhNDYwNTBlZmNlNjBkMjQ5NTQ1NWUzNzdm",
   "tracks": [
     {
       "added_at": "2023-01-23 22:55:31",
@@ -67,18 +67,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
         }
       ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
+      "duration_ms": 203933,
+      "name": "Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -103,18 +103,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
       },
       "artists": [
         {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq"
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
       "artists": [
         {
           "name": "Antonio Garcia Isaac",
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -759,22 +755,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -787,6 +767,22 @@
       "duration_ms": 149750,
       "name": "Siempre Te Amare",
       "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
           "name": "Antonio Garcia Isaac",
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Presentimiento",
-        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Presentimiento",
-      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "La Consentida",
         "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
       },
@@ -951,6 +931,22 @@
       "duration_ms": 125000,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -971,18 +967,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
       },
       "artists": [
         {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
+      "duration_ms": 180400,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",

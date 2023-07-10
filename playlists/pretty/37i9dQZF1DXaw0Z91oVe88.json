@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2571,
+  "num_followers": 2573,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGRiNzRlNzI4M2ZhNjZiMzlkMjI0ZDgyMWMxZDRhZjE2MWExZDY0",
+  "snapshot_id": "MCxhYjYzNTk3NGRkNjdjOGI5OTUwZjFmNThiMDBjYmRjZjdlMTAwYWQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:04",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-07 15:58:04",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2023-07-07 15:58:04",
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
     },
     {
       "added_at": "2023-07-07 15:58:04",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-07 15:58:04",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2023-07-07 15:58:04",
+      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 254186,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
     },
     {
       "added_at": "2023-07-07 15:58:04",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-07-07 15:58:04",
       "album": {
-        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "WOO JEE WON",
-          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
         }
       ],
-      "duration_ms": 241259,
-      "name": "Am I living like a dream?",
-      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

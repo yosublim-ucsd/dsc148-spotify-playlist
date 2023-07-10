@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,421 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,442 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 | 2 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
-| 3 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 |
+| 3 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 |
 | 4 | [Todavía Me Quedan Amigos](https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Todavía Me Quedan Amigos](https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq) | 2:41 |
 | 5 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 6 | [Hogar](https://open.spotify.com/track/03DmOgo2fx4S5Baa0OzQbP) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Hogar](https://open.spotify.com/album/0kwVjm6F6vGo2Ef1G2mc4Q) | 2:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 64 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 |
 | 65 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 |
 
-Snapshot ID: `MCw2YmQyODg4YzkxYWFmZWEzYzZlZDE2ZWNmNjNmYWMwNDE0MGZmMjM0`
+Snapshot ID: `MCxmNDI3Y2Q4ZWQ0Zjg0MTk5NDQ5NGRmYTllMzJmY2I0MThjZDdkODBm`

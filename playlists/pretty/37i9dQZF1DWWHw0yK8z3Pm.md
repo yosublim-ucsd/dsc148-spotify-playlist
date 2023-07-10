@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Ryan Bingham
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,791 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,834 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 58 | [Better Off High](https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:30 |
 | 59 | [Talkin' to Myself](https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:46 |
 | 60 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 |
-| 61 | [Swimming Like Flying](https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1) | 3:24 |
-| 62 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 |
-| 63 | [Say What You Like](https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:47 |
+| 61 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 |
+| 62 | [Say What You Like](https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:47 |
+| 63 | [Swimming Like Flying](https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1) | 3:24 |
 | 64 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
 | 65 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 |
 | 66 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 80 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
 | 81 | [Hot Sun](https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV) | 3:01 |
 | 82 | [Instant Cash for Gold](https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:07 |
-| 83 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 |
-| 84 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
+| 83 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
+| 84 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 |
 | 85 | [Better's on the Way](https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown EP](https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH) | 4:28 |
-| 86 | [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 |
-| 87 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
+| 86 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
+| 87 | [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 |
 | 88 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 |
 | 89 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 |
 | 90 | [Top Down](https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:18 |
 | 91 | [Hey Who's Counting?](https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Palace Waiting](https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR) | 2:57 |
-| 92 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
-| 93 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 |
+| 92 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 |
+| 93 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
 | 94 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 |
-| 95 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 |
-| 96 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
+| 95 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
+| 96 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 |
 | 97 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 |
 | 98 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 |
 | 99 | [Upime](https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Mukuuin](https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn) | 3:46 |
 | 100 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 |
 
-Snapshot ID: `MCxjMGFlMDU3Nzg1M2YzYTQ5OGYwYjc5MTdmNWY5MzEyZTBiNjYyZTk4`
+Snapshot ID: `MCwzMTZmZGZkZThlNTZhNmNlMmMxZGZhMGI1NGIxMWIwY2Q4NmZiYmMy`

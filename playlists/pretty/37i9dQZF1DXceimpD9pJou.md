@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV?si=4a5cd741ed254ab8">Gateway Worship Español</a> y <a href="https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW?si=bb3f05ae264b4a11">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,997 likes - 99 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,062 likes - 99 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Tú Eres Mi Lugar](https://open.spotify.com/track/3l5HRtAg1alGWZKhyOrGFQ) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Tú Eres Mi Lugar](https://open.spotify.com/album/2we1MKPjCeV2U182IIoeZu) | 3:29 |
 | 99 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 
-Snapshot ID: `MCw3NjAwNGJiZWI1OWVkMmQ4ZDkwMTI4MjUzOWI0NDEyNDkwYzJiNjU2`
+Snapshot ID: `MCxiYmRkNjNlNjk0N2ExMTI1ZTllNmExNDc1ZDdjYzgxMzU1ODM1YTJl`

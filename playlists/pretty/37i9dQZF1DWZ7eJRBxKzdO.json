@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 214645,
+  "num_followers": 216784,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWZlMTBhMDNmZDgyN2YyNzNhNmUxZDkyMGIwMDEyODA3NTE2NDdk",
+  "snapshot_id": "MCw2OWI3N2ZmNTNhNDU4ODI2NWFjMDRhNmFjMmFiMTVkZTY4Mzg4MjRl",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -407,6 +407,30 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Rock My Body (with INNA & Sash!)",
+        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Rock My Body (with INNA & Sash!)",
-        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Crazy What Love Can Do",
-        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Crazy What Love Can Do",
-      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "I Need to Know (feat. Flynn)",
         "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 155519,
       "name": "I Need to Know (feat. Flynn)",
       "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1919,6 +1919,46 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4"
       },
@@ -1975,6 +2015,30 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -2015,26 +2079,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Behind These Hazel Eyes",
         "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
       },
@@ -2047,26 +2091,6 @@
       "duration_ms": 197147,
       "name": "Behind These Hazel Eyes",
       "url": "https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2091,22 +2115,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2131,26 +2155,62 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Damn (You\u2019ve Got Me Saying)",
-        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 195268,
-      "name": "Damn (You\u2019ve Got Me Saying)",
-      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2187,38 +2247,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+        "name": "Damn (You\u2019ve Got Me Saying)",
+        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
+      "duration_ms": 195268,
+      "name": "Damn (You\u2019ve Got Me Saying)",
+      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2239,30 +2287,6 @@
       "duration_ms": 217673,
       "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
       "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2327,30 +2351,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Celular",
-        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Celular",
-      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl"
       },
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Stop Loving You",
-        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         }
       ],
-      "duration_ms": 169503,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
+      "duration_ms": 138240,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 169503,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "My Head & My Heart (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 179512,
       "name": "My Head & My Heart - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a"
     }
   ],
   "unique_name": "Summer Dance Hits 2023",
