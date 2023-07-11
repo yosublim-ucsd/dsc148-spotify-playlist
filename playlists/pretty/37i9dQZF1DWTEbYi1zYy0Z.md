@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,203 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 42 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
 | 43 | [Heartwood](https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Heartwood](https://open.spotify.com/album/5v508FMhSlWdwqg5kUXqsX) | 5:14 |
 | 44 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK) | 3:05 |
-| 45 | [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 |
+| 45 | [For The Cool In You](https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Promise](https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p) | 4:29 |
 | 46 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 |
 | 47 | [It's You](https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Message](https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG) | 4:20 |
 | 48 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 | 100 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 
-Snapshot ID: `MCw0ZGQwYjMzMDBmMGQ4ODY1NWU4MTM4NzRkZjgyM2QxOTg1OThmZWY1`
+Snapshot ID: `MCw0MmU3N2JiM2U4Mzk2ZGEwNGYxNmMxNzE1ZTdlZjNmYzMxMzIyODY0`

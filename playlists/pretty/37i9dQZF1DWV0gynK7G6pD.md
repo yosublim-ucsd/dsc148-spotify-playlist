@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alice Sara Ott
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,965 likes - 64 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,017 likes - 64 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 63 | [Suite No\. 5 in E major in E Major, HWV 430: I\. Prelude](https://open.spotify.com/track/3xkCJt4Md52OaTGvcIqrC6) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Asako Ogawa](https://open.spotify.com/artist/3qzAc1seln6lE1m6GJdkry) | [Handel: 8 Great Suites for Harpsichord](https://open.spotify.com/album/2IFgI4ijeTkuhSqi9dofNU) | 2:09 |
 | 64 | [Cardillac, Op\. 39: Prelude to Act I \- Live](https://open.spotify.com/track/2P3h87hqIs4vvFOxu2uQ20) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Stefan Soltesz](https://open.spotify.com/artist/5zDXpOK62cbNN2HSgCIdg8) | [Hindemith: Cardillac, Op\. 39 \(Live\)](https://open.spotify.com/album/6IoAMLJdRRAV5bownlBRI8) | 2:02 |
 
-Snapshot ID: `MCwyYmNiYTk3ZWY3N2ViMDZkZTNiYjFhMzNhYzUxMTM0N2VmMjY1MTcy`
+Snapshot ID: `MCwzM2VlZGM0ZDk1ZGUxMzA2YzMzYjY2MTU0ZGQ5MmI1NjExZDgzYjkx`

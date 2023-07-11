@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAzNDQsODZhMGQ2YzcwODJmOWQ3NDA4OWM2M2EyN2VlYzBiY2Q0MTI1MDA1Nw==",
+  "snapshot_id": "MTAzNDYsNDhkMzEwMzQ2MzY3ZDY3ZjQxN2QyOGY2M2Y2N2E5NzE1NjcyNjkwZg==",
   "tracks": [
     {
       "added_at": "2023-06-22 21:13:32",
@@ -2543,6 +2543,42 @@
       "duration_ms": 142651,
       "name": "Great Big Warm House",
       "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
+    },
+    {
+      "added_at": "2023-07-10 21:26:37",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6Dp6WGj2CoNPJLx4brSRbq"
+      },
+      "artists": [
+        {
+          "name": "Modapit",
+          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "It Goes Like",
+      "url": "https://open.spotify.com/track/4zXiKDr6LZaEQ4ALbpkyJm"
+    },
+    {
+      "added_at": "2023-07-10 21:26:51",
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS"
+      },
+      "artists": [
+        {
+          "name": "Dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+        },
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        }
+      ],
+      "duration_ms": 182126,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX"
     }
   ],
   "unique_name": "Moving Castle Monthly",

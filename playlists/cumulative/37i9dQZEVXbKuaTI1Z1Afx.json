@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 216973,
       "name": "America the Beautiful",
       "url": "https://open.spotify.com/track/2BvFH6EYcioTtsTz8GE04l"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
@@ -3990,6 +3990,24 @@
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/4AG1KGToyd2LYY420mK3bC"
+      },
+      "artists": [
+        {
+          "name": "Aabhi",
+          "url": "https://open.spotify.com/artist/2VRKeXrqbWcDqrBk4DfoVa"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177028,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/1G60WH7wGf6vgQeWjeG747"
     },
     {
       "album": {
@@ -20091,6 +20109,24 @@
     },
     {
       "album": {
+        "name": "s*x m*ney dr*gs",
+        "url": "https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120939,
+      "name": "No Bap",
+      "url": "https://open.spotify.com/track/1mSYxiYncRwdKx6cT0bQoP"
+    },
+    {
+      "album": {
         "name": "No Handoutz (feat. Yeat)",
         "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
       },
@@ -21140,6 +21176,24 @@
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
       "album": {
@@ -22836,7 +22890,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 359774,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/6XNxESeLt2OwpVUNLtubSA"
@@ -22876,6 +22930,24 @@
       "duration_ms": 359774,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/7KWrFyN747qVJsIlhOTLJD"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/36RFUBnk29raCZA0s1WrYa"
+      },
+      "artists": [
+        {
+          "name": "michi",
+          "url": "https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359862,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/7eKdGD7PCY5ScYeLOAlXw6"
     },
     {
       "album": {

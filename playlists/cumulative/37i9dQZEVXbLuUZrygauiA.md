@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,198 songs - 2 day 17 hr 21 min
+1,199 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [La Bruja](https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8), [Lino Chavez](https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn) | [Veracruz Son y Huapango](https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD) | 4:28 | 2022-11-02 | 2022-11-10 |
 | [La Calaca](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre"](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 | 2022-11-02 | 2022-11-10 |
 | [La Cátedra](https://open.spotify.com/track/5iZxLtBUcoQPXSO2iDERp1) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [La Cátedra](https://open.spotify.com/album/3MKb4ekNen2vqB3AimRKeZ) | 12:00 | 2022-03-11 | 2022-03-13 |
+| [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 | 2023-07-10 |  |
 | [La Fiesta](https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:21 | 2023-05-04 | 2023-06-07 |
 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 | 2022-06-22 | 2022-07-06 |
 | [La Gata de la Agricola Oriental](https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Kery](https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m) | [La Gata de la Agricola Oriental](https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC) | 3:11 | 2022-11-18 | 2022-11-22 |
@@ -1134,7 +1135,7 @@
 | [VVS](https://open.spotify.com/track/0wUA5VlwL9L25IPRy48LL9) | [glocklord](https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9) | [VVS](https://open.spotify.com/album/2cZv2QPIn6czgM3jwYahRv) | 2:43 | 2023-04-11 | 2023-04-15 |
 | [VVS](https://open.spotify.com/track/27R7kdBNJKygaCBEfAkf8A) | [LMV Music](https://open.spotify.com/artist/6yocMWhp8YtUXVNqmRpApu) | [VVS](https://open.spotify.com/album/5GJnvPRhpXVn97UeSMeWmU) | 2:48 | 2023-04-04 | 2023-04-12 |
 | [VVS](https://open.spotify.com/track/2IESJGeddbtwiVr4ug0SN3) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:42 | 2023-06-24 | 2023-07-01 |
-| [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-06-30 |  |
+| [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-06-30 | 2023-07-11 |
 | [Vvs](https://open.spotify.com/track/5OvnUoQTbZxGAucQ3DVK7S) | [Raptrapmusicadetodo](https://open.spotify.com/artist/71Lr7u79R3322Y7tRlr9ML) | [Vvs](https://open.spotify.com/album/1ZeKLaIpLEH16Jz3xCrSg7) | 2:48 | 2023-04-21 | 2023-04-23 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-02-08 | 2022-03-02 |
 | [Wait](https://open.spotify.com/track/78q95oBxFrzHHAWsXRogXa) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:34 | 2022-08-09 | 2022-08-14 |

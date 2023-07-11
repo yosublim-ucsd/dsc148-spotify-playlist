@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:ZIA\(지아\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,113 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,139 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [like wind](https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [like wind](https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x) | 2:49 |
 | 100 | [We haven't broken up yet](https://open.spotify.com/track/6gEFr1UkQ1vd4MCkcKB5On) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [We haven't broken up yet](https://open.spotify.com/album/4hBTuwgGBdFuG5Q3qYMo3r) | 3:35 |
 
-Snapshot ID: `MCxhM2NjM2MwMTJlYTIxNmIzY2VjOWQxODAyN2IzYWNkNjhlOGQwY2Fm`
+Snapshot ID: `MCxmNTVkMDI5YzQwZjBiZWEwYWViMWY1ZGZhZDlkNmRjZTI4ZjAzNjE3`

@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Rauw Alejandro
 
-7,571 songs - 15 day 22 hr 8 min
+7,572 songs - 15 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5606,7 +5606,8 @@
 | [Runaway](https://open.spotify.com/track/1hPhmm9BIo0LF7bKpGRW3x) | [Louisa Masciullo](https://open.spotify.com/artist/68DP4Xd9U1yFd0ZioW6yin), [Mirell](https://open.spotify.com/artist/4oWtXUbxUDUocy5gTYaK8E) | [Runaway](https://open.spotify.com/album/40mXj1Vxbi0W9S9cRLRy12) | 2:49 | 2022-07-29 | 2022-08-05 |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-25 | 2023-06-02 |
 | [Runnin](https://open.spotify.com/track/1viUVY9PeeVu4kqwLjBOyB) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4) | [Runnin](https://open.spotify.com/album/2BQvv9Z7z5GeqZu07GM4G6) | 4:17 | 2022-08-11 | 2022-08-19 |
-| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-06 |  |
+| [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 | 2023-07-07 |  |
+| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-06 | 2023-07-11 |
 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2022-09-01 | 2022-09-09 |
 | [running in circles](https://open.spotify.com/track/2Nek0E8RoW0RshXtE0N3DT) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [running in circles](https://open.spotify.com/album/1wcOSl3AsZc7tXOcVgFKOy) | 3:28 | 2022-11-24 | 2022-12-02 |
 | [Running Out of Love](https://open.spotify.com/track/5B6BvYNj9cjZUnzoslwK20) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Running Out of Love](https://open.spotify.com/album/0rhORi6bUyoJc4EXX0rArK) | 4:18 | 2022-08-18 | 2022-08-26 |

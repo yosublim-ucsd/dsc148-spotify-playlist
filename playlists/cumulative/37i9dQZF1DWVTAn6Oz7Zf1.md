@@ -4,7 +4,7 @@
 
 > In cerca di energie? Prova con la nostra playlist!
 
-214 songs - 10 hr 44 min
+215 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-12-16 | 2023-02-03 |
 | [Run It Up](https://open.spotify.com/track/6KQYQ5ycUHmDYFjL2jLXYC) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [Marty James](https://open.spotify.com/artist/7gULlMYPd5zbqr7wpvAtsQ) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 2:41 | 2022-05-06 | 2022-05-11 |
 | [Running](https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Running](https://open.spotify.com/album/0vo1z2pTCnhlzrXgEmNlXw) | 3:05 | 2022-05-06 | 2022-12-06 |
-| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-07 |  |
+| [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 | 2023-07-07 |  |
+| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-07 | 2023-07-11 |
 | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7) | 3:25 | 2022-07-26 | 2023-04-02 |
 | [Satellite \(feat\. Arinn\)](https://open.spotify.com/track/0NAjsPwvBwJKs0p2RL4GeM) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Arinn](https://open.spotify.com/artist/7nM52sn64aU3P5Dm3HMcA8) | [Satellite \(feat\. Arinn\)](https://open.spotify.com/album/2gJy9PdFV2FUWh5SsX9pXw) | 2:43 | 2022-06-20 | 2022-07-28 |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2022-05-06 |  |

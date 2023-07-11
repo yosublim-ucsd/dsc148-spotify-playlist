@@ -1,12 +1,12 @@
 {
   "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Punctual",
-  "num_followers": 285355,
+  "num_followers": 285360,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTI4MjcsMDEwOTc2MDVjMzcyZjg0MDBjZmQzODk5OWMyNWQzZTM2ZDMwNWIxOA==",
+  "snapshot_id": "NTI4NjksODMwMmY2NjE5Yzc2NTJiMGIwY2ZlYzNlNjhmM2E0MzI2YWNhMmY2NA==",
   "tracks": [
     {
       "added_at": "2023-07-06 22:06:04",
@@ -67,42 +67,6 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Missing (Cedric Gervais Version)",
-        "url": "https://open.spotify.com/album/480XomOoSDJabSB07P35Or"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Raffi Saint",
-          "url": "https://open.spotify.com/artist/6pFBVHYqtoEPiCB4ynKWAz"
-        }
-      ],
-      "duration_ms": 180447,
-      "name": "Missing - Cedric Gervais Version",
-      "url": "https://open.spotify.com/track/0Q4eorj8O0MzUm3VMkbBs8"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 132380,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -123,18 +87,38 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 157120,
-      "name": "Fiesta M\u00e1gica",
-      "url": "https://open.spotify.com/track/5pGOfzm7XH67mOXS7c8LO9"
+      "duration_ms": 132380,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Ethnica",
+        "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+        }
+      ],
+      "duration_ms": 174662,
+      "name": "Ethnica",
+      "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -163,6 +147,134 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
+        "name": "Stimulate",
+        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Fiesta M\u00e1gica",
+      "url": "https://open.spotify.com/track/5pGOfzm7XH67mOXS7c8LO9"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Missing (Cedric Gervais Version)",
+        "url": "https://open.spotify.com/album/480XomOoSDJabSB07P35Or"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Raffi Saint",
+          "url": "https://open.spotify.com/artist/6pFBVHYqtoEPiCB4ynKWAz"
+        }
+      ],
+      "duration_ms": 180447,
+      "name": "Missing - Cedric Gervais Version",
+      "url": "https://open.spotify.com/track/0Q4eorj8O0MzUm3VMkbBs8"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 201016,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Bring The Heat",
+        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Bring The Heat",
+      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 243803,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/7kpP2WWFeXhe3Nvm78NOri"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1iZUbdfSbIgfTXamBgZ8Q8"
+      },
+      "artists": [
+        {
+          "name": "Supermassive",
+          "url": "https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ"
+        },
+        {
+          "name": "Ben Boas",
+          "url": "https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N"
+        }
+      ],
+      "duration_ms": 159024,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3c4Z9DLI0lOpoUuUJI6Nx4"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "The Good Men",
+          "url": "https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/6TTbv0T7KQG7q51Q6b5m9n"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
         "name": "Gimme Back Your Love",
         "url": "https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz"
       },
@@ -187,22 +299,22 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Ethnica",
-        "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
+        "name": "Happy People (Fedde Le Grand Remix)",
+        "url": "https://open.spotify.com/album/4REFhz28ffafEZ45VwfpiQ"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+          "name": "Static Revenger",
+          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
         },
         {
-          "name": "Vanetty",
-          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 174662,
-      "name": "Ethnica",
-      "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
+      "duration_ms": 193124,
+      "name": "Happy People - Fedde Le Grand Remix",
+      "url": "https://open.spotify.com/track/4t5EseQUSss00l2Zm5o6id"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -231,42 +343,122 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Happy People (Fedde Le Grand Remix)",
-        "url": "https://open.spotify.com/album/4REFhz28ffafEZ45VwfpiQ"
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
       "artists": [
         {
-          "name": "Static Revenger",
-          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
         }
       ],
-      "duration_ms": 193124,
-      "name": "Happy People - Fedde Le Grand Remix",
-      "url": "https://open.spotify.com/track/4t5EseQUSss00l2Zm5o6id"
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
     },
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/1iZUbdfSbIgfTXamBgZ8Q8"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/69mSGGmuHWmUr6z3RLRoQJ"
       },
       "artists": [
         {
-          "name": "Supermassive",
-          "url": "https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "Ben Boas",
-          "url": "https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 159024,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3c4Z9DLI0lOpoUuUJI6Nx4"
+      "duration_ms": 201070,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3KaOuwuIuZYfR1VhAENRXG"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Keep On Rising",
+        "url": "https://open.spotify.com/album/5LXHDaiNMusVY8vhsuvZjx"
+      },
+      "artists": [
+        {
+          "name": "Gasparian",
+          "url": "https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1"
+        },
+        {
+          "name": "Tasita D\u2019Mour",
+          "url": "https://open.spotify.com/artist/3kvf1VAuxdCnX1YWdhhZMV"
+        }
+      ],
+      "duration_ms": 179679,
+      "name": "Keep On Rising - Radio Edit",
+      "url": "https://open.spotify.com/track/5GaqFTvzMYJv0HWoJAGK69"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 149320,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "Back To Love",
+        "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Back To Love",
+      "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -291,38 +483,22 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1"
+        "name": "Stimulate",
+        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
       },
       "artists": [
         {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
         },
         {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
         }
       ],
-      "duration_ms": 201016,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Shatterproof",
-        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 149320,
-      "name": "Shatterproof",
-      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+      "duration_ms": 168750,
+      "name": "Keep It Secret",
+      "url": "https://open.spotify.com/track/2BmoUqxBd0allDvLmnB6iN"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -351,62 +527,30 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Back To Love",
-        "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
+        "name": "Most Precious Love (Remix)",
+        "url": "https://open.spotify.com/album/4Bjw68lPxhErtwsZqH9NXp"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
         },
         {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Back To Love",
-      "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
         },
         {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Keep It Secret",
-      "url": "https://open.spotify.com/track/2BmoUqxBd0allDvLmnB6iN"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Ducati",
-        "url": "https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         },
         {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Ducati",
-      "url": "https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235"
+      "duration_ms": 222652,
+      "name": "Most Precious Love - DF\u2019S Future 3000 Mix Edit",
+      "url": "https://open.spotify.com/track/5CyGfjX3WHMsCg9zSbXIpu"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -447,30 +591,6 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
         "name": "The Eye Of Ra",
         "url": "https://open.spotify.com/album/5QDKaZpb11BDryDPytX1gB"
       },
@@ -483,46 +603,6 @@
       "duration_ms": 224032,
       "name": "The Eye Of Ra",
       "url": "https://open.spotify.com/track/66z0LXGjm2tZGYopB3JCqy"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "The Jumper ([IVY] Remix)",
-        "url": "https://open.spotify.com/album/11n7anBebd0w5kqDvPdkRF"
-      },
-      "artists": [
-        {
-          "name": "Hammer House",
-          "url": "https://open.spotify.com/artist/7eh776e6NmW68TTYLGd5zA"
-        },
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 194847,
-      "name": "The Jumper - [IVY] Remix",
-      "url": "https://open.spotify.com/track/2A7jLakkfRp6te0yZKjj81"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Keep On Rising",
-        "url": "https://open.spotify.com/album/5LXHDaiNMusVY8vhsuvZjx"
-      },
-      "artists": [
-        {
-          "name": "Gasparian",
-          "url": "https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1"
-        },
-        {
-          "name": "Tasita D\u2019Mour",
-          "url": "https://open.spotify.com/artist/3kvf1VAuxdCnX1YWdhhZMV"
-        }
-      ],
-      "duration_ms": 179679,
-      "name": "Keep On Rising - Radio Edit",
-      "url": "https://open.spotify.com/track/5GaqFTvzMYJv0HWoJAGK69"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -543,70 +623,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Armada Music - 20 Years",
-        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
-      },
-      "artists": [
-        {
-          "name": "The Good Men",
-          "url": "https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/6TTbv0T7KQG7q51Q6b5m9n"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/69mSGGmuHWmUr6z3RLRoQJ"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 201070,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3KaOuwuIuZYfR1VhAENRXG"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Most Precious Love (Remix)",
-        "url": "https://open.spotify.com/album/4Bjw68lPxhErtwsZqH9NXp"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "UDAUFL",
-          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
-        },
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 222652,
-      "name": "Most Precious Love - DF\u2019S Future 3000 Mix Edit",
-      "url": "https://open.spotify.com/track/5CyGfjX3WHMsCg9zSbXIpu"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -679,22 +695,22 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Bring The Heat",
-        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI"
       },
       "artists": [
         {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
         },
         {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Bring The Heat",
-      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+      "duration_ms": 153790,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -763,6 +779,22 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
+        "name": "Stuck In Melodies",
+        "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
+      },
+      "artists": [
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Stuck In Melodies",
+      "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
         "name": "Armada Music - Miami 2023",
         "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
       },
@@ -779,38 +811,26 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Armada Music - 20 Years",
-        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/1AZMsxk3pIuRbzZ4mH5N9f"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 243803,
-      "name": "Erase Me",
-      "url": "https://open.spotify.com/track/7kpP2WWFeXhe3Nvm78NOri"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI"
-      },
-      "artists": [
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "Navvy",
-          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
         }
       ],
-      "duration_ms": 153790,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm"
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/5rL9LobdwAwFch2J8CiosG"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -831,6 +851,22 @@
       "duration_ms": 176340,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/6bgERXPHN8O6g23dWzSMKb"
+      },
+      "artists": [
+        {
+          "name": "George Feely",
+          "url": "https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81"
+        }
+      ],
+      "duration_ms": 198361,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/77NRqUu87HrqaNUNRL7CNk"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -879,30 +915,6 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/1AZMsxk3pIuRbzZ4mH5N9f"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/5rL9LobdwAwFch2J8CiosG"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
         "name": "Access (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/36usuR6K7daeDyCeQg7f5R"
       },
@@ -927,18 +939,26 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
-        "name": "Stuck In Melodies",
-        "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
+        "name": "Greece 2000 (KREAM Remix)",
+        "url": "https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV"
       },
       "artists": [
         {
-          "name": "Joris Delacroix",
-          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
         }
       ],
-      "duration_ms": 211904,
-      "name": "Stuck In Melodies",
-      "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
+      "duration_ms": 215040,
+      "name": "Greece 2000 - KREAM Remix",
+      "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -1019,22 +1039,6 @@
       "duration_ms": 214078,
       "name": "Lost In The Music",
       "url": "https://open.spotify.com/track/0w9cuzYWnR5eSyCZPHTxkK"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "That Feeling",
-        "url": "https://open.spotify.com/album/6bgERXPHN8O6g23dWzSMKb"
-      },
-      "artists": [
-        {
-          "name": "George Feely",
-          "url": "https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81"
-        }
-      ],
-      "duration_ms": 198361,
-      "name": "That Feeling",
-      "url": "https://open.spotify.com/track/77NRqUu87HrqaNUNRL7CNk"
     },
     {
       "added_at": "2023-07-06 22:06:04",
@@ -1255,6 +1259,26 @@
     {
       "added_at": "2023-07-06 22:06:04",
       "album": {
+        "name": "The Jumper ([IVY] Remix)",
+        "url": "https://open.spotify.com/album/11n7anBebd0w5kqDvPdkRF"
+      },
+      "artists": [
+        {
+          "name": "Hammer House",
+          "url": "https://open.spotify.com/artist/7eh776e6NmW68TTYLGd5zA"
+        },
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 194847,
+      "name": "The Jumper - [IVY] Remix",
+      "url": "https://open.spotify.com/track/2A7jLakkfRp6te0yZKjj81"
+    },
+    {
+      "added_at": "2023-07-06 22:06:04",
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/3LcKsPWVaonUs21xMbIXSK"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 162621,
       "name": "Adeya",
       "url": "https://open.spotify.com/track/36fEaJH2IJYy6MkUSmjrJa"
-    },
-    {
-      "added_at": "2023-07-06 22:06:04",
-      "album": {
-        "name": "Greece 2000 (KREAM Remix)",
-        "url": "https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        },
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Greece 2000 - KREAM Remix",
-      "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
     },
     {
       "added_at": "2023-07-06 22:06:04",

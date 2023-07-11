@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: L'Impératrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,019 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,117 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 |
 | 50 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 |
 
-Snapshot ID: `MCwzYjQyNmE4ZDkzMGExY2NmMTg1MjRiOTM1MjkwODA4MzU0ZjA2Nzhi`
+Snapshot ID: `MCxmMTBjZmFjMDRmMGEwMGY2MzE5MWM0YzhiMzdkMTNhZGZkODA4NWZi`

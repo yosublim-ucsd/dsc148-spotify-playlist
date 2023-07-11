@@ -4,13 +4,14 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-248 songs - 12 hr 0 min
+251 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5th Symphony](https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [5th Symphony](https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI) | 2:37 | 2023-04-14 |  |
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2023-04-14 | 2023-04-28 |
 | [Activate](https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Activate](https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM) | 3:22 | 2023-04-14 | 2023-05-02 |
+| [African Lullaby](https://open.spotify.com/track/6yC6tiZFATSES4Hnju8qG9) | [BOHEMIAN](https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB), [LIBOZ](https://open.spotify.com/artist/1kgBp0KzQ19ZPl5T0eHp5K) | [African Lullaby](https://open.spotify.com/album/1s6XIYKZL2tbTkuL216x8f) | 3:21 | 2023-07-09 |  |
 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 | 2023-03-03 |  |
 | [Afterglow](https://open.spotify.com/track/2remaIEaOajisGtvTI6mLi) | [Chris Viviano](https://open.spotify.com/artist/2ikGf53xbNItQFKMrmjNDo) | [Afterglow](https://open.spotify.com/album/2GymmbWZXcNdewzZcetK3P) | 2:29 | 2023-04-26 | 2023-05-24 |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-05-24 |  |
@@ -95,6 +96,7 @@
 | [Hot Stuff](https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Hot Stuff](https://open.spotify.com/album/24Vq0XyuYxGh4Q7fu8mpiJ) | 2:32 | 2023-05-25 |  |
 | [House Your Body](https://open.spotify.com/track/1MNPJDbFmTLZ2eD5jGipad) | [Frivolous Jackson](https://open.spotify.com/artist/48jmr1k54Rz3O9RwutfalM) | [House Your Body](https://open.spotify.com/album/1nzGgT38oH4YZvPnLpwsh2) | 3:00 | 2023-02-12 |  |
 | [I Go](https://open.spotify.com/track/1dQHiFfT6vQDVazuyiS8LN) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Anna De Ferran](https://open.spotify.com/artist/0uGRpGp5fkrpsq7PC20Rz7) | [I Go](https://open.spotify.com/album/7hiOELvKrnBvAkFQMrvMdb) | 2:28 | 2023-05-05 |  |
+| [I Got You](https://open.spotify.com/track/66ojqYOm0F0Ddefb4Yasn0) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [I Got You](https://open.spotify.com/album/1Ld0iKp1t4ciPeSbSeB4uR) | 2:36 | 2023-07-10 |  |
 | [I Need You](https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [I Need You](https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H) | 2:35 | 2023-04-14 |  |
 | [I've Been Thinking](https://open.spotify.com/track/3JLY4RCxFfhz42d3TGLrPb) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [I've Been Thinking](https://open.spotify.com/album/2lBU0DcNLpBA41sjpNo9t4) | 2:22 | 2023-06-02 | 2023-06-09 |
 | [ICANEXPLAINIT](https://open.spotify.com/track/6XM5bcDkY3IcRblU4TQguz) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF) | [ICANEXPLAINIT](https://open.spotify.com/album/5Uk0vSb5T0C7Vf47LGvDgg) | 2:49 | 2023-04-27 | 2023-05-24 |
@@ -208,6 +210,7 @@
 | [State of Mind](https://open.spotify.com/track/4IFGiauDkB9nOiPrEw97F1) | [RYU & DANTE](https://open.spotify.com/artist/297i2RtGGQqofyuggOlE2l) | [State of Mind](https://open.spotify.com/album/4A8mUMRR5w7HoUALgYy0Pk) | 3:36 | 2023-05-12 |  |
 | [STRESS \- Andry J Remix](https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN) | [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi), [DJ Keys](https://open.spotify.com/artist/6dE1DevqS4To8Mb5VuvTbL), [Andry J](https://open.spotify.com/artist/2hAfluo80uBMGpmRI1kLF7) | [STRESS \(Andry J Remix\)](https://open.spotify.com/album/2m4fi5kR9BNloNaIS0hkeF) | 2:20 | 2023-03-31 | 2023-04-15 |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-19 |  |
+| [Sun Is High](https://open.spotify.com/track/65WFvaSXBNwT0hSSTD2pDk) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Sun Is High](https://open.spotify.com/album/7BH8s8ZykfGGVOMzF5rdhF) | 3:04 | 2023-07-09 |  |
 | [Surreal](https://open.spotify.com/track/4pYlVv7kVRH8CmU9pefdsE) | [Gotlucky](https://open.spotify.com/artist/0h3ZnunNbFkhUWGygorbVg) | [Surreal](https://open.spotify.com/album/57rt4sRTLfULAgMoZzqjvW) | 2:30 | 2023-05-28 |  |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-04-27 | 2023-05-24 |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-05-18 |  |

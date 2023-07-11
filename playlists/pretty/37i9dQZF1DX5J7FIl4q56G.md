@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Butcher Babies
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,940 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,070 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [BRINGER OF DEATH](https://open.spotify.com/track/6nqits2U4wWDvsUKd8SMAH) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [BRINGER OF DEATH](https://open.spotify.com/album/1tBIdkgj4e1Ano0DXXAcVs) | 3:18 |
 | 50 | [Blessed By the Divine](https://open.spotify.com/track/2ELZX2Mzq3B8ExiuH9Q5VI) | [Xorsist](https://open.spotify.com/artist/4iWtf8XTtTkyIk6Bmqb1L6) | [Blessed By the Divine](https://open.spotify.com/album/3kWf8VClCWBMM653vfhE3D) | 3:46 |
 
-Snapshot ID: `MCw2MTA2YzVlZjU0OWU3ZmJjY2FmZGZlYjJmMjU0ZGNhZTQ5NTljNWZk`
+Snapshot ID: `MCw0ZGZjMDQxNDMxNGEwMGQ0OTU5NmRmZDMxMDMwYjhiMjVjZDIxMTM2`

@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Bintang di Surga",
+        "url": "https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204381,
+      "name": "Khayalan Tingkat Tinggi",
+      "url": "https://open.spotify.com/track/0sDVfu8qgl4t4axkkV08dJ"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },

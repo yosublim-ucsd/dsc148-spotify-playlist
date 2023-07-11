@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-539 songs - 1 day 12 hr 50 min
+540 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Cool Enough](https://open.spotify.com/track/66BFiJStrnr8vz4lp7SEQ6) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Cool Enough](https://open.spotify.com/album/3PXTrh4dwXrCbDgUcvpyVX) | 3:33 | 2022-10-20 | 2022-11-24 |
 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 | 2023-01-04 | 2023-02-16 |
 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 | 2022-09-14 | 2022-10-13 |
+| [Crazy Blue Bells](https://open.spotify.com/track/1LeaVGUB2msQg5GSXZjEew) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Crazy Blue Bells](https://open.spotify.com/album/1zgMiLATWCMtkJIASSnfjr) | 4:28 | 2023-07-10 |  |
 | [Creative Source \- A\-Trak Remix](https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Creative Source \(A\-Trak Remix\)](https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp) | 3:41 | 2022-08-11 | 2022-09-29 |
 | [Creative Source \- ABSOLUTE\. Neon Energy Remix Edit](https://open.spotify.com/track/1Z371Q3L6nYMO112Xt5Ib0) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Creative Source \(ABSOLUTE\. Neon Energy Remix\)](https://open.spotify.com/album/0ChR2w00RrCd7pCGnHqDGx) | 3:29 | 2022-06-08 | 2022-07-21 |
 | [Cringe City](https://open.spotify.com/track/6eAde3TAvl7fQRTbKVf96k) | [Pardans](https://open.spotify.com/artist/4G4h06yBNykvt3jutYtDSj) | [Cringe City](https://open.spotify.com/album/7HNCE4BPvH3KLMxJjEbRES) | 3:11 | 2022-11-02 | 2022-12-08 |

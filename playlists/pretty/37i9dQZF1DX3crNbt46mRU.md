@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,385 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,391 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 50 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 |
 | 51 | [You](https://open.spotify.com/track/3WdaUu7aPvBM12qwjoOmPw) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Dive](https://open.spotify.com/album/0N6yvjLZ5OPF6EOOfgaKHP) | 3:40 |
 | 52 | [Heimweg](https://open.spotify.com/track/6oqaFDgyWApWkQkunGtmuy) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R), [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Heimweg](https://open.spotify.com/album/6Zjtdal1UCWA3nPKIA8dUz) | 2:10 |
-| 53 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 |
+| 53 | [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 |
 | 54 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
 | 55 | [Morn Isch Gratis](https://open.spotify.com/track/7lpYG4THX4oR7OQ1EtXkEi) | [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH), [Dejot](https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF) | [Morn Isch Gratis](https://open.spotify.com/album/2ZodX7dDajwjMGCXJWaArV) | 4:00 |
 | 56 | [Different Kind of Love](https://open.spotify.com/track/0RMUEBdiKwOVdO940glFNG) | [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Different Kind of Love](https://open.spotify.com/album/24NsNwoHrsboT5ES5eTJbu) | 2:20 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Get Together](https://open.spotify.com/track/6dpDfgEUGTNUZ3jeG2l95o) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq), [Gustav Anders](https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy) | [Get Together](https://open.spotify.com/album/3MDiWgfCJo9V7Hwdg7dY8K) | 4:00 |
 | 108 | [Frostbite](https://open.spotify.com/track/3ZDqzinpbshPYwDtue0HGD) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Frostbite](https://open.spotify.com/album/7FFkP31KXzh24bg1lB40y9) | 2:17 |
 
-Snapshot ID: `MCxkMjNkMmQ1ZTQ0MTI5ODQ2Mjc4ZDQzOGE2ODEwMGVlMDAwYTE1NmI5`
+Snapshot ID: `MCwxNmI0YmM4NGRjODI4NGRhYTkwMzMwOGI2YWEyNDU2NGVmY2VlNmY3`

@@ -1,12 +1,12 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Kinto Sol en portada.",
-  "num_followers": 204167,
+  "num_followers": 204273,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTFiYTFlODJlNDhlNzA1MTEwZTc5YTc1NjlkZjFjYjVjOThjZGE4",
+  "snapshot_id": "MCwyODRhYzJkMmRmNTA5NTUxZDhmMDI4NmNlMWVhNGQwMTM4YTllNjFj",
   "tracks": [
     {
       "added_at": "2022-03-07 23:02:38",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -223,38 +239,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Clasificacion C Vol.1",
-        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "Un Par De Balas",
-      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "La Sangre Nunca Muere",
         "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
       },
@@ -267,38 +251,6 @@
       "duration_ms": 287920,
       "name": "Ella Se Fue",
       "url": "https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Los Aguacates De Jilquilpan",
-        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Anda Y Ve",
-      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -335,6 +287,38 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Clasificacion C Vol.1",
+        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "Un Par De Balas",
+      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Volumen Prohibido",
         "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 223066,
       "name": "Hey Si Me Ven",
       "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Los Aguacates De Jilquilpan",
+        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Anda Y Ve",
+      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Pues Que Pues",
+      "url": "https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "KOMP 104.9 Radio Compa",
         "url": "https://open.spotify.com/album/0XTuj69Q39D7KPKbH69ceD"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 183093,
       "name": "Vato Sencillo",
       "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Pues Que Pues",
-      "url": "https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Todo Bien",
         "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 211000,
       "name": "Aunque la Vida Duele",
       "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "De Perros Amores",
+      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -727,22 +743,6 @@
       "duration_ms": 203360,
       "name": "Polic\u00edas En Helic\u00f3ptero (con El Aar\u00f3n)",
       "url": "https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "De Perros Amores",
-      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
       "artists": [
         {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 195520,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
+      "duration_ms": 236826,
+      "name": "Andamos Armados",
+      "url": "https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

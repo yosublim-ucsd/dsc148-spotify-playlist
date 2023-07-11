@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,269 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,304 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 97 | [Lele](https://open.spotify.com/track/1GQlkH0MyMElCb4rB0Peop) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Blueboy](https://open.spotify.com/artist/49tPWZ7vQeE7VscuIHqrn6), [Rowena](https://open.spotify.com/artist/5Dh07xWsgUJJk1ftn8vBlY) | [WAHYAHSEY](https://open.spotify.com/album/6o0nQZblMP3YqRtJTIVkQo) | 2:44 |
 | 98 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 
-Snapshot ID: `MCw5NjEzNzc4NDUzZWMwMzQyYjIwNDNiOTdkNzAwOTQ0NTY0MjkyNTJk`
+Snapshot ID: `MCwwNDUyZDg1MTVmZjBmOWUxZGQ4MjdlOTU2YTRiMmE0MWZiZmQyODQ0`

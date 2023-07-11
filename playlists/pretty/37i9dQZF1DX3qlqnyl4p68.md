@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,190 likes - 41 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,267 likes - 41 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 10 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 11 | [The Shower / The Dark](https://open.spotify.com/track/10x4iora8uw38Q2wzn7R1W) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy) | 2:04 |
 | 12 | [Come Alive](https://open.spotify.com/track/2kaV58AgrLYlIklyi6Y3dt) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Mez](https://open.spotify.com/artist/0bhPk5CgDr787krAWB8CEO), [Jorge Lendeborg, Jr.](https://open.spotify.com/artist/7eK8RcE6MRYbvAJ2vPqTfu) | [Night Teeth \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/46QJ2ICowvdJWow92QA8cd) | 3:43 |
-| 13 | [Cry Little Sister](https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ) | 4:16 |
+| 13 | [Cry Little Sister \(Music from the Netflix Film "Nightbooks"\)](https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ) | 4:16 |
 | 14 | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km) | 2:49 |
 | 15 | [Time of the Season](https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season](https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I) | 3:34 |
 | 16 | [The Library](https://open.spotify.com/track/4eGgGe5ZjdGDnYbmOJ1FSD) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ) | 2:08 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 40 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 41 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MCw2YjYwMjc4NzE1YWIwOTlhYjU3MTc4MmJjYjMwZjIxODE4YzY3OWE3`
+Snapshot ID: `MCxmZTdkYzVkYzIxOWI4YzA0OGEyZjI0NDMxMDM3YzRmYTVlNmU4NTJh`

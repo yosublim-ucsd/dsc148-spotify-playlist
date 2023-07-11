@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: ARMOR\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,114 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,117 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 44 | [สะดุด \(404 ERROR\)](https://open.spotify.com/track/6ranR3pNkbg6fPoNcM4Q4v) | [VAVA](https://open.spotify.com/artist/0wncNtYNwXZt7Q52hTloRH) | [สะดุด \(404 ERROR\)](https://open.spotify.com/album/3G17Edwe0E4taB34p9bWoB) | 3:24 |
 | 45 | [Rain](https://open.spotify.com/track/0hIOcZIBjXOQPIj3bSq0C6) | [Mister Leko](https://open.spotify.com/artist/0fCdboMqrEsn6JZZ1Uajic), [Jokey](https://open.spotify.com/artist/3KTwEsa0Zj9IRalzPxI5sO) | [Rain](https://open.spotify.com/album/10kbqcRUQSODzT7LveF2ZP) | 4:59 |
 | 46 | [ไม่ค่อยเก่งเรื่องความรัก](https://open.spotify.com/track/3RSYOM58zBkTtY3UZF2VOc) | [Supawitt.](https://open.spotify.com/artist/5eXdjgCpKFgAq23WbnA6Ui) | [ไม่ค่อยเก่งเรื่องความรัก](https://open.spotify.com/album/2gjwoyf5f3GzD1gjJUAdHN) | 3:40 |
-| 47 | [จะต้องดีแค่ไหน](https://open.spotify.com/track/2ZMoyrubIOLnYTt18PZ5UT) | [ijiro](https://open.spotify.com/artist/2Vhpz9QeB4cO2Zyt2DizDX) | [จะต้องดีแค่ไหน](https://open.spotify.com/album/6BJYe61Qdfrgv2hNaGz0Pq) | 3:39 |
-| 48 | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/track/591pQs4codzDQVj49GqKQ6) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/album/0l2kNPnEJ7Sudr0lpXUpXf) | 3:17 |
-| 49 | [อย่ามา](https://open.spotify.com/track/03BkHDf07X70ZcRQzn8dci) | [จั๊กจี้](https://open.spotify.com/artist/3wxYnqodCer774bC0IrZ7K) | [อย่ามา](https://open.spotify.com/album/66gPhybd5Ap5gBzpBdPGSr) | 4:50 |
-| 50 | [สายตาสั้น](https://open.spotify.com/track/7nkoAicGnw8b13m4XKu5VP) | [GRADE B](https://open.spotify.com/artist/31KIRfgeL0EiVN2dbu5Cip), [eeunguoey](https://open.spotify.com/artist/50UeMLP7XOcgbbCvN7Og6c) | [สายตาสั้น](https://open.spotify.com/album/1NKd3ibtweSjFKJqP2Jvts) | 3:34 |
+| 47 | [สายตาสั้น](https://open.spotify.com/track/7nkoAicGnw8b13m4XKu5VP) | [GRADE B](https://open.spotify.com/artist/31KIRfgeL0EiVN2dbu5Cip), [eeunguoey](https://open.spotify.com/artist/50UeMLP7XOcgbbCvN7Og6c) | [สายตาสั้น](https://open.spotify.com/album/1NKd3ibtweSjFKJqP2Jvts) | 3:34 |
+| 48 | [จะต้องดีแค่ไหน](https://open.spotify.com/track/2ZMoyrubIOLnYTt18PZ5UT) | [ijiro](https://open.spotify.com/artist/2Vhpz9QeB4cO2Zyt2DizDX) | [จะต้องดีแค่ไหน](https://open.spotify.com/album/6BJYe61Qdfrgv2hNaGz0Pq) | 3:39 |
+| 49 | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/track/591pQs4codzDQVj49GqKQ6) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/album/0l2kNPnEJ7Sudr0lpXUpXf) | 3:17 |
+| 50 | [อย่ามา](https://open.spotify.com/track/03BkHDf07X70ZcRQzn8dci) | [จั๊กจี้](https://open.spotify.com/artist/3wxYnqodCer774bC0IrZ7K) | [อย่ามา](https://open.spotify.com/album/66gPhybd5Ap5gBzpBdPGSr) | 4:50 |
 
-Snapshot ID: `MCxkYmUxMjA4MDU5YjM2Yjg1ZGUzNTdiZDZiNDZkZjVjMDZhMWZkZDcx`
+Snapshot ID: `MCxmMDM1NDUxMWFiMzJmNWI3ODYxZTJkMjlmZmM2YWNlYjgwNzVlMmEw`

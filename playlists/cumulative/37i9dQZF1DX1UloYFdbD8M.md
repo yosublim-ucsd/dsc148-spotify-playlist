@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-75 songs - 4 hr 57 min
+76 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-06-23 |  |
 | [Mazhaye](https://open.spotify.com/track/7DM08BBcMukrAnxkuzDUwo) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Mazhaye](https://open.spotify.com/album/3J3R9cnHC96bApTpmsSKgh) | 1:05 | 2022-11-02 |  |
 | [Mizhikal](https://open.spotify.com/track/343mJaVSEOGCPzQi2liO5c) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Sebesteena](https://open.spotify.com/artist/2vhFiDb28NHjV4m5ozmeNV) | [Mizhikal](https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY) | 3:14 | 2022-08-01 |  |
+| [Mizhikalal](https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA) | [Nishad jain](https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC), [Aswin GS](https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa), [Anoop Devadas](https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR) | [Mizhikalal](https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe) | 4:14 | 2023-07-10 |  |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 |  |
 | [Mulla \(From Hope Project\)](https://open.spotify.com/track/4ITlckASNAmB8JE0u7Fm3T) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Mulla \(From Hope Project\)](https://open.spotify.com/album/1B6QVn4Jcm417ktEyLD8Wk) | 4:41 | 2022-08-08 |  |
 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 |  |

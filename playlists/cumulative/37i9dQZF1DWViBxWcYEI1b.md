@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Teddy Swims
 
-755 songs - 1 day 17 hr 57 min
+756 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-14 | 2022-02-05 |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2021-12-17 | 2022-09-03 |
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-04-08 | 2022-04-29 |
-| [Devil In Your Eyes](https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Devil In Your Eyes](https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST) | 3:37 | 2023-05-05 |  |
+| [Devil In Your Eyes](https://open.spotify.com/track/2XhpBpMVmsYF0kn9UuyYdn) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Tears Dry On Their Own](https://open.spotify.com/album/0tWxDuJA7ovcszqeiu5j5J) | 3:37 | 2023-07-07 |  |
+| [Devil In Your Eyes](https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Devil In Your Eyes](https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST) | 3:37 | 2023-05-05 | 2023-07-11 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-26 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-19 |  |
 | [Diamond Wave](https://open.spotify.com/track/4SVCU3Ue6vcowvVrlPHzH5) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Diamond Wave](https://open.spotify.com/album/2p7x8swIp8A1WCJIy29Hp9) | 3:04 | 2022-11-18 | 2022-12-03 |

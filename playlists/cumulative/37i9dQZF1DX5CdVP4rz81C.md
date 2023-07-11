@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Oliva Dean
 
-1,365 songs - 2 day 23 hr 31 min
+1,366 songs - 2 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,8 +918,9 @@
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-05-29 | 2021-07-10 |
 | [One Mississippi](https://open.spotify.com/track/7qbMIhwi730kJgZeGajv38) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [One Mississippi](https://open.spotify.com/album/0OyOcDFOV379HESC5d9FQ2) | 3:03 | 2023-03-24 | 2023-04-15 |
 | [One More I Love You](https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/547kCTKUHCy01Jc8WC5WxH) | 3:36 | 2021-06-12 | 2022-04-02 |
+| [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-07-07 |  |
 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2022-12-01 | 2023-02-15 |
-| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-10 |  |
+| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-10 | 2023-07-11 |
 | [one night](https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [one night](https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY) | 2:46 | 2023-01-06 | 2023-02-25 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-09-18 |
 | [one that got away](https://open.spotify.com/track/77sUiJV65TMner3XdAUYaD) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [one that got away](https://open.spotify.com/album/6mCna91JQmcByb5Rx4HoHR) | 2:21 | 2021-08-21 | 2021-10-02 |

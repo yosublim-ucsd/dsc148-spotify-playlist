@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-2,893 songs - 6 day 10 hr 58 min
+2,894 songs - 6 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Bruce Lee](https://open.spotify.com/track/0sXkCzcpPUEuxtwQM5REOJ) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Bruce Lee](https://open.spotify.com/album/03Hb0I4ohLm48kplm8uifD) | 2:47 | 2023-04-07 | 2023-04-29 |
 | [Brújula Dorada](https://open.spotify.com/track/5naFNJodlMOHR5SSBDAJga) | [Mhylo](https://open.spotify.com/artist/0fkwvFgEnRWysoflecaKCO), [J Milos](https://open.spotify.com/artist/2CyBw9ZTvStghmc005fpVc), [Macuto Music](https://open.spotify.com/artist/4IPyeJX55cYSRDI5InKtWW), [Teresa](https://open.spotify.com/artist/1uDBhTjZpRYXb3z5h5OSAe) | [Brújula Dorada](https://open.spotify.com/album/3fiK0w25evhmffHnMegTJv) | 3:19 | 2023-06-16 | 2023-07-09 |
 | [Buatku Gila](https://open.spotify.com/track/26gGdbwokQXFuKi9RjzTt7) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [New Kicks For Goofies](https://open.spotify.com/album/1FHvj5QZkFnQVsh2XE4vke) | 3:12 | 2023-06-23 |  |
+| [Bubbaloo](https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Bubbaloo](https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4) | 3:12 | 2023-07-10 |  |
 | [Buck Wild](https://open.spotify.com/track/4kZ0zcKMCvwBFL5cpMkRzT) | [KVKA](https://open.spotify.com/artist/3I3u66kAsoZs18i3CYAc98), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Buck Wild](https://open.spotify.com/album/4n9r0f71xKL7drOKPOZMEW) | 2:22 | 2023-05-12 | 2023-05-27 |
 | [Bucle](https://open.spotify.com/track/6zkYjqoO4RPypw25e96Yyh) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Bucle](https://open.spotify.com/album/67kiaKYjp3zmtOO62YCLVD) | 3:00 | 2022-01-20 | 2022-03-18 |
 | [Buddha cheese](https://open.spotify.com/track/4BVmbuWXDmBY6iiWYsIgJr) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Buddha cheese](https://open.spotify.com/album/5ahdngZ2eBDQ4TM0giiO2s) | 2:02 | 2023-06-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,473 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,543 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [The World Don't Owe You Anything](https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26) | 3:09 |
 | 50 | [Rose](https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Kindness In Clarity, an EP](https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr) | 3:37 |
 
-Snapshot ID: `MCw2YTkwNWM5MTJkMzc3MTE5OTIxMjhhYWJjNzNhOTlhYmU2OGVkMzU1`
+Snapshot ID: `MCxiODQ0N2VhZDM2Y2ZlZjhjNzYyMzEzYzQzNzFiZWUxOGYwOTYyNmEw`

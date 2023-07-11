@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,788 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,954 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 55 | [New World](https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Bjork](https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB) | 3:45 |
 | 56 | [Respite](https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Time It Takes](https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc) | 3:01 |
 | 57 | [As I Was \- Slow Meadow Rework](https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [As I Was \(Slow Meadow Rework\)](https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi) | 5:05 |
-| 58 | [The Swimmer](https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek) | 4:12 |
-| 59 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 |
+| 58 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 |
+| 59 | [The Swimmer](https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek) | 4:12 |
 | 60 | [Heart Failure](https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Everything Has Its Echo](https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC) | 4:49 |
 | 61 | [Current](https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Current](https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U) | 5:50 |
 | 62 | [A Collective Destiny](https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Collective Destiny](https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL) | 4:22 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 71 | [Tranquillant](https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Tranquillant](https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs) | 2:53 |
 | 72 | [Leading Somewhere](https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Floreana](https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl) | 4:23 |
 | 73 | [In Cold Light](https://open.spotify.com/track/140jZx69WlaEovptyTYevr) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:52 |
-| 74 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 |
-| 75 | [The Myth](https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Myth](https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt) | 3:41 |
-| 76 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
+| 74 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
+| 75 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 |
+| 76 | [The Myth](https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Myth](https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt) | 3:41 |
 | 77 | [Esja](https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alix Vaillot\-Szwarc](https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0), [Özgür Kaya](https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7) | [Esja](https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t) | 2:18 |
 | 78 | [Time Out](https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Open](https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv) | 3:04 |
 | 79 | [A](https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [For You](https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7) | [Matteo de Grandis](https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce) | [For You](https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O) | 3:21 |
 | 100 | [Bird's Tail \- Slow Meadow Rework](https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Bird's Tail \(Slow Meadow Rework\)](https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf) | 5:43 |
 
-Snapshot ID: `MCw3MWU2NDk3MDA0ZmQ2OWJiNzBkM2QzZjE3MWE0MThmNGMxNDc2OGJj`
+Snapshot ID: `MCwxMWI0ZDZhOTBhY2QzZDE1ZmY2YTBhMTU4NTRmN2Y3ZGJkN2E0ZDQ4`

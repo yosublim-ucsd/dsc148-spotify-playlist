@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY?si=s3yceP5XSAy96iqbxRfhGQ">Bravo Le Roux</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,921 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,977 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hamba Wena](https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Pro Tee](https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy), [Qveen\-rsa](https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5), [Mzwilili](https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7), [Kitso Nave](https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl) | [Hamba Wena](https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl) | 5:08 |
 | 2 | [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 |
-| 3 | [Malume 2.0](https://open.spotify.com/track/77uW1FJLGU0ioFZoyC1MH7) | [Elvirgo](https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c), [TallexQ](https://open.spotify.com/artist/2k7vkMXTh7VdtxYSDUORyM), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Lxrd Mordecai](https://open.spotify.com/artist/3dofuSrEU77uBuFXIZ7JSg) | [Malume 2.0](https://open.spotify.com/album/6sCZukwwhIVYLQ1NoYnEmk) | 4:32 |
+| 3 | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0) | [Elvirgo](https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [TallexQ](https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio) | [Malume \(Nta Swi Byela Mani Revisit\)](https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz) | 4:33 |
 | 4 | [Thando](https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Thando](https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx) | 4:50 |
 | 5 | [24 Hours](https://open.spotify.com/track/6s1k8Ry40znPtEb9ijOlnw) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [24 Hours](https://open.spotify.com/album/0GUvPSLjrBgVOU0jn5BxXf) | 4:13 |
 | 6 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
 | 50 | [Remake](https://open.spotify.com/track/4G5XT0rNMKVm1pkLjcED51) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [Remake](https://open.spotify.com/album/1cQl6rNVLYNzqzPHfCFVhP) | 4:58 |
 
-Snapshot ID: `MCw1YzZiODlhZjhhNzUxMzBlNmI3ZjM1ZDQ5YzZlM2Q5MjQxZTkzMzkz`
+Snapshot ID: `MCxjOTc0YzI1Nzc5MmZjYzBjNGUzMDI3YjIyZjFhNzdjMjcwYmYyOWJm`

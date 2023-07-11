@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,441 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,444 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 |
 | 65 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 |
 | 66 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
-| 67 | [Oh, Dolores \- From "The Horror of Dolores Roach"](https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Oh Dolores \(From "The Horror of Dolores Roach"\)](https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU) | 2:52 |
+| 67 | [Oh, Dolores \- From "The Horror of Dolores Roach"](https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Oh, Dolores \(From "The Horror of Dolores Roach"\)](https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU) | 2:52 |
 | 68 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
 | 69 | [Ceiling Fan/Piggy](https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Ceiling Fan/Piggy](https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY) | 4:19 |
 | 70 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
 | 91 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 
-Snapshot ID: `MCw5YmIxM2QxODA3MTk4Y2IyMmE5ODFmYjYwY2Y3ZTE5ZDdkYzMwZjRm`
+Snapshot ID: `MCxmZDMyNWVlMzNlNWQ4NGM0ZGE1YmE0NjMzNGM3NTQ0NzVkOGJlNTc2`

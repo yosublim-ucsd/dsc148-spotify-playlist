@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 3575,
+  "num_followers": 3584,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjI2ZjEzZjg1YjRiMmRmN2U4NTA1NDA4OGRhZGM5NGQ3ZTMzMDg3",
+  "snapshot_id": "MCw2MjNlODg3NjQxNmRiYmNmN2M3NGI5ZmQ0ZGYxMTYzMTkzZDg5YjRk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -391,6 +391,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
         "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 186842,
       "name": "Over Your Head",
       "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 207243,
-      "name": "Respect It (with Hit-Boy feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
     },
     {
       "added_at": "2022-10-01 16:00:00",

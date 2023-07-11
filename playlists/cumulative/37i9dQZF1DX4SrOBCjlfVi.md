@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Lil Baby, Lil Tjay, King Von, and more\. Cover: LUCKI
 
-3,144 songs - 6 day 3 hr 3 min
+3,145 songs - 6 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2443,6 +2443,7 @@
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-15 | 2022-04-23 |
 | [Shake N Bake](https://open.spotify.com/track/1I4dITvWpHef5W5ROQ2qLr) | [Rellyski](https://open.spotify.com/artist/092wRa7FZBVnikzZGCdjfC) | [SKI SZN](https://open.spotify.com/album/6HYSRDnMsUemr2ME5c1CES) | 3:24 | 2022-02-15 | 2022-02-26 |
 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-05-05 | 2023-05-20 |
+| [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-07-10 |  |
 | [Shake That A$$ Baby](https://open.spotify.com/track/19FFPF7lBVOomxN59L7UUK) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Shake That A$$ Baby](https://open.spotify.com/album/5VcgQj0bTAhewQa9FhJyy5) | 2:31 | 2022-05-27 | 2022-06-04 |
 | [Shake That Shit \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [BABYST5XNE GORILLAS 2](https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv) | 3:33 | 2023-05-05 | 2023-05-13 |
 | [Shapeshifter](https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [ChanHays](https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk) | [Prisoner of Circumstance](https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO) | 2:07 | 2023-06-09 | 2023-06-17 |

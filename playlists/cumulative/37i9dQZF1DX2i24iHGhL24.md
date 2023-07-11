@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-401 songs - 23 hr 0 min
+403 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 | 2021-12-17 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC) | 3:44 | 2022-07-08 | 2022-12-30 |
+| [Miss Independent](https://open.spotify.com/track/12x7PoOlGISTE8a2yfGeKQ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Miss Independent / Adorn](https://open.spotify.com/album/1xbCdCoAV0vFtfnFRsHlfI) | 3:01 | 2023-07-10 |  |
 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Montero \(Call Me By Your Name\)](https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG) | 2:21 | 2022-07-29 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2021-12-17 | 2022-05-02 |
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-12-29 |  |
@@ -387,9 +388,10 @@
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-12-17 | 2022-05-02 |
 | [Wildest Dreams](https://open.spotify.com/track/5rFLTwJtU2C2kBWGV7y1Q2) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/46vRUQqeMdCC5Dpz5Qza74) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Wildest Dreams](https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss) | 3:32 | 2022-07-08 | 2022-12-30 |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/1U6deb3frWuMczVj2as98g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU) | 2:32 | 2023-04-14 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1U6deb3frWuMczVj2as98g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU) | 2:32 | 2023-04-14 | 2023-07-11 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-02-24 | 2023-05-12 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2022-11-18 | 2023-03-03 |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/5gAYEvsJZ7nFC220oB5DAv) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [The Salcombe Sessions, Vol\. 1](https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf) | 2:32 | 2023-07-10 |  |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 | 2021-12-17 | 2022-11-21 |
 | [Wrecking Ball](https://open.spotify.com/track/3pSDivrOqyWq0ixSSgKW1g) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Thank You to the Flowers](https://open.spotify.com/album/6mGDqp7YxF3Cs6binUf8Fb) | 3:36 | 2021-12-17 | 2022-05-02 |
 | [Wrecking Ball](https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Wrecking Ball](https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95) | 3:33 | 2022-02-18 |  |

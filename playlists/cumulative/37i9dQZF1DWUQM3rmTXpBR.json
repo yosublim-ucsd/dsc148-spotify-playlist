@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Battuta",
+        "url": "https://open.spotify.com/album/3X3StGDp4lCVhfUg55CUBr"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Battuta",
+      "url": "https://open.spotify.com/track/1bhawZFU74KSkOF4b8kvjD"
+    },
+    {
+      "album": {
         "name": "Biban",
         "url": "https://open.spotify.com/album/427SljlsOOfw6AVPdRPdfx"
       },

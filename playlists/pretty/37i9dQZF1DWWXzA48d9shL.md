@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,867 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,246 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 |
 | 100 | [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 |
 
-Snapshot ID: `MCw4MTUyZTQ1YzAyNTEwNzBlNTMyOWEyNDg5MWVjYmRiNDk4OTBhZjM3`
+Snapshot ID: `MCxiMjE5MWY3ZWViMDQ2M2ExNTU4OTc0Y2Y5NWM1M2ZjOWQzNjMzNmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 16598,
+  "num_followers": 16601,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzgwMTUxODZkYjdmOTdjNTFiZmY5YzA0MjI1MDZiYmRiODc0NWVm",
+  "snapshot_id": "MCxlY2E0NTJlOTdhNDA0ZmE2MDEwOTA4ZTI0MDQyNDcwYjQ1M2EyMTVk",
   "tracks": [
     {
       "added_at": "2023-06-23 10:53:14",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "Warm Pants",
-        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Warm Pants",
-      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
         "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
         "url": "https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG"
       },
@@ -351,6 +335,42 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
+        "name": "Warm Pants",
+        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Warm Pants",
+      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Fawda | \u0641\u0648\u0636\u064a",
+        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        },
+        {
+          "name": "Dj Reo",
+          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
+        }
+      ],
+      "duration_ms": 255059,
+      "name": "Fawda | \u0641\u0648\u0636\u064a",
+      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
         "name": "Bringi",
         "url": "https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq"
       },
@@ -363,6 +383,22 @@
       "duration_ms": 139309,
       "name": "Bringi",
       "url": "https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "MaMuhim",
+        "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "MaMuhim",
+      "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
     },
     {
       "added_at": "2023-06-23 10:53:14",
@@ -403,42 +439,6 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "pretty kitten",
-        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "pretty kitten",
-      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "Fawda | \u0641\u0648\u0636\u064a",
-        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        },
-        {
-          "name": "Dj Reo",
-          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
-        }
-      ],
-      "duration_ms": 255059,
-      "name": "Fawda | \u0641\u0648\u0636\u064a",
-      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
         "name": "Matalib - COLORS Sudan",
         "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
       },
@@ -451,42 +451,6 @@
       "duration_ms": 158896,
       "name": "Matalib - COLORS Sudan",
       "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "Habsha (feat. Flippter)",
-        "url": "https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY"
-      },
-      "artists": [
-        {
-          "name": "Soulja",
-          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
-        },
-        {
-          "name": "Flippter",
-          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
-        }
-      ],
-      "duration_ms": 145365,
-      "name": "Habsha (feat. Flippter)",
-      "url": "https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "MaMuhim",
-        "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "MaMuhim",
-      "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
     },
     {
       "added_at": "2023-06-23 10:53:14",
@@ -531,84 +495,24 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "Muslims and Christians (Habibi Funk 008)",
-        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+        "name": "pretty kitten",
+        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
       },
       "artists": [
         {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         }
       ],
-      "duration_ms": 391000,
-      "name": "Taban Ahwak",
-      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+      "duration_ms": 142576,
+      "name": "pretty kitten",
+      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
     },
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
-        "url": "https://open.spotify.com/album/6g6W5IWII0q3MxUgpfTtzG"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        },
-        {
-          "name": "Mshakil",
-          "url": "https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
-      "url": "https://open.spotify.com/track/2crJITZBcAbD338mKCwTLE"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "Asly",
-        "url": "https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx"
-      },
-      "artists": [
-        {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
-        },
-        {
-          "name": "Eaz Da Bully",
-          "url": "https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp"
-        }
-      ],
-      "duration_ms": 204197,
-      "name": "Asly",
-      "url": "https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "Caribby",
-        "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
+        "name": "Habsha (feat. Flippter)",
+        "url": "https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY"
       },
       "artists": [
         {
@@ -616,13 +520,13 @@
           "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
         },
         {
-          "name": "77",
-          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+          "name": "Flippter",
+          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
         }
       ],
-      "duration_ms": 136001,
-      "name": "Caribby",
-      "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
+      "duration_ms": 145365,
+      "name": "Habsha (feat. Flippter)",
+      "url": "https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl"
     },
     {
       "added_at": "2023-06-23 10:53:14",
@@ -647,6 +551,62 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
+        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
+        "url": "https://open.spotify.com/album/6g6W5IWII0q3MxUgpfTtzG"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        },
+        {
+          "name": "Mshakil",
+          "url": "https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
+      "url": "https://open.spotify.com/track/2crJITZBcAbD338mKCwTLE"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
         "name": "Matalib",
         "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
       },
@@ -659,6 +619,82 @@
       "duration_ms": 288008,
       "name": "Matalib",
       "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Caribby",
+        "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "77",
+          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+        }
+      ],
+      "duration_ms": 136001,
+      "name": "Caribby",
+      "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Asly",
+        "url": "https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx"
+      },
+      "artists": [
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        },
+        {
+          "name": "Eaz Da Bully",
+          "url": "https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp"
+        }
+      ],
+      "duration_ms": 204197,
+      "name": "Asly",
+      "url": "https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
+        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 182758,
+      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
+      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
     },
     {
       "added_at": "2023-06-23 10:53:14",
@@ -719,58 +755,6 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "Apocalypto",
-        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
-      },
-      "artists": [
-        {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
-        }
-      ],
-      "duration_ms": 177884,
-      "name": "Apocalypto",
-      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
-        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 182758,
-      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
-      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
-        "name": "Ghadara",
-        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Ghadara",
-      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP"
       },
@@ -807,22 +791,6 @@
     {
       "added_at": "2023-06-23 10:53:14",
       "album": {
-        "name": "III IV V",
-        "url": "https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY"
-      },
-      "artists": [
-        {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "III IV V",
-      "url": "https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n"
-    },
-    {
-      "added_at": "2023-06-23 10:53:14",
-      "album": {
         "name": "Blue - COLORS Sudan",
         "url": "https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 166838,
       "name": "Blue - COLORS Sudan",
       "url": "https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "Apocalypto",
+        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+      },
+      "artists": [
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "duration_ms": 177884,
+      "name": "Apocalypto",
+      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
     },
     {
       "added_at": "2023-06-23 10:53:14",
@@ -871,6 +855,22 @@
       "duration_ms": 225436,
       "name": "Silsila",
       "url": "https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5"
+    },
+    {
+      "added_at": "2023-06-23 10:53:14",
+      "album": {
+        "name": "III IV V",
+        "url": "https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY"
+      },
+      "artists": [
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "III IV V",
+      "url": "https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n"
     },
     {
       "added_at": "2023-06-23 10:53:14",

@@ -4,7 +4,7 @@
 
 > 
 
-462 songs - 20 hr 36 min
+466 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [DeathStar \(feat\. Trippie Redd, KanKan\)](https://open.spotify.com/track/2h7enN7cXVsN6s54d9oGqA) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 4:21 | 2022-02-26 |  |
 | [Demon](https://open.spotify.com/track/3m2r08Ylrjz6BdL735auPh) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 2:27 | 2022-10-18 |  |
 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 |  |
+| [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2023-07-10 |  |
 | [Dingaling \(Lil Keed\)](https://open.spotify.com/track/2s4FCo9qPtI621UZ8PalQP) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Final Fantasy: The Finale](https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM) | 1:40 | 2022-10-16 | 2023-04-12 |
 | [Dirty Demon](https://open.spotify.com/track/0d2qg6CfYsWJZy0csJiNuZ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave 2](https://open.spotify.com/album/0nQtPHNSiy2I151G4YmOwU) | 3:09 | 2022-09-01 | 2023-05-09 |
 | [Dirty Money](https://open.spotify.com/track/5N9oDpshl2kfazjIwjNpCQ) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Dirty Money](https://open.spotify.com/album/6MZeTxU57UIgJmKOfqftb8) | 1:48 | 2022-10-21 | 2023-05-09 |
@@ -259,6 +260,7 @@
 | [Mad bout that](https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:10 | 2023-01-10 | 2023-05-09 |
 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 | 2022-11-24 |  |
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-03 |  |
+| [Mirror](https://open.spotify.com/track/5xoYormSTltk6F9SlQV6mm) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:16 | 2023-07-10 |  |
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-07-08 |  |
 | [Mobb Love](https://open.spotify.com/track/6XgVRtmN6fiLjE4UGak7e0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Mobb Love](https://open.spotify.com/album/53O7xgfmGg4ycqpmqbqwhS) | 2:35 | 2023-01-11 | 2023-04-12 |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 |  |
@@ -367,6 +369,7 @@
 | [Salute](https://open.spotify.com/track/1tjpoAROSHmr9QLb7Ibqoq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:45 | 2023-01-10 |  |
 | [Same Thang](https://open.spotify.com/track/19kjy1ka0n0qfr9SeIViwy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:42 | 2023-01-06 | 2023-03-01 |
 | [Save Me](https://open.spotify.com/track/0PzncLHHW8Utar5zZwW6zG) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 3:34 | 2023-01-07 | 2023-04-12 |
+| [Savior \- Interlude](https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 2:32 | 2023-07-10 |  |
 | [Second Day Out](https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Second Day Out](https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv) | 1:36 | 2023-01-11 |  |
 | [Self Care](https://open.spotify.com/track/4os8zlf0umDZxCvZC2u2Z1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:46 | 2023-04-11 | 2023-05-09 |
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 |  |
@@ -413,6 +416,7 @@
 | [The Bees Knees](https://open.spotify.com/track/1n4eqIG0RRUCuPT4vnsVlv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 5:25 | 2023-03-20 |  |
 | [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 | 2023-05-09 |
+| [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-07-10 |  |
 | [The LifeStyle!](https://open.spotify.com/track/5Umai3Zrbd80hOcvgAlBmw) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 1:33 | 2022-10-26 | 2023-04-12 |
 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 | 2023-05-31 |  |
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 |  |

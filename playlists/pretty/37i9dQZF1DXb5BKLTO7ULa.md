@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Jaap Reesema
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,627 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,625 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 99 | [Inspiral](https://open.spotify.com/track/7of6zR9pYc1aQeSrQnxY8f) | [Eboman](https://open.spotify.com/artist/18Rbmhp3zmXBXVu3LO8E2L) | [Hold Your Horses](https://open.spotify.com/album/7sLxxtRryW0kH4eS9l8AnX) | 2:32 |
 
-Snapshot ID: `MCwxOWFmNWNlYjBmMjIwMzVmZmMyYzIzN2MwMzAwZWQ0ODBkMDNmY2Zh`
+Snapshot ID: `MCw3NTUwZDk2ZGFiNWVkZTM4ZDE5NzQ2NzU1ODQ5NzAzZGIzODdlODli`

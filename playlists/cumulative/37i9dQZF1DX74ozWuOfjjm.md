@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Blusher
 
-430 songs - 23 hr 12 min
+431 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [I Need to Go Home](https://open.spotify.com/track/0pl86RyHZNLaWP6YeuJ9Cz) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [I Need to Go Home](https://open.spotify.com/album/1dbPxOCa9AzupuTtqT5iAl) | 3:37 | 2022-02-03 | 2022-07-04 |
 | [I Suck At Being Lonely](https://open.spotify.com/track/2w7Li4lbevrPrPSY7pGpxG) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [I Suck At Being Lonely](https://open.spotify.com/album/7bA0Jk8tXScy1ELn54aPZZ) | 2:58 | 2022-03-06 | 2022-10-03 |
 | [I Wanna Be Alive](https://open.spotify.com/track/05dEnmjEuVBe9sTvv2bIVn) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [I Wanna Be Alive](https://open.spotify.com/album/3Rc2qYxuAh4CvfCHAXpfET) | 3:46 | 2023-02-28 | 2023-05-01 |
-| [I Want You](https://open.spotify.com/track/5ba04re5isAmv3PD3jcPOl) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/4nbfu3vIv18WNWDFvfLl0I) | 2:50 | 2023-04-30 |  |
+| [I Want You](https://open.spotify.com/track/0RUBuuLjdIlRdRZczwgtp8) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/5QVvV22vMHIo1Nq7bCM4FQ) | 2:50 | 2023-06-30 |  |
+| [I Want You](https://open.spotify.com/track/5ba04re5isAmv3PD3jcPOl) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/4nbfu3vIv18WNWDFvfLl0I) | 2:50 | 2023-04-30 | 2023-07-11 |
 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-07-31 | 2022-09-06 |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-07-03 | 2022-07-29 |
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-03 | 2022-08-29 |

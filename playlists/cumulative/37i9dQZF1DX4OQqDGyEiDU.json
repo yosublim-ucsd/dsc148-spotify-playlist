@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Mirai Eve",
+        "url": "https://open.spotify.com/album/1JXumAYnk57JaFj4CGt0gh"
+      },
+      "artists": [
+        {
+          "name": "sasakure.UK",
+          "url": "https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Posinega*Mistakers",
+      "url": "https://open.spotify.com/track/2klkz5Ab8cFgekyiBv7Nez"
+    },
+    {
+      "album": {
         "name": "Posinega*Mistakers",
         "url": "https://open.spotify.com/album/3a2R7c96YfWXx5A1emBcgW"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 220174,
       "name": "Posinega*Mistakers",
       "url": "https://open.spotify.com/track/1oXvFoHLJjzAN6kKT8mNXR"

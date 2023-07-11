@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,158 songs - 2 day 19 hr 50 min
+1,159 songs - 2 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,10 +1026,11 @@
 | [Together \- Radio Edit](https://open.spotify.com/track/5y6nIicOb7b7RtMxdeTV4s) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Soundz of Freedom](https://open.spotify.com/album/7uQbOfHwWpy6yjwxmBqxG2) | 3:26 | 2019-08-09\* | 2019-08-27 |
 | [Tomorrow](https://open.spotify.com/track/7dm91wKOlogWoxhYYf0C64) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Tomorrow](https://open.spotify.com/album/7pTmmq5gbzf7bDRzaoYFFq) | 3:20 | 2019-08-09\* | 2019-08-27 |
 | [Torn Apart \- Fehrplay Remix](https://open.spotify.com/track/6zNJl1BbZxShtMROKMSsNm) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh), [Fehrplay](https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF) | [Torn Apart](https://open.spotify.com/album/3640G9oJTjNypPxKH4tqbO) | 5:57 | 2019-08-09\* | 2019-08-27 |
+| [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 | 2023-06-30 |  |
 | [Touch](https://open.spotify.com/track/4Fm5E7KOTEKWBR3YwhgMM0) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(Solomun Remix\)](https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq) | 3:26 | 2022-10-28 | 2022-11-13 |
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2021-06-26 | 2022-04-29 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2022-07-01 | 2022-07-29 |
-| [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-22 |  |
+| [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-22 | 2023-07-11 |
 | [Touch Me](https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:44 | 2023-05-26 |  |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-05-27 | 2022-11-19 |
 | [Tracing Steps](https://open.spotify.com/track/0rY6eMNP3hXxEodeEOdKIk) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Tracing Steps](https://open.spotify.com/album/1Vx5sLgGI2R3izkJ7sV2FG) | 6:42 | 2019-08-09\* | 2020-03-29 |

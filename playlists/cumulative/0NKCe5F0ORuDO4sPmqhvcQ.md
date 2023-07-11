@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-461 songs - 1 day 1 hr 56 min
+463 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 | 2022-08-04 | 2022-09-19 |
 | [intothedeep](https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/7c2heWYrt28gCmmJ8U9fwu) | 3:10 | 2022-07-01 | 2022-07-16 |
 | [It Girl \(warner case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(warner case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 | 2023-01-20 |  |
+| [It Goes Like](https://open.spotify.com/track/4zXiKDr6LZaEQ4ALbpkyJm) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Devotion](https://open.spotify.com/album/6Dp6WGj2CoNPJLx4brSRbq) | 3:33 | 2023-07-10 |  |
 | [It's All for You](https://open.spotify.com/track/0nmllQKv85yVIgPHHzKK4l) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Aria](https://open.spotify.com/album/0NlaAPR7ZFnfi1OTL0eOly) | 3:25 | 2021-09-29 | 2022-01-08 |
 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 | 2023-03-21 | 2023-04-01 |
 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 | 2022-10-20 | 2023-01-20 |
@@ -344,6 +345,7 @@
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
 | [Riot \- Chahine Remix](https://open.spotify.com/track/1wDB8a4bZlnkbUmhJm0OE3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Chahine](https://open.spotify.com/artist/0ffZOUG03CN6pw4ry7CJY9) | [Riot \(Chahine Remix\)](https://open.spotify.com/album/0QQaemw9727t0MirfAj56x) | 3:08 | 2022-03-09 |  |
+| [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 | 2023-07-10 |  |
 | [running back v2](https://open.spotify.com/track/35ux9cbSiFQvCMKF7v8J1z) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [running back v2](https://open.spotify.com/album/3UiLBW5hlvxEDAolwoWJUq) | 2:05 | 2022-02-28 | 2022-03-31 |
 | [Running Up That Hill \- Dance Version](https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Running up That Hill \(Dance Version\)](https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa) | 2:38 | 2022-07-08 | 2022-09-19 |
 | [Sad and Famous](https://open.spotify.com/track/5cxDKRfXUMLzf6Wasf7wSJ) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Sad and Famous](https://open.spotify.com/album/4T9OM1COCw5qs5w6lCGyrn) | 2:20 | 2022-07-15 |  |

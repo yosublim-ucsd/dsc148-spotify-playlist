@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXI7p9kAVJpn.md) - [plain]
 
 > Déjate seducir por la elegancia musical de esta selección.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,632 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,674 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXI7p9kAVJpn.md) - [plain]
 | 64 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 |
 | 65 | [I'm Sorry](https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:41 |
 
-Snapshot ID: `MCwyNTYyNmJjMWNkYmQ2NmYyNmNjOGE1NzY4MDczNDEwMWY0OWEwNjE2`
+Snapshot ID: `MCxhYzVmYWFmYzE2YWU1ZDg2YTU0NWYzMmEzNWNmNzg2OTRmMTYwOTI1`

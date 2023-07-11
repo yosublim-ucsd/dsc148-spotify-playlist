@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 260486,
       "name": "Ghat Ghat",
       "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
@@ -918,6 +918,28 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "album": {
+        "name": "Pagdandi",
+        "url": "https://open.spotify.com/album/1d4SyBc282ylobPcMQBPvD"
+      },
+      "artists": [
+        {
+          "name": "Nyasa",
+          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+        },
+        {
+          "name": "Gaurav Chati",
+          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Pagdandi",
+      "url": "https://open.spotify.com/track/4sVsPVWeoALxXeJ8rof2bN"
     },
     {
       "album": {

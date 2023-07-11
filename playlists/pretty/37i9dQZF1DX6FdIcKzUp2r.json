@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 204094,
+  "num_followers": 204138,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUwYzVkOTZjYWUyZmVkMGEzODE5YTliZjNlZGQyOWYxNDQxZWU5",
+  "snapshot_id": "MCwxOGZjNGNkYTRhMDFkOGRjYWQ2NTI3ZGNjZGZjMGNkNmNiMzJjZmE3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -351,6 +351,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 295253,
       "name": "Old and Wise",
       "url": "https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -687,22 +687,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "I Never Thought I'd See the Day",
-      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 288200,
       "name": "I Hear You Now",
       "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "I Never Thought I'd See the Day",
+      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Local Hero",
+        "url": "https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Wild Theme",
+      "url": "https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Paris, Texas - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 239986,
       "name": "From a Late Night Train",
       "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Local Hero",
-        "url": "https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Wild Theme",
-      "url": "https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi"
     },
     {
       "added_at": "2018-12-12 11:36:39",

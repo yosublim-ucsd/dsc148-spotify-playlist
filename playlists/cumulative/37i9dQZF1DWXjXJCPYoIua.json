@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 262693,
       "name": "Hecho En Mexico",
       "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 217440,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0"
@@ -1128,6 +1128,24 @@
       "duration_ms": 208000,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+    },
+    {
+      "album": {
+        "name": "Medio D\u00eda",
+        "url": "https://open.spotify.com/album/1YtRL3WiIvAqEBoj6heQCp"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173102,
+      "name": "Medio D\u00eda",
+      "url": "https://open.spotify.com/track/2tVDpCEKqdPbtColbdpJVF"
     },
     {
       "album": {
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Si Nos Quieren Bien! (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/3RrstqNjIHoissbZpE9EKV"

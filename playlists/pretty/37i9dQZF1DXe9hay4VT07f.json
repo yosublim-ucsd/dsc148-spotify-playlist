@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 401961,
+  "num_followers": 402129,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl",
+  "snapshot_id": "MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -307,54 +307,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Crocodile Teeth",
-        "url": "https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 166699,
-      "name": "Crocodile Teeth",
-      "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Dunce Cheque",
-        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dunce Cheque",
-      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -375,6 +327,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Foreplay",
         "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
       },
@@ -387,6 +355,22 @@
       "duration_ms": 166159,
       "name": "Foreplay",
       "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -427,6 +411,38 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Gvnman Shift",
         "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -507,22 +539,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Mr Vegas: The Hits",
         "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 211333,
       "name": "Heads High",
       "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -571,6 +571,22 @@
       "duration_ms": 134400,
       "name": "Good Comfort",
       "url": "https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "My Type - Single",
+        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -623,6 +639,26 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -651,26 +687,6 @@
       "duration_ms": 207546,
       "name": "Tempted To Touch",
       "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Narcissistic",
-        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Narcissistic",
-      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -707,38 +723,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "My Type - Single",
-        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -755,6 +739,26 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
@@ -767,6 +771,22 @@
       "duration_ms": 217106,
       "name": "King Of The Dancehall",
       "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -827,26 +847,6 @@
       "duration_ms": 207157,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Good 2 Go",
         "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Bun Fi Bun",
-        "url": "https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd"
+        "name": "Buzz Riddim",
+        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
       },
       "artists": [
         {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Bun Fi Bun",
-      "url": "https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM"
+      "duration_ms": 226400,
+      "name": "Give Me the Light",
+      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
     }
   ],
   "unique_name": "Dancehall Party",

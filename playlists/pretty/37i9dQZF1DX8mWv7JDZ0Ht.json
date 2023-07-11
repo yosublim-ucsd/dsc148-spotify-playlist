@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin\n",
-  "num_followers": 427638,
+  "num_followers": 427698,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjkxNzIzMjJiNzcyMzkwMWUwYzUyYTkxYjQwN2NjNjNmNjc2NWUx",
+  "snapshot_id": "MCxhYmVjYzA1NjhiODUyNGE2NTYwN2E1YjhjOTA1YTU0NTAwMzBmYmJh",
   "tracks": [
     {
       "added_at": "2023-07-07 13:10:59",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -219,22 +219,6 @@
       "duration_ms": 176325,
       "name": "Ela \u00c9 S\u00f3 Dela",
       "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -275,6 +259,22 @@
       "duration_ms": 157317,
       "name": "Passarinho",
       "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -391,38 +391,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Ar da Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 206864,
-      "name": "Ar da Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "Folha",
-        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 197336,
-      "name": "Folha",
-      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Pra Ser N\u00f3s Dois",
         "url": "https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz"
       },
@@ -443,22 +411,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
-        "url": "https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH"
+        "name": "Ar da Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
       },
       "artists": [
         {
-          "name": "Nossa Toca",
-          "url": "https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi"
-        },
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
         }
       ],
-      "duration_ms": 232416,
-      "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
-      "url": "https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy"
+      "duration_ms": 206864,
+      "name": "Ar da Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -475,6 +439,42 @@
       "duration_ms": 155738,
       "name": "Vem Meu Amor",
       "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Folha",
+        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "Folha",
+      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
+        "url": "https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH"
+      },
+      "artists": [
+        {
+          "name": "Nossa Toca",
+          "url": "https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi"
+        },
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 232416,
+      "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
+      "url": "https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Te dizer que sim.",
-        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
+        "name": "Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 150036,
-      "name": "Te dizer que sim.",
-      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
+      "duration_ms": 191769,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -551,6 +551,22 @@
       "duration_ms": 185580,
       "name": "Mesmo Se Voc\u00ea Mudar",
       "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Te dizer que sim.",
+        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 150036,
+      "name": "Te dizer que sim.",
+      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -599,22 +615,6 @@
       "duration_ms": 162857,
       "name": "Lance ou Romance",
       "url": "https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "Por Voc\u00ea",
-        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 191769,
-      "name": "Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "isso \u00e9 t\u00e3o a gente :)",
-        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
-      },
-      "artists": [
-        {
-          "name": "Bia Jord\u00e3o",
-          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
-        }
-      ],
-      "duration_ms": 190507,
-      "name": "isso \u00e9 t\u00e3o a gente :)",
-      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153428,
       "name": "Virginiana",
       "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "isso \u00e9 t\u00e3o a gente :)",
+        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
+      },
+      "artists": [
+        {
+          "name": "Bia Jord\u00e3o",
+          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
+        }
+      ],
+      "duration_ms": 190507,
+      "name": "isso \u00e9 t\u00e3o a gente :)",
+      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
+        "name": "n\u00f3s",
+        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "n\u00f3s",
+      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/4cK5SEawAvb3fL5lPlhJiX"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 158861,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
-        "name": "n\u00f3s",
-        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "n\u00f3s",
-      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "added_at": "2023-07-07 13:10:59",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-07 13:10:59",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-07-07 13:10:59",
-      "album": {
         "name": "Ser Eu",
         "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 143400,
       "name": "De Onde Eu Venho",
       "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
+    },
+    {
+      "added_at": "2023-07-07 13:10:59",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-07-07 13:10:59",

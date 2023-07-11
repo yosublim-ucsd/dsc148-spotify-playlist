@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-352 songs - 1 day 0 hr 47 min
+353 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 | 2021-01-22 | 2022-03-18 |
 | [Foolish Heart](https://open.spotify.com/track/2GYcLZuDL2u26oqwYILFTk) | [Johnny "Dr\. J" James](https://open.spotify.com/artist/7bZOiRuWfaU6RMAxz1XqsR), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Foolish Heart](https://open.spotify.com/album/5cUUrej4rYW0RjDH6zNsxO) | 3:37 | 2022-03-04 | 2022-07-29 |
 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 | 2022-03-04 |  |
-| [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 | 2023-03-17 |  |
+| [For The Cool In You](https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Promise](https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p) | 4:29 | 2023-03-17 |  |
+| [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 | 2023-03-17 | 2023-07-11 |
 | [Forever](https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Forever](https://open.spotify.com/album/6LvqB0xOeML6cyQdw33y1O) | 5:16 | 2022-03-18 |  |
 | [Forever My Love](https://open.spotify.com/track/7xfV7C26Jb4Ka5l4tGtXfq) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Forever My Love](https://open.spotify.com/album/07UH7uQ4IIxni6J14U1juu) | 3:09 | 2022-03-18 | 2023-07-08 |
 | [Freddie Freeloader](https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Freddie Freeloader](https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo) | 4:41 | 2023-04-14 |  |

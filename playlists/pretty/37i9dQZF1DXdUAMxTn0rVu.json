@@ -1,15 +1,15 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Dilated Peoples",
-  "num_followers": 405782,
+  "num_followers": 406025,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2VkNzhmODM1NWFiNDEzOTBhOGNkNDU3N2YyM2Y4YWIxYmUzZDk4",
+  "snapshot_id": "MCwwM2FlYWQ3ZTFiMmM5MGMzMWNmMzYxNzAwNWNlMzQwYTg1ODI1MjEw",
   "tracks": [
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "MM...FOOD",
         "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
@@ -81,27 +81,23 @@
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+        "name": "Neighborhood Watch",
+        "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF Doom)",
-      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
+      "duration_ms": 245826,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
@@ -125,7 +121,75 @@
       "url": "https://open.spotify.com/track/4hKn3UprlDFgjOZ1CtufBr"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF Doom)",
+      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "J5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
+      },
+      "artists": [
+        {
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "Concrete Schoolyard",
+      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/75JlUgJb8uwmDnASQpZfvY"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
@@ -145,7 +209,23 @@
       "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "The Platform",
+        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "The Platform",
+      "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Full Clip: A Decade Of Gang Starr",
         "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
@@ -161,91 +241,7 @@
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "The Listening",
-        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/75JlUgJb8uwmDnASQpZfvY"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "J5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
-      },
-      "artists": [
-        {
-          "name": "Jurassic 5",
-          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Concrete Schoolyard",
-      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Acid Raindrops",
         "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
@@ -277,7 +273,7 @@
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Shining",
         "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
@@ -301,7 +297,23 @@
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Travellin' Man (Remastered)",
         "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
@@ -321,7 +333,7 @@
       "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Violence Begets Violence",
         "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
@@ -345,7 +357,27 @@
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "I Need Drugs",
         "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Deltron 3030",
         "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Body Of The Life Force",
         "url": "https://open.spotify.com/album/2qgtKycDQ6FXW8palsRKrI"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/3uDa49zGfJFVXdBk9L5uQs"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Shadows On The Sun",
         "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "J-88",
         "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Rock City",
         "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Game Tight",
         "url": "https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Torture Papers",
         "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
@@ -609,55 +641,7 @@
       "url": "https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl"
     },
     {
-      "added_at": "2023-07-01 23:39:28",
-      "album": {
-        "name": "Neighborhood Watch",
-        "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "This Way",
-      "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "Hi-Teknology",
-        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
-      },
-      "artists": [
-        {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
-        }
-      ],
-      "duration_ms": 274826,
-      "name": "The Sun God",
-      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
@@ -673,7 +657,39 @@
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Hi-Teknology",
+        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
+      },
+      "artists": [
+        {
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
+        }
+      ],
+      "duration_ms": 274826,
+      "name": "The Sun God",
+      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Grind Date",
         "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Shining",
         "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Soundpieces: Da Antidote",
         "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Home Field Advantage",
         "url": "https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Masters of the Universe",
         "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Lyricist Lounge Vol. 1",
         "url": "https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Nia",
         "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
     },
     {
-      "added_at": "2023-06-02 04:18:02",
+      "added_at": "2023-07-10 23:45:52",
       "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
@@ -939,26 +955,6 @@
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
-    },
-    {
-      "added_at": "2023-06-02 04:18:02",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        },
-        {
-          "name": "Quasimoto",
-          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
-        }
-      ],
-      "duration_ms": 283600,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
     }
   ],
   "unique_name": "I Love My Underground Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from DJ Seinfeld & Confidence Man.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,922 likes - 106 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,079 likes - 106 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 105 | [Dimensions On High](https://open.spotify.com/track/7Ik3SWzHSTBZ31x1Y5n0oq) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0) | [Dimensions On High](https://open.spotify.com/album/1BEmpG2GlUtbSuafGuHYRS) | 7:40 |
 | 106 | [Crush](https://open.spotify.com/track/7okE97gApil2QbP5rqMAY2) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Tasha LaRae](https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ) | [Crush](https://open.spotify.com/album/6gYLRchavuBGwx4RGtu3gc) | 2:40 |
 
-Snapshot ID: `MCw5NDEyNzdjODljYjhlMzE4NTE1ZDI1ZGU2YzY4ZmJkOTZiZDVjOTdk`
+Snapshot ID: `MCwzM2YxOTYwOWE5ODU4YTIyZjJiYzMwYThmYjI3ZTQ2NWFjNGU0ZGRl`

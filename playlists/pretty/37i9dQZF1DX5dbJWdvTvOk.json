@@ -1,12 +1,12 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 127040,
+  "num_followers": 127091,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzY1OWI5ZTM0NjQyNmJlZTNmYWM3YzIxOGQ2MzdkNTEyNDJkMDY0",
+  "snapshot_id": "MCxiY2EwY2M0ZDVjYTdhZWRkOWEwZjE2MzA2ZjQ2YTk3MjQzNjEzYWQy",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "V\u00f8ringfossen",
-        "url": "https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP"
-      },
-      "artists": [
-        {
-          "name": "Fabian Lombardi",
-          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
-        }
-      ],
-      "duration_ms": 129561,
-      "name": "V\u00f8ringfossen",
-      "url": "https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "A Sarabande",
         "url": "https://open.spotify.com/album/1ZktLifDStzFBtykjoFzHb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 121461,
       "name": "Boboli Gardens",
       "url": "https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "V\u00f8ringfossen",
+        "url": "https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "duration_ms": 129561,
+      "name": "V\u00f8ringfossen",
+      "url": "https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Guitar Serenade",
-        "url": "https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel T. Wesley",
-          "url": "https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h"
-        }
-      ],
-      "duration_ms": 88008,
-      "name": "Guitar Serenade",
-      "url": "https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Fields of rice",
-        "url": "https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w"
-      },
-      "artists": [
-        {
-          "name": "Jim Nash",
-          "url": "https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m"
-        }
-      ],
-      "duration_ms": 107572,
-      "name": "Fields of rice",
-      "url": "https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Chiaro di Luna",
         "url": "https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 154197,
       "name": "Sov Gott Lilla Du",
       "url": "https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Guitar Serenade",
+        "url": "https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel T. Wesley",
+          "url": "https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h"
+        }
+      ],
+      "duration_ms": 88008,
+      "name": "Guitar Serenade",
+      "url": "https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Fields of rice",
+        "url": "https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w"
+      },
+      "artists": [
+        {
+          "name": "Jim Nash",
+          "url": "https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m"
+        }
+      ],
+      "duration_ms": 107572,
+      "name": "Fields of rice",
+      "url": "https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Struck By Clouds",
-        "url": "https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm"
-      },
-      "artists": [
-        {
-          "name": "Ivan Bielsa",
-          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
-        }
-      ],
-      "duration_ms": 117096,
-      "name": "Struck By Clouds",
-      "url": "https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Pacifiquement",
         "url": "https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 182750,
       "name": "Passing Rain",
       "url": "https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Struck By Clouds",
+        "url": "https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "duration_ms": 117096,
+      "name": "Struck By Clouds",
+      "url": "https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up"
     },
     {
       "added_at": "2023-06-22 22:01:00",

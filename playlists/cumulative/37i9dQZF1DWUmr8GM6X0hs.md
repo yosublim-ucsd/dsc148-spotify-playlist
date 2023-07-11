@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-127 songs - 6 hr 45 min
+128 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Convergencia](https://open.spotify.com/track/7hrfIQSiR8E5uNkzXmQQlB) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Estrellas del Bolero: Conexión Lima \- La Habana](https://open.spotify.com/album/15Zd8kkEu47XtHJqIZz9RR) | 2:50 | 2021-12-17 | 2022-07-28 |
 | [Corazoncito](https://open.spotify.com/track/1ZLZh65nKQUKzb4Qss04pu) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC) | 3:12 | 2021-12-17 | 2022-07-27 |
 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 | 2021-12-17 |  |
-| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 |  |
+| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 | 2023-07-11 |
 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 | 2021-12-17 | 2022-11-13 |
 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 | 2021-12-17 |  |
@@ -55,6 +55,7 @@
 | [El Final](https://open.spotify.com/track/0WTbwIPt5dA43XMP1SEy8Q) | [Cecilio Alva](https://open.spotify.com/artist/6b3BoaoypHCs2FQ1F54ij5) | [Preso de Mis Boleros Cantineros](https://open.spotify.com/album/0tM0ZAdA0mp7BDFVFTfy3K) | 2:53 | 2021-12-17 | 2022-11-13 |
 | [El Final](https://open.spotify.com/track/4kvaFZySpHz2GZD1g8OIdn) | [Cecilio Alva](https://open.spotify.com/artist/6b3BoaoypHCs2FQ1F54ij5) | [Preso de Mis Boleros Cantineros](https://open.spotify.com/album/3XO74rNJHu8qHSCY3t2fAs) | 2:53 | 2021-12-17 | 2022-07-09 |
 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 | 2021-12-17 | 2022-12-16 |
+| [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 | 2023-07-10 |  |
 | [El Teléfono](https://open.spotify.com/track/3vuOUZqnlqkc7BljJq0NnL) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 38](https://open.spotify.com/album/7IrlrJ1wg7aRFIyy1Mef25) | 2:49 | 2021-12-17 | 2022-07-29 |
 | [El Teléfono](https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 19](https://open.spotify.com/album/6fMrPRvcyU4X80kojIGxHF) | 2:49 | 2021-12-17 |  |
 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 | 2021-12-17 |  |

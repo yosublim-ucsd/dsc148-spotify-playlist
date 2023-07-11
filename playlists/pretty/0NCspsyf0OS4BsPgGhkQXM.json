@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2054912,
+  "num_followers": 2054918,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM1NDgsZTdmMTA1Yzk3NjEzMjM5NzNkZmJkYWMxNzY5MzJjZTYzZWQ2NjA3Yw==",
+  "snapshot_id": "MTM1NTAsM2UyZDM4NjRiNzVjMzQ2NzgyZjFiM2IzMjdkZTk3NWUxMTY3MjI4ZA==",
   "tracks": [
     {
       "added_at": "2023-07-07 13:57:42",
@@ -889,6 +889,26 @@
       "url": "https://open.spotify.com/track/4lXaDsnSigLjC0zzngrRxl"
     },
     {
+      "added_at": "2023-07-07 15:04:12",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq"
+      },
+      "artists": [
+        {
+          "name": "AENEAS",
+          "url": "https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 198046,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9"
+    },
+    {
       "added_at": "2023-06-21 04:26:49",
       "album": {
         "name": "Back Now",
@@ -1215,26 +1235,6 @@
       "duration_ms": 179200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/6lNcbvqM1DAu3lEurkQfr8"
-    },
-    {
-      "added_at": "2023-07-07 15:04:12",
-      "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq"
-      },
-      "artists": [
-        {
-          "name": "AENEAS",
-          "url": "https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 198046,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9"
     },
     {
       "added_at": "2023-06-21 04:26:49",

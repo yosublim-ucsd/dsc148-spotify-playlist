@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel e Rodolffo, Ana Castela, Lia Clark e Pabllo Vittar, Mc Don Juan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889,992 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890,389 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 9 | [Tengo](https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Tengo](https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g) | 2:09 |
 | 10 | [Ex Gaveta \- Ao Vivo](https://open.spotify.com/track/2qn6ZGYxOw5Mi9gfKPWlyM) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/1MmEI4TXfwwUzXvbPfXs69) | 2:41 |
 | 11 | [Beijo Fuleiro \- Ao Vivo](https://open.spotify.com/track/55vC6IXdrqntPOZeMQJ8Kd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Beijo Fuleiro \(Ao Vivo\)](https://open.spotify.com/album/2HzDbcpXFKvh4cnEEJ3Ds7) | 2:48 |
-| 12 | [Frente Fria \- Ao Vivo](https://open.spotify.com/track/5ysEo5yxseXQzJ65XfEpkk) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Frente Fria \(Ao Vivo\)](https://open.spotify.com/album/2QCjw4AZMZJKgmaZ9TPhFc) | 4:23 |
+| 12 | [Frente Fria \- Ao Vivo](https://open.spotify.com/track/5ysEo5yxseXQzJ65XfEpkk) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Frente Fria \(Ao Vivo\)](https://open.spotify.com/album/2QCjw4AZMZJKgmaZ9TPhFc) | 3:22 |
 | 13 | [Bololo](https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Bololo](https://open.spotify.com/album/4Rld5vncIN0XFmc7iCr9f2) | 2:38 |
 | 14 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
 | 15 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 |
 | 98 | [Criada no Morro](https://open.spotify.com/track/0VpQBuwTQd1AtGaey14UdK) | [OBerlim](https://open.spotify.com/artist/4HzBDo1A7nlf35EVYunj8B), [Lacerda Beats](https://open.spotify.com/artist/65R0huiH1wvnM2LMz7mKEf) | [Criada no Morro](https://open.spotify.com/album/6lspwVFowxesTmDJbibJ2G) | 2:49 |
 
-Snapshot ID: `MCwwOWRjYzljYjhmYzBhYWRlZmVjOWE0MDZlNTcwN2M4MDFhMGEzYTVm`
+Snapshot ID: `MCw2OTQ1NTgxYTJiNTEzZTZlMDc2MWU3YmM5YTg0ZjQ5NzUyYTk5N2Zl`

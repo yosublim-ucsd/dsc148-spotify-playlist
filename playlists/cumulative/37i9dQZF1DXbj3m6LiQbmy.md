@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Asteria in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-296 songs - 17 hr 58 min
+298 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Deputy Of Love feat\. Fonda Rae](https://open.spotify.com/track/1XH8Tk9F84g0x1XDsqwKWt) | [Don Armando's Second Avenue Rhumba Band](https://open.spotify.com/artist/6nXqNJsvC73X3kBpBwRfPD) | [Ze 30 \- Ze Records Story 1979\-2009](https://open.spotify.com/album/2HswEoyYxlHy27W8zSo7TJ) | 5:28 | 2022-04-01 | 2022-05-18 |
 | [Dimmelo Dammelo](https://open.spotify.com/track/7vv2QjWfknI0YaWYA4tqyD) | [Croce Atroce](https://open.spotify.com/artist/2Wfgoshd9oeqYwdQHk2Wdm) | [Dimmelo Dammelo](https://open.spotify.com/album/7aO82oyLa5OSlRdt4ZAmiT) | 3:16 | 2023-06-08 |  |
 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 | 2022-07-04 | 2023-05-06 |
-| [DISCOBALL](https://open.spotify.com/track/2rQDSXh5V1mutc5w24juTX) | [Narciso](https://open.spotify.com/artist/0iIYztpRuUT89TwXbKSDTh) | [DISCOBALL](https://open.spotify.com/album/088bBeEGcMnLUUlIxxrlDX) | 3:04 | 2023-05-11 |  |
+| [DISCOBALL](https://open.spotify.com/track/2rQDSXh5V1mutc5w24juTX) | [Narciso](https://open.spotify.com/artist/0iIYztpRuUT89TwXbKSDTh) | [DISCOBALL](https://open.spotify.com/album/088bBeEGcMnLUUlIxxrlDX) | 3:04 | 2023-05-11 | 2023-07-11 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-06-12 | 2022-06-27 |
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2022-04-01 | 2023-01-25 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-06-12 | 2022-06-27 |
@@ -226,6 +226,7 @@
 | [Rhythm Is My Bitch \- Original Mix](https://open.spotify.com/track/0qCA1BoUgGckvfnyX04jgL) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Rhythm Is My Bitch \- EP](https://open.spotify.com/album/1efme0Jwk5ZxdGA3pOXtcK) | 6:30 | 2022-06-26 | 2022-07-26 |
 | [Rin Tin Tin](https://open.spotify.com/track/6I48dHZ08YxQfFfOjDuWMS) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo) | [Rin Tin Tin](https://open.spotify.com/album/5Z3NO6kR7tiV5IFtmIS4EE) | 2:16 | 2022-06-12 | 2022-06-27 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2022-06-12 | 2022-06-27 |
+| [Rumours of Bread](https://open.spotify.com/track/3gfHadzT6UhT1CxBBCDOuH) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [A Queer Anthology of Drums](https://open.spotify.com/album/2uTo1vk3l4YfFgZeMHikM9) | 1:21 | 2023-07-10 |  |
 | [S.T.A.R.](https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw) | 3:38 | 2022-07-04 |  |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2022-06-12 | 2022-06-27 |
 | [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 | 2023-03-17 | 2023-06-06 |
@@ -280,6 +281,7 @@
 | [Tropicanal](https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7) | 4:20 | 2023-02-28 | 2023-06-09 |
 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 | 2021-11-19 | 2023-02-25 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2021-11-19 | 2023-06-06 |
+| [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 | 2023-07-10 |  |
 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 | 2023-06-08 |  |
 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 | 2022-06-26 | 2023-02-28 |
 | [Una zebra a pois / Tintarella di luna](https://open.spotify.com/track/7sM1bg8NrTRwoSY4CRbF1X) | [Ivan Cattaneo](https://open.spotify.com/artist/7EFq1UAMwV1s5Av1RSkUSM) | [Collection: Tutto Hits Anni '80](https://open.spotify.com/album/3mDUY76eFVRnUMCyQcExZk) | 2:39 | 2022-04-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Israel e Rodolffo, Ana Castela, Lia Clark e Pabllo Vittar, Mc Don Juan e muito mais!
 
-7,004 songs - 14 day 22 hr 6 min
+7,004 songs - 14 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2538,7 +2538,7 @@
 | [Freestyle](https://open.spotify.com/track/7AXDggO30XJi93T9cW7wBL) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Freestyle](https://open.spotify.com/album/688jlHCyptPurzfgv6OTUz) | 2:12 | 2022-06-03 | 2022-06-11 |
 | [Freestyle 2022](https://open.spotify.com/track/49imQJoGDnAxIgVudtpTtc) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [Freestyle 2022](https://open.spotify.com/album/0wZBxOd2uogYdM9boQkIbv) | 8:41 | 2022-02-11 | 2022-02-19 |
 | [Freestyle Rio](https://open.spotify.com/track/4AhILhRaXL7PF6LH7C4zi1) | [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Freestyle Rio](https://open.spotify.com/album/52Ge813CcIzo3AMbqBjeWb) | 1:46 | 2023-02-24 | 2023-03-03 |
-| [Frente Fria \- Ao Vivo](https://open.spotify.com/track/5ysEo5yxseXQzJ65XfEpkk) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Frente Fria \(Ao Vivo\)](https://open.spotify.com/album/2QCjw4AZMZJKgmaZ9TPhFc) | 4:23 | 2023-07-07 |  |
+| [Frente Fria \- Ao Vivo](https://open.spotify.com/track/5ysEo5yxseXQzJ65XfEpkk) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Frente Fria \(Ao Vivo\)](https://open.spotify.com/album/2QCjw4AZMZJKgmaZ9TPhFc) | 3:22 | 2023-07-07 |  |
 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 | 2022-10-28 | 2022-11-05 |
 | [Frenética Botada \- Ao Vivo](https://open.spotify.com/track/72PEarikq4FxYJfGHHxwFi) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf) | [Psi Universal \(Ao Vivo\)](https://open.spotify.com/album/0ufSOqHm24Cv0TOxfYZVIy) | 2:14 | 2022-12-02 | 2022-12-10 |
 | [Frequência \- Ao Vivo](https://open.spotify.com/track/58vko6MCbK7q4ttvRdbi5k) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/5HajcNnwrWx25DrFPcrlzf) | 3:03 | 2022-07-29 | 2022-08-06 |

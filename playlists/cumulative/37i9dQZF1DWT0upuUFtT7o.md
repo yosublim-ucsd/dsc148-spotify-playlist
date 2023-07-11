@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-1,645 songs - 3 day 17 hr 58 min
+1,647 songs - 3 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Bottomofurhart](https://open.spotify.com/track/2P1f8QmsQAkKkJCXfPgbMM) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Bottomofurhart](https://open.spotify.com/album/1gPVVtLMFsZX1xaafBcihi) | 2:03 | 2022-03-02 | 2022-04-13 |
 | [Bouncing off the Bottom](https://open.spotify.com/track/6Hj5y3x9LhxJRy0GdMBLnj) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 4:02 | 2022-03-16 | 2022-04-13 |
 | [Bound Together](https://open.spotify.com/track/1dPgumUfWqavISCyTY2wL8) | [Young Monks](https://open.spotify.com/artist/6ZreVUHffpj7WprfTK69Fu) | [Bound Together](https://open.spotify.com/album/7bcYjGHrF2qDnKLp1ezy6L) | 3:51 | 2022-07-27 | 2022-08-25 |
-| [BOY FEELINGS](https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [BOY FEELINGS](https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn) | 3:28 | 2023-05-24 |  |
+| [BOY FEELINGS](https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [BOY FEELINGS](https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn) | 3:28 | 2023-05-24 | 2023-07-11 |
 | [BOYFRIEND KILLER](https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [BOYFRIEND KILLER](https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM) | 3:14 | 2021-12-01 | 2022-01-13 |
 | [Boyish](https://open.spotify.com/track/2DYatPRaob8ENa1yYQkyc7) | [girly.](https://open.spotify.com/artist/2gSSQtOkz05R46WpZDNckK) | [Boyish](https://open.spotify.com/album/1HxBZlaPPpjBGyAYgQeiy5) | 3:14 | 2022-02-22 | 2022-03-17 |
 | [Boys Are](https://open.spotify.com/track/5iC2ejeKQvsbJPeVuWqioo) | [Pol](https://open.spotify.com/artist/4kexjnM5nXo138D9lAhJFd), [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w), [Matthijs Pol](https://open.spotify.com/artist/3fwkslWfbKf4o40gQ1iYl0) | [Boys Are](https://open.spotify.com/album/4lRqOjQj3HtMNoHniVIuI7) | 3:00 | 2022-06-29 | 2022-08-04 |
@@ -618,6 +618,7 @@
 | [Hatch](https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Hatch](https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56) | 3:14 | 2021-12-01 | 2022-01-13 |
 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 | 2021-12-01 | 2022-01-13 |
 | [Hate Today!](https://open.spotify.com/track/6rT3niCnJf45ni839oAQxU) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Hate Today!](https://open.spotify.com/album/1YMxXMmIVnU5azswJjOIh7) | 3:30 | 2022-09-14 | 2022-10-13 |
+| [He Could Never Love You](https://open.spotify.com/track/2auNIrc8Yhtcd3JYfGzRCp) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [He Could Never Love You](https://open.spotify.com/album/7implGPF71IpUetVf4jiLV) | 3:35 | 2023-07-10 |  |
 | [He Cried](https://open.spotify.com/track/3doRUNX0cYIpqpSZAsWSsN) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [He Cried](https://open.spotify.com/album/3BUeLVNSxX3zq7GtQQXVUy) | 2:44 | 2023-04-05 | 2023-04-13 |
 | [Head Over Heels](https://open.spotify.com/track/57SYiEHr1BKIKWk7FCK3Fy) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Head Over Heels](https://open.spotify.com/album/17bbqglX9vw1omdJ6pap3W) | 3:14 | 2023-01-25 | 2023-02-23 |
 | [Head Talk](https://open.spotify.com/track/2Mk3CiL20ZXRVM0Kky7adJ) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/6Pn8Xla54rOrAfEQiUZgwd) | 4:08 | 2022-03-04 | 2022-04-27 |
@@ -1114,6 +1115,7 @@
 | [Periwinkle](https://open.spotify.com/track/6CVHJkSw1VomefpLOOxIUE) | [colleen dow](https://open.spotify.com/artist/1TkYhihp4BiyP0JnhIoyRI) | [Periwinkle](https://open.spotify.com/album/4XKnNKmJotZzQd6Qk3qYLI) | 2:59 | 2022-04-09 | 2022-05-05 |
 | [Petrified](https://open.spotify.com/track/7gxomQnihEwuq3qoG09Xd5) | [Kyle Stockman](https://open.spotify.com/artist/1tuB0DnwhxU9xeG4W8UMba) | [Petrified](https://open.spotify.com/album/7ofSBJ05jPMnD3qM6RGnxa) | 3:11 | 2022-03-30 | 2022-04-27 |
 | [Phase](https://open.spotify.com/track/3IOpJYHofSXLSTyzXXc4uO) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Phase](https://open.spotify.com/album/0RVkJ3E9z3vm2DOnqpSmc4) | 4:08 | 2022-03-22 | 2022-04-27 |
+| [Phases](https://open.spotify.com/track/23jUolbn4TlFlnxV9CFAPO) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [Phases](https://open.spotify.com/album/3mWOWxGXBXcUBSdhZqSpU1) | 3:21 | 2023-07-10 |  |
 | [Photocopy](https://open.spotify.com/track/04L9r5fLiYxL0rKXTzZmpQ) | [GUYDXNCE](https://open.spotify.com/artist/6SyYtScRDD1EpcXP0jqGfm) | [GIRL,](https://open.spotify.com/album/2nuyYSrCMS0TZzQSqsFPHT) | 3:21 | 2023-03-22 | 2023-05-11 |
 | [Picking Petals](https://open.spotify.com/track/6W8bH31M5N17teVILkTlfP) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Picking Petals](https://open.spotify.com/album/0rlOme34khDPN9Qvdk2ckg) | 3:49 | 2022-03-30 | 2022-04-27 |
 | [Picture Of](https://open.spotify.com/track/2eubo0u40y0aSdHM39SzaO) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [I Held the Shape While I Could](https://open.spotify.com/album/3vteTx2gH08gtDvxsSx8xR) | 4:36 | 2023-04-19 | 2023-05-18 |
@@ -1258,7 +1260,7 @@
 | [Sharks](https://open.spotify.com/track/4QZa3y2uKeSl92MkYKZLlf) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/6f2DJDgxBufS0JVEcHUDhL) | 2:48 | 2022-04-27 | 2022-06-09 |
 | [She Doesn't Mind](https://open.spotify.com/track/5KcbZlncWQ7LEgCwFUy44K) | [Grocery Boy](https://open.spotify.com/artist/7xioxw5s3mSTcrbnGIE4nu) | [She Doesn't Mind](https://open.spotify.com/album/2VpYnN5HtqAix9NaZuM4u7) | 2:18 | 2023-05-17 | 2023-06-28 |
 | [she's in a cage](https://open.spotify.com/track/4HDKe2j93rapEMlfY4knZ5) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [she's in a cage](https://open.spotify.com/album/7IeGWk2pmhU6aQmZNwjpgH) | 4:30 | 2022-08-10 | 2022-09-29 |
-| [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-31 |  |
+| [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-31 | 2023-07-11 |
 | [Shining](https://open.spotify.com/track/7lzQIMpOQtYmKwDS7hT7jo) | [Sinjin Jaguar](https://open.spotify.com/artist/3kxIrFOm5ppe9IhFw8y3pq) | [Shining](https://open.spotify.com/album/2OJfJTxU3RbRjrAaEwGsGS) | 3:10 | 2023-06-14 |  |
 | [Shivering in Bed](https://open.spotify.com/track/1uVOZcukZ6eIJzj297tcn4) | [Amen Sioux](https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA) | [Shivering in Bed](https://open.spotify.com/album/5nVRexX9YlfoZBTCqnb83a) | 3:33 | 2022-06-29 | 2022-08-04 |
 | [Shop Around](https://open.spotify.com/track/58JFt7lr6jvcypQa7na5Yo) | [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx) | [Shop Around](https://open.spotify.com/album/0b7hyhvArH4PRJgp39HMop) | 3:02 | 2022-06-29 | 2022-08-04 |

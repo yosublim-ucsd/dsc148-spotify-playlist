@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-99 songs - 5 hr 36 min
+100 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Rowdy Ponnu](https://open.spotify.com/track/2joKMaye4sULpsCJuWZf3y) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK) | [Rowdy Ponnu](https://open.spotify.com/album/58UMFmyJVJNino9P24WRND) | 3:44 | 2023-04-10 |  |
 | [Run Mage Run](https://open.spotify.com/track/4qRicd9ES3SvE2i31JMJWR) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Refixmusic](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Run Mage Run](https://open.spotify.com/album/1a2IZtCHRqPu1EsCve1A0X) | 2:11 | 2023-07-04 |  |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 |  |
+| [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 |  |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 |  |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99) | 3:27 | 2023-03-21 |  |
 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-06-16 |  |

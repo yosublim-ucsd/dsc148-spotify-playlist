@@ -207,24 +207,6 @@
     },
     {
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "date_added": "2023-05-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217266,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
-    },
-    {
-      "album": {
         "name": "Friendly Persuasion",
         "url": "https://open.spotify.com/album/0qwaBXCzuBg6xIjTcHT2Ou"
       },
@@ -240,6 +222,32 @@
       "duration_ms": 151893,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/5S4AXUUTty0ZDgkn94VXnD"
+    },
+    {
+      "album": {
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Maxwell",
+          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
+        },
+        {
+          "name": "Carl Sigman",
+          "url": "https://open.spotify.com/artist/232WpTeOPgxflBug0uj4Tc"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
     },
     {
       "album": {
@@ -947,6 +955,10 @@
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
       "artists": [
+        {
+          "name": "Acker Bilk",
+          "url": "https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA"
+        },
         {
           "name": "Frank Chacksfield & His Orchestra",
           "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 66039,
+  "num_followers": 66050,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGUwNmMwYzdhNWM0NzZiODk0MWZhNzQxMTBmNTQ2YWRkNzM2MDM2",
+  "snapshot_id": "MCw5MWM1MzA2NzEyN2MzNTVjNzhjMDIwMzA0NjI4M2NjMGJhYjA2ZTZj",
   "tracks": [
     {
       "added_at": "2023-06-11 11:48:48",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "Hidden Region",
+        "url": "https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Hidden Region",
+      "url": "https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "Re:al Axis",
-        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
-      },
-      "artists": [
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "\u6fc0\u60c5",
-      "url": "https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "LOVE&GAME",
         "url": "https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "Hidden Region",
-        "url": "https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz"
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
       },
       "artists": [
         {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
         }
       ],
-      "duration_ms": 226746,
-      "name": "Hidden Region",
-      "url": "https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1"
+      "duration_ms": 263520,
+      "name": "\u6fc0\u60c5",
+      "url": "https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "IMPERIAL CHAIN",
         "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
       },
@@ -435,6 +415,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "BE AUTHENTIC",
+      "url": "https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt"
       },
@@ -447,6 +443,26 @@
       "duration_ms": 275160,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 300493,
-      "name": "\u5e78\u305b\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "BLACK or WHITE 2022",
         "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 247360,
       "name": "YOUR RHAPSODY",
       "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -543,8 +527,24 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        }
+      ],
+      "duration_ms": 300493,
+      "name": "\u5e78\u305b\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
       "artists": [
         {
@@ -552,9 +552,41 @@
           "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
         }
       ],
-      "duration_ms": 276933,
-      "name": "BE AUTHENTIC",
-      "url": "https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3"
+      "duration_ms": 218493,
+      "name": "\u9858\u3044\u306fShine On The Sea",
+      "url": "https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 258385,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -583,18 +615,18 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
       "artists": [
         {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 258385,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -611,6 +643,22 @@
       "duration_ms": 261040,
       "name": "Endless",
       "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -636,54 +684,6 @@
       },
       "artists": [
         {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "\u0179enit - EP",
-        "url": "https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "BLACK TIGER",
-      "url": "https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
           "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
           "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
         }
@@ -691,22 +691,6 @@
       "duration_ms": 251520,
       "name": "Risky\u306a\u5f7c\u5973",
       "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "\u9858\u3044\u306fShine On The Sea",
-      "url": "https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -727,22 +711,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "SEPTET for...",
-        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
-      },
-      "artists": [
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "SEPTET for...",
-      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
         "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
       },
@@ -759,18 +727,34 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "Four Leaf Ring",
-        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
+        "name": "SEPTET for...",
+        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
       },
       "artists": [
         {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
-      "duration_ms": 267146,
-      "name": "Four Leaf Ring",
-      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
+      "duration_ms": 260013,
+      "name": "SEPTET for...",
+      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "\u0179enit - EP",
+        "url": "https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "BLACK TIGER",
+      "url": "https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -787,6 +771,22 @@
       "duration_ms": 231440,
       "name": "Up to the nines",
       "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "Four Leaf Ring",
+        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        }
+      ],
+      "duration_ms": 267146,
+      "name": "Four Leaf Ring",
+      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "miss you...",
-      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "\u5348\u524d4\u6642\u306eDusty Love",
         "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 274946,
       "name": "\u5348\u524d4\u6642\u306eDusty Love",
       "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "miss you...",
+      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
+        }
+      ],
+      "duration_ms": 320506,
+      "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 256986,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
-          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
-        }
-      ],
-      "duration_ms": 320506,
-      "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
     },
     {
       "added_at": "2023-06-11 11:48:48",

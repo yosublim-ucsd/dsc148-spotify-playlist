@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,153 songs - 2 day 16 hr 51 min
+1,154 songs - 2 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-10 |  |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-17 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-05-23 | 2021-05-24 |
 | [100 zhivota](https://open.spotify.com/track/2rFZhVHWOwDxAy59qLUzLy) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [100 zhivota](https://open.spotify.com/album/6AsPohoipqH8MK3lYwYErf) | 4:13 | 2021-04-19 | 2022-01-04 |
@@ -1069,7 +1070,7 @@
 | [Живей, мило мое](https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Живей, мило мое](https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc) | 3:09 | 2023-04-30 |  |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2023-04-06 | 2023-04-09 |
 | [Забравяй ме](https://open.spotify.com/track/2BfIkZJht4lBG73fqtsSxp) | [Tita](https://open.spotify.com/artist/5uOrQMWvhytvkjU7P3jgwV), [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1) | [Забравяй ме](https://open.spotify.com/album/7DTXFlPRsJ5swv6DNdShM1) | 3:10 | 2022-11-12 | 2023-06-01 |
-| [Здрав\. Як\. Силен\. Стабилен.](https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Откровение II](https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r) | 3:13 | 2022-11-26 |  |
+| [Здрав\. Як\. Силен\. Стабилен.](https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Откровение II](https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r) | 3:13 | 2022-11-26 | 2023-07-11 |
 | [Земетръс](https://open.spotify.com/track/3r3Z6VpkIPqQnc7XZyIWmr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Земетръс](https://open.spotify.com/album/2e2HHs307O6RBdDAD36Gi0) | 4:23 | 2021-06-10 | 2021-08-31 |
 | [Знам ли](https://open.spotify.com/track/1qoRKC4dltaqIOAllaJC6m) | [SkandaU](https://open.spotify.com/artist/21Q5VJotowNOhkOD2x2Cti) | [Знам ли](https://open.spotify.com/album/5Q1ochnGEaasOtnu5hzIuf) | 3:26 | 2022-11-08 | 2022-11-19 |
 | [Зомби](https://open.spotify.com/track/4e1RbIHenXkXwhe7aCcAux) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Shunaka](https://open.spotify.com/artist/5yawwjGbFGcVtn22j8OHA6) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 2:20 | 2021-06-21 | 2021-06-24 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,146 songs - 2 day 5 hr 5 min
+1,148 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [BOMB](https://open.spotify.com/track/5H4gHz16ELn3tFgvVIfApZ) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:19 | 2021-04-11 | 2021-04-13 |
 | [Bon Voyage](https://open.spotify.com/track/3U8JCs5aH9wLpQR08BuPJA) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2021-11-28 |
 | [BONES](https://open.spotify.com/track/3QslPNyh3s8UdAtNX3c2Fy) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [BONES](https://open.spotify.com/album/6N3UZW3lXx4yo2PqChk0lO) | 2:34 | 2022-06-24 | 2022-06-26 |
-| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-08-07 |  |
+| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-08-07 | 2023-07-11 |
 | [Break Up](https://open.spotify.com/track/38Jz5IUEXhwvI8c9GKODQU) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:31 | 2022-11-19 | 2022-12-03 |
 | [Brooklyn](https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3), [TumaniYO](https://open.spotify.com/artist/6GSMqHdLtTCTR9pv5ytaTo) | [Brooklyn](https://open.spotify.com/album/10x0aQuG6ziJIPt0FhFJ0Z) | 3:13 | 2021-08-01 | 2021-10-23 |
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2021-04-11 | 2021-04-15 |
@@ -663,6 +663,7 @@
 | [Веном](https://open.spotify.com/track/21BrQW6GdRcMxvrwhIHqzR) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:56 | 2021-08-15 | 2021-11-14 |
 | [Вечорниці](https://open.spotify.com/track/7sfhWXiqGWOMXB9dHKVwfC) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Вечорниці](https://open.spotify.com/album/17f5sQshm3YSK3a3xRtWN5) | 3:58 | 2021-10-08 | 2021-10-17 |
 | [Вечорниці \- Добрий день Everybody](https://open.spotify.com/track/64Qnw6jO2dnkjV9una5peq) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Вечорниці \(Добрий день Everybody\)](https://open.spotify.com/album/2xLIphVbPBm4XBeY90WVOW) | 2:53 | 2022-07-23 | 2023-01-20 |
+| [Вибач..](https://open.spotify.com/track/5VFiYRqGCvPyf6d5wl4ZAs) | [Orexov Mk](https://open.spotify.com/artist/5YnMlZGHOz72FJLuOreIGH) | [Вибач..](https://open.spotify.com/album/5uV23QvPXOLM1I52ssgd54) | 2:40 | 2023-07-10 |  |
 | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [17 SEVENTEEN](https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc) | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D) | 2:46 | 2021-12-18 | 2022-02-13 |
 | [Вишнi](https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Вишнi](https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV) | 3:03 | 2022-05-02 | 2023-04-25 |
 | [ВЛЮБИЛАСЬ](https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ВЛЮБИЛАСЬ](https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ) | 3:36 | 2021-12-18 | 2022-04-03 |
@@ -1035,6 +1036,7 @@
 | [Суета](https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf) | [30](https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE) | 3:02 | 2022-05-31 | 2022-06-26 |
 | [СЭККС](https://open.spotify.com/track/7pHQzPPLj0MgGPoInmT3cp) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [БЭСТ ФРЭНДС](https://open.spotify.com/album/5kH0zVmCDLEn9oaeC5InRQ) | 2:20 | 2021-11-28 | 2021-11-28 |
 | [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 | 2022-10-23 |
+| [Табу](https://open.spotify.com/track/6jQBeCtUzeKw9WKczjOgXd) | [DOLINOV](https://open.spotify.com/artist/4UG4ctsUmccpIt6QILqwAV) | [Табу](https://open.spotify.com/album/0rUqUFIfU6etIMfyoAW5pW) | 1:40 | 2023-07-10 |  |
 | [ТАЙМАУТ](https://open.spotify.com/track/175xPRXSrf7RSWdjAhc6oD) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [ТАЙМАУТ](https://open.spotify.com/album/72D3RPXL2bbpIWpYrGdOqb) | 2:01 | 2021-09-14 | 2022-02-24 |
 | [Так гріє](https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT) | [Valentin Strykalo](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa) | [Смирись и расслабься](https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF) | 4:38 | 2022-04-12 | 2022-06-24 |
 | [Так и знал](https://open.spotify.com/track/5aADAi4y2IOh2tKbv1jnMX) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:15 | 2021-12-18 | 2021-12-23 |
@@ -1091,7 +1093,7 @@
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2023-07-08 |  |
 | [Халливуд Хоус](https://open.spotify.com/track/24OKb78jzb0IEUKlNWnfcR) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Халливуд Хоус](https://open.spotify.com/album/0mEvl65Cm91K1EAIjiGfOG) | 2:25 | 2022-03-26 | 2022-04-06 |
 | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/track/0fQ4uYwlzD6TYVobAoz8Qt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/album/0wiLpMXy37lbSQIlU3oZpN) | 3:01 | 2022-05-16 | 2022-05-29 |
-| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 |  |
+| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 | 2023-07-11 |
 | [Хентай](https://open.spotify.com/track/5UA91vNE3eOl7xeRGFa7tg) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [Anima](https://open.spotify.com/album/0ewDEDSjEdKbz5js3v7q2v) | 3:20 | 2021-07-25 | 2021-08-12 |
 | [ХЛОПАЙ](https://open.spotify.com/track/0UDtb0fUqBkpXLF52Ry2lg) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:02 | 2021-11-21 | 2021-12-14 |
 | [Хоп\-механика](https://open.spotify.com/track/3KGyzyAIUPP6wLXc7NhtrH) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:18 | 2021-12-03 | 2021-12-18 |

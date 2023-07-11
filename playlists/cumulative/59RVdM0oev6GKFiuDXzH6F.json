@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "African Lullaby",
+        "url": "https://open.spotify.com/album/1s6XIYKZL2tbTkuL216x8f"
+      },
+      "artists": [
+        {
+          "name": "BOHEMIAN",
+          "url": "https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB"
+        },
+        {
+          "name": "LIBOZ",
+          "url": "https://open.spotify.com/artist/1kgBp0KzQ19ZPl5T0eHp5K"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201322,
+      "name": "African Lullaby",
+      "url": "https://open.spotify.com/track/6yC6tiZFATSES4Hnju8qG9"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
         "url": "https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e"
       },
@@ -1792,6 +1814,28 @@
       "duration_ms": 148800,
       "name": "I Go",
       "url": "https://open.spotify.com/track/1dQHiFfT6vQDVazuyiS8LN"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/1Ld0iKp1t4ciPeSbSeB4uR"
+      },
+      "artists": [
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "StereoKilla",
+          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/66ojqYOm0F0Ddefb4Yasn0"
     },
     {
       "album": {
@@ -4162,6 +4206,28 @@
       "duration_ms": 140769,
       "name": "SUCK",
       "url": "https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1"
+    },
+    {
+      "album": {
+        "name": "Sun Is High",
+        "url": "https://open.spotify.com/album/7BH8s8ZykfGGVOMzF5rdhF"
+      },
+      "artists": [
+        {
+          "name": "Hood Rich",
+          "url": "https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Sun Is High",
+      "url": "https://open.spotify.com/track/65WFvaSXBNwT0hSSTD2pDk"
     },
     {
       "album": {

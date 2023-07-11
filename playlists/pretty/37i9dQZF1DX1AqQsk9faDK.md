@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé e músicas selecionadas por Fernandinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,811 likes - 25 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,925 likes - 25 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 |
 | 25 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 |
 
-Snapshot ID: `MCw0YTkxZDEzMWYzZTFhMzcxNjkwMWI4NmUxZThmZDEwNWExMjcyNDhj`
+Snapshot ID: `MCw3MjFlYzdkMDViMmU0OTZhMzljMjMwMDk4MTY1MmI2YzZiN2E0Yjk2`

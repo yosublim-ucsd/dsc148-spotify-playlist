@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,966 likes - 118 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,000 likes - 118 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [Kangen](https://open.spotify.com/track/7zqNT0H0mRbYp3CEA4z3VR) | [Selfi Nafilah](https://open.spotify.com/artist/2F2mHioIXqRHN1P21llg9d) | [Kangen](https://open.spotify.com/album/3ZadqmEstDel9STSoi4E0F) | 5:30 |
 | 89 | [Panggil Aku Sayang](https://open.spotify.com/track/4Q0rvYuui0FKZQj1ONAl1E) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo) | [Panggil Aku Sayang](https://open.spotify.com/album/2gUNPCDEq8B1radgElrxsf) | 3:31 |
 | 90 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
-| 91 | [Oh, Dolores \- From "The Horror of Dolores Roach"](https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Oh Dolores \(From "The Horror of Dolores Roach"\)](https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU) | 2:52 |
+| 91 | [Oh, Dolores \- From "The Horror of Dolores Roach"](https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Oh, Dolores \(From "The Horror of Dolores Roach"\)](https://open.spotify.com/album/5u5IZfyru5RH4IGydHNHMU) | 2:52 |
 | 92 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
 | 93 | [Ceiling Fan/Piggy](https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Ceiling Fan/Piggy](https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY) | 4:19 |
 | 94 | [Don't Hold it Against Me](https://open.spotify.com/track/0TATTnua49S3UnVk3crKLE) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [6hrs](https://open.spotify.com/album/1twyLZz5F6lkpgwRxp26Ph) | 3:46 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 117 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
 | 118 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 
-Snapshot ID: `MCxjZWNkYTI0ZTk1NDFmMzM4NzUwZWJmMzI5NjI2Y2UyN2IzMmFlMTYz`
+Snapshot ID: `MCw3M2IxYzliNDJlNTczNzAyYmE2YTU0YTgxOWY3MDg3MmZlMDNjMTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,277 likes - 214 songs - 16 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,481 likes - 214 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 213 | [1994](https://open.spotify.com/track/6hZ84FsTMVnKcFg4NL8Jdx) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [1994](https://open.spotify.com/album/6Ad8xLIOBY6b2mG1jIenwa) | 5:09 |
 | 214 | [Bird](https://open.spotify.com/track/0FGG8uB6cqwDxI1LzIGLZ6) | [Time](https://open.spotify.com/artist/121kK4qdKVJMI8kIFIPbag) | [Bird](https://open.spotify.com/album/3gPdFSeAxBSpSidzKwyWMz) | 6:24 |
 
-Snapshot ID: `MCw0ZDJkNTA0N2RiNzRiYmJkNDU5YTljMDgwYzNmMzFjZDE5NGU0OGYz`
+Snapshot ID: `MCw0MzIxMjFkOWQ3NWFlZWYzOTk0ODhiMTU3Mjg2NjA2ZDg1YzVkOTU5`

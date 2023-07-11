@@ -2105,6 +2105,36 @@
     },
     {
       "album": {
+        "name": "Hasi Ban Gaye",
+        "url": "https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh"
+      },
+      "artists": [
+        {
+          "name": "Ami Mishra",
+          "url": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165499,
+      "name": "Hasi Ban Gaye",
+      "url": "https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5"
+    },
+    {
+      "album": {
         "name": "Hawa",
         "url": "https://open.spotify.com/album/3CKEHS5yn6SHLRLg0y7qGY"
       },
@@ -3011,7 +3041,7 @@
     },
     {
       "album": {
-        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
       "artists": [
@@ -5794,6 +5824,36 @@
       "duration_ms": 230008,
       "name": "Tu Mera Nahi",
       "url": "https://open.spotify.com/track/4FZLfvHSBzvzK0rdqpIa5Y"
+    },
+    {
+      "album": {
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/5FtQVEQsWzRcpqh820ZoII"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD"
     },
     {
       "album": {

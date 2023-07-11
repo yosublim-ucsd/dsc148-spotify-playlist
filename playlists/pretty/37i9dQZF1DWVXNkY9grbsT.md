@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,945 likes - 200 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,003 likes - 200 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 65 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 |
 | 66 | [Artificial Body](https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Briefly Human](https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO) | 6:44 |
 | 67 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
-| 68 | [58500 \- Daniel Avery Remix](https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [58500 \(Daniel Avery Remix\)](https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8) | 3:43 |
-| 69 | [Indonesia Print](https://open.spotify.com/track/1PFlwfPkQwoYjP7ygQS0pQ) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/7fN8Gsp8KEnnU0JpAEL7PF) | 3:37 |
-| 70 | [Reflejo](https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 9:06 |
+| 68 | [Reflejo](https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 9:06 |
+| 69 | [58500 \- Daniel Avery Remix](https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [58500 \(Daniel Avery Remix\)](https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8) | 3:43 |
+| 70 | [Indonesia Print](https://open.spotify.com/track/1PFlwfPkQwoYjP7ygQS0pQ) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/7fN8Gsp8KEnnU0JpAEL7PF) | 3:37 |
 | 71 | [Unheard Melodies](https://open.spotify.com/track/147wFLbWKyaTzXNzLGYFZw) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/26GcJyUotrwl9rDGQMANRE) | 4:40 |
 | 72 | [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 |
 | 73 | [Honey](https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 6:09 |
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 128 | [Air](https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Air](https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S) | 5:56 |
 | 129 | [Untitled 2](https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Pavel Milyakov & Bendik Giske](https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx) | 3:10 |
 | 130 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
-| 131 | [Alabaster](https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Remember Rainbow Bridge](https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy) | 3:59 |
-| 132 | [Ether](https://open.spotify.com/track/6APLg2IRagzRWx1wPE13fH) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [Musick To Play In The Dark²](https://open.spotify.com/album/7uU2vwhxwNDjLMpza2xk8f) | 11:32 |
-| 133 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 |
-| 134 | [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 |
+| 131 | [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 |
+| 132 | [Alabaster](https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Remember Rainbow Bridge](https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy) | 3:59 |
+| 133 | [Ether](https://open.spotify.com/track/6APLg2IRagzRWx1wPE13fH) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [Musick To Play In The Dark²](https://open.spotify.com/album/7uU2vwhxwNDjLMpza2xk8f) | 11:32 |
+| 134 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 |
 | 135 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 136 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/6fWrGJifl4VPOdW49BNlnD) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/2JWnRnBhaHiuhcMx7phjmQ) | 3:26 |
 | 137 | [Apples from Peru](https://open.spotify.com/track/4Bl5rpXJbPQu24zz37qLas) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [Due Matte](https://open.spotify.com/album/0ynsr7iDZ6bjhRGeVRfRVH) | 4:31 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 195 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 |
 | 196 | [Roller The Wick](https://open.spotify.com/track/0XAeppgkhdC4mgUYhFDden) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [05\-10](https://open.spotify.com/album/0MMfYUAUnR6uujgVp3SSea) | 4:56 |
 | 197 | [Malady of duration](https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 4:43 |
-| 198 | [Pale Blue Dot](https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Pale Blue Dot](https://open.spotify.com/album/6SG5pCBqro08A8gBpX5rv2) | 4:25 |
-| 199 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 |
-| 200 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 |
+| 198 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 |
+| 199 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 |
+| 200 | [Pale Blue Dot](https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Pale Blue Dot](https://open.spotify.com/album/6SG5pCBqro08A8gBpX5rv2) | 4:25 |
 
-Snapshot ID: `MCxlYmRiZTE0NzIyOTJjYWU1OGNiZGI5MGM5NjE2MzA1ODRkYjYwZjNm`
+Snapshot ID: `MCwxOTUyMjQ4MjJiMGQzNjdiODAwMDU0MzRhYmI4YzU4YzBhZWQ4YWU2`

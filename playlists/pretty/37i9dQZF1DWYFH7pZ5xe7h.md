@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,915 likes - 70 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,934 likes - 70 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 | 69 | [Das Klagende Lied / Pt\. 2: Von hohen Felsen erglänzt das Schloß \- Live From Festspielhaus, Salzburg / 2011](https://open.spotify.com/track/5yGpRXOFuki10rtqMWR2Y0) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Dorothea Röschmann](https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY), [Anna Larsson](https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN), [Johan Botha](https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7), [Vienna State Opera Chorus](https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9) | [Boulez \- Mahler](https://open.spotify.com/album/6wroBOCYmubAhwCb3yigIK) | 4:01 |
 | 70 | [Songs From "Des Knaben Wunderhorn": Trost im Unglück \- Live From Severance Hall, Cleveland / 2010](https://open.spotify.com/track/5EuMyXy4CU3Ap10UfaZFdL) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Christian Gerhaher](https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7) | [Mahler: Des Knaben Wunderhorn; Adagio from Symphony No.10](https://open.spotify.com/album/3zDmMuKVskRiIBL3da9izQ) | 2:52 |
 
-Snapshot ID: `MCwwYjJjODI5YzA0MGRiOTVhYjQ2ZTRjZGYxODJkMDUxMWE5N2QwZjIy`
+Snapshot ID: `MCw4ZjI1MzBhNWVhYzY4NjQ0NjViYzllNWE2MzdkYjk4NWQzN2U4MzA5`

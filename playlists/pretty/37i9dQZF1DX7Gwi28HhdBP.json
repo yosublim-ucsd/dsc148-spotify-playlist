@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=Ncl82xqKTzucexrYZ-aeyQ\"> \u0631\u0636\u0627 \u0627\u0644\u0628\u062d\u0631\u0627\u0648\u064a </a>\n\n",
-  "num_followers": 64596,
+  "num_followers": 64705,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTA5Njk4Nzk2NmIwZmM2MjIyMzAzZTBkZTlhMDIyMTU4YjFkMDVj",
+  "snapshot_id": "MCw1MjI2YTQzZDQ0MmE0MjYzMjMwNDk5YzQ0OTVlNWNkZDRlZWQxMmIy",
   "tracks": [
     {
       "added_at": "2023-06-27 18:00:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-06-27 18:00:00",
       "album": {
+        "name": "\u064a\u0627 \u0628\u064a\u0628\u064a",
+        "url": "https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL"
+      },
+      "artists": [
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        },
+        {
+          "name": "Sara Al Zakaria",
+          "url": "https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv"
+        }
+      ],
+      "duration_ms": 231272,
+      "name": "\u064a\u0627 \u0628\u064a\u0628\u064a",
+      "url": "https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99"
+    },
+    {
+      "added_at": "2023-06-27 18:00:00",
+      "album": {
         "name": "\u0627\u0644\u062d\u0646\u064a\u0646 \u0648\u0627\u0644\u0645\u0639\u0644\u0645",
         "url": "https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 325000,
       "name": "\u0645\u0648\u0644\u062f \u0627\u0644\u062c\u0632\u064a\u0631\u0629 - Dj Totti Remix",
       "url": "https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl"
-    },
-    {
-      "added_at": "2023-06-27 18:00:00",
-      "album": {
-        "name": "\u064a\u0627 \u0628\u064a\u0628\u064a",
-        "url": "https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL"
-      },
-      "artists": [
-        {
-          "name": "Omar Kamal",
-          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
-        },
-        {
-          "name": "Sara Al Zakaria",
-          "url": "https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv"
-        }
-      ],
-      "duration_ms": 231272,
-      "name": "\u064a\u0627 \u0628\u064a\u0628\u064a",
-      "url": "https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99"
     },
     {
       "added_at": "2023-06-27 18:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-27 18:00:00",
       "album": {
-        "name": "Bonbonaya",
-        "url": "https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Leithy",
-          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "Bonbonaya",
-      "url": "https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo"
-    },
-    {
-      "added_at": "2023-06-27 18:00:00",
-      "album": {
         "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
         "url": "https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 262800,
       "name": "\u0637\u0628\u0639 \u0627\u0644\u0631\u062c\u0627\u0644",
       "url": "https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA"
+    },
+    {
+      "added_at": "2023-06-27 18:00:00",
+      "album": {
+        "name": "Bonbonaya",
+        "url": "https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "Bonbonaya",
+      "url": "https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo"
     },
     {
       "added_at": "2023-06-27 18:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-27 18:00:00",
       "album": {
-        "name": "Abtal El Kalam",
-        "url": "https://open.spotify.com/album/4g50d0yt0icA3PVjx0ceez"
-      },
-      "artists": [
-        {
-          "name": "Reda El Bahrawy",
-          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Abtal El Kalam",
-      "url": "https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W"
-    },
-    {
-      "added_at": "2023-06-27 18:00:00",
-      "album": {
         "name": "\u062e\u062f\u062a \u0645\u0646 \u062c\u062f\u0639\u0646\u062a\u0649 \u0627\u064a\u0647",
         "url": "https://open.spotify.com/album/2s2IYEGpc0DjpHV2ifCHcm"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-06-27 18:00:00",
       "album": {
+        "name": "Abtal El Kalam",
+        "url": "https://open.spotify.com/album/4g50d0yt0icA3PVjx0ceez"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Abtal El Kalam",
+      "url": "https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W"
+    },
+    {
+      "added_at": "2023-06-27 18:00:00",
+      "album": {
         "name": "\u062f\u0648\u0643\u0647",
         "url": "https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 147312,
       "name": "\u062f\u0648\u0643\u0647",
       "url": "https://open.spotify.com/track/3O01ChQwIuqwZSHSv1aFWQ"
-    },
-    {
-      "added_at": "2023-06-27 18:00:00",
-      "album": {
-        "name": "Segara Bonny",
-        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Hoseny",
-          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
-        }
-      ],
-      "duration_ms": 407011,
-      "name": "Segara Bonny",
-      "url": "https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq"
     },
     {
       "added_at": "2023-06-27 18:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 622505,
       "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
       "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
+    },
+    {
+      "added_at": "2023-06-27 18:00:00",
+      "album": {
+        "name": "Segara Bonny",
+        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Hoseny",
+          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
+        }
+      ],
+      "duration_ms": 407011,
+      "name": "Segara Bonny",
+      "url": "https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq"
     },
     {
       "added_at": "2023-06-27 18:00:00",

@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Maisie Peters
 
-1,557 songs - 3 day 3 hr 34 min
+1,558 songs - 3 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-29 | 2022-05-24 |
 | [Detached](https://open.spotify.com/track/5HQppSYyU4whulcnaYZyFP) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Detached](https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U) | 2:26 | 2022-10-07 | 2022-11-19 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-05-26 | 2022-11-26 |
-| [Devil In Your Eyes](https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Devil In Your Eyes](https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST) | 3:37 | 2023-05-05 |  |
+| [Devil In Your Eyes](https://open.spotify.com/track/2XhpBpMVmsYF0kn9UuyYdn) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Tears Dry On Their Own](https://open.spotify.com/album/0tWxDuJA7ovcszqeiu5j5J) | 3:37 | 2023-07-07 |  |
+| [Devil In Your Eyes](https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Devil In Your Eyes](https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST) | 3:37 | 2023-05-05 | 2023-07-11 |
 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-09 | 2023-03-25 |
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-02-24 | 2023-06-24 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-06-24 | 2022-11-05 |

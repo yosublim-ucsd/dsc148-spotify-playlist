@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,825 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,835 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 79 | [AUDEMARS](https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K) | [3050 DEGREEZ: Condamné à l'Excellence](https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz) | 2:25 |
 | 80 | [Marie\-Hélène](https://open.spotify.com/track/2FGJUywuJ7MyFXtJpM6YrH) | [Sylvain Lelièvre](https://open.spotify.com/artist/5RHfIYR4tzf3LlRXJsN8tH) | [Ses plus belles chansons](https://open.spotify.com/album/2T9LjWDkThEi1wfB3PBJi7) | 3:53 |
 | 81 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [América](https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi) | 3:28 |
-| 82 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 |
-| 83 | [Vénus](https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Agnus Dei](https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC) | 3:51 |
-| 84 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
+| 82 | [Vénus](https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Agnus Dei](https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC) | 3:51 |
+| 83 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
+| 84 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 |
 | 85 | [Wactenamaci \- Illumine\-moi](https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX) | [Laura Niquay](https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z) | [Waska Matisiwin](https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG) | 1:58 |
 | 86 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 |
 | 87 | [C'est un bum](https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Métastases](https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO) | 3:36 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 92 | [Pas le temps de jouer](https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Naomi](https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi) | 2:58 |
 | 93 | [De Matane à Natashquan](https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là](https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE) | 3:02 |
 | 94 | [Dans l'sang](https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:13 |
-| 95 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
-| 96 | [Aéroplane](https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Métastases](https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO) | 5:12 |
+| 95 | [Aéroplane](https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Métastases](https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO) | 5:12 |
+| 96 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
 | 97 | [Mon petit chemin](https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 3:10 |
 | 98 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 |
 | 99 | [Rock Band](https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [GLAM](https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM) | 3:56 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 131 | [Pénélope](https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [la fin n’arrive jamais](https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d) | 4:15 |
 | 132 | [Moshpit à St\-Dilon](https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe) | [Margaret Tracteur](https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz) | [L'heure du thé avec Margaret Tracteur](https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP) | 3:48 |
 
-Snapshot ID: `MCwzOWIxNDg3OGYyNzhiMTE4MDRiM2E5MzY0OGMyMmQyMzU5YmIwMGZk`
+Snapshot ID: `MCw0MWJmZjFkMjg5ZDY3ZGE4NzQwOWEwNWE1MjU4ZThmNzdiZDY5NzBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > BREAKING: 100 Live @ WOW 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,209 likes - 85 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,250 likes - 85 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [PARANOIA](https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx), [RUNI](https://open.spotify.com/artist/4hmrUcRgiNbJn6tcXMzqEN), [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [PARANOIA](https://open.spotify.com/album/68NNwLH3DHcTNFUmitcX2p) | 2:32 |
 | 85 | [Luftslott](https://open.spotify.com/track/78puouSL3uJOhWxWUm4acV) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Luftslott](https://open.spotify.com/album/7bObnQZLpoBiZx7koajewZ) | 2:28 |
 
-Snapshot ID: `MCxiZDJiMWM4MzNkOWI0OTkzNzYxNTM4ZmVlNjQyMzQ0NmQwYTRmMDQy`
+Snapshot ID: `MCw3Y2M4ZjRmOWE2MWNiZjRjN2Q2NTI3MDgxY2JmNWI5ZTM2ZGVhMjBm`

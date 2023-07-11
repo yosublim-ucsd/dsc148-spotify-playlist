@@ -881,6 +881,32 @@
     },
     {
       "album": {
+        "name": "Mizhikalal",
+        "url": "https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe"
+      },
+      "artists": [
+        {
+          "name": "Nishad jain",
+          "url": "https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC"
+        },
+        {
+          "name": "Aswin GS",
+          "url": "https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa"
+        },
+        {
+          "name": "Anoop Devadas",
+          "url": "https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Mizhikalal",
+      "url": "https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA"
+    },
+    {
+      "album": {
         "name": "Monsoon Love",
         "url": "https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq"
       },

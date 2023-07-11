@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,230 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,323 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 |
 | 100 | [It's Gonna Be Alright \- Ricky Birickyno Classic Remix Edit](https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Frankie Lovecchio](https://open.spotify.com/artist/5v4HimVMqQbkqKg9kBrkQT), [Ricky Birickyno](https://open.spotify.com/artist/1hxQACgW4A0vQr2yzk3IrD) | [It's Gonna Be Alright \(Ricky Birickyno Remix\)](https://open.spotify.com/album/5ypOk5AWTooT79vNee52Ai) | 4:37 |
 
-Snapshot ID: `MCxmNWU3ZDVhODZhMzUyZmMwNTZkN2U1ODI2NWU1YjhlNTU3NmU0Yzgw`
+Snapshot ID: `MCxiNzMwYWFiZjVmYzNhNDQxZmE5Mjg5NzI0NTBiZmMzYTgwMGJiODZk`

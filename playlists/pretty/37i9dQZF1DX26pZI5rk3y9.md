@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,818 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,822 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 3 | [I Can't Hear You](https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Sea of Cowards](https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu) | 3:35 |
 | 4 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
 | 5 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 |
-| 6 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 |
-| 7 | [Shake Our Way Out \[Feat\. Billy F Gibbons\]](https://open.spotify.com/track/5BPpLbUMdBM2GsK64TEoGD) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Peace...Like A River](https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2) | 6:23 |
-| 8 | [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 |
-| 9 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
+| 6 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
+| 7 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 |
+| 8 | [Shake Our Way Out \[Feat\. Billy F Gibbons\]](https://open.spotify.com/track/5BPpLbUMdBM2GsK64TEoGD) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Peace...Like A River](https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2) | 6:23 |
+| 9 | [Nothing But The Blues \- Live and Stripped](https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues \(Live and Stripped\)](https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY) | 3:02 |
 | 10 | [What Goes Around \(Comes Around\)](https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [What Goes Around \(Comes Around\)](https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk) | 3:36 |
 | 11 | [Hey God](https://open.spotify.com/track/35YbhHiWec53yRvrbz9org) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Hey God](https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L) | 3:57 |
 | 12 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 |
-| 13 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 |
-| 14 | [Bring Me Back Home Again](https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Bring Me Back Home Again](https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe) | 3:43 |
-| 15 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
+| 13 | [Bring Me Back Home Again](https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Bring Me Back Home Again](https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe) | 3:43 |
+| 14 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
+| 15 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 |
 | 16 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 |
 | 17 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 |
 | 18 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 49 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
 | 50 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 |
 
-Snapshot ID: `MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4`
+Snapshot ID: `MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0`

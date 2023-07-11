@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,844 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,874 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Swing and Turn Jubilee](https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Fruit](https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ) | 4:09 |
 | 150 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 
-Snapshot ID: `MCxlYzI3MGYwZDc2ZTBlYWVkNzhkMTNmZjhkYzNmZmZkNWQyNmRjOWE3`
+Snapshot ID: `MCxjNzk1N2YyYjJhMjUzNTI4ZTc1YWFkYmY2ZThiY2Q4ODBjODFhMjZh`

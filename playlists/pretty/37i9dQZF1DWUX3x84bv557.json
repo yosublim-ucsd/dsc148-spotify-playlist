@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Pommelien Thijs & MEAU",
-  "num_followers": 154789,
+  "num_followers": 154823,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2QzMjE2NTRjMzk1ZDhhZjU1OGRlMzYxNWQ1NDA1MmI2OWRjMzY5",
+  "snapshot_id": "MCxhMWM5OTM1ZTJlMTE5ZmExNDUzYzMxZjViYjhkYTRmZDM2NTgyMjNk",
   "tracks": [
     {
       "added_at": "2023-07-07 06:38:58",
@@ -27,6 +27,22 @@
       "duration_ms": 174760,
       "name": "Droom Het Donker Weg (feat. MEAU)",
       "url": "https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "Als Ik Haar Was",
+      "url": "https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr"
     },
     {
       "added_at": "2023-07-07 06:38:58",
@@ -1351,42 +1367,6 @@
     {
       "added_at": "2023-07-07 06:38:58",
       "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 163428,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8"
-    },
-    {
-      "added_at": "2023-07-07 06:38:58",
-      "album": {
-        "name": "Leidseplein",
-        "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        },
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Leidseplein",
-      "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
-    },
-    {
-      "added_at": "2023-07-07 06:38:58",
-      "album": {
         "name": "Emiliana (Mashup)",
         "url": "https://open.spotify.com/album/6kxTmTYdpLQXCnSffJbgFk"
       },
@@ -1419,38 +1399,6 @@
       "duration_ms": 164480,
       "name": "Koning Liefde",
       "url": "https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl"
-    },
-    {
-      "added_at": "2023-07-07 06:38:58",
-      "album": {
-        "name": "Zij Heeft Alles",
-        "url": "https://open.spotify.com/album/69jSlMa042sypmsAS7rORE"
-      },
-      "artists": [
-        {
-          "name": "Marc Floor",
-          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
-        }
-      ],
-      "duration_ms": 183598,
-      "name": "Zij Heeft Alles",
-      "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
-    },
-    {
-      "added_at": "2023-07-07 06:38:58",
-      "album": {
-        "name": "Camera",
-        "url": "https://open.spotify.com/album/5Cv9zHrHO15rMIkDGEAiwp"
-      },
-      "artists": [
-        {
-          "name": "Jasha Rudge",
-          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4twF3kjfCgl0MJIhbJlXca"
     },
     {
       "added_at": "2023-07-07 06:38:58",
@@ -1563,22 +1511,6 @@
       "duration_ms": 154337,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/78KoAAMz7rluCfPlAB9gnL"
-    },
-    {
-      "added_at": "2023-07-07 06:38:58",
-      "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL"
-      },
-      "artists": [
-        {
-          "name": "AISHA",
-          "url": "https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY"
-        }
-      ],
-      "duration_ms": 166516,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa"
     },
     {
       "added_at": "2023-07-07 06:38:58",

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-259 songs - 15 hr 38 min
+260 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-09-09 |  |
 | [My Favourite](https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [My Favourite](https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA) | 3:14 | 2022-09-09 |  |
 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 | 2022-09-09 |  |
+| [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 | 2023-07-10 |  |
 | [Need Somebody](https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:52 | 2022-12-01 |  |
 | [Need Somebody \(feat\. Simon Jnr\)](https://open.spotify.com/track/0lJ1MhIYQv2vP4fJOvV1dE) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Need Somebody \(feat\. Simon Jnr\)](https://open.spotify.com/album/6CiwYfai0tGINQm1pGgMQD) | 2:52 | 2022-09-09 | 2022-12-02 |
 | [New Earth](https://open.spotify.com/track/2E4vDslJtI2rF1sibFUXO5) | [Joshua Bredow](https://open.spotify.com/artist/1TXaey5ct7JzJsUQFSmCnF) | [New Earth](https://open.spotify.com/album/5x37IsVtadwOD6ELuEG0W1) | 3:24 | 2022-09-09 | 2022-09-16 |
@@ -252,7 +253,7 @@
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-09-09 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-09-09 |  |
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-09-09 | 2022-10-15 |
-| [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 |  |
+| [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 | 2023-07-11 |
 | [Vibe of Summer](https://open.spotify.com/track/3bNTws4fs7hgliXbfBmN3d) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1TgpfmHtQM4sUrGowYTtn2) | 3:27 | 2022-09-09 | 2022-10-15 |
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 | 2023-04-21 |
 | [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 | 2023-03-07 |  |

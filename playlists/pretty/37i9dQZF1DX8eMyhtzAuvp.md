@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Dancing barefoot on the beach
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,232 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,405 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 49 | [Rock the Boat](https://open.spotify.com/track/4jWoqT4YPGgsUSPC83pd8h) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Carlito's Way: Music From The Motion Picture](https://open.spotify.com/album/31z6Bud2aFad5ejBVQBfNP) | 3:06 |
 | 50 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 
-Snapshot ID: `MCxkZGU2ZjVjNTgzZmEwYTFkMjI2MTc2Yzc2NDNmZDUyZTVjNTQ0N2M0`
+Snapshot ID: `MCw1ZWQ4YzQxMDkzYzkwOTNlNTkwMjk3ODZkZTUyNWJlODUxYWQ5NjBj`

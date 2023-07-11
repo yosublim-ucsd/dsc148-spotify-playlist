@@ -8789,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "Corner Post",
+        "url": "https://open.spotify.com/album/2OTDDrUZNIGNQWzlYilV9v"
+      },
+      "artists": [
+        {
+          "name": "Erik Dylan",
+          "url": "https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235290,
+      "name": "Corner Post",
+      "url": "https://open.spotify.com/track/56iRUP0ZLId4pqCXrc20ha"
+    },
+    {
+      "album": {
         "name": "Cosa de Ayer",
         "url": "https://open.spotify.com/album/73ravBkCbJcCLEth9R4fEl"
       },
@@ -15002,6 +15020,24 @@
       "duration_ms": 244909,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
+    },
+    {
+      "album": {
+        "name": "Fry sy",
+        "url": "https://open.spotify.com/album/2fllDzZCkZm9R0vxdDqrCn"
+      },
+      "artists": [
+        {
+          "name": "Angelika",
+          "url": "https://open.spotify.com/artist/0k8kLG2znnY44mxfvM5EGJ"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194299,
+      "name": "Fry sy",
+      "url": "https://open.spotify.com/track/1WybKcVD4SfecnksAQhtu9"
     },
     {
       "album": {
@@ -21433,6 +21469,28 @@
     },
     {
       "album": {
+        "name": "Apatride",
+        "url": "https://open.spotify.com/album/4QEX7Xa4VPwHC9rEO643PO"
+      },
+      "artists": [
+        {
+          "name": "PAT",
+          "url": "https://open.spotify.com/artist/0t7QBZHz1gWJkJuQUuiNoN"
+        },
+        {
+          "name": "N'ree",
+          "url": "https://open.spotify.com/artist/6jRVs2M2M8C7QSexyyz7sN"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Keep Faith",
+      "url": "https://open.spotify.com/track/7qr6A115dYYAWfI4DFHbOU"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -25272,7 +25330,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 181421,
       "name": "Matisyahu",
       "url": "https://open.spotify.com/track/4W0H0IUNl7B51YsxCQM3dH"
@@ -26808,6 +26866,24 @@
       "duration_ms": 186000,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x"
+    },
+    {
+      "album": {
+        "name": "mountains",
+        "url": "https://open.spotify.com/album/3G1Pyr1IdD154YSSuWS7Dy"
+      },
+      "artists": [
+        {
+          "name": "Edwrds",
+          "url": "https://open.spotify.com/artist/2mlPp5s1XgLlqtSXTyyTwA"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "mountains",
+      "url": "https://open.spotify.com/track/7HuiXZw4jq0nMqj3HG6a9q"
     },
     {
       "album": {
@@ -37461,6 +37537,24 @@
     },
     {
       "album": {
+        "name": "Summer Meltdown",
+        "url": "https://open.spotify.com/album/0WLQoa4aZskNkoVaMwND8W"
+      },
+      "artists": [
+        {
+          "name": "Ines Wurst",
+          "url": "https://open.spotify.com/artist/2O1pBTA9Qb9fHoWEp64Wku"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273621,
+      "name": "Summer Meltdown",
+      "url": "https://open.spotify.com/track/76m1FUJlDaDRH8coimywpU"
+    },
+    {
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/0DR9YcbOqzLOLmZ0oX1QKU"
       },
@@ -45834,7 +45928,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 248794,
       "name": "Your Time",
       "url": "https://open.spotify.com/track/7mIcFQuZWCoRUug5O1A2pK"

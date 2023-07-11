@@ -4,11 +4,11 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
-355 songs - 21 hr 24 min
+356 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Days](https://open.spotify.com/track/13z2plYknZsbNm3yd93Gj9) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : EP.02 DESIRE](https://open.spotify.com/album/4GCSn9A8t5KggUDoyPWnXy) | 3:29 | 2023-06-30 |  |
+| [100 Days](https://open.spotify.com/track/13z2plYknZsbNm3yd93Gj9) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : EP.02 DESIRE](https://open.spotify.com/album/4GCSn9A8t5KggUDoyPWnXy) | 3:29 | 2023-06-30 | 2023-07-11 |
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt) | 3:14 | 2022-07-28 | 2022-09-01 |
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2022-05-26 | 2022-07-29 |
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-05-26 | 2022-12-16 |
@@ -286,6 +286,7 @@
 | [เจอแต่คนใจร้าย feat\. Ink Waruntorn](https://open.spotify.com/track/5qsoeqn1bKqJzzmilZVEeG) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เจอแต่คนใจร้าย](https://open.spotify.com/album/7fF4UbZ7PrYExjTDWk3B02) | 3:54 | 2022-05-26 | 2022-07-24 |
 | [เจ็บตรงนี้](https://open.spotify.com/track/0h2d6neCSNxF2bJPxOJubF) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [เจ็บตรงนี้](https://open.spotify.com/album/1HPA8pmcrXLfU7lRC9MEe9) | 4:15 | 2022-08-11 | 2022-08-19 |
 | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/track/0K5jkka7iP8dlFi0as6Jh8) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/album/2a5dt0twdrfVYEdJAff5Ay) | 4:00 | 2022-12-01 | 2023-01-27 |
+| [เจ็บอยู่](https://open.spotify.com/track/7uCXHh5cdN7H0yY0NmJ7di) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เจ็บอยู่](https://open.spotify.com/album/7GfssROIf8s6K7FrFlosPy) | 4:04 | 2023-07-10 |  |
 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2022-05-26 |  |
 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 | 2022-07-01 | 2022-07-31 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2022-05-26 | 2022-10-27 |

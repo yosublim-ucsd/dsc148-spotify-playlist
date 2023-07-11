@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: TRÄNEN, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,711 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,727 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [ICH JAGE EINEN ZUG IN DIE LUFT](https://open.spotify.com/track/0vh7IEWBOUBMmPx5x0Eaqo) | [Peat](https://open.spotify.com/artist/63PWHfegUNVId6jDiZLOCL) | [WEICH](https://open.spotify.com/album/7ffhILR3RMdTQCWRQyui6d) | 2:46 |
 | 80 | [Rockstar Girl](https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB) | [SAMT](https://open.spotify.com/artist/17jJpG6K8SbUCWqlhGjHhj) | [Rockstar Girl](https://open.spotify.com/album/2cAbRnIIdwIkNzNVwfV5ff) | 2:33 |
 
-Snapshot ID: `MCw2ODdkMDhlZWI3NjExMzJkN2I0NTZiMjIzMmZhMmZhZjQzY2U0ODU3`
+Snapshot ID: `MCw0MTAyODdjMmY0ZWNkZmYxMmZmZDE0Nzc3MTZhMWUyMzRjYjk1MTRh`

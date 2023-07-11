@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 433973,
+  "num_followers": 434117,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDI5Njc4NWFmOTZlMjdkMDYyNzcyMTA4OWRlNjNhMTMwYjQ1NTNj",
+  "snapshot_id": "MCw0ZmY2MTc3ZTUwYjBiYzU4Y2Y2YjlhN2JjYzc2NTBkY2JkNjE1YWVi",
   "tracks": [
     {
       "added_at": "2023-07-07 13:02:06",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "Back To My Place",
-        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 245863,
-      "name": "Back to My Place",
-      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
-    },
-    {
-      "added_at": "2023-07-07 13:02:06",
-      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 314000,
       "name": "Deep Love",
       "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
+    },
+    {
+      "added_at": "2023-07-07 13:02:06",
+      "album": {
+        "name": "Back To My Place",
+        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 245863,
+      "name": "Back to My Place",
+      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
     },
     {
       "added_at": "2023-07-07 13:02:06",

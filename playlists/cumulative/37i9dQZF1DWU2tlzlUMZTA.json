@@ -415,6 +415,40 @@
     },
     {
       "album": {
+        "name": "Back To Then (From \"Blind\")",
+        "url": "https://open.spotify.com/album/7uR2ySdVvO3FKbWC4WYQFo"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        },
+        {
+          "name": "Bianca Gomes",
+          "url": "https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T"
+        },
+        {
+          "name": "Ricardo Pereira",
+          "url": "https://open.spotify.com/artist/05mCASWISF8a8DF3Mp5JBS"
+        },
+        {
+          "name": "Shome Makhija",
+          "url": "https://open.spotify.com/artist/42LwkF5pLZ8rCy1FzzNVBv"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "Back To Then - From \"Blind\"",
+      "url": "https://open.spotify.com/track/6ZnsDwNHhn1FxX8A6yU3LO"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },

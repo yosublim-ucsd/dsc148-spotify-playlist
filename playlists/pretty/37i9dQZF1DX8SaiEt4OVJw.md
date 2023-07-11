@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Sénégal Rek!🇸🇳🇸🇳🇸🇳
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,252 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,254 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 49 | [Dila Beug](https://open.spotify.com/track/1p6fwH9J5T5hzY9k1CrwLe) | [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N), [Le Super Diamono](https://open.spotify.com/artist/1STm0AYsnhrGFgWxGBi1m2) | [Omar Péné, 30 ans déjà \(Live\)](https://open.spotify.com/album/2Tb6pLYWYTZDmDLWRpdmgG) | 8:50 |
 | 50 | [Senegal](https://open.spotify.com/track/5nPGKwUDZviNlPxaeUHChm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 2:52 |
 
-Snapshot ID: `MCxiMjk2ZWM2ZTRhYTJmNGFmZTg2OTY2YTgzNGVkMDBhMGZiYzlhMjk4`
+Snapshot ID: `MCxkMDI3MWM3MWM1ZWFjNTg0Yjc3NTdmYjhjYWY0ZmY2NzE3OWU3YjAz`

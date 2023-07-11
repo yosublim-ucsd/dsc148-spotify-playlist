@@ -1,12 +1,12 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 1962,
+  "num_followers": 1963,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NTkxNywyOTk3YTNmZDcxZTliYWRkNWNlZTljOGY1ZTA3Y2ZlYmM1ODQ5M2Vi",
+  "snapshot_id": "NTk0OSw5NGE1YWQzMjJiNzcxNjY1MWRlYTU0MTVlMTRlMTgwMjk3NGVlZjFi",
   "tracks": [
     {
       "added_at": "2023-07-05 21:26:53",
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
-      "added_at": "2023-06-07 17:17:26",
+      "added_at": "2023-07-10 17:28:40",
       "album": {
-        "name": "Lipstick Lover",
-        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+      "duration_ms": 164880,
+      "name": "Water Slide",
+      "url": "https://open.spotify.com/track/3PlQ7nKvyX9Da10AsYBm7c"
     },
     {
       "added_at": "2023-06-07 17:18:29",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh"
     },
     {
-      "added_at": "2023-04-10 14:18:48",
-      "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
-    },
-    {
       "added_at": "2023-04-10 14:17:32",
       "album": {
         "name": "Eyes Closed",
@@ -119,6 +103,22 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "added_at": "2023-04-10 14:18:48",
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
       "added_at": "2023-06-15 18:31:53",
@@ -155,6 +155,38 @@
       "duration_ms": 187244,
       "name": "The End (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe"
+    },
+    {
+      "added_at": "2023-07-10 17:33:00",
+      "album": {
+        "name": "Brand New Blues",
+        "url": "https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 114036,
+      "name": "Brand New Blues",
+      "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
+    },
+    {
+      "added_at": "2023-07-10 17:33:34",
+      "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 200656,
+      "name": "Grim Generation",
+      "url": "https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo"
     },
     {
       "added_at": "2023-04-10 14:17:11",
@@ -293,6 +325,26 @@
       "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
     },
     {
+      "added_at": "2023-07-10 17:32:45",
+      "album": {
+        "name": "Cheat (feat. JoJo)",
+        "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 202009,
+      "name": "Cheat (feat. JoJo)",
+      "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
+    },
+    {
       "added_at": "2023-02-17 18:30:05",
       "album": {
         "name": "Float (feat. Seun Kuti & Egypt 80)",
@@ -317,20 +369,36 @@
       "url": "https://open.spotify.com/track/61xDJm5YjuIefUvJiC655d"
     },
     {
-      "added_at": "2023-06-07 17:19:31",
+      "added_at": "2023-07-10 17:28:29",
       "album": {
-        "name": "RAT TRAP 1: the blueprint",
-        "url": "https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4hzOeklRpOZNjmwrds8rBP"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
         }
       ],
-      "duration_ms": 212459,
-      "name": "ONE NATION UNDERDOGS",
-      "url": "https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf"
+      "duration_ms": 208216,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2oxz3JITNBwqNafgHgNZq0"
+    },
+    {
+      "added_at": "2023-07-10 17:37:45",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 169514,
+      "name": "Gang Gang Gang",
+      "url": "https://open.spotify.com/track/6fMM4VMig1pSp0Pd1paP0N"
     },
     {
       "added_at": "2023-03-10 15:49:59",
@@ -393,36 +461,48 @@
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
-      "added_at": "2023-06-07 17:19:40",
+      "added_at": "2023-07-10 17:27:53",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 149743,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
-      "added_at": "2023-03-10 15:50:47",
+      "added_at": "2023-07-10 17:38:12",
       "album": {
         "name": "Look At Us Now (Honeycomb)",
-        "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
+        "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
       },
       "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
         {
           "name": "Daisy Jones & The Six",
           "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
         }
       ],
-      "duration_ms": 332386,
+      "duration_ms": 232706,
       "name": "Look At Us Now (Honeycomb)",
-      "url": "https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv"
+      "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
     },
     {
       "added_at": "2023-03-10 15:51:26",
@@ -439,6 +519,22 @@
       "duration_ms": 195668,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/4cvsQ7dzP1ba5onYeImGxP"
+    },
+    {
+      "added_at": "2023-07-10 17:31:56",
+      "album": {
+        "name": "LOLA",
+        "url": "https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 170554,
+      "name": "LOLA",
+      "url": "https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds"
     },
     {
       "added_at": "2023-03-10 15:51:43",
@@ -549,20 +645,20 @@
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
-      "added_at": "2023-04-10 14:19:57",
+      "added_at": "2023-06-07 17:19:40",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
       },
       "artists": [
         {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 116466,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
     },
     {
       "added_at": "2023-04-10 14:20:26",
@@ -595,6 +691,38 @@
       "duration_ms": 210952,
       "name": "Wild Dogs (Running in a Slow Dream)",
       "url": "https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB"
+    },
+    {
+      "added_at": "2023-06-07 17:19:31",
+      "album": {
+        "name": "RAT TRAP 1: the blueprint",
+        "url": "https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "ONE NATION UNDERDOGS",
+      "url": "https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf"
+    },
+    {
+      "added_at": "2023-04-10 14:19:57",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 116466,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
     },
     {
       "added_at": "2023-04-10 14:22:01",
@@ -659,6 +787,26 @@
       "duration_ms": 148083,
       "name": "Don\u2019t Call Me",
       "url": "https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD"
+    },
+    {
+      "added_at": "2023-07-10 17:33:56",
+      "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 159241,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
     },
     {
       "added_at": "2023-05-05 14:17:36",
@@ -793,6 +941,22 @@
       "url": "https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu"
     },
     {
+      "added_at": "2023-06-07 17:17:26",
+      "album": {
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
       "added_at": "2023-05-05 14:18:50",
       "album": {
         "name": "All Nighter",
@@ -863,6 +1027,22 @@
       "duration_ms": 198473,
       "name": "Red Is My Favorite Color",
       "url": "https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i"
+    },
+    {
+      "added_at": "2023-05-05 14:21:25",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
       "added_at": "2023-05-05 14:19:33",
@@ -989,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
     },
     {
-      "added_at": "2023-05-05 14:21:25",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
       "added_at": "2023-05-05 14:21:51",
       "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
@@ -1043,6 +1207,22 @@
       "duration_ms": 165924,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/5CGFCCgW9mOXxWiNNIPBeG"
+    },
+    {
+      "added_at": "2023-06-20 15:33:31",
+      "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 152665,
+      "name": "Plastic Therapy",
+      "url": "https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos"
     },
     {
       "added_at": "2023-06-20 15:32:48",
@@ -1095,22 +1275,6 @@
       "duration_ms": 149000,
       "name": "tylonal",
       "url": "https://open.spotify.com/track/44GANzxYor9Fy1mq6Dn6Lb"
-    },
-    {
-      "added_at": "2023-06-20 15:33:31",
-      "album": {
-        "name": "Don\u2019t Call Me",
-        "url": "https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 152665,
-      "name": "Plastic Therapy",
-      "url": "https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos"
     }
   ],
   "unique_name": "Atlantic Records: Presents",

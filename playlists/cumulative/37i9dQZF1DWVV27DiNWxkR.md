@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-335 songs - 22 hr 40 min
+336 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 | 2019-09-29\* | 2023-06-17 |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2022-07-15 |  |
 | [I Know The End](https://open.spotify.com/track/3cr3oAP4bQFNjZBV7ElKaB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 5:44 | 2020-06-19 | 2022-07-29 |
+| [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-10 |  |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2022-07-15 | 2022-08-27 |
 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 | 2020-05-15 | 2022-07-29 |
 | [I Should Live in Salt](https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:08 | 2021-10-14 |  |
@@ -196,7 +197,7 @@
 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 | 2019-09-29\* | 2022-07-29 |
 | [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 | 2022-09-02 | 2022-11-13 |
 | [Old Man Rver](https://open.spotify.com/track/1MhfBrvXYinRzCpum6krPh) | [The Ravens](https://open.spotify.com/artist/4M3DAApROQAuDojXHNwNgn) | [Old Man River](https://open.spotify.com/album/0JpvBa3on2EFywTYZfxqXq) | 2:59 | 2020-08-30 | 2020-09-11 |
-| [One for sorrow, two for Joni Jones](https://open.spotify.com/track/6Xl1zGn8QgjaCwtRqI3vxv) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [One for sorrow, two for Joni Jones](https://open.spotify.com/album/6qdWKell3uanKckKAO6rIz) | 4:30 | 2023-06-10 |  |
+| [One for sorrow, two for Joni Jones](https://open.spotify.com/track/6Xl1zGn8QgjaCwtRqI3vxv) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [One for sorrow, two for Joni Jones](https://open.spotify.com/album/6qdWKell3uanKckKAO6rIz) | 4:30 | 2023-06-10 | 2023-07-11 |
 | [Only One](https://open.spotify.com/track/6hMRRCZXeV5Gg8345Z5P0M) | [BLANc](https://open.spotify.com/artist/6QNWNk7eGH8Akg83QSD2PL) | [Only One](https://open.spotify.com/album/7LO1I1tsj2ih7elmShTgrA) | 3:08 | 2019-09-29\* | 2020-03-21 |
 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 | 2023-04-26 |  |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-07-15 | 2023-06-17 |

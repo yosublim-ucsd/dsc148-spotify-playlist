@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj"
+    },
+    {
+      "album": {
         "name": "For the Cool in You",
         "url": "https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly"
       },
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 270500,
       "name": "For the Cool in You",
       "url": "https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY"

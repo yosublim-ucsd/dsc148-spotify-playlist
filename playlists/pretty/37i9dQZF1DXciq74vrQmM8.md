@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. laurel smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,479 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,577 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
 | 79 | [parasite](https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [parasite](https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm) | 3:33 |
 
-Snapshot ID: `MCw2ODM0NWExMzNiODlkN2U5Nzg0ZTIyYzkzODFjMDkzYTQ0OGQzYzNm`
+Snapshot ID: `MCxmMGNkMGUyZmZkNjNkYWZjN2IwZjE3MWNjNzA2MzNlZDUwYTk0ZDEy`

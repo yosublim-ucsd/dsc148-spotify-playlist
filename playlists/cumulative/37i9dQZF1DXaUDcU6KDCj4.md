@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Julie Byrne
 
-1,296 songs - 3 day 7 hr 14 min
+1,297 songs - 3 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [a.m\. radio \- acoustic](https://open.spotify.com/track/7xCIxtp5egFQkU8X7JMX4O) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside \(acoustic\)](https://open.spotify.com/album/3NMhnRKpTgSJla8JFkr54j) | 4:08 | 2022-05-13 | 2022-07-29 |
 | [Abilene](https://open.spotify.com/track/2xi9KMyT6acK7kDkdpptfN) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Abilene](https://open.spotify.com/album/5IQl0bM8GiALIa6BtxMHRf) | 3:03 | 2022-09-02 | 2022-10-15 |
 | [Accountable](https://open.spotify.com/track/0suQ5mWrERHQ10uZBjoVsH) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Accountable](https://open.spotify.com/album/00180Qaabpil0ZfDvurG9p) | 3:09 | 2022-08-12 | 2022-10-08 |
-| [Ace Up My Sleeve](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/1QI4AHWvms26AJI5mXHvqE) | [Ace Up My Sleeve](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 | 2023-05-19 |  |
+| [Ace Up My Sleeve](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Ace Up My Sleeve](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 | 2023-05-19 |  |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-04-01 | 2022-07-02 |
 | [After All This Time](https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [After All This Time](https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az) | 2:50 | 2023-02-03 | 2023-03-04 |
 | [Age of Apathy](https://open.spotify.com/track/69MFthcMTOCpnGgQaa9OTj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/48Wth3kYQNTjOsPZ5n6a77) | 3:58 | 2021-12-03 | 2022-01-15 |
@@ -1120,7 +1120,8 @@
 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 | 2021-11-12 | 2022-02-12 |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-11-12 | 2022-01-22 |
 | [Thinkin' On You](https://open.spotify.com/track/0bMHwCKXAJJNbiyzpq8Zeb) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Thinkin' On You](https://open.spotify.com/album/6xINh0FKm5h00HsQAUsHIp) | 3:09 | 2022-10-07 | 2023-01-21 |
-| [This](https://open.spotify.com/track/21M73RYOXZw9QaI9u6b7bj) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [This](https://open.spotify.com/album/5XVZrjXcbGgAtkyPGHF2Wv) | 4:56 | 2023-06-02 |  |
+| [This](https://open.spotify.com/track/21M73RYOXZw9QaI9u6b7bj) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [This](https://open.spotify.com/album/5XVZrjXcbGgAtkyPGHF2Wv) | 4:56 | 2023-06-02 | 2023-07-11 |
+| [This](https://open.spotify.com/track/6y0pooaE0WoVohlFwVPuT8) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [If Nothing Changes](https://open.spotify.com/album/3nXHu0E3uVVGf2MyUNQJqG) | 4:56 | 2023-06-23 |  |
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 | 2022-07-23 |
 | [This City](https://open.spotify.com/track/6r794TiASWZgXGleR2425l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [This City](https://open.spotify.com/album/4mIj6C6X8wflQ3HP9nfIhm) | 3:20 | 2022-12-09 | 2023-04-15 |
 | [This Far South](https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/6jOU3mwT8bJD6YVCWFRce9) | 3:15 | 2023-03-03 | 2023-05-20 |

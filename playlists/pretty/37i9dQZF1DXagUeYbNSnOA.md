@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Letón Pé\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,929 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,933 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Perdido](https://open.spotify.com/track/3btZo8ArCDVSOWq5eEWADO) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Perdido](https://open.spotify.com/album/0UdaCqGtcFF6WvAiApiG3H) | 2:48 |
 | 50 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
 
-Snapshot ID: `MCxkNThmNDY1NDMyYzBmY2JjMjQ3Nzg1N2Q2MDZkMzkxZTM1OTQ2N2Fl`
+Snapshot ID: `MCw3ODU3MWRlYWNiMDRiNDhlZTkyOWY4NmYxMTIzZDlhN2MzMTAxNTFh`

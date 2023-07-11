@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: Dominic Fike
+> All the indescribable feelings that music gives you\. cover: glaive
 
 2,292 songs - 5 day 3 hr 13 min
 

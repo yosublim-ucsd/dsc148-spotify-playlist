@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Gera MX
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,387 likes - 199 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,420 likes - 199 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 198 | [Mírame A Los Ojos](https://open.spotify.com/track/4WAXcK0n5Thc1DD2f3pv9O) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:08 |
 | 199 | [Merengón](https://open.spotify.com/track/3LZJoLaRpja9mt7A1GQLJs) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:58 |
 
-Snapshot ID: `MCwyNDFkOWY5YmFlNmU4Y2U0ODgxNTc4OWZjYWY4MmI5OGViNjFjYjQ3`
+Snapshot ID: `MCw0OWM4NDk0NDEwNDk1N2MzYmZmODEyN2YwZmRmZDc4ZThiNTZlMzAx`

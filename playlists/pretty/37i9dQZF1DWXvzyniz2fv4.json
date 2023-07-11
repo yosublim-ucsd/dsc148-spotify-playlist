@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 149206,
+  "num_followers": 149212,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmFjMTMxNmQzOGE1ZjczZWI4ODk1N2QwNzBkZjZkNjZkNWMzMTk4",
+  "snapshot_id": "MCxhMjFkYTZiYTEzNmY2MjNmZGU1ZTU4MDMzODJmNzExNzY5NWJiM2Uw",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -707,6 +707,42 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Ac\u00fastico Altamira #8 - Leonina",
+        "url": "https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Anna Catarina",
+          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
+        },
+        {
+          "name": "Drizzy",
+          "url": "https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1"
+        },
+        {
+          "name": "Lu\u00e1 Kali",
+          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+        },
+        {
+          "name": "Mariana Mello",
+          "url": "https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Ac\u00fastico Altamira #8 - Leonina",
+      "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Sabor Cereja",
         "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
       },
@@ -747,42 +783,6 @@
       "duration_ms": 202000,
       "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
       "url": "https://open.spotify.com/track/6ry2T9BPdjCXkGl5kHqe0O"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico Altamira #8 - Leonina",
-        "url": "https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
-        },
-        {
-          "name": "Anna Catarina",
-          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
-        },
-        {
-          "name": "Drizzy",
-          "url": "https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1"
-        },
-        {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
-        },
-        {
-          "name": "Mariana Mello",
-          "url": "https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Ac\u00fastico Altamira #8 - Leonina",
-      "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Te Ver De Novo",
+        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 168321,
+      "name": "Te Ver De Novo",
+      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "N\u00e3o Quero Mais Nada",
         "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 211549,
       "name": "Certo pra Voc\u00ea",
       "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Te Ver De Novo",
-        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 168321,
-      "name": "Te Ver De Novo",
-      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 180705,
       "name": "V\u00e1rios Planos",
       "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2023-07-07 03:01:00",

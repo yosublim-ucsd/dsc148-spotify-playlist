@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,471 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,473 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 36 | [Porque Vivo Enamorado](https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx) | [Roel Martinez](https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe) | [Porque Vivo Enamorado](https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS) | 3:42 |
 | 37 | [Pura Sabrosura](https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [Pura Sabrosura](https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv) | 2:39 |
 | 38 | [Porque Te Amo](https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB) | [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Porque Te Amo](https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe) | 3:07 |
-| 39 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
-| 40 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
+| 39 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
+| 40 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
 | 41 | [Si Manana No Me Ves](https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd) | [Anikka](https://open.spotify.com/artist/3hkqKQ2qlIE4STNnjFLDnh) | [Si Manana No Me Ves](https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6) | 3:21 |
 | 42 | [Super Heroe](https://open.spotify.com/track/1JG96INBN360PdDZnWztog) | [David Lee Garza Y Los Musicales](https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR) | [Solamente Tu](https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2) | 3:26 |
 | 43 | [Herida](https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG) | [Miguel Hernandez](https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF), [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Herida](https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj) | 4:17 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 69 | [No Me Busques](https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [No Me Busques](https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk) | 3:48 |
 | 70 | [NADIE](https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V) | [Esmeralda G](https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ) | [NADIE](https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA) | 2:41 |
 | 71 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
-| 72 | [La Tequilera](https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd) | [Andrea Michelle](https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA) | [La Tequilera](https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua) | 3:24 |
-| 73 | [Simplemente Por Quererte a Ti](https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente Por Quererte a Ti](https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ) | 3:18 |
+| 72 | [Simplemente Por Quererte a Ti](https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente Por Quererte a Ti](https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ) | 3:18 |
+| 73 | [La Tequilera](https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd) | [Andrea Michelle](https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA) | [La Tequilera](https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua) | 3:24 |
 | 74 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
 | 75 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |
 | 76 | [Como Te Voy a Olvidar](https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND) | [Genyva](https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke) | [Como Te Voy a Olvidar](https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Amor Condicional](https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd) | [Hilda Lamas](https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG) | [Amor Condicional](https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK) | 4:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl`
+Snapshot ID: `MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx`

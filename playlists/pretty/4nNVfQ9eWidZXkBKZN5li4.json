@@ -1,12 +1,12 @@
 {
   "description": "Best of Bollywood - All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood Top tracks only on this playlist! ",
-  "num_followers": 230519,
+  "num_followers": 230615,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NTAwNSxlYWRjNDNiODk5MjczYWRiZDI4NGYxNzVkMDhhZTk4ZWRkNDNjMTc5",
+  "snapshot_id": "NTAxNCwzOTBmYzk5YTg4NDNjNDgzYmUzZTE1Mjk3YWFiNDIwZmEwMGM5NmU2",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -77,6 +77,78 @@
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
+      "added_at": "2021-08-07 05:30:49",
+      "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "added_at": "2023-07-10 10:00:56",
+      "album": {
+        "name": "Hasi Ban Gaye",
+        "url": "https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh"
+      },
+      "artists": [
+        {
+          "name": "Ami Mishra",
+          "url": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "Hasi Ban Gaye",
+      "url": "https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5"
+    },
+    {
+      "added_at": "2022-11-21 10:21:25",
+      "album": {
+        "name": "Bahara X",
+        "url": "https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm"
+      },
+      "artists": [
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Bahara X",
+      "url": "https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT"
+    },
+    {
       "added_at": "2023-01-24 10:24:43",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
@@ -111,50 +183,6 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
-    },
-    {
-      "added_at": "2021-08-07 05:30:49",
-      "album": {
-        "name": "Ranjha (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Anvita Dutt",
-          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Ranjha (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
-    },
-    {
-      "added_at": "2022-11-21 10:21:25",
-      "album": {
-        "name": "Bahara X",
-        "url": "https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm"
-      },
-      "artists": [
-        {
-          "name": "Ezu",
-          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Bahara X",
-      "url": "https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT"
     },
     {
       "added_at": "2023-03-30 09:51:52",
@@ -485,28 +513,32 @@
       "url": "https://open.spotify.com/track/7FawxM5cmh2NX03FAFumFt"
     },
     {
-      "added_at": "2023-06-28 07:14:37",
+      "added_at": "2023-07-10 10:01:09",
       "album": {
-        "name": "Zihaal e Miskin",
-        "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/5FtQVEQsWzRcpqh820ZoII"
       },
       "artists": [
         {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 243953,
-      "name": "Zihaal e Miskin",
-      "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
+      "duration_ms": 277500,
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD"
     },
     {
       "added_at": "2023-02-27 12:06:29",
@@ -1063,7 +1095,7 @@
     {
       "added_at": "2023-03-20 10:24:58",
       "album": {
-        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
       "artists": [
@@ -1663,6 +1695,30 @@
       "duration_ms": 179033,
       "name": "Dholida",
       "url": "https://open.spotify.com/track/3e1JStKIIfidujpSzjqv3F"
+    },
+    {
+      "added_at": "2023-06-28 07:14:37",
+      "album": {
+        "name": "Zihaal e Miskin",
+        "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 243953,
+      "name": "Zihaal e Miskin",
+      "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
     },
     {
       "added_at": "2023-02-08 08:38:10",

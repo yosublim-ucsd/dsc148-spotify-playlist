@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-187 songs - 11 hr 14 min
+189 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,10 +67,11 @@
 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/6WG7lZf7eByJM7ehImtX7k) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Live at Subfrantic Studios\)](https://open.spotify.com/album/0qtGR4UmBgC4pWuuyhh1zp) | 3:30 | 2022-06-16 |  |
 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 | 2022-02-09 |  |
 | [Good Job](https://open.spotify.com/track/3H68NURFkJOaG0woWCK2sL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Good Job](https://open.spotify.com/album/2m6V0Gl4Hn050cGxqqGrJb) | 3:50 | 2021-12-09 | 2022-07-29 |
-| [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 | 2022-06-16 |  |
+| [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 | 2022-06-16 | 2023-07-11 |
 | [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Quincy Rycraw Cochran](https://open.spotify.com/artist/3LML6dNnnQ6CZCnWm03kNk) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 | 2023-02-22 |  |
 | [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 | 2022-12-15 |  |
 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 | 2023-05-19 |
+| [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 | 2023-07-10 |  |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 |  |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
@@ -174,13 +175,14 @@
 | [The Truth \- Acoustic](https://open.spotify.com/track/5uWBV0sK0PmWv574AhLt2p) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The Truth \(Acoustic\)](https://open.spotify.com/album/24UvQ9VrN5nRAWllG7QGZC) | 3:53 | 2023-06-29 |  |
 | [This Life \- Live](https://open.spotify.com/track/7dWA7OAWKjooN1sUNSCLjt) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [This Life \(Live\)](https://open.spotify.com/album/1CmqQ9XsMDvDmttlu68YeV) | 4:06 | 2022-10-14 |  |
 | [This Womans Work](https://open.spotify.com/track/5JoZlm8om4GQPZmRwe4QUg) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Tingsek & Vindla String Quartet feat\. Måns Mernsten](https://open.spotify.com/album/6RjoVMuBbQYEGye4kswCYe) | 3:47 | 2021-12-09 | 2023-04-09 |
+| [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-07-10 |  |
 | [To be naive](https://open.spotify.com/track/11lrfwaA2P3Vaf56tbfOE5) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 3:59 | 2023-01-12 | 2023-02-26 |
 | [To be naive](https://open.spotify.com/track/2M57KgPHcznEbUGqJ30qrA) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6) | 3:59 | 2023-01-12 | 2023-01-18 |
 | [To be naive](https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 3:59 | 2023-02-22 |  |
 | [Top Down](https://open.spotify.com/track/63KFl9SvRTthIFYuhuyrre) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Top Down](https://open.spotify.com/album/1NyWDpNSqupryYOEeGdvFz) | 2:23 | 2021-12-09 |  |
 | [Traingazing \- Acoustic](https://open.spotify.com/track/2dOBsJnZHmGAr0yQgDo56E) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing \(Acoustic\)](https://open.spotify.com/album/2DivG16jdGu2jpZolWodUc) | 3:18 | 2021-12-09 |  |
 | [Trust in You](https://open.spotify.com/track/0IkYVycXDkR8MajBTvu90Q) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/6C4xpz6DTzUBpu2l5udCrg) | 3:09 | 2022-11-03 | 2022-11-13 |
-| [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 | 2022-06-16 |  |
+| [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 | 2022-06-16 | 2023-07-11 |
 | [Trust in You](https://open.spotify.com/track/2MUKRBgYAQC6Wyi7htkrm8) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/7j7lLvqDSAEMLjz9aH0G68) | 3:09 | 2021-12-09 | 2022-07-29 |
 | [U Should](https://open.spotify.com/track/6L1yA61015sIz9Vd02gGHZ) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [U Should](https://open.spotify.com/album/477YeBAfUzOmqI2rPelNXP) | 4:04 | 2021-12-09 |  |
 | [Unaware](https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:36 | 2022-06-16 |  |

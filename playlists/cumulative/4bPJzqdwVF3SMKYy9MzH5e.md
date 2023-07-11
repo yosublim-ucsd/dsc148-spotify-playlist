@@ -4,7 +4,7 @@
 
 > 
 
-1,789 songs - 4 day 0 hr 55 min
+1,790 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1720,6 +1720,7 @@
 | [We're Through](https://open.spotify.com/track/6auOct34wZKOXWerAwqI8I) | [Nevaeh](https://open.spotify.com/artist/7s4lEl1dbB4TuDBoxIh9nC) | [We're Through](https://open.spotify.com/album/4bXl0ZDnaOq5fsx4rkbAlp) | 3:51 | 2021-08-05 |  |
 | [Weather](https://open.spotify.com/track/4fvneyc3bVlvzUuvKU6MpM) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Weather](https://open.spotify.com/album/188ANKUGuXD4ZZvoqUWkP6) | 1:51 | 2021-08-05 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2021-08-05 |  |
+| [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-07-09 |  |
 | [Western Union](https://open.spotify.com/track/4BZYq5y27t9l02IyLElK6V) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Trash Island](https://open.spotify.com/album/2coNG13rwtzL6AVPmzcoty) | 2:00 | 2022-04-18 |  |
 | [What Did You See?](https://open.spotify.com/track/2lnvyh4RtkI5XmYCK9bkaz) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [The Wilderness](https://open.spotify.com/album/5I31xc4GEJpOnqxej0LkKF) | 4:24 | 2022-02-04 |  |
 | [What Do They Know?](https://open.spotify.com/track/5abubE0dYFaEPDeM2sZ4TY) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel To Anything \(Expanded and Remastered\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:08 | 2021-08-05 |  |

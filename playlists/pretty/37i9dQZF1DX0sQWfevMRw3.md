@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,412 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,491 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 2 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC) | 3:23 |
 | 3 | [Ett Glas Till](https://open.spotify.com/track/2NHCEvEBgLaqvJZPIMLzVd) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Ett Glas Till](https://open.spotify.com/album/2p6cKEGO4bvXQValiwG340) | 2:32 |
 | 4 | [FATTAR INGENTING](https://open.spotify.com/track/4g3bOuXNmyMoRQjtMjTcok) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V) | [FATTAR INGENTING](https://open.spotify.com/album/3LcAGTVd9cpvnsYAcAUXnh) | 2:04 |
-| 5 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
+| 5 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
 | 6 | [GULD OCH GRÖNA SKOGAR](https://open.spotify.com/track/0LGJdiWthk0LDofMDi43N2) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [GULD OCH GRÖNA SKOGAR](https://open.spotify.com/album/3acgcGykyEddNyDIdnZ9kZ) | 2:30 |
 | 7 | [STRÖGET MÅSTE GÅ](https://open.spotify.com/track/4g3szqJcYbj0n5qbsD8m5D) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [STRÖGET MÅSTE GÅ](https://open.spotify.com/album/1ydhniCfuAVEtWuGQONUUJ) | 2:46 |
 | 8 | [Svag](https://open.spotify.com/track/6m9boQX0lTSx9yELAEtr10) | [DRESSD](https://open.spotify.com/artist/4sNWSMiz1cfqtIR5rSc7UL), [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK) | [Svag](https://open.spotify.com/album/0F3HBn96hzcWPUbHjoK6bd) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 100 | [Oj Oj](https://open.spotify.com/track/0beFqL93TrrK7EqeAsgKPN) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Oj Oj](https://open.spotify.com/album/1oiVHgqFVsbooDcjgzzaYY) | 2:45 |
 
-Snapshot ID: `MCw5ZjIxZDc3ZmIzOTE0YTYxNTBjNDQzOTZiNDBmOWFlZWM2MjkxM2Jl`
+Snapshot ID: `MCwxMGY5MDYzZjlkNDBkMGQwMDM1MDY1ODA0ZDlmMzBmOTNkMWQwMzRl`

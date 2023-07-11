@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,342 likes - 75 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,391 likes - 75 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 9 | [Aruna Chandra](https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4) | [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb), [David Devanagari](https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3) | [Aruna Chandra](https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn) | 8:58 |
 | 10 | [Feather \- Iorie & Madmotormiquel Remix](https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Pippermint](https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF), [Madmotormiquel](https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH) | [Feather \(The Remixes\)](https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h) | 7:07 |
 | 11 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
-| 12 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
-| 13 | [Bahar](https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Bahar](https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT) | 3:52 |
+| 12 | [Bahar](https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Bahar](https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT) | 3:52 |
+| 13 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
 | 14 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
 | 15 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 |
 | 16 | [Kidz of Tibet](https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE) | [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn), [Badau](https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU) | [Drum 'N' Feels](https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8) | 6:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 |
 | 75 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 |
 
-Snapshot ID: `MCxhMjU2YTA3MDY2MTdjYzhkYjdiYmI2NTE3NzBkNjNlMTM2ZTc4ZTc4`
+Snapshot ID: `MCxkZjhiNmUxYzk4MzRjY2Y4NjAyNjcxZGZkM2UwODUwYzVmZTE2MTM2`

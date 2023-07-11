@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. George Rhoads & RENEE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,338 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,345 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 41 | [Juan Ayon](https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Rolitas De Oro](https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox) | 4:18 |
 | 42 | [Buenas Vibras](https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Buenas Vibras](https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco) | 2:09 |
 | 43 | [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 |
-| 44 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
-| 45 | [De Este Lado](https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT) | [Jose Torres El Rey De Alto Mando](https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o) | [De Este Lado](https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG) | 3:07 |
-| 46 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
-| 47 | [Mi Peor Versión](https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Mi Peor Versión](https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk) | 2:36 |
+| 44 | [Mi Peor Versión](https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Mi Peor Versión](https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk) | 2:36 |
+| 45 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
+| 46 | [De Este Lado](https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT) | [Jose Torres El Rey De Alto Mando](https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o) | [De Este Lado](https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG) | 3:07 |
+| 47 | [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 |
 | 48 | [Poses](https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Poses](https://open.spotify.com/album/5UFwdxH1VcIg3DW7pvj8Ps) | 3:06 |
 | 49 | [Solo Una Amiga](https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Danny Reyes](https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3) | [Solo Una Amiga](https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG) | 4:24 |
 | 50 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 |
 | 51 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 | 52 | [Sencillito Y Serenito](https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Sencillito Y Serenito](https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l) | 2:57 |
-| 53 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
-| 54 | [Último Chance](https://open.spotify.com/track/1nFyCntHHgelFWP733CykV) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Último Chance](https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG) | 2:54 |
+| 53 | [Último Chance](https://open.spotify.com/track/1nFyCntHHgelFWP733CykV) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Último Chance](https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG) | 2:54 |
+| 54 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
 | 55 | [Sal](https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sal](https://open.spotify.com/album/41oaDCSgz0dm75je22VRME) | 2:44 |
 | 56 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 |
 | 57 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Pa Mis Viejos](https://open.spotify.com/track/7gF5ozUnWcMIpnyIneQrZ7) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Elemece](https://open.spotify.com/artist/1duZu3bgjB12HTN7xIAFSJ), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw), [Gael Morantes](https://open.spotify.com/artist/3ubpUHGn025g8Ixl5shRfw) | [Pa Mis Viejos](https://open.spotify.com/album/00hgw2O9cQzQkqvcSHm5i9) | 3:22 |
 | 100 | [Amarte Es Mi Destino](https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5) | [Los De La Verde](https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6) | [Amarte Es Mi Destino](https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR) | 3:00 |
 
-Snapshot ID: `MCw3N2FmNTMxOGYzZGFjMWM3YWJlODE2N2NiYzdkMmNjM2I2YTlhNzk5`
+Snapshot ID: `MCw4OWI1YzA2Mzg0MzAxMDE3NDA3ZTJhZDI4ZGYzZTE1MWY4MjJmMTU5`

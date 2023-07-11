@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: El Morabba3.
 
-162 songs - 10 hr 2 min
+163 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ashekt Rouhak](https://open.spotify.com/track/17SLR4fggn2DSt4mbAbkuy) | [Remie Akl](https://open.spotify.com/artist/0yKnrHyeDfAEr5XHuwA9xK) | [Ashekt Rouhak](https://open.spotify.com/album/5fXHircpFotE13R8AYYFjm) | 3:31 | 2021-12-23 | 2022-02-19 |
 | [Azazel](https://open.spotify.com/track/3MUnx2w6D1cCvi3KmgJ8h0) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Azazel](https://open.spotify.com/album/2D3mK6wH9go588dDe9Xz4U) | 5:37 | 2021-12-23 | 2022-03-11 |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-18 | 2023-04-24 |
+| [Battuta](https://open.spotify.com/track/1bhawZFU74KSkOF4b8kvjD) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Battuta](https://open.spotify.com/album/3X3StGDp4lCVhfUg55CUBr) | 3:25 | 2023-07-10 |  |
 | [Biban](https://open.spotify.com/track/55dTPO8aX2KIGR0kP24sVa) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [Biban](https://open.spotify.com/album/427SljlsOOfw6AVPdRPdfx) | 4:32 | 2023-05-26 |  |
 | [BIZARRE](https://open.spotify.com/track/1G8U48aUerp6MJ3GpdH2VP) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Imane Batma](https://open.spotify.com/artist/7IbIXdhtRlVPKiyIdOStgP) | [BIZARRE](https://open.spotify.com/album/65Usg4LljKNGmUiohPoJhL) | 3:11 | 2022-02-17 | 2023-04-24 |
 | [Bla'i Hali](https://open.spotify.com/track/33TYziNjMe6yNuV2tgkmq8) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 2:59 | 2021-12-23 | 2023-04-24 |

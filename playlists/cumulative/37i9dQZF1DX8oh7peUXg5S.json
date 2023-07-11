@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "7300 D\u00edas, Pt. 3 (En Directo)",
+        "url": "https://open.spotify.com/album/53R1T85J5DBStrwnxsFzzE"
+      },
+      "artists": [
+        {
+          "name": "Carlos Chaouen",
+          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
+        },
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294640,
+      "name": "No Me Canso (En Directo)",
+      "url": "https://open.spotify.com/track/3Fr0Xm46f8C2iIzTB6z7Ey"
+    },
+    {
+      "album": {
         "name": "En la memoria de la piel (Deluxe Version)",
         "url": "https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt"
       },
@@ -3704,7 +3726,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 233436,
       "name": "Sacar La Rabia",
       "url": "https://open.spotify.com/track/7GUs1PDaklqH7gUJdx6Kd7"

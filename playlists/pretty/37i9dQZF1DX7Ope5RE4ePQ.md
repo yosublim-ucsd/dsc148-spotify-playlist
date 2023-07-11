@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,039 likes - 68 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,263 likes - 68 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 44 | [Dance For Me Wallis](https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [W.E\. \- Music From The Motion Picture](https://open.spotify.com/album/0ILxbrvGwBj3jyhQjhzrP7) | 3:08 |
 | 45 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY) | 2:31 |
 | 46 | [Danse Macabre, Op\. 40, R.171](https://open.spotify.com/track/4PRnYCH5hoxypKVcOBvx3a) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Andrew Wan](https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 7:22 |
-| 47 | [Schwanengesang, D.957: 4\. Serenade](https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Greatest Hits: Schubert](https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI) | 4:23 |
+| 47 | [Schwanengesang, D.957: No\. 4 Serenade](https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Greatest Hits: Schubert](https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI) | 4:23 |
 | 48 | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/track/418Pod9FdQVI9DjlaG7DuK) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/album/4SNHCGNCX1JCDgRc8vXMrR) | 2:19 |
 | 49 | [Annie's Song \(Dompierre\)](https://open.spotify.com/track/6kOO3EZawpjqbFCiXGWs47) | [Angele Dubeau, Ensemble Amati, Raymond Dessaints](https://open.spotify.com/artist/6RMpafCPPmTUZsyzfxWj9o) | [La Ronde Des Berceuses](https://open.spotify.com/album/7GPWDs5pZsuEvCaOCUxrjU) | 4:53 |
 | 50 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 67 | [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 |
 | 68 | [Run](https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:32 |
 
-Snapshot ID: `MCwwMGIyMzdiNzZlN2RmM2ZjMzYwOGVkOTRlYTJmZmNhMTU0MDNiN2U5`
+Snapshot ID: `MCxmYjYyNmRlNjAwNzEwODU4NGZhMzBkMjc0Y2NhOTA0ZGQ5ZjI1NjA0`

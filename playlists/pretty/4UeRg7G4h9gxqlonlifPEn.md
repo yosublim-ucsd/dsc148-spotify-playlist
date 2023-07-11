@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Rich The Kid \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Pre game Pregame
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,436 likes - 128 songs - 6 hr 4 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,439 likes - 128 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

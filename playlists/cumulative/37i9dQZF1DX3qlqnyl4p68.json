@@ -140,24 +140,6 @@
     {
       "album": {
         "name": "Nightbooks (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256621,
-      "name": "Cry Little Sister",
-      "url": "https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ"
-    },
-    {
-      "album": {
-        "name": "Nightbooks (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
       },
       "artists": [
@@ -172,6 +154,24 @@
       "duration_ms": 256621,
       "name": "Cry Little Sister",
       "url": "https://open.spotify.com/track/3FgmRSXJrHXoECwBgf2qXM"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256621,
+      "name": "Cry Little Sister (Music from the Netflix Film \"Nightbooks\")",
+      "url": "https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ"
     },
     {
       "album": {

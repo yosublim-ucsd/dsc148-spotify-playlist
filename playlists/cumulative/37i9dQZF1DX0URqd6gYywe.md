@@ -2,7 +2,7 @@
 
 ### [Baladas Rock](https://open.spotify.com/playlist/37i9dQZF1DX0URqd6gYywe)
 
-> Dejate llevar por los mejores lentos del rock\. Foto: El Mató a un Policía Motorizado
+> Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
 128 songs - 8 hr 53 min
 

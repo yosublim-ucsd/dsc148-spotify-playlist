@@ -12957,6 +12957,24 @@
     },
     {
       "album": {
+        "name": "Good Things Take Time",
+        "url": "https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Good Things Take Time",
+      "url": "https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW"
+    },
+    {
+      "album": {
         "name": "goodbye",
         "url": "https://open.spotify.com/album/5MRO1Vq0qmRhBI22OROFdh"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/319942?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,889 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,902 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 |
 | 79 | [Hey World](https://open.spotify.com/track/2ptP3koK8rYTCt6H21x85o) | [「えいごであそぼ Meets the World」](https://open.spotify.com/artist/7hR1zQnQf2ugg2zdLgWLRh), [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Hey World](https://open.spotify.com/album/1jJTl8mvUjPRMqVandflm0) | 0:35 |
 
-Snapshot ID: `MCxjMGU0OWRmMTY3NjdmOGY2MjUwMjJkMWQ2OGUyNDY0ZjM4NTUzOGI3`
+Snapshot ID: `MCwzODMyODBhZmI2MTQ2MWNjOTMyYWNhMmNiYTVhODk1OGJkYzNjYWFi`

@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Crazy Blue Bells",
+        "url": "https://open.spotify.com/album/1zgMiLATWCMtkJIASSnfjr"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268813,
+      "name": "Crazy Blue Bells",
+      "url": "https://open.spotify.com/track/1LeaVGUB2msQg5GSXZjEew"
+    },
+    {
+      "album": {
         "name": "Creative Source (A-Trak Remix)",
         "url": "https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp"
       },

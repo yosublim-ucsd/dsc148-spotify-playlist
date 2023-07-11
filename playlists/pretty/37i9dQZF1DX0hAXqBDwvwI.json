@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 460904,
+  "num_followers": 461174,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2ZjZTlmNWIzODEyNDMwNjJiYzdlZDE1ZTYwOWRkMGUwNGM5MzU0",
+  "snapshot_id": "MCxiYzE3OTE5NjhkMmNiYzY4MTY4NDg3NGRlZDdhMDBjMWMyZDhkM2U3",
   "tracks": [
     {
       "added_at": "2023-07-06 15:05:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-06 15:05:34",
       "album": {
-        "name": "LANDSPACE",
-        "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "crossing field",
-      "url": "https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw"
-    },
-    {
-      "added_at": "2023-07-06 15:05:34",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2023-07-06 15:05:34",
+      "album": {
+        "name": "LANDSPACE",
+        "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "crossing field",
+      "url": "https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw"
     },
     {
       "added_at": "2023-07-06 15:05:34",

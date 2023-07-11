@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 294189,
       "name": "Back To December (Taylor's Version)",
       "url": "https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 107128,
       "name": "HOJE EU VOU COMER NOVINHA 02",
       "url": "https://open.spotify.com/track/0KYBIYOwiQbu8gOjNVzhsQ"
@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
@@ -9554,7 +9554,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 165070,
       "name": "My You",
       "url": "https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR"
@@ -13498,7 +13498,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -15622,7 +15622,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ"
@@ -16174,7 +16174,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 222818,
       "name": "\u0627\u0648\u0641 \u0627\u0648\u0641 \u0645\u0646\u0643 \u0627\u0648\u0641",
       "url": "https://open.spotify.com/track/55YDyt2GWhH0CN5zryW5c6"
@@ -16540,6 +16540,96 @@
       "duration_ms": 238995,
       "name": "\u062d\u0644\u0648\u0629 \u062d\u064a\u0627\u062a\u064a \u0645\u0639\u0627\u0647",
       "url": "https://open.spotify.com/track/0pyDBJEGh4vtREyHaAhxUf"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0627\u062c\u0631\u0627\u0645\u064a | \u0645\u0627\u0643\u0646\u062a \u0637\u0627\u0644\u0628 \u062a\u0634\u0643\u0631\u0646\u064a \u060c \u0627\u0644\u0639\u064a\u0646 \u0645\u0627 \u062a\u0639\u0644\u0649 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
+        "url": "https://open.spotify.com/album/2dzplcPjt0arp0wF1QabUW"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0627\u062c\u0631\u0627\u0645\u064a | \u0645\u0627\u0643\u0646\u062a \u0637\u0627\u0644\u0628 \u062a\u0634\u0643\u0631\u0646\u064a \u060c \u0627\u0644\u0639\u064a\u0646 \u0645\u0627 \u062a\u0639\u0644\u0649 \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u062c\u0628",
+      "url": "https://open.spotify.com/track/58McUDS6igI5D3nepaAJ78"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u062a\u062c\u0645\u0639\u0648 \u0636\u062f\u064a \u0648 \u0631\u0627\u062d\u0648 \u0646\u0647\u0627\u064a\u0628 \u060c \u0644\u0627\u0631\u064a \u0644\u0627\u0631\u064a",
+        "url": "https://open.spotify.com/album/3x1HimVv6aqSCLUBkDK5t1"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u062a\u062c\u0645\u0639\u0648 \u0636\u062f\u064a \u0648 \u0631\u0627\u062d\u0648 \u0646\u0647\u0627\u064a\u0628 \u060c \u0644\u0627\u0631\u064a \u0644\u0627\u0631\u064a",
+      "url": "https://open.spotify.com/track/0BcLv4huyhfpDZbSeRrdme"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u0645\u0627\u0628\u064a\u0646 \u0637\u0631\u0641\u0629 \u0639\u064a\u0646 \u0631\u0627\u062d \u0627\u0644\u062d\u0628\u064a\u0628 \u0627\u0644\u0632\u064a\u0646 \u060c \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644 \u0645\u0646 \u0628\u0639\u062f",
+        "url": "https://open.spotify.com/album/1hqvH34ihcPGAcx5q76qxL"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229993,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u0645\u0627\u0628\u064a\u0646 \u0637\u0631\u0641\u0629 \u0639\u064a\u0646 \u0631\u0627\u062d \u0627\u0644\u062d\u0628\u064a\u0628 \u0627\u0644\u0632\u064a\u0646 \u060c \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644 \u0645\u0646 \u0628\u0639\u062f",
+      "url": "https://open.spotify.com/track/2WlP8SjCIiemEF0R0owgxG"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u0633\u0647\u0631\u062a \u0627\u0641\u0643\u0631 \u0628\u0627\u0644\u0644\u064a\u0627\u0644\u064a \u0648 \u0627\u0644\u0627\u064a\u0627\u0645 \u060c \u0648 \u0627\u0644\u062f\u0646\u064a\u0627 \u064a\u0627\u0645\u0627 \u0631\u0643\u0636\u062a\u0646\u064a \u0648\u0631\u0627\u0647\u0627",
+        "url": "https://open.spotify.com/album/5GICA6fEpPfTkM1Y1GWTfz"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u0633\u0647\u0631\u062a \u0627\u0641\u0643\u0631 \u0628\u0627\u0644\u0644\u064a\u0627\u0644\u064a \u0648 \u0627\u0644\u0627\u064a\u0627\u0645 \u060c \u0648 \u0627\u0644\u062f\u0646\u064a\u0627 \u064a\u0627\u0645\u0627 \u0631\u0643\u0636\u062a\u0646\u064a \u0648\u0631\u0627\u0647\u0627",
+      "url": "https://open.spotify.com/track/5eKYsKNwBUFkYq3X8EifPM"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u064a\u0627\u0639\u0627\u0630\u0644\u064a\u0646 \u0627\u0644\u0634\u0642\u0627\u0648\u064a \u060c \u0627\u0644\u062c\u0631\u062d \u0645\u0627\u0644\u0647 \u0645\u062f\u0627\u0648\u064a",
+        "url": "https://open.spotify.com/album/0VZUBAd1KHwSP3fcdvyeM5"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u064a\u0627\u0639\u0627\u0630\u0644\u064a\u0646 \u0627\u0644\u0634\u0642\u0627\u0648\u064a \u060c \u0627\u0644\u062c\u0631\u062d \u0645\u0627\u0644\u0647 \u0645\u062f\u0627\u0648\u064a",
+      "url": "https://open.spotify.com/track/6G0EKHHN4Lwj4XYuBuwlEg"
     },
     {
       "album": {
@@ -16912,6 +17002,24 @@
       "duration_ms": 227884,
       "name": "\u063a\u0635\u0628 \u0639\u0644\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0QOBcIXo19VdwyRLe8GJho"
+    },
+    {
+      "album": {
+        "name": "\u0641\u064a \u0644\u064a\u0644\u0629 \u0643\u0646\u0647\u0627 \u0645\u0646 \u0646\u0648\u0631\u0647\u0627 \u0644\u064a\u0644 \u0639\u064a\u062f (\u0631\u064a\u0645\u0643\u0633)",
+        "url": "https://open.spotify.com/album/7zMZDCD0Zz0EmYSbSBb64m"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325102,
+      "name": "\u0641\u064a \u0644\u064a\u0644\u0629 \u0643\u0646\u0647\u0627 \u0645\u0646 \u0646\u0648\u0631\u0647\u0627 \u0644\u064a\u0644 \u0639\u064a\u062f (\u0631\u064a\u0645\u0643\u0633)",
+      "url": "https://open.spotify.com/track/4W4dlJ1N3tLP53Ogil6A7I"
     },
     {
       "album": {
@@ -17420,7 +17528,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 408863,
       "name": "\u064a\u0627 \u062d\u0644\u0648",
       "url": "https://open.spotify.com/track/1jUjqfU4pM7ogIGFp6RR7K"

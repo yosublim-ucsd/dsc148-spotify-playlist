@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8642,
+  "num_followers": 8647,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjE5Y2IyNGJiMGJlMWY2NTQ0MWYyYmQ5ZDJlNWNkNGZiMjY0Zjg1",
+  "snapshot_id": "MCw4YWM3MzJjYzVlNjcxYjE0NTI4YmY1ODkwZjE0ZWYzMTY0ZWY2OTUy",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Manifestif",
         "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 201800,
       "name": "Je suis partie",
       "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossiere ind\u00e9cence",
-      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 219800,
       "name": "Une araign\u00e9e au plafond",
       "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",

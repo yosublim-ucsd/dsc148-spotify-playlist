@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,418 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,457 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 47 | [Goodbye To The Old Me](https://open.spotify.com/track/2KBUsMSWnegzswLEMxkLc8) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Goodbye To The Old Me](https://open.spotify.com/album/7oKmz2jlpMf6WIw2oOA4vt) | 3:27 |
 | 48 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 |
 | 49 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 |
-| 50 | [I Want You](https://open.spotify.com/track/5ba04re5isAmv3PD3jcPOl) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/4nbfu3vIv18WNWDFvfLl0I) | 2:50 |
+| 50 | [I Want You](https://open.spotify.com/track/0RUBuuLjdIlRdRZczwgtp8) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/5QVvV22vMHIo1Nq7bCM4FQ) | 2:50 |
 | 51 | [Your Funeral](https://open.spotify.com/track/3y9K5sfxBscaZDgAJvaBhP) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Your Funeral](https://open.spotify.com/album/7kHawGCjHGSeiZLqcmkPt0) | 2:51 |
 | 52 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 |
 | 53 | [Cry Cry Cry](https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Cry Cry Cry](https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO) | 3:22 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 89 | [Can't Be Enough](https://open.spotify.com/track/3v5hTpsIZWn4cwXOUIpPKE) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/3qza4qE5bZ3nNQUqxv42KH) | 3:07 |
 | 90 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 
-Snapshot ID: `MCxlYzFhMGU1OTEyYjhlZmVhMzM2ZWFhZWU3MzY0NGUzNTQ4YjcyMDA1`
+Snapshot ID: `MCw4YjA1ZWQ5ZTQwYTM4ZThhNGM2ZmIwOWMwNzc0YzQ2ZDQ1NDQ3YjA1`

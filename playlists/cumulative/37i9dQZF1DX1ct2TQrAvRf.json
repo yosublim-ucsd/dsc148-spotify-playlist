@@ -438,7 +438,7 @@
     {
       "album": {
         "name": "The Gorilla Bounce",
-        "url": "https://open.spotify.com/album/4N3Ltmqz2cQt9ZMJedfCGn"
+        "url": "https://open.spotify.com/album/1105dcUWKvpAEAGO1MdaqH"
       },
       "artists": [
         {
@@ -449,6 +449,24 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Desi Dan Bilzerian",
+      "url": "https://open.spotify.com/track/0wAXFT9FskLIaN1pLkmTYE"
+    },
+    {
+      "album": {
+        "name": "The Gorilla Bounce",
+        "url": "https://open.spotify.com/album/4N3Ltmqz2cQt9ZMJedfCGn"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
       "duration_ms": 201379,
       "name": "Desi Dan Bilzerian",
       "url": "https://open.spotify.com/track/5vdWj5rEzg9lg5qbE98PmX"

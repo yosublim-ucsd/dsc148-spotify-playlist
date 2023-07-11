@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "OTQzLGQyZmVmNzJhOTBjMzA3NTVhYTY0YjkxZTU1NDNhYzZiODhjNDViZjc=",
+  "snapshot_id": "OTQ3LDA1ZGQ3MmZiZTdhNTZiYTU5MmI5NjY0ZTk5ZDk4OTQxMWJiOTVmNmU=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -711,22 +711,6 @@
       "duration_ms": 59026,
       "name": "Ready Lets Go",
       "url": "https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT"
-    },
-    {
-      "added_at": "2022-06-13 19:37:54",
-      "album": {
-        "name": "Kaputt",
-        "url": "https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/3i729CqF9sBCCyhYxIWUZZ"
     },
     {
       "added_at": "2022-06-13 20:07:31",
@@ -3593,22 +3577,6 @@
       "url": "https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74"
     },
     {
-      "added_at": "2023-06-08 03:10:07",
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 279880,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO"
-    },
-    {
       "added_at": "2023-06-08 04:19:42",
       "album": {
         "name": "My Maudlin Career",
@@ -3761,22 +3729,6 @@
       "url": "https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6"
     },
     {
-      "added_at": "2023-06-22 05:03:40",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
-    },
-    {
       "added_at": "2023-06-22 05:10:03",
       "album": {
         "name": "Beloved! Paradise! Jazz!?",
@@ -3927,6 +3879,22 @@
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F"
+    },
+    {
+      "added_at": "2023-07-10 13:26:04",
+      "album": {
+        "name": "Magnolia Electric Co. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
+      },
+      "artists": [
+        {
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+        }
+      ],
+      "duration_ms": 442106,
+      "name": "Farewell Transmission",
+      "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
     }
   ],
   "unique_name": "Zacklog",

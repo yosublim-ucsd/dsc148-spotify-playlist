@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "diminished",
+        "url": "https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r"
+      },
+      "artists": [
+        {
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234988,
+      "name": "diminished",
+      "url": "https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Blow Away",
         "url": "https://open.spotify.com/album/2HLOi336hZEySin334MKne"
       },
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 262000,
       "name": "\u592a\u9633\u4e0e\u5730\u7403",
       "url": "https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI"
@@ -3109,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "\u8e8d",
+        "url": "https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u6690\u7fd4",
+          "url": "https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "\u6211\u5011\u5230\u5e95\u7b97\u4ec0\u9ebc",
+      "url": "https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY"
+    },
+    {
+      "album": {
         "name": "\u6211\u5011\u7684\u6545\u4e8b",
         "url": "https://open.spotify.com/album/3DFNVxLXMH1GVWghVivBFs"
       },
@@ -3564,7 +3600,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 197000,
       "name": "\u6562\u50bb\u6562\u885d - 2020\u9ed1\u677e\u6c99\u58eb\u5e74\u5ea6\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3V0psPzZ73wCDh4BmM7izM"
@@ -4479,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "\u7d66\u6708\u4eae\u7684\u4e09\u884c\u8a69",
+        "url": "https://open.spotify.com/album/2nHZoTwkHnpTVEEk1g8Hmn"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "\u7d66\u6708\u4eae\u7684\u4e09\u884c\u8a69 (\u300a\u6211\u8981\u9006\u98a8\u53bb\u300b\u96fb\u8996\u5287\u7247\u5c3e\u66f2 )",
+      "url": "https://open.spotify.com/track/2qvw3TxW0AeGygQliu379B"
+    },
+    {
+      "album": {
         "name": "\u7fc5\u8180",
         "url": "https://open.spotify.com/album/72Dy4BgvYSW7vcEnKGxYql"
       },
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 258533,
       "name": "\u8af7\u523a\u7684\u60c5\u66f8",
       "url": "https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ"
@@ -5009,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "\u8e2e\u8d77\u8173\u5c16\u611b (HPY Version)",
+        "url": "https://open.spotify.com/album/23fhPRWsq132UKEZvmepd1"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287200,
+      "name": "\u8e2e\u8d77\u8173\u5c16\u611b - HPY Version",
+      "url": "https://open.spotify.com/track/7sd7BzMPJuNJDXpobsPdQ7"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u4e09\u500b\u9858\u671b",
         "url": "https://open.spotify.com/album/78m2xNrF05ernsv6Rp94qx"
       },
@@ -5114,7 +5186,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 267810,
       "name": "\u9023\u8f38\u5165\u6cd5\u90fd\u8a18\u5f97\u4f60 - \u300aHIStory5-\u9047\u898b\u672a\u4f86\u7684\u4f60\u300bLINE TV\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/1cvXawBqcyifKuKD2IdQpS"

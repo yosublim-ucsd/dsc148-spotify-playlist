@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,718 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,877 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 76 | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo) | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh) | 4:04 |
 | 77 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 |
 | 78 | [Well Done \- Acoustic](https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Well Done \(Acoustic\)](https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW) | 4:38 |
-| 79 | [Praise You In This Storm \- New York Sessions](https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Praise You In This Storm \(New York Sessions\)](https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV) | 5:54 |
-| 80 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
+| 79 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
+| 80 | [Praise You In This Storm \- New York Sessions](https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Praise You In This Storm \(New York Sessions\)](https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV) | 5:54 |
 | 81 | [This Wild Earth](https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \(Or the Nuclear Sunburst of the Truth Revealed\)](https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp) | 4:00 |
 | 82 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 |
 | 83 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Life + Love](https://open.spotify.com/track/0EheUfcQwsZgQPdQ80RzaG) | [1910 Worship](https://open.spotify.com/artist/4IyWlfSJ9BabkBnmkROEEV) | [Life + Love](https://open.spotify.com/album/76yW9XMMy9huSpK9EFkOeD) | 3:40 |
 | 100 | [King Of Kings \- Live](https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm) | 4:51 |
 
-Snapshot ID: `MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz`
+Snapshot ID: `MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Mica Caldito Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,002 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,009 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Sayun Ra](https://open.spotify.com/track/2BL6LQjOSqFWnOTRvGGEeA) | [Ace P](https://open.spotify.com/artist/5tfXFW91zvyONYtXu3ZPPT) | [Sayun Ra](https://open.spotify.com/album/0EQgOBwtwoOVPjPKJ7FA3k) | 3:00 |
 | 74 | [Unfortunately Life](https://open.spotify.com/track/3D6CEXPlOIYbHcem7egYOa) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Unfortunately Life](https://open.spotify.com/album/750fh1zNX22vlfoA5R4r2r) | 3:40 |
 
-Snapshot ID: `MCw4MTU1ZWY3MjFiMWI5NmVkNTBmNzJmZmQxMzBkZDkwZDhjYjIxZjgy`
+Snapshot ID: `MCw3MTJkYWYxNTFmMjZhMzJjNWExNTcwNDk2YmFhMzBjNzI3ZGI2ZDYy`

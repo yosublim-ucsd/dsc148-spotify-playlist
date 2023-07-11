@@ -4,7 +4,7 @@
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-8,797 songs - 19 day 0 hr 27 min
+8,798 songs - 19 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [123](https://open.spotify.com/track/0u6msjxXxXiuxLy23wYMDO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [123](https://open.spotify.com/album/2t1QLVopApzBJKfusyXKnk) | 2:17 | 2022-07-29 | 2022-08-05 |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-08-19 |
 | [12345](https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:44 | 2022-07-21 | 2022-07-29 |
-| [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 | 2023-07-06 |  |
+| [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 | 2023-07-06 |  |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2021-12-23 | 2021-12-31 |
 | [130622 REC](https://open.spotify.com/track/30qQMtkwMQqDhXcaixzYA9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [REC 130622](https://open.spotify.com/album/6vkvjIiODcebikj3TrCBVZ) | 3:47 | 2022-05-19 | 2022-05-27 |
 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 | 2022-06-02 | 2022-06-10 |
@@ -6394,7 +6394,8 @@
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-20 | 2022-10-28 |
 | [Running](https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Running](https://open.spotify.com/album/0vo1z2pTCnhlzrXgEmNlXw) | 3:05 | 2022-01-13 | 2022-01-21 |
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-22 | 2022-09-30 |
-| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-06 |  |
+| [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 | 2023-07-07 |  |
+| [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-06 | 2023-07-11 |
 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2022-09-01 | 2022-09-09 |
 | [Running Low \- Radio Edit](https://open.spotify.com/track/4o5IFGzchHmo5N4eqYH1T6) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe), [The Agreement](https://open.spotify.com/artist/58zMbKIrvEB2M7ZcXeh4le) | [Running Low](https://open.spotify.com/album/7akpU3o2c0pZs3V9H4TT4F) | 3:09 | 2023-06-15 | 2023-06-23 |
 | [Running Out of Love](https://open.spotify.com/track/5B6BvYNj9cjZUnzoslwK20) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Running Out of Love](https://open.spotify.com/album/0rhORi6bUyoJc4EXX0rArK) | 4:18 | 2022-08-18 | 2022-08-26 |

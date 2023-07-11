@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 9536,
+  "num_followers": 9586,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWUxZDZlM2QwYzg3YWFjOWJhYWQ1NzFkNmQyNDNhZjZiMWViMjlh",
+  "snapshot_id": "MCw4ZGZkNGVkY2FhYTg1NzkzMDlmMjEyMzlmZWNiMTRjODA4NWY4ZjYy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "U Don't Know",
+      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Otherside Of America",
         "url": "https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 235009,
       "name": "Wetty",
       "url": "https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "U Don't Know",
-      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

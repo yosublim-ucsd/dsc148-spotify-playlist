@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,757 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,336 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 79 | [Places Of Placidity](https://open.spotify.com/track/5oZNphGYdRj0rJNGgStbly) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Places Of Placidity](https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4) | 3:00 |
 | 80 | [Early Morning Drizzle](https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Drizzle Meditation](https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI) | 3:19 |
 | 81 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 |
-| 82 | [Healing Stream \(432 Hz\)](https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Healing Stream \(432 Hz\)](https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI) | 3:25 |
-| 83 | [Mend Minds](https://open.spotify.com/track/50hUqlzcAXBLXlpXjuM9eV) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Mend Minds](https://open.spotify.com/album/5wYqv4QR805QV56BtBuS6V) | 3:01 |
-| 84 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 |
-| 85 | [River Of Dreams](https://open.spotify.com/track/45jab7CY7ZsjQGUrhGzAKR) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:51 |
-| 86 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 |
-| 87 | [La Pierre Dans La Forêt](https://open.spotify.com/track/2X0aqBtMYaa1r4aetK6lZ7) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [La Pierre Dans La Forêt](https://open.spotify.com/album/1phF1rjWS2TbHYGgo7JGrM) | 2:58 |
-| 88 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/5jgX1p4HWumq7VD0xurygG) | 2:38 |
+| 82 | [River Of Dreams](https://open.spotify.com/track/45jab7CY7ZsjQGUrhGzAKR) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:51 |
+| 83 | [Healing Stream \(432 Hz\)](https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Healing Stream \(432 Hz\)](https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI) | 3:25 |
+| 84 | [Mend Minds](https://open.spotify.com/track/50hUqlzcAXBLXlpXjuM9eV) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Mend Minds](https://open.spotify.com/album/5wYqv4QR805QV56BtBuS6V) | 3:01 |
+| 85 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/5jgX1p4HWumq7VD0xurygG) | 2:38 |
+| 86 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 |
+| 87 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 |
+| 88 | [La Pierre Dans La Forêt](https://open.spotify.com/track/2X0aqBtMYaa1r4aetK6lZ7) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [La Pierre Dans La Forêt](https://open.spotify.com/album/1phF1rjWS2TbHYGgo7JGrM) | 2:58 |
 | 89 | [Under The Tabla](https://open.spotify.com/track/5RmZaQr8u7VZWg6kX7ADGB) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Under The Tabla](https://open.spotify.com/album/5aPaMWN5dirBrt6stMvrZL) | 3:14 |
 | 90 | [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 |
 | 91 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 100 | [Incubations](https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Incubations](https://open.spotify.com/album/3PLtwNgWWjOPHlExuhvbvh) | 3:20 |
 | 101 | [Alpenglow](https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Alpenglow](https://open.spotify.com/album/6ccaqEk1vaiZ7MD0nVL5Ck) | 2:40 |
 | 102 | [Close Your Eyes](https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Close Your Eyes](https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa) | 3:16 |
-| 103 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 |
-| 104 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 |
+| 103 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 |
+| 104 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 |
 | 105 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 |
 
-Snapshot ID: `MCw2NDUwMTFkYjFiYjQ5MDMwNTc3OTY2ZDEyNmJlMTFhYjJjMjM1NTIw`
+Snapshot ID: `MCxjYWZkYTM1YmU4MDc2MzliODYwOGRkNGNlMGE3MGJmMjBmOTQxZmZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,777 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,765 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 30 | [Santa Is A Good Ole Boy](https://open.spotify.com/track/4pIQoVY9KR0f5l9EQ8I6UQ) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Santa Is A Good Ole Boy](https://open.spotify.com/album/4MsP85sybDaWAadE2FwX13) | 3:21 |
 | 31 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 |
 | 32 | [Classic](https://open.spotify.com/track/1Pm9TIkyMurchNraIuiRbD) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Classic](https://open.spotify.com/album/3sHMidfBgvPMdTH4mgPPRd) | 3:27 |
-| 33 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
-| 34 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
+| 33 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
+| 34 | [The Bells Are Ringing](https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ) | 3:18 |
 | 35 | [I'm Ready For Christmas](https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [I'm Ready For Christmas](https://open.spotify.com/album/7aiiUn98kVj0zp0ZQf6pSO) | 2:25 |
-| 36 | [The Bells Are Ringing](https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ) | 3:18 |
+| 36 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
 | 37 | [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 |
 | 38 | [Feliz Navidad](https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 2:15 |
 | 39 | [When We Are Together](https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Together](https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Season's Greetings](https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya) | [Cassie Dasilva](https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre) | [Season's Greetings](https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc) | 2:40 |
 | 100 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
 
-Snapshot ID: `MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5`
+Snapshot ID: `MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk`

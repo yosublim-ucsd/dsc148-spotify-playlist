@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Ashley Cooke, Dylan Marlowe, Taylor Swift and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,747 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,942 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Burn That Bridge](https://open.spotify.com/track/1tGBMLdiQjJOGgf7FW4Qwp) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Burn That Bridge](https://open.spotify.com/album/3oY2qcj69oOiHIczQt3eiJ) | 3:11 |
 | 57 | [Slow Lane Life](https://open.spotify.com/track/2xaA80MZOD4DE7YUSTwA8u) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Slow Lane Life](https://open.spotify.com/album/2dcsK0TmJnmaLECn2iGZw7) | 2:46 |
 
-Snapshot ID: `MCw4OGE5ZDEzZTIzYTk3N2VjNjkxYmIxZjBjMjg1MTE1ZjY5NGI4MjNm`
+Snapshot ID: `MCw2ODY2ZDI3MGE5YzEzOGY5ZjAyN2YwNDAzNTJkYWI0ZDlkNDNiODRh`

@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129931,
+      "name": "eyes don't lie sped up",
+      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
+    },
+    {
+      "album": {
         "name": "Fall In Love Alone (Sped Up Version)",
         "url": "https://open.spotify.com/album/4cTiISMNquBWO0LE3a8tRD"
       },
@@ -1646,6 +1664,24 @@
       "duration_ms": 134999,
       "name": "How Do I Say Goodbye - Sped Up",
       "url": "https://open.spotify.com/track/0b49gQS3t3DNqX4TWBZyhX"
+    },
+    {
+      "album": {
+        "name": "Human (sped up + slowed)",
+        "url": "https://open.spotify.com/album/1V1WViPin6019CS6K4jTQb"
+      },
+      "artists": [
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "Human (Rag'N'Bone Man) - sped up",
+      "url": "https://open.spotify.com/track/13EQrjyT5a3NtVbWzwbbdF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating ten years of Tiwa Savage's Debut Album; Once Upon a Time. Cover: Tiwa Savage.  ",
-  "num_followers": 114815,
+  "num_followers": 114950,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzQ2YmI0NWRiOGU0NmJjZTZlOWU2OTBmMTRmYmE2ZjFjMzU5Mjk2",
+  "snapshot_id": "MCw0ODViNjQwZjZhYzUzOGMyZjE0MjRiMjNmNWI0NmZlMmI3YmU4MjNh",
   "tracks": [
     {
       "added_at": "2023-07-03 15:34:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "Least Expected",
-        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Yori Yori",
-      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Least Expected",
+        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
         }
       ],
-      "duration_ms": 237714,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
+      "duration_ms": 218426,
+      "name": "Yori Yori",
+      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -383,6 +367,22 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
+        "name": "REWIND. SELECT. UPDATE",
+        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
         "name": "51 Lex Records Presents Carnizelas Vol. 4",
         "url": "https://open.spotify.com/album/0gObfLol83lf99kC3nSaC4"
       },
@@ -399,18 +399,34 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "REWIND. SELECT. UPDATE",
-        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 264360,
-      "name": "African Queen",
-      "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
+      "duration_ms": 237714,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 197558,
+      "name": "Collateral Damage",
+      "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -443,22 +459,6 @@
       "duration_ms": 179000,
       "name": "Godwin",
       "url": "https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 197558,
-      "name": "Collateral Damage",
-      "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
         "name": "Take Over",
         "url": "https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU"
       },
@@ -527,38 +511,6 @@
       "duration_ms": 253933,
       "name": "Limpopo",
       "url": "https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
-        "name": "Mad Over You",
-        "url": "https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Mad Over You",
-      "url": "https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -579,6 +531,38 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
+        "name": "Mad Over You",
+        "url": "https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Mad Over You",
+      "url": "https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
         "name": "SPOTLIGHT",
         "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 320012,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -719,6 +703,22 @@
       "duration_ms": 211226,
       "name": "Kondo",
       "url": "https://open.spotify.com/track/6tHIVKiKsId5xDM3ufMzgl"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
+        "name": "HITSVILLE",
+        "url": "https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7"
+      },
+      "artists": [
+        {
+          "name": "Paul Play",
+          "url": "https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB"
+        }
+      ],
+      "duration_ms": 303124,
+      "name": "ANGEL OF MY LIFE",
+      "url": "https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ"
     }
   ],
   "unique_name": "Timeless Afro ",

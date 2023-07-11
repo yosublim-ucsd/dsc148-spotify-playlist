@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,765 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,784 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 69 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
 | 70 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 |
 | 71 | [Jimmy's House](https://open.spotify.com/track/2qdtDf68UWK1hgicXydqsL) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Jimmy's House](https://open.spotify.com/album/5U5SvsEcdAgU9H0uivo76N) | 3:34 |
-| 72 | [Devil In Your Eyes](https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Devil In Your Eyes](https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST) | 3:37 |
+| 72 | [Devil In Your Eyes](https://open.spotify.com/track/2XhpBpMVmsYF0kn9UuyYdn) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Tears Dry On Their Own](https://open.spotify.com/album/0tWxDuJA7ovcszqeiu5j5J) | 3:37 |
 | 73 | [Made Of Love](https://open.spotify.com/track/33uyQzDxVrCo7p7SaPfo15) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 4:32 |
 | 74 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
 | 75 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [WHERE YOU BELONG](https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [WHERE YOU BELONG](https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO) | 2:56 |
 | 100 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
 
-Snapshot ID: `MCw2ZGQ0MDY1ZWFkNWZkMWFmNGIxZWRkZDc2MGVjYmE0MWMzNGE0ZTA2`
+Snapshot ID: `MCw5ZWQ5Yjc2ZjFmOTU5ZDBhNzFhYzNkN2I0ZjI4MzVkN2I1OWQ4ZTA2`

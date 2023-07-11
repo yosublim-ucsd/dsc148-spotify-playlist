@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-500 songs - 1 day 4 hr 37 min
+501 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
 | [Philosophia](https://open.spotify.com/track/2YNNwEliMwd8LeCyFTCo2S) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Philosophia](https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5) | 3:01 | 2022-06-14 | 2022-06-22 |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 |  |
-| [Posinega\*Mistakers](https://open.spotify.com/track/1oXvFoHLJjzAN6kKT8mNXR) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Posinega\*Mistakers](https://open.spotify.com/album/3a2R7c96YfWXx5A1emBcgW) | 3:40 | 2023-06-13 |  |
+| [Posinega\*Mistakers](https://open.spotify.com/track/2klkz5Ab8cFgekyiBv7Nez) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Mirai Eve](https://open.spotify.com/album/1JXumAYnk57JaFj4CGt0gh) | 3:39 | 2023-07-06 |  |
+| [Posinega\*Mistakers](https://open.spotify.com/track/1oXvFoHLJjzAN6kKT8mNXR) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Posinega\*Mistakers](https://open.spotify.com/album/3a2R7c96YfWXx5A1emBcgW) | 3:40 | 2023-06-13 | 2023-07-11 |
 | [Q](https://open.spotify.com/track/2WgDt1Kuh0boQmwytT840h) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [アルターワー・セツナポップ](https://open.spotify.com/album/7DoSwfUqVHcgLtuh2MIR46) | 4:18 | 2022-06-09 | 2022-07-11 |
 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2022-08-18 |  |
 | [quiet room](https://open.spotify.com/track/5cAn0MCLfizdk0v7qVlPXx) | [ewe](https://open.spotify.com/artist/1CjBPbIrY2V0MK7LZnz4rv) | [troy](https://open.spotify.com/album/3a1HOc9H3mko6rhStgCjws) | 3:39 | 2022-06-09 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,544 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,557 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 34 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 |
 | 35 | [Someone We Used To Love](https://open.spotify.com/track/6Od189h0PKZlMsLUt6onrw) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Someone We Used To Love](https://open.spotify.com/album/5OqUngFXqzdm8pJ13A2bMP) | 3:22 |
 | 36 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
-| 37 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 |
+| 37 | [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 |
 | 38 | [Potential](https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:40 |
 | 39 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
 | 40 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 54 | [The Fall](https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Fall / For the Last Time](https://open.spotify.com/album/3GzBwa27pIwAnytu1KP0ka) | 3:37 |
 | 55 | [The One And Only](https://open.spotify.com/track/4CS3SKRSZsJOJHSrqvwq5V) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [The One And Only](https://open.spotify.com/album/2iCrbtIE09UlcQRunJcnSF) | 2:57 |
 | 56 | [In A Dream](https://open.spotify.com/track/5C4atbyWTRVjD6oYeCxyll) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [In A Dream](https://open.spotify.com/album/0znkyScMynDEEzGZDIgRSK) | 2:34 |
-| 57 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
+| 57 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
 | 58 | [STRÖGET MÅSTE GÅ](https://open.spotify.com/track/4g3szqJcYbj0n5qbsD8m5D) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [STRÖGET MÅSTE GÅ](https://open.spotify.com/album/1ydhniCfuAVEtWuGQONUUJ) | 2:46 |
 | 59 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 60 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 115 | [En riktig Volvo EPA](https://open.spotify.com/track/0OKmG2oBxxMaJzHzFdaL5S) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [En riktig Volvo EPA](https://open.spotify.com/album/3i28l4ihW86rsTsjPX4pRf) | 3:13 |
 | 116 | [Besatt](https://open.spotify.com/track/5Luc1MxPaCA6pASWag5Bm8) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Besatt](https://open.spotify.com/album/3CJZcCzy5KCqYpCKdrMxxt) | 3:49 |
 
-Snapshot ID: `MCwwYjRmOGQ4Njk1MjZmOTg4ODZkY2JkMTcwZmZlNzQ5ZmMzNWVhNTEz`
+Snapshot ID: `MCxhZWQzZDI3ZDQ2YTRiZDc4NzE0NmVlZjk3MTE2MGJhNTczNjA0YmNm`

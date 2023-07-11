@@ -4,7 +4,7 @@
 
 > 150%
 
-236 songs - 10 hr 27 min
+238 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-04-11 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-28 | 2023-04-16 |
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Sped Up Version](https://open.spotify.com/track/5RQ1oQUUWBv2urYLF0xWzz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Evergreen \(You Didn’t Deserve Me At All\) \[Sped Up Version\]](https://open.spotify.com/album/58KKKV44FFFTgg1fT8De7m) | 3:17 | 2022-11-14 | 2023-03-18 |
+| [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 | 2023-07-10 |  |
 | [Fall In Love Alone \- Sped Up Version](https://open.spotify.com/track/24iWUKHLXE4ZDkAj0GK4kt) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Sped Up Version\)](https://open.spotify.com/album/4cTiISMNquBWO0LE3a8tRD) | 2:38 | 2022-10-26 |  |
 | [Falling Over \- Sped Up Version](https://open.spotify.com/track/30Rgny4iqvfxJKixVKQld2) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Falling Over \(Sped Up Version\)](https://open.spotify.com/album/2B3XXPbDVd1JjAMzIprE6j) | 4:19 | 2022-12-14 | 2023-02-18 |
 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 | 2022-06-24 |  |
@@ -90,6 +91,7 @@
 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-08 |  |
 | [House of Memories \- Sped Up Version](https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [House Of Memories](https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj) | 2:44 | 2022-11-22 |  |
 | [How Do I Say Goodbye \- Sped Up](https://open.spotify.com/track/0b49gQS3t3DNqX4TWBZyhX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3zSsXVUo30ceghixa71luU) | 2:14 | 2022-12-09 | 2023-01-28 |
+| [Human \(Rag'N'Bone Man\) \- sped up](https://open.spotify.com/track/13EQrjyT5a3NtVbWzwbbdF) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Human \(sped up + slowed\)](https://open.spotify.com/album/1V1WViPin6019CS6K4jTQb) | 2:44 | 2023-07-10 |  |
 | [HUSH \(Speed\)](https://open.spotify.com/track/49JmcVegBY2IN3W8GbC2kH) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel \(Speed\)](https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq) | 2:35 | 2022-11-18 | 2022-12-14 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/1V0RXIXbvghnccC1eiKG4w) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4UDnadI0O48uey6S8dunV3) | 2:01 | 2022-12-13 | 2022-12-22 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 | 2022-12-13 |  |

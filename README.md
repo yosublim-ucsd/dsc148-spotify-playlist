@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6313\)
+## Playlists \(6315\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3560,7 +3560,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pop Study](/playlists/pretty/37i9dQZF1DWSoyxGghlqv5.md)
 - [Pop Up](/playlists/pretty/37i9dQZF1DX6aTaZa0K6VA.md)
 - [Pop Up presents: Best of 2022](/playlists/pretty/37i9dQZF1DX7pbeEjdF4tQ.md)
-- [Pop con Ñ](/playlists/pretty/37i9dQZF1DX3sCT1ItXgNd.md)
+- [Pop del Top](/playlists/pretty/37i9dQZF1DX3sCT1ItXgNd.md)
 - [Pop en Inglés](/playlists/pretty/37i9dQZF1DX2oVzuo0LbVg.md)
 - [Pop for Life](/playlists/pretty/37i9dQZF1DX03azgB68xev.md)
 - [Pop n' Fresh](/playlists/pretty/37i9dQZF1DX50KNyX4Fc9O.md)
@@ -5120,6 +5120,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Nirvana \(2\)](/playlists/pretty/37i9dQZF1DX82CY3GzF2m6.md)
 - [This Is Noah Kahan](/playlists/pretty/37i9dQZF1DZ06evO1Exmrs.md)
 - [This Is Nothing](/playlists/pretty/37i9dQZF1DZ06evO3xzS2k.md)
+- [This Is Nívea Soares](/playlists/pretty/37i9dQZF1DZ06evO4xMHov.md)
 - [This Is OVO Sound](/playlists/pretty/37i9dQZF1DWYvexEL7O6ws.md)
 - [This Is Oasis](/playlists/pretty/37i9dQZF1DZ06evO1vHAZO.md)
 - [This Is Oasis \(2\)](/playlists/pretty/37i9dQZF1DWXupFIUw7TOC.md)
@@ -5552,6 +5553,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Top K\-Pop Artists of 2O2O](/playlists/pretty/37i9dQZF1DWT1zrjQN7E2v.md)
 - [Top K\-Pop Tracks of 2O2O](/playlists/pretty/37i9dQZF1DX8NzI27ip7J0.md)
 - [Top Latin Classical](/playlists/pretty/37i9dQZF1DXajUXy2f1Dsi.md)
+- [Top Maghreb Pop](/playlists/pretty/37i9dQZF1DX5KSzehSFkvg.md)
 - [Top Male Artists of 2017: USA](/playlists/pretty/37i9dQZF1DX2SAJ4GmhZC1.md)
 - [Top Misquoted Song Lyrics](/playlists/pretty/4nGMejqlEJh82huRHZ19cE.md)
 - [Top México](/playlists/pretty/37i9dQZF1DWZKpHIbfDI1i.md)

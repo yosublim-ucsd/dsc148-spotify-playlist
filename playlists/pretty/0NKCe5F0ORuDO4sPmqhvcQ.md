@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,000 likes - 135 songs - 7 hr 43 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,000 likes - 137 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 133 | [My Only Mistake](https://open.spotify.com/track/6Roj2cBQsnxamGOLiBYy3z) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [My Only Mistake](https://open.spotify.com/album/0UrIGVcrRsDc6H2CO1Wg9B) | 6:44 |
 | 134 | [Free Yourself](https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Free Yourself](https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz) | 3:50 |
 | 135 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 |
+| 136 | [It Goes Like](https://open.spotify.com/track/4zXiKDr6LZaEQ4ALbpkyJm) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Devotion](https://open.spotify.com/album/6Dp6WGj2CoNPJLx4brSRbq) | 3:33 |
+| 137 | [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 |
 
-Snapshot ID: `MTAzNDQsODZhMGQ2YzcwODJmOWQ3NDA4OWM2M2EyN2VlYzBiY2Q0MTI1MDA1Nw==`
+Snapshot ID: `MTAzNDYsNDhkMzEwMzQ2MzY3ZDY3ZjQxN2QyOGY2M2Y2N2E5NzE1NjcyNjkwZg==`

@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 87514,
       "name": "GOOD LOYAL THOTS - Sped Up",
       "url": "https://open.spotify.com/track/278XivBXH8reixUeHJKl5p"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 160443,
       "name": "Know Me Too Well - Sped Up Version",
       "url": "https://open.spotify.com/track/1ESvtk6BMZcj8wWsTgVBts"
@@ -1774,6 +1774,32 @@
       "duration_ms": 186544,
       "name": "LIMBO - Sped Up Version",
       "url": "https://open.spotify.com/track/1KV4uK3MAneG77PM2bJhqs"
+    },
+    {
+      "album": {
+        "name": "LOOK DON'T TOUCH (STARE STARE STARE)",
+        "url": "https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "LOOK DON'T TOUCH - Sped Up",
+      "url": "https://open.spotify.com/track/3SIJtSQcIuJukZ2awP3EJq"
     },
     {
       "album": {
@@ -2636,6 +2662,28 @@
       "duration_ms": 179482,
       "name": "Sicko (Nightcore) [feat. Paycheck & TIMMS] - Sped Up",
       "url": "https://open.spotify.com/track/6bZ5DQLL9Ly46TdDJYXkaF"
+    },
+    {
+      "album": {
+        "name": "Side Effects (Shouse Remix)",
+        "url": "https://open.spotify.com/album/4YLDJpJeAGgnzhx3LDXDUL"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125695,
+      "name": "Side Effects - Sped Up",
+      "url": "https://open.spotify.com/track/4GceGTyl2e3Fellw9Sgtw7"
     },
     {
       "album": {

@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "BANDIDOS TAMB\u00c9M AMAM",
+        "url": "https://open.spotify.com/album/3T2f22DeTQ660HLHMMu0Ws"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/7atjAkSf2uJDdvAbjcrIGf"
+        },
+        {
+          "name": "Erridablio",
+          "url": "https://open.spotify.com/artist/5MfiNK0zMxqkHGH0WHOeju"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72746,
+      "name": "BANDIDOS TAMB\u00c9M AMAM",
+      "url": "https://open.spotify.com/track/2mzgrPejhEC7UbvdtL7YyF"
+    },
+    {
+      "album": {
         "name": "Fa7her",
         "url": "https://open.spotify.com/album/0M40ouy3DGERXGiMffJR15"
       },
@@ -4927,6 +4949,32 @@
     },
     {
       "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5FjKDSWjhBfEd1UgZsgPRp"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/1LiJfEoNEjBBgvkAtdkzjg"
+    },
+    {
+      "album": {
         "name": "P\u00e9ssimo em Despedida",
         "url": "https://open.spotify.com/album/3EOViJE3hRUQ7CVlP0Wc9V"
       },
@@ -6228,7 +6276,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 135700,
       "name": "Vai ficar na saudade",
       "url": "https://open.spotify.com/track/7pYA6WJG6P8aNaiksrYg49"
@@ -6460,7 +6508,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 125100,
       "name": "Viramos Estranhos",
       "url": "https://open.spotify.com/track/3zjjUXEtDpqWPhWSXSzoOp"

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Icy Subzero, Medy, Tony Boy e tanti altri.
 
-2,049 songs - 3 day 21 hr 32 min
+2,050 songs - 3 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [DRILLMOON \(feat\. thasup\)](https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:30 | 2022-11-04 | 2022-12-02 |
 | [DRIN DRIN](https://open.spotify.com/track/612PXA92Q1NbUPQyASYQIr) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [DRIN DRIN](https://open.spotify.com/album/3mD0elMxiueTlKnDZJiyBQ) | 1:50 | 2023-01-12 | 2023-02-03 |
 | [DRIN DRIN \(feat\. Slings\)](https://open.spotify.com/track/1h5ydKuWLZXRCdM8fHw1Ys) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 2:31 | 2023-03-09 | 2023-03-31 |
+| [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 | 2023-07-10 |  |
 | [DRUG DEALERS \(feat\. Sapobully\)](https://open.spotify.com/track/65cwJw7TQRRPUgPgdVHftV) | [Pablo CT1](https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [DIARIO DI UN PUSHER](https://open.spotify.com/album/4tbTUVR5AXMjxp5unYO9a0) | 2:51 | 2023-03-03 | 2023-03-31 |
 | [DRUG TEST](https://open.spotify.com/track/3iInEjIfGEn1vFOhekvg2q) | [PESSIMA iDEA](https://open.spotify.com/artist/6x2mXeTqSYeueLVVGajbCj), [IL MOOD](https://open.spotify.com/artist/0ctzpdI0nkx9jubDtNJFRv), [Tropic Thunder](https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm) | [DRUG TEST](https://open.spotify.com/album/7MV9So12875UzvVkgdAlcP) | 2:07 | 2022-12-01 | 2022-12-09 |
 | [DRUNK BARS 2](https://open.spotify.com/track/1Vqw8H2zTJqJqtapAdMYSR) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [DRUNK BARS 2](https://open.spotify.com/album/4OYsZos1XPewjPFatAfi0C) | 1:11 | 2022-05-10 | 2022-05-13 |

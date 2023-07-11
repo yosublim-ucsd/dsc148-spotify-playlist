@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78597,
+  "num_followers": 78593,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzcxNSxmMzU2ZWNiMmFmYWYwOGE4MDAzNDg0Mzc3ZTQ2MTFjZjgzZTg1Y2U1",
+  "snapshot_id": "MzcxNyw1NmI3Y2UwNzM5NzUwMjUxNmQwMjVlZDQ3Y2FkMzgxYjkwZDUzY2Fh",
   "tracks": [
+    {
+      "added_at": "2023-07-10 10:39:50",
+      "album": {
+        "name": "Crazy Blue Bells",
+        "url": "https://open.spotify.com/album/1zgMiLATWCMtkJIASSnfjr"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "duration_ms": 268813,
+      "name": "Crazy Blue Bells",
+      "url": "https://open.spotify.com/track/1LeaVGUB2msQg5GSXZjEew"
+    },
     {
       "added_at": "2023-07-05 15:58:54",
       "album": {

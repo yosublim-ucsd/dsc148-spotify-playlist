@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Lartiste",
-  "num_followers": 306825,
+  "num_followers": 307492,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjE5ZWNkMmVhNmVlMjBkY2NiYmM3NjE4Y2VhNWU3ODUxNDM4OTQw",
+  "snapshot_id": "MCwzNTNhNjNiMDdmZGI2MjdjZTcxOTYzNzk0MjY0Y2NlYjRjOWE1NjA2",
   "tracks": [
     {
       "added_at": "2023-07-07 20:22:44",
@@ -473,6 +473,26 @@
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
+      "added_at": "2023-07-10 08:42:42",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
       "added_at": "2023-07-07 20:22:44",
       "album": {
         "name": "WILI",
@@ -703,22 +723,6 @@
       "duration_ms": 265120,
       "name": "Filamen - \u0641\u064a\u0644\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/5SfgODdv831EqaStxXB8el"
-    },
-    {
-      "added_at": "2023-07-07 20:22:44",
-      "album": {
-        "name": "WAYLE",
-        "url": "https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG"
-      },
-      "artists": [
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "WAYLE",
-      "url": "https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0"
     },
     {
       "added_at": "2023-07-07 20:22:44",

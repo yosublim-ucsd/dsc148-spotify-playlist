@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 
 > The amazing sounds of the tropics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,437 likes - 335 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 335 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 | 33 | [Apache](https://open.spotify.com/track/51ml2bJs9zDLv1PbzNQzPP) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [40 Years of the Incredible Bongo Band](https://open.spotify.com/album/2dtnXYyS4Qx7CvgpWOO8Na) | 4:53 |
 | 34 | [Chilito Piquín](https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [21 Años 21 Éxitos](https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd) | 2:59 |
 | 35 | [I'm Not Crazy](https://open.spotify.com/track/194CaJc8VDIpcTLX6Jzmg5) | [Don Carlos](https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc) | [Day To Day Living](https://open.spotify.com/album/0O9RCPHr27N8qhU4SK8Yke) | 3:21 |
-| 36 | [Lost Mi Love](https://open.spotify.com/track/5dvG16Ma80h9FZ1sQq5Sb1) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Mister Yellowman](https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt) | 5:10 |
-| 37 | [La Cumbia Del Mole](https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 4:10 |
+| 36 | [La Cumbia Del Mole](https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 4:10 |
+| 37 | [Lost Mi Love](https://open.spotify.com/track/5dvG16Ma80h9FZ1sQq5Sb1) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Mister Yellowman](https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt) | 5:10 |
 | 38 | [Tamacún](https://open.spotify.com/track/0nNwfRyw0eY323NMkBM0y8) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 3:25 |
 | 39 | [I Faram Gami I Faram](https://open.spotify.com/track/26YMZ2S61ItkKS1w3gdaDo) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 2:19 |
 | 40 | [El Pescador](https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Candela Viva](https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw) | 4:07 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 | 254 | [Très impoli](https://open.spotify.com/track/55FYQdbQrRTaKIlKZij9j6) | [Franco & le T.P OK Jazz](https://open.spotify.com/artist/1XUfXYZElBhwnNLnZSi2CF), [Le T.P\. OK Jazz](https://open.spotify.com/artist/73XCOyUYrL5GD0ULyLrBCp) | [Franco \- 3ème anniversaire de la mort du grand maître Yorgho](https://open.spotify.com/album/76i9wFboO8qN3rijQB91wD) | 16:55 |
 | 255 | [El Evangelio](https://open.spotify.com/track/5dLzqupWZtsr5g8v3cyMYD) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Wganda Kenya](https://open.spotify.com/album/6J1OlJVNaHnTT9jvkMPurq) | 6:34 |
 | 256 | [Mad Over Me](https://open.spotify.com/track/09YigjsvaBb24afspOfYfc) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Anthology: Young, Gifted and Yellow](https://open.spotify.com/album/6XnNBdFSYV3U1k8tkhfVNM) | 3:25 |
-| 257 | [It's Highlife Time](https://open.spotify.com/track/7b1Sax2Go8uwu3IOyJPVTF) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Highlife\-Jazz and Afro\-Soul \(1963\-1969\)](https://open.spotify.com/album/5eyvtau4jEgAU7VwlRq87R) | 5:23 |
-| 258 | [Mandjou](https://open.spotify.com/track/1plbtQ0n3QIZGSTmFtDhAu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 12:41 |
+| 257 | [Mandjou](https://open.spotify.com/track/1plbtQ0n3QIZGSTmFtDhAu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 12:41 |
+| 258 | [It's Highlife Time](https://open.spotify.com/track/7b1Sax2Go8uwu3IOyJPVTF) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Highlife\-Jazz and Afro\-Soul \(1963\-1969\)](https://open.spotify.com/album/5eyvtau4jEgAU7VwlRq87R) | 5:23 |
 | 259 | [Premiere Alerte](https://open.spotify.com/track/1xyXeyQWiA7RYhOOLMh9QU) | [Lutchiana](https://open.spotify.com/artist/1Siwl504YqpGGYTyhxACII) | [Gina](https://open.spotify.com/album/6eKdTbze3Jnqd7x5Bhj6yf) | 3:11 |
 | 260 | [Hong Kong](https://open.spotify.com/track/3aF5mHzXj2bxtv2fpHbgTj) | [Michi Sarmiento y su Combo Bravo](https://open.spotify.com/artist/4sEESURYY5eLdFEKHCtub0) | [Cum Cumbelé](https://open.spotify.com/album/5QRkRiMAqnsbp4KdEjXKAv) | 3:53 |
 | 261 | [Addis Nat](https://open.spotify.com/track/0UGkF1cUrJNPfqdhZRwdvM) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Lala Belu](https://open.spotify.com/album/1ZnIFpyujwO3wcL9na3vHE) | 4:34 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 | 334 | [Para Arriba](https://open.spotify.com/track/6V6OM3Fv2oL0FziPCqITGn) | [La Chiva Gantiva](https://open.spotify.com/artist/54FJndhLYYRtj8aR4iRJGL) | [Vivo](https://open.spotify.com/album/2FNH8oJdMfnWaXuxcSoXkU) | 4:01 |
 | 335 | [Colibrí](https://open.spotify.com/track/5dQpXENllF6eASsUPYP7pQ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Sombras de Oro](https://open.spotify.com/album/0HvGzVjqbYzS56qRY8DjYM) | 3:46 |
 
-Snapshot ID: `MCw5ODViZmEzZWRhYmZmYWU4OGRjYTMwMTFiNTRiOTFlMjczMDdmNTA1`
+Snapshot ID: `MCxhMWFjN2E4MTY2MzZiOTFlYWYxOGE2YzQ1NWMzYWJhY2IyMWFmZTQ5`

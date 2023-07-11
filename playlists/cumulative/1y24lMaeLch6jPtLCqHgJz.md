@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-158 songs - 8 hr 13 min
+160 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 | 2022-11-05 |
 | [All We Needed](https://open.spotify.com/track/7iUsaptyO0uLIcQYGL0MQw) | [West Collins](https://open.spotify.com/artist/4m0eQpwwsV0XZITCzWOnfm) | [All We Needed](https://open.spotify.com/album/1c7dFeOERHYJa1aEyWzFql) | 3:05 | 2023-04-21 |  |
+| [All You Need Is Love \- Festival Edit](https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love \(Festival Edit\)](https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu) | 4:14 | 2023-07-10 |  |
 | [Angel](https://open.spotify.com/track/6qOEp7oSe2OpZQRdWfPB4B) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Deloops](https://open.spotify.com/artist/0lNPLzLP80TvoV6XWo9lD1), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Angel](https://open.spotify.com/album/0uqrF98KAjy8eBqqACL6wH) | 3:01 | 2023-06-23 |  |
 | [Antidote](https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Antidote](https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz) | 3:08 | 2023-02-24 | 2023-06-03 |
 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-06-30 |  |
@@ -21,6 +22,7 @@
 | [Back To You](https://open.spotify.com/track/4j94DHbP7qELZIltB7VI8K) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD) | [Back To You](https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT) | 3:14 | 2022-09-19 | 2023-01-28 |
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-07-29 |  |
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 | 2023-03-18 |
+| [Be Free](https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Be Free](https://open.spotify.com/album/24flI70Ab8EV3KEOAfYFHT) | 3:49 | 2023-07-10 |  |
 | [Be With You](https://open.spotify.com/track/6nrxoCBatTLJ8GGXDB92vV) | [Marcus Rush](https://open.spotify.com/artist/19a5uNRf1LcUfKtl0C5tL8), [Mad Jester](https://open.spotify.com/artist/6xYAts9ORCoyg9Eeonriav), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Be With You](https://open.spotify.com/album/0WBJ1yTjcIsJ9KHW0RzEpM) | 2:57 | 2023-03-17 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 | 2022-08-11 |  |
 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2023-06-02 |  |

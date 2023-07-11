@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Sithara Krishnakumar",
-  "num_followers": 20611,
+  "num_followers": 20666,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODMyZGI2N2QxNjMwNzA0YzhmMjY1NmU1OWFjMDg0ODY2MGIxYmIy",
+  "snapshot_id": "MCw0ZjUyZWNjMjZhMDQ4NTFhNGFjYmQ4MTJkMTdjYWRjZDdlMmI1NDAw",
   "tracks": [
     {
       "added_at": "2022-11-21 07:35:23",
@@ -127,6 +127,30 @@
       "duration_ms": 121212,
       "name": "Ini Enthoram Kaanan Kedakkanu",
       "url": "https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk"
+    },
+    {
+      "added_at": "2023-07-10 10:10:02",
+      "album": {
+        "name": "Mizhikalal",
+        "url": "https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe"
+      },
+      "artists": [
+        {
+          "name": "Nishad jain",
+          "url": "https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC"
+        },
+        {
+          "name": "Aswin GS",
+          "url": "https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa"
+        },
+        {
+          "name": "Anoop Devadas",
+          "url": "https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Mizhikalal",
+      "url": "https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA"
     },
     {
       "added_at": "2023-05-26 15:21:57",

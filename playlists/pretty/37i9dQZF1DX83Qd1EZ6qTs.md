@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out and balance your energies with the rhythmic sounds of the Tabla, from Indian maestros & modern geniuses.<br/>Cover : Anuradha Pal
 
-[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 47 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 47 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Tabla Solo 2](https://open.spotify.com/track/4NCqNjUa199fKTXNE7NNYf) | [Mokhtar al Said](https://open.spotify.com/artist/1hCS546hKLVJ7G7dIPc05W) | [Jalilah's Raks Sharki 1: Classic Egyptian Dance Music](https://open.spotify.com/album/4SmGnBCcQndZSVcEguZkPV) | 1:44 |
 | 47 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
 
-Snapshot ID: `MCw1MGMwM2MwMTI3NzllM2JkZjYyOWEyMDhmNmQ2ZDIxNjJlOWU4ZGEw`
+Snapshot ID: `MCxiMzBmZGIxMzZjMWRkNDRkZDY1NjJjZjA1Yjk3NDZkYzRlNTJkNGVl`

@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53649,
+  "num_followers": 53644,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw",
+  "snapshot_id": "MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -419,6 +419,34 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jeremy Oceans",
+          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
+        }
+      ],
+      "duration_ms": 207469,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Battle (Cause & Affect Jingle Bells Remix)",
         "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
       },
@@ -495,34 +523,6 @@
       "duration_ms": 150021,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Jeremy Oceans",
-          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
-        }
-      ],
-      "duration_ms": 207469,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Cold December",
-      "url": "https://open.spotify.com/track/7MhkmIAz4WiJKRxWbjuy7b"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "I've Got My Love To Keep Me Warm (Somni Remix)",
         "url": "https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N"
       },
@@ -731,6 +715,26 @@
       "duration_ms": 156046,
       "name": "I've Got My Love To Keep Me Warm - Somni Remix",
       "url": "https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
+      },
+      "artists": [
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        }
+      ],
+      "duration_ms": 163312,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
     }
   ],
   "unique_name": "Electronic Christmas",

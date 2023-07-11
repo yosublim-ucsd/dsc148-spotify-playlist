@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50073,
+  "num_followers": 50077,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI1ZThjMGY4YzczZDBmZTI1ZTY4NjdiYjUxOTNiNmNjZTAyM2Mz",
+  "snapshot_id": "MCwxNjQ4MjdmNGQ4MzIzMmE3NDVjNzU5ZGZhNjk2ZGI2ZGI4MDMxYzlj",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -195,6 +195,30 @@
       "duration_ms": 172083,
       "name": "Diamond Cross (Title Song) - From \"Diamond Cross\"",
       "url": "https://open.spotify.com/track/7B40YbZEVXRoaASAJWEP5f"
+    },
+    {
+      "added_at": "2023-07-10 12:59:39",
+      "album": {
+        "name": "Jeevanada Jatreyali (From \"Nano Narayanappa\")",
+        "url": "https://open.spotify.com/album/0ibW7cOqA7TOUmqr2pZny3"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Siddhu Kodipura",
+          "url": "https://open.spotify.com/artist/2oUm5xtgePIC1nQcIEdsSz"
+        },
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        }
+      ],
+      "duration_ms": 219676,
+      "name": "Jeevanada Jatreyali - From \"Nano Narayanappa\"",
+      "url": "https://open.spotify.com/track/1SXRBzjHxxHfoPne3ibmRL"
     },
     {
       "added_at": "2023-07-03 10:32:24",
@@ -427,26 +451,6 @@
       "duration_ms": 308944,
       "name": "Kanmani - from \"Love\"",
       "url": "https://open.spotify.com/track/5PUELtgAuAFmkWT8DENtJv"
-    },
-    {
-      "added_at": "2023-06-16 10:54:15",
-      "album": {
-        "name": "Nanna Praana Neene (from \"Kiraathaka 2\")",
-        "url": "https://open.spotify.com/album/63Hvyl58wvGwXPT9yvdKex"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Kokila",
-          "url": "https://open.spotify.com/artist/6BOARM09ZGU5fRNT54e4r0"
-        },
-        {
-          "name": "Vani Harikrishna",
-          "url": "https://open.spotify.com/artist/16CVbXLOZUoF3qpHUkaqsD"
-        }
-      ],
-      "duration_ms": 208992,
-      "name": "Nanna Praana Neene (from \"Kiraathaka 2\")",
-      "url": "https://open.spotify.com/track/4QjxUlpQli0SsYNGxe38lJ"
     },
     {
       "added_at": "2023-06-16 10:54:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Asteria in cover! \u2728 ",
+  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! \u2728 ",
   "name": "GLOW Italia",
   "tracks": [
     {
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-11",
       "duration_ms": 184137,
       "name": "DISCOBALL",
       "url": "https://open.spotify.com/track/2rQDSXh5V1mutc5w24juTX"
@@ -4345,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "A Queer Anthology of Drums",
+        "url": "https://open.spotify.com/album/2uTo1vk3l4YfFgZeMHikM9"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81067,
+      "name": "Rumours of Bread",
+      "url": "https://open.spotify.com/track/3gfHadzT6UhT1CxBBCDOuH"
+    },
+    {
+      "album": {
         "name": "S.T.A.R.",
         "url": "https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw"
       },
@@ -5406,6 +5424,24 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "album": {
+        "name": "ULTRANCE",
+        "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
+      },
+      "artists": [
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339999,
+      "name": "ULTRANCE",
+      "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
     },
     {
       "album": {

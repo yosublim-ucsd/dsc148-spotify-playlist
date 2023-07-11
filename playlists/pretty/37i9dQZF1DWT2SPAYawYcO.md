@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Tkay Maidza
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,385 likes - 98 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,382 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 66 | [God is Really Real](https://open.spotify.com/track/4oRvBcdFxsOGuZUdC8vzva) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [God is Really Real](https://open.spotify.com/album/1fCV5lymq38v5CRXoiOuKf) | 2:59 |
 | 67 | [Freedom](https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Freedom](https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2) | 4:13 |
 | 68 | [Bet On Us](https://open.spotify.com/track/7Loe6kKCUIJGxZiJQVjLDX) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [Bet On Us](https://open.spotify.com/album/29VWTUtGEhF22NBg3AAyVQ) | 2:40 |
-| 69 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 |
+| 69 | [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 |
 | 70 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 |
 | 71 | [Bloodstream](https://open.spotify.com/track/2MnNsnpYNbvGN4QQ9oRoSe) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Bloodstream](https://open.spotify.com/album/0oPB7C5HuX0bETAYaC75yO) | 3:24 |
 | 72 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 97 | [Heartbreak Hotel](https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Heartbreak Hotel](https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb) | 3:23 |
 | 98 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 
-Snapshot ID: `MCxiMDE4MjBlNjFlNjdkYmFmZDhhMTI5OWM0ZDA0NWJkZWQzNWVkOTMx`
+Snapshot ID: `MCw4ODc5OTNmMTAzYmMzYTE3ODUwMjRiZWI0MmQ3MTA3ZmVjNWE5NTdi`

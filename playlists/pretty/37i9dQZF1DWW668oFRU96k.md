@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: JAX JONES x Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,627 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,638 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 9 | [North Star](https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [North Star](https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY) | 3:09 |
 | 10 | [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 |
 | 11 | [Give It To You Like](https://open.spotify.com/track/7GIEHK5wi5GaIR1YJu6TBI) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Give It To You Like](https://open.spotify.com/album/5wxFWJWLCwv0m7dJAe1MQn) | 3:00 |
-| 12 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 |
+| 12 | [Running Blind](https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:39 |
 | 13 | [LA On Acid](https://open.spotify.com/track/2QWMBe66DhsRwtn2BO9LTW) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [LA On Acid](https://open.spotify.com/album/3KJmODRcAwz06pK7gIiT0M) | 2:23 |
 | 14 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 |
 | 15 | [Love Me Or leave Me](https://open.spotify.com/track/0oRZq2aP4G3IU1u8mY9mqV) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [Love Me Or leave Me](https://open.spotify.com/album/28ReHx2WAxubYngxUzYGId) | 2:34 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 68 | [Keeping Love \- Sola Fae Remix](https://open.spotify.com/track/5WS8LisAqu0oe1BYSEdv0u) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love \(Sola Fae Remix\)](https://open.spotify.com/album/6IpYlw9sPjon156HVs76kQ) | 2:50 |
 | 69 | [The World In My Head](https://open.spotify.com/track/1IY3lGtLsdgEaxod2MdvOJ) | [Zedx](https://open.spotify.com/artist/66E29rNaIWerJcsIBf2uMd), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [The World In My Head](https://open.spotify.com/album/4viBQpuOzuGFnAWlvz4mll) | 2:21 |
 
-Snapshot ID: `MCwyNjIwZTE4ZGE5MTJiYTE5YTNkYTY4M2RkYjAxM2FhOTg1ZTBmN2U5`
+Snapshot ID: `MCxmNTUxY2NiNjY4ZjM0Mjk1YWQyMGEyNWQ1MWE2ZWZiNGYwNWNlMjMy`

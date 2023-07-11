@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,496 likes - 75 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,523 likes - 75 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Symfonické variace \(Symphonic Variations\), Op\. 78, B\. 70: Symphonic Variations, Op\. 78, B\. 70](https://open.spotify.com/track/00SIzgBFfQUFDqJGLUbMdG) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Slovak Philharmonic](https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd), [Stephen Gunzenhauser](https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45) | [Dvorak: Symphony No\. 9, 'From the New World' \- Symphonic Variations](https://open.spotify.com/album/48GeB9pwsS84JW6jSm9agr) | 22:06 |
 | 75 | [Symphony No\. 3 In E Flat, Op\. 10, B\. 34: 3\. Finale \(Allegro vivace\)](https://open.spotify.com/track/37EbWkRH33zsB1wL9ZGwY2) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Symphony No.3 In E Flat, Op.10, B\. 34 & Symphony No.7 In D Minor, Op.70, B\. 141](https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA) | 7:46 |
 
-Snapshot ID: `MCw3ZmMzMDI2NGZhODFlMzc3NTQ5OWMzYjU5ZmFjN2RhMDFhMzY5NjYx`
+Snapshot ID: `MCwxNzI1YmE4N2IzNDc1MmQzMWVjYzI3NmQ2YWM2ZjE1ZjI3Y2E5ODVj`

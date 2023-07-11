@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,347 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,664 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 19 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
 | 20 | [Perséfone](https://open.spotify.com/track/3u9FHHLrJ9st71IIXnSXCb) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Belial](https://open.spotify.com/album/3uLFEWcaTwDdrbW1JjChNn) | 2:58 |
 | 21 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
-| 22 | [Karolina](https://open.spotify.com/track/1UnvqYFWrB2SabA2jvk3JU) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0q7WkDth9XAIMyQYiTIkPt) | 2:26 |
+| 22 | [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 |
 | 23 | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3) | [Hits Show](https://open.spotify.com/artist/3B8NbwiC5bv1dQqaow8D4m) | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/album/2CxxK082gGgQdIVaYjsJV1) | 1:23 |
 | 24 | [Cartão Black](https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Cartão Black](https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH) | 2:39 |
 | 25 | [Na Contramão](https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6) | [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Na Contramão](https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 89 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 90 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCxjM2Q5ZDBmM2RiMjRhOGRhOGRiZjNkODA4MTRiN2QwNWY4Y2Q2Yzcz`
+Snapshot ID: `MCwzNjlhZmU4NDFjMDk4ZjhlYjU3MDg4ZmIxZjc1NjlmZTcyZWRiM2Jl`

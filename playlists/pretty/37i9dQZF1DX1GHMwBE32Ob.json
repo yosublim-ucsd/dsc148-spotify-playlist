@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Lil Kesh & Young Jonn ",
-  "num_followers": 12520,
+  "num_followers": 12593,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzc2YjdiMWEzNmEzYTc1NzE0YmJlMDE4YTQyYjJlOTg1MjkxY2Qx",
+  "snapshot_id": "MCwzMmI1Mjc2YmM4YjlhNDFlOGQ3NmUwMWZlZjZhNmM5YzkwNGIyNTBl",
   "tracks": [
     {
       "added_at": "2023-07-07 09:54:31",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 177449,
-      "name": "Chance (Na Ham)",
-      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-07-07 09:54:31",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
       "added_at": "2023-07-07 09:54:31",
@@ -503,38 +503,6 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "Amdallah",
-        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180584,
-      "name": "Amdallah",
-      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -591,6 +559,54 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "Amdallah",
+        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Amdallah",
+      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "Soapy",
+        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 174043,
+      "name": "Soapy",
+      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
         "name": "Wire",
         "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 145910,
-      "name": "La Pio Pio",
-      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
-        "name": "Soapy",
-        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 174043,
-      "name": "Soapy",
-      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
         "name": "Cash App",
         "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 145910,
+      "name": "La Pio Pio",
+      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
       "added_at": "2023-07-07 09:54:31",
@@ -723,6 +723,26 @@
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "Mafo",
+        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Mafo",
+      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
     },
     {
       "added_at": "2023-07-07 09:54:31",
@@ -835,26 +855,6 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "Mafo",
-        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Mafo",
-      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
         "name": "On Fire (From 'Gangs of Lagos')",
         "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
       },
@@ -887,6 +887,38 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
+        "name": "Don't Hype Me",
+        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Don't Hype Me",
+      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "PXTA",
+        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 208581,
+      "name": "PXTA",
+      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
         "name": "I Salute",
         "url": "https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6"
       },
@@ -903,22 +935,6 @@
       "duration_ms": 187631,
       "name": "I Salute",
       "url": "https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
-        "name": "Don't Hype Me",
-        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Don't Hype Me",
-      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
     },
     {
       "added_at": "2023-07-07 09:54:31",
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2023-07-07 09:54:31",
       "album": {
-        "name": "PXTA",
-        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 208581,
-      "name": "PXTA",
-      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
-        "name": "Jaboti",
-        "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153341,
-      "name": "Jaboti",
-      "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
-    },
-    {
-      "added_at": "2023-07-07 09:54:31",
-      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -1087,6 +1071,26 @@
       "duration_ms": 146951,
       "name": "Caution (Remix)",
       "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
+    },
+    {
+      "added_at": "2023-07-07 09:54:31",
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
+      },
+      "artists": [
+        {
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
     }
   ],
   "unique_name": "Street Energy ",

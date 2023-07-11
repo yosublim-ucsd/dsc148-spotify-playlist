@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Isla de Caras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,428 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,448 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [SILUETAS](https://open.spotify.com/track/70u7y50XaoH1lrGi1Nay6g) | [Camila Pérez](https://open.spotify.com/artist/4I9eiDSxffyXhHmB20zStn), [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [SILUETAS](https://open.spotify.com/album/0V6E15fENkpr9MLc13oilO) | 4:57 |
 | 49 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 
-Snapshot ID: `MCw4ZjAyNjk0ZWU3OTdiZjhkOWNhYTgyNzQ2ZTIxNGRlOTJiNWQ2MTM0`
+Snapshot ID: `MCxmYzY1ODExMDk0ZWYzN2U0NWU3YmFjZmM5YWViMGMzMGU4NzU0NDhk`

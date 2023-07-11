@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656,091 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656,209 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 53 | [Attila](https://open.spotify.com/track/6b26ayGPfxaRfKrH291BLE) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i) | 2:27 |
 | 54 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 |
 | 55 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 |
-| 56 | [Falling Apart](https://open.spotify.com/track/0UO0Fl2CaNNpeh7WB2kvsC) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 4:18 |
-| 57 | [Slow Buchla Sunshine](https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:52 |
-| 58 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
+| 56 | [Slow Buchla Sunshine](https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:52 |
+| 57 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
+| 58 | [Falling Apart](https://open.spotify.com/track/0UO0Fl2CaNNpeh7WB2kvsC) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 4:18 |
 | 59 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Intentions](https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV) | 5:56 |
 | 60 | [Constelación](https://open.spotify.com/track/4sqP2Dq2ATZg255culXEQU) | [Plato](https://open.spotify.com/artist/4mvTxzyBjXb0ml6xxlhfDQ), [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Controforma pt.2](https://open.spotify.com/album/0QCEj9tNwFC4BLSFbWui90) | 4:48 |
 | 61 | [Cloudy](https://open.spotify.com/track/3X669cI3mLFk0RVmqVcp4d) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 6:51 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 71 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 72 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
 | 73 | [ACE OF CUPS](https://open.spotify.com/track/1upAhgDBWCV0AvUxgAU6SR) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 2:59 |
-| 74 | [September Sun](https://open.spotify.com/track/7pe5y4jwqdFuGZenu7Fnal) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 3:29 |
-| 75 | [Eden](https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Eden](https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS) | 3:53 |
+| 74 | [Eden](https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Eden](https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS) | 3:53 |
+| 75 | [September Sun](https://open.spotify.com/track/7pe5y4jwqdFuGZenu7Fnal) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 3:29 |
 | 76 | [Cusp \- Edit](https://open.spotify.com/track/6j6O8saTa1cVTx0BFBFmeW) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/3fUWKPK33lnxDcDLa44AQ2) | 4:09 |
 | 77 | [Soul's Matter](https://open.spotify.com/track/1Xvy3NhRnObNYxuKVsabDL) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 3:42 |
 | 78 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 95 | [Topaz](https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 1:52 |
 | 96 | [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 |
 | 97 | [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 |
-| 98 | [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 |
-| 99 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
-| 100 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 |
+| 98 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
+| 99 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 |
+| 100 | [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 |
 
-Snapshot ID: `MCwyOTZmZWNiYzc1NzQ4YjVjNDg5ZmQzNzM4ZTYwNTM2NDM5NDhkMmE4`
+Snapshot ID: `MCxlZDc1ZjMzYjcxNTYxOTk3NGY2MGYwZmMxNzNjNDRiN2FkNGQyMWM1`

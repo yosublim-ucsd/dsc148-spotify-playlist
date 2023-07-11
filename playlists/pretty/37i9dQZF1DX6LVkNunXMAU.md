@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Cítrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,608 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,629 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 45 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 |
 | 46 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 47 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 |
-| 48 | [abracadabra](https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [abracadabra](https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo) | 3:14 |
-| 49 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 |
-| 50 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 |
+| 48 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 |
+| 49 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 |
+| 50 | [abracadabra](https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [abracadabra](https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo) | 3:14 |
 | 51 | [2:42](https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [2:42](https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O) | 2:51 |
 | 52 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 |
 | 53 | [Un besito](https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Un besito](https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y) | 2:58 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 71 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 72 | [Besos Azules](https://open.spotify.com/track/5Npt3P0YTApm3Ck1fO7s0r) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/7gk6rGyOAmw5QcxwVYvsbj) | 3:55 |
 | 73 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 |
-| 74 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 |
-| 75 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
-| 76 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
-| 77 | [Insurgentes](https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 |
+| 74 | [Insurgentes](https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 |
+| 75 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 |
+| 76 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
+| 77 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
 | 78 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 |
 | 79 | [El Protagónico](https://open.spotify.com/track/2qRkJ7rOYh4PhNFuqqHNc7) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [El Protagónico](https://open.spotify.com/album/1Q4mn8XElzCTOZBl2qfkqY) | 2:40 |
 | 80 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Mi lugar en el mundo](https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Mi lugar en el mundo](https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC) | 3:32 |
 | 100 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 |
 
-Snapshot ID: `MCxmMzlkZDBlZGRjZDZhMjkzYWVhMTZmNzU1ZTA3OWNiMjJkZTNlYWQ1`
+Snapshot ID: `MCwzNTQ3ZWJjMjgwZmFlODY1NGVhNzI3YWYyNDkzZjgzYWQ3NDk2MGQ0`
