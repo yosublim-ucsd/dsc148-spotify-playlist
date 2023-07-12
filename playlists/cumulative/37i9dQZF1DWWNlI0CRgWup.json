@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : MDNS",
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Johnny Jane",
   "name": "RADAR FRANCE",
   "tracks": [
+    {
+      "album": {
+        "name": "A l'am\u00e9ricaine",
+        "url": "https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "A l'am\u00e9ricaine",
+      "url": "https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc"
+    },
     {
       "album": {
         "name": "Ados",
@@ -1079,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146762,
+      "name": "M\u00c9DICALE",
+      "url": "https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI"
+    },
+    {
+      "album": {
         "name": "Ronisia",
         "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
       },
@@ -1533,6 +1569,28 @@
     },
     {
       "album": {
+        "name": "Tell Me Who",
+        "url": "https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Niko",
+          "url": "https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163928,
+      "name": "Tell Me Who",
+      "url": "https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY"
+    },
+    {
+      "album": {
         "name": "Dimanche",
         "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
       },
@@ -1656,10 +1714,28 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 152005,
       "name": "Trop bonnes",
       "url": "https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG"
+    },
+    {
+      "album": {
+        "name": "Trop bonnes",
+        "url": "https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152005,
+      "name": "Trop bonnes",
+      "url": "https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X"
     },
     {
       "album": {

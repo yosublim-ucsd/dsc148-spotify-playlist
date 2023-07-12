@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Lennon Stella
 
-1,317 songs - 2 day 22 hr 31 min
+1,318 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Fever Dream](https://open.spotify.com/track/2hyS6YHRSqMp8JygUgUEly) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Fever Dream](https://open.spotify.com/album/61rRtqjm94oGmHdZMMtTMH) | 2:51 | 2021-04-30 | 2021-07-04 |
 | [Fingers Crossed](https://open.spotify.com/track/0JzDx938tQq0W1fQNtNdtF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fingers Crossed](https://open.spotify.com/album/346bhxhT8LdAvXEdHerBVZ) | 2:35 | 2021-06-12 | 2021-09-04 |
 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-11 | 2023-02-18 |
-| [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-01-27 |  |
+| [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-01-27 | 2023-07-12 |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-09-11 | 2020-12-13 |
 | [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2021-09-25 | 2021-12-24 |
 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2020-05-16 | 2020-07-31 |
@@ -479,7 +479,7 @@
 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2021-06-26 | 2021-12-24 |
 | [Hear It In Your Voice](https://open.spotify.com/track/13oqNlkPf5T8h8tGdkrW1g) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/6dLPLEAw8IMFirxCWCwLZx) | 2:42 | 2020-12-18 | 2021-01-29 |
 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 | 2022-12-02 | 2022-12-10 |
-| [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-13 |  |
+| [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-13 | 2023-07-12 |
 | [heart won't let me](https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:19 | 2020-10-02 | 2021-02-19 |
 | [Heartbroke](https://open.spotify.com/track/7BC86RVLmnKJiB0ruLBYlP) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Heartbroke](https://open.spotify.com/album/6ZShnJZy7k6nsX41Gtfdnv) | 3:03 | 2021-03-06 | 2021-06-26 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2020-07-22 | 2020-10-09 |
@@ -557,6 +557,7 @@
 | [I HOPE I DIE FIRST](https://open.spotify.com/track/1F7sMMmLaJnl9eRF6HydAJ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [2021](https://open.spotify.com/album/3Dsc1mi2wnCHxhqMAblMoa) | 2:56 | 2021-04-24 | 2021-06-26 |
 | [I Know Better](https://open.spotify.com/track/0jFJFli5qiHEFtEYPDWSip) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 2:58 | 2020-10-23 | 2021-01-15 |
 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 | 2023-02-24 | 2023-07-01 |
+| [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-11 |  |
 | [I Like America & America Likes Me](https://open.spotify.com/track/1rHn70WY3D7Kmy73GRlpiT) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [I Like America & America Likes Me](https://open.spotify.com/album/14yyJPtymeR6leN1eqUflA) | 3:19 | 2020-10-30 | 2020-11-13 |
 | [i like you more in my dreams](https://open.spotify.com/track/1snmbW5ZeZymPxiUeifusY) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [i like you more in my dreams](https://open.spotify.com/album/1T5aUQFf5UHGhfsIbap02O) | 2:51 | 2020-07-18 | 2020-09-25 |
 | [I Lost Myself \(feat\. Anna Clendening\)](https://open.spotify.com/track/1o0k6tyy5HVrv4W3G1G8H0) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [I Lost Myself](https://open.spotify.com/album/40zKZYBoKOlbXfVRPUTGu5) | 3:11 | 2021-02-19 | 2021-06-05 |

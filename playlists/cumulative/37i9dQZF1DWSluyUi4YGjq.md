@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-382 songs - 1 day 1 hr 36 min
+383 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Watchers](https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Small Black](https://open.spotify.com/album/6KIjE0i0JM6fiM46YBUV8s) | 4:06 | 2023-04-14 |  |
 | [Weekends](https://open.spotify.com/track/7yqgtjcAV9TDDANthelCoU) | [Westkust](https://open.spotify.com/artist/6YXQAg2YzoPVppbDK7elYj) | [Last Forever](https://open.spotify.com/album/4jGKbW0UlcM89NRPVHDrwD) | 3:25 | 2023-01-04 | 2023-06-24 |
 | [What Does Moon Think](https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [What Does Moon Think](https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8) | 3:00 | 2023-06-23 |  |
-| [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-03-24 |  |
+| [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-03-24 |  |
+| [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-03-24 | 2023-07-12 |
 | [While My Waves Wonder](https://open.spotify.com/track/5ZIspcdRpVEp02SIagDyP0) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [While My Waves Wonder](https://open.spotify.com/album/14y51JzZl0GaKz19SNGcJM) | 4:25 | 2021-10-19 | 2022-07-28 |
 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 | 2022-01-14 | 2023-01-13 |
 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 | 2021-10-19 | 2023-06-08 |

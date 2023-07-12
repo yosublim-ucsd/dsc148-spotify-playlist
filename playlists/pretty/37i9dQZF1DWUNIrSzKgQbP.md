@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667,098 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,667,074 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 59 | [Paint Me](https://open.spotify.com/track/4ENQSmhYsS5kp4n1Ymi0Ah) | [Juniper](https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW) | [Paint Me](https://open.spotify.com/album/7oWChAVBRmb9dbLfIqGG62) | 3:45 |
 | 60 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
 
-Snapshot ID: `MCwzNTliYmI0ZmVmZDEzMDViMGJmZDY0ZDJmMWMxYzdkMzI3NTc5Mjk3`
+Snapshot ID: `MCw4NzAwZDhlZTYzNjU5MTY5Yjg0YmEwNTMwYzU5ZjFkOTJlOGZjNGYw`

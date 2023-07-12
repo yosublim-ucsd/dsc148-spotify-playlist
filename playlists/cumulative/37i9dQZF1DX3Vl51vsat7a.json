@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: southstar",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Florentina",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 155701,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN"
@@ -2940,6 +2940,24 @@
       "duration_ms": 173453,
       "name": "schwarzer Renault",
       "url": "https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm"
+    },
+    {
+      "album": {
+        "name": "Seit du da bist",
+        "url": "https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Seit du da bist",
+      "url": "https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85"
     },
     {
       "album": {

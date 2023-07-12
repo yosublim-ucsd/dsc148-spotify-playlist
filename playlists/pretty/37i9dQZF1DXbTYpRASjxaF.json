@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Coruja BC1, Mc Neguinho do Kaxeta",
-  "num_followers": 115092,
+  "num_followers": 115162,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRjZjJiZDdiYWFiZjFlOWRkN2QwZjc3Yzc3OGY2ZTQyMDdmMDc0",
+  "snapshot_id": "MCwxYjA2ZDYwNDA5ODBjM2JhNjkwZjgxYjNhYzJlYjE4YWMxMzg5OTMx",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1379,6 +1379,34 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Chandon",
+        "url": "https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T",
+          "url": "https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "Master Pe",
+          "url": "https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Chandon",
+      "url": "https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/0dY0vZoJRVyERfbLA6WBLn"
       },
@@ -1407,34 +1435,6 @@
       "duration_ms": 254117,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/62FjYIpr0spteyDRMCvtbm"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Chandon",
-        "url": "https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon"
-      },
-      "artists": [
-        {
-          "name": "B.L.U.N.T",
-          "url": "https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ"
-        },
-        {
-          "name": "Dalua",
-          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
-        },
-        {
-          "name": "Pior Vers\u00e3o de Mim",
-          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
-        },
-        {
-          "name": "Master Pe",
-          "url": "https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Chandon",
-      "url": "https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu"
     },
     {
       "added_at": "2023-07-07 03:01:00",

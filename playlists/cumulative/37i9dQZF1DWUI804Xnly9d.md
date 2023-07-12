@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 |  |
+| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 |  |
 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 | 2023-05-17 |  |
 | [Ab Kya Karen](https://open.spotify.com/track/45gLowg76AxVx2Q3Gfjy1Y) | [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Ehsaas](https://open.spotify.com/album/7bXn9yCtp6aPc7ADJLGyyu) | 2:44 | 2023-05-17 | 2023-07-06 |
 | [Ajib Dastan Hai Yeh \(Unplugged\)](https://open.spotify.com/track/0hVBdbXj1YmOSOct1rz3R9) | [Ananya Dwivedi](https://open.spotify.com/artist/5ArT9aXN7G2UAXqaKc69vu) | [Ajib Dastan Hai Yeh \(Unplugged\) \- Single](https://open.spotify.com/album/2t1xnQ9YDu1awbshgKv8JU) | 3:00 | 2023-05-17 | 2023-06-03 |

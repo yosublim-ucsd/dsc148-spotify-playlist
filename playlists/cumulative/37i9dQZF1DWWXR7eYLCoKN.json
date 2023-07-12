@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "album": {
+        "name": "Aquarela",
+        "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
+      },
+      "artists": [
+        {
+          "name": "KARINE",
+          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203907,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L"
     },
     {
       "album": {

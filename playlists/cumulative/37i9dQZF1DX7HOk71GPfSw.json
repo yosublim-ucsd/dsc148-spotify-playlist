@@ -6575,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "Coat I Would Buy",
+        "url": "https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84528,
+      "name": "Coat I Would Buy",
+      "url": "https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS"
+    },
+    {
+      "album": {
         "name": "Cobra",
         "url": "https://open.spotify.com/album/1lTKouMRssAu9PuIpgBx41"
       },

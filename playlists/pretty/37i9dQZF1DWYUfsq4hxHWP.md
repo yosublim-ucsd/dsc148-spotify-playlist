@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hayden Coffman, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,767 likes - 144 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,838 likes - 144 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Easy Loving You](https://open.spotify.com/track/1I26PP3fdWr9bLprXiEDq9) | [Ty Gregory](https://open.spotify.com/artist/5mbP0XZ8Hc4V8NVAln47FH) | [Easy Loving You](https://open.spotify.com/album/20yDYTxvYpRc8UOc6T6ixd) | 3:28 |
 | 75 | [Stayed A Summer](https://open.spotify.com/track/6vbesEByLl4HPeX71QMwBa) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 2:56 |
 | 76 | [Ain't Got Me](https://open.spotify.com/track/7d8JqzQ0DdP9A8AzTi5ScV) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Ain't Got Me](https://open.spotify.com/album/5BUAjvTeZn1g5lm6FoLXH3) | 2:26 |
-| 77 | [Infinity](https://open.spotify.com/track/5cstuZwjY2Sp4JQ1kxoo5r) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Infinity](https://open.spotify.com/album/38aKPjYOMX4Tm4DXg9IJuW) | 3:21 |
+| 77 | [Infinity](https://open.spotify.com/track/5cstuZwjY2Sp4JQ1kxoo5r) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Infinity](https://open.spotify.com/album/38aKPjYOMX4Tm4DXg9IJuW) | 3:20 |
 | 78 | [Back On A Beach](https://open.spotify.com/track/709HlOhYZOPxDHo2PrLOMu) | [Cole Bradley](https://open.spotify.com/artist/55NtSYlGBKRSmSlj8hsZge) | [Back On A Beach](https://open.spotify.com/album/2vjWkufxT4nIaWB0UZvsoU) | 2:57 |
 | 79 | [Blue Eyes](https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21) | [Brook Chivell](https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ) | [Blue Eyes](https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL) | 4:06 |
 | 80 | [the reason](https://open.spotify.com/track/4vSRIN8GhiH8IVDFvAOz5T) | [Brian Congdon](https://open.spotify.com/artist/5NZAhByB3ioa0qOWDEoCmT) | [the reason](https://open.spotify.com/album/6qeLE8a5hNnJpHOcgLDPFk) | 3:14 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 143 | [Everybody's Got One](https://open.spotify.com/track/1QhDqP1U54odU2rzZDJLPV) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Everybody's Got One](https://open.spotify.com/album/7t5cYhYaSq9L0guSffDdtl) | 2:47 |
 | 144 | [Fine Without You](https://open.spotify.com/track/178n3WsHFIPeSDZoS70QD2) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Fine Without You](https://open.spotify.com/album/3PStd97C3cl4A5D491RWgK) | 2:05 |
 
-Snapshot ID: `MCw3MzM5MWM4NzI0NzdmNDAxMDk5YTUzNjVmZWJhNDQ1YTBjMDM4YzUx`
+Snapshot ID: `MCwzYTJkODYxNmJhMDA1OTQ5ZWFiN2Y3MTAzM2ZhMzFhNmVjNjg4YmM5`

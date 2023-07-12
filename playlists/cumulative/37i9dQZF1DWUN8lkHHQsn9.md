@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Zamilska
 
-134 songs - 7 hr 42 min
+135 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Chłopaki z BMW](https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Chłopaki z BMW](https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi) | 2:50 | 2023-04-10 |  |
 | [Ciała Niebieskie](https://open.spotify.com/track/1vX60GfNMXm4ghISGo7QBe) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Ciała Niebieskie](https://open.spotify.com/album/6QHFF4bgTFpmy6aNMo6PLE) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 | 2023-06-07 |
-| [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 | 2022-06-01 |  |
+| [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 | 2022-06-01 | 2023-07-12 |
 | [Cloud 9](https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Cloud 9](https://open.spotify.com/album/6sGcAgeoGQnbSaiHo77leq) | 3:02 | 2023-03-10 |  |
 | [Czar](https://open.spotify.com/track/2sbSjNpFbHpVvgiJkDOA03) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Czar](https://open.spotify.com/album/6mbc9q7Kvg63UKFtTM4nbr) | 2:45 | 2021-06-22 | 2022-06-01 |
+| [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 | 2023-07-11 |  |
 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 | 2023-01-24 | 2023-06-01 |
 | [Dinozaury i kosmici](https://open.spotify.com/track/6uVAkbq5J7t3mLRrOJtiXI) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Dinozaury i kosmici](https://open.spotify.com/album/5jV4eT6gey4jo3Sr9e9ACL) | 3:57 | 2022-06-01 | 2022-06-14 |
 | [Disco Misery](https://open.spotify.com/track/1iLQsdcYcngz6yhhzMVkKG) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl) | [Disco Misery](https://open.spotify.com/album/1NNasTpxA0dCgVrGFk9C55) | 3:33 | 2021-06-22 | 2022-06-01 |

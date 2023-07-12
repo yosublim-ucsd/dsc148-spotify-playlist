@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-130 songs - 7 hr 22 min
+131 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Givin My Love \(Jerome Robins Remix\)](https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB) | [Mark Funk](https://open.spotify.com/artist/5zpDNufpzh8Hy6e1bQCABs), [Danny Cruz](https://open.spotify.com/artist/4BHDajMTeCvfxfoRBU8Qc3), [Jerome Robins](https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW) | [Givin My Love \(Jerome Robins Remix\)](https://open.spotify.com/album/3YCJGM6ZdvDREFhxjlQwec) | 4:48 | 2022-12-02 | 2023-04-29 |
 | [Glory \(feat\. Waajeed\) \- Floorplan Remix](https://open.spotify.com/track/0taSrEsqb3QiZPBRtPebFL) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Glory \(feat\. Waajeed\) \[Floorplan Remix\]](https://open.spotify.com/album/70Yl2gVcF5MzehZFKxTKtg) | 3:29 | 2023-07-07 |  |
 | [Go With It \- Edit](https://open.spotify.com/track/6jHMhIdISBhDVt0SdzsenG) | [Kim Kaos](https://open.spotify.com/artist/5gZ21jZBLA2iHh8oBTzmjB) | [Go With It](https://open.spotify.com/album/0rQOM7PU9rgXt5wpzpppGx) | 2:56 | 2023-05-19 |  |
+| [Heartbeat \- Edit](https://open.spotify.com/track/6wThTigROjongzvXEYnWGy) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [Monolitio](https://open.spotify.com/artist/0x1rHbs0sOJX8OIMDmCG6w) | [Heartbeat](https://open.spotify.com/album/7g9XwJAaiule80Wr7cqEtn) | 3:06 | 2023-07-11 |  |
 | [Heartbeat \- Ferreck Dawn Remix](https://open.spotify.com/track/4mSTPmCqktzNRnAx3BDODE) | [Marc Rousso](https://open.spotify.com/artist/5f04rilC9gS34hBTw1bYXm), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Heartbeat](https://open.spotify.com/album/2ZiddAyxM98xMHCu5pwuR5) | 2:54 | 2022-12-02 | 2023-04-09 |
 | [Helter Skelter](https://open.spotify.com/track/6c47kb1UyEDDK6r3EJu1Dj) | [Kokiri](https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv) | [Helter Skelter](https://open.spotify.com/album/5SimEb9VfV4K7GmeeLogha) | 2:52 | 2022-12-02 | 2023-04-29 |
 | [Hendrix Flow](https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Hendrix Flow](https://open.spotify.com/album/5xX0bfn9ncd9Q3OBxqEJBx) | 2:57 | 2023-03-01 |  |

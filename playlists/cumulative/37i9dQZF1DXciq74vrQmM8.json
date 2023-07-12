@@ -4159,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Kappacore",
+        "url": "https://open.spotify.com/album/389GYp97JplpHm1e44Hbgm"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72887,
+      "name": "HAMMER 2 THE FACE",
+      "url": "https://open.spotify.com/track/6fxL63j4NI3CSKJbDiaTkg"
+    },
+    {
+      "album": {
         "name": "Toilet",
         "url": "https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd"
       },
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 72887,
       "name": "HAMMER 2 THE FACE",
       "url": "https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl"

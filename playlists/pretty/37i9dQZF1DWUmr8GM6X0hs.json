@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 67747,
+  "num_followers": 67804,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTI4ZTI0MTVjODg5YzlkYTA1MjdiNWY5NWRlZjU1YzBjZTJjYTgy",
+  "snapshot_id": "MCwxNTYyMzI3ZjVmZDU0ZTAxZDM4ZTg1OGUwNGFiYzE1NDVkOTYzNDky",
   "tracks": [
     {
       "added_at": "2023-07-10 17:39:44",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-10 17:39:44",
       "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
-      },
-      "artists": [
-        {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
         "name": "Un Bolero un Vals",
         "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 384253,
       "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
       "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+    },
+    {
+      "added_at": "2023-07-10 17:39:44",
+      "album": {
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
       "added_at": "2023-07-10 17:39:44",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-07-10 17:39:44",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+    },
+    {
+      "added_at": "2023-07-10 17:39:44",
+      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 145426,
       "name": "Brujerias",
       "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     },
     {
       "added_at": "2023-07-10 17:39:44",

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 434117,
+  "num_followers": 434259,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmY2MTc3ZTUwYjBiYzU4Y2Y2YjlhN2JjYzc2NTBkY2JkNjE1YWVi",
+  "snapshot_id": "MCxhZDI5Njc4NWFmOTZlMjdkMDYyNzcyMTA4OWRlNjNhMTMwYjQ1NTNj",
   "tracks": [
     {
       "added_at": "2023-07-07 13:02:06",
@@ -379,22 +379,18 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "Deep Love",
-        "url": "https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs"
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
       },
       "artists": [
         {
-          "name": "Ash Lauryn",
-          "url": "https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g"
-        },
-        {
-          "name": "Stefan Ringer",
-          "url": "https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
         }
       ],
-      "duration_ms": 314000,
-      "name": "Deep Love",
-      "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
     },
     {
       "added_at": "2023-07-07 13:02:06",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
+        "name": "Deep Love",
+        "url": "https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs"
       },
       "artists": [
         {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+          "name": "Ash Lauryn",
+          "url": "https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g"
+        },
+        {
+          "name": "Stefan Ringer",
+          "url": "https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV"
         }
       ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
+      "duration_ms": 314000,
+      "name": "Deep Love",
+      "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
     },
     {
       "added_at": "2023-07-07 13:02:06",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "It's in My Ears",
-        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
-      },
-      "artists": [
-        {
-          "name": "Gallegos",
-          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "It's in My Ears",
-      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
-    },
-    {
-      "added_at": "2023-07-07 13:02:06",
-      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+        "name": "It's in My Ears",
+        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
       },
       "artists": [
         {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+          "name": "Gallegos",
+          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
         }
       ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+      "duration_ms": 245173,
+      "name": "It's in My Ears",
+      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
     },
     {
       "added_at": "2023-07-07 13:02:06",
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+    },
+    {
+      "added_at": "2023-07-07 13:02:06",
+      "album": {
         "name": "Heavy Tangled",
         "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
       },
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "Raw Cuts",
-        "url": "https://open.spotify.com/album/1L1vKtDOo3quuArwtcVDst"
+        "name": "Sloh Remixes",
+        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
       "artists": [
         {
-          "name": "Dave Dashur",
-          "url": "https://open.spotify.com/artist/2nXLmBDkeyD6aHCtdh8MHn"
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        },
+        {
+          "name": "Edamame",
+          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Raw Cuts",
-      "url": "https://open.spotify.com/track/4EREliOTaWHIrM7H1y9j0o"
+      "duration_ms": 225493,
+      "name": "Cami - Edamame Remix",
+      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
     },
     {
       "added_at": "2023-07-07 13:02:06",
@@ -851,26 +855,6 @@
       "duration_ms": 256695,
       "name": "Random Places",
       "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
-    },
-    {
-      "added_at": "2023-07-07 13:02:06",
-      "album": {
-        "name": "Sloh Remixes",
-        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        },
-        {
-          "name": "Edamame",
-          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Cami - Edamame Remix",
-      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
     },
     {
       "added_at": "2023-07-07 13:02:06",
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
+        "name": "Raw Cuts",
+        "url": "https://open.spotify.com/album/1L1vKtDOo3quuArwtcVDst"
+      },
+      "artists": [
+        {
+          "name": "Dave Dashur",
+          "url": "https://open.spotify.com/artist/2nXLmBDkeyD6aHCtdh8MHn"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Raw Cuts",
+      "url": "https://open.spotify.com/track/4EREliOTaWHIrM7H1y9j0o"
+    },
+    {
+      "added_at": "2023-07-07 13:02:06",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-07 13:02:06",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2023-07-07 13:02:06",
-      "album": {
         "name": "Polar Circle",
         "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
+    },
+    {
+      "added_at": "2023-07-07 13:02:06",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2023-07-07 13:02:06",

@@ -2,9 +2,9 @@
 
 ### [The Quintessential Quintuplets \-五等分の花嫁\-](https://open.spotify.com/playlist/37i9dQZF1DWX48bLeZRpmd)
 
-> Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©N,K/Q　©N,K/Q2　©N,K/GM
+> Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-103 songs - 7 hr 51 min
+107 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Gotoubun no Kimochi \- Pandaboy Five Flowers Dance Edit](https://open.spotify.com/track/6oAfira2qMlknBX1EIBeQ3) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:48 | 2022-05-24 |  |
 | [Gotoubun no Kiseki](https://open.spotify.com/track/2AwBIdLN9ctHkCLSAMh27c) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki](https://open.spotify.com/album/5Q8K6uKltxF0H7qR6CTnoI) | 4:09 | 2022-05-24 |  |
 | [Gotoubun no Kiseki](https://open.spotify.com/track/5oZsFAX68xtH8sH7Uw3G83) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki EP](https://open.spotify.com/album/6M4WXN4sIFOjJOSqXtw17M) | 4:09 | 2022-05-24 | 2022-11-13 |
+| [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 | 2023-07-11 |  |
 | [Hatsukoi](https://open.spotify.com/track/0Vv4N6r7A9KdPqbWou4z2h) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotobun no Katachi / Hatsukoi](https://open.spotify.com/album/4y9VcDuLW4l7xkumHWL4n6) | 5:14 | 2022-05-24 |  |
 | [Hatsukoi](https://open.spotify.com/track/2EmYHAfs1EecI4xz67P0TX) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi](https://open.spotify.com/album/7qXo4KEojDkNndoHFdXu8k) | 5:14 | 2022-05-24 | 2022-11-13 |
 | [Hatsukoi](https://open.spotify.com/track/6EnKh6904anMd7ACguRTZO) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 5:14 | 2022-05-24 | 2023-03-21 |
@@ -73,8 +74,10 @@
 | [きづいてよ \~One Love\~](https://open.spotify.com/track/3Vwk52rpGNFy84ui1IbCJs) | [中野一花\(CV:花澤香菜\)](https://open.spotify.com/artist/4iK6g2iaN8lRRuYhZnrpdA) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:14 | 2022-05-24 | 2022-07-29 |
 | [ごぶんのいち](https://open.spotify.com/track/0Zj8Yt8bzFajzsOTYLFcZh) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の気持ち](https://open.spotify.com/album/63hKE3ngVp5tVAaj2LqvNz) | 4:50 | 2022-05-24 | 2022-07-29 |
 | [ごぶんのいち \- PandaBoY Tropical House Edit](https://open.spotify.com/track/33JisBeW2wD7aRh3YslH0x) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 4:40 | 2022-05-24 | 2022-07-29 |
+| [たからもの](https://open.spotify.com/track/0JqY1wJ5jrMat0cfNUb0g5) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の未来](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:27 | 2023-07-11 |  |
 | [はつこい](https://open.spotify.com/track/46XLAVaH1gL1oRE1UyeFTP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分のカタチ/はつこい](https://open.spotify.com/album/2tipmDU5JevnaQU9a6Ft3o) | 5:14 | 2022-05-24 | 2022-07-29 |
 | [はつこい\-Strings&Piano Arrange\-](https://open.spotify.com/track/2zyiJOfz9kRo0JCZTU2qVC) | [Art Neco](https://open.spotify.com/artist/1JndB4VM5wqf4v0avKHdF2) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:36 | 2022-05-24 |  |
+| [わたしのヒーロー](https://open.spotify.com/track/5C0bi7yIo1SX5VMNJfghnz) | [上杉らいは\(CV:高森奈津美\)](https://open.spotify.com/artist/4XByshJlL07n4oYVtD5Ijo) | [五等分の未来](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:35 | 2023-07-11 |  |
 | [アイツとキミ\~二度とない運命\~](https://open.spotify.com/track/0vAYoHRJdqWgkYopKgPrfb) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [「五等分の花嫁」キャラクターソング ミニアルバム](https://open.spotify.com/album/2Z1Pg4QCi4ruqEhnfivyGc) | 3:42 | 2022-05-24 | 2022-07-29 |
 | [アイツとキミ\~二度とない運命\~ \- colate Round & Beat Edit](https://open.spotify.com/track/4wtf2STyx0kkVyNvcVsqwa) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 3:33 | 2022-05-24 | 2022-07-29 |
 | [トクベツなひと \~Lesson Five\~](https://open.spotify.com/track/4uA7ggo3b4tFYZJyL948Xg) | [中野五月\(CV:水瀬いのり\)](https://open.spotify.com/artist/58C4WyqTez7UV5LYWzWjzG) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:26 | 2022-05-24 | 2022-07-29 |
@@ -83,6 +86,7 @@
 | [ラブ☆バケーション](https://open.spotify.com/track/1MZgqsl36Q62i75zca3kYm) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 3:52 | 2022-05-24 | 2022-07-29 |
 | [一花のテーマ](https://open.spotify.com/track/2ml60gglsXtyHMGaoVTcIa) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:07 | 2022-05-24 |  |
 | [三玖のテーマ](https://open.spotify.com/track/6mtZfb9Nto4KM1OhWZPfnA) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:49 | 2022-05-24 |  |
+| [世界中たったひとつ](https://open.spotify.com/track/7D0qr2nyUkyNLpRTh8nhbP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の未来](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:46 | 2023-07-11 |  |
 | [二乃のテーマ](https://open.spotify.com/track/5psOUBSHQxviivw4CT5N9L) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:51 | 2022-05-24 |  |
 | [五つ子のテーマ](https://open.spotify.com/track/770khA1CgkIwfD045sYyl1) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:26 | 2022-05-24 |  |
 | [五つ子のテーマ\-家族愛\-](https://open.spotify.com/track/0cEUheRThVpKKciIut6LOe) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 2:05 | 2022-05-24 |  |

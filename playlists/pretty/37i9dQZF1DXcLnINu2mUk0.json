@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 35417,
+  "num_followers": 35459,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGE5ODRhMTQ1ZjI1MDIxMTY1M2ZlMjgwMzlkNWIxN2I2MTdiY2Vk",
+  "snapshot_id": "MCw1YTQ5ZTE5N2MxNDJjODBmYTMxOTkzMjFlOTE2MjdkMGU1YjE0YTc4",
   "tracks": [
     {
       "added_at": "2023-07-06 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
         "name": "Deepak Looper",
         "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 193492,
       "name": "Impec",
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
+        "name": "Sil\u00eancio",
+        "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
+      },
+      "artists": [
+        {
+          "name": "Gil Semedo",
+          "url": "https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
         "name": "A Minha Rua",
         "url": "https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 176000,
       "name": "Foca Em Mim",
       "url": "https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
-        "name": "Sil\u00eancio",
-        "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
-      },
-      "artists": [
-        {
-          "name": "Gil Semedo",
-          "url": "https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "Sil\u00eancio",
-      "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
     },
     {
       "added_at": "2023-07-06 23:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Maluca",
-        "url": "https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC"
-      },
-      "artists": [
-        {
-          "name": "D\u00b4Lucca",
-          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Maluca",
-      "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
-    },
-    {
-      "added_at": "2023-07-06 23:00:00",
-      "album": {
         "name": "Faz T\u00e3o Bem",
         "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 180403,
       "name": "Saltamos",
       "url": "https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6"
+    },
+    {
+      "added_at": "2023-07-06 23:00:00",
+      "album": {
+        "name": "Maluca",
+        "url": "https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Lucca",
+          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Maluca",
+      "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
     }
   ],
   "unique_name": "Seda",

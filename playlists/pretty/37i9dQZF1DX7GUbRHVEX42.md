@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023, curated by SPEXDABOSS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,822 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,927 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 59 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 |
 | 60 | [Die Without You](https://open.spotify.com/track/748P9eVUDKnT574TG4CGl5) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Don't Have To](https://open.spotify.com/album/51Z1DZLSPjt5fYflKfWrXL) | 4:08 |
 
-Snapshot ID: `MCxjOGVkZmJkY2MxMDQ3ZGJhNDU4OGRjN2UwNWY4ZWExNzRkYjk0NGJh`
+Snapshot ID: `MCwwMWE1ZjEyYmFkYTdhYTFkOTQxYmFiMjI4NmJjZDZhY2ViYzVkZWVh`

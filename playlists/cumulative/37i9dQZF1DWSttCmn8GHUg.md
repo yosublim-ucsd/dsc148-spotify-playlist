@@ -2,7 +2,7 @@
 
 ### [American Made](https://open.spotify.com/playlist/37i9dQZF1DWSttCmn8GHUg)
 
-> Zac Brown Band is taking over American Made to celebrate the 4th of July here on Spotify! 🇺🇸
+> Patriotic country songs celebrating the land of the free and the home of the brave.
 
 136 songs - 8 hr 14 min
 
@@ -14,7 +14,7 @@
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2021-11-12 |  |
 | [America](https://open.spotify.com/track/5CQVc3q2gQ9rnnFgyn84bU) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 3:45 | 2021-11-12 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 |  |
-| [America the Beautiful \- Live](https://open.spotify.com/track/7pQZoH6NuMCF5JGRLSO4Q5) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 1:41 | 2023-06-30 |  |
+| [America the Beautiful \- Live](https://open.spotify.com/track/7pQZoH6NuMCF5JGRLSO4Q5) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 1:41 | 2023-06-30 | 2023-07-12 |
 | [American by Birth](https://open.spotify.com/track/5TGg3uFXsVvsEJwAOCCXFw) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Heroes](https://open.spotify.com/album/6hMgnweGhql8JcZ85nq0Mb) | 2:32 | 2021-11-12 | 2022-04-04 |
 | [American Child](https://open.spotify.com/track/4e5YuvuzIgS8ZrAWpFrvOx) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Child](https://open.spotify.com/album/7a7o3iMmU7MtDJfJ3wZkOt) | 3:13 | 2021-11-12 | 2022-04-04 |
 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:19 | 2021-11-12 |  |
@@ -76,7 +76,7 @@
 | [Keep Her Breathing](https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Keep Her Breathing](https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI) | 4:02 | 2022-07-01 |  |
 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:23 | 2023-06-30 |  |
 | [Looking for America](https://open.spotify.com/track/32WGqV7YUfh2RmkeLWf2X7) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Looking for America](https://open.spotify.com/album/4QeN0f59QgvZ3AOl9WTaSK) | 3:40 | 2021-11-12 |  |
-| [Love and Sunsets](https://open.spotify.com/track/6RCq9dlYpOTfhu6OaVrK6X) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:40 | 2023-06-30 |  |
+| [Love and Sunsets](https://open.spotify.com/track/6RCq9dlYpOTfhu6OaVrK6X) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:40 | 2023-06-30 | 2023-07-12 |
 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 | 2021-11-12 |  |
 | [Makes Us Who We Are](https://open.spotify.com/track/5s6YgfXZKi4S2m87VtKsaZ) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Veterans Day Special, Vol\. II \(Patriots Playlist\)](https://open.spotify.com/album/35piOFgYpaTKeGulzXOJak) | 3:11 | 2021-11-12 |  |
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2021-11-12 |  |
@@ -139,7 +139,7 @@
 | [Where The Green Grass Grows](https://open.spotify.com/track/6MyusyuU2WhmXtraQXImIw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Where The Stars And Stripes And The Eagle Fly](https://open.spotify.com/track/1tTZM7LUDkxcykOVVIGW4W) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [Stars And Stripes](https://open.spotify.com/album/1mSzw5lUy0z6iIjBwkBmCK) | 3:48 | 2021-11-12 |  |
 | [Where Were You \(When the World Stopped Turning\)](https://open.spotify.com/track/3eSwvMfSA0Fyku6Ak5JEw0) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 5:05 | 2021-11-12 |  |
-| [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2023-06-30 |  |
+| [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2023-06-30 | 2023-07-12 |
 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 | 2021-11-12 |  |
 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-11-12 | 2022-09-19 |
 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-07-01 |  |

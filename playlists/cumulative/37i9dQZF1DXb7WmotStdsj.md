@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-159 songs - 13 hr 0 min
+160 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-03 | 2022-10-27 |
 | [GHAZALI](https://open.spotify.com/track/2LSRM5FkmDXXWQaVQ5SaLM) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/28hdmFb32V93d3Nt4gs6rP) | 5:04 | 2022-09-19 | 2022-10-31 |
 | [Ghazali \- Live](https://open.spotify.com/track/2lVjlg3ZAYsLuKlTxIhANZ) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Ghazali \(Live\)](https://open.spotify.com/album/3Jkrmbv3nLjOIaAYUdAax6) | 5:04 | 2022-10-03 | 2022-10-08 |
+| [Ghazali Habitou](https://open.spotify.com/track/6hhhkowroGbSLNlnuNM8fF) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina](https://open.spotify.com/artist/16xaDylgpAhxXn1nfWxsU6), [Nasreddine Hora](https://open.spotify.com/artist/5v9r8rYVvqOHnJzVUhA9hQ) | [Ghazali Habitou](https://open.spotify.com/album/4T3ywwlgzvYGC5Q0NZgePj) | 5:12 | 2023-07-11 |  |
 | [Ghbina Mora Ghbina](https://open.spotify.com/track/6VnRY3NS8IqE93MmXZSNDe) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ghbina Mora Ghbina](https://open.spotify.com/album/6C3JfZkinqjhUVmmuBEU9l) | 6:20 | 2022-09-20 | 2022-12-01 |
 | [Ghir Wahdi Mdamar](https://open.spotify.com/track/2K6B9NcxYnqwTzFmbjghUm) | [Cheb Mouiz](https://open.spotify.com/artist/2CgN8028PDOYbE4I0tMhZN) | [Ghir Wahdi Mdamar](https://open.spotify.com/album/3yAjMxvfCcH69wFsB9KY7e) | 7:29 | 2022-09-20 | 2022-12-01 |
 | [Haki Swalhek Haki](https://open.spotify.com/track/16ggzT3QSUDvyU2ZIC7W9z) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [DJ ILyas](https://open.spotify.com/artist/0I1NTt5GRa9pE7jT3q1KmP) | [Haki Swalhek Haki](https://open.spotify.com/album/7BsoFUPCQRWcLKOtZ63XND) | 3:24 | 2022-11-14 | 2022-11-21 |
@@ -160,7 +161,7 @@
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 |  |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 |  |
-| [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 |  |
+| [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 |  |
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |

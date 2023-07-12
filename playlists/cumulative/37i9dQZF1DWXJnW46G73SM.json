@@ -8287,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0632",
+        "url": "https://open.spotify.com/album/3bOClA68mnBD1lbcyd4XPR"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "\u0639\u0632",
+      "url": "https://open.spotify.com/track/6RN0ZW0fMbn2aeLzXVtc1S"
+    },
+    {
+      "album": {
         "name": "\u0639\u0634\u0627\u0646 \u0627\u0631\u0636\u064a\u0643",
         "url": "https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG"
       },
@@ -8414,7 +8432,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 203975,
       "name": "\u0641\u0642\u062a \u0641\u0648\u0642",
       "url": "https://open.spotify.com/track/0g56eM1URRrtNegnqrZQ9S"

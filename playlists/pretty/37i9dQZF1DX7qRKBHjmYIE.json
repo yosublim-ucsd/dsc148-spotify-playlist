@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Sinego",
-  "num_followers": 765111,
+  "num_followers": 765107,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODExNmUzMDdmMDU1YzJlNzUzMmI4ZTM0NTc1NGRlNmY1ZTU0NDhk",
+  "snapshot_id": "MCw3OGE1ODc4MTYyNDE2Yjg0N2NkMWI5OWE3MzJjZDBlOGQ4OGUxNTY3",
   "tracks": [
     {
       "added_at": "2023-07-07 16:29:52",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "Eterno Verano",
+        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
+      },
+      "artists": [
+        {
+          "name": "chimi",
+          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
+        },
+        {
+          "name": "Marie Gabrielle Blix",
+          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Eterno Verano",
+      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "No Eres Tu Soy Yo",
         "url": "https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2"
       },
@@ -899,22 +919,18 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Eterno Verano",
-        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
+        "name": "S\u00ed o No?",
+        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
       },
       "artists": [
         {
-          "name": "chimi",
-          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
-        },
-        {
-          "name": "Marie Gabrielle Blix",
-          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Eterno Verano",
-      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
+      "duration_ms": 181133,
+      "name": "S\u00ed o No?",
+      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -1051,22 +1067,6 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "S\u00ed o No?",
-        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
-      },
-      "artists": [
-        {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "S\u00ed o No?",
-      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
     },
     {
       "added_at": "2023-07-07 16:29:52",

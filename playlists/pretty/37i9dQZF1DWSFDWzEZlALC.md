@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,709 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,948 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fahrradstraße](https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Fahrradstraße](https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l) | 2:24 |
 | 75 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 
-Snapshot ID: `MCwxMjliMzMyYTlkNGQwOGVkZGYxYmUxZTM2MjViZjUxMTE1ODVkZDQ4`
+Snapshot ID: `MCwyYzAzYjgxMGFiOWQwM2Y3MjI5MjgyZDRhMGIyZmQ3NWE0ZjYxOWE5`

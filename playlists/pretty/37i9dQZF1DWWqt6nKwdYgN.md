@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Toser One, Dharius, Lefty SM y Tiro Loko  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,957 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,977 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 39 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 |
 | 40 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 |
 | 41 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 |
-| 42 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P.Jaguar](https://open.spotify.com/artist/18wFDmiW5C9u5Dq7DuA2eI) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
+| 42 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
 | 43 | [Blindaje](https://open.spotify.com/track/6zXEI6HMpDFeqB8diVF1ZD) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Blindaje](https://open.spotify.com/album/3SQOexJB3i1HxOF9kN2GOS) | 3:00 |
 | 44 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
 | 45 | [Bueno Pa Lo Malo](https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Bueno Pa Lo Malo](https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt) | 6:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 100 | [Leyendas Urbanas](https://open.spotify.com/track/4dDofP6HpYPAqJmYBeYfHs) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Leyendas Urbanas](https://open.spotify.com/album/5OmXbLjATSwGq0x8fpyXa8) | 3:14 |
 | 101 | [PALO SANTO](https://open.spotify.com/track/2iu2Ozrm9ebrF4QbeA8J3d) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [PALO SANTO](https://open.spotify.com/album/0fVvlm6dL6M2GLqOvaQ86v) | 3:22 |
 
-Snapshot ID: `MCwzMDUxNjcxNWJmMGJmMGQzNTA1NDk0YmM4NGE1OGRhNDNjNzQ0NTMy`
+Snapshot ID: `MCxmNTBlYjFmODZjMjAwNTExZWI1NDllZDQ2MDYzYzg5Y2MxOTIwNDA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=GYzY\-qD7QNOnzqWnz6bMKw"> Taves </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,655 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,674 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 99 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 |
 | 100 | [3AM in Labadi](https://open.spotify.com/track/517uedTKznqWBa5zHytoee) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1) | [3AM in Labadi](https://open.spotify.com/album/2pdfsIk3SrG7uKdGAmvzfq) | 2:40 |
 
-Snapshot ID: `MCxmZWFjZjJkMTQ3ZmFmYTk5Yjg3OWQ3MTg5ZDg0NjQwYWM2MmQ2M2Zi`
+Snapshot ID: `MCxkNmNmZDc1YTQ2MWZkZDhiZjkwYjg4NjVhZWM2OTI4YjNmMjA4ZjJm`

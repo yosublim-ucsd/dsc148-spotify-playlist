@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-39 songs - 3 hr 9 min
+41 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Crazy For Love](https://open.spotify.com/track/558oj1bbmSjG4vFOPoFL9l) | [Dusty](https://open.spotify.com/artist/2XnJjc7ZkxzCaGdtfMeIlc) | [Super Eurobeat Vol.181](https://open.spotify.com/album/3UIA9tSR07zPn3sKytQxLI) | 4:54 | 2022-05-24 |  |
 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 | 2022-05-24 |  |
 | [DEJA VU](https://open.spotify.com/track/6CRtIYDga4VKW5sV5rfAL3) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:20 | 2022-05-24 |  |
+| [DEJA VU \- Yuta Imai Remix](https://open.spotify.com/track/7xGdck3GbTSk7b3uSFQ91w) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DEJA VU \(Yuta Imai Remix\)](https://open.spotify.com/album/24aoHrgiGdSC6JSwxR55rM) | 3:02 | 2023-07-11 |  |
 | [DON'T STOP THE MUSIC](https://open.spotify.com/track/1Pd1zzDTp8G32vnSLWIlbI) | [Lou Grant](https://open.spotify.com/artist/35hyeD723SqEPzvWTZyeyU) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 | 2022-05-24 |  |
 | [Express Love](https://open.spotify.com/track/1LZXIeVaxA6AoawnXoCrNY) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [Super Eurobeat Vol.121](https://open.spotify.com/album/1j9WtCMxwNE6eB25a3Xyoc) | 4:00 | 2022-05-24 |  |
 | [Forever Young](https://open.spotify.com/track/174pQxS09teGsZjeUgPSOw) | [Symbol](https://open.spotify.com/artist/4E7xqBHcGk2IzqxWfU8T3q) | [Super Eurobeat Vol.145](https://open.spotify.com/album/6xq4z1lsQOIPR1N9P3tapQ) | 4:05 | 2022-05-24 |  |
@@ -41,6 +42,7 @@
 | [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 | 2022-05-24 |  |
 | [SCRAMBLE EYES](https://open.spotify.com/track/37cSzvBW0363UMwg4pOIGj) | [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk), [A\-One](https://open.spotify.com/artist/6fhECpcjjpePBtGwTbVn6B) | [SCRAMBLE EYES](https://open.spotify.com/album/64ed3RytU7vmzSFS8WFuJR) | 4:08 | 2022-05-24 |  |
 | [SPACE BOY](https://open.spotify.com/track/4P9oqOrFDijZRN7TWP4OUZ) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:56 | 2022-05-24 |  |
+| [SPACE BOY \- feat\. MOTSU](https://open.spotify.com/track/7mogXiwfyDlSp5pyO31zfR) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [SPACE BOY \(feat\. MOTSU\)](https://open.spotify.com/album/09DSKsiXa71yFjxKk5jfGs) | 4:23 | 2023-07-11 |  |
 | [SPEEDY SPEED BOY](https://open.spotify.com/track/4UwmHaExaKIqodksotaoo3) | [Marko Polo](https://open.spotify.com/artist/4acqj1P10gUoGNQetcogFv) | [SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 5:56 | 2022-05-24 |  |
 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 | 2022-05-24 |  |
 | [THE RACE OF THE NIGHT](https://open.spotify.com/track/5a4hArSlv7i3784T7YJKaq) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:43 | 2022-05-24 |  |

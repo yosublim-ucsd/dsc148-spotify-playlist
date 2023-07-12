@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-837 songs - 2 day 6 hr 56 min
+838 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,8 @@
 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 | 2023-01-27 |  |
 | [Scab](https://open.spotify.com/track/5ntc7RlZu43qOqNsHfEseg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/74qi2MyJ2r82E283Uswsih) | 3:47 | 2021-04-02 | 2022-04-20 |
 | [Scarecrow](https://open.spotify.com/track/2XhDgAUM1rS7vjsfxZuVOy) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Scarecrow](https://open.spotify.com/album/2xPhotQpUe565CYiI07aFx) | 5:17 | 2021-04-02 | 2022-04-15 |
-| [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 | 2023-05-05 |  |
+| [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 | 2023-05-05 | 2023-07-12 |
+| [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-05 |  |
 | [Schedule](https://open.spotify.com/track/1MpAPtGwhH1zagZwpQ7a6r) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Schedule](https://open.spotify.com/album/3YuYutAkjm9WsxG53Sek6u) | 4:14 | 2021-04-02 | 2022-04-19 |
 | [Seize the Day](https://open.spotify.com/track/0zyJIiJw64jCFAqpZGT7vE) | [Blac Rabbit](https://open.spotify.com/artist/0UvgR4VckgdEkBhTOjxwCc) | [Seize the Day](https://open.spotify.com/album/08DK7K5Z1uwDObLOKzMca1) | 5:02 | 2021-04-02 | 2022-04-21 |
 | [Sense](https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 3:30 | 2022-07-22 | 2023-04-29 |

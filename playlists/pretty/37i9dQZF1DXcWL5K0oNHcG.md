@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,412 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,441 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 25 | [The Girl In Blue](https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf) | [Sci\-Clone](https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs), [A Sides](https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [The Girl In Blue](https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E) | 6:03 |
 | 26 | [Intertwined](https://open.spotify.com/track/20F70y7O2HhCFbzicxPV7g) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Intertwined](https://open.spotify.com/album/1MrxDXyXLKjllnKehm1BbD) | 4:09 |
 | 27 | [Weird Funk Wout Lyrics](https://open.spotify.com/track/7oN2Jvf4lbXH3cH65kGnZf) | [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw), [Federico Malaman](https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x) | [Weird Funk Wout Lyrics](https://open.spotify.com/album/7uxDlk7wwJHrKf78JNMZ6j) | 1:35 |
-| 28 | [Empire](https://open.spotify.com/track/5g47JrPGgLMDO3dIXSbf8m) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 3:51 |
+| 28 | [Empire](https://open.spotify.com/track/50pEHyqj8tNXiEmWcXjTKY) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Living High in the Brass Empire](https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB) | 3:51 |
 | 29 | [Tower of Liars](https://open.spotify.com/track/5pAnfRUSaklr3KZBrzKFAl) | [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Tower Of Liars](https://open.spotify.com/album/6aWIJx0iBPs0PbuWWKD1d2) | 6:02 |
 | 30 | [Middle Ground](https://open.spotify.com/track/2O6SDo3uFiZMLt2GLtTvWI) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl) | [Middle Ground](https://open.spotify.com/album/06ax9zTM5EG28UyJHWdcJ5) | 6:36 |
 | 31 | [On the Other Side](https://open.spotify.com/track/41uzGdULkfO33YjY5QAe7O) | [Dee Byrne](https://open.spotify.com/artist/1JbY6VyyZE1qfHp2fXpMVt) | [On the Other Side](https://open.spotify.com/album/13hiwu3h80VxxLOuWSABCX) | 8:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 79 | [City Lights](https://open.spotify.com/track/6NS7YL5uQHbBGV7yqMfX4W) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [nate](https://open.spotify.com/artist/3PxzSlDM4b2YYCLNLXEXhK), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Howard](https://open.spotify.com/artist/21NIgabQhP1v1spdtkQwKN) | [City Lights](https://open.spotify.com/album/6PZDMVRldEyBVFUx6VtsVx) | 2:29 |
 | 80 | [Venango](https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK) | [The Dam Jawn](https://open.spotify.com/artist/7dzbcGQjhmLwoPTOBeZDid), [Dick Oatts](https://open.spotify.com/artist/6HAwEMXs6wBDDAY3MDuo8i) | [Master St.](https://open.spotify.com/album/3kxUnjjRa5Jjr0G4C06Pqp) | 5:32 |
 
-Snapshot ID: `MCxiYTYzOGM4MjA3ZWE2ZmNhNTVjMWQ4NDc0OTRlNWVkNDVjMmQxZDIx`
+Snapshot ID: `MCwzMDJiNjA5YjgzYTYyNTg3MDJiMDhjNjY3ZmI3YzgzMmI1NDU2MDBi`

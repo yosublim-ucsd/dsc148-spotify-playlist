@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Zeynep Bastık
 
-825 songs - 1 day 20 hr 4 min
+826 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Bile Bile Lades](https://open.spotify.com/track/3wZELDWk9p8RD8jIpBOs63) | [Suzet](https://open.spotify.com/artist/38AyHbljCz6Er3RC2p9ekA) | [Bile Bile Lades](https://open.spotify.com/album/2dg8xih54RKVFslduO10Zg) | 2:07 | 2022-08-02 | 2022-08-10 |
 | [bilir misin?](https://open.spotify.com/track/3z7UKvTS32tQVmM9B4Xf9t) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [bilir misin?](https://open.spotify.com/album/26nNwKU1DDcjAWezrLfiYI) | 2:07 | 2022-07-05 | 2022-08-03 |
 | [Bilmece](https://open.spotify.com/track/6VnlPmnjl9UvjVmBI29Gh0) | [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Bilmece](https://open.spotify.com/album/0X1UgZeKrgpgj44tJWaPkj) | 3:35 | 2022-11-30 | 2023-01-04 |
-| [Bilmece](https://open.spotify.com/track/3QpamXd1c9a8ffQVy7eAoy) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [Bilmece](https://open.spotify.com/album/4ZCzwhbGgHAq0ZRY6rFqAM) | 2:56 | 2023-07-04 |  |
+| [Bilmece](https://open.spotify.com/track/0uMEngiuzLd14kiN8hrpyw) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [Bilmece](https://open.spotify.com/album/42AvlbajEnSNJPi9oazjEL) | 2:56 | 2023-07-04 |  |
+| [Bilmece](https://open.spotify.com/track/3QpamXd1c9a8ffQVy7eAoy) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [Bilmece](https://open.spotify.com/album/4ZCzwhbGgHAq0ZRY6rFqAM) | 2:56 | 2023-07-04 | 2023-07-12 |
 | [Bilmece](https://open.spotify.com/track/13c4tXfIQDetXjsiH9OPTA) | [Ekin Ekinci](https://open.spotify.com/artist/0A5Q33lqavDugneEXFHPy1) | [Bilmece](https://open.spotify.com/album/2nW5JeZ2bqxtTeGWxG4ayc) | 2:28 | 2023-07-04 |  |
 | [Bin Dereden Su Getirsem](https://open.spotify.com/track/0n3DmipII2PceKFbMx3IQN) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Bin Dereden Su Getirsem](https://open.spotify.com/album/3ywlbhRwDT6mQTYyqgXYeb) | 4:12 | 2023-01-03 | 2023-02-01 |
 | [Bir Ateşe Attın Beni](https://open.spotify.com/track/2PMapmxvMFp433esl0m6JD) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Bir Ateşe Attın Beni](https://open.spotify.com/album/6XtwBOvkjs4GRsWnfq3yrE) | 3:45 | 2022-11-01 | 2022-12-01 |

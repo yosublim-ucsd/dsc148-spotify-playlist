@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ $uicide Gvng in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,234 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,255 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SUMMERSAD 4](https://open.spotify.com/track/153mTpcY4kLe2PBS0wnvMF) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [SUMMERSAD 4](https://open.spotify.com/album/4bb6rIjGtgEzAOkHJBcEfC) | 2:59 |
-| 2 | [MI SPIACE MA È NO Feat\. DARRN \(lui bravissimo io urlo e basta\)](https://open.spotify.com/track/237FG3JiayYXagJ0Eb9qjC) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [TITOLO PROVVISORIO](https://open.spotify.com/album/32dfx6NuDgeTHhqK0E8leD) | 1:58 |
-| 3 | [L'ULTIMA VOLTA](https://open.spotify.com/track/3B28V6xFQTS2nFRvdxmk7Q) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [L'ULTIMA VOLTA](https://open.spotify.com/album/1cgukdJeBk5mArjUKDh0jA) | 2:40 |
+| 2 | [L'ULTIMA VOLTA](https://open.spotify.com/track/3B28V6xFQTS2nFRvdxmk7Q) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [L'ULTIMA VOLTA](https://open.spotify.com/album/1cgukdJeBk5mArjUKDh0jA) | 2:40 |
+| 3 | [MI SPIACE MA È NO Feat\. DARRN \(lui bravissimo io urlo e basta\)](https://open.spotify.com/track/237FG3JiayYXagJ0Eb9qjC) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [TITOLO PROVVISORIO](https://open.spotify.com/album/32dfx6NuDgeTHhqK0E8leD) | 1:58 |
 | 4 | [Meteoropatica](https://open.spotify.com/track/6vdQV0iH7Fd362gxre1Z6n) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [Meteoropatica](https://open.spotify.com/album/6RoZYsfkh3A3P2nXS3G3mb) | 2:50 |
 | 5 | [Toglimi gli occhi di dosso](https://open.spotify.com/track/3pcEKyqqAYDkYRVv3juqaI) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Toglimi gli occhi di dosso](https://open.spotify.com/album/23YUmFrjGMfqqpgbo7W4bR) | 2:02 |
 | 6 | [SCUSAMI MARTINA](https://open.spotify.com/track/5ZRtXf6Fsb4dzhRMpfTlLF) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [CASA DI FABIO](https://open.spotify.com/album/1siXMwXdG9uIAjiCre0EJy) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 80 | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF) | 2:22 |
 
-Snapshot ID: `MCxhN2E3MzI5NGQ5ODU2M2Q4MjRjMzM1ZDdmYzkzNWIwN2E3MmY0NDRi`
+Snapshot ID: `MCxmYjA3MTVmMzMzNTM2NDYzYWMwNjVkNDBjY2ZhODY2ODQ3Zjg2NmVk`

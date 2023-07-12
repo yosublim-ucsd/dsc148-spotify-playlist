@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,428 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,518 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 49 | [ON GOD \(feat\. Young Thug\)](https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:10 |
 | 50 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/3SEd8nPd8MpGwk6ZZ8tk2j) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/album/6oEICQkozJ4HRWsetBGUl7) | 4:34 |
 
-Snapshot ID: `MjgxNDk4NzMsMDAwMDAwMDAwNDVkNWI1Yzg4NjIwOWQ1MDU4ZmZhYzYyNzRiNWZhYg==`
+Snapshot ID: `MjgxNTEzMzMsMDAwMDAwMDAwZTZkMmFmNjI5YjI3MTUzYjVhOTQxOGRlZjQ4YjNkMQ==`

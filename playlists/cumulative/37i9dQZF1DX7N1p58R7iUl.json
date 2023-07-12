@@ -820,6 +820,32 @@
     {
       "album": {
         "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7g9XwJAaiule80Wr7cqEtn"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "Monolitio",
+          "url": "https://open.spotify.com/artist/0x1rHbs0sOJX8OIMDmCG6w"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Heartbeat - Edit",
+      "url": "https://open.spotify.com/track/6wThTigROjongzvXEYnWGy"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2ZiddAyxM98xMHCu5pwuR5"
       },
       "artists": [

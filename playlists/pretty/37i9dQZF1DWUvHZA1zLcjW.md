@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,030 likes - 105 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,606 likes - 105 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 17 | [Homebound](https://open.spotify.com/track/1YC73UseIZ9AjZ3bkh7YoM) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [DAWN](https://open.spotify.com/album/3AIuVXMYIVziYMYM7UxW2h) | 2:02 |
 | 18 | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc) | 2:34 |
 | 19 | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dong Hyek Lim](https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP) | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA) | 2:54 |
-| 20 | [Movement 7 \- Instrumental](https://open.spotify.com/track/5KCUSNueB7hssdiYyGU2Pf) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Folded Landscapes](https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD) | 3:08 |
+| 20 | [Movement 7 \- Instrumental](https://open.spotify.com/track/5KCUSNueB7hssdiYyGU2Pf) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Folded Landscapes](https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD) | 3:08 |
 | 21 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 | 22 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto \(Arr\. for String Quartet by Paul Cassidy\)](https://open.spotify.com/track/3pBa3CHryvHZDNen6WGLdG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Brodsky Quartet](https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf) | [Beethoven: Adagio sostenuto from Moonlight Sonata](https://open.spotify.com/album/59PpnewlzIfo66v63NINQL) | 6:43 |
 | 23 | [3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/track/7msmTNDbP3QWWuevPxcm48) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Schumann: 3 Romanzen, Op\. 28: No\. 2 in F\-Sharp Major \(Einfach\)](https://open.spotify.com/album/6htHyNPaA17MvKl3khcPyA) | 3:50 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 104 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 105 | [Peer Gynt Suite No\. 2, Op\. 55: IV\. Solveig's Song](https://open.spotify.com/track/6XNxVEWV0NiBaJZpUjIVHa) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Grieg: Peer Gynt, Suite No\. 1, Op\. 46 / Suite No\. 2, Op\. 55 / Holberg Suite, Op\. 40](https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ) | 5:11 |
 
-Snapshot ID: `MCw4NGZhYTdkOTNlOThhY2VjNDA0ZmVmMGM3NDA5YmNlMWQ2NTljNTY3`
+Snapshot ID: `MCw4NDBhNTFiMDM3ZDM4ZDQxZjdhNDI5MTgyNTZiZjZkOWFlMjAzZTJh`

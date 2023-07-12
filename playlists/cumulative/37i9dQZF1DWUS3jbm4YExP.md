@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-563 songs - 1 day 16 hr 57 min
+564 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-26 | 2022-11-26 |
 | [Electricity](https://open.spotify.com/track/5buZzOIWj7gTwsgTlUePu2) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Electricity](https://open.spotify.com/album/0TJe1zaoMElWrLSIhmSyKL) | 4:47 | 2023-01-03 | 2023-03-18 |
 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 | 2021-10-06 | 2022-07-22 |
-| [Empire](https://open.spotify.com/track/5g47JrPGgLMDO3dIXSbf8m) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 3:51 | 2023-06-02 |  |
+| [Empire](https://open.spotify.com/track/50pEHyqj8tNXiEmWcXjTKY) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Living High in the Brass Empire](https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB) | 3:51 | 2023-06-02 |  |
+| [Empire](https://open.spotify.com/track/5g47JrPGgLMDO3dIXSbf8m) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 3:51 | 2023-06-02 | 2023-07-12 |
 | [Enjoy Your Life](https://open.spotify.com/track/17bOaBhRJUI7kobIhukvdC) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:16 | 2021-10-06 | 2022-07-28 |
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2022-04-17 |  |
 | [Enlevez\-moi ça](https://open.spotify.com/track/49AjaOxHXX3AOAGnyTbC1x) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 5:14 | 2021-10-06 | 2022-06-28 |

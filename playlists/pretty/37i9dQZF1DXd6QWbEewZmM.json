@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 234783,
+  "num_followers": 234997,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJjMDNmZTliNWNkYjE2N2YzOTlmZGNhZTMyZDIwZDc2NWJlYThk",
+  "snapshot_id": "MCwwYWRiZDBlNjdkNzkzYWY1YjFiOTY0ODRmYjAwZWM5ZDVmZTZkMWFm",
   "tracks": [
     {
       "added_at": "2023-07-03 20:41:06",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/6L1hlpfrcjrmLtvGNuvD7m"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 146104,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/1o9CgYe7ns8DCOVY1uaaRq"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Superando...y Mas",
         "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 260364,
       "name": "Superando",
       "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/6L1hlpfrcjrmLtvGNuvD7m"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 146104,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/1o9CgYe7ns8DCOVY1uaaRq"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "2 De La",
-        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
+        "name": "Perdido en el Tiempo",
+        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
       },
       "artists": [
         {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
         }
       ],
-      "duration_ms": 190789,
-      "name": "2 De La",
-      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
+      "duration_ms": 116758,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1567,34 +1567,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Perdido en el Tiempo",
-        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
+        "name": "2 De La",
+        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
       },
       "artists": [
         {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
         }
       ],
-      "duration_ms": 116758,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Tony",
-      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
+      "duration_ms": 190789,
+      "name": "2 De La",
+      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 205634,
       "name": "Eres Tu / </3",
       "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Tony",
+      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Si\u00e9ntelo a Tu Modo",
-        "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        },
-        {
-          "name": "Gabino Montalvo",
-          "url": "https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6"
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 224738,
-      "name": "La \u00danica",
-      "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
+      "duration_ms": 191005,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

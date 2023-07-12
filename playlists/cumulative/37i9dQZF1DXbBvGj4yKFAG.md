@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-178 songs - 9 hr 35 min
+179 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Yellow](https://open.spotify.com/track/36Owb6DDJbBFXi86x3X61z) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Healing Process](https://open.spotify.com/album/7k3PdFJ8APzpSCwptwI9cT) | 2:14 | 2023-02-09 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2023-02-09 | 2023-04-12 |
 | [You don't even know who I am](https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [You don't even know who I am](https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl) | 4:04 | 2023-06-30 |  |
-| [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 | 2023-04-11 |  |
+| [You Know](https://open.spotify.com/track/5q2tAmpIhk2gzCuXlBgbZk) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/1OP8n91DWrkwBQw4L9vrli) | 3:17 | 2023-04-11 |  |
+| [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 | 2023-04-11 | 2023-07-12 |
 | [you without me](https://open.spotify.com/track/5n40TTgoENVfNj9sfMhM9N) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [julietta star](https://open.spotify.com/artist/63mnXo3QJOX6MjW3yj6VQW) | [you without me](https://open.spotify.com/album/3DSzE2XUYgBCof4KFAc9qp) | 3:46 | 2023-06-02 |  |
 | [you're not the one that i want](https://open.spotify.com/track/4qj1tji798varSboYl713s) | [Nouns](https://open.spotify.com/artist/54pzZYU7PNFAN1O5H715fk) | [still bummed](https://open.spotify.com/album/0TmbsFrbOcvrBXLZkVGRru) | 3:12 | 2023-02-09 | 2023-05-17 |
 

@@ -12035,6 +12035,32 @@
     },
     {
       "album": {
+        "name": "Nairobi",
+        "url": "https://open.spotify.com/album/3UsbuomsvSRDTY4GckktmJ"
+      },
+      "artists": [
+        {
+          "name": "DJ PEREIRA",
+          "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
+        },
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192856,
+      "name": "Nairobi",
+      "url": "https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl"
+    },
+    {
+      "album": {
         "name": "Narcisista",
         "url": "https://open.spotify.com/album/2ZSnToeefWQMvQmzGw4jH7"
       },
@@ -16514,7 +16540,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 271750,
       "name": "Si Quieres - Edici\u00f3n Especial",
       "url": "https://open.spotify.com/track/16ZqRiXGgYOOWGseclBz8z"

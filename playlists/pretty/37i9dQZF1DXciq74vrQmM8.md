@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. laurel smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,577 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,716 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 67 | [Drag Me To Hell](https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Gut Feeling](https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj) | 2:57 |
 | 68 | [anything u want](https://open.spotify.com/track/4iV9i4oVWpJdwnI86VPh5o) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/73CV9zUvuDoKWkBCnBFzIV) | 2:26 |
 | 69 | [Everybody Just Wants To](https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Everybody Just Wants To](https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU) | 2:26 |
-| 70 | [HAMMER 2 THE FACE](https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 1:12 |
+| 70 | [HAMMER 2 THE FACE](https://open.spotify.com/track/6fxL63j4NI3CSKJbDiaTkg) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Kappacore](https://open.spotify.com/album/389GYp97JplpHm1e44Hbgm) | 1:12 |
 | 71 | [Playboy / Positions](https://open.spotify.com/track/28Wxt7U3ixliz9qsLHeYfY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Playboy / Positions](https://open.spotify.com/album/55PS8jiGvSsdruBpXzVNDi) | 2:34 |
 | 72 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 |
 | 73 | [rabits](https://open.spotify.com/track/4qvbRrllcG2X0XKspPImWT) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [rabits](https://open.spotify.com/album/1qofpxvy6FZxiSeECIRHWr) | 2:06 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
 | 79 | [parasite](https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [parasite](https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm) | 3:33 |
 
-Snapshot ID: `MCxmMGNkMGUyZmZkNjNkYWZjN2IwZjE3MWNjNzA2MzNlZDUwYTk0ZDEy`
+Snapshot ID: `MCw2ODM0NWExMzNiODlkN2U5Nzg0ZTIyYzkzODFjMDkzYTQ0OGQzYzNm`

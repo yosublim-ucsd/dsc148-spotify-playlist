@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\u001dJOO SEOL OK(\uc8fc\uc124\uc625)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\u001dKim Min Seok(\uae40\ubbfc\uc11d)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 256640,
       "name": "After the uphill road",
       "url": "https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "album": {
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
@@ -2352,6 +2370,24 @@
       "duration_ms": 256790,
       "name": "Heartless Word \ubc18\ub300\ub9d0",
       "url": "https://open.spotify.com/track/3fhBh2F7kx1Cg8etl0soSj"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq"
     },
     {
       "album": {
@@ -3591,6 +3627,28 @@
     },
     {
       "album": {
+        "name": "love is everything",
+        "url": "https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d"
+      },
+      "artists": [
+        {
+          "name": "Jeon Gunho",
+          "url": "https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX"
+        },
+        {
+          "name": "U-Rim",
+          "url": "https://open.spotify.com/artist/4ULMN5yWXAK57P2mlJkJJI"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216635,
+      "name": "love is everything (Feat. U-Rim)",
+      "url": "https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO"
+    },
+    {
+      "album": {
         "name": "Love is painful",
         "url": "https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV"
       },
@@ -3602,7 +3660,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 261092,
       "name": "Love is painful",
       "url": "https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk"
@@ -6510,7 +6568,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 272026,
       "name": "What If",
       "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
@@ -6658,7 +6716,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 227897,
       "name": "Where To Go",
       "url": "https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ"
@@ -6922,6 +6980,24 @@
       "duration_ms": 283906,
       "name": "YOU TOUCHED MY HEART",
       "url": "https://open.spotify.com/track/4TIRSAavwjGMWL8Rrzucx6"
+    },
+    {
+      "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "album": {

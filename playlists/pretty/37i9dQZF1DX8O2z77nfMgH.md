@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,038 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,097 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 9 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 |
 | 10 | [Fiesta Loca](https://open.spotify.com/track/0cs3YvJsZNpEfzNrCl4Pl4) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Fiesta Loca](https://open.spotify.com/album/4nofEwomkQ5V2SO7enHqgI) | 3:15 |
 | 11 | [La Gringa](https://open.spotify.com/track/0ZY0sbpm4AZxdz80XMi4aP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [La Gringa](https://open.spotify.com/album/3F8kWUZ7qYqFCrr37PRkB1) | 6:16 |
-| 12 | [La Parranda \- RMX](https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Blessd](https://open.spotify.com/artist/2Z5mnZwec14UKyifnS4Dhd) | [La Parranda \(RMX\)](https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P) | 3:00 |
+| 12 | [La Parranda \- RMX](https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Parranda \(RMX\)](https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P) | 3:00 |
 | 13 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 |
 | 14 | [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 |
 | 15 | [Bohemian Rhapsody](https://open.spotify.com/track/57CCvAyUPTleAj9X07xP2t) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Bohemian Rhapsody](https://open.spotify.com/album/1Zxzxb6Bd6UBwixhklnYta) | 2:28 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Keep Stepping](https://open.spotify.com/track/7Fs0TYkdrk4E46IdWHDGim) | [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Soul Glow](https://open.spotify.com/album/17lIm26ljC86dEhcBDf0Rs) | 4:04 |
 | 50 | [Caos](https://open.spotify.com/track/70EinsQyB0rxfvtCuqhqFr) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Caos](https://open.spotify.com/album/3e7A0tT3QQPLZjNVvPxcmt) | 3:47 |
 | 51 | [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 |
-| 52 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/0zzQaay3HAzltZjDTRP9sN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/2xTads2t8xoKGxeU1hW1yF) | 2:33 |
+| 52 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/1V4l4h7kYaKyXJk74g6ilu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp) | 2:33 |
 | 53 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 |
 | 54 | [Tengo](https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Tengo](https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g) | 2:09 |
 | 55 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
 | 56 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
 
-Snapshot ID: `MCxiMDY4MDlhN2QyOWJhZmFhMWZhMzY0ZmM0ODUwYWYwYTgyMmRmNTUw`
+Snapshot ID: `MCxlYzkwNzI5ZjgwMWJhNjExYjk1NGY4Mzc5NTg1ODdkM2U2Y2RiNWZl`

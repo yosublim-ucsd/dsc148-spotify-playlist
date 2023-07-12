@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Jaap Reesema
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,625 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,632 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 77 | [Catch a Fire \- Single version](https://open.spotify.com/track/56UPUkTlqxEYXKSZLeXVlt) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx) | [Catch a Fire](https://open.spotify.com/album/7rtLz93buCYHS29jsShf06) | 3:56 |
 | 78 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 |
 | 79 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
-| 80 | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
+| 80 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 81 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
 | 82 | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/track/4m6AdzOGnAunl8VKNQjqfc) | [GUMMiBEAR](https://open.spotify.com/artist/5hMewFhywS8hP4kcpVYySW), [SAVI](https://open.spotify.com/artist/1H72fTOUAUl0WQ4kH5DPVW), [Jae\-Mi](https://open.spotify.com/artist/2WSnq9dHsoiPV5G90OuBxt) | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/album/2wfLDPM5CpunSaAR9Ayppj) | 2:49 |
 | 83 | [Summer Love](https://open.spotify.com/track/7BPEc1YXCT4Z2pDBRpcXw5) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Calling](https://open.spotify.com/album/6GmQbbAubfdTePHW6edf93) | 3:27 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 99 | [Inspiral](https://open.spotify.com/track/7of6zR9pYc1aQeSrQnxY8f) | [Eboman](https://open.spotify.com/artist/18Rbmhp3zmXBXVu3LO8E2L) | [Hold Your Horses](https://open.spotify.com/album/7sLxxtRryW0kH4eS9l8AnX) | 2:32 |
 
-Snapshot ID: `MCw3NTUwZDk2ZGFiNWVkZTM4ZDE5NzQ2NzU1ODQ5NzAzZGIzODdlODli`
+Snapshot ID: `MCwxOWFmNWNlYjBmMjIwMzVmZmMyYzIzN2MwMzAwZWQ0ODBkMDNmY2Zh`

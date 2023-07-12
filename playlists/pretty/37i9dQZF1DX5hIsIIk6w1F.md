@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Gino Mella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,585 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,904 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 23 | [Amor de Mari](https://open.spotify.com/track/5tfOFkDQTTbanBS9hRbsKC) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Amor de Mari](https://open.spotify.com/album/60mBWKk4jq4imHvfrykCkR) | 3:07 |
 | 24 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 |
 | 25 | [Mal Mal Mal](https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Mal Mal Mal](https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz) | 3:10 |
-| 26 | [Me Fui](https://open.spotify.com/track/2OkUvEoWFbrfMdizByk8Ej) | [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B), [El Bai](https://open.spotify.com/artist/1E1fdogqJM1vTf6Snq0Nob) | [Me Fui](https://open.spotify.com/album/1SV1E2eNt2hebf9lexKGsB) | 2:56 |
+| 26 | [Me Fui](https://open.spotify.com/track/2OkUvEoWFbrfMdizByk8Ej) | [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Me Fui](https://open.spotify.com/album/1SV1E2eNt2hebf9lexKGsB) | 2:56 |
 | 27 | [Viral](https://open.spotify.com/track/1xGMSLniKrnVyUTephm4uf) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Viral](https://open.spotify.com/album/59QWZ6z2aqnCdMsx8PNpRb) | 3:01 |
 | 28 | [Muñeca](https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Muñeca](https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH) | 3:02 |
 | 29 | [Siempre Que Llegamos](https://open.spotify.com/track/3V4Rn0yP6vnCkTYwTQFkWA) | [Yiordano Ignacio](https://open.spotify.com/artist/4GzcC1X5GRX9ndJ5TXIk2C), [Willy El Loko](https://open.spotify.com/artist/2y6E9zxBnLRxOb5esoQ9HQ) | [Siempre Que Llegamos](https://open.spotify.com/album/4XeQ8OMt6rBtM6UrhWbjJU) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 99 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
 | 100 | [Maquiavélica](https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Maquiavélica](https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K) | 2:42 |
 
-Snapshot ID: `MCw2MWQxNzdmMDFiYmM2YjQwNGRhNTlmYmRkOTJmZWE1OGViZWNiMDVj`
+Snapshot ID: `MCxkYTY0NjQ3MTI5MTNmOWMxN2YzY2JmZThjYmE4NjFjYWZlOWZiM2Y4`

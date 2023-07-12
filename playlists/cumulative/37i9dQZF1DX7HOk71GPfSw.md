@@ -4,7 +4,7 @@
 
 > music to play for your parents\. Cover: 8485
 
-1,769 songs - 3 day 8 hr 24 min
+1,770 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 | 2020-10-13\* | 2021-07-17 |
 | [clutch](https://open.spotify.com/track/2r30yCy0ybzQkbY2LsPCoO) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK), [Devstacks](https://open.spotify.com/artist/4Ijbgdusp7syatYSHIIulR) | [clutch](https://open.spotify.com/album/5J1earJqB1MYBGUeBellaV) | 1:32 | 2022-03-25 | 2022-06-11 |
 | [CNTTHROAT](https://open.spotify.com/track/6iFBT15za2nHMwoXy9Mk51) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [CNTTHROAT](https://open.spotify.com/album/6USsZ1soI58SLaLC0Z4dZK) | 2:02 | 2023-06-30 |  |
+| [Coat I Would Buy](https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Coat I Would Buy](https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy) | 1:24 | 2023-07-11 |  |
 | [Cobra](https://open.spotify.com/track/6bjSg7w75hnMILt5xJ4sl6) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Cobra](https://open.spotify.com/album/1lTKouMRssAu9PuIpgBx41) | 2:06 | 2021-09-18 | 2022-02-24 |
 | [coca\-cola](https://open.spotify.com/track/1Z6WO5ZPAhXsQcER3rkl1U) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [coca\-cola](https://open.spotify.com/album/0Z6NJPYA4WaWk5p1pFRHBT) | 2:45 | 2020-10-13\* | 2021-02-10 |
 | [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 | 2022-03-25 |  |

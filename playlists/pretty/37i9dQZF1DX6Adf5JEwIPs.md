@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Marca MP.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,401 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,550 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 34 | [Homenaje A Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/track/0B2aNdR8jNilXOAgo2uQuv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/album/41bNlLDaPAVg7LObF5uqFW) | 8:35 |
 | 35 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
 | 36 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 |
-| 37 | [Tu decisión](https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R) | [Nivel Codiiado](https://open.spotify.com/artist/7fm6U0gAhCxSYfJ90BeB3T) | [Tu decisión](https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f) | 2:31 |
+| 37 | [Tu decisión](https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Tu decisión](https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f) | 2:31 |
 | 38 | [Al Cabo Que Ni Queria](https://open.spotify.com/track/1ybpptCc0y0OD0039yhyZm) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Al Cabo Que Ni Queria](https://open.spotify.com/album/3zhdLWeV87b7IqOcZe0NIx) | 2:38 |
 | 39 | [Los Monje](https://open.spotify.com/track/5FnmsK0BvC3bmtx8jvSNra) | [Latigo Norteño](https://open.spotify.com/artist/0vXWmMdHURYAVAJD070bMg) | [Los Monje](https://open.spotify.com/album/10nWwIe0PhJfNarW2wFjY4) | 3:55 |
 | 40 | [Yo Quería](https://open.spotify.com/track/1W3sCQAJCjRHSIjD4s1Nuf) | [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Yo Quería](https://open.spotify.com/album/1rskE9YNCLd3ibz3ig2rlA) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [La Nena](https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Nena](https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN) | 2:44 |
 | 50 | [Te Prometo](https://open.spotify.com/track/31FxFYyBcvxzVutkNEN5EE) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Te Prometo](https://open.spotify.com/album/6kMD14RKjB8REhBztHzxBg) | 2:15 |
 
-Snapshot ID: `MCxmYjM1MjBiOTQyODE1ZjBlZDM3MzAyY2ZkN2Q4NDlkNDgxN2NhY2Yx`
+Snapshot ID: `MCw0NTdlNWU0MDViOWRjYTM1YWQ0ZWM3NjQ5OTQ0YWM4MDAwMWMzODJh`

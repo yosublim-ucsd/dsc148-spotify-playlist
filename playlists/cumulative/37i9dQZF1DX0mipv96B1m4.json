@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 178754,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 216056,
       "name": "Enjoy Life",
       "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 219718,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
@@ -1326,6 +1326,36 @@
     {
       "album": {
         "name": "Tick Talk",
+        "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ LITO",
+          "url": "https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT"
+        },
+        {
+          "name": "Sheilah Gashumba",
+          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
+        },
+        {
+          "name": "Slick Stuart & DJ Roja",
+          "url": "https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Tick Talk",
+      "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
+    },
+    {
+      "album": {
+        "name": "Tick Talk",
         "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
       },
       "artists": [
@@ -1348,7 +1378,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
@@ -1396,6 +1426,24 @@
       "duration_ms": 254171,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y"
+    },
+    {
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
     },
     {
       "album": {

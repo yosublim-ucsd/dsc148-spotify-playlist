@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-834 songs - 1 day 19 hr 18 min
+835 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [egy kanapén](https://open.spotify.com/track/2K3Q6ESaFPoGjGnpjDnTJK) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 3:06 | 2023-01-07 | 2023-01-09 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7tSHeWlKv2nO5fFhLjRZWk) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 3:27 | 2022-11-23 | 2022-11-28 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Egyedül \(Megb\*sztam ezt a kis gádzsit\)](https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj) | 3:29 | 2022-02-18 | 2022-08-08 |
-| [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 |  |
+| [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 | 2023-07-12 |
 | [Elhagyott](https://open.spotify.com/track/0TbhapWcm8UxFS4wU27Ooa) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Last album](https://open.spotify.com/album/1osdtqNJcPB5VLothrDKIp) | 2:39 | 2023-04-15 | 2023-05-18 |
 | [Eltaszít](https://open.spotify.com/track/1IFm1QxtgTNBoH862C2RkB) | [frendz](https://open.spotify.com/artist/46FikWa1LeRNYWghTarcKi), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Eltaszít](https://open.spotify.com/album/58qXk031iAL5NoRmN6xfWF) | 3:18 | 2021-09-21 | 2022-02-12 |
 | [Elvonás](https://open.spotify.com/track/1ftdyZAgbz0y6MPO5uMYRv) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Ótvar Pestis](https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 1:51 | 2023-03-02 | 2023-03-12 |
@@ -657,6 +657,7 @@
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-07-01 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-08-14 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-02 |
+| [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2023-07-11 |  |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-03 | 2022-10-19 |
 | [Sex, Love, Rock & Roll](https://open.spotify.com/track/261rJI2qHGxiD5A2BoUEAp) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:17 | 2022-11-23 | 2022-12-04 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-15 | 2023-02-23 |

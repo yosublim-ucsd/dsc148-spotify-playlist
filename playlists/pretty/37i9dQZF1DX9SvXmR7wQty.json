@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Soolking, Gazo",
-  "num_followers": 37152,
+  "num_followers": 37160,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmVmMTNjNTNlNDAxYThhYmRmYTM5NTlhNGQ5NjAwNjYyOTk3ZTA5",
+  "snapshot_id": "MCxlY2Q0ODM1Njk1NzYwZGQ5ZTBkMjA0ODlhNWNhZGVhMDkyM2NiZWVm",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -167,18 +167,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "25 G",
-        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 250120,
-      "name": "25 G",
-      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
+      "duration_ms": 202186,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -267,22 +271,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+        "name": "25 G",
+        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
       },
       "artists": [
         {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 202186,
-      "name": "No love",
-      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
+      "duration_ms": 250120,
+      "name": "25 G",
+      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -371,22 +371,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Salement",
-        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
-      "duration_ms": 163034,
-      "name": "Salement",
-      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
+      "duration_ms": 134423,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -407,22 +403,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 134423,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Derni\u00e8re fois",
         "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 198698,
       "name": "Derni\u00e8re fois",
       "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Salement",
+        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Salement",
+      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Derni\u00e8re danse",
         "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 138109,
       "name": "Eyes Contact",
       "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Et si ?",
         "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Roly",
-        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
       },
       "artists": [
         {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
         }
       ],
-      "duration_ms": 225996,
-      "name": "Roly",
-      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+      "duration_ms": 176325,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "G.O.A.T",
-        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 176325,
-      "name": "G.O.A.T",
-      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK"
       },
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "VIDA LOCA",
+        "url": "https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM"
+      },
+      "artists": [
+        {
+          "name": "Dinor rdt",
+          "url": "https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "VIDA LOCA",
+      "url": "https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Kass\u00efm",
         "url": "https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 93129,
       "name": "Kass\u00efm",
       "url": "https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Nasty feat. Smeels (French Version)",
-        "url": "https://open.spotify.com/album/1kv1mbzSEILpTh4ahcE27s"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        },
-        {
-          "name": "Smeels",
-          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
-        }
-      ],
-      "duration_ms": 170366,
-      "name": "Nasty feat. Smeels (French Version)",
-      "url": "https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

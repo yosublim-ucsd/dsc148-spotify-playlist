@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,145 songs - 2 day 17 hr 36 min
+1,146 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-04-28 | 2022-05-14 |
 | [Burnin](https://open.spotify.com/track/5dCEmmQ6jZxMXbcMr7PnNr) | [Kyle Robertson](https://open.spotify.com/artist/6hi9tO3xaLRWsl2Q6jqjMI) | [Burnin](https://open.spotify.com/album/5OY5Lf5vOQNlhXX6B8rE6q) | 3:35 | 2022-07-15 | 2022-07-30 |
 | [Burning](https://open.spotify.com/track/0Co1iTsQDbOA1YUkTa4G3j) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Burning](https://open.spotify.com/album/53O0I7bcJJo8iWsnacPNN8) | 3:16 | 2023-03-31 | 2023-04-09 |
+| [Burning](https://open.spotify.com/track/5YyE8hv3r3AvLy0mRgkWJZ) | [Ritmo Kartel](https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP), [Chris Ultranova](https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo), [IVI](https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup) | [Burning](https://open.spotify.com/album/4nfqxakn4xBpi2okK9tYFD) | 2:37 | 2023-07-11 |  |
 | [Bussin](https://open.spotify.com/track/6rzxmZdtP9RCK5CnJmj9Gc) | [Mikey Barreneche](https://open.spotify.com/artist/7qGy8DUTeuBqoyN6gUf3gd) | [Bussin](https://open.spotify.com/album/3eNoNTOqcQ550SgVuyKDYH) | 2:49 | 2023-02-17 | 2023-02-25 |
 | [Caliento](https://open.spotify.com/track/5c5bFCO1suc6DpCmZ6jbRG) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Caliento](https://open.spotify.com/album/0dgh0dBzYh3CBWUiz47aw7) | 3:33 | 2022-11-18 | 2022-11-29 |
 | [Cameras, Flash, Action](https://open.spotify.com/track/1J7FfcSQAp3K2OJk8LaNEI) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Cameras, Flash, Action](https://open.spotify.com/album/27OGxSKtIDnr0D9PC4R5Tu) | 2:26 | 2022-11-18 | 2022-11-29 |

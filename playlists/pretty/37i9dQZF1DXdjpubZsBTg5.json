@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 147090,
+  "num_followers": 147200,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTY2ZWU0ODdhNzhlNjdlMTViYmVhNDI0NWRiODQ2ODI4NzczNjlk",
+  "snapshot_id": "MCxlZWQzYjM5YmNiNWQ1ZTkyN2M1Njc0NzA0Y2VlOTAwZjA5YmU5OWJi",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Viviendo de Noche",
-        "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
-      },
-      "artists": [
-        {
-          "name": "Veni Vidi Vici",
-          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
-        }
-      ],
-      "duration_ms": 246060,
-      "name": "Viviendo de Noche",
-      "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Caja de Canciones",
         "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210893,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Viviendo de Noche",
+        "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
+      },
+      "artists": [
+        {
+          "name": "Veni Vidi Vici",
+          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
+        }
+      ],
+      "duration_ms": 246060,
+      "name": "Viviendo de Noche",
+      "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
     },
     {
       "added_at": "2021-02-24 17:08:59",

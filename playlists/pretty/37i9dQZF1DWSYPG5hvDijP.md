@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,838 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,850 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 43 | [Haraami 2](https://open.spotify.com/track/0FHT6mYzdrpnxbCtmw7m6I) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [DJ Lush](https://open.spotify.com/artist/7wF3w9xFKpJ4XoH3b52tH8), [Shubhankar Vaid](https://open.spotify.com/artist/29FZEz6utEPA25HVivPc5m), [Adi B](https://open.spotify.com/artist/410U8b20tmqVwS2T3g9gwU), [Ajay Rana](https://open.spotify.com/artist/6PSoBYTcsGfMnOg7RypdgG) | [Haraami 2](https://open.spotify.com/album/148IdeaVWQTqsk6jXhzGXi) | 3:51 |
 | 44 | [Burey Din](https://open.spotify.com/track/6St0M4ePah3MzAmdgIi4Vf) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Burey Din](https://open.spotify.com/album/0w4hFThSG9OBgac9g50zgS) | 2:26 |
 | 45 | [Oh My God](https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Oh My God](https://open.spotify.com/album/5KOYQGntgYRosJlKfc5G26) | 2:46 |
-| 46 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 |
+| 46 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/7JPv4d46znI7x7VOkdHNAa) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 |
 | 47 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 |
 | 48 | [Bad\-Nam](https://open.spotify.com/track/5yExkaHAJy1LnIPXFv8fNx) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW) | [Bad\-Nam](https://open.spotify.com/album/6rWhToggUTvJFynDRoBZU7) | 1:50 |
 | 49 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 64 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 |
 | 65 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 
-Snapshot ID: `MCw3NTExY2JmYzU3NDc5MmFiNDk4NjNmYWI2ZTFlYTA3YTA3YjFmMzM4`
+Snapshot ID: `MCxjZmQ0MzU1ZjVlMjQ3MTQzZjQ2Y2I3OWI5MWViNzY3MjFhM2M5OWE3`

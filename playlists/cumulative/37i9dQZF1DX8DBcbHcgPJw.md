@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes, Emanero, Ulises Bueno & Los Palmeras.
 
-390 songs - 19 hr 29 min
+391 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Ando Ready](https://open.spotify.com/track/2TbqZOaqfe2qOSeHu6GGOl) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Ando Ready](https://open.spotify.com/album/17s5HZuhFRdxLqIM0e2BO2) | 2:31 | 2022-01-14 | 2022-07-08 |
 | [Asi Fue / Lloraras Mas de 10 Veces / Te Quiero](https://open.spotify.com/track/5PDjNRHHWb31OL09yfX1rT) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Asi Fue / Lloraras Mas de 10 Veces / Te Quiero](https://open.spotify.com/album/2UBWfidfb9slANGxBGUjkq) | 6:40 | 2023-02-24 | 2023-05-13 |
 | [Atiende](https://open.spotify.com/track/7cHEHPawykdoT2m5f3SWQB) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Atiende](https://open.spotify.com/album/10n2JUOUDFuy2WdJNPRtSA) | 2:31 | 2022-01-21 | 2022-04-18 |
-| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8) | 4:12 | 2023-07-07 |  |
+| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/7J0ELTewKJkd25s6AbcV1l) | 4:12 | 2023-07-07 |  |
+| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8) | 4:12 | 2023-07-07 | 2023-07-12 |
 | [Aunque Te Enamores](https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Aunque Te Enamores](https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA) | 2:10 | 2022-02-25 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2021-12-23 |  |
 | [Bandido](https://open.spotify.com/track/0MMS8TSvVyKk4SASvX5tUl) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [El Galle](https://open.spotify.com/artist/7oS04sb6dK1Xf4nE8BUxmV), [KE Animal](https://open.spotify.com/artist/5M5D3L2jhAPqEGktl9jdAJ) | [Bandido](https://open.spotify.com/album/4FpmgQ11oIhxv7RC9G3AdK) | 3:41 | 2022-10-14 | 2022-10-29 |

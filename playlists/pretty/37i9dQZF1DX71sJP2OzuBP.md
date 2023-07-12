@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,183 likes - 105 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,186 likes - 105 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [讓我 Ft\. 南西 Neci](https://open.spotify.com/track/23i0k9AntO4P6e6wIJkt8g) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9), [南西 Neci](https://open.spotify.com/artist/2H6Rr4sQjMGyirQeAMcUF1) | [讓我 Ft\. 南西 Neci](https://open.spotify.com/album/0OA9H8teTd7b4j5ZDO0bWR) | 4:09 |
 | 105 | [fling](https://open.spotify.com/track/37UobhT7I0GE4USKd2RzDK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [fling](https://open.spotify.com/album/6nD0wFbg4Fa2ot004Aw6Bv) | 3:10 |
 
-Snapshot ID: `MCwwNDg3NDk0NzA4MzlhMTAzM2ViZWQ3MmIyMDQ2MDQ3Nzc3MzcyNTAw`
+Snapshot ID: `MCxhZjExYTVhMjNmNGZmOGFhNjY5ZTdiNmFhMzYzZWYyYTk3MTljODA3`

@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Aline Brasil",
-  "num_followers": 303320,
+  "num_followers": 303443,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGRhY2EzZjQ5ZWNmOTFlZTc2OTVlNzRhYWNiMjFiOWRmMDNkODg3",
+  "snapshot_id": "MCxkZTNiMWJjZjY4ODQ2ZDBhZDFkYmQwZTY3MzE3MDFiYzQ3MDM2NDQz",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Nada Te Perturbe",
-        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 225326,
-      "name": "Nada Te Perturbe",
-      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Nada Te Perturbe",
+        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 225326,
+      "name": "Nada Te Perturbe",
+      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
     },
     {
       "added_at": "2023-06-02 03:00:00",

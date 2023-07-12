@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Here And Now EP",
+        "url": "https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Moreno",
+          "url": "https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx"
+        },
+        {
+          "name": "Meikle",
+          "url": "https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180115,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/2bnuKlrOFVQDBGBcjXRija"
+    },
+    {
+      "album": {
         "name": "Actin Out",
         "url": "https://open.spotify.com/album/6Vr8xPLJqxvgCGOuopJTHe"
       },
@@ -410,6 +432,36 @@
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
+    },
+    {
+      "album": {
+        "name": "Here And Now EP",
+        "url": "https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Moreno",
+          "url": "https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx"
+        },
+        {
+          "name": "ATREOUS",
+          "url": "https://open.spotify.com/artist/0EX6qdKwwNO9TN24DvRHwG"
+        },
+        {
+          "name": "VJAI",
+          "url": "https://open.spotify.com/artist/0dAt2oefogiVi866jU3sRp"
+        },
+        {
+          "name": "Tobias Ward",
+          "url": "https://open.spotify.com/artist/6qqQJ0M82YQCZQlifsYzlE"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187846,
+      "name": "Better In Love",
+      "url": "https://open.spotify.com/track/3OQnaZNH2ec0zSi3UOkonj"
     },
     {
       "album": {
@@ -1358,6 +1410,36 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
+    },
+    {
+      "album": {
+        "name": "Here And Now EP",
+        "url": "https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Moreno",
+          "url": "https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx"
+        },
+        {
+          "name": "Joffrey Lorquet",
+          "url": "https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR"
+        },
+        {
+          "name": "MiteX",
+          "url": "https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/6bCaAFSdevhK1Hw2ya6Cdz"
     },
     {
       "album": {

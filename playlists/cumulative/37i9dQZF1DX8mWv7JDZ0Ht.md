@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin
 
-357 songs - 17 hr 50 min
+358 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alvoroço](https://open.spotify.com/track/2eDuRj2ndCZkpojzlAS79I) | [Malu Rodrigues](https://open.spotify.com/artist/4GiLjWLDEAfW8Cy7mmYnbp) | [Alvoroço](https://open.spotify.com/album/7zQ5XIkKJWTAuA8zLEVTYV) | 2:52 | 2022-05-13 | 2022-06-15 |
 | [Amanhã](https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Amanhã](https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT) | 2:38 | 2023-06-30 |  |
 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 | 2022-05-13 | 2022-08-13 |
-| [Amor Compartilhado](https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Amor Compartilhado](https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL) | 2:26 | 2023-01-13 |  |
+| [Amor Compartilhado](https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Amor Compartilhado](https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL) | 2:26 | 2023-01-13 | 2023-07-12 |
 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 | 2023-02-24 |  |
 | [Amor de Liquidificador](https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Amor de Liquidificador](https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04) | 2:50 | 2022-05-13 | 2022-10-11 |
 | [amor desalinhado](https://open.spotify.com/track/14Y83kEVHr3ktSp2wDK7Gj) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [amor desalinhado](https://open.spotify.com/album/3elPKbmjOlzJAvwJq6KIu7) | 3:02 | 2022-06-24 | 2022-08-02 |
@@ -213,6 +213,7 @@
 | [Ninguém Precisa Saber](https://open.spotify.com/track/6uRvEfwHu4c1XMuOz0e1hx) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ninguém Precisa Saber](https://open.spotify.com/album/5DrTY2K8ZmcZ1rvoRN7hb0) | 2:31 | 2022-11-25 | 2023-04-09 |
 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 | 2022-08-01 | 2023-01-28 |
 | [Nos Seus Olhos](https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Nos Seus Olhos](https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT) | 3:35 | 2023-06-16 | 2023-07-08 |
+| [Nova Bad](https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:08 | 2023-07-11 |  |
 | [Não Me Chame Pelo Nome](https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Menor Que Três](https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG) | 3:32 | 2022-08-12 | 2022-10-11 |
 | [não passa vontade](https://open.spotify.com/track/1HbHUc3TamGVwXlcUolMej) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [não passa vontade](https://open.spotify.com/album/7i7MI50qJ4FZTsiz1DOsMp) | 3:41 | 2022-05-13 | 2022-12-03 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 | 2022-12-13 |

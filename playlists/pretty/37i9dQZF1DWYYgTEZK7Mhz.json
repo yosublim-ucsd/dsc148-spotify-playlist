@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 16043,
+  "num_followers": 16146,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U5NzZkN2QwODM3Zjc2MWViMTVhNzMwYmM4NjY5YzgzYTU0NzJi",
+  "snapshot_id": "MCw4YmY2ZDljMzRjZDc4MTU2NDhiMDlkN2EwNGNmYjFlODczNjQzZmU1",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Il Meglio",
-        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
-      },
-      "artists": [
-        {
-          "name": "Mario Tessuto",
-          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Lisa dagli occhi blu",
-      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Ritratto Di Gianni",
         "url": "https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Il Meglio",
+        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
+      },
+      "artists": [
+        {
+          "name": "Mario Tessuto",
+          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Lisa dagli occhi blu",
+      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
         "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 136080,
       "name": "24,000 baci",
       "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Stessa spiaggia stesso mare",
         "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 179060,
       "name": "Tintarella di luna",
       "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Righeira The 80's Hit Songs",
         "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Come lei non c'e' nessuno",
-        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "La partita di pallone",
-      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 129573,
       "name": "L'esercito del surf",
       "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Come lei non c'e' nessuno",
+        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "La partita di pallone",
+      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
     },
     {
       "added_at": "2023-06-05 07:42:38",

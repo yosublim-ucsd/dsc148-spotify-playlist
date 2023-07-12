@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. Co\-curada por Samantha Barrón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,778 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,783 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 31 | [Siempre Nada](https://open.spotify.com/track/78nDlJ35V2e7xSKuyxfFPm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Siempre Nada](https://open.spotify.com/album/12ZgUXs3fsGKi8hwIS3fYc) | 3:10 |
 | 32 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 33 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 |
-| 34 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P.Jaguar](https://open.spotify.com/artist/18wFDmiW5C9u5Dq7DuA2eI) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
+| 34 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
 | 35 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 |
 | 36 | [Sintonía](https://open.spotify.com/track/1QGSYr3F4DSAhl0bk7wQ0Q) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sintonía](https://open.spotify.com/album/0ORoguGS5GjHbBlgGRl0yj) | 2:26 |
 | 37 | [Quién de los 2](https://open.spotify.com/track/7gVLQ1vuYUsxGnYiaBAJnO) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Quién de los 2](https://open.spotify.com/album/1t5zcQgjN7W7RUuaHqAfS9) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
 | 50 | [Miamorcito Loco](https://open.spotify.com/track/1EeeyoniBTASbZr6tyZAKv) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 2:43 |
 
-Snapshot ID: `MCw4YWIzMTI1MzYzNzlkNDAyYTg2MDQzNzhjYjJlYTI3ODliN2EyODBl`
+Snapshot ID: `MCxiN2MwZjJhYmU3MTQxY2EyMjAwNDczY2YxMzlmN2EyNjk0YWJmOWNk`

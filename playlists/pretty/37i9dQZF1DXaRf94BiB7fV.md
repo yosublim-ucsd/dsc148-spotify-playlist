@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Neeraj Rajawat , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,111 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 100 | [Humsafar](https://open.spotify.com/track/0576MAgEyAJMQpviMUNfvZ) | [Comic Book](https://open.spotify.com/artist/2IBARFFNxPdd7JSAu5sAZk) | [Humsafar](https://open.spotify.com/album/0bAbL6yDI7654U3ooO98YJ) | 4:02 |
 
-Snapshot ID: `MCwzMWQyZTcxM2MwM2Q1ZjQ3MTNkNzFlZjhjZTkwNWZhYjI4OGNmNzJh`
+Snapshot ID: `MCxiOGJkN2RiMGJjODNiYzBmNjM4OWI4YTE4YzI1Y2VlMzcyY2YwMDY0`

@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2615895,
+  "num_followers": 2618809,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzk4ZmE4YzY4MzA4NmQyYzVlMWI3MWFmZjY5ODExMWNlYTkwN2Zj",
+  "snapshot_id": "MCwzYTlmMWE4NTY3ZWI2NzMxYTU0NTlkZmU0MzMzMmQ5NDI1N2ZjYzll",
   "tracks": [
     {
       "added_at": "2023-06-29 15:15:53",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -1127,18 +1127,26 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+        "name": "Mas Flow, Vol. 1",
+        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
       "artists": [
         {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+      "duration_ms": 242573,
+      "name": "M\u00e9tele Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -1211,26 +1219,18 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Mas Flow, Vol. 1",
-        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        },
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 242573,
-      "name": "M\u00e9tele Saz\u00f3n",
-      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 291658,
       "name": "Quitate Tu Pa Ponerme Yo",
       "url": "https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "En Honor A La Verdad",
+        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "5 de Septiembre - Reggaeton Version",
+      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "Los Matadores del Genero",
         "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 221768,
       "name": "Como Yo Le Doy",
       "url": "https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
         "name": "Drama Queen (Deluxe Version)",
         "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 198946,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Voltio",
-        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
-      },
-      "artists": [
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        },
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Chulin Culin Chunfly",
-      "url": "https://open.spotify.com/track/5in5l6a2fFxqDjn6bFSXpL"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 188826,
       "name": "Solos",
       "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "Voltio",
+        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
+      },
+      "artists": [
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Chulin Culin Chunfly",
+      "url": "https://open.spotify.com/track/5in5l6a2fFxqDjn6bFSXpL"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
+        "name": "Drag\u00f3n & Caballero",
+        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
+      },
+      "artists": [
+        {
+          "name": "Dragon & Caballero",
+          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
+        }
+      ],
+      "duration_ms": 246241,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2543,22 +2559,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Drag\u00f3n & Caballero",
-        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
-      },
-      "artists": [
-        {
-          "name": "Dragon & Caballero",
-          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
-        }
-      ],
-      "duration_ms": 246241,
-      "name": "Se Siente Bien",
-      "url": "https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "1 On 1",
         "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "A Ti No",
-      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "In Business",
         "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 208840,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "A Ti No",
+      "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2691,22 +2691,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 196468,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "Voltio",
         "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 204333,
       "name": "Julito Mara\u00f1a",
       "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 196468,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "Los Mackieavelikos 2055",
         "url": "https://open.spotify.com/album/2nwNSk7AzHGh1Pul74uLD0"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 244507,
       "name": "Nada Va Pasar",
       "url": "https://open.spotify.com/track/33Idge1vAbeLUtpSJRPUXU"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "La Misi\u00f3n 4",
         "url": "https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 169400,
       "name": "Wiki Wiki",
       "url": "https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
     },
     {
       "added_at": "2023-06-29 15:15:53",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2023-06-29 15:15:53",
       "album": {
-        "name": "El Talento del Bloque",
-        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 183196,
-      "name": "Te Ir\u00e9 a Buscar",
-      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
-    },
-    {
-      "added_at": "2023-06-29 15:15:53",
-      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -3331,6 +3315,22 @@
       "duration_ms": 219133,
       "name": "Let's Go To My Crib",
       "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
+    },
+    {
+      "added_at": "2023-06-29 15:15:53",
+      "album": {
+        "name": "El Talento del Bloque",
+        "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 183196,
+      "name": "Te Ir\u00e9 a Buscar",
+      "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
     },
     {
       "added_at": "2023-06-29 15:15:53",

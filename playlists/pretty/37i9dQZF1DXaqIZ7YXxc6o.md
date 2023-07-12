@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Golden Features
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,705 likes - 107 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,720 likes - 107 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 38 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 39 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 |
 | 40 | [Receiver](https://open.spotify.com/track/4HigIvqZB8Wq329TR36uuf) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Receiver](https://open.spotify.com/album/2f2ROVJ040d3fLzj74uF4F) | 2:44 |
-| 41 | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
+| 41 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 42 | [Eurocry](https://open.spotify.com/track/6KKXKZzU66e6g62rN6AJfy) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [James Sun](https://open.spotify.com/artist/4joXCMWD1t62KUedMCW17j), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Eurocry](https://open.spotify.com/album/7IAYLBMAIz6Xx86Z0Uty21) | 3:51 |
 | 43 | [WEST CONNECT](https://open.spotify.com/track/1KSugesgS8FTFfPBPpYV7f) | [Gabriel LCR](https://open.spotify.com/artist/07SDf1XAm27AoAODF470jW) | [WEST CONNECT](https://open.spotify.com/album/7jorVexS5877Qv7p1tZvLF) | 2:57 |
 | 44 | [Uncover \(Komang Remix\)](https://open.spotify.com/track/4Q92GLN2X0j2az1Z7O5kXN) | [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL), [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Deity Remixes](https://open.spotify.com/album/1Oa3HHgQVN5I6YzZ9cq0kz) | 3:54 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 106 | [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 |
 | 107 | [The Birdie That Never Was](https://open.spotify.com/track/7amFehbW0RojJwLJduWC5l) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [The Birdie That Never Was](https://open.spotify.com/album/3WVXSwXmdi0q6HsUjWZ72b) | 3:15 |
 
-Snapshot ID: `MCwxOGQyNDZhNjc1NjMxZDZjMTVhYmE3NmExMzJiOWJlNjQ1NWMzZWEx`
+Snapshot ID: `MCw1OTI3MWJhNjcyMWM3YzlkNTA5MmNmMjU0ZDY1MmVkZjYxOWI3YWNm`

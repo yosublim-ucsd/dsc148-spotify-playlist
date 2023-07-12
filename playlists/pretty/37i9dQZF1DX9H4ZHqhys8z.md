@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Katerina Liouliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,671 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,721 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 37 | [Niose](https://open.spotify.com/track/1mhTchTMDaLdc5YuW5zVRm) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Niose](https://open.spotify.com/album/5tfYnmfal8IHv1sfnQZKrH) | 3:07 |
 | 38 | [SKIP](https://open.spotify.com/track/4Yk5ZqYXl7IXxKSNeUgLB0) | [Yasmine](https://open.spotify.com/artist/28bAxhqkevzwM2b2dNaODZ), [Dimitris Koufoudakis](https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx) | [SKIP](https://open.spotify.com/album/0Crpyj2542aCjN5S0nwHHY) | 3:37 |
 | 39 | [Pes Mou](https://open.spotify.com/track/7g3prQn7Cl9PBAcYhThp8N) | [Chrystelina](https://open.spotify.com/artist/6QNaYdxuIulAq3M61FWAZ0) | [Pes Mou](https://open.spotify.com/album/24XW3NTVz6BUxPcGhGyozT) | 3:01 |
-| 40 | [Ta Tihera Trifilia](https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Ta Tihera Trifilia](https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ) | 2:50 |
+| 40 | [Ta Tihera Trifilia](https://open.spotify.com/track/1sKzyB1pY21LEZhrVXg0tR) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Ta Tihera Trifilia](https://open.spotify.com/album/465lBkDTiLZr4XwWJRdXrk) | 2:50 |
 | 41 | [Notia](https://open.spotify.com/track/76OkOg3Fc9j2he1d9fDZoL) | [Kalliope Pouska](https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX) | [Notia](https://open.spotify.com/album/1aa9ISp1Y8rNBhS7OWcZNH) | 2:53 |
 | 42 | [Harlem](https://open.spotify.com/track/6cINJkWY1ilnWaMihrYsyn) | [Mira](https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [Aradia](https://open.spotify.com/album/2CBiad9GZvDp7mBdgycfkp) | 3:29 |
 | 43 | [Horisa Hthes](https://open.spotify.com/track/7azRdpfHPGzidDmgm7Pixb) | [Vanessa Adamopoulou](https://open.spotify.com/artist/6Lp4kQwdlDYjLhOqSxrrdl) | [Horisa Hthes](https://open.spotify.com/album/4ljMkwCLjTc1LXzI2fiYnZ) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Orevouar](https://open.spotify.com/track/45OXXyyTb3Nod36LQagMjw) | [Efi Thodi](https://open.spotify.com/artist/4OQYDjyFWR15nf0L7QKLAU) | [Orevouar](https://open.spotify.com/album/5plfR1CcE1RtmTfngwpOIq) | 3:05 |
 | 50 | [Oti Sterise](https://open.spotify.com/track/7BaVV6HvCp1HGCBroK0aYa) | [Xenia Gargali](https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP), [Periklis Biskinis](https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3) | [Oti Sterise](https://open.spotify.com/album/0xuik4gfejXqiyyfm41tDc) | 3:39 |
 
-Snapshot ID: `MCw1NTQzYTkzN2NhYThhZmFjMGI5YmRiNjYwNWE2YTQ4ZDkwNTQwMjlj`
+Snapshot ID: `MCxhOTZjZjA2MWZhOWNjYjY2NjVhMjY5MDkzNmJjMmI3ODc2MzZlYzdh`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 264894,
+  "num_followers": 265072,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmM1OTUzZTA0ZWE3ZThiMmY4NzNiMWVjMGY0YTBmZWRkYzZkMzc2",
+  "snapshot_id": "MCxlNDNkNTA4YzAzMTBlNGQ1NTAwYzdiNjQzYjlmMGM3M2YxYTViZWY3",
   "tracks": [
     {
       "added_at": "2023-07-07 20:47:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Imuhar",
-      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Albala",
         "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 311253,
       "name": "Be Ki Don",
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Imuhar",
+      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+        "name": "Mbalimaou",
+        "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
       },
       "artists": [
         {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
         }
       ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
+      "duration_ms": 338746,
+      "name": "Hona",
+      "url": "https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht"
     }
   ],
   "unique_name": "Sahara",

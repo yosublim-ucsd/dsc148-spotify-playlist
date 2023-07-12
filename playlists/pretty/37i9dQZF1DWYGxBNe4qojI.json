@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 329348,
+  "num_followers": 329602,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTg1OTIzN2I4NmIyNGM1NDU3MDMzMTVlYWNiNDFhZmI4NDk3MmI2",
+  "snapshot_id": "MCxlM2M3NDZjM2YxOTRlMzIyYTYxZjAwMWU1NmY1YmZjNGRlNDE3NTI2",
   "tracks": [
     {
       "added_at": "2023-06-29 23:37:21",
@@ -775,18 +775,26 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+        "name": "Party & Bullshit",
+        "url": "https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "jazyxd",
+          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
         }
       ],
-      "duration_ms": 282906,
-      "name": "How's It Goin' Down",
-      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
+      "duration_ms": 217048,
+      "name": "Party and Bullshit",
+      "url": "https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W"
     },
     {
       "added_at": "2023-06-29 23:37:21",
@@ -831,26 +839,18 @@
     {
       "added_at": "2023-06-29 23:37:21",
       "album": {
-        "name": "Party & Bullshit",
-        "url": "https://open.spotify.com/album/35q1jlbBhN3xlUGV5x43sl"
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
       "artists": [
         {
-          "name": "Ayparia",
-          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
-        },
-        {
-          "name": "jazyxd",
-          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
-        },
-        {
-          "name": "unxbected",
-          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 217048,
-      "name": "Party and Bullshit",
-      "url": "https://open.spotify.com/track/7z5qNduQuSpyTpeQwDeL3W"
+      "duration_ms": 282906,
+      "name": "How's It Goin' Down",
+      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
     },
     {
       "added_at": "2023-06-29 23:37:21",

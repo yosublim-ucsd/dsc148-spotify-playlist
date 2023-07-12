@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12210,
+  "num_followers": 12214,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTZjN2IyZjY1MTZlMWU3NjhkODk4OWRkMzY4NzZhMDZkOWYyMjBm",
+  "snapshot_id": "MCwzOTMwNTIwZDMzYjQyYmIzMDgwY2YzZjI3MDViZmYyOGFiNjljMzVk",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a"
+      },
+      "artists": [
+        {
+          "name": "Mikaela",
+          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Chucky",
         "url": "https://open.spotify.com/album/0aSiYjQzNvFBPaferPAlvR"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 208010,
       "name": "Chucky",
       "url": "https://open.spotify.com/track/0RSCcsA7LCN5emaGOotAWY"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a"
-      },
-      "artists": [
-        {
-          "name": "Mikaela",
-          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "PuDo HaBeR SidO",
+        "url": "https://open.spotify.com/album/7q7kVUveKdto6uhyf8nbrZ"
+      },
+      "artists": [
+        {
+          "name": "CONDY",
+          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "nada es 4 life",
+      "url": "https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "C\u00c1LLENSE",
         "url": "https://open.spotify.com/album/4YwUgqConCsg73VfRwaRwm"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 232418,
       "name": "C\u00c1LLENSE",
       "url": "https://open.spotify.com/track/6BazBla5m49evarfU6L92l"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "PuDo HaBeR SidO",
-        "url": "https://open.spotify.com/album/7q7kVUveKdto6uhyf8nbrZ"
-      },
-      "artists": [
-        {
-          "name": "CONDY",
-          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "nada es 4 life",
-      "url": "https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Msn",
-        "url": "https://open.spotify.com/album/5LR238ZmUP553oIWEKj2e4"
-      },
-      "artists": [
-        {
-          "name": "Rata-K1000",
-          "url": "https://open.spotify.com/artist/3z0z7MsvxXwSCpbjAG4OJd"
-        }
-      ],
-      "duration_ms": 129349,
-      "name": "Msn",
-      "url": "https://open.spotify.com/track/1kY9IUzSMSfRdH4QP7Dgye"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Rayokuza",
         "url": "https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 151145,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/5o0YZOyNI1SPdZ43YURZJ3"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Msn",
+        "url": "https://open.spotify.com/album/5LR238ZmUP553oIWEKj2e4"
+      },
+      "artists": [
+        {
+          "name": "Rata-K1000",
+          "url": "https://open.spotify.com/artist/3z0z7MsvxXwSCpbjAG4OJd"
+        }
+      ],
+      "duration_ms": 129349,
+      "name": "Msn",
+      "url": "https://open.spotify.com/track/1kY9IUzSMSfRdH4QP7Dgye"
     },
     {
       "added_at": "2023-07-05 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=2350386d63e74298">Steffany Gretzinger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,434 likes - 102 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,669 likes - 102 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 | 102 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCwzMTExYzZhODIxNmU4MDBiNDY5ZmM2NDE0MjQ0ZTEwMGJmMDgyYWIw`
+Snapshot ID: `MCwwM2ZhNDhiZDg3ZDI3NjM2MzVjYjNmZGExZWJkNDkwYmE0ZjI1NzBi`

@@ -2734,6 +2734,24 @@
     {
       "album": {
         "name": "Try Me",
+        "url": "https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo"
+    },
+    {
+      "album": {
+        "name": "Try Me",
         "url": "https://open.spotify.com/album/7MLkMml0WXtxE6r0keAOQi"
       },
       "artists": [
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 196173,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/4qR1ScsKhKNzzRtsljnPsl"

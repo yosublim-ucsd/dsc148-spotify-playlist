@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62624,
+  "num_followers": 62656,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhiMTE5MWY1YmE0YjNiZDRjMDNlZTU1YTJiNTliZWIyN2Q4MDdl",
+  "snapshot_id": "MCwxM2U4Y2JjYTg0MTZiZTkxOThiYzE5YTY2ZGZiN2IzYWM3Y2M0ZjUw",
   "tracks": [
     {
       "added_at": "2023-07-07 02:08:57",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
-        "name": "Mientras quede aliento",
-        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
+        "name": "Delux",
+        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
       },
       "artists": [
         {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
         }
       ],
-      "duration_ms": 193086,
-      "name": "Mientras quede aliento",
-      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
+      "duration_ms": 168840,
+      "name": "M\u00e1s de Lo Que Te Imaginas",
+      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
     },
     {
       "added_at": "2023-07-07 02:08:57",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
-        "name": "Delux",
-        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
+        "name": "Mientras quede aliento",
+        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
       },
       "artists": [
         {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
         }
       ],
-      "duration_ms": 168840,
-      "name": "M\u00e1s de Lo Que Te Imaginas",
-      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+      "duration_ms": 193086,
+      "name": "Mientras quede aliento",
+      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
     },
     {
       "added_at": "2023-07-07 02:08:57",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-07-07 02:08:57",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
-    },
-    {
-      "added_at": "2023-07-07 02:08:57",
-      "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2023-07-07 02:08:57",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2023-07-07 02:08:57",
-      "album": {
         "name": "Volumen 2",
         "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+    },
+    {
+      "added_at": "2023-07-07 02:08:57",
+      "album": {
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+      },
+      "artists": [
+        {
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2023-07-07 02:08:57",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2023-07-07 02:08:57",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-07-07 02:08:57",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-07-07 02:08:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-07 02:08:57",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-07-07 02:08:57",
-      "album": {
         "name": "Bacard\u00ed",
         "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 151572,
       "name": "Bacard\u00ed",
       "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+    },
+    {
+      "added_at": "2023-07-07 02:08:57",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-07-07 02:08:57",

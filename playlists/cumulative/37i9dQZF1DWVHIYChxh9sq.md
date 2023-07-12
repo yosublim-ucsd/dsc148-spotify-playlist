@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-386 songs - 21 hr 24 min
+387 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cariño Prohibido \(En Vivo\)](https://open.spotify.com/track/4walRkR7DUEnrTm0tekIF1) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Amanecida en Caborca Sonora, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6V8nu6XClbgJHp7XVZshiQ) | 3:28 | 2022-05-12 | 2022-12-09 |
 | [Celos del Viento \- En Vivo](https://open.spotify.com/track/1kiDSbX6iYiK7zyTKpr4B0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/3wZbGWULrKLCcvpbHkNKTI) | 2:47 | 2023-03-17 |  |
 | [Celos del Viento \- En Vivo](https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido \(En Vivo\)](https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX) | 3:00 | 2022-12-08 |  |
+| [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 | 2023-06-16 |  |
 | [Celoso](https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Celoso](https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj) | 3:21 | 2022-12-08 | 2023-07-09 |
 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 | 2022-12-08 |  |
 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 | 2022-05-12 | 2022-12-09 |
@@ -188,7 +189,7 @@
 | [Estás Que Te Pelas](https://open.spotify.com/track/1FCB7Arz7A8sAd2S6Z4BLh) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [En Vivo 3](https://open.spotify.com/album/2lBx0nqkMmo9gEEWAxW3q0) | 3:57 | 2022-05-12 | 2022-12-09 |
 | [Feliz, Feliz \- Live](https://open.spotify.com/track/6DkjoClnR4PMMFer8XJs5n) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Feliz, Feliz](https://open.spotify.com/album/0WPwAFCO5FOMvmsEAaTRZP) | 3:39 | 2022-05-12 | 2022-12-09 |
 | [Fino Ranchero \- En Vivo](https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Con Amigos y La Banda Vol.1 \(En Vivo\)](https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b) | 3:33 | 2023-03-17 | 2023-05-26 |
-| [Flor Hermosa \- En Vivo](https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Flor Hermosa \(En Vivo\)](https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00) | 2:52 | 2022-05-12 |  |
+| [Flor Hermosa \- En Vivo](https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Flor Hermosa \(En Vivo\)](https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00) | 2:52 | 2022-05-12 | 2023-07-12 |
 | [Fue Manuel \- En Vivo](https://open.spotify.com/track/0GVjvHPjw5c0FkKYuv8Kxe) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Fue Manuel \(En Vivo\)](https://open.spotify.com/album/5ML7zIqNucPLnoArhEpUcf) | 2:53 | 2023-03-17 |  |
 | [Fuiste Mala](https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Fuiste Mala](https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM) | 3:24 | 2023-03-17 | 2023-06-20 |
 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 | 2023-06-16 |  |

@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Azure Revisited",
+        "url": "https://open.spotify.com/album/1yFVtt9VVWlFTBhdBGgKKR"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60750,
+      "name": "Azure - Grand Piano Version",
+      "url": "https://open.spotify.com/track/7Jdm14ECEHbhRLDBcvTu9R"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm"
       },

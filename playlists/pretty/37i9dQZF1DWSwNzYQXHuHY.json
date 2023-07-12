@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7777,
+  "num_followers": 7779,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTI4NjE4NjNlYmQ5NTE5ZWYzNDgxMTUwYzlhOGI2OTg0NWJmNmUw",
+  "snapshot_id": "MCw0MDNlZTNkZjU2YTdiYjdjOTUwODU5NDQyNmYyMTMzM2E4OWYwNjQy",
   "tracks": [
     {
       "added_at": "2023-07-07 15:53:11",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
         "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 191957,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
+        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Love to Hate You",
-      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
         "name": "CYAN",
         "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 195253,
       "name": "2U",
       "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
+        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 200077,
+      "name": "Love to Hate You",
+      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
     },
     {
       "added_at": "2023-07-07 15:53:11",

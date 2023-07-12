@@ -6586,7 +6586,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 171454,
       "name": "Idu Damayana Title Track",
       "url": "https://open.spotify.com/track/5LDGqaTQuc2lwgqRMrpeHE"
@@ -8777,6 +8777,32 @@
     },
     {
       "album": {
+        "name": "Miss Shetty Mr Polishetty (Kannada)",
+        "url": "https://open.spotify.com/album/4EDeV6UjeSY1xSDt6zATNj"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167051,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/6HhBDFjRAK28aqnb6Xyfc2"
+    },
+    {
+      "album": {
         "name": "Raajahyoga",
         "url": "https://open.spotify.com/album/6EtHSJYHUSPuYAfDYnb42v"
       },
@@ -9972,6 +9998,28 @@
       "duration_ms": 181354,
       "name": "Missing Me (From \"Maha Purusha\")",
       "url": "https://open.spotify.com/track/6oS5cQgo2W1XvzdknsQLxP"
+    },
+    {
+      "album": {
+        "name": "Modala Male (From \"Thothapuri 2\")",
+        "url": "https://open.spotify.com/album/0IQKgwuJvdNutusqRzm7bZ"
+      },
+      "artists": [
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273962,
+      "name": "Modala Male (From \"Thothapuri 2\")",
+      "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
     },
     {
       "album": {

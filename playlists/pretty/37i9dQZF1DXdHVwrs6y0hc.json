@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 57950,
+  "num_followers": 58009,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw",
+  "snapshot_id": "MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Canyon Moonrise",
-        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
-      },
-      "artists": [
-        {
-          "name": "Turlough",
-          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Smoke and Strong Whiskey",
-      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Irish Folk At Its Best",
         "url": "https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 227600,
       "name": "The Bright Side of the Moon",
       "url": "https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Canyon Moonrise",
+        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
+      },
+      "artists": [
+        {
+          "name": "Turlough",
+          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Smoke and Strong Whiskey",
+      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Cry of a Dreamer",
-        "url": "https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc"
-      },
-      "artists": [
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Cry of a Dreamer",
-      "url": "https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Patrick Street",
         "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 257600,
       "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
       "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Cry of a Dreamer",
+        "url": "https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Cry of a Dreamer",
+      "url": "https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -471,6 +471,26 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Madame, I'm a Darling",
+      "url": "https://open.spotify.com/track/1e0zNoLVd9UGLpdJVs9WlE"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Man for Galway: The Best of Sean Tyrrell",
         "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 230440,
       "name": "Cap and Bells",
       "url": "https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Madame, I'm a Darling",
-      "url": "https://open.spotify.com/track/1e0zNoLVd9UGLpdJVs9WlE"
     },
     {
       "added_at": "2021-04-26 15:38:07",

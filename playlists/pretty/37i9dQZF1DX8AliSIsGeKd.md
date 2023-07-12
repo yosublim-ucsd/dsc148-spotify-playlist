@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Skrillex, Boys Noize
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,542 likes - 87 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,791 likes - 87 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 86 | [Evolution](https://open.spotify.com/track/1jLvJbr4zWKygvn3dDbeOa) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Evolution](https://open.spotify.com/album/4Mw9FahZmlbXpzNo4H9WGr) | 3:48 |
 | 87 | [Sun](https://open.spotify.com/track/3gJ3bAKKfTSLDfRhAxxjKS) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu) | [Sun](https://open.spotify.com/album/15t9R810ZFQPsBG2wESkqu) | 3:40 |
 
-Snapshot ID: `MCxhNDM3ZWQ2ZmE5MTg1ODk4MTg3M2RhNTBlYWFmNzJlMTkwMmFjYTQw`
+Snapshot ID: `MCxhYTJiOGU1OWY0ZTBkNTg5NGM5ZjkyNDZjMDVkODMzY2FjNjkzNWNj`

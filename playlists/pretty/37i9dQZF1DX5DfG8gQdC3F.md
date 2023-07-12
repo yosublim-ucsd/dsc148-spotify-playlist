@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR, Taylor Swift, Dominic Fike and 347aidan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,650 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,660 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 66 | [I Just Saw A Ghost](https://open.spotify.com/track/7suxhUUAL3NnOBpUk9J7fd) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [I Just Saw A Ghost](https://open.spotify.com/album/3C4Ry4fqFvQtuy1SX2Pydw) | 3:16 |
 | 67 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 68 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
-| 69 | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
+| 69 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 70 | [Capsize](https://open.spotify.com/track/3adgTn3xnZ4NgAt17b2OiH) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Capsize](https://open.spotify.com/album/3ENP27pZX86pRtAPmzaprD) | 3:41 |
 | 71 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 |
 | 72 | [Every Single Time You Fall In Love](https://open.spotify.com/track/2rqhXfetZMrhpFcg4rPoJm) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Every Single Time You Fall In Love](https://open.spotify.com/album/1eVTwfuKySEV6CrxZ1Su34) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Slow Whine](https://open.spotify.com/track/5WDhz13Rkr3h2xKW7jz75T) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [Xanni](https://open.spotify.com/artist/6aTEaMf07T3LH7YGJcMYtS) | [Slow Whine](https://open.spotify.com/album/1Qq7L1lfyqNt37n5Hc3Hy4) | 3:11 |
 | 100 | [Highkey](https://open.spotify.com/track/2d7X4LdyqkjB01dTaqxkzV) | [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Taxsaal](https://open.spotify.com/artist/7hiTkXJusWkbN3YyTFLkjz) | [Highkey](https://open.spotify.com/album/12vjvK4yZb4H6gABve3vIj) | 2:52 |
 
-Snapshot ID: `MCwzMTQ2M2Q4MWY3YzU0Nzc1OTQwYmZlZTM1Njc4NzIyOTNmNGJkNDYx`
+Snapshot ID: `MCw3ZjQzYjA0MGM0YjdmZTkwMzhhYTdiZmE2NGNjZmMzMjRjZTExN2Rk`

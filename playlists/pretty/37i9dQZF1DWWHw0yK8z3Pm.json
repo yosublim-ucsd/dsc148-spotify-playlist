@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Ryan Bingham",
-  "num_followers": 43861,
+  "num_followers": 43888,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGFlMDU3Nzg1M2YzYTQ5OGYwYjc5MTdmNWY5MzEyZTBiNjYyZTk4",
+  "snapshot_id": "MCwzMTZmZGZkZThlNTZhNmNlMmMxZGZhMGI1NGIxMWIwY2Q4NmZiYmMy",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Songs My Friends Wrote",
         "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 200586,
       "name": "Highway 87",
       "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk"
-      },
-      "artists": [
-        {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "This Mess We're In",
         "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 203659,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Hard To Build. Easy To Break.",
-        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Hard to Build. Easy to Break.",
-      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "A Light in the Attic",
         "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Hard To Build. Easy To Break.",
+        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Hard to Build. Easy to Break.",
+      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Palace Waiting",
-        "url": "https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR"
-      },
-      "artists": [
-        {
-          "name": "Skinny Dyck",
-          "url": "https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL"
-        }
-      ],
-      "duration_ms": 177668,
-      "name": "Hey Who's Counting?",
-      "url": "https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Field Guide",
-        "url": "https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 206783,
-      "name": "Worst of Ways",
-      "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Field Guide",
+        "url": "https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 206783,
+      "name": "Worst of Ways",
+      "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Midnight Blues",
         "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 215803,
       "name": "I Want My Soul Back",
       "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Palace Waiting",
+        "url": "https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR"
+      },
+      "artists": [
+        {
+          "name": "Skinny Dyck",
+          "url": "https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL"
+        }
+      ],
+      "duration_ms": 177668,
+      "name": "Hey Who's Counting?",
+      "url": "https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Take It Like A Man",
-        "url": "https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n"
+        "name": "In the Sundust",
+        "url": "https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g"
       },
       "artists": [
         {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Bad Behavior",
-      "url": "https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa"
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw"
     }
   ],
   "unique_name": "Renegades",

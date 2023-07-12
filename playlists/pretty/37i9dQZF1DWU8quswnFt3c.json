@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: CLAUDIA ",
-  "num_followers": 916645,
+  "num_followers": 916625,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj",
+  "snapshot_id": "MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl",
   "tracks": [
     {
       "added_at": "2023-07-07 18:52:48",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Gerade aus",
+        "url": "https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 131460,
+      "name": "Gerade aus",
+      "url": "https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "Amok",
         "url": "https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 189124,
       "name": "Changer",
       "url": "https://open.spotify.com/track/5reuS90U6IugxXu6kmZNI0"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Gerade aus",
-        "url": "https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 131460,
-      "name": "Gerade aus",
-      "url": "https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Como las Aves",
-        "url": "https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Como las Aves",
-      "url": "https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/7viLr1VxgLKU31I4cX0Gia"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 176012,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6D0fx8HHiA8vXiyvNGDZRf"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Como las Aves",
+        "url": "https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Como las Aves",
+      "url": "https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY"
     },
     {
       "added_at": "2023-07-07 18:52:48",

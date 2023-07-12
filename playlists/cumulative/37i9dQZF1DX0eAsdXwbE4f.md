@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-126 songs - 5 hr 27 min
+127 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Rainfall In The Forest](https://open.spotify.com/track/3VQWzuuAS5VrjHVPiV8MTh) | [Ljungles](https://open.spotify.com/artist/3oBFkcpYGJvUYAOrmeNecO) | [Watercolor Rainbird](https://open.spotify.com/album/3cPb4huENHzb1jNUtc9OcP) | 1:51 | 2021-11-11 | 2023-05-24 |
 | [Rainforest Bird Songs](https://open.spotify.com/track/14jB7OqCZ395Oopbo6kVdk) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Bird Showers](https://open.spotify.com/album/2u6TpPMlbL9S7v8suCplxU) | 3:26 | 2021-11-11 |  |
 | [Rainwoods](https://open.spotify.com/track/7IgNXFcFSczlfUt1xlX9wJ) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [Rainwoods](https://open.spotify.com/album/7icK7OfhqEdGLm8NcGxcqt) | 2:31 | 2021-11-11 |  |
-| [Rainy Bird Symphony](https://open.spotify.com/track/3gdbxvSg7CrOcxZ4y12tqG) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:57 | 2023-06-20 |  |
+| [Rainy Bird Symphony](https://open.spotify.com/track/3gdbxvSg7CrOcxZ4y12tqG) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:57 | 2023-06-20 | 2023-07-12 |
 | [Rainy Busy Forest](https://open.spotify.com/track/3cIVjUmW1mlRi7TX6bhj43) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds and animals in the rain](https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn) | 2:00 | 2021-11-11 |  |
 | [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 | 2023-07-09 |
 | [Rainy Woods](https://open.spotify.com/track/1ikgmjVBJrRR6dqstOpPFK) | [Relax, Bro](https://open.spotify.com/artist/2458EUzcZaoFEJInzQBRag) | [Totally Relaxed Rain](https://open.spotify.com/album/231fpoQIPhRRtmKLboGAXf) | 3:00 | 2021-11-11 |  |
@@ -134,5 +134,6 @@
 | [Wasserfall, Regen, Vogellied](https://open.spotify.com/track/4gkEqZvydPwqbSo0nLIHyh) | [Regen Vögel](https://open.spotify.com/artist/2timdJwNt3QlQ9JjVf5Iy3) | [Wasserfall, Regen, Vogellied](https://open.spotify.com/album/6wL9L8xB4PuuHE6J3bHgp6) | 1:59 | 2021-11-11 | 2023-06-20 |
 | [Wild Birds in the Rain](https://open.spotify.com/track/2UQC85SlD0B74GuJLOoUoO) | [Dusk Till Dawn Nature](https://open.spotify.com/artist/1HGLj1lfs6maeP1xMDqH3X) | [Zoo Rain and Birds Singing](https://open.spotify.com/album/4eD2z73r1chUMrKKcAW1K4) | 2:35 | 2021-11-11 |  |
 | [Windy Forest Rainfall](https://open.spotify.com/track/6W2vwSwZ8q4eqL7muS985d) | [Rainspell](https://open.spotify.com/artist/0b4sTNmnPpWmMXt2164RXx) | [Rain Spell](https://open.spotify.com/album/3xvcpp8kX2YbQqxTAg2Lnn) | 2:40 | 2021-11-11 |  |
+| [雨の中のコオロギ](https://open.spotify.com/track/1TpYvLRcvyF7yIMXNKKT1O) | [Shiroma Rin](https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9) | [Mori no Tori](https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm) | 2:34 | 2023-06-20 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

@@ -5876,6 +5876,24 @@
     {
       "album": {
         "name": "Ta Tihera Trifilia",
+        "url": "https://open.spotify.com/album/465lBkDTiLZr4XwWJRdXrk"
+      },
+      "artists": [
+        {
+          "name": "Mirela Pachou",
+          "url": "https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170868,
+      "name": "Ta Tihera Trifilia",
+      "url": "https://open.spotify.com/track/1sKzyB1pY21LEZhrVXg0tR"
+    },
+    {
+      "album": {
+        "name": "Ta Tihera Trifilia",
         "url": "https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ"
       },
       "artists": [
@@ -5886,7 +5904,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 170868,
       "name": "Ta Tihera Trifilia",
       "url": "https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz"

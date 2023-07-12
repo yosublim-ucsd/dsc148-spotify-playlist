@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2441564,
+  "num_followers": 2441754,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmQ5OTBiYTc5ODlhMDMzZWRmNzRlNWIzOGIxZWE1YzE1NDhiNzJh",
+  "snapshot_id": "MCw4ZGExODExOGI1ZDNmZjAzN2FlYTZjYjY3NWM1NGRmYjNkZDNmODU5",
   "tracks": [
     {
       "added_at": "2023-06-22 14:11:31",
@@ -338,6 +338,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
+        },
+        {
+          "name": "Daklis",
+          "url": "https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
         }
       ],
       "duration_ms": 153110,

@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "JCT",
+        "url": "https://open.spotify.com/album/2fVEKsHOAfozCSTHYtq1d8"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257212,
+      "name": "BAY",
+      "url": "https://open.spotify.com/track/22LvmPeDK2OR7L8NKhtRPk"
+    },
+    {
+      "album": {
         "name": "Be With You (feat. Ai Furihata)",
         "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
       },
@@ -990,6 +1008,24 @@
       "duration_ms": 294000,
       "name": "Call out",
       "url": "https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs"
+    },
+    {
+      "album": {
+        "name": "candy",
+        "url": "https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190045,
+      "name": "candy",
+      "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
     },
     {
       "album": {
@@ -1524,7 +1560,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 225000,
       "name": "Danceless Island",
       "url": "https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 267226,
       "name": "Good Luck,Good Time",
       "url": "https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3"
@@ -3660,7 +3696,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 234761,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU"
@@ -3758,7 +3794,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -4414,7 +4450,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 337573,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
@@ -4847,6 +4883,28 @@
     },
     {
       "album": {
+        "name": "PERFECT BLUE - Partly Cloudy -",
+        "url": "https://open.spotify.com/album/4aXqaCiUNCerhcfQGgfKhM"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "Rikuto Nagira",
+          "url": "https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "PERFECT BLUE - Partly Cloudy -",
+      "url": "https://open.spotify.com/track/5qk44p7vX1REIGPRQEUFDI"
+    },
+    {
+      "album": {
         "name": "Perfect Vacation",
         "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
       },
@@ -5076,7 +5134,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
@@ -6239,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Strangers Dream 2023",
+        "url": "https://open.spotify.com/album/1lUhNrJLqueiDyDAkWfbv0"
+      },
+      "artists": [
+        {
+          "name": "Max Lux",
+          "url": "https://open.spotify.com/artist/63w05awdqrOzgOP1tNbDFd"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Strangers Dream 2023",
+      "url": "https://open.spotify.com/track/2V6IavAUzVJed2tYeb9WZF"
+    },
+    {
+      "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
         "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
@@ -6352,6 +6428,24 @@
       "duration_ms": 249833,
       "name": "Summer Again",
       "url": "https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC"
+    },
+    {
+      "album": {
+        "name": "Summer Ghost",
+        "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222255,
+      "name": "Summer Ghost",
+      "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
     },
     {
       "album": {
@@ -7094,7 +7188,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
@@ -7422,7 +7516,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 243900,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac"
@@ -9989,6 +10083,24 @@
     },
     {
       "album": {
+        "name": "\u5b89\u5fc3\u3068\u6162\u5fc3",
+        "url": "https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6"
+      },
+      "artists": [
+        {
+          "name": "\u5fd7\u6469\u967d\u7acb",
+          "url": "https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294626,
+      "name": "\u5b89\u5fc3\u3068\u6162\u5fc3",
+      "url": "https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u3055\u306a\u5618 -Callin' me- (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/3skNP2DSlofDefG2aZQiGk"
       },
@@ -10388,7 +10500,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 326746,
       "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
       "url": "https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk"
@@ -11058,6 +11170,24 @@
       "duration_ms": 209620,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
+    },
+    {
+      "album": {
+        "name": "City Pop Rendez-Vous",
+        "url": "https://open.spotify.com/album/6x5KIXv4960MZ0Vy5SSZVg"
+      },
+      "artists": [
+        {
+          "name": "Airi",
+          "url": "https://open.spotify.com/artist/5YN0XBqDwo3W5EnFvrc0iJ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259840,
+      "name": "\u90fd\u4f1a",
+      "url": "https://open.spotify.com/track/0uBO7wsxUY9NjzRhVQFcOX"
     },
     {
       "album": {

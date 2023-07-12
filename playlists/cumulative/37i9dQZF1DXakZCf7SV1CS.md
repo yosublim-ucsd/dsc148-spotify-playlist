@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-150 songs - 6 hr 48 min
+151 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [bad idea](https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy) | [B0NKY](https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02) | [bad idea](https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT) | 1:10 | 2022-11-29 | 2023-04-27 |
 | [bad idea](https://open.spotify.com/track/2ihDC1WZFYIwmizyZnE5en) | [pradafaced](https://open.spotify.com/artist/70nvOEzKctDJvsLemvxA0o) | [bad idea](https://open.spotify.com/album/6JAZXubs3rnn20QgWZN1AP) | 1:10 | 2023-04-27 | 2023-07-01 |
 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2021-09-23 | 2022-10-25 |
+| [bad idea](https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK) | 1:09 | 2023-06-20 |  |
 | [bad idea](https://open.spotify.com/track/6hDVQ7JPpfbtvStzs5rnhR) | [streety](https://open.spotify.com/artist/7I1VdcozXg7Tm1jN1kYHg6) | [bad idea](https://open.spotify.com/album/2uMlaWtdhhAAG8N3GG5EcB) | 1:10 | 2022-11-29 | 2023-04-06 |
 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2022-10-21 | 2023-01-05 |
 | [Be Nice 2 Me](https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO) | [0505blade](https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist) | [Be Nice 2 Me](https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8) | 2:07 | 2022-11-10 | 2022-11-25 |
@@ -79,7 +80,7 @@
 | [Hello Kitty](https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Hello Kitty](https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR) | 2:59 | 2021-09-23 |  |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-04-27 |  |
 | [Here](https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [BFOTY](https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM) | [Here](https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25) | 3:16 | 2021-09-23 | 2022-10-22 |
-| [Hey QT](https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t) | [QT](https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z) | [Hey QT](https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W) | 3:55 | 2021-09-23 |  |
+| [Hey QT](https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t) | [QT](https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z) | [Hey QT](https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W) | 3:55 | 2021-09-23 | 2023-07-12 |
 | [hide me here](https://open.spotify.com/track/0kuloMBECT7y3E0a5oMduc) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [hide me here](https://open.spotify.com/album/3hwJTjrj7A1JibjYJVc0Gh) | 3:21 | 2021-09-23 | 2022-10-22 |
 | [Honda](https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa) | [David Shawty](https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk) | [Honda](https://open.spotify.com/album/59OTBWWNBMB0dLbRzmZMIX) | 1:50 | 2021-09-23 | 2023-06-21 |
 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 | 2021-12-21 |  |

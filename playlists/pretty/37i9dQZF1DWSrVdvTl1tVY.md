@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Sonny Fodera, MK & Clementine Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,418 likes - 90 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,485 likes - 90 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
+| 1 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 2 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
 | 3 | [Bring The Heat](https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Bring The Heat](https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK) | 2:37 |
 | 4 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 89 | [The Disco](https://open.spotify.com/track/3UVcnUYcL0aFWxHYYOJCbj) | [Angel Lee](https://open.spotify.com/artist/2wu5DECdLoNlHYwdZQ592R), [Raven Mandella](https://open.spotify.com/artist/3L5rPcw6V9cMjLR3nmpGkg) | [The Disco](https://open.spotify.com/album/6dQ9udBjFSPGx72fXnRh1i) | 3:02 |
 | 90 | [Follow The Call](https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Follow The Call](https://open.spotify.com/album/72HtpLoORiq7jd9SoG3lk9) | 3:03 |
 
-Snapshot ID: `MCxmY2NkMjM3YjMxNjIxODg5NjMyOTliYjE1Nzc5NTAzMGM5NzY5MmNm`
+Snapshot ID: `MCw4NTdiODI1NDA4ZDJhMDhkZWZjOWJhODIzMmU4NjQ3ODA1ODkwMTI0`

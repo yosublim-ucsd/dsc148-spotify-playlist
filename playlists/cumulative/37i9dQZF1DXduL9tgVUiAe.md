@@ -4,7 +4,7 @@
 
 > A new hero takes shape\. Listen to the music from and inspired by Nimona, now streaming on Netflix.
 
-28 songs - 1 hr 8 min
+29 songs - 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Last Stop](https://open.spotify.com/track/5ZT6eES6620s1A2wWWrsPq) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 1:44 | 2023-06-30 |  |
 | [Let's Go](https://open.spotify.com/track/4kOpFj6zFdHVYyezCvBLhd) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 3:12 | 2023-06-30 |  |
 | [Nimona's Theme](https://open.spotify.com/track/4Yxw255m6kcWKl1ZNcvpCE) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 3:00 | 2023-06-30 |  |
+| [One Two Punch \(from the Netflix Film "Nimona"\)](https://open.spotify.com/track/0FiLixhwCJtVLYBl9eKtRS) | [Jessica Boudreaux](https://open.spotify.com/artist/3jlRFxFUvKIu1npXwbWwTL) | [One Two Punch \(from the Netflix Film "Nimona"\)](https://open.spotify.com/album/57dCpxS30H85Kc6XhVN6da) | 2:13 | 2023-07-11 |  |
 | [Please Come Back](https://open.spotify.com/track/7rXCGnji8UU0RHbWoNJ0Oe) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 4:11 | 2023-06-30 |  |
 | [Regicide](https://open.spotify.com/track/2BcEGlaAf25eAauAJAH4b5) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 3:50 | 2023-06-30 |  |
 | [Sacrifice](https://open.spotify.com/track/4YDhlNiW3ze7Cm5M8gV1dK) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 5:32 | 2023-06-30 |  |

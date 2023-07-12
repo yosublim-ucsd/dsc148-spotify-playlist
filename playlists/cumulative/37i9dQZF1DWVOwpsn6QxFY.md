@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-256 songs - 15 hr 38 min
+257 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Everything You Got](https://open.spotify.com/track/2VCvlbv5kn9pjnyY76Bgid) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Everything You Got](https://open.spotify.com/album/0bRxuO3LcjfFh8pFaBmKYG) | 3:36 | 2022-03-31 | 2022-04-15 |
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-08 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-11-13 |
-| [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 | 2023-05-19 |  |
+| [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 | 2023-05-19 | 2023-07-12 |
 | [Falling by the Wayside](https://open.spotify.com/track/6lLABGIpkcR84c13Gg1lnT) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Falling by the Wayside](https://open.spotify.com/album/2EhEO1Avj1EUg0zHrOk29f) | 4:46 | 2021-11-12 | 2022-07-25 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-11-12 | 2023-03-18 |
 | [Fine & Peachy](https://open.spotify.com/track/3pOlJ93rJ9Bm0WWhDkU8wr) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Woman You Want](https://open.spotify.com/album/3tj0F758dlqS3TZjKmtgnM) | 2:52 | 2021-11-12 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2021-11-12 |  |
 | [Habit](https://open.spotify.com/track/1F03U5VIgelva5MHT2vTNc) | [Mellah](https://open.spotify.com/artist/2GLV4oAUIsOw1PIHthXqpF) | [Habit](https://open.spotify.com/album/3QRQhVNSJG1ZJHx0HlPyrN) | 3:44 | 2021-11-12 | 2022-07-28 |
 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 | 2022-03-31 |  |
+| [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 | 2023-07-04 |  |
 | [Heads Look Like Drums](https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs) | 3:04 | 2022-06-23 | 2022-11-20 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-11-12 |  |
 | [Hesitate](https://open.spotify.com/track/1ppEEYAE2NnM3xk7rC7EQL) | [Make Friends](https://open.spotify.com/artist/7dxUKrjbdkaAl1nCCYblq7) | [Hesitate](https://open.spotify.com/album/4WmmqIIKrqmoSVW4whdsVn) | 3:43 | 2021-11-12 | 2022-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,978 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,986 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 48 | [Spring Cleaning](https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Spring Cleaning](https://open.spotify.com/album/4WwHFPtV5d0ielt0pDShvT) | 3:35 |
 | 49 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 |
 
-Snapshot ID: `MCxjNTk2MjVkYTk2M2M2NDYzMWQ3YzcwMDkzY2FhYzE5ODgyNjBjYTY4`
+Snapshot ID: `MCwxZjczNTQ2MWE1MmU2ZjFmOWNhZmRjMWFmZTk4NWI1YTE1NmJjOGNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Peter McPoland
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,114 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,201 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [I Can Do Better Than You](https://open.spotify.com/track/1iXLSF3ubFsM6vQAIvWwvR) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Lovely Hours](https://open.spotify.com/album/6UNyLXllCgkdwuDuudZFYY) | 2:26 |
 | 126 | [Contortionist](https://open.spotify.com/track/09SogrpCmM4FfRgOz61Hn7) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Playing the Part of You Is Me](https://open.spotify.com/album/6Y7ACEx2zgk0c66f9iqrUG) | 4:09 |
 
-Snapshot ID: `MCw5ODkwNzM3ODY3MTFhNDliOTNkZjQ0YzY5YzNmYzg1NWM1NWM5NDk0`
+Snapshot ID: `MCwyZTU1OTQyNTg4Mjg0ZjQ3YWJmNTJhMTU5N2NjMmQ3ODVhOGI1ZWRh`

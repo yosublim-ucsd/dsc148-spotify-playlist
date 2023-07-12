@@ -1,12 +1,12 @@
 {
   "description": "Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.",
-  "num_followers": 43171,
+  "num_followers": 43196,
   "original_name": "Love for Mother's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmM4ODAwN2U5Njg4ZWQzMTdkNzI3ZmExYzZhMWZmZjcwZTI2ZGE0",
+  "snapshot_id": "MCw2YmRhOWFkOTkxNzc2ZDdhNzFiMjc1ODA4M2NmMTY4YTdkYWM2ZTBj",
   "tracks": [
     {
       "added_at": "2023-05-14 21:00:45",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "We Will Dance",
+      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 219560,
       "name": "How Sweet It Is",
       "url": "https://open.spotify.com/track/7hlRDPH40A6qC98Q7aNB2C"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "We Will Dance",
-      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "100 Proof",
-        "url": "https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e"
-      },
-      "artists": [
-        {
-          "name": "Kellie Pickler",
-          "url": "https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Mother's Day",
-      "url": "https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 273493,
       "name": "Me",
       "url": "https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "100 Proof",
+        "url": "https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e"
+      },
+      "artists": [
+        {
+          "name": "Kellie Pickler",
+          "url": "https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Mother's Day",
+      "url": "https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M"
     },
     {
       "added_at": "2023-05-14 21:00:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,033 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,156 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [BÉLICO Y CHOLO \(feat\. Polo Gonzalez\) \- The Remix](https://open.spotify.com/track/660K6X6QHRWaErpxmBkiFN) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [BÉLICO Y CHOLO \(feat\. Polo Gonzalez\) \[The Remix\]](https://open.spotify.com/album/3CyVsx51ZgvvPb7LcgcPoz) | 4:15 |
 | 13 | [Airtag](https://open.spotify.com/track/5ffivCp3duZm9e1qkIEQas) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG) | [Airtag](https://open.spotify.com/album/2S2BNzBSa8XBzJBDKJeF8p) | 3:40 |
 | 14 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 |
-| 15 | [La Parranda \- RMX](https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Blessd](https://open.spotify.com/artist/2Z5mnZwec14UKyifnS4Dhd) | [La Parranda \(RMX\)](https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P) | 3:00 |
+| 15 | [La Parranda \- RMX](https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Parranda \(RMX\)](https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P) | 3:00 |
 | 16 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 |
 | 17 | [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 |
 | 18 | [Qué Lindo](https://open.spotify.com/track/2lcZGkWTcab6NatUVCz1MB) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Qué Lindo](https://open.spotify.com/album/2kFUwpcbGQPTpj6gdJtWJd) | 2:12 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 |
 | 22 | [Hablame Claro](https://open.spotify.com/track/7G7HJ1mJK4PbxpeXLVrzn4) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Hablame Claro](https://open.spotify.com/album/5M19NLirx8jL9YXXLPAmtQ) | 2:24 |
 | 23 | [Bubbaloo](https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Bubbaloo](https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4) | 3:12 |
-| 24 | [Donde Sea <3](https://open.spotify.com/track/3Tidh2alIO0V7sibHnOfRX) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Donde Sea <3](https://open.spotify.com/album/544CtZqX6p2a9wT0eckUnf) | 2:16 |
+| 24 | [Donde Sea <3](https://open.spotify.com/track/6eT3eE9Wz8Ea3CGaLWaOKP) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Donde Sea <3](https://open.spotify.com/album/18BPjNpW7yoRsBdUEifXmP) | 2:13 |
 | 25 | [BANDIDA](https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [BANDIDA](https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb) | 3:49 |
 | 26 | [CLI CLAN \- \(Remix\)](https://open.spotify.com/track/7MAa9K8YxffUkgfjyhzIm1) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [CLI CLAN \(Remix\)](https://open.spotify.com/album/2qphmXHClkEDvj4OIuMUiZ) | 3:22 |
 | 27 | [Caluroso](https://open.spotify.com/track/5j6cASJT6HMahZiKXS9YSU) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Caluroso](https://open.spotify.com/album/6fzkQq1aMApqW5UWdJ9UTv) | 2:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [EN LA MIA](https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [EN LA MIA](https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ) | 3:44 |
 | 54 | [Pégate A Mí](https://open.spotify.com/track/5VkcxCJw61fpIUTMdB2uMe) | [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM) | [Pégate A Mí](https://open.spotify.com/album/7DIDO6wJAZ7xg9FqHb3Us9) | 3:52 |
 
-Snapshot ID: `MCw0MzkyNTgyN2MwZTViN2IyZWZkNWRjZGU5NTNhNGY5ODA4NmE2ZmZk`
+Snapshot ID: `MCw4NzcxMWEyMmU5YjhiNTA4MGRkMzY3ZjY1Y2MwODA3ZmJhMjVjODM3`

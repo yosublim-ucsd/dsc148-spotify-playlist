@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 
 > Check out the official playlist from The Witcher\. Watch The Witcher: Blood Origin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,881 likes - 135 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,963 likes - 135 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 | 9 | [Merwyn of Xintrea](https://open.spotify.com/track/5seMmBWzwLEkcxKbezXan8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:29 |
 | 10 | [Scian's Camp](https://open.spotify.com/track/3h9TScshQ3TMl6nLGvVUet) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 4:09 |
 | 11 | [Balor](https://open.spotify.com/track/3Peup5jnbgm7GfezqhM160) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 4:52 |
-| 12 | [Zacaré the Healer](https://open.spotify.com/track/1HSOCjveEHM9s20S1mAYcC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:30 |
+| 12 | [Zacare the Healer](https://open.spotify.com/track/1HSOCjveEHM9s20S1mAYcC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:30 |
 | 13 | [Into the Misty Marsh](https://open.spotify.com/track/75OtG83NvLHRE6LYMy9Hyx) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:17 |
 | 14 | [Awakening](https://open.spotify.com/track/0USbo0aX8XOERkcM3NXyuI) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 4:09 |
 | 15 | [The Hydra](https://open.spotify.com/track/46WHvyPyirym87KKN6jGAe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:32 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 | 134 | [Last Stand](https://open.spotify.com/track/5xTlXm9MgKYNZ324Vg3keT) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:14 |
 | 135 | [End of an Age](https://open.spotify.com/track/21kzD1vtXg46q1jsucd2nl) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz), [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 3:51 |
 
-Snapshot ID: `MCxjMjQ5YWJlZTUzZjY0OWQ3NzZlNGE0NDA0ZmIxYjMyMjRjZDUyMTk0`
+Snapshot ID: `MCxlMjkxZGMxYWVlOTQwNjlkYjBkNWNkMjljYjFhODM5MzNjNTZkMjBl`

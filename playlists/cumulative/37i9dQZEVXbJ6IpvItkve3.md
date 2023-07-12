@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-741 songs - 1 day 17 hr 41 min
+742 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [אפס מאמץ](https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [אפס מאמץ](https://open.spotify.com/album/6isaVgYKgKOhbRSNppMkGx) | 3:20 | 2021-07-04 | 2021-07-08 |
 | [אפר ואבק](https://open.spotify.com/track/1e5SBUMJfQ9Mx3Zk0OXZmg) | [Yehuda Poliker](https://open.spotify.com/artist/4rQnQQusV2VVuGmDTLlybe) | [אפר ואבק](https://open.spotify.com/album/2px1DDWf7a8xfM55qoMAXB) | 4:32 | 2023-04-19 | 2023-04-21 |
 | [אצלנו בגן](https://open.spotify.com/track/1Jn1ZoYCWdFhdPH9cG8Y8j) | [Shaylee Atary](https://open.spotify.com/artist/6jUAxR5KFMX2hcKKFebeL4) | [באמת שרציתי](https://open.spotify.com/album/1KnRVQXTCmlL49Ule62eU3) | 3:11 | 2021-04-16 | 2023-04-28 |
-| [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 |  |
+| [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 | 2023-07-12 |
 | [ארים ראשי](https://open.spotify.com/track/2WqZYfSeozPYN9bX8tWPyT) | [Shay Gabso](https://open.spotify.com/artist/018HTJ9Cu6WXLAHEbUpU6r) | [ארים ראשי](https://open.spotify.com/album/0uLEEb2fwhBk2YfBQD6W3x) | 3:38 | 2022-05-05 | 2023-04-28 |
 | [ארץ ישראל שלי](https://open.spotify.com/track/58gjKhdAyYFvtuw0sGn95e) | [נירה רבינוביץ](https://open.spotify.com/artist/3mBMLsSr0PuSkTmPxtQu5i) | [דתיה בן דור \- עוד שירי משחק](https://open.spotify.com/album/1g5zWDkBTPvnse7CjVCSuJ) | 1:56 | 2023-04-27 | 2023-04-29 |
 | [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2023-05-27 |
@@ -544,6 +544,7 @@
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לא נרגע](https://open.spotify.com/track/3u2kyAe7mj38p6ETztE5mP) | [Avihai Hollender](https://open.spotify.com/artist/7xdmWLAYEUMdYhgoYMZge1) | [לא נרגע](https://open.spotify.com/album/4ORqv9AlK35BYbO9SZTMSF) | 3:17 | 2023-01-13 | 2023-01-16 |
 | [לא שומעת \(Prod\. by Triangle\)](https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [לא שומעת \(Prod\. by Triangle\)](https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87) | 2:53 | 2023-03-29 | 2023-04-12 |
+| [לא תראה אותי בוכה](https://open.spotify.com/track/5JGVm5Xshr1IlNlW9phZFQ) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא תראה אותי בוכה](https://open.spotify.com/album/0I8aFc70s5OVGIfFWjdRuM) | 3:38 | 2023-07-11 |  |
 | [לאהוב אותך כל יום](https://open.spotify.com/track/0QDGzInNYjTlYI28Xq7slK) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לאהוב אותך כל יום](https://open.spotify.com/album/0QNl8z4VM5lUUI5nDDIsHA) | 3:32 | 2023-05-22 |  |
 | [לאהובי](https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [סיבה לנשום](https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl) | 3:29 | 2022-05-05 | 2023-04-28 |
 | [לאט לאט לאט](https://open.spotify.com/track/0anWq8zX8Hz4jTKmdunfjq) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:31 | 2023-03-01 | 2023-03-05 |

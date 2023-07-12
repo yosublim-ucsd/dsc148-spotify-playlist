@@ -1,12 +1,12 @@
 {
   "description": "ECKO en la casa del Trap Argentino.",
-  "num_followers": 595775,
+  "num_followers": 595881,
   "original_name": "Trapperz Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGI4Mzc1NzFiMjQ3YzcxMDdjNjJkMDU5NTQ4MDU1ZmRiZDRjODg1",
+  "snapshot_id": "MCw3NWYyOTc2YjI3NDNkZGRmOWMwNDc0MjQxODIxZmRhNTZkYTU3ZjIw",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -326,6 +326,10 @@
         {
           "name": "Asan",
           "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Elixir",
+          "url": "https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji"
         }
       ],
       "duration_ms": 197014,
@@ -1650,6 +1654,10 @@
         {
           "name": "Panther",
           "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        },
+        {
+          "name": "Santos Cuneo",
+          "url": "https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ"
         }
       ],
       "duration_ms": 200689,

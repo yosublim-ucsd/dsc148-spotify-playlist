@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 |
 | 100 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 |
 
-Snapshot ID: `MCw3YWUzMDhlNWM5OTU1NDZiZDNkM2E2NWVhNTg3YmZkYTc5Y2E0OWQy`
+Snapshot ID: `MCxmNWFjZTc1NjU0NGI0NDcyOWFlYzRmNjE0M2ZjZTgwM2VkZDgzYTYx`

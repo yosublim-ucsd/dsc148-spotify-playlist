@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Combinación de la Habana & Tefi.
 
-1,233 songs - 3 day 1 hr 12 min
+1,234 songs - 3 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Así fue / Cómo la flor](https://open.spotify.com/track/5QPStRly51cpbMA6mO1mwY) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Leo Jorquera](https://open.spotify.com/artist/5nd4Jehj5daE6G6bOi1z5O) | [Así fue / Cómo la flor](https://open.spotify.com/album/37Ouo7pkfwDPAhFuhNUnD9) | 5:04 | 2023-01-20 | 2023-01-28 |
 | [Así Son Ellas](https://open.spotify.com/track/6c5HqorpeDA84nIrXd9YlY) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Así Son Ellas](https://open.spotify.com/album/1sn0jq6Fx8Bsbih3JiSodK) | 3:25 | 2022-10-07 | 2022-10-29 |
 | [ATEA \- Remix](https://open.spotify.com/track/7MdO1Bq9UVf6Ft1N4u9J6M) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Dj Peligro](https://open.spotify.com/artist/59WHbFutFDJyaUAcwYd1kh), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8) | [ATEA \(Remix\)](https://open.spotify.com/album/7IlPPNMt36EnohhDfYUqlY) | 3:37 | 2022-12-16 | 2022-12-24 |
-| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8) | 4:12 | 2023-07-07 |  |
+| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/7J0ELTewKJkd25s6AbcV1l) | 4:12 | 2023-07-07 |  |
+| [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8) | 4:12 | 2023-07-07 | 2023-07-12 |
 | [Ay Amor \- Ay amor Versión Salsa](https://open.spotify.com/track/2jGt2UprqrS0ib7UMfW12c) | [Nacho Acero](https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR) | [Ay Amor \(Ay amor Versión Salsa\)](https://open.spotify.com/album/3tM7Hjzop61f8Yqcju1e6z) | 3:36 | 2023-05-19 | 2023-06-24 |
 | [Ay No Se Puede](https://open.spotify.com/track/66NlFZcValA5Y6HuAbiAZ2) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Disco de Oro](https://open.spotify.com/album/4VKdZ7FYGCiDTt7GZWIzqM) | 3:47 | 2022-05-13 | 2022-05-28 |
 | [Bachata En La 42 \- Remix](https://open.spotify.com/track/0Zk1NDcnK55z0gbCT1DF8G) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Bachata En La 42 \(Remix\)](https://open.spotify.com/album/7etleDBbcwQLyuKH7ON7X4) | 3:18 | 2023-04-14 | 2023-04-22 |

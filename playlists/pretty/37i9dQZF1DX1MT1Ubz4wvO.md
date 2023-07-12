@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Ruido Rosa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,016 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,028 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Lo Que Sea Menos a Casa](https://open.spotify.com/track/4tS9GSHnxtGwMIYE282N8P) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Lo Que Sea Menos a Casa](https://open.spotify.com/album/0OoDjTArEsezQIwuzoBSXK) | 4:02 |
 | 50 | [Mi Peor Decisión](https://open.spotify.com/track/7jy3aEdzuTuhcwTpxIBX07) | [Reynold](https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS), [Sh4med](https://open.spotify.com/artist/5R3tx9aqBNfc72wszd5Aa6) | [Mi Peor Decisión](https://open.spotify.com/album/7xLcY3LMrzkl81LfnineoU) | 2:28 |
 
-Snapshot ID: `MCxhYjAxZDQyMjBmOThhZTNmNTFjM2NhZWNkMmNjYWMwYzg4NTQxNzU2`
+Snapshot ID: `MCxiNzg1ZGUyMzhkNmNkZjdmZGNhNDU2ZmExNzJmNTliNTZhMWMzMDcy`

@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28128,
+  "num_followers": 28129,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzM5NSwzYTIwZjYxNDcyOTNmNjBmNmZjNzRiOWZmN2E5OGFiY2U1YWRjZjgy",
+  "snapshot_id": "MzM5NyxjOTk5NDFlOGJhMWZmOTk0N2QxY2ZiZTlmNmQwZmM0ZjNhMmI1NmRk",
   "tracks": [
+    {
+      "added_at": "2023-07-11 11:10:49",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 211726,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
+    },
     {
       "added_at": "2023-07-07 18:28:23",
       "album": {
@@ -343,26 +359,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like it",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-04-26 17:55:52",
-      "album": {
-        "name": "The Last Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Shy Girls",
-          "url": "https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "All We Need - ODESZA VIP Remix",
-      "url": "https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY"
     },
     {
       "added_at": "2023-04-14 17:33:21",

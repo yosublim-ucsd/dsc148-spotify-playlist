@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-243 songs - 15 hr 22 min
+245 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cinta Ini](https://open.spotify.com/track/76yLhPFFk1Wxab5OV0V70m) | [Amirchik](https://open.spotify.com/artist/0v3cIqT5jtOSGxotzz8kcZ) | [Cinta Ini](https://open.spotify.com/album/310QQkQcmHQUIqYRnFaBoQ) | 2:23 | 2022-08-31 | 2022-10-28 |
 | [Cinta Tiada Batas](https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Cinta Tiada Batas](https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT) | 4:05 | 2023-06-07 | 2023-07-06 |
 | [damai](https://open.spotify.com/track/105xhd7hg95C3DlEczChRU) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [damai](https://open.spotify.com/album/33HANwlr58QfWVi771AUSk) | 3:20 | 2023-05-17 | 2023-06-08 |
-| [Darah](https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Darah](https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO) | 3:29 | 2023-06-14 |  |
+| [Darah](https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Darah](https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO) | 3:29 | 2023-06-14 | 2023-07-12 |
 | [Debu \- Strings Version](https://open.spotify.com/track/5CRTFdqAMRs1F4NyfMnQFU) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Debu \(Strings Version\)](https://open.spotify.com/album/1EuSXRl5N6AQ2P03FnU5Kq) | 3:29 | 2022-11-16 | 2022-11-25 |
 | [DEPRESI](https://open.spotify.com/track/7rrwz7bK0FX723GxJtN1p7) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI](https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu) | 3:47 | 2022-12-21 | 2023-02-17 |
 | [Di Alam Fana Cintamu](https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Alam Fana Cintamu](https://open.spotify.com/album/5Md6fqUN8QQ0sMDMrilSUi) | 5:06 | 2022-12-14 | 2023-04-13 |
@@ -80,6 +80,7 @@
 | [Hati Lain Di Hatimu](https://open.spotify.com/track/1KXucjuiiz2NN2888Y132A) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/5pJwDtvqjOBNT3qUbsBfvd) | 4:18 | 2022-10-05 | 2022-12-15 |
 | [Hati Lain Di Hatimu](https://open.spotify.com/track/1ZtGsN1V5sRLcunXBQUDB6) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/68A70lSJlv7cFYj8ulPV3C) | 4:18 | 2022-08-17 | 2022-10-08 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 | 2023-02-09 |
+| [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-07-12 |  |
 | [Hidup Tanpamu](https://open.spotify.com/track/04VEB5LZ6slykz3tXTmYpY) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Hidup Tanpamu](https://open.spotify.com/album/1AR9UN1saEOhIb5MVhM8GN) | 4:19 | 2022-12-14 | 2023-01-26 |
 | [Hilang](https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Hilang](https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb) | 3:27 | 2022-09-08 | 2022-10-28 |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2023-02-01 |  |
@@ -227,11 +228,12 @@
 | [Tak Ingin Usai \- Duet Version](https://open.spotify.com/track/0qPiK7vHmTMAckxIgKETN9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tak Ingin Usai \(Duet Version\)](https://open.spotify.com/album/16K8rQ5maxmxeJb5L3uuo4) | 4:38 | 2022-10-12 | 2023-05-24 |
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-12-21 |  |
 | [Tak Pantas Terluka](https://open.spotify.com/track/1zyYrAztUAlOHO9wHyZU0P) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:27 | 2023-05-17 | 2023-06-08 |
+| [Tak Pantas Untukmu](https://open.spotify.com/track/7iCXcIe76NzITmgYoFf3Kv) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Tak Pantas Untukmu](https://open.spotify.com/album/7pgUVKDJakSChNzTWbL04F) | 3:29 | 2023-07-12 |  |
 | [Tak Pernah Cukup](https://open.spotify.com/track/3b2wk2rna1fcdD4i6jtOiL) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Tak Pernah Cukup](https://open.spotify.com/album/5GRekr01XUzgP38lll84i7) | 4:01 | 2022-11-16 | 2023-01-12 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-02-01 |  |
 | [Takdir Cinta Kita](https://open.spotify.com/track/4EoLGAIujVY0R1wlzUVeN8) | [Asfan Shah](https://open.spotify.com/artist/5Lle63cJEwBcQF28xSTIGO), [Erin CTJ](https://open.spotify.com/artist/422q9WA6jZijFrjXb0SwSo) | [Takdir Cinta Kita](https://open.spotify.com/album/09X6y5G2YzgBkmICY5zii1) | 3:52 | 2023-03-22 | 2023-05-18 |
 | [Tega](https://open.spotify.com/track/0heJfKKROo8ELfJH94RUYe) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tega](https://open.spotify.com/album/5LyzuRigW4b7bP0yaXma1q) | 3:55 | 2022-09-08 | 2022-11-17 |
-| [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2023-06-07 |  |
+| [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2023-06-07 | 2023-07-12 |
 | [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 | 2023-03-22 |  |
 | [Tercipta Satu Senyuman](https://open.spotify.com/track/2TNBK6MRJ8MZH0XykFG5K6) | [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [Tercipta Satu Senyuman](https://open.spotify.com/album/5JL6GQ1mFUUIzXTEBCnAkV) | 3:49 | 2023-01-09 |  |
 | [Terlalu Rindu](https://open.spotify.com/track/1PPKQYOAa95C1EmO0PziEv) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Terlalu Rindu](https://open.spotify.com/album/6rpYbCUQtbzAt9rkk6xoIY) | 3:47 | 2023-01-04 | 2023-01-26 |

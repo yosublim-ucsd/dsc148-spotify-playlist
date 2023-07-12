@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50077,
+  "num_followers": 50086,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjQ4MjdmNGQ4MzIzMmE3NDVjNzU5ZGZhNjk2ZGI2ZGI4MDMxYzlj",
+  "snapshot_id": "MCxlOTZmMTNlODRiYWI0MDE0MmYwYmRkNzIyMmNlYTE5OWJhNWQ1NDIx",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -103,6 +103,50 @@
       "duration_ms": 260094,
       "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
       "url": "https://open.spotify.com/track/28wJVYrC30oHCncNURR2Ws"
+    },
+    {
+      "added_at": "2023-07-11 10:57:09",
+      "album": {
+        "name": "Modala Male (From \"Thothapuri 2\")",
+        "url": "https://open.spotify.com/album/0IQKgwuJvdNutusqRzm7bZ"
+      },
+      "artists": [
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 273962,
+      "name": "Modala Male (From \"Thothapuri 2\")",
+      "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
+    },
+    {
+      "added_at": "2023-07-11 10:55:53",
+      "album": {
+        "name": "Miss Shetty Mr Polishetty (Kannada)",
+        "url": "https://open.spotify.com/album/4EDeV6UjeSY1xSDt6zATNj"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "duration_ms": 167051,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/6HhBDFjRAK28aqnb6Xyfc2"
     },
     {
       "added_at": "2023-07-08 12:44:18",
@@ -419,22 +463,6 @@
       "duration_ms": 237250,
       "name": "Oh My Love - From \"Ambuja\"",
       "url": "https://open.spotify.com/track/51Vp53MR4How58rfSycArK"
-    },
-    {
-      "added_at": "2023-07-03 10:32:24",
-      "album": {
-        "name": "Damayana",
-        "url": "https://open.spotify.com/album/7FyBN0JUMBxjm5hVmvNKIp"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        }
-      ],
-      "duration_ms": 171454,
-      "name": "Idu Damayana Title Track",
-      "url": "https://open.spotify.com/track/5LDGqaTQuc2lwgqRMrpeHE"
     },
     {
       "added_at": "2023-06-30 11:28:38",

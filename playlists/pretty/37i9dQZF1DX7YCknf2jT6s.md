@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,548 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,717 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calder Shapes](https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Calder Shapes](https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe) | 7:08 |
 | 2 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL) | 3:46 |
 | 3 | [Something I'm Used To](https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 1:10 |
-| 4 | [Freedom & Progress](https://open.spotify.com/track/0bBksTjMnvGUORqrxcxBI3) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT), [Paola Gladys](https://open.spotify.com/artist/5EAvaLMWNBz8UZnmiVp0zk), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Umoja](https://open.spotify.com/album/1IeyfKWkKBI83vE1p2DKe3) | 8:12 |
+| 4 | [Freedom & Progress](https://open.spotify.com/track/0bBksTjMnvGUORqrxcxBI3) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT), [Paola Gladys](https://open.spotify.com/artist/5EAvaLMWNBz8UZnmiVp0zk) | [Umoja](https://open.spotify.com/album/1IeyfKWkKBI83vE1p2DKe3) | 8:12 |
 | 5 | [Oblivion](https://open.spotify.com/track/4qQvcciZv5CKP5JOs6b1KS) | [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Oblivion](https://open.spotify.com/album/3U9nhgg6ulMMFgQ9mrPpPq) | 4:23 |
 | 6 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
 | 7 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 | 100 | [Catalyst](https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [John Lake](https://open.spotify.com/artist/4dyFqMBXDGSMXAev9B0NGX) | [Catalyst](https://open.spotify.com/album/4HWL8RyCRoeoh6JK1TduJu) | 7:38 |
 
-Snapshot ID: `MCwxNjVkOTRjNmM0MDc0NGY0ZTMyOWQ2NjM4NWYwMWE3NDIwZmMyZDMx`
+Snapshot ID: `MCw1ZDhhYmY3YzdiMTAxNzQ3MTVmODQ0YzI1OWYzNzg5ZmM0NjdkYmEw`

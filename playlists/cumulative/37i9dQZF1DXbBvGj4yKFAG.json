@@ -3248,7 +3248,7 @@
     {
       "album": {
         "name": "Suburbia",
-        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
+        "url": "https://open.spotify.com/album/1OP8n91DWrkwBQw4L9vrli"
       },
       "artists": [
         {
@@ -3263,6 +3263,28 @@
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197333,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5q2tAmpIhk2gzCuXlBgbZk"
+    },
+    {
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"

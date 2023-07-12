@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ツチヤカレン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,190 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,216 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 2 | [Natsu Tenshi](https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Natsu Tenshi](https://open.spotify.com/album/2w9xpvHCmhTAQafp19EquG) | 3:52 |
 | 3 | [Flowers](https://open.spotify.com/track/0if6i3ODnZS6quIauUusHH) | [ITSUKI MUSIC](https://open.spotify.com/artist/5qtYM6FbZWSIeb3RuKeezZ), [Kanofy](https://open.spotify.com/artist/20ObnJsuKvhakI1WfjZBmR) | [Flowers](https://open.spotify.com/album/0TSBhBYl5RFPg9vIg543yB) | 2:25 |
 | 4 | [Teenage blue](https://open.spotify.com/track/2fy59Rf80dVMdtCwxQDo9U) | [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A), [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [WAVE RIDER](https://open.spotify.com/album/0kKhmKtCQx4MkIs1YfiwqX) | 2:42 |
-| 5 | [metropolitan](https://open.spotify.com/track/0QgrmIV5JDGlZuhxnBu9Nl) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [metropolitan](https://open.spotify.com/album/0dsr6eRORfoixb1zQPJLiG) | 3:52 |
+| 5 | [metropolitan](https://open.spotify.com/track/39Jw47Bt3gN54DFp1J8EUs) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [metropolitan](https://open.spotify.com/album/6iXxNgIey0X3u76kPxz2DV) | 3:52 |
 | 6 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 |
 | 7 | [The Tale of a Moonlight Night](https://open.spotify.com/track/5ZeqSm0NYTtirrruUCfHzE) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:06 |
 | 8 | [スターダスト](https://open.spotify.com/track/3F5Z6m3OeWuX5TaLWqd8aK) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [スターダスト](https://open.spotify.com/album/1FXUp7vnXJL7YzsftKqOfe) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Iria](https://open.spotify.com/track/5dzjLYKpR8NzKVAyJY4FRZ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Iria](https://open.spotify.com/album/6cWPUrFmaXLUwHs9h509ww) | 2:37 |
 | 80 | [SOMEDAY](https://open.spotify.com/track/6n1K7EX4HfI2wVZbXb6OI8) | [西野恵未](https://open.spotify.com/artist/24RkBHI4XkYt7o3nFrV6Em) | [SOMEDAY](https://open.spotify.com/album/1cPGk0PsWCNVswCePmo7Iy) | 3:41 |
 
-Snapshot ID: `MCxkNDIyZDg2MWZkM2Y4MjhhYzQ5MzUyMzUxMWZjZWYzZWQ4NTFkNGYz`
+Snapshot ID: `MCxjMTQ0ZTU2ODBhZWQyOWFhYmU3MTlmYjJjOTVmZDdjYjU5ZDRiMGUw`

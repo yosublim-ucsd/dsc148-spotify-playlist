@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 623204,
+  "num_followers": 623247,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi",
+  "snapshot_id": "MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Worship Soul",
+        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "duration_ms": 376372,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Anthony Brown & group therAPy",
         "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Worship Soul",
-        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
-      },
-      "artists": [
-        {
-          "name": "Anita Wilson",
-          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
-        }
-      ],
-      "duration_ms": 376372,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
     },
     {
       "added_at": "2021-06-25 06:54:59",

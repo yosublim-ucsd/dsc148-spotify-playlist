@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,297 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,395 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 38 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 |
 | 39 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 |
 | 40 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
-| 41 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 |
-| 42 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 41 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 42 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 |
 | 43 | [Marcus Camby \(feat\. Jim Jones & Tommy Wright III\)](https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Tommy Wright III](https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 2:38 |
 | 44 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
 | 45 | [Shapeshifter](https://open.spotify.com/track/3I5tzGSgvtFWpMx2dRN0fl) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [ChanHays](https://open.spotify.com/artist/71WAGa6lzYIgOOvGwifQtk) | [Prisoner of Circumstance](https://open.spotify.com/album/1NybbGtRnS2FiOpnuK57AO) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [MOTHERLESS \- Single Version](https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MOTHERLESS](https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ) | 3:33 |
 | 50 | [Take 'Em Out \(feat\. Jadakiss, Benny The Butcher & Scar Lip\)](https://open.spotify.com/track/4plNxh0bXcLBAQhDK8vDQ3) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 4:24 |
 
-Snapshot ID: `MCw4MmY1MmZjY2RlMzdiNjc2NGIwN2MxNWI5MDY5MjE5ZWYwZDQ4NDgy`
+Snapshot ID: `MCxjN2ZmNTY5N2I3M2IxZTkzNjE4ZmI1YjQ4NGMzMGY1MzIwMzYyNmIw`

@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 220866,
       "name": "Digging Shelters",
       "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
@@ -4122,6 +4122,24 @@
       "duration_ms": 307263,
       "name": "Watching the Storm",
       "url": "https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1"
+    },
+    {
+      "album": {
+        "name": "The Vernon Spring",
+        "url": "https://open.spotify.com/album/7wDStK8oLYex4lBSIB0yof"
+      },
+      "artists": [
+        {
+          "name": "The Vernon Spring",
+          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230003,
+      "name": "Waves Know Shores",
+      "url": "https://open.spotify.com/track/0u5oA1EE0yII0QeazMJj8G"
     },
     {
       "album": {

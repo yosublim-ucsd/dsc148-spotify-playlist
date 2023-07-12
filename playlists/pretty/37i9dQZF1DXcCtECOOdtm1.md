@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,315 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,344 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 43 | [Winter's Tale \~冬物語\~](https://open.spotify.com/track/5OJfMJasV2Cr6n7DKNiruL) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [Free Soul Original Love 90s\~EMI Years](https://open.spotify.com/album/1y4XMGzhAqUZcfpxh9zQ7R) | 5:15 |
 | 44 | [淡い季節のサングラス](https://open.spotify.com/track/2LVc1ovrUpZiB7Q2SY7BvV) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 4:47 |
 | 45 | [6月の雨](https://open.spotify.com/track/3Yj7zIxt2FUFSoeGZR9W7q) | [Yumi Tanimura](https://open.spotify.com/artist/795ohAwDw5aYIOy7K69oJF) | [PRISM](https://open.spotify.com/album/7CXKBaIUgFp0PPNJhKM0lF) | 4:05 |
-| 46 | [DRIVE](https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:07 |
+| 46 | [DRIVE](https://open.spotify.com/track/6mTwhiU3lNddqGnRocB6MH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [ICE Complete Singles](https://open.spotify.com/album/0seeoqATMuDxMQTlpWAvKT) | 4:13 |
 | 47 | [ぼくらが旅に出る理由](https://open.spotify.com/track/2p0owRvYOHdTNFRvh7aVV5) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [LIFE](https://open.spotify.com/album/0Tdt88VQdPyd29PRcvBgYG) | 6:56 |
 | 48 | [Summer's Gone](https://open.spotify.com/track/6ba2rP5GlBGvf6iGre793z) | [GREAT3](https://open.spotify.com/artist/30J6mBcyUPnaFvosCbwril) | [Richmondo High](https://open.spotify.com/album/23Va8dFffSGu9AmvygAtff) | 5:16 |
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCwxYjNlMWZmODJmOGQ0MWJiNWQ3N2VkY2YwMzZhZjE4YjlmZDdiNzM4`
+Snapshot ID: `MCw5YmE3YmQ4OWM5ZDAyNTAzY2ZlMDEzY2E1OWZlYmFhNWYzMDFmMmFh`

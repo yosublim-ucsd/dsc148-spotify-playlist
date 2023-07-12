@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj?si=uD060DMQRRq6DTwxZg340w">Cici</a> & <a href="https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW?si=xy78nUYZQ2\-yy4PcFIWYew">DJ Zinhle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,200 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,217 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 24 | [Iqiniso](https://open.spotify.com/track/7kU1FOddAQbqFKT6uVumg6) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Iqiniso](https://open.spotify.com/album/7f4N4nm6oQ2au6fszZwjx8) | 2:59 |
 | 25 | [Emathandweni \(feat\. Thalitha & Dj Jim MasterShine\)](https://open.spotify.com/track/57jG15A7YwMCpMCucIGC7A) | [Supta](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Thalitha](https://open.spotify.com/artist/0h1mUSkoZxVoesfpARYXXE) | [Emathandweni \(feat\. Thalitha & Dj Jim MasterShine\)](https://open.spotify.com/album/1FWgQopULsupZ1zeTdQ5dT) | 6:22 |
 | 26 | [Excuses](https://open.spotify.com/track/18ozEdfEItAJxK0s2xS4IU) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Second Kind](https://open.spotify.com/album/45lRnw6ZrXjQrgiNNKrsuu) | 2:49 |
-| 27 | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
+| 27 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 28 | [King Of My Castle \(feat\. Kali Mija\)](https://open.spotify.com/track/0BgVg3HVMYgPHI93q9998n) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Turbo SUV](https://open.spotify.com/artist/6ktgVCLB3BSLy5VUnOqxYj), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [King Of My Castle \(feat\. Kali Mija\)](https://open.spotify.com/album/4ELTamfth9Pn1gbbuxZswA) | 2:17 |
 | 29 | [Wounds](https://open.spotify.com/track/4nRKMhBRqH2SOWHw5alcKp) | [Benjamin III](https://open.spotify.com/artist/0pexDzG6akTO0BoI1LSjX7) | [WOUNDS \(EP\)](https://open.spotify.com/album/1hoVVzYezAITdmQkZESd3R) | 5:43 |
 | 30 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [I Won't Say No](https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [I Won't Say No](https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd) | 2:29 |
 | 50 | [Call Me](https://open.spotify.com/track/1NOlini2sVaKWnQ9FS50hP) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Call Me](https://open.spotify.com/album/19EEBtPzeF4hOlD5JabhLc) | 2:57 |
 
-Snapshot ID: `MCw3YWRjMGY2YzU1ZTk3ZWE2NGU5YTUxOTYyOTFkNjU4MjFkNmZjYTlh`
+Snapshot ID: `MCxlZmNhMDg2YjNkMTU5NTQ5ZjMyNWNmZjBhYzFhMTlmZjM4ZWFjODI5`

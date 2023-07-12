@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. laurel smith
 
-579 songs - 1 day 3 hr 16 min
+580 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [GROWING INTO IT](https://open.spotify.com/track/6VWQYZW75FuIWG5UZ58B3G) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [GROWING INTO IT](https://open.spotify.com/album/3D7hmJmOmHh1Tp1UUO9K7U) | 3:20 | 2023-04-06 | 2023-05-13 |
 | [GUNSLINGER](https://open.spotify.com/track/5FeS825T9XlsvmGwxzL3Dn) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [GUNSLINGER](https://open.spotify.com/album/1q5qNIrsrJEpOBzuCjoGOI) | 3:06 | 2023-05-18 | 2023-06-09 |
 | [HAMMER 2 THE FACE](https://open.spotify.com/track/0nsPz1UksUuEYzrON9dsiI) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [HAMMER 2 THE FACE](https://open.spotify.com/album/2gvOqQmGnehGMINYBO9Oga) | 1:12 | 2022-11-04 | 2023-01-13 |
-| [HAMMER 2 THE FACE](https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 1:12 | 2023-07-06 |  |
+| [HAMMER 2 THE FACE](https://open.spotify.com/track/6fxL63j4NI3CSKJbDiaTkg) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Kappacore](https://open.spotify.com/album/389GYp97JplpHm1e44Hbgm) | 1:12 | 2023-07-06 |  |
+| [HAMMER 2 THE FACE](https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 1:12 | 2023-07-06 | 2023-07-12 |
 | [Happy Kid](https://open.spotify.com/track/0wtKHFtA9WC8if4CMZMqT4) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Happy Kid](https://open.spotify.com/album/16qOzv35W20lADEUlUd2Zl) | 2:22 | 2022-11-18 | 2023-03-03 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-04-29 |
 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 | 2023-03-24 |  |

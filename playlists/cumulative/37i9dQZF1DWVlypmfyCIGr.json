@@ -22480,10 +22480,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 232376,
       "name": "metropolitan",
       "url": "https://open.spotify.com/track/0QgrmIV5JDGlZuhxnBu9Nl"
+    },
+    {
+      "album": {
+        "name": "metropolitan",
+        "url": "https://open.spotify.com/album/6iXxNgIey0X3u76kPxz2DV"
+      },
+      "artists": [
+        {
+          "name": "Nirgilis",
+          "url": "https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232376,
+      "name": "metropolitan",
+      "url": "https://open.spotify.com/track/39Jw47Bt3gN54DFp1J8EUs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ARMOR. Artwork: Isu Kim",
-  "num_followers": 7117,
+  "num_followers": 7119,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM1NDUxMWFiMzJmNWI3ODYxZTJkMjlmZmM2YWNlYjgwNzVlMmEw",
+  "snapshot_id": "MCxkYmUxMjA4MDU5YjM2Yjg1ZGUzNTdiZDZiNDZkZjVjMDZhMWZkZDcx",
   "tracks": [
     {
       "added_at": "2023-07-07 13:43:44",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
+        "name": "\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
+        "url": "https://open.spotify.com/album/5RtrClNbpOZwrlbyCoTt8Q"
+      },
+      "artists": [
+        {
+          "name": "Yes Indeed",
+          "url": "https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
+      "url": "https://open.spotify.com/track/2kiFHMp3sZy0YiWi1z40Q4"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
         "name": "\u0e2a\u0e38\u0e2a\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08",
         "url": "https://open.spotify.com/album/2gNI7Zgtt0HjkeTVvCFSdj"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 269666,
       "name": "\u0e2a\u0e38\u0e2a\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/38QeC6JhlQidgdYE3KxbhZ"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
-        "name": "\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
-        "url": "https://open.spotify.com/album/5RtrClNbpOZwrlbyCoTt8Q"
-      },
-      "artists": [
-        {
-          "name": "Yes Indeed",
-          "url": "https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
-      "url": "https://open.spotify.com/track/2kiFHMp3sZy0YiWi1z40Q4"
     },
     {
       "added_at": "2023-07-07 13:43:44",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
-        "name": "\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (LastStory) feat. LAWIN",
-        "url": "https://open.spotify.com/album/0LIYWLjegTLAlB1WmkCd9A"
-      },
-      "artists": [
-        {
-          "name": "THE HALF MOONs",
-          "url": "https://open.spotify.com/artist/2eR1B1z491xHFXpw5hN4tx"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (LastStory) feat. LAWIN",
-      "url": "https://open.spotify.com/track/31jFfXwOs02XLVIfiqRk2p"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
         "name": "\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e47\u0e15\u0e21\u0e35\u0e19\u0e47\u0e2d\u0e15",
         "url": "https://open.spotify.com/album/2yXSePM5mhJWqJyp1V22k3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 227403,
       "name": "\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e47\u0e15\u0e21\u0e35\u0e19\u0e47\u0e2d\u0e15",
       "url": "https://open.spotify.com/track/4vOSpETdHcJW0mc41dWEsb"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (LastStory) feat. LAWIN",
+        "url": "https://open.spotify.com/album/0LIYWLjegTLAlB1WmkCd9A"
+      },
+      "artists": [
+        {
+          "name": "THE HALF MOONs",
+          "url": "https://open.spotify.com/artist/2eR1B1z491xHFXpw5hN4tx"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (LastStory) feat. LAWIN",
+      "url": "https://open.spotify.com/track/31jFfXwOs02XLVIfiqRk2p"
     },
     {
       "added_at": "2023-07-07 13:43:44",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/7HPeELIiUAx4DMkv71b3Qf"
+      },
+      "artists": [
+        {
+          "name": "Makesense",
+          "url": "https://open.spotify.com/artist/4OmbSkYFHv3nTDYM3yWK3d"
+        }
+      ],
+      "duration_ms": 274909,
+      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/50dkGsJE5vAqDDLRahdffY"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
         "name": "\u0e20\u0e32\u0e1e\u0e41\u0e25\u0e30\u0e40\u0e2a\u0e35\u0e22\u0e07",
         "url": "https://open.spotify.com/album/5uXMOSZSiAueRN60eM5jS3"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 242857,
       "name": "\u0e20\u0e32\u0e1e\u0e41\u0e25\u0e30\u0e40\u0e2a\u0e35\u0e22\u0e07",
       "url": "https://open.spotify.com/track/4tb5dftCunH0FAQlvhvBJR"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
-        "url": "https://open.spotify.com/album/7HPeELIiUAx4DMkv71b3Qf"
-      },
-      "artists": [
-        {
-          "name": "Makesense",
-          "url": "https://open.spotify.com/artist/4OmbSkYFHv3nTDYM3yWK3d"
-        }
-      ],
-      "duration_ms": 274909,
-      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
-      "url": "https://open.spotify.com/track/50dkGsJE5vAqDDLRahdffY"
     },
     {
       "added_at": "2023-07-07 13:43:44",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
+        "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e17\u0e35\u0e48 1",
+        "url": "https://open.spotify.com/album/1rbJsp5Z6UgfgwRLjk0CW4"
+      },
+      "artists": [
+        {
+          "name": "Mike Pattaradet",
+          "url": "https://open.spotify.com/artist/2fjWtSnWlFZ5Tu6K2rGi0y"
+        }
+      ],
+      "duration_ms": 214192,
+      "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e17\u0e35\u0e48 1",
+      "url": "https://open.spotify.com/track/6v2VZcUpxg1QZ191hsz5GV"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e0a\u0e2d\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
         "url": "https://open.spotify.com/album/6pEOj4QZjqrPo9gu1qscG2"
       },
@@ -367,6 +383,26 @@
       "duration_ms": 256437,
       "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e0a\u0e2d\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/4jvLMMlvkLyYYWflUU074V"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
+        "name": "Don't Wanna Lose \"U\"",
+        "url": "https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3"
+      },
+      "artists": [
+        {
+          "name": "Eleven",
+          "url": "https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN"
+        },
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "duration_ms": 283967,
+      "name": "How Are U?",
+      "url": "https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt"
     },
     {
       "added_at": "2023-07-07 13:43:44",
@@ -419,22 +455,6 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
-        "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e17\u0e35\u0e48 1",
-        "url": "https://open.spotify.com/album/1rbJsp5Z6UgfgwRLjk0CW4"
-      },
-      "artists": [
-        {
-          "name": "Mike Pattaradet",
-          "url": "https://open.spotify.com/artist/2fjWtSnWlFZ5Tu6K2rGi0y"
-        }
-      ],
-      "duration_ms": 214192,
-      "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e17\u0e35\u0e48 1",
-      "url": "https://open.spotify.com/track/6v2VZcUpxg1QZ191hsz5GV"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e25\u0e49\u0e27 (Decision)",
         "url": "https://open.spotify.com/album/1E4GPgDgNIT6FheVugD7NA"
       },
@@ -451,22 +471,34 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
-        "name": "Don't Wanna Lose \"U\"",
-        "url": "https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3"
+        "name": "love you in every universe (strange one)",
+        "url": "https://open.spotify.com/album/6eTXoA85WmxkqnWK17WMT0"
       },
       "artists": [
         {
-          "name": "Eleven",
-          "url": "https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN"
-        },
-        {
-          "name": "Varis",
-          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+          "name": "jaREE",
+          "url": "https://open.spotify.com/artist/6pwrUoH6pmrqz36sgao6zM"
         }
       ],
-      "duration_ms": 283967,
-      "name": "How Are U?",
-      "url": "https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt"
+      "duration_ms": 195980,
+      "name": "love you in every universe (strange one)",
+      "url": "https://open.spotify.com/track/11YC2ySCKNHhWYS8P0n7ma"
+    },
+    {
+      "added_at": "2023-07-07 13:43:44",
+      "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e21\u0e32\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0CzIXB5bldpHiWp02pBXPn"
+      },
+      "artists": [
+        {
+          "name": "\u0e27\u0e07\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+          "url": "https://open.spotify.com/artist/0k400OLisGMIfEWK0z0TKC"
+        }
+      ],
+      "duration_ms": 260778,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e21\u0e32\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/7jz0GJfOEwDiy0Qth0RKJY"
     },
     {
       "added_at": "2023-07-07 13:43:44",
@@ -511,22 +543,6 @@
     {
       "added_at": "2023-07-07 13:43:44",
       "album": {
-        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e21\u0e32\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0CzIXB5bldpHiWp02pBXPn"
-      },
-      "artists": [
-        {
-          "name": "\u0e27\u0e07\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
-          "url": "https://open.spotify.com/artist/0k400OLisGMIfEWK0z0TKC"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e21\u0e32\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/7jz0GJfOEwDiy0Qth0RKJY"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
         "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Last Time)",
         "url": "https://open.spotify.com/album/0yzgP8hD9uDpIulcDTTIVd"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 220077,
       "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Last Time)",
       "url": "https://open.spotify.com/track/7KfWgXqPwa7wTm8g6TWz3P"
-    },
-    {
-      "added_at": "2023-07-07 13:43:44",
-      "album": {
-        "name": "love you in every universe (strange one)",
-        "url": "https://open.spotify.com/album/6eTXoA85WmxkqnWK17WMT0"
-      },
-      "artists": [
-        {
-          "name": "jaREE",
-          "url": "https://open.spotify.com/artist/6pwrUoH6pmrqz36sgao6zM"
-        }
-      ],
-      "duration_ms": 195980,
-      "name": "love you in every universe (strange one)",
-      "url": "https://open.spotify.com/track/11YC2ySCKNHhWYS8P0n7ma"
     },
     {
       "added_at": "2023-07-07 13:43:44",

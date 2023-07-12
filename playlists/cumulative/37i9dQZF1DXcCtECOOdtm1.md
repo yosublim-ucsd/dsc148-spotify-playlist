@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-75 songs - 6 hr 9 min
+76 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Candy](https://open.spotify.com/track/7cfqoGxkODGUo6pmvXfROW) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:40 | 2021-04-15 | 2022-11-13 |
 | [Candy](https://open.spotify.com/track/6TdE2qJLF6WVjmSI9tejG2) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [miss\. G](https://open.spotify.com/album/3IpAH8JSFF2SXz8YcolB0a) | 4:41 | 2021-04-15 | 2022-07-29 |
 | [DEEP FRENCH KISS](https://open.spotify.com/track/3840uavKqiGjuWZ32vu1b6) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [LOVE! LOVE! & LOVE!](https://open.spotify.com/album/2sbXsIxF3TUIuc4iVhSs1c) | 4:39 | 2021-04-15 |  |
-| [DRIVE](https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:07 | 2021-04-15 |  |
+| [DRIVE](https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:07 | 2021-04-15 | 2023-07-12 |
 | [DRIVE](https://open.spotify.com/track/4OuRfYTRwRnpsMGUoP3mrz) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [We're In The Mood](https://open.spotify.com/album/1zNPX6JF2e7iCzMMb9CPRU) | 4:07 | 2021-04-15 | 2022-09-16 |
+| [DRIVE](https://open.spotify.com/track/6mTwhiU3lNddqGnRocB6MH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [ICE Complete Singles](https://open.spotify.com/album/0seeoqATMuDxMQTlpWAvKT) | 4:13 | 2021-04-15 |  |
 | [Edo River](https://open.spotify.com/track/7fMzDKqXI1yLugVJNWyiwm) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [EDO RIVER](https://open.spotify.com/album/1qFE5dkutI58p4UkN4Sho4) | 5:02 | 2021-04-15 |  |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0yiMxEV6t1oJsDZDQaf7vB) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [GOODDEST](https://open.spotify.com/album/2X3g1UYUiMk7xmhWcoj7pc) | 5:15 | 2021-04-15 |  |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0QeQUNszvuv1lyIFgpd5XA) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/7GFX6rzvQeZQkrildFNh7V) | 5:16 | 2021-04-15 | 2022-07-29 |

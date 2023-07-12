@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,447 songs - 2 day 21 hr 45 min
+1,449 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [get yo bread](https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [get yo bread](https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf) | 3:44 | 2022-07-15 | 2022-08-06 |
 | [get yo bread](https://open.spotify.com/track/7L5W4IMeAwM0jYTCmS6AjA) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:44 | 2022-10-25 | 2022-10-29 |
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-03-02 |
-| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 | 2023-07-12 |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2022-10-26 |
 | [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 | 2023-05-24 |
@@ -515,6 +515,7 @@
 | [Goodmood](https://open.spotify.com/track/4arIMs14aBJkAfWe2alHUQ) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Goodmood](https://open.spotify.com/album/6c38wrxmxgszEF0oHhMYxr) | 2:41 | 2021-08-07 | 2022-07-09 |
 | [GOODSEX](https://open.spotify.com/track/6zRlpxpNBRIqqDb6HqRbhS) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [GOODSEX](https://open.spotify.com/album/7vy0aVfHqIRjtbTwk93z7d) | 2:44 | 2023-04-28 | 2023-05-27 |
 | [GOOFY!](https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GOOFY!](https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz) | 2:29 | 2022-05-11 | 2022-07-01 |
+| [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2023-07-11 |  |
 | [Gray](https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Gray](https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF) | 3:02 | 2023-03-03 | 2023-05-20 |
 | [Great Taste](https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [NAYANA IZ](https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm) | [Great Taste](https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB) | 2:10 | 2022-10-04 | 2023-05-27 |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-04 | 2022-03-04 |
@@ -550,7 +551,8 @@
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-22 | 2022-03-01 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-10-13\* | 2021-01-23 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-10-13\* | 2021-05-29 |
-| [heaven](https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC) | 2:00 | 2023-06-06 |  |
+| [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 | 2023-06-06 |  |
+| [heaven](https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC) | 2:00 | 2023-06-06 | 2023-07-12 |
 | [Heaven Or Hell](https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Heaven Or Hell](https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs) | 2:29 | 2022-10-25 | 2022-10-29 |
 | [HEAVY METAL](https://open.spotify.com/track/35ZDgSGHRkV04aYdkP1VfI) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [HEAVY METAL](https://open.spotify.com/album/22M4UMtjicyvAs4fwX91AG) | 2:39 | 2021-02-19 | 2021-10-14 |
 | [Helen](https://open.spotify.com/track/6J4gaubSjwTGrtCkXKs91T) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Helen](https://open.spotify.com/album/38SJkjc2r7EQGdBaTRCBu0) | 2:37 | 2020-10-13\* | 2020-11-03 |
@@ -1091,7 +1093,7 @@
 | [Sensitive](https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF) | 2:54 | 2020-10-13\* | 2021-05-29 |
 | [SEPTEMBER 17](https://open.spotify.com/track/1fNXOSx9FcXhrF6o6IkxkK) | [Harrison Borts](https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv) | [HARRISONBORTS 2022](https://open.spotify.com/album/1nDUU71dKAMO6dtXwjAc2C) | 1:49 | 2022-12-08 | 2023-01-14 |
 | [Set it on Fire](https://open.spotify.com/track/0OSFDCHge2YXQb6045oIfi) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Set it on Fire](https://open.spotify.com/album/1r28208lod8MaMRGCFP6Fl) | 3:33 | 2021-04-03 | 2022-02-12 |
-| [Sex](https://open.spotify.com/track/35mAlSYYkPOi7BpV3W3EdC) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 3:19 | 2023-05-19 |  |
+| [Sex](https://open.spotify.com/track/35mAlSYYkPOi7BpV3W3EdC) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 3:19 | 2023-05-19 | 2023-07-12 |
 | [SEX APPEAL](https://open.spotify.com/track/2iu4WYCPQrdQjXZkN8Phsm) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SEX APPEAL](https://open.spotify.com/album/4yGL3n9vlgnXshM55VqXtU) | 2:28 | 2022-08-12 | 2022-08-17 |
 | [Sex Is A Sport](https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg) | 2:43 | 2022-06-24 | 2022-08-06 |
 | [Shadow](https://open.spotify.com/track/4PAENZ9jspzi8mKE9UlzRe) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Shadow](https://open.spotify.com/album/1dltoQE4QTe5Prt14FQSeJ) | 2:42 | 2021-05-29 | 2021-10-16 |

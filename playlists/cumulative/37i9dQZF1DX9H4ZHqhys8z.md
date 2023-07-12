@@ -4,7 +4,7 @@
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Katerina Liouliou
 
-354 songs - 19 hr 31 min
+355 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,8 @@
 | [Ta Kalytera Paidia](https://open.spotify.com/track/1Pl0khFV0USrnZevOC0dDE) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Ta Kalytera Paidia](https://open.spotify.com/album/0rEEzsaHss2A1QO1qa8qvD) | 3:07 | 2021-12-16 | 2022-02-02 |
 | [Ta Thavmata \- Original Tv Series "Sasmos" Soundtrack](https://open.spotify.com/track/7DO971Fj9KbJMsWbpaSvix) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ), [Nicos Terzis](https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j) | [Ta Thavmata \(Original Tv Series "Sasmos" Soundtrack\)](https://open.spotify.com/album/44Q2hICl0Iau19ySjy0rbt) | 3:45 | 2023-01-31 | 2023-05-03 |
 | [Ta Thelo Ola](https://open.spotify.com/track/5sjW1JgmGlxERfNZG4UpxU) | [Varvara Vali](https://open.spotify.com/artist/3hK7M959CIKBaUm6eRWvua) | [Ta Thelo Ola](https://open.spotify.com/album/2MDIwQaGyKBN4K23rcSsix) | 2:46 | 2022-04-05 | 2022-07-01 |
-| [Ta Tihera Trifilia](https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Ta Tihera Trifilia](https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ) | 2:50 | 2023-06-06 |  |
+| [Ta Tihera Trifilia](https://open.spotify.com/track/1sKzyB1pY21LEZhrVXg0tR) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Ta Tihera Trifilia](https://open.spotify.com/album/465lBkDTiLZr4XwWJRdXrk) | 2:50 | 2023-07-04 |  |
+| [Ta Tihera Trifilia](https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Ta Tihera Trifilia](https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ) | 2:50 | 2023-06-06 | 2023-07-12 |
 | [Ta tsaxpinika sou matia](https://open.spotify.com/track/4beKfYy3y6sqyW8eOF7660) | [Areti Ketime](https://open.spotify.com/artist/1K4gKlQvP8Ms5pka1EexI5) | [Ta tsaxpinika sou matia](https://open.spotify.com/album/5V632RE0cjvPjmIgwUKo4o) | 2:56 | 2023-05-02 | 2023-07-05 |
 | [Talk](https://open.spotify.com/track/5wkr6ANVH9avxuVDAPN79D) | [Cleoniki](https://open.spotify.com/artist/7mDYKmiS8dFmoeHIvNg2FL) | [Talk](https://open.spotify.com/album/7JPMS3FHpUzQgVhhG2bagJ) | 3:18 | 2023-05-02 | 2023-07-05 |
 | [Tarifas](https://open.spotify.com/track/4fdB71mBu6UB79zN7CImN3) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Ti Na Leme Tora](https://open.spotify.com/album/4sC21vNho56AL9acrSHuES) | 3:07 | 2022-03-07 | 2022-07-01 |

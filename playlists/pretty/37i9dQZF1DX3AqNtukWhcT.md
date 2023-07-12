@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,945 likes - 136 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,033 likes - 136 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 135 | [State Of Mind](https://open.spotify.com/track/2kMq8XxAqO6ZVlx7wTfF7w) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [Until Dawn](https://open.spotify.com/album/5UCKkqlCwev6mlA8K3qtvf) | 2:43 |
 | 136 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 |
 
-Snapshot ID: `MCxjZmUxNDAwOWU3NTdjNDRjNjhlN2ZlNDU3ODRjZTk1N2MxZjkwYjM0`
+Snapshot ID: `MCwwNzIxNzU1YTdmOGUxM2Y1NjUzOWIzYmUzZTVlMzVkYTM1NTg5ZTAw`

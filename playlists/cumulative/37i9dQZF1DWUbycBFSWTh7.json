@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 438175,
       "name": "Can I See You Tonight (Young Marco Remix)",
       "url": "https://open.spotify.com/track/2T1nzOkomRGzHeqhEdtHi4"
@@ -1123,6 +1123,32 @@
     },
     {
       "album": {
+        "name": "Bread & Circuses",
+        "url": "https://open.spotify.com/album/2NstuK7ULnLLr6ZycEeggf"
+      },
+      "artists": [
+        {
+          "name": "Kitchen Beats",
+          "url": "https://open.spotify.com/artist/3Ev7LAm7ED8RS0A0puMYM9"
+        },
+        {
+          "name": "salameh",
+          "url": "https://open.spotify.com/artist/6K6cnA1qYqXCmftC2hP9zw"
+        },
+        {
+          "name": "ruso",
+          "url": "https://open.spotify.com/artist/4K0sQDP80cZ2I5SvVozpiC"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Friday Service",
+      "url": "https://open.spotify.com/track/1r2IC0yl0n06utA3gIcIjC"
+    },
+    {
+      "album": {
         "name": "Era E.P.",
         "url": "https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ"
       },
@@ -1610,7 +1636,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 253396,
       "name": "Intergalactic Tango - Chambord Remix",
       "url": "https://open.spotify.com/track/5YxwPJMmVYUUoX79zd9Tq1"
@@ -3266,6 +3292,24 @@
       "duration_ms": 508786,
       "name": "The Soul of a City",
       "url": "https://open.spotify.com/track/2kEkWwRUIle74rarjTL0fW"
+    },
+    {
+      "album": {
+        "name": "FLAT 22 // FF007",
+        "url": "https://open.spotify.com/album/5Abc73uCDOQjkGWyipdYbx"
+      },
+      "artists": [
+        {
+          "name": "ruso",
+          "url": "https://open.spotify.com/artist/4K0sQDP80cZ2I5SvVozpiC"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "The Word (edit)",
+      "url": "https://open.spotify.com/track/7tyq3cMH9l3M2xBCthdJLn"
     },
     {
       "album": {

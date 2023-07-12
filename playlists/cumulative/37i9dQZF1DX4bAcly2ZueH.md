@@ -4,13 +4,13 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-125 songs - 6 hr 39 min
+127 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 | 2022-10-11 | 2023-02-15 |
 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 | 2022-10-11 | 2022-11-13 |
-| [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-10-11 |  |
+| [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-10-11 | 2023-07-12 |
 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 | 2022-10-11 | 2022-11-14 |
 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 | 2022-10-11 |  |
 | [Ascension](https://open.spotify.com/track/2UMKFCOWHBozbqLm6VhcmG) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Serenity](https://open.spotify.com/album/24NndBbEzrcYKGYBBVhEgA) | 4:11 | 2022-10-11 |  |
@@ -75,9 +75,10 @@
 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 | 2022-10-11 |  |
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2023-02-18 |
 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2023-02-14 |  |
+| [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 | 2023-07-11 |  |
 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 | 2022-10-11 |  |
 | [Nijiiro](https://open.spotify.com/track/04oWsZWr8n1xSMInqLp6KS) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/4JXvYGFiRmzu1oC5ItwRDw) | 2:56 | 2023-07-04 | 2023-07-06 |
-| [Nijiiro](https://open.spotify.com/track/7BOyA6ajai8BO1t3L4s78K) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/3Nsq8VkAMXPqi1RXvnDWAe) | 2:56 | 2023-07-04 |  |
+| [Nijiiro](https://open.spotify.com/track/7BOyA6ajai8BO1t3L4s78K) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/3Nsq8VkAMXPqi1RXvnDWAe) | 2:56 | 2023-07-04 | 2023-07-12 |
 | [No Love](https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/0DMtWYAnYSKxRA65AHlODV) | 2:57 | 2022-10-11 | 2023-05-11 |
 | [No Love](https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR) | 2:57 | 2023-03-28 |  |
 | [no one else](https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Alys](https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [no one else](https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG) | 2:18 | 2022-10-11 |  |
@@ -112,6 +113,7 @@
 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 | 2022-10-11 |  |
 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 | 2022-10-11 |  |
 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 | 2022-10-11 |  |
+| [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 | 2023-07-11 |  |
 | [The Perks of Being a Wallflower](https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:12 | 2022-10-11 |  |
 | [The Sea](https://open.spotify.com/track/4LiegagyTpRT7uo2yvg0lw) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/3lZaB3KINJrV4fUISB39nc) | 2:45 | 2023-02-14 |  |
 | [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 | 2022-10-11 | 2023-02-18 |

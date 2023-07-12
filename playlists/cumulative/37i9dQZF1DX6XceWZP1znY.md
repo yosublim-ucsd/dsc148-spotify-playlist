@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-770 songs - 2 day 2 hr 46 min
+773 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [いちごサンセット](https://open.spotify.com/track/5pNaPdDwd4qO5w4WdiQMdo) | [佐々木秀鳴 \(CV: 白井悠介\)](https://open.spotify.com/artist/6KHOb5QpPRa2dr7KkNzbTi), [宮野由美 \(CV: 斉藤壮馬\)](https://open.spotify.com/artist/2aQ8vyNKM9jjKjERPwNAbG) | [TVアニメ「佐々木と宮野」キャラクターソングシングル](https://open.spotify.com/album/1QIbp10K38N4c1dAbtEd5L) | 3:52 | 2022-06-07 | 2022-07-25 |
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-11-22 | 2023-01-17 |
 | [いのちの名前 \- from CrosSing](https://open.spotify.com/track/4vZAPywqbFrLjq7lnclHve) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [いのちの名前 \- from CrosSing](https://open.spotify.com/album/6qJ7DoGzkCdwAEHKLaQhQV) | 4:27 | 2022-06-07 | 2022-07-27 |
-| [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-05-01 |  |
+| [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-05-01 | 2023-07-12 |
 | [おもいでしりとり](https://open.spotify.com/track/21I2N3whjE3lanhe0CuJNH) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [おもいでしりとり](https://open.spotify.com/album/3NBlrlTK609r4bxaM7ouIZ) | 4:23 | 2022-06-07 | 2022-07-28 |
 | [おんなじキモチ。](https://open.spotify.com/track/0qZwT6DB43GEOgJErhyosc) | [安野希世乃](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [TVアニメーション「異世界食堂2」オープニングテーマ おんなじキモチ。](https://open.spotify.com/album/2xJlJXn7bZ4uLn3qfWeH7t) | 4:14 | 2022-06-07 | 2022-07-27 |
 | [お伽話のような奇跡](https://open.spotify.com/track/6Y9sETGgWi84jrILz2QjVF) | [久保あおい](https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k) | [お伽話のような奇跡](https://open.spotify.com/album/1AuFjI4HiHcDpT50f9QjfU) | 2:45 | 2022-06-07 | 2022-07-28 |
@@ -575,6 +575,7 @@
 | [モラトリアム](https://open.spotify.com/track/5eHmOGj5szF3Pm9fHWVwuq) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [モラトリアム](https://open.spotify.com/album/6wrfl8TlwDqw5COvBlklTW) | 4:47 | 2022-06-07 | 2022-07-29 |
 | [ユメシンデレラ](https://open.spotify.com/track/7qHbrMNzQX1axXypfdSEn2) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0), [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャッフル \-Bright 3 Waves\-](https://open.spotify.com/album/6jpr8lf8u9QH2NDp22ksIw) | 4:45 | 2022-06-07 | 2022-07-03 |
 | [ユメノキオク](https://open.spotify.com/track/4FrBlrkRfa5fuvQq2aOb3Q) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/4vgrD1wu1asFlSdtuUnPIX) | 3:52 | 2022-06-07 | 2022-07-19 |
+| [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 | 2023-07-07 |  |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-06-07 | 2022-07-28 |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-20 |  |
 | [ラストストロウ](https://open.spotify.com/track/0pdQpZ1K2MzRybsLQDtbc0) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [ラストストロウ](https://open.spotify.com/album/1p7DEPtAt353qkhvQpr58R) | 3:50 | 2022-06-07 | 2022-07-25 |
@@ -610,6 +611,7 @@
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-07 | 2022-11-24 |
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-10-04 | 2022-11-23 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-22 | 2023-01-07 |
+| [切っ先](https://open.spotify.com/track/771DJyi2gzuWI8ocuxldzQ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [切っ先](https://open.spotify.com/album/7MlPZv478QHj9031suX1qm) | 3:31 | 2023-07-07 |  |
 | [切っ先 \-Anime Ver.\-](https://open.spotify.com/track/10Zziq9Paf7dO3jEH3cUQJ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [切っ先 \-Anime Ver.\-](https://open.spotify.com/album/0G8roX80ebGkEpbIuKWqHB) | 1:29 | 2023-07-01 |  |
 | [千の夜をこえて](https://open.spotify.com/track/7IQD72qSPPBU2a21kp9fTT) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [風をあつめて](https://open.spotify.com/album/5FVFpm47aGm2xVmsxf7m0h) | 4:51 | 2022-06-07 | 2023-04-12 |
 | [千夜想歌](https://open.spotify.com/track/5HeD2ZWisLQJVEQLVDLzaW) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [千夜想歌](https://open.spotify.com/album/2G47iByNrswcboIypLq1PD) | 4:51 | 2022-06-07 | 2022-06-15 |
@@ -650,6 +652,7 @@
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-07 | 2022-06-30 |
 | [平行線](https://open.spotify.com/track/0KWRKoApTN934fJRgs7C0z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/6peVO4PKuuNbqCaQw5z6yE) | 4:58 | 2022-06-07 | 2022-07-29 |
 | [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 | 2023-03-27 |
+| [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-07 |  |
 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 | 2022-06-07 | 2022-07-29 |
 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 | 2023-04-21 |  |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-06-07 | 2022-11-13 |
@@ -677,12 +680,12 @@
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-07 |  |
 | [星瞬\~Star Wink\~](https://open.spotify.com/track/2GbqVrrJzEqVjMvRgbmBBG) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [星瞬\~Star Wink\~](https://open.spotify.com/album/3JNJDGI69C0xPuGBoGW77R) | 5:42 | 2022-06-07 | 2022-07-29 |
 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/1jRdam0Y2o2vVtvltJK0tH) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/5rfLPlqWZDU3nB30V6Zn8Y) | 3:51 | 2022-06-07 | 2022-07-29 |
-| [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 | 2022-06-07 |  |
+| [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 | 2022-06-07 | 2023-07-12 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-11-22 |  |
 | [最深](https://open.spotify.com/track/40tZIkyZZGw1a4oQAFZL2P) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [最深](https://open.spotify.com/album/2Gh6LdxVej8gzAPU68hHSj) | 4:03 | 2022-06-07 | 2022-07-16 |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-06-16 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-07 |  |
-| [未来](https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [TIMELESS WORLD](https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC) | 5:16 | 2022-06-07 |  |
+| [未来](https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [TIMELESS WORLD](https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC) | 5:16 | 2022-06-07 | 2023-07-12 |
 | [東京サニーパーティー](https://open.spotify.com/track/1HBxmRc7PCEw7Vtw3ykr8J) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [東京サニーパーティー](https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0) | 4:02 | 2022-06-07 | 2022-06-13 |
 | [械物](https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [械物](https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45) | 3:43 | 2023-07-01 |  |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2022-06-07 |  |

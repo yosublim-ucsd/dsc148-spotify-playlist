@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Israel e Rodolffo, Ana Castela, Lia Clark e Pabllo Vittar, Mc Don Juan e muito mais!
 
-7,004 songs - 14 day 22 hr 5 min
+7,005 songs - 14 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2718,7 +2718,8 @@
 | [Guarda Chuva \- Ao Vivo](https://open.spotify.com/track/3rhDDBTsn6pBILYiNfbUOH) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Guarda Chuva \(Ao Vivo\)](https://open.spotify.com/album/3TqxorO058rDMrpKs7KXzf) | 3:58 | 2023-06-30 | 2023-07-08 |
 | [Guarda Roupa \- Ao Vivo](https://open.spotify.com/track/6obqb3vA4kufqEHibtF5W1) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acústico de Primeira 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2dUDbutGXTmdd7AhTAca4S) | 3:00 | 2023-01-27 | 2023-02-04 |
 | [Guarda\-Chuva](https://open.spotify.com/track/6lTnB1dx8LanGYTRdC4F2W) | [Sandro](https://open.spotify.com/artist/2I72QcB2NcskfukdmV9sog) | [Guarda\-Chuva](https://open.spotify.com/album/1w2POqZlDuMvt0gNBQEIVA) | 3:03 | 2022-07-29 | 2022-08-06 |
-| [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/0zzQaay3HAzltZjDTRP9sN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/2xTads2t8xoKGxeU1hW1yF) | 2:33 | 2023-07-07 |  |
+| [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/0zzQaay3HAzltZjDTRP9sN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/2xTads2t8xoKGxeU1hW1yF) | 2:33 | 2023-07-07 | 2023-07-12 |
+| [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/1V4l4h7kYaKyXJk74g6ilu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp) | 2:33 | 2023-07-07 |  |
 | [Guatemala](https://open.spotify.com/track/5Ip9fxEtufi00tG5wF8Vxg) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Guatemala](https://open.spotify.com/album/1SW6GxUcTcXVF9KRNO9ifL) | 2:24 | 2023-04-28 | 2023-05-06 |
 | [Gucci & Prada](https://open.spotify.com/track/6meF8vUrYeB4pHLRIZofzu) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9) | [Gucci & Prada](https://open.spotify.com/album/5Muj5XqCGlrTJsR2tN4oMa) | 2:48 | 2023-06-16 | 2023-06-24 |
 | [Gucci Gucci](https://open.spotify.com/track/7FBlp88UD4Ik0n0L3nazoW) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Marvin MK](https://open.spotify.com/artist/7DlDVQY8FKFc9x03NNmtAA) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:38 | 2023-02-03 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-397 songs - 1 day 11 hr 1 min
+398 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Hold On](https://open.spotify.com/track/5QJ2hs1d22vxT8f2Jz29M2) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/38PIcexdesDkSJOwfnHS6K) | 3:24 | 2021-12-08 | 2022-07-29 |
 | [Horns in the Sun](https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Horns In the Sun](https://open.spotify.com/album/0c6GQc9Q3h5MiDco7V8z0I) | 3:19 | 2023-01-06 |  |
 | [How Do I Love You](https://open.spotify.com/track/17GYXmglkF2qLMrOhR915Z) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [How Do I Love You](https://open.spotify.com/album/08WrIRVquYjJQ0whhRkmq8) | 3:13 | 2021-12-08 |  |
+| [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-07-07 |  |
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 |  |
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 | 2023-04-12 |
 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 | 2021-12-08 | 2022-07-29 |
@@ -316,7 +317,7 @@
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |
-| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 |  |
+| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 | 2023-07-12 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-06 | 2023-07-01 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-05-03 | 2023-02-03 |
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |

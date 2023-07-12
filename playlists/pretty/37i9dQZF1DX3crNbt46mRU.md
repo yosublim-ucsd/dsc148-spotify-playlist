@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,391 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,392 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [Fruchtsaft](https://open.spotify.com/track/2gcpea4r4aH9Hm0Ty0kmNt) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Fruchtsaft](https://open.spotify.com/album/6A7s8eHyJsVGR9XlWYjL98) | 2:00 |
 | 46 | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/track/0pacGoPRQV0e6pcowMqrPJ) | [JESSIKA](https://open.spotify.com/artist/2aOthbkNIZZkkex559x6Vq), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/album/620jmqRdU3vFJ6ASxc5i8c) | 3:14 |
 | 47 | [WENN WIR UNS SEHEN](https://open.spotify.com/track/39kUonkbKeOsiDfjbg3Bsa) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GOOD DAYS & GOODBYES](https://open.spotify.com/album/6YKjcFLdoU8iFfUoZS4qYN) | 2:52 |
-| 48 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
+| 48 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Daklis](https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 49 | [Für dich](https://open.spotify.com/track/3GTEEkSWreJKZNVXYNLOlh) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Für dich](https://open.spotify.com/album/3lMX4GVm1lXEJiRNXqyhy3) | 2:10 |
 | 50 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 |
 | 51 | [You](https://open.spotify.com/track/3WdaUu7aPvBM12qwjoOmPw) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Dive](https://open.spotify.com/album/0N6yvjLZ5OPF6EOOfgaKHP) | 3:40 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 56 | [Different Kind of Love](https://open.spotify.com/track/0RMUEBdiKwOVdO940glFNG) | [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Different Kind of Love](https://open.spotify.com/album/24NsNwoHrsboT5ES5eTJbu) | 2:20 |
 | 57 | [Dollhouse \(with Lily Rose Depp\)](https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:59 |
 | 58 | [Spaceman](https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Spaceman](https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1) | 3:23 |
-| 59 | [Flo The Whistle](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo The Whistle](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 |
+| 59 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 |
 | 60 | [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 |
 | 61 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 62 | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/4825L5vjFuzQQd9u4pKs46) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/album/1eOafv0iqFoVJI8juu0bEz) | 4:11 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Get Together](https://open.spotify.com/track/6dpDfgEUGTNUZ3jeG2l95o) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq), [Gustav Anders](https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy) | [Get Together](https://open.spotify.com/album/3MDiWgfCJo9V7Hwdg7dY8K) | 4:00 |
 | 108 | [Frostbite](https://open.spotify.com/track/3ZDqzinpbshPYwDtue0HGD) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Frostbite](https://open.spotify.com/album/7FFkP31KXzh24bg1lB40y9) | 2:17 |
 
-Snapshot ID: `MCwxNmI0YmM4NGRjODI4NGRhYTkwMzMwOGI2YWEyNDU2NGVmY2VlNmY3`
+Snapshot ID: `MCxkMjNkMmQ1ZTQ0MTI5ODQ2Mjc4ZDQzOGE2ODEwMGVlMDAwYTE1NmI5`

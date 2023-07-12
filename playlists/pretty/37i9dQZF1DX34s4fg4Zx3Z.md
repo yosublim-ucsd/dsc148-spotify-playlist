@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,593 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,612 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [RA TRÒ](https://open.spotify.com/track/6g2548Dkvou5cwkdN1svLE) | [TeeB](https://open.spotify.com/artist/3oueRXwmeEOt8iRKQCgiW4) | [RA TRÒ](https://open.spotify.com/album/3JPurkHcnne3zCtQ1UFJ3l) | 2:25 |
 | 99 | [Yêu Em Trong Mơ](https://open.spotify.com/track/2EEaz9kSAwRisyj167lYwD) | [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh), [Kai](https://open.spotify.com/artist/5ATpNDwaT4vPXxsRhJpCXg), [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Yêu Em Trong Mơ](https://open.spotify.com/album/5cFxEP2AmxoDLNv0yqxFOo) | 4:27 |
 
-Snapshot ID: `MCw4MDAxMzUzODMzMWNmNTU4MDk0NWQyZTk0YzBhMjE4OGE1YTYxZDA5`
+Snapshot ID: `MCxhMzBkMGY0NjdkNTQ2OTAxNDIwZTkyYjVhOTg4Y2IzMmMxYmMzZjNh`

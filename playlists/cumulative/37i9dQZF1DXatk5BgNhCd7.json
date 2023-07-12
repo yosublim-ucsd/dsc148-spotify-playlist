@@ -2172,7 +2172,7 @@
     {
       "album": {
         "name": "ATORRANTE - con Los Palmeras",
-        "url": "https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8"
+        "url": "https://open.spotify.com/album/7J0ELTewKJkd25s6AbcV1l"
       },
       "artists": [
         {
@@ -2195,6 +2195,36 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252347,
+      "name": "ATORRANTE - con Los Palmeras",
+      "url": "https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl"
+    },
+    {
+      "album": {
+        "name": "ATORRANTE - con Los Palmeras",
+        "url": "https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
       "duration_ms": 252347,
       "name": "ATORRANTE - con Los Palmeras",
       "url": "https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c"

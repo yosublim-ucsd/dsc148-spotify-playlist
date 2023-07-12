@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,112 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 54 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 |
 | 55 | [Piya](https://open.spotify.com/track/419zgOPCY2volaXJtSv5HJ) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [TALISMAN](https://open.spotify.com/album/5qak9zAgqiUAWZcRE5z1ID) | 4:15 |
 
-Snapshot ID: `MCwzMGQxMjliNWFlMDAwOGQyZTUxYzZkYjQwNzcyOWFiNWIwMjhjZjgw`
+Snapshot ID: `MCxjOTMwNmZlMzFjMWJhNTA2OWEyYjhlOGQxZGU0YjIzZTUyNzhlNzVi`

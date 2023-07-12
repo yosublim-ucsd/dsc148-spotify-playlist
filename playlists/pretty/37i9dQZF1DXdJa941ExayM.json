@@ -1,93 +1,13 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 206816,
+  "num_followers": 206924,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmY4Njc0YzViNDJhNDYxNjdkN2Y3NmZhNTBhMGM4ODUxMTZmNmJm",
+  "snapshot_id": "MCxjNGE0ZDAxNGVjNWY3MWYxN2E1NDVjMzA2YmE1Mzk0MjQ4NjUwY2M0",
   "tracks": [
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "$wing",
-        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 172353,
-      "name": "$wing",
-      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Hollywood Baby",
-      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4"
-      },
-      "artists": [
-        {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
-        }
-      ],
-      "duration_ms": 135857,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
-        "url": "https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 127921,
-      "name": "Monk",
-      "url": "https://open.spotify.com/track/0T9q3VKvTviNS2Dq874Xda"
-    },
-    {
-      "added_at": "2023-06-16 11:07:03",
-      "album": {
-        "name": "INEVITABLE",
-        "url": "https://open.spotify.com/album/193XRG7LBnajqsiNXqpjtN"
-      },
-      "artists": [
-        {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "INEVITABLE",
-      "url": "https://open.spotify.com/track/2qtSizmBpVyaOZMypRdxZv"
-    },
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
@@ -103,90 +23,6 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "dedd barchetta",
-        "url": "https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY"
-      },
-      "artists": [
-        {
-          "name": "Sugs",
-          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
-        }
-      ],
-      "duration_ms": 80029,
-      "name": "dedd barchetta",
-      "url": "https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 142545,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/4CTR4308FLv0J234RjREIl"
-      },
-      "artists": [
-        {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
-        }
-      ],
-      "duration_ms": 190206,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Hate Thy Neighbour",
-        "url": "https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR"
-      },
-      "artists": [
-        {
-          "name": "Hyphen",
-          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
-        }
-      ],
-      "duration_ms": 135821,
-      "name": "Hate Thy Neighbour",
-      "url": "https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Nothing Great About Britain",
-        "url": "https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 184201,
-      "name": "Doorman",
-      "url": "https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -207,18 +43,38 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Hate.",
-        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+        "name": "dedd barchetta",
+        "url": "https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "Sugs",
+          "url": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Hate.",
-      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+      "duration_ms": 80029,
+      "name": "dedd barchetta",
+      "url": "https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Nothing Great About Britain",
+        "url": "https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 184201,
+      "name": "Doorman",
+      "url": "https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -267,6 +123,38 @@
       "duration_ms": 101647,
       "name": "burbank house",
       "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "$wing",
+        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 172353,
+      "name": "$wing",
+      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -471,22 +359,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "LP!",
-        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 115044,
-      "name": "END CREDITS!",
-      "url": "https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Marching Powder",
         "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
       },
@@ -499,6 +371,22 @@
       "duration_ms": 125937,
       "name": "Marching Powder",
       "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "LP!",
+        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 115044,
+      "name": "END CREDITS!",
+      "url": "https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -911,22 +799,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "punk chick",
-        "url": "https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 188657,
-      "name": "punk chick",
-      "url": "https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -939,6 +811,22 @@
       "duration_ms": 147666,
       "name": "Play the Greatest Hits",
       "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "punk chick",
+        "url": "https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "duration_ms": 188657,
+      "name": "punk chick",
+      "url": "https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1263,6 +1151,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "BACKSTAB",
+        "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "MINE",
+      "url": "https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
       },
@@ -1295,18 +1199,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "BACKSTAB",
-        "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
+        "name": "I Raise You (The Price of Your Head)",
+        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
       },
       "artists": [
         {
-          "name": "SLOE JACK",
-          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
         }
       ],
-      "duration_ms": 122880,
-      "name": "MINE",
-      "url": "https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ"
+      "duration_ms": 231336,
+      "name": "I Raise You (The Price of Your Head)",
+      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1327,22 +1231,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "I Raise You (The Price of Your Head)",
-        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
-      },
-      "artists": [
-        {
-          "name": "Folly Group",
-          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
-        }
-      ],
-      "duration_ms": 231336,
-      "name": "I Raise You (The Price of Your Head)",
-      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "pity party (hyperpunk remix)",
         "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
       },
@@ -1355,6 +1243,122 @@
       "duration_ms": 156879,
       "name": "pity party (hyperpunk remix)",
       "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "softCORE",
+        "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "stupid bitch",
+      "url": "https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "just in case the world ends (deluxe edition)",
+        "url": "https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 134385,
+      "name": "TEEN POP SENSATION",
+      "url": "https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp"
+    },
+    {
+      "added_at": "2023-07-11 12:10:03",
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 74437,
+      "name": "I Saw Jesus Hanging on a Basketball Hoop",
+      "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Just For Love",
+        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Just For Love",
+      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "for a reason",
+        "url": "https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389"
+      },
+      "artists": [
+        {
+          "name": "plxntkid",
+          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
+        }
+      ],
+      "duration_ms": 135470,
+      "name": "for a reason",
+      "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Lonely Army",
+        "url": "https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 175661,
+      "name": "Lonely Army",
+      "url": "https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Inmyhead",
+        "url": "https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bums",
+          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Inmyhead",
+      "url": "https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp"
     }
   ],
   "unique_name": "unleashed",

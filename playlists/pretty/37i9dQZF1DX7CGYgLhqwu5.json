@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 359197,
+  "num_followers": 359317,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi",
+  "snapshot_id": "MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
-        "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
-      },
-      "artists": [
-        {
-          "name": "The Statler Brothers",
-          "url": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Flowers On the Wall",
-      "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "All-Time Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 143306,
       "name": "Act Naturally",
       "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
+        "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
+      },
+      "artists": [
+        {
+          "name": "The Statler Brothers",
+          "url": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Flowers On the Wall",
+      "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "All-American Cowboy",
         "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 160784,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
       "artists": [
         {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+      "duration_ms": 194160,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "May the Bird of Paradise Fly Up Your Nose",
-        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "May the Bird of Paradise Fly up Your Nose",
-      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "May the Bird of Paradise Fly Up Your Nose",
+        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "May the Bird of Paradise Fly up Your Nose",
+      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Other Woman",
-        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Don't You Ever Get Tired of Hurting Me",
-      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "It Keeps Right On A-Hurtin'",
         "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 173960,
       "name": "Send Me The Pillow You Dream On",
       "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
     },
     {
       "added_at": "2023-05-19 04:01:00",

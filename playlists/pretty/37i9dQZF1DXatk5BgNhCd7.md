@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Combinación de la Habana & Tefi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,802 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,857 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mientras me curo del cora](https://open.spotify.com/track/4yv29q4O7zN0qQ3Z8gwtsa) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Tefi](https://open.spotify.com/artist/7hf2PtFehOy0iRiGMy4Pte) | [Mientras me curo del cora](https://open.spotify.com/album/3781eIigZaR0lkKgPIUlr5) | 3:25 |
-| 2 | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ucMfHda5dCLno74FEuW6c) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/3SGkKxQIFUepI4C8ucHCJ8) | 4:12 |
+| 2 | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [ATORRANTE \- con Los Palmeras](https://open.spotify.com/album/7J0ELTewKJkd25s6AbcV1l) | 4:12 |
 | 3 | [Bohemian Rhapsody](https://open.spotify.com/track/57CCvAyUPTleAj9X07xP2t) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Bohemian Rhapsody](https://open.spotify.com/album/1Zxzxb6Bd6UBwixhklnYta) | 2:28 |
 | 4 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 5 | [KARINA \| DJ TAO Turreo Sessions \#18](https://open.spotify.com/track/36f2jJDymsYeNmcP0VLrGV) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [KARINA \| DJ TAO Turreo Sessions \#18](https://open.spotify.com/album/5XoexbXXlmolgFgXszagNE) | 2:45 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 48 | [Me Emborrachare 2.0](https://open.spotify.com/track/6c8Gwt0ij9Rbvke8udngu2) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Me Emborrachare 2.0](https://open.spotify.com/album/3ddXtm9b4eieMqoIR6xB8d) | 2:58 |
 | 49 | [Ella Baila Sola \- Bachata](https://open.spotify.com/track/4bHzVlcRel2OxVJ4uBZLME) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Ella Baila Sola](https://open.spotify.com/album/18o1cHOnQ9JcksXGXSeQmr) | 2:45 |
 
-Snapshot ID: `MCw4ZjUxOGI4NjVhODk4MzEyMDc5YmViNDdjZmM1ZGIwODYyMmZiYzNk`
+Snapshot ID: `MCxjNmZmZmZlN2U4Y2MxZDllNzZjNTllMzljMzk1OGFkOGQxZjhkZWJh`

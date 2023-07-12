@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 247933,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH"
@@ -200,6 +200,24 @@
       "duration_ms": 247933,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/4OuRfYTRwRnpsMGUoP3mrz"
+    },
+    {
+      "album": {
+        "name": "ICE Complete Singles",
+        "url": "https://open.spotify.com/album/0seeoqATMuDxMQTlpWAvKT"
+      },
+      "artists": [
+        {
+          "name": "ICE",
+          "url": "https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN"
+        }
+      ],
+      "date_added": "2021-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253813,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6mTwhiU3lNddqGnRocB6MH"
     },
     {
       "album": {

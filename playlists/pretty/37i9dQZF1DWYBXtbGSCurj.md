@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: tchelo rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,308 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,453 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [VALHO NADA](https://open.spotify.com/track/3qGvQ7IdsiVrex3LcH6hRB) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [VALHO NADA](https://open.spotify.com/album/2zHIz8N1VMO6XeoVgMNzQX) | 3:37 |
 | 75 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 
-Snapshot ID: `MCwxM2FmNDdhYzNiYmJlODk3Zjg2NmY3ZTM2NDNlYjgzNTE2OGQyOGQ3`
+Snapshot ID: `MCxiOTFiZWZjNzY5MTJlYmM5MDkyOTZmNGI5ZTczYmNkN2NiZjdlMTQ4`

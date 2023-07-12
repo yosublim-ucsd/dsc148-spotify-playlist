@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,790 likes - 83 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,825 likes - 83 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 82 | [Rainy Day](https://open.spotify.com/track/0BMV5YD79S0OBwZZ8b8ML2) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wreck Me](https://open.spotify.com/album/0CQbnXgNwRg3noHVFn4Rn0) | 3:21 |
 | 83 | [Long Way from Lonely](https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Long Way from Lonely](https://open.spotify.com/album/6tC9jtsZH1T1Ka496bjp08) | 3:39 |
 
-Snapshot ID: `MCw3ZWVkMDZhZjdhOWJkMTFhZGViMTk5ODNlZDliODc0M2MwZjI1MjJj`
+Snapshot ID: `MCxlODEzZWNiZjFlOWJlZTNiNDNlMTAyNzJhNTQxZDI3ZDZjOWU1ZDY3`

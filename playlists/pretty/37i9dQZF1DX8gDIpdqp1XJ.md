@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,363 likes - 102 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,345 likes - 102 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 34 | [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 |
 | 35 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
 | 36 | [Mirror](https://open.spotify.com/track/4pY31Bh2ErqBXVEOaRUDxX) | [Rusty Santos](https://open.spotify.com/artist/62in8jmY3oFPiBLYlviXSw), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Mirror](https://open.spotify.com/album/21NQ1l4xUaVRBEdYc8lW9Q) | 3:53 |
-| 37 | [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 |
+| 37 | [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 |
 | 38 | [Dust Bunny](https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Dust Bunny](https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro) | 3:04 |
 | 39 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 |
 | 40 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 101 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 | 102 | [Around](https://open.spotify.com/track/00EIqQvoztV9Qfh7xEAP6d) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Alright](https://open.spotify.com/album/7nVd4b8dAUrR8LGcaPgz8R) | 2:30 |
 
-Snapshot ID: `MCw1ZDc4YWEyZDg0YjliOTgyMTE2M2JkZWZlYzliOGZhZTJkZjI0Yzc4`
+Snapshot ID: `MCw2MDNkOGU5MWMxOGVhZjkyNWI0YjUyYjdhYmExMTNiNzExNjlkYTYx`

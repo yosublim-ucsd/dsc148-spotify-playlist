@@ -1,13 +1,29 @@
 {
-  "description": "NSWER! Wanna ride the Roller Coaster with NMIXX?",
-  "num_followers": 34636,
+  "description": "NSWER! It's Party O'Clock!",
+  "num_followers": 34825,
   "original_name": "This Is NMIXX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWRlNTJhZWFiODBhZGEwZjA3MTI3NmE2NjFjMDY5NGQ4Y2Q0OGY3",
+  "snapshot_id": "MCxlOTQ1NTE2Nzg5NmY1MTdlNjg0NTc0ZDk3ZWFkNzU2MjM1ZjA3MTg1",
   "tracks": [
+    {
+      "added_at": "2023-07-11 09:05:25",
+      "album": {
+        "name": "A Midsummer NMIXX\u2019s Dream",
+        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 183546,
+      "name": "Party O'Clock",
+      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
+    },
     {
       "added_at": "2023-07-03 12:35:04",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+    },
+    {
+      "added_at": "2023-07-11 09:05:25",
+      "album": {
+        "name": "A Midsummer NMIXX\u2019s Dream",
+        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 183546,
+      "name": "Party O'Clock (Inst.)",
+      "url": "https://open.spotify.com/track/71d89AbplK6XVkNpfHDkJg"
+    },
+    {
+      "added_at": "2023-07-11 09:05:25",
+      "album": {
+        "name": "A Midsummer NMIXX\u2019s Dream",
+        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Roller Coaster (Inst.)",
+      "url": "https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT"
     },
     {
       "added_at": "2023-07-03 12:35:04",

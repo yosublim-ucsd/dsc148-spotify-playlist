@@ -559,6 +559,36 @@
     },
     {
       "album": {
+        "name": "Drouba",
+        "url": "https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176218,
+      "name": "Drouba",
+      "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
+    },
+    {
+      "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
@@ -646,7 +676,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 188003,
       "name": "Fly Emirates",
       "url": "https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91"
@@ -792,6 +822,24 @@
       "duration_ms": 206000,
       "name": "Gueule tap\u00e9e",
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
+    },
+    {
+      "album": {
+        "name": "Habitus",
+        "url": "https://open.spotify.com/album/3fbU0kIj3aAD06b9P7qwbK"
+      },
+      "artists": [
+        {
+          "name": "PAUSE",
+          "url": "https://open.spotify.com/artist/0QO3bJ9BmI5WUKG6CSLtJE"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "Habitus",
+      "url": "https://open.spotify.com/track/0iwBCDnJ3x6OJFgemAm0Q4"
     },
     {
       "album": {
@@ -1220,7 +1268,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 202733,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
@@ -1622,7 +1670,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 217335,
       "name": "Numero Uno - V2",
       "url": "https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b"
@@ -1662,6 +1710,24 @@
       "duration_ms": 201999,
       "name": "Ouli Liya",
       "url": "https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY"
+    },
+    {
+      "album": {
+        "name": "Lmektoub",
+        "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165722,
+      "name": "Pepete",
+      "url": "https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR"
     },
     {
       "album": {
@@ -1862,7 +1928,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 186537,
       "name": "RAMSES",
       "url": "https://open.spotify.com/track/7hjueI3R4N765QrBuChXgg"
@@ -2234,7 +2300,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 176000,
       "name": "Taline",
       "url": "https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB"

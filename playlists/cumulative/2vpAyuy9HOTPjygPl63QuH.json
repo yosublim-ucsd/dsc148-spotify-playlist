@@ -2701,6 +2701,32 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/4nfqxakn4xBpi2okK9tYFD"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Kartel",
+          "url": "https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP"
+        },
+        {
+          "name": "Chris Ultranova",
+          "url": "https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo"
+        },
+        {
+          "name": "IVI",
+          "url": "https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5YyE8hv3r3AvLy0mRgkWJZ"
+    },
+    {
+      "album": {
         "name": "Bussin",
         "url": "https://open.spotify.com/album/3eNoNTOqcQ550SgVuyKDYH"
       },

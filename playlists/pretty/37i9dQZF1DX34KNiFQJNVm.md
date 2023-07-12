@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel e Rodolffo, Ana Castela, Lia Clark e Pabllo Vittar, Mc Don Juan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,890,389 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890,826 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/0zzQaay3HAzltZjDTRP9sN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/2xTads2t8xoKGxeU1hW1yF) | 2:33 |
+| 1 | [Guardanapo Borrado \- Ao Vivo](https://open.spotify.com/track/1V4l4h7kYaKyXJk74g6ilu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora \(Ao Vivo\)](https://open.spotify.com/album/0v7Ql828e0dVuw2yi3iTQp) | 2:33 |
 | 2 | [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 |
 | 3 | [Duas Camas \- Ao Vivo](https://open.spotify.com/track/44FHIA9SyNUMEu6ZFFRDLH) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Duas Camas \(Ao Vivo\)](https://open.spotify.com/album/02QKKO09NypcOQWFGbN0Yk) | 2:51 |
 | 4 | [Meu Vício \- Ao Vivo](https://open.spotify.com/track/0CcYCGaqBcbbCB3fPhCF2f) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Meu Vício \(Ao Vivo\)](https://open.spotify.com/album/5ZwndAEQCjmVaFmwCyP8Z7) | 2:27 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 |
 | 98 | [Criada no Morro](https://open.spotify.com/track/0VpQBuwTQd1AtGaey14UdK) | [OBerlim](https://open.spotify.com/artist/4HzBDo1A7nlf35EVYunj8B), [Lacerda Beats](https://open.spotify.com/artist/65R0huiH1wvnM2LMz7mKEf) | [Criada no Morro](https://open.spotify.com/album/6lspwVFowxesTmDJbibJ2G) | 2:49 |
 
-Snapshot ID: `MCw2OTQ1NTgxYTJiNTEzZTZlMDc2MWU3YmM5YTg0ZjQ5NzUyYTk5N2Zl`
+Snapshot ID: `MCwwOWRjYzljYjhmYzBhYWRlZmVjOWE0MDZlNTcwN2M4MDFhMGEzYTVm`

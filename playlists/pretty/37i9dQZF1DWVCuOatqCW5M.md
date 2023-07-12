@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Arjun Kanungo
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,002 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,387 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Danger \(From the album ‘Industry2’\)](https://open.spotify.com/track/4c60wfEXKrxojR0tKEjPpw) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Danger \(From the album ‘Industry2’\)](https://open.spotify.com/album/29xSAVZlJXfesyePdoG5Iw) | 3:00 |
 | 2 | [Raatan Kaaliyan](https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie), [Gautam G Sharma](https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw) | [Raatan Kaaliyan](https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq) | 3:44 |
-| 3 | [BILLO](https://open.spotify.com/track/0AqRLZb3RAsJ50HARMGqAh) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [BILLO](https://open.spotify.com/album/0o2fQWt3RkDeN5jGU8Ii9U) | 3:00 |
+| 3 | [BILLO](https://open.spotify.com/track/0AqRLZb3RAsJ50HARMGqAh) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Prashant Satose](https://open.spotify.com/artist/5YaMpCcLENiht5uqMz9iGo), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [BILLO](https://open.spotify.com/album/0o2fQWt3RkDeN5jGU8Ii9U) | 3:00 |
 | 4 | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/track/2Y2l0h051Vk4qUG2ZH7KKy) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Nawazuddin Siddiqui](https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1) | [Yaar Ka Sataya Hua Hai](https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T) | 4:27 |
 | 5 | [Labon Se Baat](https://open.spotify.com/track/5xDzqvgJ47x3VDRQFGiVwf) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Rishabh Sharma](https://open.spotify.com/artist/6pIt9fhft1vssrtmZEM8yt) | [Labon Se Baat](https://open.spotify.com/album/4tJ5Gyq9I2RjYGcLc5Qz0D) | 4:00 |
 | 6 | [Baarishon Ki Dhun](https://open.spotify.com/track/2nm7MOVPN2ZTMkaKetjmcg) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Baarishon Ki Dhun](https://open.spotify.com/album/4v9QWEdfOAUfz2blMImF1N) | 3:22 |
-| 7 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
+| 7 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
 | 8 | [Pyaar Mein Paagal](https://open.spotify.com/track/4vuny1FH57OGF5ZCUnNrIN) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm), [Shloke Lal](https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1) | [Pyaar Mein Paagal](https://open.spotify.com/album/5AjrIWpmAHwjDNFLduF9mX) | 2:32 |
 | 9 | [Khwabon Ka Hai Tu Rehguzar](https://open.spotify.com/track/0MZyI2TT2jy888mSjSKCuG) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Rupali Kashyap](https://open.spotify.com/artist/2snKNPk7kKCFQiWQzdSNEg) | [Khwabon Ka Hai Tu Rehguzar](https://open.spotify.com/album/5ZkYa5ME7yN4tnqP5V7XK9) | 4:03 |
 | 10 | [Aarzoo](https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Aarzoo](https://open.spotify.com/album/65mN0z094HGFbyZnmpQpqO) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 |
 | 50 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
 
-Snapshot ID: `MCxkOGZmYTdjMzMxODU2MDMxZDRjYmQ4YjdmMTZkMmUwMTlmYmVhMzMz`
+Snapshot ID: `MCxlZTE5ZTI1YmUzNTVmOGM2MTMwYTBhNWMwYjAyZGM5ZWI5MzRjZjlj`

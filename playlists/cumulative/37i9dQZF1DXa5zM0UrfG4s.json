@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
@@ -4206,6 +4206,28 @@
       "duration_ms": 135938,
       "name": "PRIMADONNA",
       "url": "https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY"
+    },
+    {
+      "album": {
+        "name": "Push, pust",
+        "url": "https://open.spotify.com/album/0AHo6fEk8qd21fvIEqFs1a"
+      },
+      "artists": [
+        {
+          "name": "Ar0n & Gaaseby",
+          "url": "https://open.spotify.com/artist/30iaefs4LI6mdylk3mFs73"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123013,
+      "name": "Push, pust",
+      "url": "https://open.spotify.com/track/2eSs4TwXEwKDz3KCkMnCyv"
     },
     {
       "album": {

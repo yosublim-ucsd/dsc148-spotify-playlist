@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-448 songs - 1 day 20 hr 35 min
+449 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 | 2023-03-11 |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
-| [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 |  |
+| [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 | 2023-07-12 |
 | [Body Language](https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Body Language](https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ) | 4:45 | 2023-06-02 |  |
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
@@ -371,6 +371,7 @@
 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 | 2023-03-31 |  |
 | [State Of Mind](https://open.spotify.com/track/56cy6VeMITQwVSB59W60sg) | [MIICHII](https://open.spotify.com/artist/6BbFRF1B3d5gTvDj2Q8gUw) | [State Of Mind](https://open.spotify.com/album/4maF20FgW8psnhV4JpmF9d) | 8:05 | 2021-05-07 | 2022-06-17 |
 | [Storyteller](https://open.spotify.com/track/0WSqJpY7RsFv2EszoXDANr) | [Shai T](https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN) | [Miracles](https://open.spotify.com/album/2y4op7MZHA2kuzZhsN6Mlv) | 7:30 | 2021-04-21 | 2022-07-09 |
+| [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [EURI](https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-07 |  |
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-06-09 |  |
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-06 | 2023-04-03 |
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-04-21 | 2022-05-02 |

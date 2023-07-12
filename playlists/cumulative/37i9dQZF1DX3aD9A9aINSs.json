@@ -2318,7 +2318,7 @@
     {
       "album": {
         "name": "Bilmece",
-        "url": "https://open.spotify.com/album/4ZCzwhbGgHAq0ZRY6rFqAM"
+        "url": "https://open.spotify.com/album/42AvlbajEnSNJPi9oazjEL"
       },
       "artists": [
         {
@@ -2329,6 +2329,24 @@
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176434,
+      "name": "Bilmece",
+      "url": "https://open.spotify.com/track/0uMEngiuzLd14kiN8hrpyw"
+    },
+    {
+      "album": {
+        "name": "Bilmece",
+        "url": "https://open.spotify.com/album/4ZCzwhbGgHAq0ZRY6rFqAM"
+      },
+      "artists": [
+        {
+          "name": "Cemre Esel",
+          "url": "https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
       "duration_ms": 176434,
       "name": "Bilmece",
       "url": "https://open.spotify.com/track/3QpamXd1c9a8ffQVy7eAoy"

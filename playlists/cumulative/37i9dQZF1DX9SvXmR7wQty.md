@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Soolking, Gazo
 
-1,945 songs - 4 day 7 hr 59 min
+1,946 songs - 4 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1253,7 +1253,7 @@
 | [N'importe Qui](https://open.spotify.com/track/7Kh2wOZNmlhknOB4vvFKbP) | [NLT Jvy](https://open.spotify.com/artist/0w33QJDCdn3LdiY9PqDiIz) | [HIM](https://open.spotify.com/album/2Ossr0dWeZIYqDfcV6EIfr) | 2:28 | 2021-12-31 | 2022-01-22 |
 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 | 2022-11-18 | 2022-12-10 |
 | [Naruto](https://open.spotify.com/track/4LuNW6xBG261jSeUJy7RJL) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Naruto](https://open.spotify.com/album/1HrLiqaJjeMKxmsSpQP7Km) | 2:39 | 2022-03-04 | 2022-03-18 |
-| [Nasty feat\. Smeels \(French Version\)](https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Nasty feat\. Smeels \(French Version\)](https://open.spotify.com/album/1kv1mbzSEILpTh4ahcE27s) | 2:50 | 2023-06-16 |  |
+| [Nasty feat\. Smeels \(French Version\)](https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Nasty feat\. Smeels \(French Version\)](https://open.spotify.com/album/1kv1mbzSEILpTh4ahcE27s) | 2:50 | 2023-06-16 | 2023-07-12 |
 | [Naturel](https://open.spotify.com/track/2Qn5U6XjRgqWX1QJGuNq9j) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Naturel](https://open.spotify.com/album/2GaJ1AYXl46uWQ9jhOsUE5) | 2:54 | 2022-10-28 | 2022-11-19 |
 | [Navigateure](https://open.spotify.com/track/4vz3nIlaqjUMFk28Fv1Oip) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Navigateure](https://open.spotify.com/album/0xfQqcgoc8Oz6XDnSzrYKW) | 2:54 | 2022-02-18 | 2022-02-26 |
 | [Ne doute pas](https://open.spotify.com/track/4Lyyzr02Rl5qgWhuFno1G3) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [Ne doute pas](https://open.spotify.com/album/53uzJzZVZ1Z73E5NsjRavJ) | 3:12 | 2022-09-02 | 2022-09-15 |
@@ -1856,6 +1856,7 @@
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 | 2022-07-23 |
 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 | 2022-04-15 | 2022-04-29 |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-06-23 |  |
+| [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-07-07 |  |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-22 | 2022-08-20 |
 | [Vie de rêve](https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie de rêve](https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC) | 2:40 | 2022-04-01 | 2022-04-16 |
 | [Vie de rêve](https://open.spotify.com/track/1T9wQxPkIqijtOQmU737A7) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Vie de rêve](https://open.spotify.com/album/1mQDSm2LcWAjK2ch9C8sHB) | 3:32 | 2022-02-11 | 2022-02-26 |

@@ -2,12 +2,13 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : MDNS
+> Découvrez notre sélection des artistes à suivre\. Photo : Johnny Jane
 
-101 songs - 5 hr 19 min
+105 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-11 |  |
 | [Ados](https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ados](https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw) | 2:53 | 2022-11-24 |  |
 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 | 2022-09-29 |  |
 | [Au bout de ma rue](https://open.spotify.com/track/1ZpXOfL9NpKMjitFteTZlk) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Au bout de ma rue](https://open.spotify.com/album/4kK37mGx9LtXd6vsTAmO6W) | 3:54 | 2021-12-02 | 2022-02-04 |
@@ -67,6 +68,7 @@
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 |  |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
+| [MÉDICALE](https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:26 | 2023-07-11 |  |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 |  |
 | [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 | 2023-03-10 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-11-24 |  |
@@ -92,13 +94,15 @@
 | [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 | 2022-09-29 | 2022-11-09 |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-06-10 | 2022-09-30 |
 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 | 2022-09-29 |  |
+| [Tell Me Who](https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Niko](https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q) | [Tell Me Who](https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T) | 2:43 | 2023-07-11 |  |
 | [Terrien](https://open.spotify.com/track/3zxgaONWwTwSWuisr4SV0Q) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:14 | 2023-01-24 |  |
 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 | 2021-12-02 |  |
 | [The Hill](https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Hill](https://open.spotify.com/album/2q2yy8DwiAsLC2G02puine) | 4:00 | 2021-12-02 | 2022-02-04 |
 | [Ton nom](https://open.spotify.com/track/1d1mEmt257v9YrrW5LTNsG) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 3:13 | 2022-07-07 | 2022-09-30 |
 | [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2021-12-02 | 2022-03-02 |
 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 | 2022-04-14 |  |
-| [Trop bonnes](https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx) | 2:32 | 2023-04-11 |  |
+| [Trop bonnes](https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx) | 2:32 | 2023-04-11 | 2023-07-12 |
+| [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-06-22 |  |
 | [Téco](https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Téco](https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN) | 2:42 | 2022-02-03 | 2022-02-08 |
 | [Vega](https://open.spotify.com/track/4lT57AWvtIWIc8kEhqjD06) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Vega](https://open.spotify.com/album/7KPtPt18RqcaqqZvFarHjG) | 4:00 | 2021-12-02 | 2022-01-15 |
 | [Vieux](https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Rendez\-vous](https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC) | 2:56 | 2022-06-10 | 2022-09-30 |

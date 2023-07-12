@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,012 songs - 22 hr 43 min
+1,013 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 |  |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
+| [Azure \- Grand Piano Version](https://open.spotify.com/track/7Jdm14ECEHbhRLDBcvTu9R) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Azure Revisited](https://open.spotify.com/album/1yFVtt9VVWlFTBhdBGgKKR) | 1:00 | 2023-07-11 |  |
 | [Back Home](https://open.spotify.com/track/0IyTpgi77rDglvxb97mi7I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:10 | 2022-01-12 |  |
 | [Balance](https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Balance](https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh) | 1:01 | 2023-05-01 |  |
 | [Balance Arr\. For Cello](https://open.spotify.com/track/3kVRMbllRfTwpPQdmnYnWw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Balance Arr\. For Cello](https://open.spotify.com/album/1pp6s7tOnu8WzoqMy2daUf) | 1:01 | 2023-05-05 |  |

@@ -1,29 +1,13 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118133,
+  "num_followers": 118145,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGQ1ZjI1MGJmODgwMWFjMzI1ZTkzNWI1ZDY3OWM0MmFiYzFlNGNj",
+  "snapshot_id": "MCw0NWQzNzJlNWU5ZjcwMmJlMTZhMmUxZjk3ZGMyYTE5NTRkYWEyZTY2",
   "tracks": [
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 375178,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0"
-    },
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 165610,
       "name": "Stained Teeth",
       "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 375178,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Blue Essay",
-        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
-      },
-      "artists": [
-        {
-          "name": "Paralax",
-          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Blue Essay",
-      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Blue Essay",
+        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
+      },
+      "artists": [
+        {
+          "name": "Paralax",
+          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Blue Essay",
+      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Noemie",
         "url": "https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c"
       },
@@ -207,26 +207,6 @@
       "duration_ms": 178000,
       "name": "Noemie",
       "url": "https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Hey Papi (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Hey Papi - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -251,6 +231,26 @@
       "duration_ms": 236671,
       "name": "Love International Inc.",
       "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Hey Papi (Kraak & Smaak Remix)",
+        "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Hey Papi - Kraak & Smaak Remix",
+      "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Natural Movement",
-        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 317288,
-      "name": "Back 2 It",
-      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Natural Movement",
+        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 317288,
+      "name": "Back 2 It",
+      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 483808,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Fading Memories",
-        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 483808,
-      "name": "Fading Memories",
-      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "I Lost My Way",
         "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
       },
@@ -1527,26 +1527,6 @@
       "duration_ms": 197727,
       "name": "I Lost My Way",
       "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
-      },
-      "artists": [
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Duren",
-          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1567,6 +1547,26 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Duren",
+          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
+        }
+      ],
+      "duration_ms": 191005,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
     },
     {
       "added_at": "2023-06-22 22:00:00",

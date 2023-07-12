@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,498 songs - 2 day 9 hr 43 min
+1,499 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,7 +918,8 @@
 | [mung bean breakfast](https://open.spotify.com/track/4NxqITCvljyJZhilPH31VT) | [Erin Bee](https://open.spotify.com/artist/5FX1lx52oWCDgiap5Q1QAu) | [mung bean breakfast](https://open.spotify.com/album/3ZL0wfIh2wnffsInfSkKAQ) | 2:13 | 2022-09-09 |  |
 | [Murakoze](https://open.spotify.com/track/1phDRObX2FQtC394CGJHiY) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [Murakoze](https://open.spotify.com/album/3NFiEBGLofUkQnTT7BEQ8U) | 2:48 | 2022-07-15 |  |
 | [Mutual Restraint](https://open.spotify.com/track/7JQ293bCkESqSaN2raLeaI) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Mutual Restraint](https://open.spotify.com/album/5sBJZzMzzlddVSTv0HJZ37) | 2:36 | 2022-11-11 | 2023-02-18 |
-| [mxxnlight](https://open.spotify.com/track/6PxKQHBBWBePrFxTizsD4u) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/30i0hVDZUaWPQnMkClOsjg) | 3:03 | 2023-03-08 |  |
+| [mxxnlight](https://open.spotify.com/track/0xCpe2fdnjGaOi9H4jjqdY) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/0jQb4bPWITTJ352UJm1feR) | 3:03 | 2023-06-05 |  |
+| [mxxnlight](https://open.spotify.com/track/6PxKQHBBWBePrFxTizsD4u) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/30i0hVDZUaWPQnMkClOsjg) | 3:03 | 2023-03-08 | 2023-07-12 |
 | [My Analogue Mood](https://open.spotify.com/track/353Aiv9Fsx6G5q1sqtkODB) | [Laika Room](https://open.spotify.com/artist/66UXSprsAOEdunJXyA3OVX) | [In Another Place](https://open.spotify.com/album/6kGT3rDoaiu1NZwo1mIIh2) | 1:48 | 2021-12-07 | 2022-05-27 |
 | [My Everything](https://open.spotify.com/track/2EmA2a4vCi89bhFxtuxijG) | [Flôr](https://open.spotify.com/artist/0hCCzoPjAAINgHqnrtOdhH) | [My Everything](https://open.spotify.com/album/5OhgQRq8IxBKWlq2NtHCy9) | 1:33 | 2022-05-13 | 2022-11-12 |
 | [Mystic Kush](https://open.spotify.com/track/00DlqX8lQx1qGnyOYTvzkQ) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [In Your Head](https://open.spotify.com/album/08pzGhysC0jaWMuqkZVLkp) | 2:14 | 2021-12-07 | 2022-07-01 |

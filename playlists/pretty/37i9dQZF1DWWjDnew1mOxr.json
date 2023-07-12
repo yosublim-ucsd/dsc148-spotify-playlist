@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Jamie T",
-  "num_followers": 112198,
+  "num_followers": 112246,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGJjZjZmZTBjYmM1YzczMDJhMTUzYmRmNmY4NjI5MWNhNTA4MTVj",
+  "snapshot_id": "MCxmMmNlODA0ZjVkZWRjZDg5NDZiMTJjYzdkYTgzNzM5NDE4ZjcyMWZm",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
-      "added_at": "2023-06-28 10:49:55",
-      "album": {
-        "name": "Hippodrome",
-        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "Hippodrome",
-      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
-    },
-    {
       "added_at": "2023-06-13 08:58:04",
       "album": {
         "name": "Cub",
@@ -217,6 +201,22 @@
       "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
     },
     {
+      "added_at": "2023-06-28 10:49:55",
+      "album": {
+        "name": "Hippodrome",
+        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "Hippodrome",
+      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
+    },
+    {
       "added_at": "2023-06-13 08:58:04",
       "album": {
         "name": "Burn The Empire",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Get Away from the Feeling",
-        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
       "artists": [
         {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 230994,
-      "name": "You Change with the Seasons",
-      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
+      "duration_ms": 189360,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -263,6 +263,22 @@
       "duration_ms": 170253,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Get Away from the Feeling",
+        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 230994,
+      "name": "You Change with the Seasons",
+      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -311,22 +327,6 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Hypersonic Missiles",
-      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
+      "added_at": "2023-07-11 12:37:14",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc"
+        "name": "Shaking Hips and Crashing Cars",
+        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
       },
       "artists": [
         {
-          "name": "The Sukis",
-          "url": "https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 151166,
-      "name": "Intimacy",
-      "url": "https://open.spotify.com/track/39EFala3XXRculW4xXJyOg"
+      "duration_ms": 219072,
+      "name": "I'm a Liar",
+      "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -439,6 +439,22 @@
       "duration_ms": 221389,
       "name": "Baggio",
       "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc"
+      },
+      "artists": [
+        {
+          "name": "The Sukis",
+          "url": "https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT"
+        }
+      ],
+      "duration_ms": 151166,
+      "name": "Intimacy",
+      "url": "https://open.spotify.com/track/39EFala3XXRculW4xXJyOg"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -489,6 +505,22 @@
       "url": "https://open.spotify.com/track/2SL3kWWD9lt3YaVtF2kATH"
     },
     {
+      "added_at": "2023-07-11 12:37:14",
+      "album": {
+        "name": "Yesterday Is Gone",
+        "url": "https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 196525,
+      "name": "Yesterday Is Gone",
+      "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"
+    },
+    {
       "added_at": "2023-06-13 08:58:04",
       "album": {
         "name": "Cherish",
@@ -521,6 +553,22 @@
       "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
     },
     {
+      "added_at": "2023-07-11 12:37:14",
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/04LUnLAInGUPqzJu0a0b7w"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 283593,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/2bA5I2vNPWWRx2nyi3DBMI"
+    },
+    {
       "added_at": "2023-06-13 08:58:04",
       "album": {
         "name": "Somebody's Child",
@@ -551,22 +599,6 @@
       "duration_ms": 307527,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
-      },
-      "artists": [
-        {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
-        }
-      ],
-      "duration_ms": 292435,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -667,6 +699,38 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 292435,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Anxiety Replacement Therapy",
         "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
       },
@@ -679,22 +743,6 @@
       "duration_ms": 186083,
       "name": "Sertraline",
       "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -715,6 +763,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "What a Shame",
         "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
       },
@@ -727,22 +791,6 @@
       "duration_ms": 178533,
       "name": "What a Shame",
       "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1019,6 +1067,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Hummus and Pitta",
+        "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 137319,
+      "name": "Hummus and Pitta",
+      "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Emergency (15 Year Anniversary Version)",
         "url": "https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS"
       },
@@ -1065,20 +1129,20 @@
       "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
+      "added_at": "2023-06-28 10:49:55",
       "album": {
-        "name": "Hummus and Pitta",
-        "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
       },
       "artists": [
         {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 137319,
-      "name": "Hummus and Pitta",
-      "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1095,22 +1159,6 @@
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
-    },
-    {
-      "added_at": "2023-06-28 10:49:55",
-      "album": {
-        "name": "Panic Prevention",
-        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sheila",
-      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1163,6 +1211,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
       },
@@ -1211,22 +1275,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "The Clockworks",
         "url": "https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR"
       },
@@ -1239,54 +1287,6 @@
       "duration_ms": 212560,
       "name": "Feels So Real",
       "url": "https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "How Will I Know If Heaven Will Find Me?",
-        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Electric Kool-Aid (Pt. 2)",
-        "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
-      },
-      "artists": [
-        {
-          "name": "The Blinders",
-          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
-        }
-      ],
-      "duration_ms": 237422,
-      "name": "Ritual Of The Crocodile Men",
-      "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "World Full Of Worry",
-        "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
-      },
-      "artists": [
-        {
-          "name": "Peaness",
-          "url": "https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl"
-        }
-      ],
-      "duration_ms": 233074,
-      "name": "Kaizen",
-      "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
     }
   ],
   "unique_name": "Proper Belters",

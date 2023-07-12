@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6315\)
+## Playlists \(6317\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -727,7 +727,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Best of 2018: K\-Pop](/playlists/pretty/37i9dQZF1DX5CHqBODmn2c.md)
 - [Best of Ambiente 2022](/playlists/pretty/37i9dQZF1DX3wpquH3X56H.md)
 - [Best of Anime Now 2022](/playlists/pretty/37i9dQZF1DXdBREWaHui4o.md)
-- [Best of Arab Pop](/playlists/pretty/37i9dQZF1DXaL8gtxi9eun.md)
 - [Best of Bebop](/playlists/pretty/37i9dQZF1DX6KyCRJzZneq.md)
 - [Best of Bond](/playlists/pretty/37i9dQZF1DX0ZzMQgXnSUD.md)
 - [Best of Boybands and Girl Groups](/playlists/pretty/7oTMBMLu6EI4l163C9fkhg.md)
@@ -1837,6 +1836,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Frequency UK & Ireland](/playlists/pretty/37i9dQZF1DWVHb9m5BD6ty.md)
 - [Fresh & Chill](/playlists/pretty/37i9dQZF1DX5CdVP4rz81C.md)
 - [Fresh Air](/playlists/pretty/37i9dQZF1DX8Dc28snyWrn.md)
+- [Fresh Arabic Pop](/playlists/pretty/37i9dQZF1DXaL8gtxi9eun.md)
 - [Fresh Country](/playlists/pretty/37i9dQZF1DWXepGEFFmQXJ.md)
 - [Fresh Dance Pop](/playlists/pretty/37i9dQZF1DWWOGXILUAh53.md)
 - [Fresh Finds](/playlists/pretty/37i9dQZF1DWWjGdmeTyeJ6.md)
@@ -1952,7 +1952,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fusion Fest](/playlists/pretty/37i9dQZF1DX0aSJooo0zWR.md)
 - [Fusion Finds](/playlists/pretty/37i9dQZF1DX5P7I5ymjBC0.md)
 - [Future Funk](/playlists/pretty/37i9dQZF1DXbjGYBfEmjR5.md)
-- [Fé Pelo Ouvir: Fernandinho](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md)
+- [Fé Pelo Ouvir: Cassiane](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md)
 - [G.O.O.D\. Music](/playlists/pretty/37i9dQZF1DX83ZswDLVXae.md)
 - [G2 Esports](/playlists/pretty/37i9dQZF1DXdp5YOcv5TSe.md)
 - [GENERAZIONE Z](/playlists/pretty/37i9dQZF1DWYCIYGXn56uz.md)
@@ -2384,6 +2384,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Indie Party](/playlists/pretty/37i9dQZF1DWTujiC7wfofZ.md)
 - [Indie Pop](/playlists/pretty/37i9dQZF1DWWEcRhUVtL8n.md)
 - [Indie Pop 2010s](/playlists/pretty/37i9dQZF1DXaLaoaQqrfyO.md)
+- [Indie Pop Hits](/playlists/pretty/37i9dQZF1DXbO6rt3GhXDY.md)
 - [Indie Rock Club](/playlists/pretty/37i9dQZF1DX35DWKgAk2B5.md)
 - [Indie Rock Hits](/playlists/pretty/37i9dQZF1DXb9izPIc0SCS.md)
 - [Indie Rock Road Trip](/playlists/pretty/37i9dQZF1DWUoqEG4WY6ce.md)
@@ -6378,6 +6379,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [청담국제고등학교 \(BXXCH x RICH\)](/playlists/pretty/37i9dQZF1DX2O0o2ujw8dn.md)
 - [추억의 록 발라드](/playlists/pretty/37i9dQZF1DX53hLvTvX3eQ.md)
 - [카지노\(Big Bet\)](/playlists/pretty/37i9dQZF1DX5UGBQjvGtvy.md)
+- [쿠키런: 킹덤 ‘섬머소다 락페스타’  \(Cookie Run: Kingdom ‘Summer Soda Rock Festa’\)](/playlists/pretty/37i9dQZF1DX1ExvoKgjMK2.md)
 - [토토가! 추억의 댄스 뮤직](/playlists/pretty/37i9dQZF1DX4Pm0RFqsA0C.md)
 - [포근 편안 폭신](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
 - [해리 스타일스 'LOVE ON TOUR 2023 Live In Seoul'](/playlists/pretty/37i9dQZF1DX9ET7mtaGmRc.md)

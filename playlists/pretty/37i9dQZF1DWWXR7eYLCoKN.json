@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 121775,
+  "num_followers": 121823,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Q3YTkxMDRlOGNlMTkxNGM4NjQ3YWQ1YmE2M2FkNDY0NmFlNTRm",
+  "snapshot_id": "MCwwN2U5OThmYTI3OWZhZDg3MWY3ZTBjMmQzNmMwNTA5YmIzZWQ5MWY0",
   "tracks": [
     {
       "added_at": "2023-04-28 21:19:13",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
         "name": "Kavita 1",
         "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 272750,
-      "name": "Prova Dos Nove",
-      "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 208733,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 272750,
+      "name": "Prova Dos Nove",
+      "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
         }
       ],
-      "duration_ms": 184617,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
         "name": "Elis Regina",
         "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 162400,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 184617,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Sarav\u00e1, Paz e Bem",
-        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
+        "name": "Aquarela",
+        "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
       },
       "artists": [
         {
-          "name": "Elisa Fernandes",
-          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
+          "name": "KARINE",
+          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
         }
       ],
-      "duration_ms": 223799,
-      "name": "Aprendi a Ser Feliz",
-      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+      "duration_ms": 203907,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L"
     }
   ],
   "unique_name": "Samba & \u00e1gua fresca",

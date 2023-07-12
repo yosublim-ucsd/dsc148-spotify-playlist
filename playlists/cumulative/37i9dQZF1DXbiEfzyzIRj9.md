@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: DJ Seinfeld x Confidence Man
 
-298 songs - 21 hr 43 min
+298 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Step By Step \- Amtrac Remix](https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Step By Step Remixes](https://open.spotify.com/album/5H8qhibkvbDxg9YzM4SjFS) | 5:21 | 2023-06-09 |  |
 | [Still Ever](https://open.spotify.com/track/28C4AHjd4ZmTPXNnhIwhfD) | [Pvrvllel](https://open.spotify.com/artist/0Mh36OJcuSXh3k84YyifYS) | [Still Ever](https://open.spotify.com/album/0vsjmMlgKS0FuCW9T2fTJN) | 6:03 | 2023-03-16 | 2023-05-05 |
 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 | 2023-06-09 |  |
-| [Stranger Things](https://open.spotify.com/track/56ryc8HhIhJTrsZS4lkja9) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Shigge](https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv) | [Stranger Things](https://open.spotify.com/album/1qFmeHaPE6ZzxmwA748JEU) | 3:36 | 2023-04-08 |  |
+| [Stranger Things](https://open.spotify.com/track/56ryc8HhIhJTrsZS4lkja9) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Shigge](https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv) | [Stranger Things](https://open.spotify.com/album/1qFmeHaPE6ZzxmwA748JEU) | 3:37 | 2023-04-08 |  |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-03-16 | 2023-06-09 |
 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 | 2023-03-16 | 2023-06-30 |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-16 |  |

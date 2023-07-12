@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Lithuania.",
-  "num_followers": 26490,
+  "num_followers": 26500,
   "original_name": "Top 50 - Lithuania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyMzU1NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyNDQyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0hcY1gJD8yQWdgi2oGVZCG"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "I\u0161 L\u0117to Leid\u017eiasi Saul\u0117",
         "url": "https://open.spotify.com/album/4rKp5XE8zf0E38vd1pL19l"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/6CiKfOUAxxTxhdeXyxd6Lw"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -81,59 +81,7 @@
       "url": "https://open.spotify.com/track/0NfRszAHHTci3p02z41Gra"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Apkabinti Prisiminimus",
-        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        },
-        {
-          "name": "Nombeko Auguste",
-          "url": "https://open.spotify.com/artist/1a1qmSRllFcdwBxl2gkc2N"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Tyliai Paku\u017ed\u0117k",
-      "url": "https://open.spotify.com/track/6RmV54gl0nByycqhTajiiZ"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Apkabinti Prisiminimus",
-        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "\u0160okam L\u0117tai",
-      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Va\u017eiuoju Kur \u0160irdis",
-        "url": "https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O"
-      },
-      "artists": [
-        {
-          "name": "GJan",
-          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Va\u017eiuoju Kur \u0160irdis",
-      "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -153,7 +101,59 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Va\u017eiuoju Kur \u0160irdis",
+        "url": "https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Va\u017eiuoju Kur \u0160irdis",
+      "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Apkabinti Prisiminimus",
+        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Nombeko Auguste",
+          "url": "https://open.spotify.com/artist/1a1qmSRllFcdwBxl2gkc2N"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Tyliai Paku\u017ed\u0117k",
+      "url": "https://open.spotify.com/track/6RmV54gl0nByycqhTajiiZ"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Apkabinti Prisiminimus",
+        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "\u0160okam L\u0117tai",
+      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -169,43 +169,7 @@
       "url": "https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Rugpj\u016btis",
-        "url": "https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO"
-      },
-      "artists": [
-        {
-          "name": "Justinas Jarutis",
-          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
-        },
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 162079,
-      "name": "Rugpj\u016btis",
-      "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -221,27 +185,39 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Stadionai",
-        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        },
-        {
-          "name": "Rokas",
-          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Stadionai",
-      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Tav\u0119s Tr\u016bksta (Radio Edit)",
+        "url": "https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q"
+      },
+      "artists": [
+        {
+          "name": "OG Version",
+          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
+        }
+      ],
+      "duration_ms": 131856,
+      "name": "Tav\u0119s Tr\u016bksta - Radio Edit",
+      "url": "https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Jei Leisi",
         "url": "https://open.spotify.com/album/1zaNQRogEqdKb7gZHRwZDa"
@@ -261,74 +237,46 @@
       "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+        "name": "Rugpj\u016btis",
+        "url": "https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Tav\u0119s Tr\u016bksta (Radio Edit)",
-        "url": "https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q"
-      },
-      "artists": [
-        {
-          "name": "OG Version",
-          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
-        }
-      ],
-      "duration_ms": 131856,
-      "name": "Tav\u0119s Tr\u016bksta - Radio Edit",
-      "url": "https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
-      },
-      "artists": [
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        },
         {
           "name": "Jessica Shy",
           "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         }
       ],
-      "duration_ms": 184421,
-      "name": "\u017diburiai",
-      "url": "https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS"
+      "duration_ms": 162079,
+      "name": "Rugpj\u016btis",
+      "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+        "name": "Stadionai",
+        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
       },
       "artists": [
         {
@@ -336,16 +284,16 @@
           "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         },
         {
-          "name": "Elayork",
-          "url": "https://open.spotify.com/artist/1VzqAM4QKWvuzVjw6kSCf8"
+          "name": "Rokas",
+          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
         }
       ],
-      "duration_ms": 141900,
-      "name": "Pasaka",
-      "url": "https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge"
+      "duration_ms": 194754,
+      "name": "Stadionai",
+      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Dealas",
         "url": "https://open.spotify.com/album/5mdZsGKnTQnmnJA7PSgYGj"
@@ -361,59 +309,39 @@
       "url": "https://open.spotify.com/track/7nDIe2gzqIA6n2azvWixNx"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Panel\u0117 Verta Milijono",
-        "url": "https://open.spotify.com/album/1ga3K79gz7ToiGmD4njcN3"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Remis Retro",
-          "url": "https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI"
-        },
-        {
-          "name": "YVA",
-          "url": "https://open.spotify.com/artist/3QXybJLgpjbDnFxov5C37M"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Panel\u0117 Verta Milijono",
-      "url": "https://open.spotify.com/track/39kSk40grKRucDyfLx4Cjf"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -437,27 +365,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Ko Tau Reikia",
         "url": "https://open.spotify.com/album/6FoJsX37wgrDiRm05D8TRH"
@@ -477,23 +385,55 @@
       "url": "https://open.spotify.com/track/5SVo1JpFTKbTbnDXeJoL6p"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "The Lost Soul Down",
-        "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
       "artists": [
         {
-          "name": "NBSPLV",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 192940,
-      "name": "The Lost Soul Down",
-      "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "\u017diburiai",
+      "url": "https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
@@ -509,71 +449,7 @@
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Melodija",
-      "url": "https://open.spotify.com/track/5VVozoDxNYSt5syzAkOHJA"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "9 Padang\u0117s",
-        "url": "https://open.spotify.com/album/0kRjurbPCj0oi0jjfgVsu7"
-      },
-      "artists": [
-        {
-          "name": "Karolina Meschino",
-          "url": "https://open.spotify.com/artist/0EmTcVVfERPflXiBTySUmq"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "9 Padang\u0117s",
-      "url": "https://open.spotify.com/track/0iSy5nJYJ2o5vUiyyNxPNg"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Paskend\u0119 vyne",
         "url": "https://open.spotify.com/album/49Av61NYQ6SwuZrttWqNRY"
@@ -589,7 +465,59 @@
       "url": "https://open.spotify.com/track/7hUjUlcZyl9N6zWzqyYbjs"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "The Lost Soul Down",
+        "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "duration_ms": 192940,
+      "name": "The Lost Soul Down",
+      "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
@@ -605,7 +533,27 @@
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Elayork",
+          "url": "https://open.spotify.com/artist/1VzqAM4QKWvuzVjw6kSCf8"
+        }
+      ],
+      "duration_ms": 141900,
+      "name": "Pasaka",
+      "url": "https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Apie Tave",
         "url": "https://open.spotify.com/album/073955oPrA5AIajhHgbFcZ"
@@ -625,7 +573,27 @@
       "url": "https://open.spotify.com/track/5VyK7sfeFwmywksYXNTlhy"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Panel\u0117 Verta Milijono",
+        "url": "https://open.spotify.com/album/1ga3K79gz7ToiGmD4njcN3"
+      },
+      "artists": [
+        {
+          "name": "Remis Retro",
+          "url": "https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI"
+        },
+        {
+          "name": "YVA",
+          "url": "https://open.spotify.com/artist/3QXybJLgpjbDnFxov5C37M"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Panel\u0117 Verta Milijono",
+      "url": "https://open.spotify.com/track/39kSk40grKRucDyfLx4Cjf"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Jausmai",
         "url": "https://open.spotify.com/album/5vlj44HfHQtotkeoivOwvC"
@@ -641,75 +609,23 @@
       "url": "https://open.spotify.com/track/0I4DBmQBS4itjoi8GxG3FP"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 137647,
+      "name": "Melodija",
+      "url": "https://open.spotify.com/track/5VVozoDxNYSt5syzAkOHJA"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Tyliai Tyliau",
-        "url": "https://open.spotify.com/album/3q6NAaKLEtIDCPXuBvioel"
-      },
-      "artists": [
-        {
-          "name": "Gintariniai Laikai",
-          "url": "https://open.spotify.com/artist/49JoHj1exgBGqL8ARESQ7c"
-        },
-        {
-          "name": "Lukas Pilkauskas",
-          "url": "https://open.spotify.com/artist/6jUY2ZcA2oJz24SWcvefqk"
-        }
-      ],
-      "duration_ms": 175812,
-      "name": "Tyliai Tyliau",
-      "url": "https://open.spotify.com/track/2Y222bygX7H9sr5oAAXDMa"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "Man Moji",
-        "url": "https://open.spotify.com/album/5F4ZSxArDqXOf7YBoGF05z"
-      },
-      "artists": [
-        {
-          "name": "Gabrielius Vagelis",
-          "url": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
-        }
-      ],
-      "duration_ms": 146588,
-      "name": "Man Moji",
-      "url": "https://open.spotify.com/track/4QHRKu6scoEilEvLnHYOnz"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
-      "album": {
-        "name": "DEBESIMIS BRAIDYTI",
-        "url": "https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO"
-      },
-      "artists": [
-        {
-          "name": "Justinas Jarutis",
-          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
-        }
-      ],
-      "duration_ms": 155583,
-      "name": "kalb\u0117sim\u0117s/myl\u0117sim\u0117s",
-      "url": "https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH"
-    },
-    {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "O\u017dKA",
         "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
@@ -725,7 +641,7 @@
       "url": "https://open.spotify.com/track/0sYo81J4jDU343oIeoIeKJ"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -745,39 +661,59 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "aerobika",
-        "url": "https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
       "artists": [
         {
-          "name": "dj nevykele",
-          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         }
       ],
-      "duration_ms": 150151,
-      "name": "aerobika",
-      "url": "https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C"
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Apkabinti Prisiminimus",
-        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Rast Atsakym\u0105",
-      "url": "https://open.spotify.com/track/4RnLdvbfw7Uy90pc6DaXyJ"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "9 Padang\u0117s",
+        "url": "https://open.spotify.com/album/0kRjurbPCj0oi0jjfgVsu7"
+      },
+      "artists": [
+        {
+          "name": "Karolina Meschino",
+          "url": "https://open.spotify.com/artist/0EmTcVVfERPflXiBTySUmq"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "9 Padang\u0117s",
+      "url": "https://open.spotify.com/track/0iSy5nJYJ2o5vUiyyNxPNg"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -801,43 +737,39 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+        "name": "aerobika",
+        "url": "https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
         }
       ],
-      "duration_ms": 144960,
-      "name": "Bateliai",
-      "url": "https://open.spotify.com/track/49Li0GSpdrMoZQYzDfOUFv"
+      "duration_ms": 150151,
+      "name": "aerobika",
+      "url": "https://open.spotify.com/track/4SA3hKVvIbnDWjwH1Hnp1C"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -861,23 +793,83 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Tyliai Tyliau",
+        "url": "https://open.spotify.com/album/3q6NAaKLEtIDCPXuBvioel"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Gintariniai Laikai",
+          "url": "https://open.spotify.com/artist/49JoHj1exgBGqL8ARESQ7c"
+        },
+        {
+          "name": "Lukas Pilkauskas",
+          "url": "https://open.spotify.com/artist/6jUY2ZcA2oJz24SWcvefqk"
         }
       ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+      "duration_ms": 175812,
+      "name": "Tyliai Tyliau",
+      "url": "https://open.spotify.com/track/2Y222bygX7H9sr5oAAXDMa"
     },
     {
-      "added_at": "2023-07-10 09:58:49",
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Man Moji",
+        "url": "https://open.spotify.com/album/5F4ZSxArDqXOf7YBoGF05z"
+      },
+      "artists": [
+        {
+          "name": "Gabrielius Vagelis",
+          "url": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
+        }
+      ],
+      "duration_ms": 146588,
+      "name": "Man Moji",
+      "url": "https://open.spotify.com/track/4QHRKu6scoEilEvLnHYOnz"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "DEBESIMIS BRAIDYTI",
+        "url": "https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "duration_ms": 155583,
+      "name": "kalb\u0117sim\u0117s/myl\u0117sim\u0117s",
+      "url": "https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -891,6 +883,22 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-07-11 14:37:28",
+      "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     }
   ],
   "unique_name": "Top 50 - Lithuania",

@@ -1,12 +1,12 @@
 {
   "description": "music to play for your parents. Cover: 8485",
-  "num_followers": 407684,
+  "num_followers": 407995,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzkxZmViNTVkNjYyZmEyODFlNjMzMDZlZTI0OTQwYmIxOTAxMjAx",
+  "snapshot_id": "MCxmOWQ1YWU4ODRkZmU1NGM4YzM2YjZmMzU3Y2QyZTQ0MTAwYWI0ZDQ3",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -43,6 +43,22 @@
       "duration_ms": 209156,
       "name": "Up \u2229^\u03c9^\u2229",
       "url": "https://open.spotify.com/track/0tKTLYPrzgAyTLtSI7rIt9"
+    },
+    {
+      "added_at": "2023-07-11 16:29:36",
+      "album": {
+        "name": "Coat I Would Buy",
+        "url": "https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "duration_ms": 84528,
+      "name": "Coat I Would Buy",
+      "url": "https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS"
     },
     {
       "added_at": "2023-06-30 07:33:00",

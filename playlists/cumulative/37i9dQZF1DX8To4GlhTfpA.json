@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Anniversary edition! Let's celebrate 15 years together!",
+  "description": "SHINee's back!",
   "name": "This Is SHINee",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "10X",
+      "url": "https://open.spotify.com/track/21YNLIVSqtfGseAVrLnz7R"
+    },
+    {
+      "album": {
         "name": "2 KIDS",
         "url": "https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 213186,
       "name": "2 KIDS",
       "url": "https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 191640,
       "name": "Advice",
       "url": "https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3"
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 207146,
       "name": "Area",
       "url": "https://open.spotify.com/track/4PnMI5KkpjvJTJfP4Wuz0n"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 217967,
       "name": "Artistic Groove",
       "url": "https://open.spotify.com/track/3NoazwpMAu02KkRwzjM3aS"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 178213,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1mOr2W0j3T1ETqQRxA5d6w"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 224346,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7FmMYtdjfJSeZjC2e2Pt6t"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 205360,
       "name": "BAD LOVE",
       "url": "https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 172395,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/1SPX6Np13QyoLF1qdlLl6C"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
@@ -236,7 +254,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 210437,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6cp1Y6qMIyIxxtK4tTMtw9"
@@ -254,7 +272,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "Body Rhythm",
       "url": "https://open.spotify.com/track/7MUksmMcnTI2Sf3bzplnQc"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 163266,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2RIay2O93w2ii0zECu7WNz"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 232151,
       "name": "Cold - Bonus Track",
       "url": "https://open.spotify.com/track/0yyYD0MDD5nVoLD5iUVBqH"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 188678,
       "name": "Countless",
       "url": "https://open.spotify.com/track/6mI6dpwRDteVr3ZQsDeD6e"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
@@ -402,7 +420,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 220173,
       "name": "Don\u2019t Call Me - Japanese Version",
       "url": "https://open.spotify.com/track/6TsYRhXOsWmXCpXI42ub3x"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 180165,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 205240,
       "name": "Drip Drop",
       "url": "https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 188739,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4vyX2aMk1HygUxzxHHOSo0"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 277223,
       "name": "End of a day",
       "url": "https://open.spotify.com/track/0cAFqRrz8OqAoHdbiCM5OD"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 249291,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/0BiYJIeiAxB8OrCOm9Hgq6"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2BcTKLMXMlPjdhKxlECfCZ"
@@ -546,10 +564,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 223514,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/3mjfQvA5gAV6XnH0ZWnIyI"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1lCTcxyGCcZh15pCDPBuF0"
     },
     {
       "album": {
@@ -582,7 +618,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 179346,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/76JA4ie9OkTaCXu909a93V"
@@ -600,7 +636,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
@@ -618,7 +654,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5udkCCQRyrMgrpHsepMRHX"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 183106,
       "name": "Hello - Live",
       "url": "https://open.spotify.com/track/073MKiHnvmzA3dUFnhBboP"
@@ -654,7 +690,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 231453,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/2EFCh6MtGVKxGPVDH3jY3L"
@@ -672,7 +708,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 197120,
       "name": "I Really Want You",
       "url": "https://open.spotify.com/track/2LUQEcfWrlpMjODQ7NsVWt"
@@ -694,7 +730,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
@@ -748,7 +784,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 204857,
       "name": "I'm Home",
       "url": "https://open.spotify.com/track/0YxfpiPOdUgOyWDJETF5SR"
@@ -766,10 +802,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 193546,
       "name": "IDEA (\u7406\u60f3)",
       "url": "https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/457PtRB1HpGS2gtAg7xDCA"
     },
     {
       "album": {
@@ -784,10 +838,46 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 290293,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5grWTrVzFb14rCVipTFGYC"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/4Zdw9Oh04fFclpTPXVH6y6"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "JUICE",
+      "url": "https://open.spotify.com/track/2ka8U0A2e93hBFA43mbgfy"
     },
     {
       "album": {
@@ -820,7 +910,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 224216,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/3OFxhRzHbXFenlHwEvr8iJ"
@@ -838,7 +928,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 200839,
       "name": "Kind",
       "url": "https://open.spotify.com/track/7b4Qu8lHzGX8PiQJ3Q1al4"
@@ -856,7 +946,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 215960,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/7JrvYwKnJRe3p3orzKXwaS"
@@ -874,7 +964,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 278426,
       "name": "Life",
       "url": "https://open.spotify.com/track/4rZ7JOd7Q2GH2W7kFFZDlL"
@@ -892,10 +982,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 222306,
       "name": "Like A Fire",
       "url": "https://open.spotify.com/track/18afrlejRAZfnJj1xXWhcH"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/4LeToSXpuo4XGo6an5ecAq"
     },
     {
       "album": {
@@ -914,7 +1022,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -932,7 +1040,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 182893,
       "name": "Love Like Oxygen",
       "url": "https://open.spotify.com/track/0B7QAF2ByMFCp1Ls5ov6R7"
@@ -950,7 +1058,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 200181,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/7GQGxxjku3NdnjZELQwMbF"
@@ -968,7 +1076,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 233986,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd"
@@ -986,7 +1094,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 214689,
       "name": "Married To The Music",
       "url": "https://open.spotify.com/track/1ogT6eFnEuX5BDH8JoKjX8"
@@ -1022,7 +1130,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 200530,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/5948rGOD7Spt8IALZLOuNr"
@@ -1040,7 +1148,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 164090,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6NeEgmjQRN1QlDbNDhWb3P"
@@ -1058,7 +1166,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 211949,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
@@ -1076,7 +1184,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 168422,
       "name": "Never Forever",
       "url": "https://open.spotify.com/track/554Yyo55jijsvGWp5w2T9M"
@@ -1094,7 +1202,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 201449,
       "name": "Odd Eye",
       "url": "https://open.spotify.com/track/66f9BsEekmGOQimdPEjFlG"
@@ -1116,7 +1224,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
@@ -1134,7 +1242,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 226257,
       "name": "Press Your Number",
       "url": "https://open.spotify.com/track/1T7NW3LwpJZw381bfiPPBz"
@@ -1152,7 +1260,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 191567,
       "name": "Prism",
       "url": "https://open.spotify.com/track/3vm0mFRTYFRmtym8SPHmUq"
@@ -1170,7 +1278,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 219841,
       "name": "Punch Drunk Love",
       "url": "https://open.spotify.com/track/7l9l8DVvXosPhpRIfLOTD9"
@@ -1188,7 +1296,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 213826,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC"
@@ -1206,7 +1314,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 216453,
       "name": "Replay",
       "url": "https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4"
@@ -1224,7 +1332,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 233280,
       "name": "Ring Ding Dong",
       "url": "https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx"
@@ -1242,7 +1350,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 309880,
       "name": "Ring Ding Dong - SHINee WORLD 3 Version, Live",
       "url": "https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI"
@@ -1260,7 +1368,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 216009,
       "name": "Romance",
       "url": "https://open.spotify.com/track/61YsdyXJPVKL5YOH70D3gR"
@@ -1278,10 +1386,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 293853,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/7vAq3yEqNNEv7qL9aeVH7v"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/6WLEE2iZGMB3bVemgl1Kqc"
     },
     {
       "album": {
@@ -1314,7 +1440,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 234680,
       "name": "SEASONS",
       "url": "https://open.spotify.com/track/71jQCPt4REcDtz2pREMJx1"
@@ -1332,7 +1458,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 249213,
       "name": "Selene 6.23",
       "url": "https://open.spotify.com/track/2GZ9D36wODanwoK6cGMZ2m"
@@ -1350,7 +1476,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 189459,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4gQoAKDYQbufqj2gygOeGK"
@@ -1386,7 +1512,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 182001,
       "name": "SHIFT",
       "url": "https://open.spotify.com/track/2HrMPEAoa7ah8UeWuniBhA"
@@ -1404,7 +1530,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 186747,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/2citvEGmOgIoGl6Jend3cU"
@@ -1422,7 +1548,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 217395,
       "name": "So Amazing - Special Track",
       "url": "https://open.spotify.com/track/01IsDqqjCIo0VXdgHLwkFX"
@@ -1440,7 +1566,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Stand By Me - Live",
       "url": "https://open.spotify.com/track/2loiab7rLHiw0hbWiIE2SC"
@@ -1458,10 +1584,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 174706,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/7jiV2MnieeHtnYqTrXmQHD"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/3n8FLiCA7kzqfWdRk450VJ"
     },
     {
       "album": {
@@ -1476,10 +1620,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6v9jWAmaqoBtkAyRp3H2WS"
     },
     {
       "album": {
@@ -1494,7 +1656,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 256580,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/6ncP102bxNYWrEcgzXXMYy"
@@ -1512,7 +1674,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 235373,
       "name": "The SHINee World (Doo-Bop)",
       "url": "https://open.spotify.com/track/3zwMB1JyTzgOLo6rDnAVJ4"
@@ -1530,7 +1692,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 206993,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/2nxYJsog7BFm0xCg90MIQq"
@@ -1548,7 +1710,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 241832,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/2AppE6JeQQsLycDiycaCYK"
@@ -1566,7 +1728,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 199722,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4zwbzD4aS1DMhqUM8Ed7ie"
@@ -1602,7 +1764,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 208967,
       "name": "WANT",
       "url": "https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP"
@@ -1620,7 +1782,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 59920,
       "name": "WANT ~Outro~",
       "url": "https://open.spotify.com/track/4oPi8MvS4CMLO7DMEefb32"
@@ -1638,7 +1800,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 219600,
       "name": "Why So Serious?",
       "url": "https://open.spotify.com/track/6LgRAevtPVeJGNoF2ZAQeI"
@@ -1656,7 +1818,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 196609,
       "name": "Woof Woof",
       "url": "https://open.spotify.com/track/3ZBieMYzrxKPr5uDFrlVUS"
@@ -1674,7 +1836,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 226960,
       "name": "Y.O.U. (Year Of Us)",
       "url": "https://open.spotify.com/track/0Tobkwkbgb8iZFt1zfnPby"
@@ -1692,7 +1854,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "\uad34\ub3c4 (Danger)",
       "url": "https://open.spotify.com/track/5hcO4JPFMFgQ5edWGhhhaG"
@@ -1710,7 +1872,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 239721,
       "name": "\ub124\uac00 \ub0a8\uaca8\ub454 \ub9d0 Our Page",
       "url": "https://open.spotify.com/track/7CMvRsZOfIIM1Hg4Yyqb3k"
@@ -1728,7 +1890,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 223514,
       "name": "\ub370\ub9ac\ub7ec \uac00 Good Evening",
       "url": "https://open.spotify.com/track/3dTFof43vcpQKx6Z3iTsOj"
@@ -1746,7 +1908,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 172371,
       "name": "\ube5b\uc774 \ub098 Shinin'",
       "url": "https://open.spotify.com/track/3PbsYQc7kMKFaJMs1Cj3tj"
@@ -1764,7 +1926,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 229675,
       "name": "\uc0c1\uc0ac\ubcd1 (Symptoms)",
       "url": "https://open.spotify.com/track/7vc01rg1AL6jkYBd61Mfwm"
@@ -1782,7 +1944,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 246238,
       "name": "\uc6b0\ub9b0 \ubd04\uc774 \uc624\uae30 \uc804\uc5d0 Before Our Spring",
       "url": "https://open.spotify.com/track/3bNjjq8KpMx2Y9gpCoJl2u"
@@ -1800,7 +1962,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 240934,
       "name": "\uc774\ubcc4\uc758 \uae38 Farewell My Love",
       "url": "https://open.spotify.com/track/1CajjfLBczYjYgcwKQRjEj"
@@ -1836,7 +1998,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 191208,
       "name": "\uc88b\uc544 She is",
       "url": "https://open.spotify.com/track/2Xc0PwLnJnJtOVXKWcWBXs"
@@ -1854,7 +2016,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 223352,
       "name": "\ud22c\uba85 \uc6b0\uc0b0 Don't Let Me Go",
       "url": "https://open.spotify.com/track/4wPVrnXmpMOeB0WtE0V9yP"

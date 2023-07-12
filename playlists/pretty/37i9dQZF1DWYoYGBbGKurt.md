@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,239 likes - 536 songs - 20 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,427 likes - 536 songs - 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 141 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
 | 142 | [Yellow and Blue](https://open.spotify.com/track/1MyRgermzklUxoMHti2kVi) | [PawnShop Guy](https://open.spotify.com/artist/3dYZvW3b9n2aZcV1Z4d07B) | [Lofi Noire](https://open.spotify.com/album/0sOpERk8tJIEooArNOtWIZ) | 1:33 |
 | 143 | [high tide](https://open.spotify.com/track/4VTJ41f30zyF2ACwzXkSiH) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [high tide](https://open.spotify.com/album/0PCAFE8cwvzrfOqrxPDyTf) | 2:33 |
-| 144 | [mxxnlight](https://open.spotify.com/track/6PxKQHBBWBePrFxTizsD4u) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/30i0hVDZUaWPQnMkClOsjg) | 3:03 |
+| 144 | [mxxnlight](https://open.spotify.com/track/0xCpe2fdnjGaOi9H4jjqdY) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/0jQb4bPWITTJ352UJm1feR) | 3:03 |
 | 145 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 |
 | 146 | [Main Court](https://open.spotify.com/track/6Na91cVW0K9zUZiPKn0iUn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Main Court](https://open.spotify.com/album/1E8PCxJiLU8U4bhSVVLnnx) | 2:20 |
 | 147 | [Windy Hill](https://open.spotify.com/track/2gWavxidHzDrRIau3c0K7V) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Windy Hill](https://open.spotify.com/album/2NWxEUFt9lSCHueFaPAfHM) | 2:02 |
@@ -545,4 +545,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 535 | [Red Flowers](https://open.spotify.com/track/0VxqtLxLyvQq2KjTq5Zddm) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Tavolo Fantastico](https://open.spotify.com/album/2FdG8vYQLA0CnxKpiiEZQ8) | 1:58 |
 | 536 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 
-Snapshot ID: `MCw4NDUxMWE1NjMwY2E5YTE1YzhjMTVkZGY2NzMyMzBhOGVkNjc1ZDRh`
+Snapshot ID: `MCwzYjBjNjRhODhlYmQ2YjUxM2Q3Y2ZhM2VmMGQ5ZDk4ZWQ0MjQ3OWFi`

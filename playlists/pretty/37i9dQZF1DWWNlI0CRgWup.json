@@ -1,13 +1,65 @@
 {
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : MDNS",
-  "num_followers": 100971,
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Johnny Jane",
+  "num_followers": 100976,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Njc4NWE0ZWVjMjY5MmE1ZGRjNTFmM2RkMjdkMGViOWYzZjBjNjU4",
+  "snapshot_id": "MCw2NzNkYzM1ZjVmNTNlMWI0MmEyNWRlNGFkN2RhNjExMjdkODA0NWZj",
   "tracks": [
+    {
+      "added_at": "2023-07-11 16:29:57",
+      "album": {
+        "name": "A l'am\u00e9ricaine",
+        "url": "https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "A l'am\u00e9ricaine",
+      "url": "https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc"
+    },
+    {
+      "added_at": "2023-07-11 16:29:57",
+      "album": {
+        "name": "Tell Me Who",
+        "url": "https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Niko",
+          "url": "https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q"
+        }
+      ],
+      "duration_ms": 163928,
+      "name": "Tell Me Who",
+      "url": "https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY"
+    },
+    {
+      "added_at": "2023-07-11 16:29:57",
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 146762,
+      "name": "M\u00c9DICALE",
+      "url": "https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI"
+    },
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
@@ -28,7 +80,7 @@
       "added_at": "2023-06-22 22:00:00",
       "album": {
         "name": "Trop bonnes",
-        "url": "https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx"
+        "url": "https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95"
       },
       "artists": [
         {
@@ -38,7 +90,7 @@
       ],
       "duration_ms": 152005,
       "name": "Trop bonnes",
-      "url": "https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG"
+      "url": "https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X"
     },
     {
       "added_at": "2023-06-22 22:00:00",

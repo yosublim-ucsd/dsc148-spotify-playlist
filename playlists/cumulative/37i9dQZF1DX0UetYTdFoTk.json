@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 203990,
       "name": "3A Faw2a",
       "url": "https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp"
@@ -1372,6 +1372,24 @@
       "duration_ms": 227869,
       "name": "Maliket Gamal El Rouh",
       "url": "https://open.spotify.com/track/4q1dJXzkpdTe7WJStVmTS9"
+    },
+    {
+      "album": {
+        "name": "MAMA EH",
+        "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151499,
+      "name": "MAMA EH",
+      "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
     },
     {
       "album": {

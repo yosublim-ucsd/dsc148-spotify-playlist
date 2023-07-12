@@ -1,12 +1,12 @@
 {
   "description": "The best in old & new Reggae. Cover: Bob Marley.",
-  "num_followers": 2096445,
+  "num_followers": 2096783,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQxYjM4MDMwYjg0MjdiOGVmMjZiZjg4NTQ5MGJkN2Q1ODFiYjRl",
+  "snapshot_id": "MCwyMjljYTE1NDZlNjY2ZTQ0MzE2YzM3NjFhMGZiMzliZjQwMjExZWU2",
   "tracks": [
     {
       "added_at": "2023-06-08 22:06:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Lava Ground",
-        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
-      },
-      "artists": [
-        {
-          "name": "I Wayne",
-          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Cant Satisfy Her",
-      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "44/876 (Deluxe)",
         "url": "https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191320,
       "name": "Morning Is Coming (with Shaggy)",
       "url": "https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Lava Ground",
+        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Cant Satisfy Her",
+      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Inna Heights",
-        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Hills And Valleys",
-      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 224413,
       "name": "Beach in Hawaii",
       "url": "https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Hills And Valleys",
+      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Delroy Wilson's Big Hits",
+        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "Better Must Come",
+      "url": "https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "The Voices Of Sweet Jamaica",
         "url": "https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Delroy Wilson's Big Hits",
-        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
-      },
-      "artists": [
-        {
-          "name": "Delroy Wilson",
-          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "Better Must Come",
-      "url": "https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Funky Kingston",
         "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "All Eyes On U",
+        "url": "https://open.spotify.com/album/4TmkappxQVraXApJvbXhLK"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/5XEV3ZFUeXH1un9UhcVTAK"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Rebel Time",
         "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "All Eyes On U",
-        "url": "https://open.spotify.com/album/4TmkappxQVraXApJvbXhLK"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 148695,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/5XEV3ZFUeXH1un9UhcVTAK"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Freddie McGregor: The Anthology",
-        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
-      },
-      "artists": [
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Big Ship",
-      "url": "https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Revelation Pt. II: The Fruit of Life",
         "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 277653,
       "name": "Rock Stone",
       "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Big Ship",
+      "url": "https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
       "artists": [
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Love And Mercy",
-        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
-      },
-      "artists": [
-        {
-          "name": "Samory I",
-          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Love And Mercy",
-      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "A Love Affair",
         "url": "https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 228600,
       "name": "Tempted to Touch",
       "url": "https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Love And Mercy",
+        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
+      },
+      "artists": [
+        {
+          "name": "Samory I",
+          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Love And Mercy",
+      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
     }
   ],
   "unique_name": "One Love",

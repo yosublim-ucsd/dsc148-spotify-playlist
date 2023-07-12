@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Doechii",
-  "num_followers": 75412,
+  "num_followers": 75425,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjA3NmE3NmZiOTExOTUzNTU0YTA3NzhjNTVhMjMwODQ1YTg2YWJh",
+  "snapshot_id": "MCxhNDUwYWRhMzY0ZWU5NmE5ODUyODY4ZWMxNTM1OTUxMjFiY2U5ZWE3",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -213,26 +213,6 @@
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
-      "added_at": "2023-04-06 23:29:21",
-      "album": {
-        "name": "Smoke (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 186157,
-      "name": "Smoke (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "7 EP",
@@ -267,6 +247,26 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku"
+    },
+    {
+      "added_at": "2023-04-06 23:29:21",
+      "album": {
+        "name": "Smoke (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 186157,
+      "name": "Smoke (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -315,26 +315,6 @@
       "duration_ms": 166000,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2023-05-25 04:09:32",
@@ -403,6 +383,26 @@
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
     },
     {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
       "added_at": "2023-04-06 23:29:21",
       "album": {
         "name": "Heaven (feat. Tinashe)",
@@ -793,22 +809,6 @@
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "BUBBA",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
+      "added_at": "2023-05-25 04:09:32",
       "album": {
-        "name": "Grrrl Like",
-        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
       },
       "artists": [
         {
-          "name": "Dope Saint Jude",
-          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
         }
       ],
-      "duration_ms": 171667,
-      "name": "Grrrl Like",
-      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+      "duration_ms": 136400,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
     },
     {
       "added_at": "2022-05-31 20:14:29",

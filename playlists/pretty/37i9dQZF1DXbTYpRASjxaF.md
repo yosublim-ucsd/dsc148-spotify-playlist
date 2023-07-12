@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Coruja BC1, Mc Neguinho do Kaxeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,092 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,162 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 45 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 |
 | 46 | [Evoque Miami Blue](https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Evoque Miami Blue](https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap) | 2:09 |
 | 47 | [Balança](https://open.spotify.com/track/093Xee7tdLahNGemZSdgM0) | [Byll](https://open.spotify.com/artist/3YdXuCduWWgMh8c5yotblH), [DJ BRUNO PRADO](https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3), [Roccha](https://open.spotify.com/artist/4tZgFHpXpKRu9TTQc1SrpC) | [Balança](https://open.spotify.com/album/6XGr1xmZuxYrU3jeY7F1KN) | 2:16 |
-| 48 | [Macarena](https://open.spotify.com/track/62FjYIpr0spteyDRMCvtbm) | [Dazzen](https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Natan](https://open.spotify.com/artist/5hQpfn3QeMzgAmcqBP1GOb), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Macarena](https://open.spotify.com/album/0dY0vZoJRVyERfbLA6WBLn) | 4:14 |
-| 49 | [Chandon](https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Master Pe](https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW) | [Chandon](https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon) | 2:58 |
+| 48 | [Chandon](https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Master Pe](https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW) | [Chandon](https://open.spotify.com/album/24FftNGjExt8LkPWUr6Zon) | 2:58 |
+| 49 | [Macarena](https://open.spotify.com/track/62FjYIpr0spteyDRMCvtbm) | [Dazzen](https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Natan](https://open.spotify.com/artist/5hQpfn3QeMzgAmcqBP1GOb), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Macarena](https://open.spotify.com/album/0dY0vZoJRVyERfbLA6WBLn) | 4:14 |
 | 50 | [Campari para Baby](https://open.spotify.com/track/6xPqyaXbTLSa5NVcE1WPqk) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Blade MC](https://open.spotify.com/artist/2HX0LLzHH7rDnTOXKjz5uB) | [Campari para Baby](https://open.spotify.com/album/76PTOuqUpl1Fec9dFQjr3F) | 3:00 |
 
-Snapshot ID: `MCw5YTRjZjJiZDdiYWFiZjFlOWRkN2QwZjc3Yzc3OGY2ZTQyMDdmMDc0`
+Snapshot ID: `MCwxYjA2ZDYwNDA5ODBjM2JhNjkwZjgxYjNhYzJlYjE4YWMxMzg5OTMx`

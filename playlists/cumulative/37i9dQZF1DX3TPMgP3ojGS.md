@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,717 songs - 3 day 5 hr 2 min
+1,718 songs - 3 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Bedtime Story](https://open.spotify.com/track/6Vfbw73ppOiI72xfTwxeRz) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Images of Now](https://open.spotify.com/album/4Fyk5yMOFNqjG2NTCksZQb) | 2:34 | 2021-03-22 | 2022-04-03 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-03-29 | 2022-07-25 |
 | [Before the End](https://open.spotify.com/track/4tyxHnPMfFZcJdZS8R1zcT) | [Max Rossiter](https://open.spotify.com/artist/1QBHSnspvme5KAL4PJ2tDw) | [Before the End](https://open.spotify.com/album/7zEORVyhxLXS2AXKtWNI08) | 2:20 | 2022-03-29 | 2022-04-12 |
-| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 |  |
+| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 | 2023-07-12 |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-03-08 | 2022-09-30 |
 | [Beginning](https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:26 | 2021-03-06\* | 2022-07-29 |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2021-10-07 | 2022-11-22 |
@@ -1339,6 +1339,7 @@
 | [Song of Solitude](https://open.spotify.com/track/6D8xi7ie5kMaNKc1vq71eT) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Miracles](https://open.spotify.com/album/35fC7ebLga3UsXYFUXcAzx) | 3:26 | 2021-05-09 | 2022-03-27 |
 | [Song Of Spring](https://open.spotify.com/track/1UaEwpwvdErPyOJkWnJmy8) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Song Of Spring](https://open.spotify.com/album/3FFlVYYjsbiZsWKf8lFwDZ) | 2:42 | 2022-07-01 | 2022-07-16 |
 | [Songe \(Debut\)](https://open.spotify.com/track/4wlotUQTBQRc005LhYpJkN) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK), [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Songe](https://open.spotify.com/album/2Kq7643R4QZ1GN8VVJ5pfE) | 3:11 | 2021-05-08 | 2021-05-21 |
+| [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-07-06 |  |
 | [Sono innamorato](https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Sono innamorato](https://open.spotify.com/album/25UUV79Ir4jFcopJDYu20R) | 2:30 | 2021-12-09 | 2022-06-09 |
 | [Soothe](https://open.spotify.com/track/0TA4KpQK657wXKvW3X0Oxf) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:30 | 2021-04-23 | 2022-03-28 |
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 |  |

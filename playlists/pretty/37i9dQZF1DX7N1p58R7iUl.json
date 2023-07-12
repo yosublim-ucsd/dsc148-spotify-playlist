@@ -1,15 +1,39 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 41341,
+  "num_followers": 41361,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2ZiNjIxMTRiYTk1MDBjMTRiNzM2Y2ZjOWRhYmRlZTYxZDZmZTU2",
+  "snapshot_id": "MCwwNjA3YTFiYzhiOWQ5OGQyMzdiZDI0M2RlYTZhMmZmNTNkOTQzMTM2",
   "tracks": [
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7g9XwJAaiule80Wr7cqEtn"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "Monolitio",
+          "url": "https://open.spotify.com/artist/0x1rHbs0sOJX8OIMDmCG6w"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Heartbeat - Edit",
+      "url": "https://open.spotify.com/track/6wThTigROjongzvXEYnWGy"
+    },
+    {
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Reachin Out (feat. Bemend\u00e9)",
         "url": "https://open.spotify.com/album/2iVxo0oFBRdIXnKIjF7SFf"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/7KuG1cv6T7elVHK0jwp9fJ"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/3NRoXf6bsDfw0rHvxEwIau"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/3KwrRdNOMHgBweH1eJuRrk"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/6S0dDUoFZvgfg8VqZnB2S8"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Put A Spell On You",
         "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
@@ -81,7 +105,7 @@
       "url": "https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/28B5eFQYYnRhYpqUkk7145"
@@ -101,7 +125,7 @@
       "url": "https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Glory (feat. Waajeed) [Floorplan Remix]",
         "url": "https://open.spotify.com/album/70Yl2gVcF5MzehZFKxTKtg"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/0taSrEsqb3QiZPBRtPebFL"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
@@ -141,7 +165,7 @@
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "BFG",
         "url": "https://open.spotify.com/album/34szLPacWvlfyX8mha2Mg4"
@@ -161,7 +185,7 @@
       "url": "https://open.spotify.com/track/3ojHKbztzc33d6hiEhsDp5"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Salty",
         "url": "https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM"
@@ -181,7 +205,7 @@
       "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Music Is My Life (Giovi Remix)",
         "url": "https://open.spotify.com/album/2tenUhrSivoUCnFKybI7Lt"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/3ecsy5AgyTHGG9OHeNfsEd"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Better (feat. Jena)",
         "url": "https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i"
@@ -229,7 +253,7 @@
       "url": "https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Dirty Secret",
         "url": "https://open.spotify.com/album/3wj6rlwOQtvaRdvF60Y12B"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/7BnnEny1hfJYK8bkq45R0D"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
@@ -265,7 +289,7 @@
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
@@ -281,7 +305,7 @@
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Larry Keeps On Dancing (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/2RbtJitzLCTPvgcRsUdYs7"
@@ -301,7 +325,7 @@
       "url": "https://open.spotify.com/track/11YVK4wGorm4k7m5nmUrfE"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Make Life Funky (Remixes)",
         "url": "https://open.spotify.com/album/2ycc8EBNbGZuP2PDLdMCpD"
@@ -325,7 +349,7 @@
       "url": "https://open.spotify.com/track/0oQbX0QWLx5wkshYtYz4tJ"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Get On Down",
         "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
@@ -345,7 +369,7 @@
       "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Check It Out",
         "url": "https://open.spotify.com/album/7hCC9Z9GJKWrbpvA8jpGgX"
@@ -361,7 +385,7 @@
       "url": "https://open.spotify.com/track/473rDJHC4hwixJAPJROpFh"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "I Give You Love (Janika Tenn VIP Mix)",
         "url": "https://open.spotify.com/album/5G0QWKcnxKx9cfyJHkFQRX"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/03hsvtut70upyyfRCCu36b"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "What",
         "url": "https://open.spotify.com/album/6nVoH09T4a1v5kNeOnE63C"
@@ -441,7 +465,7 @@
       "url": "https://open.spotify.com/track/639bLgIaSblOK5PJHW2nCH"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
@@ -461,7 +485,7 @@
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Lost In The Music",
         "url": "https://open.spotify.com/album/0w3VfrflmlU2PBY0tvlZAz"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/54gS6bVunGcyHEJAYWp41b"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Don't Wanna Fall In Love",
         "url": "https://open.spotify.com/album/6oN2BDLyZY2F85noRXFGK3"
@@ -501,7 +525,7 @@
       "url": "https://open.spotify.com/track/3Dkv6E0tUrZ6WzIIcYcUd2"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Colourblind",
         "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Go With It",
         "url": "https://open.spotify.com/album/0rQOM7PU9rgXt5wpzpppGx"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/6jHMhIdISBhDVt0SdzsenG"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Oshun",
         "url": "https://open.spotify.com/album/1JYpngK4SJ65s6HRA0fz2i"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/43fIZwn9Ix0J3oLZur21pD"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Out My Way",
         "url": "https://open.spotify.com/album/0WPkePMGxiycpMHKthno89"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/1W67Y84L9500hrERiRRgBB"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5NvvhO0HVXh9ykljt6bUyo"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/3ARbCi8sat6FYkO3xqCS58"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/1IMWabPHigaYU8LKwQ0jjQ"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/6WurQwbDgwLHNdZgi1v7ZJ"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "The One (feat. ARA)",
         "url": "https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Moving All Around (Jumpin') (feat. Kim English) [John Summit Remix]",
         "url": "https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Cada Vez (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/4Xb782UmglZDXRXeIoE663"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/2EkkTGKerIxiOSSrPwuV7z"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "IRLY (I Really Love You)",
         "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Jackin",
         "url": "https://open.spotify.com/album/45aDCsWhHX0dYMYBD1YZwi"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/5Ch37IZ373AdaU5f4pZ9MR"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Vibe Like That (feat. Georgia Meek)",
         "url": "https://open.spotify.com/album/0ySlD1fI5g672A3RCGoViO"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Make You Happy",
         "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Hendrix Flow",
         "url": "https://open.spotify.com/album/5xX0bfn9ncd9Q3OBxqEJBx"
@@ -777,7 +801,7 @@
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Fly Like an Eagle",
         "url": "https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Jack Had A Groove (Glen Horsborough Remix)",
         "url": "https://open.spotify.com/album/00NoNHchpYhlQ9TIfjlfu1"
@@ -817,7 +841,7 @@
       "url": "https://open.spotify.com/track/68YRtsiy9LHICl8IPxhiif"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
@@ -845,7 +869,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "MYB",
         "url": "https://open.spotify.com/album/4d6ZTKxFTiNBdQYwCbXJVT"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/2tA7OipNGwIJCAOpGdfqP1"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Give Me Your Love",
         "url": "https://open.spotify.com/album/0NilFp8hYbx3xbArZt2OY8"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/28Ns3K9E0O8n1MO3aIVcOm"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "I'll Wait (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/5XDRyRQqcwmpNEom3HZg6o"
@@ -917,7 +941,7 @@
       "url": "https://open.spotify.com/track/6LMRj8igCpvgyMewvK8gaq"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
@@ -933,7 +957,7 @@
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "We Kept Dancing",
         "url": "https://open.spotify.com/album/0fRkPkffppY6DxRBEh6txA"
@@ -957,7 +981,7 @@
       "url": "https://open.spotify.com/track/6LQK9OcjeVgTjN8iLKPVhf"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
@@ -981,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
     },
     {
-      "added_at": "2023-07-07 14:47:18",
+      "added_at": "2023-07-11 15:58:09",
       "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"

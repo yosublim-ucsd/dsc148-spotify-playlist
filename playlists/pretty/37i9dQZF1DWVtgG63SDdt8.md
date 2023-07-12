@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU?si=86888a297c8548ab">Cory Asbury</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,186 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,369 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 |
 | 100 | [Johnny](https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Johnny](https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY) | 1:56 |
 
-Snapshot ID: `MCxmZWI3MDYyYjMyZWQ2ZWQxNjY0OTYwMWNlYzgxNWYzNzYyNzcxNjVl`
+Snapshot ID: `MCxkYzQ1NjUxZWFhOTJmYjNiZmI2YTA5M2VkM2M1YTQzODA0NTI2NDg4`

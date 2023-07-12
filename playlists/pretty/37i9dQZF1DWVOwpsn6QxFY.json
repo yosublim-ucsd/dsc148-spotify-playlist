@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 121121,
+  "num_followers": 121161,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTM0Y2FiMGY0MjI0Y2FkMWUwZTE5YjIzYTA1ODZjZDA3MGFiMjdj",
+  "snapshot_id": "MCxjYjFjZDNkMzBhYWMzODc0NGM3OWEwY2I5ZjBhY2FhNWI1Y2YxY2Jk",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 235872,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 235872,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
+      "added_at": "2023-07-04 22:26:33",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO"
+    },
+    {
       "added_at": "2023-04-27 23:00:00",
       "album": {
         "name": "Mountain",
@@ -1005,22 +1021,6 @@
       "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
     },
     {
-      "added_at": "2023-07-04 22:26:33",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO"
-    },
-    {
       "added_at": "2023-04-27 23:00:00",
       "album": {
         "name": "Blue Hours",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Corduroy",
         "url": "https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 238053,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Can't Stop The Dawn",
-        "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "Pink Pools",
-      "url": "https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Andrew",
         "url": "https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 164126,
       "name": "Andrew",
       "url": "https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Can't Stop The Dawn",
+        "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Pink Pools",
+      "url": "https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1297,20 +1297,20 @@
       "url": "https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah"
     },
     {
-      "added_at": "2023-05-19 14:28:53",
+      "added_at": "2023-07-04 22:26:33",
       "album": {
-        "name": "Fairlies",
-        "url": "https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D"
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
       },
       "artists": [
         {
-          "name": "Grian Chatten",
-          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Fairlies",
-      "url": "https://open.spotify.com/track/4MP3R0itL0A32onspZXcur"
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     }
   ],
   "unique_name": "Garden Indie",

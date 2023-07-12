@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,756 songs - 9 day 2 hr 19 min
+5,757 songs - 9 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Autumn Theory](https://open.spotify.com/track/48QghapadfcUmFMwagTzdq) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Autumn Theory](https://open.spotify.com/album/120Bz5AIwtLp6ymurhWqrp) | 1:53 | 2022-11-11 | 2022-11-24 |
 | [Autumn Theory](https://open.spotify.com/track/6T7GXGXmc5kJfMaRcGt0SW) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Autumn Theory](https://open.spotify.com/album/1DsWV4CmOAoXnAZZ6FVGz7) | 1:53 | 2022-11-18 | 2022-12-14 |
 | [Autumn Theory](https://open.spotify.com/track/7hFVjyCCaIG5cJxzW5wb7l) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Autumn Theory](https://open.spotify.com/album/63evII2ogRMRVuIns9rQlT) | 1:53 | 2022-12-09 | 2023-01-20 |
-| [Ava](https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Ava](https://open.spotify.com/album/3DpxmOQt95WC5hdA9Gj6sn) | 1:47 | 2023-05-18 | 2023-07-09 |
+| [Ava](https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Ava](https://open.spotify.com/album/3DpxmOQt95WC5hdA9Gj6sn) | 1:47 | 2023-05-18 |  |
 | [ave](https://open.spotify.com/track/5HhaAeZReuplSO2gpe4j2z) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 2:16 | 2020-05-07 | 2021-06-18 |
 | [Avenue](https://open.spotify.com/track/6nIthpvwMurzyjcAHibuqh) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Avenue](https://open.spotify.com/album/6zBxwV2KsfZnZtlcX7I01M) | 1:38 | 2023-05-31 |  |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2021-12-17 | 2022-06-24 |
@@ -379,6 +379,7 @@
 | [Awakening](https://open.spotify.com/track/5CkdiuIyUWD9qFHIGHGGzl) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3), [løift.](https://open.spotify.com/artist/0XWohQFTLp3lPtlgekLfui) | [Awakening](https://open.spotify.com/album/5U5qhiDdZTSAN4jcZNuTOZ) | 2:54 | 2021-06-11 | 2022-01-14 |
 | [Awakening](https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Awakening](https://open.spotify.com/album/37FAGVUIcayWIk1DJcxmSB) | 2:24 | 2022-11-25 | 2023-07-02 |
 | [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 | 2022-03-11 | 2022-08-05 |
+| [Awareness](https://open.spotify.com/track/72tjpx2aQwxWmJKikZZmxy) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Awareness](https://open.spotify.com/album/5nwqd0TDCgmZbrAoX24k4J) | 1:54 | 2023-07-06 |  |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2019-05-26\* | 2020-10-21 |
 | [Ayahuasca](https://open.spotify.com/track/0Fp3TSyvGSR7hhlwtVZnp5) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [The Lost Shaman](https://open.spotify.com/album/05ZrQLHNV8WOMfdZ06R0J2) | 3:19 | 2021-07-29 | 2022-03-12 |
 | [Ayanapas Parabola](https://open.spotify.com/track/3ZuPTVSUn58viMEafhZasm) | [Orientale Pesetas](https://open.spotify.com/artist/1QB9kev4D1hUMkHplN1tHW) | [Ayanapas Parabola](https://open.spotify.com/album/1gPu2D432IQKVbaNVnnDlD) | 1:43 | 2020-06-05 | 2021-10-02 |
@@ -510,7 +511,7 @@
 | [Beneteau](https://open.spotify.com/track/3A4xiikel0UUzUKFo54Lkw) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr) | [Beneteau](https://open.spotify.com/album/72OsMZasJ7VMqEiVKq3K28) | 2:13 | 2023-01-13 | 2023-05-19 |
 | [Bent into Shape](https://open.spotify.com/track/6O5ST6CdjRYM7hMykLQYGI) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Bent into Shape](https://open.spotify.com/album/3VqdFiu6uYh7WjlGiBHFLE) | 2:21 | 2022-08-12 | 2022-12-24 |
 | [Bento](https://open.spotify.com/track/7AvmYZ7WGvWGgs36Z44WVo) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Bento](https://open.spotify.com/album/0Y3ZTPmJbM1DglNbnxQQ1L) | 1:54 | 2023-01-13 | 2023-05-04 |
-| [Berceuse](https://open.spotify.com/track/3LkLBX7EeqneuoPjObIiJG) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Berceuse](https://open.spotify.com/album/6GL3aEsPDHPBW460SHV22I) | 2:09 | 2022-11-11 |  |
+| [Berceuse](https://open.spotify.com/track/3LkLBX7EeqneuoPjObIiJG) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Berceuse](https://open.spotify.com/album/6GL3aEsPDHPBW460SHV22I) | 2:09 | 2022-11-11 | 2023-07-12 |
 | [Berdux](https://open.spotify.com/track/1UhNLzVAAYmwVXxb7GfxqM) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Berdux](https://open.spotify.com/album/0SlgG9ri6iJy7OJP7vYW7p) | 2:50 | 2022-12-23 |  |
 | [Berlin](https://open.spotify.com/track/62tRvfOJMzsxhPkMJIChxq) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Berlin](https://open.spotify.com/album/1qoZYKMSncStSidh2piaqF) | 1:56 | 2022-02-25 | 2022-06-03 |
 | [Berlin Tsukin](https://open.spotify.com/track/0MHOzZBDrPjBocW11I2Ht6) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Bi\-To Te\-Pu](https://open.spotify.com/album/58sIfXaBn3HkCmbCRJkCJr) | 3:12 | 2020-11-05 | 2021-10-20 |
@@ -2353,7 +2354,7 @@
 | [Iceboy](https://open.spotify.com/track/1mHesjJq3oHxL39ny7lXpk) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Iceboy](https://open.spotify.com/album/7gvC6LTi6Jyqo3WdeyrY0R) | 1:51 | 2022-04-08 | 2022-08-27 |
 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 | 2022-11-11 | 2023-03-07 |
 | [Icy Waters](https://open.spotify.com/track/5RCvWR4MXGZEfkE6ofH5F9) | [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Icy Waters](https://open.spotify.com/album/4qDa3SXNAtmial8OoExTvk) | 1:48 | 2020-06-23 | 2021-01-11 |
-| [Ideal Image, Pt\. 2](https://open.spotify.com/track/3VVkXqGbgpIIHPWAfwvNBH) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Ideal Image, Pt\. 2](https://open.spotify.com/album/0ZsDH6FXHvplXoguWnZXMo) | 1:56 | 2023-05-18 |  |
+| [Ideal Image, Pt\. 2](https://open.spotify.com/track/3VVkXqGbgpIIHPWAfwvNBH) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Ideal Image, Pt\. 2](https://open.spotify.com/album/0ZsDH6FXHvplXoguWnZXMo) | 1:56 | 2023-05-18 | 2023-07-12 |
 | [Ideas](https://open.spotify.com/track/3ZVbXceXHOIaN5YLyTl3fl) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Wilf](https://open.spotify.com/artist/6YFTYI3N17c6wI2Vc6czX7) | [Natural Language & Ideas](https://open.spotify.com/album/4k4gvG576sW3XdiFgy4sEM) | 2:42 | 2020-11-05 | 2021-10-20 |
 | [IDK Valley](https://open.spotify.com/track/7IZDBE1Z2z6vie9UXcHsJz) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [IDK Valley](https://open.spotify.com/album/5xCAZhc2kGx27jsm1f55iy) | 1:58 | 2022-10-14 | 2022-12-16 |
 | [Idle of Mud](https://open.spotify.com/track/0UO9de8BcAh1XvNkUBg7O1) | [Hollow Sol](https://open.spotify.com/artist/0hQJpFMoPSqJyHY1SLB6SB) | [Shikkotsu Forest](https://open.spotify.com/album/1XOOywvOu7mJOiWVIAPeAd) | 1:15 | 2020-06-12 | 2021-09-02 |

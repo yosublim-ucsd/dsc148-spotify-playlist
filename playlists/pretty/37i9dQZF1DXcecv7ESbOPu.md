@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,557 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,565 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 54 | [The Fall](https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Fall / For the Last Time](https://open.spotify.com/album/3GzBwa27pIwAnytu1KP0ka) | 3:37 |
 | 55 | [The One And Only](https://open.spotify.com/track/4CS3SKRSZsJOJHSrqvwq5V) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [The One And Only](https://open.spotify.com/album/2iCrbtIE09UlcQRunJcnSF) | 2:57 |
 | 56 | [In A Dream](https://open.spotify.com/track/5C4atbyWTRVjD6oYeCxyll) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [In A Dream](https://open.spotify.com/album/0znkyScMynDEEzGZDIgRSK) | 2:34 |
-| 57 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
+| 57 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 |
 | 58 | [STRÖGET MÅSTE GÅ](https://open.spotify.com/track/4g3szqJcYbj0n5qbsD8m5D) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [STRÖGET MÅSTE GÅ](https://open.spotify.com/album/1ydhniCfuAVEtWuGQONUUJ) | 2:46 |
 | 59 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 60 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 115 | [En riktig Volvo EPA](https://open.spotify.com/track/0OKmG2oBxxMaJzHzFdaL5S) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [En riktig Volvo EPA](https://open.spotify.com/album/3i28l4ihW86rsTsjPX4pRf) | 3:13 |
 | 116 | [Besatt](https://open.spotify.com/track/5Luc1MxPaCA6pASWag5Bm8) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Besatt](https://open.spotify.com/album/3CJZcCzy5KCqYpCKdrMxxt) | 3:49 |
 
-Snapshot ID: `MCxhZWQzZDI3ZDQ2YTRiZDc4NzE0NmVlZjk3MTE2MGJhNTczNjA0YmNm`
+Snapshot ID: `MCwwYjRmOGQ4Njk1MjZmOTg4ODZkY2JkMTcwZmZlNzQ5ZmMzNWVhNTEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Taylor Swift, NewJeans, Anne\-Marie, Ayase & R\-指定 and more! cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,140 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,152 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 70 | [Teddy Bear Returns \(Summer Edition\)](https://open.spotify.com/track/3QWp8Vaf2utmRalJkGkt02) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Teddy Bear Returns \(Summer Edition\)](https://open.spotify.com/album/0ALTUGYu7nG2V9Bfuweff3) | 3:50 |
 | 71 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 |
 | 72 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 |
-| 73 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
+| 73 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Daklis](https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 74 | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/4825L5vjFuzQQd9u4pKs46) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Bitter Lovers \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/album/1eOafv0iqFoVJI8juu0bEz) | 4:11 |
 
-Snapshot ID: `MCw4MWM4NDJjMzMyZDgwOTMyN2M3ZDM4MjAzY2Q2M2QwNDUyOWM4YmNm`
+Snapshot ID: `MCwzNmVkZmI3NDBmY2JjZjA3MTUwMjkyY2ZhMDQyNzI1NzcxZDNhNzlh`

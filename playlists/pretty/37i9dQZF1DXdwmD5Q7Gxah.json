@@ -1,12 +1,12 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: glaive",
-  "num_followers": 1064278,
+  "num_followers": 1070516,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzI0ZTE5MDEyOGEyMjI1NGNhODk1MDRiNGFjNzkxMzJlOGQxMmNj",
+  "snapshot_id": "MCw5MWE5NzBhYTExOGZlOTEzNjlhOGJkMjJlYzQ0ZDYwZGRkNjE4NDg2",
   "tracks": [
     {
       "added_at": "2023-07-05 08:00:00",
@@ -119,18 +119,18 @@
     {
       "added_at": "2023-06-30 04:05:22",
       "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+        "name": "the car",
+        "url": "https://open.spotify.com/album/2oOjAHADWlfAfYTFlWhcVl"
       },
       "artists": [
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 246500,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
+      "duration_ms": 179633,
+      "name": "the car",
+      "url": "https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
     },
     {
+      "added_at": "2023-07-11 18:07:46",
+      "album": {
+        "name": "Sweet Bonita",
+        "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Sweet Bonita",
+      "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
+    },
+    {
       "added_at": "2023-07-07 18:45:59",
       "album": {
         "name": "There\u2019s no Other",
@@ -163,6 +179,22 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-06-30 04:05:22",
+      "album": {
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
     },
     {
       "added_at": "2023-06-28 19:30:20",
@@ -181,22 +213,6 @@
       "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
     },
     {
-      "added_at": "2023-06-30 04:05:22",
-      "album": {
-        "name": "the car",
-        "url": "https://open.spotify.com/album/2oOjAHADWlfAfYTFlWhcVl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 179633,
-      "name": "the car",
-      "url": "https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "my year of rest & relaxation",
@@ -211,6 +227,22 @@
       "duration_ms": 161008,
       "name": "my year of rest & relaxation",
       "url": "https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Prescription",
+        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213237,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
     },
     {
       "added_at": "2023-06-27 17:24:43",
@@ -277,20 +309,36 @@
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Prescription",
-        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 213237,
-      "name": "Prescription",
-      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
+      "added_at": "2023-05-25 00:06:09",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2023-01-27 20:16:55",
@@ -325,22 +373,6 @@
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
     },
     {
-      "added_at": "2023-06-24 00:36:37",
-      "album": {
-        "name": "Make It A Double",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
-    },
-    {
       "added_at": "2023-03-21 15:53:36",
       "album": {
         "name": "Boyhood",
@@ -355,6 +387,22 @@
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2023-03-15 04:20:01",
+      "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
     },
     {
       "added_at": "2023-06-30 04:05:22",
@@ -389,20 +437,20 @@
       "url": "https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb"
     },
     {
-      "added_at": "2023-05-17 00:25:30",
+      "added_at": "2023-06-24 00:36:37",
       "album": {
-        "name": "NYC UMTs",
-        "url": "https://open.spotify.com/album/4w4KuhWvjhLd2gwMaaVl2g"
+        "name": "Make It A Double",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
       },
       "artists": [
         {
-          "name": "May Rio",
-          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 161533,
-      "name": "NYC UMTs",
-      "url": "https://open.spotify.com/track/7eUU2AYvO1hyGPZhI90ZuL"
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2023-06-30 04:05:22",
@@ -517,6 +565,22 @@
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
+      "added_at": "2023-05-17 00:25:30",
+      "album": {
+        "name": "NYC UMTs",
+        "url": "https://open.spotify.com/album/4w4KuhWvjhLd2gwMaaVl2g"
+      },
+      "artists": [
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "NYC UMTs",
+      "url": "https://open.spotify.com/track/7eUU2AYvO1hyGPZhI90ZuL"
+    },
+    {
       "added_at": "2023-06-01 22:48:31",
       "album": {
         "name": "Uh",
@@ -579,22 +643,6 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
-    },
-    {
-      "added_at": "2023-03-15 04:20:01",
-      "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -679,22 +727,6 @@
       "duration_ms": 305511,
       "name": "Found!",
       "url": "https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz"
-    },
-    {
-      "added_at": "2023-05-25 00:06:09",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2023-05-02 15:43:51",
@@ -809,22 +841,6 @@
       "url": "https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Give It Up For Love",
-        "url": "https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Give It Up For Love",
-      "url": "https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "In Your Wake",
@@ -875,38 +891,6 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-06-07 16:29:34",
-      "album": {
-        "name": "all i do is try my best",
-        "url": "https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 169267,
-      "name": "all i do is try my best",
-      "url": "https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2023-05-25 15:44:32",
@@ -973,26 +957,6 @@
       "url": "https://open.spotify.com/track/2qCRXP0tE2x8OFWQYi8JGA"
     },
     {
-      "added_at": "2023-06-01 22:48:31",
-      "album": {
-        "name": "Let's Go to Trader Joe's",
-        "url": "https://open.spotify.com/album/5FbPldlRQIk9EMvrBD8CWr"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        },
-        {
-          "name": "Cinya Khan",
-          "url": "https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Let's Go to Trader Joe's",
-      "url": "https://open.spotify.com/track/53owNluVt8f7tkgZ07YYuR"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Sunshine Baby",
@@ -1007,22 +971,6 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
-    },
-    {
-      "added_at": "2023-05-24 23:50:22",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1055,22 +1003,6 @@
       "duration_ms": 146372,
       "name": "Shining",
       "url": "https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1233,22 +1165,6 @@
       "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Inigo",
-        "url": "https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256991,
-      "name": "Inigo",
-      "url": "https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "as if",
@@ -1389,22 +1305,6 @@
       "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
     },
     {
-      "added_at": "2023-04-18 17:43:41",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc"
-      },
-      "artists": [
-        {
-          "name": "Synthia",
-          "url": "https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF"
-        }
-      ],
-      "duration_ms": 164846,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "scales",
@@ -1467,6 +1367,26 @@
       "duration_ms": 265772,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1565,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu"
     },
     {
-      "added_at": "2023-04-14 04:11:17",
-      "album": {
-        "name": "Demos 4-11",
-        "url": "https://open.spotify.com/album/4whtRg1zOlh1uuyrsg6kW8"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 120263,
-      "name": "Glad I Don't Have To - Demo",
-      "url": "https://open.spotify.com/track/3kG7hHmU4GhSr0WnvEUX6C"
-    },
-    {
       "added_at": "2023-04-05 16:36:03",
       "album": {
         "name": "CALL ME IF YOU GET LOST",
@@ -1671,26 +1575,6 @@
       "duration_ms": 146917,
       "name": "THE PEACH",
       "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
-    },
-    {
-      "added_at": "2023-04-05 16:36:03",
-      "album": {
-        "name": "After Midnight (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "After Midnight (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1785,22 +1669,6 @@
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 212625,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
-    },
-    {
       "added_at": "2022-11-07 16:39:16",
       "album": {
         "name": "Waiting to Spill",
@@ -1815,26 +1683,6 @@
       "duration_ms": 242626,
       "name": "Morning in the Aves",
       "url": "https://open.spotify.com/track/6mWlah5Cxz8qTcW17pbj7h"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Si Me Voy (with The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 203219,
-      "name": "Si Me Voy (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "added_at": "2023-03-10 05:00:00",

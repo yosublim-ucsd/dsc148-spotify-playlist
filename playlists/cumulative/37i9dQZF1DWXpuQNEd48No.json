@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "3B2",
+        "url": "https://open.spotify.com/album/6HWe0u8z4qbiuatajJ7n6N"
+      },
+      "artists": [
+        {
+          "name": "GP JI",
+          "url": "https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "3B2",
+      "url": "https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr"
+    },
+    {
+      "album": {
         "name": "Ace",
         "url": "https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6"
       },
@@ -156,7 +174,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 225555,
       "name": "Aukaat",
       "url": "https://open.spotify.com/track/72pIrr3yu9g19s7gXZKYE6"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 190384,
       "name": "Eicher Messi - Mafioso Chapter 1",
       "url": "https://open.spotify.com/track/3XgviOJM1jRGtuL8i9sl0c"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 155527,
       "name": "Extend Mag",
       "url": "https://open.spotify.com/track/4rnNQakQukmfI9v8eWBXuh"
@@ -566,6 +584,32 @@
       "duration_ms": 165601,
       "name": "Goli",
       "url": "https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1"
+    },
+    {
+      "album": {
+        "name": "Goli",
+        "url": "https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dhull",
+          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
+        },
+        {
+          "name": "Nonu Rana",
+          "url": "https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh"
+        },
+        {
+          "name": "VJ Paul",
+          "url": "https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Goli",
+      "url": "https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD"
     },
     {
       "album": {
@@ -746,7 +790,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 143475,
       "name": "JagPal",
       "url": "https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE"
@@ -842,6 +886,28 @@
       "duration_ms": 152093,
       "name": "Kali Gadiyan",
       "url": "https://open.spotify.com/track/4tQCcLqpUjymKyF40Mea7S"
+    },
+    {
+      "album": {
+        "name": "Kede Kede Yaar",
+        "url": "https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP"
+      },
+      "artists": [
+        {
+          "name": "Daulatpuria",
+          "url": "https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Kede Kede Yaar",
+      "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
     },
     {
       "album": {
@@ -980,6 +1046,28 @@
       "duration_ms": 193636,
       "name": "Mcoca",
       "url": "https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l"
+    },
+    {
+      "album": {
+        "name": "Men In Black",
+        "url": "https://open.spotify.com/album/5muqfU3Iij0c2PV02gw01O"
+      },
+      "artists": [
+        {
+          "name": "Manish Rawal",
+          "url": "https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb"
+        },
+        {
+          "name": "Subtrax",
+          "url": "https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "Men In Black",
+      "url": "https://open.spotify.com/track/4roeUS4FitfHH2TDf2qraX"
     },
     {
       "album": {

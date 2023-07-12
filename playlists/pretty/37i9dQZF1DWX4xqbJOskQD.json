@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1658,
+  "num_followers": 1663,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM5NDk3YzViZTA0NzBiMTI1MThlOTEyNzcyMzFjYjNiODQyMjlj",
+  "snapshot_id": "MCw5ZDI2MDNmYWM0NDM0OTZmYTAxNDQxOGY5Y2IxZDRkZWJmMTU2NGRi",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -167,6 +167,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
+        "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
+      },
+      "artists": [
+        {
+          "name": "The Ray Conniff Singers",
+          "url": "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
+        }
+      ],
+      "duration_ms": 149066,
+      "name": "Red Roses For A Blue lady",
+      "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "America's Bandleader",
         "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 183213,
       "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
       "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
-        "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
-      },
-      "artists": [
-        {
-          "name": "The Ray Conniff Singers",
-          "url": "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
-        }
-      ],
-      "duration_ms": 149066,
-      "name": "Red Roses For A Blue lady",
-      "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
     },
     {
       "added_at": "2020-08-17 22:49:59",

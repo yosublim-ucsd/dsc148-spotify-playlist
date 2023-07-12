@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5822,
+  "num_followers": 5829,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0",
+  "snapshot_id": "MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Ugly Brain",
-        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Ross",
-          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
-        }
-      ],
-      "duration_ms": 276283,
-      "name": "Ugly Brain - Single Version",
-      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "GrandVille",
-        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
+        "name": "Ugly Brain",
+        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
       },
       "artists": [
         {
-          "name": "GrandVille",
-          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
+          "name": "Mike Ross",
+          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
         }
       ],
-      "duration_ms": 368459,
-      "name": "Counting Colors",
-      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
+      "duration_ms": 276283,
+      "name": "Ugly Brain - Single Version",
+      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -375,6 +359,22 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "GrandVille",
+        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
+      },
+      "artists": [
+        {
+          "name": "GrandVille",
+          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
+        }
+      ],
+      "duration_ms": 368459,
+      "name": "Counting Colors",
+      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Take My Rider",
-        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
-      },
-      "artists": [
-        {
-          "name": "Douglas Avery",
-          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Take My Rider",
-      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Buffalo Road",
         "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178893,
       "name": "Buffalo Road",
       "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Take My Rider",
+        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
+      },
+      "artists": [
+        {
+          "name": "Douglas Avery",
+          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Take My Rider",
+      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 277904,
-      "name": "Gimme Your Love",
-      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 277904,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
     },
     {
       "added_at": "2023-06-30 00:01:00",

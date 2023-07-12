@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Radical Redemption
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,746 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,889 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 98 | [Waste Your Love](https://open.spotify.com/track/278lyWvloSVUgHGZb5OnAY) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Waste Your Love](https://open.spotify.com/album/0YJYkYfq1g8T9KxMmolj3G) | 3:08 |
 | 99 | [Satellites](https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx) | 2:26 |
 
-Snapshot ID: `MCw0MjYyZjQzOTNiOTg2MWU4OThiZjY1Y2E4ODljNThhNDJjMDhiYzc5`
+Snapshot ID: `MCxlZTk5MjBiYzIwZGRiMWRmMjA4OWVjNmY3NzNjYmIwNDI5NjRhMGRh`

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-1,183 songs - 3 day 22 hr 24 min
+1,184 songs - 3 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Elisir](https://open.spotify.com/track/6tagbIoTWyXwbHXd1i25Iv) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Elisir](https://open.spotify.com/album/5GdBBYPMy4nA0seHhCy5Sa) | 3:21 | 2023-06-28 |  |
 | [Ellipse](https://open.spotify.com/track/3UO9EwH2rdEDyLcnyBh6Y6) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Ellipse](https://open.spotify.com/album/02mx4Czx5IXwxJxe2kxuip) | 5:37 | 2022-04-06 | 2022-05-05 |
 | [Empathy](https://open.spotify.com/track/00DDyFEHxjFkOFHSn6w7rf) | [Dimitris Tsakas](https://open.spotify.com/artist/22NCZ7VvVqOgdHK6JYmVaq) | [Empathy](https://open.spotify.com/album/2Mko91yocFTxgJ62FqJ41k) | 2:28 | 2022-03-02 | 2022-04-07 |
-| [Empire](https://open.spotify.com/track/5g47JrPGgLMDO3dIXSbf8m) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 3:51 | 2023-06-07 |  |
+| [Empire](https://open.spotify.com/track/50pEHyqj8tNXiEmWcXjTKY) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Living High in the Brass Empire](https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB) | 3:51 | 2023-06-07 |  |
+| [Empire](https://open.spotify.com/track/5g47JrPGgLMDO3dIXSbf8m) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 3:51 | 2023-06-07 | 2023-07-12 |
 | [Enchanted Rock](https://open.spotify.com/track/2O8a6dGyA25jtqJxWkdA8O) | [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Enchanted Rock](https://open.spotify.com/album/57qpDBqfd2e6fQ3eDPd3Df) | 4:22 | 2023-03-09 | 2023-04-20 |
 | [Endless Memories](https://open.spotify.com/track/3ET3j2mWfXL7TspTk5EN4r) | [Thomas Naim](https://open.spotify.com/artist/7a1kUVqfVog6WvCtb65X6W) | [On the Far Side](https://open.spotify.com/album/0OecSYx0bsNXl3e0TADTrg) | 4:14 | 2023-02-08 | 2023-04-06 |
 | [Endless Summer Drops](https://open.spotify.com/track/2Jjo4ixfRhLfmoqCUYbVR3) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Endless Summer Drops](https://open.spotify.com/album/6zAltOBOL1TefoawcGdvKV) | 4:46 | 2022-08-17 | 2023-01-12 |

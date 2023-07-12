@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Le Bambole di Pezza in cover di Rock Italia questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,885 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,897 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
-| 2 | [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 |
-| 3 | [Come se tu](https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Come se tu](https://open.spotify.com/album/3cpuDgTfc4m2aLKRC5hIae) | 3:28 |
-| 4 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 5 | [Non piangere](https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT), [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Non piangere](https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK) | 3:33 |
-| 6 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
+| 2 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
+| 3 | [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 |
+| 4 | [Non piangere](https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT), [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Non piangere](https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK) | 3:33 |
+| 5 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
+| 6 | [Come se tu](https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Come se tu](https://open.spotify.com/album/3cpuDgTfc4m2aLKRC5hIae) | 3:28 |
 | 7 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 |
 | 8 | [Memories of Another Life](https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time / Memories Of Another Life](https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ) | 3:43 |
 | 9 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 |
 | 55 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 |
 
-Snapshot ID: `MCw0YzU1OWUyN2I3OWEwMmM4Y2I5NWU3OGMyMmExOGE0YjMxZDI5Yjdj`
+Snapshot ID: `MCwyMWU4YzhmZDYyNGNhNDBhMjkxZTVjNmZmYzQzYTQwOTEwZDkwMTg3`

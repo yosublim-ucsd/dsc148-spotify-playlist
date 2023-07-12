@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,183 songs - 2 day 13 hr 10 min
+1,184 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-07 | 2022-05-13 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-23 |
+| [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-07-11 |  |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-22 | 2022-01-24 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-14 | 2022-04-30 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-04 | 2022-07-17 |
@@ -304,7 +305,7 @@
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-04 | 2022-06-12 |
 | [En Shot](https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [En Shot](https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01) | 2:24 | 2023-02-04 | 2023-07-02 |
 | [En Solskinnsdag](https://open.spotify.com/track/3n3x4saKCr5Y6XTzXXpiM6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [En Solskinnsdag](https://open.spotify.com/album/3NPw9UKNxpe5sr9Z4EpZbB) | 2:28 | 2021-06-07 | 2021-07-25 |
-| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 |  |
+| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 | 2023-07-12 |
 | [En stjerne skinner i natt](https://open.spotify.com/track/7KT0MWuO7tQAdhqDXVjaHG) | [Oslo Gospel Choir](https://open.spotify.com/artist/4e2YUhdd1EKare0kqDSP8j), [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Lys imot mørketida](https://open.spotify.com/album/1xtTwWVr20DiG1KRj8ekX4) | 4:06 | 2022-12-05 | 2022-12-08 |
 | [En Stjerne Skinner I Natt](https://open.spotify.com/track/09ytvHTWKchLhLmyCW92nt) | [Storm Barnesanger](https://open.spotify.com/artist/17N09tl0uRemFaJRTAzTQf) | [En Stjerne Skinner I Natt](https://open.spotify.com/album/53iZgWJAiQdTverJS7YbrY) | 4:32 | 2022-11-28 | 2022-12-27 |
 | [En Til](https://open.spotify.com/track/6i0hamv6503yPkeSfnZogU) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [En Til](https://open.spotify.com/album/323cHXXJFmQHBkIzpevosB) | 2:36 | 2021-12-06 | 2022-01-08 |

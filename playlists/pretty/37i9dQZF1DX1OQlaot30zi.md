@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Icy Subzero, Medy, Tony Boy e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,757 likes - 92 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,762 likes - 92 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [VELENOSA](https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [VELENOSA](https://open.spotify.com/album/5uITow6TE09bajpTaySfkY) | 2:23 |
 | 22 | [Che ne sai](https://open.spotify.com/track/2iWgpDNIAKHQm4kT6TaTaQ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:50 |
 | 23 | [KLK!](https://open.spotify.com/track/5yXmTl7gKH8nvFjb4Plhze) | [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [COUNCIL ESTATE, VOL\. 2](https://open.spotify.com/album/2zE0I6noMtYf7lTEIVrbKM) | 1:47 |
-| 24 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
+| 24 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/5EFcUEOpLfKi7XGP8hW78A), [Francesco Dolci](https://open.spotify.com/artist/6mvcTkkw0LkAHrq5NhH5D5), [Reda Stephane Marzaki](https://open.spotify.com/artist/03mBEC8tiGIGqP52K5qST6), [Daniele Cossali](https://open.spotify.com/artist/4LRYM1umt48rmYEPus2eS7), [Francesco Paolo Buttarelli](https://open.spotify.com/artist/15JIStHpOZg9OvRLCMViG2), [Leonardo Lucchini](https://open.spotify.com/artist/1jpoH6ivhcTnNuN6ZiXYy9) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
 | 25 | [SLAP](https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [SLAP](https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0) | 2:03 |
 | 26 | [Il mio mestiere](https://open.spotify.com/track/0M8OyJXJdKSULM0gSubhUZ) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [GREZZO 4](https://open.spotify.com/album/2sNjVoJDdwgsKmhxX44rJJ) | 2:21 |
 | 27 | [In 2 Sulla Moto](https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [In 2 Sulla Moto](https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb) | 2:30 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 91 | [Madame](https://open.spotify.com/track/6rkJ56RN3LT0441vc2MC1P) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V) | [Madame](https://open.spotify.com/album/2UIcUj1Bw2YJKdawrMzLEV) | 2:30 |
 | 92 | [RODMAN](https://open.spotify.com/track/7rxLIKBzVP7Oyv1gqY53AY) | [Mastarais](https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma) | [RODMAN](https://open.spotify.com/album/1CEP6yaezuC7uhDIVFxvto) | 2:42 |
 
-Snapshot ID: `MCw5YzZkOWUzNjcwMmNmZTRhNGUxM2UxMzRiZjZmZDkzN2YzNGI0ZTNh`
+Snapshot ID: `MCw2NGM1ZTVlZTNhODY0ZjIzMzU4ZWJjNGVhMTlhNDhlZWE2ZjhiNTM5`

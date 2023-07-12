@@ -1,15 +1,15 @@
 {
   "description": "A new hero takes shape. Listen to the music from and inspired by Nimona, now streaming on Netflix. ",
-  "num_followers": 10259,
+  "num_followers": 11208,
   "original_name": "Nimona Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmYwYmZlMTIzMTdiODA4ZDMyNDc0NDlhYTZmYmFmNGM1OWIwYTVh",
+  "snapshot_id": "MCwzZjE4ODBlM2I3YjYwZWU4Y2M1ZGY3NTE5MGVjM2M0YmI1N2Q3ZWNj",
   "tracks": [
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "T-Rex (from the Netflix Film \"Nimona\")",
         "url": "https://open.spotify.com/album/5Q5ZxN5xo2Gw5Ddf6Sjs07"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6AjiC6ZSglAeusQABB6LTj"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Grrrl Like",
         "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Jennie Bomb",
         "url": "https://open.spotify.com/album/06dSMb1QmbZu6EU49qLZJ2"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4KdmaktDUkC9hcfap6bW7i"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6rx4jBTSagd1W4ZkQI63oK"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "The Tra La La Song (One Banana, Two Banana) / Don't Go Away - Go Go Girl",
         "url": "https://open.spotify.com/album/5Q1ce5qXmlb69XfIuEQhQF"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2j9w5xu69ioTxUZFvqvuGs"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "The Incredible Shrinking Dickies (Expanded Version)",
         "url": "https://open.spotify.com/album/4Ihag1SKHFDIxLFIJUT1Wb"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3vLERdxRiXhEVbHxuqMH6V"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Because I'm Awesome",
         "url": "https://open.spotify.com/album/7sZjZITDN5UvWvMYmrQxpW"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0lIAJkyVBkmXq4Vz0BN0cc"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
@@ -157,7 +157,23 @@
       "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
+      "album": {
+        "name": "One Two Punch (from the Netflix Film \"Nimona\")",
+        "url": "https://open.spotify.com/album/57dCpxS30H85Kc6XhVN6da"
+      },
+      "artists": [
+        {
+          "name": "Jessica Boudreaux",
+          "url": "https://open.spotify.com/artist/3jlRFxFUvKIu1npXwbWwTL"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "One Two Punch (from the Netflix Film \"Nimona\")",
+      "url": "https://open.spotify.com/track/0FiLixhwCJtVLYBl9eKtRS"
+    },
+    {
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4Yxw255m6kcWKl1ZNcvpCE"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/7LqYxAzdPuBW88PPCbKhFM"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/6Fecp5QEDVkxt0MifClNXT"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/2BcEGlaAf25eAauAJAH4b5"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/4guKCLJUltWGWaLPwwlJCQ"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/2XJdEszPVXJWkDBAsT4m5c"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2ceZ4oaF08Ie4gRHHbxzpL"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/5ZT6eES6620s1A2wWWrsPq"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/3Vqny7GvmXcDJa2KzCiENB"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1bGcUR2XpvlY8jk2R33CXA"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/46xm0f5C1uzy3s847b4fXF"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/775QBeXjIT1aGwbFCTb6gX"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/07M50gccwevAJAbMO6gnYi"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/0QJVepDX4YlVM4ncUTDsEd"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/4YDhlNiW3ze7Cm5M8gV1dK"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/4kOpFj6zFdHVYyezCvBLhd"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/7rXCGnji8UU0RHbWoNJ0Oe"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/1iM4M7idpri4BSgc8JbfIm"
     },
     {
-      "added_at": "2023-06-30 07:00:00",
+      "added_at": "2023-07-11 22:46:04",
       "album": {
         "name": "Nimona (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"

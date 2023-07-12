@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Dominic Fike",
-  "num_followers": 545188,
+  "num_followers": 545206,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTAxZGY0YzU5MmRkYTRmYWI1ODY1NGI3OWRlMDI2ZWFjZDdiNGUz",
+  "snapshot_id": "MCwxYzFhNWNkNTdlMTMyN2EyNWYzNmYzYmVkZmMyMTc4YWQ5MGJjNzYw",
   "tracks": [
     {
       "added_at": "2023-07-06 23:00:00",
@@ -555,7 +555,7 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Asking (feat. Clementine Douglas)",
+        "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
       "artists": [
@@ -573,7 +573,7 @@
         }
       ],
       "duration_ms": 191590,
-      "name": "Asking (feat. Clementine Douglas)",
+      "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
     },
     {
@@ -861,7 +861,7 @@
         }
       ],
       "duration_ms": 179416,
-      "name": "Hell of a Ride",
+      "name": "Hell Of A Ride",
       "url": "https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK"
     },
     {

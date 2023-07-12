@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,089 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,128 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Bloom](https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8) | [Big Stuff](https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3) | [Bloom](https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c) | 3:16 |
 | 100 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 |
 
-Snapshot ID: `MCw1MTRlMmZlYzM4NjgwOTg5MDE2OGJkN2I2NDRjMmM5YTE3YjFiNGY4`
+Snapshot ID: `MCxhM2Y3M2YyOGQ5NTk2MWYxMzgzZTg1NTQ0OTg4NGNhZjUyNmY4N2Nk`

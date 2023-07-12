@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6105,
+  "num_followers": 6107,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzIzNyxiZjRmODljNDJlOTcwM2VlYzQzOTIwNDExYmQwYTkwYmY1NmI1ZGFl",
+  "snapshot_id": "NzIzOSxhYjg5MzdmY2VlNGQxYmE3ZjRmNjVjNmQ0MjU0NGVjZWZiOGYxZjk4",
   "tracks": [
     {
       "added_at": "2023-06-30 08:07:27",
@@ -331,6 +331,30 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "added_at": "2023-07-11 17:12:12",
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/4nfqxakn4xBpi2okK9tYFD"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Kartel",
+          "url": "https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP"
+        },
+        {
+          "name": "Chris Ultranova",
+          "url": "https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo"
+        },
+        {
+          "name": "IVI",
+          "url": "https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5YyE8hv3r3AvLy0mRgkWJZ"
     },
     {
       "added_at": "2023-06-09 14:46:58",

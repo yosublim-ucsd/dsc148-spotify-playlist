@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,323 songs - 2 day 19 hr 59 min
+1,324 songs - 2 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Fuck Off](https://open.spotify.com/track/3kB6mWr36IETKr8NQkANwD) | [Milion Plus](https://open.spotify.com/artist/5nnHdjcmMZ0uDgAauJQyFE), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC) | [Krtek Forever](https://open.spotify.com/album/1keVt8iUKPMJcKLHL07Oql) | 3:06 | 2023-06-10 | 2023-06-25 |
 | [FUEGO MÁ ICE](https://open.spotify.com/track/3LUoRqFHM5nvKTvWpQ7F5D) | [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ) | [EP02](https://open.spotify.com/album/4qHPcgkis6814KM8okBTrn) | 2:07 | 2021-11-24 | 2021-11-25 |
 | [Fukk stress](https://open.spotify.com/track/2CwuGWDM4RwBRAx3MfbDeG) | [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq) | [Slovenský Hollywood](https://open.spotify.com/album/2OdkcYq1vixt804yGMTGYm) | 2:39 | 2021-05-25 | 2021-05-26 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-11 |  |
 | [FULL SPEED](https://open.spotify.com/track/4vsMu2B4Q6bSrx0mRzDcn3) | [Majk Spirit](https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG), [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG), [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq) | [FULL SPEED](https://open.spotify.com/album/5857PyIiAVWPpxEdK235VX) | 3:02 | 2023-04-29 | 2023-05-01 |
 | [FULL SPEED](https://open.spotify.com/track/3aHtnf1xvAf6022h1MTeK0) | [Majk Spirit](https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG), [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq), [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG) | [PLAYLIST](https://open.spotify.com/album/1S3CjlWzLMHnn4zLKb2JQU) | 3:02 | 2023-05-06 | 2023-05-19 |
 | [FVCK FORBES](https://open.spotify.com/track/1Ftq1ztIsGuf9Fyw4wOXkj) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:00 | 2022-02-26 | 2022-03-01 |
@@ -790,7 +791,7 @@
 | [Nie](https://open.spotify.com/track/5GAJtxlAJsTlyzHDVzipzA) | [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D) | [HUHU](https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO) | 3:25 | 2021-12-12 | 2022-01-08 |
 | [Nikdy Už Nebudu Ok](https://open.spotify.com/track/6CooPKfANsm7t59rG4FLn5) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Labello](https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt), [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [Kruhy & Vlny \(217 Twins Edition\)](https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK) | 4:07 | 2023-04-08 | 2023-04-10 |
 | [Nikdy zpátky](https://open.spotify.com/track/6ScVgwOdJw5ROQJZfgKp4c) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 2:54 | 2023-02-21 | 2023-02-23 |
-| [Nič sa nemení](https://open.spotify.com/track/0NJQHng8dKNfJfOktO9XgF) | [Kali](https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC), [I.M.T\. Smile](https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl) | [Nič sa nemení](https://open.spotify.com/album/0DkHUkuZzumRWdPHPVku3d) | 3:26 | 2023-06-26 |  |
+| [Nič sa nemení](https://open.spotify.com/track/0NJQHng8dKNfJfOktO9XgF) | [Kali](https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC), [I.M.T\. Smile](https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl) | [Nič sa nemení](https://open.spotify.com/album/0DkHUkuZzumRWdPHPVku3d) | 3:26 | 2023-06-26 | 2023-07-12 |
 | [NNN ZLO](https://open.spotify.com/track/3NwkWJnB1BX47f3rHLOR7P) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Kruhy & Vlny](https://open.spotify.com/album/5oBkt45ptHRcJOp8xPpw1L) | 3:18 | 2022-11-18 | 2022-11-24 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [No Hands](https://open.spotify.com/track/1gg4RBSGvCOvxpajAulLa0) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:42 | 2021-11-20 | 2021-12-03 |

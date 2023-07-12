@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: PENOMECO(\ud398\ub178\uba54\ucf54)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Blase, Lee young Ji(\ube14\ub77c\uc138 & \uc774\uc601\uc9c0)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 198687,
       "name": "BANG & SPIT (feat. Kid Milli)",
       "url": "https://open.spotify.com/track/71P3ICIS4cb8hI9ikD1Gop"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 252760,
       "name": "Diamonds (Feat. lIlBOI, Spray)",
       "url": "https://open.spotify.com/track/6KgkuACjbs8BCaGwwZt4Fj"
@@ -6454,6 +6454,28 @@
       "duration_ms": 123428,
       "name": "DO NOT UNDERSTAND",
       "url": "https://open.spotify.com/track/03j6nEMDheUeVZsE3ddtjZ"
+    },
+    {
+      "album": {
+        "name": "DO WHAT MOVES YOU",
+        "url": "https://open.spotify.com/album/3MaLv0d5hgUDPSNork5zJ4"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "DO WHAT MOVES YOU",
+      "url": "https://open.spotify.com/track/3xz8SHm92SMqRVg48aNPwE"
     },
     {
       "album": {
@@ -6789,6 +6811,28 @@
     },
     {
       "album": {
+        "name": "Drop It (Feat. Lee Young Ji)",
+        "url": "https://open.spotify.com/album/3x9tr24YJzMIrdMALODKxX"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159800,
+      "name": "Drop It (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/6aqS0goA2itXCYa4Jq1wnY"
+    },
+    {
+      "album": {
         "name": "The Chosen One",
         "url": "https://open.spotify.com/album/2XqzoNrL9ujTlnWEXwtFyd"
       },
@@ -6986,6 +7030,24 @@
       "duration_ms": 211946,
       "name": "Easty (feat. SIKBOY)",
       "url": "https://open.spotify.com/track/2kYlW8qACexDCChjiCmaFC"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1bKEk8d6NlO1twrcneMvw5"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314634,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/4thopfiFNea6D31uMXsmRv"
     },
     {
       "album": {
@@ -8718,7 +8780,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 225789,
       "name": "GOD GOD GOD",
       "url": "https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep"
@@ -22046,7 +22108,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 287299,
       "name": "Top Tier (Feat. Northfacegawd, Paloalto)",
       "url": "https://open.spotify.com/track/0XPa70YFQDCgTxJnx1brPB"
@@ -23874,7 +23936,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 147906,
       "name": "WHAT",
       "url": "https://open.spotify.com/track/0PnKsGNKY7CFdqlM7qV7uB"

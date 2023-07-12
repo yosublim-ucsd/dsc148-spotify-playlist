@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ツチヤカレン
 
-3,791 songs - 9 day 15 hr 5 min
+3,792 songs - 9 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1186,7 +1186,8 @@
 | [metallic monitor](https://open.spotify.com/track/60O267MguaelKnu5HMneRT) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn) | [metallic monitor](https://open.spotify.com/album/0yfv3BErZUaLnW9fbZpwRd) | 2:46 | 2021-11-03 | 2021-11-16 |
 | [Meteora\(Remastered 2022\)](https://open.spotify.com/track/2J3yjr3LfNHMiNfTIKnsnm) | [SAPPY](https://open.spotify.com/artist/6UcrIIn2X8EUQaMP2nFN3R), [task](https://open.spotify.com/artist/1GPmMOBxmioWwg1886M0RU) | [Re:2020,煌めき](https://open.spotify.com/album/38Xrhsz1o5MWsiOkGit3N5) | 4:12 | 2022-01-31 | 2022-03-02 |
 | [Metro](https://open.spotify.com/track/7taibwvU4cNkjeB5rol4rp) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [TWØ](https://open.spotify.com/album/2pEXeGmIVAStlWdWOTXzWd) | 3:18 | 2022-05-30 | 2022-06-15 |
-| [metropolitan](https://open.spotify.com/track/0QgrmIV5JDGlZuhxnBu9Nl) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [metropolitan](https://open.spotify.com/album/0dsr6eRORfoixb1zQPJLiG) | 3:52 | 2023-07-10 |  |
+| [metropolitan](https://open.spotify.com/track/0QgrmIV5JDGlZuhxnBu9Nl) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [metropolitan](https://open.spotify.com/album/0dsr6eRORfoixb1zQPJLiG) | 3:52 | 2023-07-10 | 2023-07-12 |
+| [metropolitan](https://open.spotify.com/track/39Jw47Bt3gN54DFp1J8EUs) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [metropolitan](https://open.spotify.com/album/6iXxNgIey0X3u76kPxz2DV) | 3:52 | 2023-07-10 |  |
 | [Mezame](https://open.spotify.com/track/7Btt9OFkYkRoCkayiJNCBh) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [Mezame](https://open.spotify.com/album/3TwbG6gvYCQOKGUGtqqcX4) | 3:08 | 2021-10-09\* | 2021-10-20 |
 | [Miami No Shima \(Kakuu\)](https://open.spotify.com/track/6DoNrxNGA1Dju2WPzG9FLr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [aoi12sai](https://open.spotify.com/artist/3dKz4ajPTXz5cBrcMNio6t) | [Miami No Shima \(Kakuu\)](https://open.spotify.com/album/0lFCiZ6zFLrOvqZMXWOnE2) | 3:22 | 2022-09-05 | 2022-09-20 |
 | [Michael Mann](https://open.spotify.com/track/4jq0Xk5OSi22HpG8gaVy63) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Michael Mann](https://open.spotify.com/album/1Pd279AVlduDEAkk8Pagvm) | 5:28 | 2022-10-17 | 2022-10-25 |

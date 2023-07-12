@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Beat \u0628\u062a\u0645\u0627\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644",
+        "url": "https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247093,
+      "name": "Beat \u0628\u062a\u0645\u0627\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644",
+      "url": "https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/3tqAPIuaO8FlN1PyZHbvy0"
       },
@@ -5330,7 +5348,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 237600,
       "name": "\u0628\u062d\u0628\u0643 \u0648 \u062e\u0627\u064a\u0641",
       "url": "https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr"
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-12",
       "duration_ms": 250609,
       "name": "\u0644\u0648 \u0627\u0644\u062a\u0642\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/4vlYaiaaw0htdoI3HXVP0P"
@@ -5808,6 +5826,24 @@
       "duration_ms": 339591,
       "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
       "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+        "url": "https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+      "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"
     },
     {
       "album": {
